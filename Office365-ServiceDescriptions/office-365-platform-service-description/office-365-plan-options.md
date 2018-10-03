@@ -17,12 +17,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。
-ms.openlocfilehash: fbfb6d712ca28f4f7839baef090a0786c4cb437a
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ddb665c12ddb1b8b7e0b6e5a7aae9599145a9d39
+ms.sourcegitcommit: 1544ec1e67bc1e56e89d5ec56cafb94d2eb51e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035317"
+ms.lasthandoff: 10/02/2018
+ms.locfileid: "25358650"
 ---
 # <a name="office-365-plan-options"></a>Office 365 方案選項
 
@@ -56,7 +56,7 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。
 |Exchange Online  <br/> |Yes<sup>6</sup> <br/> |否  <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>7</sup> <br/> |是<sup>7</sup> <br/> |Yes<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |商務用 OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>5</sup> <br/> |
-|商務用 Skype Online  <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>13</sup> <br/> |Yes<sup>14</sup> <br/> |
+|Skype for Business 線上<sup>15</sup> <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>13</sup> <br/> |Yes<sup>14</sup> <br/> |
 |Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 應用程式  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Project Online  <br/> |無<sup>1</sup> <br/> |否  <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |無<sup>1</sup> <br/> |
@@ -71,6 +71,7 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。
 <br/><sup>9</sup> 包含 Exchange Online Kiosk。 > 
 <br/><sup>10</sup> 包含商務用 Skype Online Plan 2 與基本用戶端限制。 > <br/><sup>11</sup> 包含商務用 Skype Online Plan 2 且沒有任何用戶端限制。 > <br/><sup>12</sup> 包含商務用 Skype Online Plan 1 加上附加功能。 > <br/><sup>13</sup> 包含商務用 Skype Online Plan 2 與語音支援，且沒有任何用戶端限制。 > 
 <br/><sup>14</sup> 包含商務用 Skype Online Plan 1。 
+<br><sup>15</sup>的 Microsoft 小組現在是主要的用戶端訊息、 會議和 Office 365 中呼叫的。啟動 2018 年 10 月 1 新的 Office 365 客戶 500 基座或更少會 onboarded 至 Microsoft 小組而且將不會進行商務 Online 有 Skype 存取。租用戶的已在使用 Skype for Business 線上將能夠繼續這麼做可以 （包括佈建的新使用者） 直到完成其轉換到 Microsoft 小組。
   
 #### <a name="basic-client-limitations"></a>基本用戶端限制
 

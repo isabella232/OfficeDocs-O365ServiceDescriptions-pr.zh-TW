@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 尋找適用於 Office 365 企業版方案及獨立方案的 SharePoint Online 限制。
-ms.openlocfilehash: af1916877f6da46af61034706d036125ba73d935
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 08d7319364ea39107fbe957f857b3df7f5d8866c
+ms.sourcegitcommit: fd9ad844e1812a80f28b9c0119519b0c5ad03004
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035242"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25359589"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 限制
 
@@ -41,7 +41,7 @@ ms.locfileid: "24035242"
 ||||
 |:-----|:-----|:-----|
 |**功能** <br/> |**SharePoint Online 方案 1** <br/> |**SharePoint Online 方案 2** <br/> |
-|儲存體<sup>1、2</sup> <br/> |每個組織 1 TB，加上每個購買授權 0.5 GB<sup>3</sup> <br/> |每個組織 1 TB，加上每個購買授權 0.5 GB<sup>3</sup> <br/> |
+|儲存體<sup>1、2</sup> <br/> |組織每 1 TB 加上 10 GB 每個授權購買<sup>3</sup> <br/> |組織每 1 TB 加上 10 GB 每個授權購買<sup>3</sup> <br/> |
 |存放區中的字詞數  <br/> |200,000  <br/> |200,000  <br/> |
 |網站集合儲存體  <br/> |每個網站集合或群組最多 25 TB<sup>4</sup> <br/> |每個網站集合或群組最多 25 TB<sup>4</sup> <br/> |
 |每位租用戶的網站集合數  <br/> |每個組織 500,000 個<sup>5</sup> <br/> |每個組織 500,000 個<sup>5</sup> <br/> |
