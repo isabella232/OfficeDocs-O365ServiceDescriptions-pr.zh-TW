@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (先前稱為 Excel Web App) Microsoft Excel 將您功能延伸至網頁瀏覽器，讓您可以使用活頁簿儲存活頁簿的網站上直接。所有的 Office 365 客戶可以檢視和限制性編輯 Office 檔案使用 Office Online。
-ms.openlocfilehash: daff8cabad339eec8d46703e4e081d607ec90fd5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 1cf8b3f9144a940b2e79958455c08fee2d1e7365
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035294"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362898"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -57,7 +57,7 @@ Excel Online (先前稱為 Excel Web App) Microsoft Excel 將您功能延伸至�
 ## <a name="apply-data-validation-to-cells"></a>將資料驗證套用至儲存格
 <a name="bkmk_Applydatavalidationtocells"> </a>
 
-不適用於 Excel Online。僅 Excel 桌面應用程式提供進階功能 (如：資料驗證)。但是，您可以在已啟用資料驗證的 Excel Online 中進行檢視和互動。進一步了解[在 Excel 2013 中將資料驗證套用至儲存格](https://go.microsoft.com/fwlink/p/?LinkId=282328)。
+在 Excel Online 中使用此功能。其他進階的功能只可 Excel 桌面應用程式中。
   
 ## <a name="apply-smartrecommended-formatting"></a>套用智慧/建議的格式
 <a name="bkmk_Applysmartformatting"> </a>

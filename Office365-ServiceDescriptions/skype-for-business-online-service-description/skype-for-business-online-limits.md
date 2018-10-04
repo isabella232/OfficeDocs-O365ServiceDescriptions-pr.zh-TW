@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype 商務 online 中的限制屬於下列類別：
-ms.openlocfilehash: 5b57270db1110d9d66624f975b049e2b47143bc7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035287"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362878"
 ---
 # <a name="skype-for-business-online-limits"></a>商務用 Skype Online 限制
 
@@ -127,11 +127,11 @@ Skype 商務 online 中的限制屬於下列類別：
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**商務用 Skype Server 2015** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 F1** <br/> |
-|會議內容保留：單次會議  <br/> |可設定<sup>1</sup> <br/> |15 天  <br/> |15 天  <br/> |15 天  <br/> |15 天  <br/> |不適用  <br/> |
-|會議內容保留：週期性會議  <br/> |可設定<sup>1</sup> <br/> |15 天  <br/> |15 天  <br/> |15 天  <br/> |15 天  <br/> |不適用  <br/> |
+|會議內容保留：單次會議  <br/> |可設定<sup>1</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不適用  <br/> |
+|會議內容保留：週期性會議  <br/> |可設定<sup>1</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不適用  <br/> |
 |會議內容保留：立即開會會議  <br/> |可設定<sup>1</sup> <br/> |8 小時  <br/> |8 小時  <br/> |8 小時  <br/> |8 小時  <br/> |不適用  <br/> |
 |會議到期：單次會議  <br/> |結束日期加上 365 天<sup>2</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不適用  <br/> |
-|會議到期：週期性會議  <br/> |具有結束日期：結束日期加上 365 天<sup>2</sup> <br/> 沒有結束日期：上次會議加上 6 個月<sup>3</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不適用  <br/> |
+|會議到期：週期性會議  <br/> |具有結束日期：結束日期加上 365 天<sup>2</sup> <br/> 沒有結束日期： 一律可以存取如果更新 1/3<sup>3</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不適用  <br/> |
 |會議到期：立即開會會議  <br/> |8 小時  <br/> | 8 小時  <br/> |8 小時  <br/> |8 小時  <br/> |8 小時  <br/> |不適用  <br/> |
    
 > [!NOTE]
@@ -145,11 +145,11 @@ Skype 商務 online 中的限制屬於下列類別：
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**商務用 Skype Server 2015** <br/> |**商務用 Skype Online 獨立計劃 1** <br/> |**商務用 Skype Online 獨立計劃 2** <br/> |
-|會議內容保留：單次會議  <br/> |可設定<sup>1</sup> <br/> |不適用  <br/> |15 天  <br/> |
-|會議內容保留：週期性會議  <br/> |可設定<sup>1</sup> <br/> |不適用  <br/> |15 天  <br/> |
+|會議內容保留：單次會議  <br/> |可設定<sup>1</sup> <br/> |不適用  <br/> |14 天  <br/> |
+|會議內容保留：週期性會議  <br/> |可設定<sup>1</sup> <br/> |不適用  <br/> |14 天  <br/> |
 |會議內容保留：立即開會會議  <br/> |可設定<sup>1</sup> <br/> |不適用  <br/> |8 小時  <br/> |
 |會議到期：單次會議  <br/> |結束日期加上 365 天<sup>2</sup> <br/> |不適用  <br/> |14 天  <br/> |
-|會議到期：週期性會議  <br/> |具有結束日期：結束日期加上 365 天<sup>2</sup> <br/> 沒有結束日期：上次會議加上 6 個月<sup>3</sup> <br/> |不適用  <br/> |14 天  <br/> |
+|會議到期：週期性會議  <br/> |具有結束日期：結束日期加上 365 天<sup>2</sup> <br/> 沒有結束日期： 一律可以存取如果更新 1/3<sup>3</sup> <br/> |不適用  <br/> |14 天  <br/> |
 |會議到期：立即開會會議  <br/> |8 小時  <br/> |不適用  <br/> |8 小時  <br/> |
    
 > [!NOTE]

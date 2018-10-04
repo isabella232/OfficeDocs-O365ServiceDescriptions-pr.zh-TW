@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德國會是跨 Europe 從已經可 Office 365 服務已區分] 選項。它可協助中心德國、 歐盟 （歐盟），以及由傳遞數位工時我們業界領導生產力服務德文資料從名為 European 自由貿易關聯 (EFTA) 中最規範客戶的需求，具有資料 residency 的地址德國和嚴格的資料存取和控制項中透過唯一資料者模型的量值控管德文 law 底下。
-ms.openlocfilehash: ee91b0d097693488895e022641e92705c9b82e43
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f027174c203f2f370c442b2efa5d4a3513607bb1
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035381"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362958"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -24,7 +24,7 @@ Office 365 德國會是跨 Europe 從已經可 Office 365 服務已區分] 選�
   
 資料信任者 T-Systems International (獨立德國公司) 和 Deutsche Telekom 子公司會控制客戶資料的實體和邏輯存取。非由資料信任者 (德國法律所規範) 核准或監督不得存取客戶資料。 
   
-由於 Office 365 Germany 的獨特性質，有某些功能尚未啟用。經過一段時間後，您將會看到全球服務提供的服務功能逐漸完整。如需包含內容以及如何取得支援的概觀，請參閱[深入了解 Office 365 Germany](https://support.office.com/en-us/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US)。
+根據此發展的客戶的需求，德國我們雲端策略都著重在連結的新雲端中的區域德國與我們全域雲端一致的傳遞提供。具有此焦點，我們將不會再接受新的客戶或部署中目前可用的 Microsoft Cloud 德國任何新的服務。現有的客戶可以繼續使用目前雲端服務今天，可用以我們將維護具有必要的安全性更新。[解 Office 365 德國](https://support.office.com/en-us/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US)。
   
 ## <a name="service-availability-for-each-plan"></a>每個方案可用的服務
 
@@ -85,7 +85,7 @@ Office 365 德國依循 Office 365 雲端安全性和規範標準。Office 365 �
 |Microsoft StaffHub<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft Sway<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft Teams  <br/> |沒有<sup>9</sup> <br/> |否  <br/> |沒有<sup>9</sup> <br/> |否  <br/> |沒有<sup>9</sup> <br/> |沒有<sup>9</sup> <br/> |沒有<sup>9</sup> <br/> |否  <br/> |
-|Office Delve<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|Office Delve<sup></sup> <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Office 365 群組  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 影片  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |**[使用者帳戶管理](user-account-management.md)** <br/> |**Office 365 Germany 商務基本版** <br/> |**Office 365 Germany 商務版** <br/> |**Office 365 Germany 商務進階版** <br/> |**Office 365 Germany 教育版 A1** <br/> |**Office 365 Germany 企業版 E1** <br/> |**Office 365 Germany 企業版 E3** <br/> |**Office 365 Germany 企業版 E4** <br/> |**Office 365 Germany 企業版 K1** <br/> |
@@ -799,7 +799,7 @@ Office 365 德國依循 Office 365 雲端安全性和規範標準。Office 365 �
 |[反惡意程式碼保護](../sharepoint-online-service-description/it-professional.md#anti-malware-protection) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[宣告式驗證支援](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |設定精靈 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|資料遺失防護 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|資料外洩防護 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |遞延網站集合升級 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[資料遺失防護](../sharepoint-online-service-description/it-professional.md#data-loss-prevention) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[靜態加密](../sharepoint-online-service-description/it-professional.md#encryption-at-rest) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |

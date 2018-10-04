@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 以回應美國公開的磁區的唯一與發展需求、 Microsoft 已建立 Office 365 美國政府計劃 (orOffice 365 美國政府)。本節提供 Office 365 美國政府特有的功能的概觀。建議您先閱讀本節補充與 Office 365 服務說明。
-ms.openlocfilehash: 8d91e3d43cddb1c0b0edbd6b76a36ab222b7e179
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 672a1548ea1c1e01c085fc0f70c927811f30d84c
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035312"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362908"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -133,7 +133,7 @@ Office 365 可將協力廠商的應用程式整合至 SharePoint Online 站台�
   
 ||||
 |:-----|:-----|:-----|
-|**背景檢測** <br/> |**GCC** <br/> |**GCC 高和 DoD** <br/> |
+|**背景檢測** <br/> |**GCC** <br/> |**GCC High 和 DoD** <br/> |
 |美國公民權驗證  <br/> |是  <br/> |是  <br/> |
 |工作經驗檢查  <br/> |是  <br/> |是  <br/> |
 |教育驗證  <br/> |是  <br/> |是  <br/> |
@@ -172,9 +172,9 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Office 365 服務** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府版 G3** <br/> |**Office 365 美國政府版 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
+|**Office 365 服務** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府 G3** <br/> |**Office 365 美國政府 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
 |Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 365 專業增強版  <br/> |否  <br/> |Yes<sup>3</sup> <br/> |Yes<sup>3</sup> <br/> |否  <br/> |
+|Office 365 專業增強版  <br/> |否 <br/> |是 <br/> |是 <br/> |否  <br/> |
 |Exchange Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online Protection  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |SharePoint Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -182,7 +182,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |Skype for Business (立即訊息&amp;平台服務)  <br/> |是<sup>1</sup> <br/> |是  <br/> |是  <br/> |是<sup>1</sup> <br/> |
 | 語音-電話系統音訊會議  <br/> |否<sup>2, 3</sup> <br/> |否<sup>2, 3</sup> <br/> |Yes <sup>3、 5 個</sup> <br/> |否  <br/> |
 |Power BI Pro  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |沒有<sup>2</sup> <br/> |
-|Project Online  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |
+|Microsoft Project Online  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |
 |Yammer Enterprise  <br/> |沒有<sup>4</sup> <br/> |沒有<sup>4</sup> <br/> |沒有<sup>4</sup> <br/> |沒有<sup>4</sup> <br/> |
    
 > <sup>1</sup>是可用的所有客戶的商業基本 Skype。商務桌面用戶端 Skype 是在本機上已安裝的應用程式提供顯示狀態、 立即訊息與會議功能內含 Skype 商務 Online 的 Office 365 計劃。Office 365 ProPlus、 G3，以及 G5 包括完整 Skype 應用程式，其中包含其他功能，例如進階電話語音支援、 封存、 和符合性功能。商務 Online 授權 Skype 必須被指派每位使用者。<br/><sup>2</sup>未包含，但是可以購買作為個別的附加元件。 
@@ -196,13 +196,13 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府版 G3** <br/> |**Office 365 美國政府版 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
+|**功能** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府 G3** <br/> |**Office 365 美國政府 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
 |**Office 365 管理** <br/> |||||
 |使用 Office 365 系統管理中心來管理 Office 365  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是  <br/> |是<sup>15</sup> <br/> |
 |從 Office 365 管理核心服務設定  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Windows PowerShell 管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 資訊保護 來保護內容  <br/> |無<sup>1</sup> <br/> |Yes<sup>9</sup> <br/> |是  <br/> |無<sup>1</sup> <br/> |
-|**[Office 365 套件功能](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府版 G3** <br/> |**Office 365 美國政府版 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
+|**[Office 365 套件功能](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府 G3** <br/> |**Office 365 美國政府 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
 |Microsoft Bookings  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft Flow  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |
 |Microsoft 表單  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |
@@ -217,7 +217,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |Office Delve  <br/> |Yes<sup>9、 15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |是  <br/> |Yes<sup>9、 15</sup> <br/> |
 |Office 365 群組  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 影片  <br/> |Yes<sup>9、 15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |否  <br/> |
-|**[使用者帳戶管理](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府版 G3** <br/> |**Office 365 美國政府版 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
+|**[使用者帳戶管理](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府 G3** <br/> |**Office 365 美國政府 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
 |雲端身分識別  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |同盟身分識別 (單一登入)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |多重要素驗證  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -235,16 +235,16 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |多個可用的管理員角色  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |允許合作夥伴代替您管理 Office 365  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |
 |Azure Active Directory 服務  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[網域](../../office-365-platform-service-description/domains.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府版 G3** <br/> |**Office 365 美國政府版 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
+|**[網域](../../office-365-platform-service-description/domains.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府 G3** <br/> |**Office 365 美國政府 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
 |新增自訂的第 2 層網域，如 fourthcoffee.com  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |新增自訂的第 3 層網域，如 marketing.fourthcoffee.com  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |最多可新增 900 個自訂網域  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自訂網域需要網域所有權驗證  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[服務健康狀況和持續性](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府版 G3** <br/> |**Office 365 美國政府版 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
+|**[服務健康狀況和持續性](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府 G3** <br/> |**Office 365 美國政府 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
 |可在 **[服務健康狀況]** 或 **[服務狀態]** 頁面上獲取狀態資訊  <br/> |Yes<sup>9、 15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |
 |可在 Office 365 系統管理中心儀表板上獲取個別警示狀態  <br/> |Yes<sup>9、 15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |
 |**服務健康狀況** RSS 摘要  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[報告](../../office-365-platform-service-description/reports.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府版 G3** <br/> |**Office 365 美國政府版 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
+|**[報告](../../office-365-platform-service-description/reports.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府 G3** <br/> |**Office 365 美國政府 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
 |使用中和非使用中的信箱  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |新增和已刪除的信箱  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |新的和已刪除的群組  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
@@ -269,19 +269,19 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |使用的瀏覽器  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |使用的作業系統  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |使用 Office 365 報表 Web 服務，建立自己的報表  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
-|**[服務更新](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府版 G3** <br/> |**Office 365 美國政府版 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
+|**[服務更新](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府 G3** <br/> |**Office 365 美國政府 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
 |提供給所有客戶的定期更新  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |需要採取 行動時， 將通知傳送給 「訊息中心」  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |Roadmap.office.com 的一些服務 更新  <br/> |沒有<sup>10、 13</sup> <br/> |沒有<sup>10、 13</sup> <br/> |沒有<sup>10、 13</sup> <br/> |沒有<sup>10、 13</sup> <br/> |
 |若要開啟選取的目標版本] 選項  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |
-|**[說明和訓練](../../office-365-platform-service-description/help-and-training.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府版 G3** <br/> |**Office 365 美國政府版 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
+|**[說明和訓練](../../office-365-platform-service-description/help-and-training.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府 G3** <br/> |**Office 365 美國政府 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
 |線上說明  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |社群  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |其他自助資源  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自訂進度訓練  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[網路功能](../../office-365-platform-service-description/networking.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府版 G3** <br/> |**Office 365 美國政府版 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
+|**[網路功能](../../office-365-platform-service-description/networking.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府 G3** <br/> |**Office 365 美國政府 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
 |IPv4 和 IPv6 通訊協定  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**信任** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府版 G3** <br/> |**Office 365 美國政府版 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
+|**信任** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府 G3** <br/> |**Office 365 美國政府 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
 |**[隱私權、安全性和透明化](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |進階資料管理  <br/> |沒有<sup>12、 15</sup> <br/> |沒有<sup>12、 15</sup> <br/> |是<sup>15</sup> <br/> |沒有<sup>12、 15</sup> <br/> |
 |雲端應用程式安全性  <br/> |沒有<sup>11、 12</sup> <br/> |沒有<sup>11、 12</sup> <br/> |Yes<sup>11</sup> <br/> |沒有<sup>11、 12</sup> <br/> |
@@ -291,7 +291,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |安全分數<sup>14</sup> <br/> |Yes<sup>9、 15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |
 |Office 郵件加密  <br/> |否  <br/> |Yes<sup>9、 15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |否  <br/> |
 |威脅情報  <br/> |沒有<sup>12、 15</sup> <br/> |沒有<sup>12、 15</sup> <br/> |是<sup>15</sup> <br/> |沒有<sup>12、 15</sup> <br/> |
-|**[符合性 [ServiceDesc]](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
+|**[合規性[ServiceDesc]](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
 |SAS 70 / SSAE16 評估  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 認證  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |歐盟示範條款  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -302,7 +302,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |PCI DSS 最高等級  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |PCI 規範 PAN 資料  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[服務連續性](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[BlackBerry](../../office-365-platform-service-description/blackberry.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府版 G3** <br/> |**Office 365 美國政府版 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
+|**[BlackBerry](../../office-365-platform-service-description/blackberry.md)** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府 G3** <br/> |**Office 365 美國政府 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
 |使用 BlackBerry Internet Service (BIS)  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |
 |**[協力程式](../../office-365-platform-service-description/partners.md)** <br/> |||||
 |針對正在使用指定計劃的客戶建立試用邀請和購買訂單  <br/> |沒有<sup>11</sup> <br/> |沒有<sup>11</sup> <br/> |沒有<sup>11</sup> <br/> |沒有<sup>11</sup> <br/> |
@@ -327,7 +327,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府版 G3** <br/> |**Office 365 美國政府版 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
+|**功能** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府 G3** <br/> |**Office 365 美國政府 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
 |**Office 應用程式** <br/> |||||
 |[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word) <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
@@ -342,8 +342,8 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |[適用於 Windows Phone 手機的 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |[適用於 Windows Phone 手機的 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
-|Outlook for iOS 和 Android  <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |
-|**企業價值** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府版 G3** <br/> |**Office 365 美國政府版 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
+|IOS 及 Android<sup>5</sup>的 outlook  <br/> |是 <br/> |是 <br/> |是 <br/> |是 <br/> |
+|**企業價值** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府 G3** <br/> |**Office 365 美國政府 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
 |每個使用者可同時在 5 部 PC 或 Mac 上安裝  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |自動化使用者帳戶的佈建  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |多種語系使用者介面  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
@@ -377,6 +377,6 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
    
 > <sup>1</sup> azure 資訊保護未包含在內，但是可以購買作為個別的附加元件與將會啟用支援的資訊版權管理 (IRM) 功能。一些 Azure 資訊保護功能需要訂閱即可 Office 365 ProPlus，此做法便不包含在 Office 365 美國政府版 G1 或 Office 365 美國政府 f1 鍵。<br/><sup>2</sup> Windows Server AD RMS 是內部部署伺服器必須是個別採購並管理啟用支援的 IRM 功能。 
 <br/><sup>3</sup>的商業基本 Skype 是可用的所有客戶。商務桌面用戶端 Skype 是在本機上已安裝的應用程式提供顯示狀態、 立即訊息與會議功能內含 Skype 商務 Online 的 Office 365 計劃。Office 365 ProPlus 和 Office 365 企業版 E3 包含完整 Skype 應用程式，其中包含其他功能，例如進階電話語音支援、 封存、 和符合性功能。商務 Online 授權 Skype 必須被指派每位使用者。如需有關 Lync Basic 功能的詳細資訊，請參閱[Skype for Business Online 用戶端比較表](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)。<br/><sup>4</sup>尚無法使用 GCC 高或 DoD 環境中，但即將推出。
-<br/><sup>5</sup>尚無法使用在 Office 365 美國政府，但即將推出。 
+<br/><sup>5</sup>請參閱[使用 Outlook iOS 及 Android 政府社群雲端中的](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)如需詳細資訊。
   
 [如何使用此「服務說明」一節](office-365-us-government.md#how-to-use-this-service-description-section)

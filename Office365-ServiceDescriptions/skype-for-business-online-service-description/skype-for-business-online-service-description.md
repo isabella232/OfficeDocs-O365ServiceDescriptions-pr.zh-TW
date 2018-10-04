@@ -15,14 +15,20 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 您是否要知道您需要購買來取得特定 Skype 的商務功能何種授權？請參閱 Skype for Business 授權概觀。
-ms.openlocfilehash: c1503762e792183a38b5f63e07c10889914f35df
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4b25d8b5b67e2c53acdb76530c15c16ea945f074
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035301"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362928"
 ---
 # <a name="skype-for-business-online-service-description"></a>商務用 Skype Online 服務說明
+
+> [!NOTE]
+> Microsoft 小組現在是主要的用戶端訊息、 會議和 Office 365 中呼叫的。啟動 2018 年 10 月 1 新的 Office 365 客戶 500 基座或更少會 onboarded 至 Microsoft 小組而且將不會進行商務 Online 有 Skype 存取。租用戶的已在使用 Skype for Business 線上將能夠繼續這麼做可以 （包括佈建的新使用者） 直到完成其轉換到 Microsoft 小組。
+
+> [!NOTE]
+> Skype for Business Online 計劃 1 是被淘汰從銷售年 10 月 10。這表示您也不會再能夠 for Business Online 計劃 1，取得 Skype 的立即訊息、 目前狀態和對等語音和視訊。這些功能會繼續才支援在所有 Office 365 提供包含小組，包括 Office 365 f1 鍵。當您計劃過期結尾處的您目前的字詞時，以具備繼續存取這些功能，您必須切換至不同的計劃。我們建議您評估目前有 Skype 商務指派 Online 計劃 1 使用者的 Office 365 F1 計劃。 
 
  **您是否要知道您需要購買來取得特定 Skype 的商務功能何種授權？請參閱[Skype for Business 授權概觀](https://go.microsoft.com/fwlink/?LinkID=799524)。**
   
