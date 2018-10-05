@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德國會是跨 Europe 從已經可 Office 365 服務已區分] 選項。它可協助中心德國、 歐盟 （歐盟），以及由傳遞數位工時我們業界領導生產力服務德文資料從名為 European 自由貿易關聯 (EFTA) 中最規範客戶的需求，具有資料 residency 的地址德國和嚴格的資料存取和控制項中透過唯一資料者模型的量值控管德文 law 底下。
-ms.openlocfilehash: f027174c203f2f370c442b2efa5d4a3513607bb1
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 1b3de84245762fafed85ed1e37fc03207e51766d
+ms.sourcegitcommit: 88bc607a51846db46509c4453c3438406f3f2f54
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362958"
+ms.lasthandoff: 10/04/2018
+ms.locfileid: "25407686"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -79,12 +79,12 @@ Office 365 德國依循 Office 365 雲端安全性和規範標準。Office 365 �
 |Microsoft Bookings  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft Flow  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft 表單  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Microsoft MyAnalytics<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Microsoft Planner<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|Microsoft MyAnalytics <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|Microsoft Planner <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft PowerApps  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Microsoft StaffHub<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Microsoft Sway<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Microsoft Teams  <br/> |沒有<sup>9</sup> <br/> |否  <br/> |沒有<sup>9</sup> <br/> |否  <br/> |沒有<sup>9</sup> <br/> |沒有<sup>9</sup> <br/> |沒有<sup>9</sup> <br/> |否  <br/> |
+|Microsoft StaffHub <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|Microsoft Sway <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|Microsoft Teams  <br/> |否 <br/> |否  <br/> |否 <br/> |否  <br/> |否<br/> |否 <br/> |否 <br/> |否  <br/> |
 |Office Delve<sup></sup> <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Office 365 群組  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 影片  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
@@ -101,7 +101,7 @@ Office 365 德國依循 Office 365 雲端安全性和規範標準。Office 365 �
 |多個可用的管理員角色  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |允許合作夥伴代替您管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Azure Active Directory 服務  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|建立應用程式密碼<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|建立應用程式密碼<br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[網域](domains.md)** <br/> |**Office 365 Germany 商務基本版** <br/> |**Office 365 Germany 商務版** <br/> |**Office 365 Germany 商務進階版** <br/> |**Office 365 Germany 教育版 A1** <br/> |**Office 365 Germany 企業版 E1** <br/> |**Office 365 Germany 企業版 E3** <br/> |**Office 365 Germany 企業版 E4** <br/> |**Office 365 Germany 企業版 K1** <br/> |
 |新增自訂的第 2 層網域，如 fourthcoffee.de  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |新增自訂的第 3 層網域，如 marketing.fourthcoffee.de  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -160,7 +160,7 @@ Office 365 德國依循 Office 365 雲端安全性和規範標準。Office 365 �
 |進階威脅防護  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |Customer Lockbox  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |Office 365 進階 eDiscovery  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|安全分數<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|安全的分數 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[Compliance[ServiceDesc]](compliance-servicedesc.md)**<sup>10</sup> <br/> |||||||||
 |SAS 70 / SSAE16 評估  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 認證  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -265,7 +265,8 @@ Office 365 德國依循 Office 365 雲端安全性和規範標準。Office 365 �
 |[適用於 Windows Phone 手機的 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是  <br/> |是  <br/> |
 |[適用於 Windows Phone 手機的 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是  <br/> |是  <br/> |
 |Outlook for Android<sup>11</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |
-|**企業價值** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office 365 專業增強版** <br/> |
+|**企業價值** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |
+  **Office 365 專業增強版** <br/> |
 |每個使用者可同時在 5 部 PC 或 Mac 上安裝  <br/> |否  <br/> |是  <br/> |Yes<sup>8</sup> <br/> |
 |自動化使用者帳戶的佈建  <br/> |不適用  <br/> |是  <br/> |是  <br/> |
 |多種語系使用者介面  <br/> |是  <br/> |是  <br/> |是  <br/> |
