@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 以回應美國公開的磁區的唯一與發展需求、 Microsoft 已建立 Office 365 美國政府計劃 (orOffice 365 美國政府)。本節提供 Office 365 美國政府特有的功能的概觀。建議您先閱讀本節補充與 Office 365 服務說明。
-ms.openlocfilehash: 672a1548ea1c1e01c085fc0f70c927811f30d84c
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 9e67115b0d25e82613de02ba73613a71aa7d7a42
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362908"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435831"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -213,7 +213,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |Microsoft StaffHub  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |
 |Microsoft Stream  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |否  <br/> |
 |Microsoft Sway  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |
-|Microsoft Teams  <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>11</sup> <br/> |
+|Microsoft Teams  <br/> |Yes<sup>16</sup> <br/> |Yes<sup>16</sup> <br/> |Yes<sup>16</sup> <br/> |Yes<sup>16</sup> <br/> |
 |Office Delve  <br/> |Yes<sup>9、 15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |是  <br/> |Yes<sup>9、 15</sup> <br/> |
 |Office 365 群組  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 影片  <br/> |Yes<sup>9、 15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |否  <br/> |
@@ -317,6 +317,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 <br/><sup>第 11</sup>尚無法使用在 Office 365 美國政府版方案，但即將推出。 ><br/><sup>12</sup>不包含，但是可以購買作為個別的附加元件 GCC 中。 
 <br/><sup>13</sup>不支援的 Office 365 美國政府版方案。 
 <br/><sup>14</sup>位於[https://securescore.office.com](https://securescore.office.com)。需要系統管理員權限。如需詳細資訊，請參閱[簡介 Office 365 安全分數](https://go.microsoft.com/fwlink/?linkid=836894)。<br/><sup>15</sup> DoD 環境中，但即將推出尚無法使用。 
+<br><sup>16</sup>無法使用 GCC 高或 DoD 中。
   
 [如何使用此「服務說明」一節](office-365-us-government.md#how-to-use-this-service-description-section)
   
