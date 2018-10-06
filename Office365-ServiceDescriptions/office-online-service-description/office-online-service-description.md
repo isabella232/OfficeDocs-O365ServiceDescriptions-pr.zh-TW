@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Excel、 OneNote 和 PowerPoint 文件。Office Online 容易搭配使用和共用 Office 檔案從任何位置具有網際網路連線，從幾乎任何裝置。Word、 Excel、 OneNote、 或 PowerPoint 的 Microsoft Office 365 客戶可以檢視、 建立及編輯移上的檔案。
-ms.openlocfilehash: e3127ec7d65821ed45bf4c513d3715ee115d8714
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 23eb27211f6225ec0e6b70b3993356cec693adc9
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362868"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435821"
 ---
 # <a name="office-online-service-description"></a>Office Online 服務說明
 
@@ -119,24 +119,22 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 ||||
 |:-----|:-----|:-----|
 |**應用程式功能** <br/> |**Excel Online** <br/> |**Excel 桌面應用程式** <br/> |
+|[協助工具檢查程式](excel-online.md#add-hyperlinks) <br/> |是  <br/> |是  <br/> |
 |[新增超連結](excel-online.md#add-hyperlinks) <br/> |是  <br/> |是  <br/> |
 |[進階時間篩選 (時間表交叉分析篩選器)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |否  <br/> |是  <br/> |
 |[對齊](excel-online.md#alignment) <br/> |是  <br/> |是  <br/> |
-|[套用條件格式化設定](excel-online.md#apply-conditional-formatting) <br/> |否  <br/> |是  <br/> |
-|[將資料驗證套用至儲存格](excel-online.md#apply-data-validation-to-cells) <br/> |是  <br/> |是  <br/> |
+|[套用條件格式化設定](excel-online.md#apply-conditional-formatting) <br/> |是  <br/> |是  <br/> |
 |[套用智慧/建議的格式](excel-online.md#apply-smartrecommended-formatting) <br/> |否  <br/> |是  <br/> |
 |[音訊備註錄製](onenote-online.md#audio-notes-recording) <br/> |否  <br/> |是  <br/> |
 |[自動完成](excel-online.md#autocomplete) <br/> |是  <br/> |是  <br/> |
 |[自動加總](excel-online.md#autosum) <br/> |是  <br/> |是  <br/> |
 |[計算](excel-online.md#calculations) <br/> |是  <br/> |是  <br/> |
-|[圖表與表格 (包含樞紐分析圖和樞紐分析表)](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |是<sup>1, 2</sup> <br/> |是  <br/> |
-|[圖表動畫可隨新資料改變](excel-online.md#chart-animations-adapt-to-new-data) <br/> |否  <br/> |是  <br/> |
 |[建立註解](excel-online.md#comment-creation) <br/> |是  <br/> |是  <br/> |
 |[複製和貼上](excel-online.md#copy-and-paste) <br/> |是  <br/> |是  <br/> |
-|[建立外部資料連結](excel-online.md#create-external-data-connections) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |
+|[建立外部資料連線<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |
 |[建立表格](excel-online.md#create-tables) <br/> |是  <br/> |是  <br/> |
 |[建立進階分析檢視 (Power View、Power Pivot、交叉分析篩選器)](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |否  <br/> |是  <br/> |
-|[資料驗證](excel-online.md#data-validation) <br/> |是<sup>4</sup> <br/> |是  <br/> |
+|[資料驗證](excel-online.md#data-validation) <br/> |是 <br/> |是  <br/> |
 |[拖放儲存格](excel-online.md#drag-and-drop-cells) <br/> |是  <br/> |是  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |是  <br/> |是  <br/> |
 |[在網頁或部落格頁面 (OneDrive) 上嵌入活頁簿](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |是  <br/> |否  <br/> |
@@ -146,17 +144,20 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |[字體和儲存格格式化](excel-online.md#font-and-cell-formatting) <br/> |是  <br/> |是  <br/> |
 |[資料編輯列](excel-online.md#formula-bar) <br/> |是  <br/> |是  <br/> |
 |[公式工具 - 進階](excel-online.md#formula-tools--advanced) <br/> |否  <br/> |是  <br/> |
-|[凍結窗格](excel-online.md#freeze-panes) <br/> |沒有<sup>6</sup> <br/> |是  <br/> |
+|[凍結窗格](excel-online.md#freeze-panes) <br/> |是 <br/> |是  <br/> |
 |[高逼真讀取檢視](excel-online.md#full-fidelity-reading-view) <br/> |是  <br/> |是  <br/> |
 |[函數](excel-online.md#functions) <br/> |是  <br/> |是  <br/> |
 |[GoTo](excel-online.md#goto) <br/> |是  <br/> |是  <br/> |
 |[隱藏/取消隱藏列、欄和工作表](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |是  <br/> |是  <br/> |
+|[插入圖形/圖片](excel-online.md#insert-charts) <br/> |是  <br/> |是  <br/> |
 |[插入圖表](excel-online.md#insert-charts) <br/> |是  <br/> |是  <br/> |
 |[插入/刪除列和欄](excel-online.md#insertdelete-rows-and-columns) <br/> |是  <br/> |是  <br/> |
 |[合併儲存格](excel-online.md#merge-cells) <br/> |是  <br/> |是  <br/> |
 |[數字格式化](excel-online.md#number-formatting) <br/> |是  <br/> |是  <br/> |
-|[Office 增益集](excel-online.md#office-add-ins) <br/> |是<sup>7</sup> <br/> |是  <br/> |
+|[Office 增益集](excel-online.md#office-add-ins) <br/> |是 <br/> |是  <br/> |
 |[離線檢視和撰寫](excel-online.md#offline-viewing-and-authoring) <br/> |否  <br/> |是  <br/> |
+|[樞紐分析圖](excel-online.md#post-to-social-network-and-present-online) <br/> |是<sup>1</sup>  <br/> |是  <br/> |
+|[樞紐分析表](excel-online.md#post-to-social-network-and-present-online) <br/> |是  <br/> |是  <br/> |
 |[發佈到社交網路並於線上呈現](excel-online.md#post-to-social-network-and-present-online) <br/> |否  <br/> |是  <br/> |
 |[Power Pivot 檢視](excel-online.md#power-pivot-viewing) <br/> |是  <br/> |是  <br/> |
 |[Power View 檢視](excel-online.md#power-view-viewing) <br/> |是  <br/> |是  <br/> |
@@ -176,14 +177,15 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |[試算表審核和法規遵循](excel-online.md#spreadsheet-audit-and-compliance) <br/> |否  <br/> |是  <br/> |
 |[狀態列彙總](excel-online.md#status-bar-aggregates) <br/> |是  <br/> |是  <br/> |
 |[問卷調查](excel-online.md#surveys) <br/> |是  <br/> |否  <br/> |
-|[操作說明搜尋](excel-online.md#tell-me) <br/> |是  <br/> |否  <br/> |
+|[操作說明搜尋](excel-online.md#tell-me) <br/> |是  <br/> |是  <br/> |
 |[復原和取消復原](excel-online.md#undo-and-redo) <br/> |是  <br/> |是  <br/> |
-|[VBA 和巨集指令碼](excel-online.md#vba-and-macro-scripting) <br/> |是  <br/> |是  <br/> |
+|[VBA 和巨集指令碼](excel-online.md#vba-and-macro-scripting) <br/> |Yes<sup>3</sup>  <br/> |是  <br/> |
 |[檢視 3D 圖表](excel-online.md#view-3d-charts) <br/> |是  <br/> |是  <br/> |
 |[What if 分析工具](excel-online.md#what-if-analysis-tools) <br/> |否  <br/> |是  <br/> |
 
-> <sup>1</sup>不能建立樞紐分析圖或樞紐分析表，但是您可以檢視器中看到它們。 
- <br/><sup>2</sup>中大部分的情況下圖表、 表格、 樞紐分析圖報表及樞紐分析表報表出現按照它們在桌面的版本。例外狀況包括圖表、 依賴外部參考、 圖表及使用不支援的瀏覽器中檢視活頁簿的資料來源的圖表群組中的一部分的圖表。 <br/><sup>3</sup>根據您的環境的設定方式某些類型的資料連線支援 Excel Online 中顯示活頁簿。如需詳細資訊，請參閱[在瀏覽器視窗中的活頁簿中的 Refreshing 資料](https://go.microsoft.com/fwlink/?linkid=847468)。 <br/><sup>4</sup>使用而造成資料驗證的活頁簿可以編輯 Excel Online 中但不能設定而造成資料驗證 Excel Online 中。 
+> <sup>1</sup>不能建立樞紐分析圖、 僅供檢視。
+ <br/><sup>2</sup>根據您的環境的設定方式某些類型的資料連線支援 Excel Online 中顯示活頁簿。如需詳細資訊，請參閱在瀏覽器視窗中的活頁簿中的 Refreshing 資料。 <br/><sup>3</sup>您無法使用 Excel Online 中的 VBA 建立巨集，但是可以開啟和編輯已啟用 VBA 功能的試算表，而不移除 （或損毀） 檔案中所含的 VBA。
+ <br/><sup>4</sup>使用而造成資料驗證的活頁簿可以編輯 Excel Online 中但不能設定而造成資料驗證 Excel Online 中。 
  <br/><sup>5</sup>在 Excel Online 最後的已知的參照值會顯示在瀏覽器視窗中 ；不過，它必須更新使用 Excel 的桌面。 
  <br/>您可以檢視<sup>6</sup>凍結窗格透過 Excel 桌面應用程式，但您無法在 Excel Online 中建立凍結窗格。 
  <br/><sup>7</sup>一些，但並非所有 Office 增益集可用。 
