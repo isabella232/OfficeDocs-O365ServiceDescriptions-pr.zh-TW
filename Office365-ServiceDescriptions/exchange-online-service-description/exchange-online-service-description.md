@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您要尋找包含 Exchange Online 的 Office 365 訂閱的功能比較吗？若是如此，Exchange Online 服務說明文章會為您的需要。您也將會了解系統需求以及儲存空間和收件者的需求。
-ms.openlocfilehash: cf3d329ffa05998113e8e2c075cbc236b99fb413
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f0213330dbafe58a3f9b2a8164aab46d83ca9dfb
+ms.sourcegitcommit: 0588f7b5bcbebea9a4494025a4322f68afdd4271
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035461"
+ms.lasthandoff: 10/11/2018
+ms.locfileid: "25498049"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -158,7 +158,7 @@ Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsof
 |**[互通性、連線性和相容性](interoperability-connectivity-and-compatibility.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |商務用 Skype 在 OWA 和 Outlook 中的目前狀態  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |SharePoint 互通性  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|EWS 連線支援  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|EWS 連線支援  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |SMTP 轉送支援  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[Exchange Online 的安裝和管理](exchange-online-setup-and-administration.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |Microsoft Office 365 入口網站存取  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
