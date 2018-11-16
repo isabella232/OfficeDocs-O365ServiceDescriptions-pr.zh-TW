@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如果您正在尋找 Office 365 教育版方案之間的差異，本文將告訴您哪些功能都包含在這些項目的。Office 365 將熟悉的 Microsoft Office 桌面套件結合與雲端型版本的 Microsoft 的新一代通訊和共同作業服務 — 包括 Microsoft Exchange Online、 Microsoft SharePoint Online、 Office Online 並Microsoft Skype 商務 online — 可協助使用者提高工作效率從任何虛擬位置透過網際網路。
-ms.openlocfilehash: 90b530ae0188637d04b76396a9e1f46ca3478ccd
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f15586aae46fb964639fbc4602ab8353e7884f1b
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035361"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215398"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -157,7 +157,7 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如�
 |Office 365 進階的 eDiscovery<sup>7</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
 |安全分數<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |威脅情報  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|**[符合性 [ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
+|**[合規性[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
 |SAS 70 / SSAE16 評估  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 認證  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |歐盟示範條款  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -197,7 +197,7 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如�
 |[資料遺失防護](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[資料管理](https://go.microsoft.com/fwlink/?linkid=824871)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[進階資料控管](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
-|[搜尋和調查](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[搜尋和將正在調查]<br/> |是  <br/> |是  <br/> |是  <br/> |
 |[eDiscovery 搜尋](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[eDiscovery 匯出](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[進階 eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>4</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
@@ -332,7 +332,7 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如�
 |**[收件者](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |容量提醒  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |雜亂資料  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|寄件提醒  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|MailTips  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |委派存取  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |收件匣規則  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |連線的帳戶  <br/> |Yes<sup>5</sup> <br/> |Yes<sup>5</sup> <br/> |Yes<sup>5</sup> <br/> |

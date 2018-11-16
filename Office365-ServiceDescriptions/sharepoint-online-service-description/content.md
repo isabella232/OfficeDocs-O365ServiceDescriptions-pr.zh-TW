@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online 是一組 Web 式工具和技術，協助您的組織儲存、 分享和管理數位資訊。Microsoft SharePoint Server 2013 上為建置基礎，此裝載的服務適合在專案中工作、 儲存資料與文件集中的位置，並與他人共用資訊。下列內容功能可讓企業內容管理 (ECM) 輕鬆的任何人。它是傳統的內容管理、 社交功能和強大的搜尋的組合。
-ms.openlocfilehash: 4d091a912d90028be32269cc91692155b146e671
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 771806f7b65246a48e7549493f4c899617135a86
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035374"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215378"
 ---
-# <a name="content"></a>內容
+# <a name="content"></a>Content (內容)
 
 SharePoint Online 是一組 Web 式工具和技術，協助您的組織儲存、 分享和管理數位資訊。Microsoft SharePoint Server 2013 上為建置基礎，此裝載的服務適合在專案中工作、 儲存資料與文件集中的位置，並與他人共用資訊。下列內容功能可讓企業內容管理 (ECM) 輕鬆的任何人。它是傳統的內容管理、 社交功能和強大的搜尋的組合。
   
@@ -39,7 +39,7 @@ SharePoint Online 是一組 Web 式工具和技術，協助您的組織儲存、
 ## <a name="auditing"></a>稽核
 <a name="bkmk_Auditing"> </a>
 
-SharePoint Online 網站集合管理員可使用稽核功能來追蹤哪些使用者已對網站、內容類型、清單、文件庫、清單項目及網站集合的文件庫檔案執行哪些動作。深入了解[為網站集合設定音訊設定](https://go.microsoft.com/fwlink/?LinkId=270950)。
+SharePoint Online 網站集合管理員可以使用哪些使用者擁有採取的動作在網站、 內容類型、 清單、 文件庫、 清單項目及文件庫檔案的網站集合的稽核功能來追蹤。深入了解[網站集合的稽核設定](https://go.microsoft.com/fwlink/?LinkId=270950)。
   
 ## <a name="auditing-amp-reporting-eg-doc-edits-policy-edits-deletes"></a>稽核&amp;報告 （例如文件編輯、 原則編輯、 刪除）
 <a name="bkmk_AuditingReporting"> </a>
@@ -239,7 +239,7 @@ SharePoint 使用者擁有資源回收筒，其中儲存已刪除的內容。必
 ## <a name="wcm-search-engine-optimizations-seo"></a>WCM：Search Engine Optimizations (SEO)
 <a name="bkmk_WCMSearchEngineOptimizations"> </a>
 
-將公共網站最佳化以便搜尋，對於和新客戶及回訪客戶的聯繫非常重要。SharePoint Online 包括內建的 SEO 功能，例如可自訂的 robots.txt 及網頁層級的中繼標記功能，這些都可讓組織可輕鬆微調網站，以達到更好的搜尋結果。深入了解[使您的網站搜尋最佳化](https://go.microsoft.com/fwlink/?LinkId=270932)。
+最佳化搜尋公用網站是非常重要最新及傳回客戶的連線。SharePoint Online 包含內建的 SEO 功能，例如可自訂 robots.txt 和頁面層級 metatagging 讓組織可以輕易調整更好的搜尋結果的網站。
   
 ## <a name="word-automation-services"></a>Word Automation Services
 <a name="bkmk_WordAutomationServices"> </a>

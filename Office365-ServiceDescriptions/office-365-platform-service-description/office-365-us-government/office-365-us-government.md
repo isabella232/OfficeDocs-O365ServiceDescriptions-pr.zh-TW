@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 以回應美國公開的磁區的唯一與發展需求、 Microsoft 已建立 Office 365 美國政府計劃 (orOffice 365 美國政府)。本節提供 Office 365 美國政府特有的功能的概觀。建議您先閱讀本節補充與 Office 365 服務說明。
-ms.openlocfilehash: 84b961924968bd9be7c0590fa3deb43573aeb438
-ms.sourcegitcommit: 3edb9ce51fa18a32e7baf047140db70c4dced9b5
+ms.openlocfilehash: 6ec220c2db6ce437abd9dba20462e5b10a1752fc
+ms.sourcegitcommit: 64dcd8c58007efb116067eee6117a12a8a3301f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2018
-ms.locfileid: "25696138"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26293514"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -182,11 +182,10 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |Skype for Business (立即訊息&amp;平台服務)  <br/> |是<sup>1</sup> <br/> |是  <br/> |是  <br/> |是<sup>1</sup> <br/> |
 | 語音-電話系統音訊會議  <br/> |否<sup>2, 3</sup> <br/> |否<sup>2, 3</sup> <br/> |Yes <sup>3、 5 個</sup> <br/> |否  <br/> |
 |Power BI Pro  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |沒有<sup>2</sup> <br/> |
-|Project Online  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |
+|Microsoft Project Online  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |
 |Yammer Enterprise  <br/> |沒有<sup>4</sup> <br/> |沒有<sup>4</sup> <br/> |沒有<sup>4</sup> <br/> |沒有<sup>4</sup> <br/> |
    
-> <sup>1</sup>是可用的所有客戶的商業基本 Skype。商務桌面用戶端 Skype 是在本機上已安裝的應用程式提供顯示狀態、 立即訊息與會議功能內含 Skype 商務 Online 的 Office 365 計劃。Office 365 ProPlus、 G3，以及 G5 包括完整 Skype 應用程式，其中包含其他功能，例如進階電話語音支援、 封存、 和符合性功能。商務 Online 授權 Skype 必須被指派每位使用者。<br/><sup>2</sup>未包含，但是可以購買作為個別的附加元件。 
-<br/> <sup>3</sup> GCC 高或 DoD 計劃，但即將推出尚無法使用。 
+> <sup>1</sup>是可用的所有客戶的商業基本 Skype。商務桌面用戶端 Skype 是在本機上已安裝的應用程式提供顯示狀態、 立即訊息與會議功能內含 Skype 商務 Online 的 Office 365 計劃。Office 365 ProPlus、 G3，以及 G5 包括完整 Skype 應用程式，其中包含其他功能，例如進階電話語音支援、 封存、 和符合性功能。商務 Online 授權 Skype 必須被指派每位使用者。<br/><sup>2</sup>未包含，但是可以購買作為個別的附加元件。Project Online 包含 Project Online 桌面用戶端訂閱的一部分。<br/> <sup>3</sup> GCC 高或 DoD 計劃，但即將推出尚無法使用。 
 <br/><sup>4</sup> yammer Enterprise 不是 Office 365 美國政府、 元件，但可能會在沒有成本取得為每位使用者的獨立優惠 for Office 365 中以 GCC 授權。此產品項目是目前僅限於購買 Office 365 GCC 企業協議與企業訂閱協議下的客戶。Yammer 不 GCC 高或 DoD 中提供。<br/><sup>5</sup>呼叫規劃是附加元件。 
   
 ## <a name="platform-features"></a>平台功能
@@ -284,7 +283,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |**信任** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府 G3** <br/> |**Office 365 美國政府 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
 |**[隱私權、安全性和透明化](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |進階資料管理  <br/> |沒有<sup>12、 15</sup> <br/> |沒有<sup>12、 15</sup> <br/> |是<sup>15</sup> <br/> |沒有<sup>12、 15</sup> <br/> |
-|雲端應用程式安全性  <br/> |沒有<sup>11、 12</sup> <br/> |沒有<sup>11、 12</sup> <br/> |Yes<sup>11</sup> <br/> |沒有<sup>11、 12</sup> <br/> |
+|雲端 App 安全性  <br/> |沒有<sup>11、 12</sup> <br/> |沒有<sup>11、 12</sup> <br/> |Yes<sup>11</sup> <br/> |沒有<sup>11、 12</sup> <br/> |
 |進階威脅防護  <br/> |沒有<sup>12</sup> <br/> |沒有<sup>12</sup> <br/> |是  <br/> |沒有<sup>12</sup> <br/> |
 |客戶加密箱  <br/> |沒有<sup>9，12，15</sup> <br/> |沒有<sup>9，12，15</sup> <br/> |Yes<sup>9、 15</sup> <br/> |沒有<sup>9，12，15</sup> <br/> |
 |Office 365 進階 eDiscovery  <br/> |沒有<sup>12、 15</sup> <br/> |沒有<sup>12、 15</sup> <br/> |是  <br/> |沒有<sup>9、 15</sup> <br/> |

@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您要尋找包含 Exchange Online 的 Office 365 訂閱的功能比較吗？若是如此，Exchange Online 服務說明文章會為您的需要。您也將會了解系統需求以及儲存空間和收件者的需求。
-ms.openlocfilehash: f0213330dbafe58a3f9b2a8164aab46d83ca9dfb
-ms.sourcegitcommit: 0588f7b5bcbebea9a4494025a4322f68afdd4271
+ms.openlocfilehash: 6432d0e983f3e26bb8ee4f9691cfa60900aed377
+ms.sourcegitcommit: 7934820e33c704647cc50b2e00f15741add2d274
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/11/2018
-ms.locfileid: "25498049"
+ms.lasthandoff: 11/16/2018
+ms.locfileid: "26544074"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -106,8 +106,8 @@ Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsof
 |**[收件者](recipients.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |容量提醒  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |雜亂資料  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|寄件提醒  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|委派存取  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|MailTips  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|委派存取  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |沒有<sup>24</sup>  <br/> |
 |收件匣規則  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |連線的帳戶  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>17</sup> <br/> |Yes<sup>17</sup> <br/> |Yes<sup>17</sup> <br/> |Yes<sup>17</sup> <br/> |
 |非使用中的信箱  <br/> |否  <br/> |否  <br/> |沒有<sup>9</sup> <br/> |沒有<sup>9</sup> <br/> |沒有<sup>9</sup> <br/> |是  <br/> |是  <br/> |否 <sup>9</sup> <br/> |
@@ -171,7 +171,7 @@ Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsof
 |Outlook 增益集和 Outlook MAPI  <br/> |Yes<sup>19</sup> <br/> |是  <br/> |Yes<sup>19</sup> <br/> |Yes<sup>19</sup> <br/> |Yes<sup>19</sup> <br/> |Yes<sup>19</sup> <br/> |Yes<sup>19</sup> <br/> |否  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>具有雲端式封存的每個內部部署信箱使用者需有 Exchange Online 封存 (EOA) 訂閱。 <br/> <sup>2</sup> azure 資訊保護未包含在內，但是可以購買作為個別的附加元件與將會啟用支援的資訊版權管理 (IRM) 功能。有些 Azure 資訊保護功能需要 Office 365 ProPlus，這是不包含在 Office 365 商務 Essentials、 Office 365 企業進階版、 Office 365 企業版 E1、 Office 365 教育版或 Office 365 企業版 F1 訂閱。 <br/> <sup>3</sup> Windows Server AD RMS 是內部部署伺服器必須是個別採購並管理以便啟用支援的 IRM 功能。 <br/> <sup>4</sup>傳輸規則是由組成具彈性的準則，讓您定義條件和例外狀況和動作才會根據條件。可用的條件和動作不同 Exchange Online 和 Microsoft Exchange Server 2013 之間。如需可用的條件和動作的清單，請參閱對應條件和動作主題針對每個產品。 <br/> <sup>5</sup>適用於 Exchange 2013 DLP 需要 Exchange 企業用戶端存取授權 (CAL)。如需 Cal 和伺服器授權的詳細資訊，請參閱[Exchange Server 授權](https://go.microsoft.com/fwlink/p/?LinkId=299133)。 <br/> <sup>6</sup> Exchange Server 2013 具有最多的 Exchange Server 2010 為相同的內建反垃圾郵件功能。主控的 Exchange 垃圾郵件篩選透過內部部署方案的優點的相關資訊，請參閱[Exchange Online Protection 透過 Exchange Server 2013 中的反垃圾郵件功能的優點](https://go.microsoft.com/fwlink/p/?LinkId=271726)。 <br/> <sup>7</sup>只能透過直接存取 Exchange 系統管理中心 (EAC) 管理介面。 <br/><sup>8</sup> Exchange Server 2013 使用僅限 Microsoft 反惡意程式碼引擎。Exchange Online 使用多個反惡意程式碼引擎來掃描輸入、 輸出及內部郵件的惡意程式碼。 <br/><sup>9</sup> EOA 訂閱可另外購買針對需要非使用中信箱功能的信箱。 <br/> <sup>10</sup> SharePoint 必須部署在內部部署 Exchange 組織。 <br/> <sup>第 11</sup> SharePoint Online 必須包含在 Office 365 訂閱計劃。 <br/> <sup>12</sup>支援 POP，但是 IMAP 不是。 <br/> <sup>13</sup>支援的 Exchange Server 2013 內部部署客戶購買 Azure 資訊保護。Office 365 郵件加密需要透過 Exchange Online 路由電子郵件的內部部署客戶使用 Exchange Online Protection 的電子郵件篩選，或建立混合郵件流程。 <br/><sup>14</sup> Exchange Server 2013 客戶必須下載及安裝 SP1，才能存取文件指紋 」 和 「 原則提示在 OWA 與裝置的 OWA。 <br/> <sup>15</sup> Exchange Server 2013 支援 BitLocker 磁碟加密但系統管理員必須啟用的功能。 <br/> <sup>16</sup> office 365 商務 Essentials、 Office 365 企業進階版和 Office 365 企業版 F1 不會提供存取權的內部部署伺服器的使用情況。若要符合，客戶必須購買或先前已購買適當 Cal 或升級至企業 SKU 提供這些存取權限。 <br/><sup>第 17</sup> POP 支援連線的帳戶&amp;IMAP 帳戶，但停用如 Outlook.com (Hotmail)。 <br/> <sup>18</sup>不支援使用 cmdlet 來搭配使用的通訊清單與全域通訊清單。<br/><sup>19</sup>一些協力廠商網頁組件和增益集可能無法使用。 <br/><sup>20 個</sup>ediscovery （英文），您需要針對內部部署和雲端比較不同的查詢。 <br/><sup>第 21</sup>表指出與相關聯的計劃用戶端搭配運作。沒有意義的用戶端一定都包含在這些計劃購買。 <br/><sup>第 22</sup>如需詳細資訊，請參閱[控制您使用客戶金鑰的 Office 365 中的資料](https://go.microsoft.com/fwlink/?linkid=862702)。 <br/> <sup>23</sup> Exchange Online UM 支援透過直接從客戶 21vianet Sbc 連線協力廠商 PBX 系統將會結束年 4 月 2019年中。請參閱 Exchange 團隊部落格[主題的 Exchange Online 整合通訊中的工作階段邊界控制器支援](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/)如需詳細資訊。 
+> <sup>1</sup>具有雲端式封存的每個內部部署信箱使用者需有 Exchange Online 封存 (EOA) 訂閱。 <br/> <sup>2</sup> azure 資訊保護未包含在內，但是可以購買作為個別的附加元件與將會啟用支援的資訊版權管理 (IRM) 功能。有些 Azure 資訊保護功能需要 Office 365 ProPlus，這是不包含在 Office 365 商務 Essentials、 Office 365 企業進階版、 Office 365 企業版 E1、 Office 365 教育版或 Office 365 企業版 F1 訂閱。 <br/> <sup>3</sup> Windows Server AD RMS 是內部部署伺服器必須是個別採購並管理以便啟用支援的 IRM 功能。 <br/> <sup>4</sup>傳輸規則是由組成具彈性的準則，讓您定義條件和例外狀況和動作才會根據條件。可用的條件和動作不同 Exchange Online 和 Microsoft Exchange Server 2013 之間。如需可用的條件和動作的清單，請參閱對應條件和動作主題針對每個產品。 <br/> <sup>5</sup>適用於 Exchange 2013 DLP 需要 Exchange 企業用戶端存取授權 (CAL)。如需 Cal 和伺服器授權的詳細資訊，請參閱[Exchange Server 授權](https://go.microsoft.com/fwlink/p/?LinkId=299133)。 <br/> <sup>6</sup> Exchange Server 2013 具有最多的 Exchange Server 2010 為相同的內建反垃圾郵件功能。主控的 Exchange 垃圾郵件篩選透過內部部署方案的優點的相關資訊，請參閱[Exchange Online Protection 透過 Exchange Server 2013 中的反垃圾郵件功能的優點](https://go.microsoft.com/fwlink/p/?LinkId=271726)。 <br/> <sup>7</sup>只能透過直接存取 Exchange 系統管理中心 (EAC) 管理介面。 <br/><sup>8</sup> Exchange Server 2013 使用僅限 Microsoft 反惡意程式碼引擎。Exchange Online 使用多個反惡意程式碼引擎來掃描輸入、 輸出及內部郵件的惡意程式碼。 <br/><sup>9</sup> EOA 訂閱可另外購買針對需要非使用中信箱功能的信箱。 <br/> <sup>10</sup> SharePoint 必須部署在內部部署 Exchange 組織。 <br/> <sup>第 11</sup> SharePoint Online 必須包含在 Office 365 訂閱計劃。 <br/> <sup>12</sup>支援 POP，但是 IMAP 不是。 <br/> <sup>13</sup>支援的 Exchange Server 2013 內部部署客戶購買 Azure 資訊保護。Office 365 郵件加密需要透過 Exchange Online 路由電子郵件的內部部署客戶使用 Exchange Online Protection 的電子郵件篩選，或建立混合郵件流程。 <br/><sup>14</sup> Exchange Server 2013 客戶必須下載及安裝 SP1，才能存取文件指紋 」 和 「 原則提示在 OWA 與裝置的 OWA。 <br/> <sup>15</sup> Exchange Server 2013 支援 BitLocker 磁碟加密但系統管理員必須啟用的功能。 <br/> <sup>16</sup> office 365 商務 Essentials、 Office 365 企業進階版和 Office 365 企業版 F1 不會提供存取權的內部部署伺服器的使用情況。若要符合，客戶必須購買或先前已購買適當 Cal 或升級至企業 SKU 提供這些存取權限。 <br/><sup>第 17</sup> POP 支援連線的帳戶&amp;IMAP 帳戶，但停用如 Outlook.com (Hotmail)。 <br/> <sup>18</sup>不支援使用 cmdlet 來搭配使用的通訊清單與全域通訊清單。<br/><sup>19</sup>一些協力廠商網頁組件和增益集可能無法使用。 <br/><sup>20 個</sup>ediscovery （英文），您需要針對內部部署和雲端比較不同的查詢。 <br/><sup>第 21</sup>表指出與相關聯的計劃用戶端搭配運作。沒有意義的用戶端一定都包含在這些計劃購買。 <br/><sup>第 22</sup>如需詳細資訊，請參閱[控制您使用客戶金鑰的 Office 365 中的資料](https://go.microsoft.com/fwlink/?linkid=862702)。 <br/> <sup>23</sup> Exchange Online UM 支援透過直接從客戶 21vianet Sbc 連線協力廠商 PBX 系統將會結束年 4 月 2019年中。請參閱 Exchange 團隊部落格[主題的 Exchange Online 整合通訊中的工作階段邊界控制器支援](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/)如需詳細資訊。<br><sup>24</sup> F1 使用者無法將代理人新增至其專屬信箱，但是他們可以存取 （包括共用的信箱） 的另一個信箱並執行任何已指派給他們的動作。
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>各 Exchange Online 獨立方案中可用的功能
 
@@ -217,7 +217,7 @@ Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsof
 |**[收件者](recipients.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 方案 1** <br/> |**Exchange Online 方案 2** <br/> |**Exchange Online Kiosk** <br/> |
 |容量提醒  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |雜亂資料  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|寄件提醒  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|MailTips  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |委派存取  <br/> |是  <br/> |是  <br/> |是\  <br/> |是  <br/> |否  <br/> |
 |收件匣規則  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |連線的帳戶  <br/> |是  <br/> |是  <br/> |Yes<sup>19</sup> <br/> |Yes<sup>19</sup> <br/> |Yes<sup>19</sup> <br/> |

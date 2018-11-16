@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype 商務 online 中的限制屬於下列類別：
-ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
+ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362878"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296863"
 ---
 # <a name="skype-for-business-online-limits"></a>商務用 Skype Online 限制
 
@@ -119,41 +119,20 @@ Skype 商務 online 中的限制屬於下列類別：
     
 - **會議到期期間**：會議結束之後，使用者可以存取會議的時間量。 
     
-### <a name="meeting-retention-limits-across-office-365-options"></a>不同 Office 365 選項的會議保留限制
+### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>不同 Office 365 選項和獨立計劃的會議保留限制
 
 > [!NOTE]
 > 每個人員在資料庫中隨時最多可有 1000 個會議。 
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**商務用 Skype Server 2015** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 F1** <br/> |
-|會議內容保留：單次會議  <br/> |可設定<sup>1</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不適用  <br/> |
-|會議內容保留：週期性會議  <br/> |可設定<sup>1</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不適用  <br/> |
-|會議內容保留：立即開會會議  <br/> |可設定<sup>1</sup> <br/> |8 小時  <br/> |8 小時  <br/> |8 小時  <br/> |8 小時  <br/> |不適用  <br/> |
-|會議到期：單次會議  <br/> |結束日期加上 365 天<sup>2</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不適用  <br/> |
-|會議到期：週期性會議  <br/> |具有結束日期：結束日期加上 365 天<sup>2</sup> <br/> 沒有結束日期： 一律可以存取如果更新 1/3<sup>3</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不適用  <br/> |
-|會議到期：立即開會會議  <br/> |8 小時  <br/> | 8 小時  <br/> |8 小時  <br/> |8 小時  <br/> |8 小時  <br/> |不適用  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup>中的 Business Server 2015 Skype 的內部部署會議內容保留是可透過 Skype Business Server 2015 封存功能的設定。請參閱[規劃封存](https://go.microsoft.com/fwlink/p/?LinkId=398299)中 Skype Business Server 2015 TechNet 文件庫。<br/> <sup>2</sup> 一旦啟動會議，此到期日期會額外延長 365 天。<br/><sup>3</sup> 一旦啟動會議，此到期日期會額外延長 6 個月。 
-  
-### <a name="meeting-retention-limits-across-standalone-options"></a>不同獨立選項的會議保留限制
+|**會議類型** <br/> |**描述** <br/> 
+|一次性會議| end、 上次的會議啟用或最後一個會議更新-後的 14 天準是最新。
+|具有結束日期的週期性會議| 會議都可存取至少之前的最後一個會議或上一次會議啟用，或上一次會議更新之排定的結束時間後的 14 天，準是最新。
+|沒有結束日期的週期性會議| 會議會一律可以存取，提供有新的會議 join （啟用） 或排程至少一次每年的更新
+|     [立即開會]|會議都可存取至少 8 小時。
 
-> [!NOTE]
-> 每個人員在資料庫中隨時最多可有 1000 個會議。 
-  
-|||||
-|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**商務用 Skype Server 2015** <br/> |**商務用 Skype Online 獨立計劃 1** <br/> |**商務用 Skype Online 獨立計劃 2** <br/> |
-|會議內容保留：單次會議  <br/> |可設定<sup>1</sup> <br/> |不適用  <br/> |14 天  <br/> |
-|會議內容保留：週期性會議  <br/> |可設定<sup>1</sup> <br/> |不適用  <br/> |14 天  <br/> |
-|會議內容保留：立即開會會議  <br/> |可設定<sup>1</sup> <br/> |不適用  <br/> |8 小時  <br/> |
-|會議到期：單次會議  <br/> |結束日期加上 365 天<sup>2</sup> <br/> |不適用  <br/> |14 天  <br/> |
-|會議到期：週期性會議  <br/> |具有結束日期：結束日期加上 365 天<sup>2</sup> <br/> 沒有結束日期： 一律可以存取如果更新 1/3<sup>3</sup> <br/> |不適用  <br/> |14 天  <br/> |
-|會議到期：立即開會會議  <br/> |8 小時  <br/> |不適用  <br/> |8 小時  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup>中的 Business Server 2015 Skype 的內部部署會議內容保留是可透過 Skype Business Server 2015 封存功能的設定。請參閱[規劃封存](https://go.microsoft.com/fwlink/p/?LinkId=398299)中 Skype Business Server 2015 TechNet 文件庫。<br/><sup>2</sup> 一旦啟動會議，此到期日期會額外延長 365 天。<br/><sup>3</sup> 一旦啟動會議，此到期日期會額外延長 6 個月。 
+
   
 ## <a name="minute-limits"></a>分鐘限制
 <a name="bkmk_Minute_LyncOnlineLimits"> </a>
