@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 商務用 OneDrive 是雲端中的個人線上儲存空間 (由您的公司所提供)。請使用它輕鬆地在跨多個裝置存取您的工作檔案時加以儲存並保護。視需要與公司同事共用檔案，並且以最新的 Office 桌面、Web 和行動裝置應用程式，在 Office 文件上即時共同作業。使用商務用 OneDrive 同步處理用戶端將檔案同步處理到本機電腦。
-ms.openlocfilehash: aaafbc2ff4b2e9ac1b98bf0b62f934ad34be6485
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4fca7cfff8db13e15b6c79ee3add0d103dd2e26d
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035267"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215358"
 ---
 # <a name="onedrive-for-business-service-description"></a>商務用 OneDrive 服務說明
 
@@ -101,7 +101,7 @@ ms.locfileid: "24035267"
     
 少於五位使用者的訂用帳戶會收到每個使用者 1 TB 的個人雲端儲存空間。 
   
-客戶一開始會在商務用 OneDrive 中為每位使用者佈建 1 TB 的個人雲端儲存空間。您可以在 Office 365 系統管理員的協助之下，[增加預設商務用 OneDrive 儲存空間](https://go.microsoft.com/fwlink/?linkid=838024)至每個使用者最多 5 TB。 
+客戶一開始會在商務用 OneDrive 中為每位使用者佈建 1 TB 的個人雲端儲存空間。您可以在 Office 365 系統管理員的協助之下，於每當 1 TB 配額已用掉 90% 時，[增加商務用 OneDrive 的預設儲存空間](https://go.microsoft.com/fwlink/?linkid=838024)，每個使用者最多 5 TB。 
   
 > [!NOTE]
 > 您必須將至少一個授權指派給使用者，才能增加預設 OneDrive 儲存空間。 
