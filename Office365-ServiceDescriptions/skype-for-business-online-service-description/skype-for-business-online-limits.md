@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype 商務 online 中的限制屬於下列類別：
-ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
-ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
+ms.openlocfilehash: 92d0aed201504d711a6e4a896b533fd3a4e9567e
+ms.sourcegitcommit: f8c966f88eb4f49f62d796f6992a65f4a207869c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296863"
+ms.lasthandoff: 11/20/2018
+ms.locfileid: "26625888"
 ---
 # <a name="skype-for-business-online-limits"></a>商務用 Skype Online 限制
 
@@ -127,7 +127,7 @@ Skype 商務 online 中的限制屬於下列類別：
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**會議類型** <br/> |**描述** <br/> 
-|一次性會議| end、 上次的會議啟用或最後一個會議更新-後的 14 天準是最新。
+|一次性會議| 會議都可存取至少之前排定的時間，或上一次會議啟用，或上一次會議更新後的 14 天，準是最新。
 |具有結束日期的週期性會議| 會議都可存取至少之前的最後一個會議或上一次會議啟用，或上一次會議更新之排定的結束時間後的 14 天，準是最新。
 |沒有結束日期的週期性會議| 會議會一律可以存取，提供有新的會議 join （啟用） 或排程至少一次每年的更新
 |     [立即開會]|會議都可存取至少 8 小時。
