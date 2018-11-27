@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務是整合式的解決方案，將一起引進具有進階安全性和裝置管理功能可協助保護您的企業的 Office 365 最佳的類別生產力。.此服務描述說明計劃選項和功能。如需 Office 365 的詳細資訊，請參閱 Office 365 服務說明。
-ms.openlocfilehash: 69dcfdf12f3398b5ff8be8f5b8d3a81701080a42
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 23f3d4032da18de3ba10155942dfe5bd08c5d574
+ms.sourcegitcommit: 6009866151bd0907ebf0b34ccea578efd6b1eb61
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362888"
+ms.lasthandoff: 11/26/2018
+ms.locfileid: "26674220"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務說明
 
@@ -30,7 +30,7 @@ Microsoft 365 商務是整合式的解決方案，將一起引進具有進階安
   
 ||||
 |:-----|:-----|:-----|
-|**計劃選項** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
+|**方案選項** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
 |Office 365 平台  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |是  <br/> |是  <br/> |
@@ -38,7 +38,7 @@ Microsoft 365 商務是整合式的解決方案，將一起引進具有進階安
 |商務用 Skype Online  <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |
 |Office Online  <br/> |是  <br/> |是  <br/> |
 |Office 應用程式  <br/> |是  <br/> |是  <br/> |
-|Microsoft Project Online  <br/> |沒有<sup>3</sup> <br/> |沒有<sup>3</sup> <br/> |
+|Project Online  <br/> |沒有<sup>3</sup> <br/> |沒有<sup>3</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |
 |Yammer Enterprise  <br/> |是  <br/> |是  <br/> |
 |Azure 資訊保護  <br/> |否  <br/> |是<sup>4</sup> <br/> |
@@ -51,7 +51,7 @@ Microsoft 365 商務是整合式的解決方案，將一起引進具有進階安
 |Microsoft Planner  <br/> |是  <br/> |是  <br/> |
 |Microsoft PowerApps  <br/> |是  <br/> |是  <br/> |
 |Microsoft StaffHub  <br/> |是  <br/> |是  <br/> |
-|Microsoft Stream  <br/> |Yes<sup>19</sup>  <br/> |Yes<sup>19</sup>  <br/> |
+|Microsoft Stream  <br/> |Yes<sup>16</sup>  <br/> |Yes<sup>16</sup>  <br/> |
 |Microsoft Sway  <br/> |是  <br/> |是  <br/> |
 |Microsoft 小組<sup>5</sup> <br/> |是  <br/> |是  <br/> |
 |Office Delve  <br/> |是  <br/> |是  <br/> |
@@ -85,16 +85,16 @@ Microsoft 365 商務是整合式的解決方案，將一起引進具有進階安
 |就地保留與訴訟暫止  <br/> |否  <br/> |是  <br/> |
 |就地 eDiscovery  <br/> |是  <br/> |是  <br/> |
 |傳輸規則  <br/> |是  <br/> |是  <br/> |
-|資料遺失防護  <br/> |否  <br/> |是<sup>12</sup> <br/> |
+|資料遺失防護  <br/> |否  <br/> |是 <br/> |
 |[隱私權、安全性和透明化](office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
 |內建反垃圾郵件保護  <br/> |是  <br/> |是  <br/> |
 |內建反惡意程式碼保護  <br/> |是  <br/> |是  <br/> |
-|進階威脅防護  <br/> |否  <br/> |Yes<sup>13</sup> <br/> |
+|進階威脅防護  <br/> |否  <br/> |是 <br/> |
 |進階安全性管理  <br/> |否  <br/> |否  <br/> |
 |Customer Lockbox  <br/> |否  <br/> |否  <br/> |
-|Office 365<sup>14</sup>客戶金鑰 <br/> |否  <br/> |否  <br/> |
-|Office 365 進階的 eDiscovery<sup>15</sup> <br/> |否  <br/> |否  <br/> |
-|安全分數<sup>16</sup> <br/> |是  <br/> |是  <br/> |
+|Office 365<sup>12</sup>客戶金鑰 <br/> |否  <br/> |否  <br/> |
+|Office 365 進階的 eDiscovery<sup>13</sup> <br/> |否  <br/> |否  <br/> |
+|安全分數<sup>14</sup> <br/> |是  <br/> |是  <br/> |
 |威脅情報  <br/> |否  <br/> |否  <br/> |
 |[合規性[ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
 |SAS 70 / SSAE16 評估  <br/> |是  <br/> |是  <br/> |
@@ -117,8 +117,7 @@ Microsoft 365 商務是整合式的解決方案，將一起引進具有進階安
 |||||
 |:-----|:-----|:-----|:-----|
 |**身分識別與存取管理功能** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |**Enterprise 行動性套件** <br/> |
-|單一登入 (SSO) \> 10 應用程式  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|多重要素驗證 (MFA)  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Office 365 的多重要素驗證 (MFA)  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |系統管理單位  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |雲端應用程式探索  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |動態群組  <br/> |否  <br/> |否  <br/> |是  <br/> |
@@ -127,21 +126,21 @@ Microsoft 365 商務是整合式的解決方案，將一起引進具有進階安
 |裝置物件雙向之間的同步處理內部部署目錄及 Azure AD （裝置回寫）  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |設定格式化的條件 （根據群組、 位置、 裝置狀態、 登入或使用者風險） 的存取  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |公司品牌 （登入頁面/存取面板自訂  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|應用程式原則  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|應用程式 Proxy  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |Microsoft Identity Manager (MIM) 使用者 CAL  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |連線狀況  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |SLA 達 99.9年 %  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |進階威脅分析  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |**裝置和應用程式的管理功能** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |**Enterprise 行動性 + 安全性 E3** <br/> |
-|行動裝置管理 (MDM)<sup>17</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
+|行動裝置管理 (MDM)<sup>15</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
 |行動裝置管理 (MDM) 自動註冊  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Office 應用程式與 LOB 應用程式<sup>17</sup>行動應用程式管理 (MAM) <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Windows 更新管理、 防禦者、 防火牆原則<sup>17</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Office 應用程式與 LOB 應用程式<sup>15</sup>的行動應用程式管理 (MAM) <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Windows 更新管理、 防禦者、 防火牆原則<sup>15</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
 |資料保護-選擇性擦去  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |選取目標原則的安全群組 （個儲存）  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |註冊 Windows 10 裝置上安裝 Office 應用程式  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |Windows 防禦者設定  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|部署裝置設定檔及安全性設定<sup>17</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
+|部署裝置設定檔及安全性設定<sup>15</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
 |企業狀態漫遊的 Windows 10 搭配 Azure AD 加入  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |自助 BitLocker 復原  <br/> |否  <br/> |是  <br/> |是  <br/> |
    
@@ -158,15 +157,14 @@ Microsoft 365 商務是整合式的解決方案，將一起引進具有進階安
 |**Windows 10 安全性功能** <br/> |**Microsoft 365 商務版 ** <br/> |
 |Pc 免受病毒和其他使用 Windows 防禦者防毒的威脅  <br/> |是  <br/> |
 |Pc 防止在 Microsoft Edge 的 web 式威脅  <br/> |是  <br/> |
-|使用規則可減少攻擊層面的裝置<sup>18</sup> <br/> |是  <br/> |
-|資料夾免受 ransomware<sup>18</sup>等的威脅 <br/> |是  <br/> |
-|協助保護使用 Bitlocker<sup>18</sup>的未經授權存取 Pc 上檔案及資料夾 <br/> |是  <br/> |
+|使用能減少裝置受攻擊面的規則 <br/> |是  <br/> |
+|保護資料夾來抵擋勒索軟體等威脅 <br/> |是  <br/> |
+|協助保護使用 Bitlocker 的未經授權存取 Pc 上檔案及資料夾 <br/> |是  <br/> |
    
 > <sup>1</sup>包含 Exchange Online 計劃 1。
 <br/><sup>2</sup>包含 Skype 商務 Online 計劃 2 有基本的用戶端限制。
 <br/><sup>3</sup> project Online 不包含在內，但是可以以個別的附加元件形式購買或免費新增至 Office 教育計劃。 
-<br/><sup>4</sup> azure 資訊保護 (AIP) 可讓支援的資訊版權管理 (IRM) 功能。AIP 計劃 1 隨附於 Microsoft 365 Business。Office 用戶端支援 Microsoft 365 Business 中部分 AIP 功能將會啟用在夏季 2018年。<br/><sup>5</sup>的 Microsoft 小組可用於 Microsoft 365 Business、 Office 365 商務 Essentials、 Office 365 企業進階版及 Office 365 Enterprise （E1、 E3、 E5、 f1 鍵）。它尚未提供 Office 365 教育版計劃。<br/><sup>6</sup> azure 資訊保護 (AIP) 可讓支援的資訊版權管理 (IRM) 功能。AIP 計劃 1 隨附於 Microsoft 365 Business。Office 用戶端支援 Microsoft 365 Business 中部分 AIP 功能將會啟用在夏季 2018年。<br/>啟用目錄同步處理的 azure AD 連線工具支援的 Office 365 企業進階版，這是 Microsoft 365 商務元件<sup>7</sup> 。不過，當 Windows 管理元件已啟用 Microsoft 365 Business、 Azure AD 加入，則需要。如果您的內部部署 Active Directory 環境與您想要以 Azure AD 加入您已加入網域的裝置，您可以完成這個動作來[設定混合式 Azure AD 加入裝置](https://docs.microsoft.com/en-us/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup)。<br/><sup>8</sup>使用目錄同步處理與本機 Active Directory，如果您必須刪除帳戶或使用本機的 Active Directory，而不是 Office 365 入口網站或使用 Windows PowerShell 的 Azure Active Directory 模組來變更密碼。 
-<br/><sup>9</sup>雲端身分識別只。請參閱[讓使用者重設其本身 Office 365 中的密碼](https://go.microsoft.com/fwlink/?linkid=852917)。<br/><sup>10</sup>減少字詞折扣所購買的基座可能會受限於早期的終止費用。不適用的每月為基礎付費訂閱。<br/><sup>第 11</sup> Microsoft 365 商務包括 Exchange Online 封存訂閱。每位 Exchange Online 封存訂閱者一開始會封存信箱中收到 100 GB 的存放區。自動展開封存開啟時，達到 100 GB 的儲存容量時自動新增額外儲存空間。如需詳細資訊，請參閱 ＜ [Overview of Office 365 中沒有限制之封存](https://go.microsoft.com/fwlink/?linkid=863320)。<br/> <sup>12</sup>資料外洩防護功能都提供 Microsoft 365 商務夏季 2018年中。Office 用戶端支援 Microsoft 365 Business 中部分 DLP 功能將會啟用在夏季 2018年。<br/><sup>13</sup> office 用戶端支援 Microsoft 365 Business 中某些 ATP 功能將會啟用在夏季 2018年。 
-<br/><sup>14</sup>如需詳細資訊，請參閱[控制您使用客戶金鑰的 Office 365 中的資料](https://go.microsoft.com/fwlink/?linkid=863349)。 
-<br/><sup>15</sup>進階的 eDiscovery 支援在美國及西歐 （荷蘭） 區域中。（加拿大和亞太地區的客戶資料匯出至美國。歐洲、 中東及非洲的客戶資料匯出至西歐 [荷蘭]。）<br/><sup>16</sup>位於[https://securescore.office.com](https://securescore.office.com)。需要系統管理員權限。如需詳細資訊，請參閱[簡介 Office 365 安全分數](https://go.microsoft.com/fwlink/?linkid=863490)。<br/>內建於 Microsoft 365 商務主控台<sup>17</sup>簡化 Windows 10 裝置管理。IOS、 Android、 MacOS，與其他跨平台裝置管理 Azure 主控台中，也授權與 Microsoft 365 商務搭配使用內建的完整 Intune 功能。協力廠商應用程式及設定之類的 WiFi 設定檔、 VPN 憑證等等，可以管理完整 Intune 主控台中。<br/><sup>18</sup>這些功能已導 Microsoft 365 商務系統管理中心逐漸後續的幾個月內。 <br>
-<sup>19</sup>此計劃的 Microsoft 包括視訊入口網站、 語音文字記錄、 深入搜尋及偵測資料流計劃 2 隨附。
+<br/><sup>4</sup> azure 資訊保護 (AIP) 可讓支援的資訊版權管理 (IRM) 功能。AIP 計劃 1 隨附於 Microsoft 365 Business。<br/><sup>5</sup>的 Microsoft 小組可用於 Microsoft 365 Business、 Office 365 商務 Essentials、 Office 365 企業進階版及 Office 365 Enterprise （E1、 E3、 E5、 f1 鍵）。它尚未提供 Office 365 教育版計劃。<br/><sup>6</sup> azure 資訊保護 (AIP) 可讓支援的資訊版權管理 (IRM) 功能。AIP 計劃 1 隨附於 Microsoft 365 Business。<br/>啟用目錄同步處理的 azure AD 連線工具支援的 Office 365 企業進階版，這是 Microsoft 365 商務元件<sup>7</sup> 。不過，當 Windows 管理元件已啟用 Microsoft 365 Business、 Azure AD 加入，則需要。如果您的內部部署 Active Directory 環境與您想要以 Azure AD 加入您已加入網域的裝置，您可以完成這個動作來[設定混合式 Azure AD 加入裝置](https://docs.microsoft.com/en-us/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup)。<br/><sup>8</sup>使用目錄同步處理與本機 Active Directory，如果您必須刪除帳戶或使用本機的 Active Directory，而不是 Office 365 入口網站或使用 Windows PowerShell 的 Azure Active Directory 模組來變更密碼。 
+<br/><sup>9</sup>雲端身分識別只。請參閱[讓使用者重設其本身 Office 365 中的密碼](https://go.microsoft.com/fwlink/?linkid=852917)。<br/><sup>10</sup>減少字詞折扣所購買的基座可能會受限於早期的終止費用。不適用的每月為基礎付費訂閱。<br/><sup>第 11</sup> Microsoft 365 商務包括 Exchange Online 封存訂閱。每位 Exchange Online 封存訂閱者一開始會封存信箱中收到 100 GB 的存放區。自動展開封存開啟時，達到 100 GB 的儲存容量時自動新增額外儲存空間。如需詳細資訊，請參閱 ＜ [Overview of Office 365 中沒有限制之封存](https://go.microsoft.com/fwlink/?linkid=863320)。<br/><sup>12</sup>如需詳細資訊，請參閱[控制您使用客戶金鑰的 Office 365 中的資料](https://go.microsoft.com/fwlink/?linkid=863349)。 
+<br/><sup>13</sup>進階的 eDiscovery 支援在美國及西歐 （荷蘭） 區域中。（加拿大和亞太地區的客戶資料匯出至美國。歐洲、 中東及非洲的客戶資料匯出至西歐 [荷蘭]。）<br/><sup>14</sup>位於[https://securescore.office.com](https://securescore.office.com)。需要系統管理員權限。如需詳細資訊，請參閱[簡介 Office 365 安全分數](https://go.microsoft.com/fwlink/?linkid=863490)。<br/>內建於 Microsoft 365 商務主控台<sup>15</sup>簡化 Windows 10 裝置管理。IOS、 Android、 MacOS，與其他跨平台裝置管理 Azure 主控台中，也授權與 Microsoft 365 商務搭配使用內建的完整 Intune 功能。協力廠商應用程式及設定之類的 WiFi 設定檔、 VPN 憑證等等，可以管理完整 Intune 主控台中。<br/>
+<sup>16</sup>此計劃的 Microsoft 包括視訊入口網站、 語音文字記錄、 深入搜尋及偵測資料流計劃 2 隨附。
