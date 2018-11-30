@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 安全性&amp;規範中心專門設計來協助您管理組織跨 Office 365 的符合性功能。連結至現有的 SharePoint 與 Exchange 規範功能結合規範功能跨 Office 365。
-ms.openlocfilehash: 9767fecdf049b3cf46c33008d8225f0a6899f30f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7b480e21ed1fbc9d7d2039ef822c91331af3ccf2
+ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035387"
+ms.lasthandoff: 11/30/2018
+ms.locfileid: "26988554"
 ---
-# <a name="office-365-security-amp-compliance-center"></a>Office 365 安全性&amp;規範中心
+# <a name="office-365-security-amp-compliance-center"></a>Office 365 安全性與合規性中心
 
 [Office 365 安全性&amp;規範中心](https://go.microsoft.com/fwlink/?LinkID=824876)專門設計來協助您管理組織跨 Office 365 的符合性功能。連結至現有的 SharePoint 與 Exchange 規範功能結合規範功能跨 Office 365。 
   
@@ -61,7 +61,7 @@ ms.locfileid: "24035387"
 |例如網路釣魚活動的客戶 lockbox 和威脅檔案總管的 [[進階 threat management](https://go.microsoft.com/fwlink/?linkid=846673)  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[行動裝置管理](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[資料遺失防護](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
-|[資料管理](https://go.microsoft.com/fwlink/?linkid=824871)<sup>1</sup> <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[資料管理](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[進階資料控管](https://go.microsoft.com/fwlink/?linkid=842991)<sup>3</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[搜尋和調查](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[eDiscovery 搜尋](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |

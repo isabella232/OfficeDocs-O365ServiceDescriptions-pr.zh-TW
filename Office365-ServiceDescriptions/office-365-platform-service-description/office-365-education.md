@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如果您正在尋找 Office 365 教育版方案之間的差異，本文將告訴您哪些功能都包含在這些項目的。Office 365 將熟悉的 Microsoft Office 桌面套件結合與雲端型版本的 Microsoft 的新一代通訊和共同作業服務 — 包括 Microsoft Exchange Online、 Microsoft SharePoint Online、 Office Online 並Microsoft Skype 商務 online — 可協助使用者提高工作效率從任何虛擬位置透過網際網路。
-ms.openlocfilehash: f15586aae46fb964639fbc4602ab8353e7884f1b
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+ms.openlocfilehash: 69b35b10c0295f1ef41c8c1454e0bb8a7a5626be
+ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215398"
+ms.lasthandoff: 11/30/2018
+ms.locfileid: "26988574"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -195,7 +195,7 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如�
 |例如網路釣魚活動<sup>5</sup>的客戶 lockbox 和威脅檔案總管的 [[進階 threat management](https://go.microsoft.com/fwlink/?linkid=846673) <br/> |否  <br/> |否  <br/> |是  <br/> |
 |[行動裝置管理](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[資料遺失防護](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[資料管理](https://go.microsoft.com/fwlink/?linkid=824871)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[資料管理](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[進階資料控管](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
 |[搜尋和將正在調查]<br/> |是  <br/> |是  <br/> |是  <br/> |
 |[eDiscovery 搜尋](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |是  <br/> |是  <br/> |
