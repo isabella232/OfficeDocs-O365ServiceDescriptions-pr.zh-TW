@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 以回應美國公開的磁區的唯一與發展需求、 Microsoft 已建立 Office 365 美國政府計劃 (orOffice 365 美國政府)。本節提供 Office 365 美國政府特有的功能的概觀。建議您先閱讀本節補充與 Office 365 服務說明。
-ms.openlocfilehash: 6ec220c2db6ce437abd9dba20462e5b10a1752fc
-ms.sourcegitcommit: 64dcd8c58007efb116067eee6117a12a8a3301f4
+ms.openlocfilehash: d8fa877b912b76cc1f862f4305292d0699e79d0d
+ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26293514"
+ms.lasthandoff: 12/10/2018
+ms.locfileid: "27213910"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -380,3 +380,4 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 <br/><sup>5</sup>請參閱[使用 Outlook iOS 及 Android 政府社群雲端中的](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)如需詳細資訊。
   
 [如何使用此「服務說明」一節](office-365-us-government.md#how-to-use-this-service-description-section)
+
