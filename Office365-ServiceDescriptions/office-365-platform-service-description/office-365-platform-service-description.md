@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如果您正在尋找 Office 365 計劃，包括 Exchange Online 的計劃之間的差異本文將告訴您哪些功能都包含在這些項目的。
-ms.openlocfilehash: aababb56a4202d0358fbf01601e2d43f7ac92df3
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 698d6ed370cf8836befd48cd07933e4175d88311
+ms.sourcegitcommit: 317b7058f4514061701c9b7f8dc18e526d43a027
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362858"
+ms.lasthandoff: 12/28/2018
+ms.locfileid: "27459706"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服務說明
 
@@ -157,10 +157,10 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 |郵件中排名最前面的惡意程式碼  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |郵件符合規則的數目  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |郵件排名最前面的相符規則  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|郵件排名最前面的相符 DLP 原則  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|依重要性分組顯示郵件符合 DLP 原則的數目  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|郵件的 DLP 原則比對、覆寫及誤判  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|郵件排名最前面的相符 DLP 規則  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|郵件排名最前面的相符 DLP 原則  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|依重要性分組顯示郵件符合 DLP 原則的數目  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|郵件的 DLP 原則比對、覆寫及誤判  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|郵件排名最前面的相符 DLP 規則  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |IM 和音訊工作階段  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |應用程式共用、Web 及電話撥入式會議  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |視訊、應用程式共用及檔案傳輸工作階段  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
