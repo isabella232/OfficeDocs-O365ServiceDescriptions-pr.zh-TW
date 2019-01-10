@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務是整合式的解決方案，將一起引進具有進階安全性和裝置管理功能可協助保護您的企業的 Office 365 最佳的類別生產力。.此服務描述說明計劃選項和功能。如需 Office 365 的詳細資訊，請參閱 Office 365 服務說明。
-ms.openlocfilehash: 23f3d4032da18de3ba10155942dfe5bd08c5d574
-ms.sourcegitcommit: 6009866151bd0907ebf0b34ccea578efd6b1eb61
+ms.openlocfilehash: 0aeaea88fa368aa8d133f5e2bfb24547a8f89452
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2018
-ms.locfileid: "26674220"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784885"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務說明
 
@@ -38,7 +38,7 @@ Microsoft 365 商務是整合式的解決方案，將一起引進具有進階安
 |商務用 Skype Online  <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |
 |Office Online  <br/> |是  <br/> |是  <br/> |
 |Office 應用程式  <br/> |是  <br/> |是  <br/> |
-|Project Online  <br/> |沒有<sup>3</sup> <br/> |沒有<sup>3</sup> <br/> |
+|Microsoft Project Online  <br/> |沒有<sup>3</sup> <br/> |沒有<sup>3</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |
 |Yammer Enterprise  <br/> |是  <br/> |是  <br/> |
 |Azure 資訊保護  <br/> |否  <br/> |是<sup>4</sup> <br/> |
@@ -122,7 +122,7 @@ Microsoft 365 商務是整合式的解決方案，將一起引進具有進階安
 |雲端應用程式探索  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |動態群組  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |自助式密碼重設為雲端身分識別  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|自助式密碼重設與內部部署 AD 回寫  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|自助式密碼重設與內部部署 AD 回寫  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |裝置物件雙向之間的同步處理內部部署目錄及 Azure AD （裝置回寫）  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |設定格式化的條件 （根據群組、 位置、 裝置狀態、 登入或使用者風險） 的存取  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |公司品牌 （登入頁面/存取面板自訂  <br/> |是  <br/> |是  <br/> |是  <br/> |

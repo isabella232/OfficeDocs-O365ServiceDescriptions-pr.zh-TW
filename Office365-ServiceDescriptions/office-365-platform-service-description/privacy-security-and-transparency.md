@@ -3,7 +3,7 @@ title: 隱私權、安全性和透明化
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 01/02/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft 十分重視與客戶之間的合作關係，且致力於保護客戶資料的隱私和安全性。如需詳細資訊，請參閱 Microsoft 信任中心。
-ms.openlocfilehash: 8a50f2bbf2a4890c9f4d77f9b68f186de79867cc
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 1a6e3320c5c285462b0f891927ccd0279c39be9a
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035340"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784855"
 ---
 # <a name="privacy-security-and-transparency"></a>隱私權、安全性和透明化
 
@@ -55,7 +55,7 @@ Customer Lockbox 隨附於 Office 365 企業版 5 計劃，您也可以隨著其
   
 ## <a name="advanced-threat-protection"></a>進階威脅防護
 
-Exchange Online 進階威脅防護是雲端式電子郵件篩選服務，有助於保護您的組織抵禦惡意程式碼和病毒。ATP 包含 [安全連結] 和 [安全附件] 功能。[安全連結] 會主動保護您的使用者以抵禦郵件中的惡意超連結，並在每次按一下連結時提供保護。[安全附件] 可抵禦不明的惡意程式碼和病毒，並將所有不含已知病毒/惡意程式碼簽章的郵件和附件路由傳送至 ATP 可以偵測惡意意圖的特殊環境。如需 ATP 的詳細資訊，請參閱 [Exchange Online 進階威脅防護服務說明](https://technet.microsoft.com/en-us/library/exchange-online-advanced-threat-protection-service-description.aspx)。
+Office 365 進階威脅保護可協助保護您的組織惡意程式碼及病毒。ATP 包含[安全連結](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、[安全的附件](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、[反網路釣魚](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)、 及[詐騙智慧](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence)功能。安全的連結主動會保護您的使用者從郵件中的惡意超連結提供保護每次點選連結。安全的附件提供保護未知的惡意程式碼及病毒，路由傳送所有郵件並不需要特殊環境的已知的病毒/惡意程式碼簽章的附件 ATP 可以偵測到惡意的用途。如需 ATP 的詳細資訊，請參閱[Office 365 進階威脅 Protection 服務說明](../office-365-advanced-threat-protection-service-description.md)。
   
 ## <a name="feature-availability"></a>功能可用性
 

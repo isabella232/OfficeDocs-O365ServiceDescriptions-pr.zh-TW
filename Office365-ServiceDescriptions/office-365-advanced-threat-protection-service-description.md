@@ -3,7 +3,7 @@ title: Office 365 進階威脅防護服務說明
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 01/02/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,22 +13,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 進階威脅防護 (ATP) 是一種雲端架構電子郵件篩選服務，提供強大的零時差保護，同時也擁有即時保護組織防止有害連結的功能，可協助保護您的組織抵禦不明惡意軟體和病毒。ATP 具有豐富報告和 URL 追蹤功能，可讓系統管理員深入了解組織中發生的攻擊的類型。
-ms.openlocfilehash: 6c7ce44932312b82293b19d85ebac07137716617
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f8a44cdebebafe575f5c22a3a491671f57b05d49
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035350"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784865"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 進階威脅防護服務說明
 
 Microsoft Office 365 進階威脅防護 (ATP) 是一種雲端架構電子郵件篩選服務，提供強大的零時差保護，同時也擁有即時保護組織防止有害連結的功能，可協助保護您的組織抵禦不明惡意軟體和病毒。ATP 具有豐富報告和 URL 追蹤功能，可讓系統管理員深入了解組織中發生的攻擊的類型。
   
-下列是您可以使用 ATP 來保護郵件的主要方法：
+您可以使用 ATP 的郵件保護的主要方法如下：
   
 - 在 Office 365 ATP 僅篩選案例中，ATP 會針對內部部署 Exchange Server 2013 環境、舊式 Exchange Server 版本或任何其他內部部署 SMTP 電子郵件解決方案，提供雲端式電子郵件保護。
     
-- Office 365 ATP 可保護 Exchange Online 的雲端託管信箱。若要深入了解 Exchange Online，請參閱 [Exchange Online 服務說明](https://technet.microsoft.com/en-us/library/exchange-online-service-description.aspx)。
+- Office 365 ATP 可保護 Exchange Online 的雲端託管信箱。若要深入了解 Exchange Online，請參閱 [Exchange Online 服務說明](exchange-online-service-description/exchange-online-service-description.md)。
     
 - 在混合部署中，當您混合使用內部部署及雲端信箱並使用 Exchange Online Protection 來進行輸入電子郵件篩選時，可將 ATP 設定為保護您的郵件環境與控制郵件路由。
     
@@ -53,7 +53,7 @@ ATP 隨附於 Office 365 企業版 E5、 Office 365 教育版 A5、 及 Microsof
     
 - Office 365 商務進階版
     
-- Office 365 Enterprise E1
+- Office 365 企業版 E1
     
 - Office 365 Enterprise E3
     
@@ -69,7 +69,7 @@ ATP 隨附於 Office 365 企業版 E5、 Office 365 教育版 A5、 及 Microsof
   
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Office 365 進階威脅防護 (ATP) 的新增功能
 
-如需 ATP 中新功能的詳細資訊，請參閱 [Office 365 中的 ATP 安全連結](https://go.microsoft.com/fwlink/?linkid=846016)。
+ATP 中的新功能的相關資訊，請參閱[ATP 中的新功能](https://docs.microsoft.com/office365/securitycompliance/office-365-atp#new-features-are-continually-being-added-to-atp)。
   
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Office 365 進階威脅防護 (ATP) 的需求
 

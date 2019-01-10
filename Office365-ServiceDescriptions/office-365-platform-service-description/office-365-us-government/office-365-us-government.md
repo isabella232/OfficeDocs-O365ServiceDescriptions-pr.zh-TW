@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 以回應美國公開的磁區的唯一與發展需求、 Microsoft 已建立 Office 365 美國政府計劃 (orOffice 365 美國政府)。本節提供 Office 365 美國政府特有的功能的概觀。建議您先閱讀本節補充與 Office 365 服務說明。
-ms.openlocfilehash: 68e2d354c8b83b44f9d395fb4ab49db16a52ddb5
-ms.sourcegitcommit: 451566be3a538320c86d284a893235b253743b31
+ms.openlocfilehash: 30c7f998d57ddcf47922a39fd5492dcdac560ddf
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/27/2018
-ms.locfileid: "27449917"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784905"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -339,10 +339,10 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[商務用 Skype](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Yes<sup>3</sup> <br/> |是  <br/> |是  <br/> |Yes<sup>3</sup> <br/> |
 |[Office 365 的 Mac 版 Office](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
-|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
+|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |否  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |否  <br/> |
+|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |否  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |否  <br/> |
 |[適用於 Windows Phone 手機的 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
-|[適用於 Windows Phone 手機的 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
+|Office Mobile for Windows 10 平板電腦 <br/> |否  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |否  <br/> |
 |Outlook iOS 及 Android<sup>5、 4</sup>  <br/> |是 <br/> |是 <br/> |是 <br/> |是 <br/> |
 |**企業價值** <br/> |**Office 365 美國政府版 G1** <br/> |**Office 365 美國政府 G3** <br/> |**Office 365 美國政府 G5** <br/> |**Office 365 美國政府 f1 鍵** <br/> |
 |每個使用者可同時在 5 部 PC 或 Mac 上安裝  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
@@ -358,7 +358,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |Excel 試算表查詢  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Exchange Online 和 SharePoint Online 封存與規範  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |群組原則支援  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|使用 Azure 資訊保護的資訊版權管理  <br/> |無<sup>1</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |無<sup>1</sup> <br/> |
+|使用 Azure 資訊保護的資訊版權管理  <br/> |無<sup>1</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |無<sup>1</sup> <br/> |
 |使用 Windows Server AD RMS 的 Information Rights Management  <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |
 |Office 增益集、ActiveX 與 BHO 支援  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |SharePoint Server、SharePoint Online、商務用 OneDrive 和 Office 365 上筆記本的 OneNote 用戶端存取  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
@@ -370,7 +370,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |Power Pivot for Excel  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |Excel 的 Power Query  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |Power View for Excel  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
-|漫遊設定  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
+|漫遊設定  <br/> |否  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |否  <br/> |
 |共用電腦啟用  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |支援對雲端架構檔案儲存進行封鎖  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |版本升級  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
@@ -379,5 +379,5 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 > <sup>1</sup> azure 資訊保護未包含在內，但是可以購買作為個別的附加元件與將會啟用支援的資訊版權管理 (IRM) 功能。一些 Azure 資訊保護功能需要訂閱即可 Office 365 ProPlus，此做法便不包含在 Office 365 美國政府版 G1 或 Office 365 美國政府 f1 鍵。<br/><sup>2</sup> Windows Server AD RMS 是內部部署伺服器必須是個別採購並管理啟用支援的 IRM 功能。 
 <br/><sup>3</sup>的商業基本 Skype 是可用的所有客戶。商務桌面用戶端 Skype 是在本機上已安裝的應用程式提供顯示狀態、 立即訊息與會議功能內含 Skype 商務 Online 的 Office 365 計劃。Office 365 ProPlus 和 Office 365 企業版 E3 包含完整 Skype 應用程式，其中包含其他功能，例如進階電話語音支援、 封存、 和符合性功能。商務 Online 授權 Skype 必須被指派每位使用者。如需有關 Lync Basic 功能的詳細資訊，請參閱[Skype for Business Online 用戶端比較表](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)。<br/><sup>4</sup>尚無法使用 GCC 高或 DoD 環境中，但即將推出。
 <br/><sup>5</sup>請參閱[使用 Outlook iOS 及 Android 政府社群雲端中的](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)如需詳細資訊。
-  
-[如何使用此「服務說明」一節](office-365-us-government.md#how-to-use-this-service-description-section)
+  <br/><sup>6</sup>尚無法使用在 Office 365 DoD 環境中，但即將推出。
+<br/><br/>[如何使用此「服務說明」一節](office-365-us-government.md#how-to-use-this-service-description-section)
