@@ -1,5 +1,5 @@
 ---
-title: 'Office 365 服務說明 '
+title: 'Office 365 服務描述 '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 是專門設計來協助符合組織需求的強大的安全性、 可靠性及使用者產能的雲端架構服務。
-ms.openlocfilehash: f52133b8faf1071a6fbbf07b634e5cae4286bf13
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 31f85abc3c129c1b89a0d170b2bdb6537660772d
+ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035237"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "28694657"
 ---
-# <a name="office-365-service-descriptions"></a>Office 365 服務說明 
+# <a name="office-365-service-descriptions"></a>Office 365 服務描述 
 
 Microsoft Office 365 是專門設計來協助符合組織需求的強大的安全性、 可靠性及使用者產能的雲端架構服務。 
   
@@ -33,7 +33,7 @@ Microsoft Office 365 是專門設計來協助符合組織需求的強大的安�
 > [!NOTE]
 > 如果您要尋找服務描述的比較試算表，其已經淘汰了。每個服務描述頁面上的產品功能可用性表已更新，以進一步協助您選擇符合需求的 Office 365 版本。 
   
-Microsoft 為合格方案中的合格服務提供 Office 365 Onboarding 權益。Onboarding 權益可讓您遠端與 Microsoft 專家合作，使 Office 365 環境準備就緒可供使用。如需詳細資訊，請參閱 [Office 365 Onboarding Benefit](http://technet.microsoft.com/library/cb4d7c0f-ad86-4134-a5fe-92a250cd3003.aspx)。
+Microsoft 會提供 FastTrack 中心福利 for Office 365 合格 services 合格的計劃中。優點可讓您學會使用 Office 365 環境的 Microsoft 專家與遠端工作。如需詳細資訊，請參閱[Office 365 FastTrack 中心好處](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
 若要開始進行，請參閱下列服務說明：
   
@@ -67,7 +67,7 @@ Microsoft 為合格方案中的合格服務提供 Office 365 Onboarding 權益�
     
 - [Yammer 服務說明](yammer-service-description/yammer-service-description.md)
     
-- [Microsoft Dynamics 365 （線上） 服務說明](microsoft-dynamics-365-online-service-description.md)
+- [Microsoft Dynamics 365 (Online) 服務說明](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
 > <sup>1</sup> 包含 [套件功能](https://technet.microsoft.com/EN-US/library/office-365-suite-features.aspx)的可用性，例如 Office Delve、Microsoft MyAnalytics、Microsoft Sway 和 Microsoft Teams。 
