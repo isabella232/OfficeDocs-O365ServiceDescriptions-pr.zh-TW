@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 08326046ddd6f6641c74222449e743bc07e20dc8
-ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "28694647"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -41,3 +33,13 @@ ms.locfileid: "28694647"
 | 1/9/2019 | [Office 365 進階威脅防護服務說明](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 修改時間 |
 | 1/9/2019 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 修改時間 |
 | 1/9/2019 | [隱私權、安全性和透明化](/Office365/ServiceDescriptions/office-365-platform-service-description/privacy-security-and-transparency) | 修改時間 |
+
+
+## <a name="week-of-january-14-2019"></a>2019 年 1 月 14 日當週
+
+
+| 發佈時間 |主題標題 | 變更 |
+|------|------------|--------|
+| 1/17/2019 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 修改時間 |
+| 1/17/2019 | [Office 365 服務描述](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | 修改時間 |
+| 1/18/2019 | [最近的服務描述變更](/Office365/ServiceDescriptions/recent-service-descriptions-changes) | 修改時間 |
