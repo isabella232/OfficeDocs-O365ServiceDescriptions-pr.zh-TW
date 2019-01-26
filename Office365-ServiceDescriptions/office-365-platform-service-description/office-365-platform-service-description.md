@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如果您正在尋找 Office 365 計劃，包括 Exchange Online 的計劃之間的差異本文將告訴您哪些功能都包含在這些項目的。
-ms.openlocfilehash: 698d6ed370cf8836befd48cd07933e4175d88311
-ms.sourcegitcommit: 317b7058f4514061701c9b7f8dc18e526d43a027
+ms.openlocfilehash: 4d52cda4032c1e94b478486e5df5fa81898abcf1
+ms.sourcegitcommit: 6bc22caa49b04042d17dc551628a6824fc3f93aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/28/2018
-ms.locfileid: "27459706"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29506667"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服務說明
 
@@ -132,12 +132,10 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 |由 Office 365 管理的 DNS 記錄 (完整重新委派)  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |在您的 DNS 代管提供者網站上管理的 DNS 記錄 (部分重新委派)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |將 **name.onmicrosoft.com** 網域或自訂的網域名稱用於電子郵件地址和商務用 Skype Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|將 **name-public.sharepoint.com** 或自訂的網域名稱用於 SharePoint Online 公用網站 <sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |將 **name.sharepoint.com** 用於您的小組網站  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |將自訂的網域名稱用於小組網站  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |透過不同的提供者代管公用網站  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用不同的電子郵件和 IM 提供者  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|以自訂的網域名稱裝載多個 SharePoint Online 公用網站<sup>5</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |自訂網域需要網域所有權驗證  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自動化網域購買和網域驗證功能可用於透過 Go Daddy 購買的網域  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[服務健康狀況和持續性](service-health-and-continuity.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
@@ -211,7 +209,8 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 
 > <sup>1</sup> office 365 沒有提供支援任何不受製造商支援的作業系統。 
 <br/><sup>2</sup> azure 資訊保護未包含在內，但是可以購買作為個別的附加元件與將會啟用支援的資訊版權管理 (IRM) 功能。有些 Azure 資訊保護功能需要 Office 365 ProPlus，這是不包含在 Office 365 商務 Essentials、 Office 365 企業進階版、 Office 365 企業版 E1、 Office 365 教育版或 Office 365 企業版 F1 訂閱。<br/><sup>3</sup> 若您正在透過本機 Active Directory 使用目錄同步作業，則必須使用本機 Active Directory (而非透過 Office 365 入口網站或適用於 Windows PowerShell 的 Azure Active Directory 模組) 來刪除帳戶或變更密碼。 
-<br/><sup>4</sup>以了解如何設定使用者的自助式密碼管理原則，請參閱[在 Azure AD 的管理密碼](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)。 <br/><sup>5</sup>您可以有一個公用網站與 Office 365 除非您已從舊版的 Office 365 升級。在此情況下，您有兩個公用網站，但是只有其中可以裝載以自訂的網域名稱。如需使用適用於 Business 訂閱的兩個網站的詳細資訊，請參閱 ＜ [Work with 您兩種 Office 365 公用網站](https://go.microsoft.com/fwlink/p/?LinkID=271589)。如果您有不同的訂閱，深入了解[Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009)的公用網站協助公用網站。<br/><sup>6</sup> 若減少以折扣條件購買的基座，有可能需支付提前終止訂閱的費用。這不適用於每月付款的訂閱。<br/><sup>7</sup>位於[https://securescore.office.com](https://securescore.office.com)。需要系統管理員權限。如需詳細資訊，請參閱[簡介 Office 365 安全分數](https://go.microsoft.com/fwlink/?linkid=836894)。<br/><sup>8</sup> Microsoft Sway 沒有目前的客戶的特定地理位置。一些舊版的 Office 365 計劃不再年 8 月 2015年市場可能也無法存取 Microsoft Sway。<br/><sup>9</sup> Diminished 體驗。如果您的組織是取決於 Internet Explorer 8 或 Internet Explorer 9 來存取舊的 web 應用程式及服務，您可能會想考慮升級為 Internet Explorer 11 及評估企業模式的 Internet Explorer 11。此更新可協助提供更佳的回溯相容性的舊版的 web 應用程式。<br/><sup>10</sup>是 Office 365 商務 Essentials、 Office 365 企業進階版、 Office 365 Enterprise （E1、 E3、 E5、 F1） 及 Office 365 教育版計劃中可用的 Microsoft 小組。 
+<br/><sup>4</sup>以了解如何設定使用者的自助式密碼管理原則，請參閱[在 Azure AD 的管理密碼](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)。 
+<br/><sup>6</sup> 若減少以折扣條件購買的基座，有可能需支付提前終止訂閱的費用。這不適用於每月付款的訂閱。<br/><sup>7</sup>位於[https://securescore.office.com](https://securescore.office.com)。需要系統管理員權限。如需詳細資訊，請參閱[簡介 Office 365 安全分數](https://go.microsoft.com/fwlink/?linkid=836894)。<br/><sup>8</sup> Microsoft Sway 沒有目前的客戶的特定地理位置。一些舊版的 Office 365 計劃不再年 8 月 2015年市場可能也無法存取 Microsoft Sway。<br/><sup>9</sup> Diminished 體驗。如果您的組織是取決於 Internet Explorer 8 或 Internet Explorer 9 來存取舊的 web 應用程式及服務，您可能會想考慮升級為 Internet Explorer 11 及評估企業模式的 Internet Explorer 11。此更新可協助提供更佳的回溯相容性的舊版的 web 應用程式。<br/><sup>10</sup>是 Office 365 商務 Essentials、 Office 365 企業進階版、 Office 365 Enterprise （E1、 E3、 E5、 F1） 及 Office 365 教育版計劃中可用的 Microsoft 小組。 
 <br/><sup>11</sup>在 Office 365 企業版 F1、 Office 365 影片會限制為僅限檢視 （無發佈或共用）。 
 <br/><sup>12</sup>支援 InOffice 365 Enterprise F1 一對一的音訊/視訊通話。會議權限僅限於加入僅 （沒有建立或初始化）。<br/><sup>13</sup>在 Office 365 企業版 f1 鍵，PowerApps 僅限於耗用量僅 （沒有發佈或共用）。 
 <br/><sup>14</sup>在 Office 365 企業版 f1 鍵、 流程耗用僅限於且流限於每位使用者每月 750。 

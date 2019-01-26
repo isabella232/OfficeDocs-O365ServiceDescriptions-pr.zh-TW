@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: b0ad00866bb1ec41d33e1c855765f7153d0679ce
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 83369f8c0b4da4557b2b49e247a405d137db5f85
+ms.sourcegitcommit: 6bc22caa49b04042d17dc551628a6824fc3f93aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362948"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29506687"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet 運作的 Office 365
 
@@ -228,7 +228,7 @@ Office 365 安全性&amp;規範中心不是 Office 365 的 21Vianet 21vianet 任
 |[Office 365 的 Mac 版 Office](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |沒有<sup>5</sup> <br/> |否  <br/> |是  <br/> |否  <br/> |
 |[Office Mobile for iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office Mobile for Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Office Mobile for android （英文)]<sup>15</sup>(../ office-applications-service-description/office-applications.md#office-mobile-for-android） <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[適用於 Windows Phone 手機的 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |沒有<sup>5</sup> <br/> |否  <br/> |是  <br/> |否  <br/> |
 |[適用於 Windows Phone 手機的 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |沒有<sup>5</sup> <br/> |否  <br/> |是  <br/> |否  <br/> |
 |Outlook for Android  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |沒有<sup>5</sup> <br/> |否  <br/> |是  <br/> |否  <br/> |
@@ -269,6 +269,7 @@ Office 365 安全性&amp;規範中心不是 Office 365 的 21Vianet 21vianet 任
 <br/><sup>3</sup> 如果您有 Office Professional Plus 2013 或獨立版本的 Excel 2013，則可以下載 [適用於 Excel 2013 的 Power Map 預覽版](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)，並當作不受支援的增益集使用。 
  <br/><sup>4</sup>是可用的所有客戶的商業基本 Skype。商務桌面用戶端 Skype 是在本機上已安裝的應用程式提供顯示狀態、 立即訊息與會議功能內含 Skype 商務 Online 的 Office 365 計劃。Office 365 ProPlus 和 Office 365 企業版 E3 包含完整 Skype 應用程式，其中包含包括進階電話語音支援、 封存和規範功能的其他功能。商務 Online 授權 Skype 必須被指派每位使用者。如需有關 Lync Basic 功能的詳細資訊，請參閱[Skype for Business Online 用戶端比較表](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)。<br/><sup>5</sup>一些學校是適合教育 Plus 包含 Office 365 ProPlus，並允許學生、 教師和人員及其他行動裝置，包括 Windows 平板電腦上最多可以有五個 PC 或 Mac 電腦安裝最新版的 Office 和iPad。學校限定為 Office 365 教育版加上時這些授權 Office 教師和人員透過教育解決方案、 開啟值訂閱教育解決方案，或學校合約註冊機構全。Access 與 Publisher 所提供的 Pc 上只有附註。使用 Mac 應用程式商店從個別下載 for Mac 的 OneNote。<br/><sup>6</sup> 可安裝 Mac 版 Office 2011，但不可啟用。 
 <br/>Office 365 ProPlus 支援<sup>7</sup>使用者專用虛擬桌面基礎結構 (VDI)。Office 365 ProPlus 僅支援遠端桌面服務 (RDS) 透過大量授權方案購買時。<br/><sup>8</sup> volume activation for Office 365 企業版 E3 和 Office 365 ProPlus 是限制在 Windows Server 2008 R2 上安裝和更新版本與已啟用的 RDS 角色或 Windows 移安裝。不論執行哪項存取這些安裝的使用者必須是 Office 365 企業版 E3 或 Office 365 ProPlus 的授權的使用者。<br/><sup>9</sup>是如果您是目前的通道或 Targeted 版本為已延期通道上目前無法存取。如果您是在延期通道，Access 會提供 2017 年 6 月。如需詳細資訊，請參閱[存取包含 Office 365 企業版與企業進階版的一部分](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)。<br/><sup>10</sup> Visio 線上位於目前的 21Vianet 來運作 Office 365 預覽。如需 Visio Online 的詳細資訊，請參閱[Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md)。<br/><sup>11</sup> 由 21Vianet 運作的 Office 365 即將推出。 
+<br/><sup>15</sup> （包括播放存放區） 的 Google 服務不中國內存取。有數個應用程式儲存區維護的主要電話製造商或搜尋引擎公司使用者可以安裝從行動裝置應用程式。
   
 ## <a name="office-online-features"></a>Office Online 功能
 <a name="BM4_OfficeOnline"> </a>
@@ -340,7 +341,7 @@ Office 365 安全性&amp;規範中心不是 Office 365 的 21Vianet 21vianet 任
 |**[收件者](../exchange-online-service-description/recipients.md)** <br/> |**由 21Vianet 運作的 Office 365 商務基本版** <br/> |**由 21Vianet 運作的 Office 365 商務版** <br/> |**由 21Vianet 運作的 Office 365 商務進階版** <br/> |**由 21Vianet 運作的 Office 365 A1** <br/> |**由 21Vianet 運作的 Office 365 Enterprise E1** <br/> |**由 21Vianet 運作的 Office 365 Enterprise E3** <br/> |**Office 365 企業版 F1 21vianet 來 21Vianet** <br/> |
 |容量提醒  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |雜亂資料  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|寄件提醒  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |
+|MailTips  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |
 |委派存取  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |收件匣規則  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |連線的帳戶  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>13</sup> <br/> |Yes<sup>13</sup> <br/> |Yes<sup>13</sup> <br/> |Yes<sup>13</sup> <br/> |
@@ -405,7 +406,7 @@ Office 365 安全性&amp;規範中心不是 Office 365 的 21Vianet 21vianet 任
 <br/><sup>2</sup> Windows Server AD RMS 是內部部署伺服器，必須個別採購並管理，以便啟用支援的 IRM 功能。 
 <br/><sup>3</sup>傳輸規則是由組成具彈性的準則，讓您定義條件和例外狀況和動作才會根據條件。可用的條件和動作不同 Exchange Online 和 Microsoft Exchange Server 2013 之間。如需可用的條件和動作的清單，請參閱對應條件和動作主題針對每個產品。<br/><sup>4</sup> 只能透過直接存取 Exchange 系統管理中心 (EAC) 管理介面進行存取。 
 <br/><sup>5</sup> Exchange Server 2013 僅使用 Microsoft 反惡意程式碼引擎。Exchange Online 則使用多個反惡意程式碼引擎，來掃描輸入、輸出和內部訊息中是否有惡意程式碼。<br/><sup>6</sup> 對於需要非使用中信箱功能的信箱，可另外購買 EOA 訂閱。 
-<<br/>sup > 7</sup> ediscovery （英文），您需要針對內部部署和雲端比較不同的查詢。 
+<<br/>sup>7</sup> ediscovery （英文），您需要針對內部部署和雲端比較不同的查詢。 
 <br/><sup>8</sup> 支援 POP，但是不支援 IMAP。 
 <br/><sup>9</sup> office 365 商務 Essentials 和企業進階版不會提供存取權的內部部署伺服器的使用情況。若要相容，客戶必須購買或先前已購買適當的 Cal 或升級至企業 SKU，以提供這些存取權限。><br/><sup>10</sup> 混合式組態精靈適用於 Exchange 2013 CU5 及更新版本的內部部署。不過，某些混合功能有限制 - 如需詳細資訊，請參閱「了解由 21Vianet 運作的 Office 365」中的說明主題。<br/><sup>11</sup> 對於由 21Vianet 運作的 Office 365，LinkedIn 可用，但 Facebook 無法使用。 > 
 <br/><sup>12</sup> 混合部署安裝程式可透過 Exchange 2013 CU5 的混合式組態精靈取得，也可用手動方式設定 (如果您有 Exchange 2013 SP1)。如需詳細資訊，請參閱「了解由 21Vianet 運作的 Office 365」中的說明主題。<br/><sup>13</sup> POP 支援連線的帳戶&amp;IMAP 帳戶，但停用如 Outlook.com (Hotmail)。 
@@ -1116,8 +1117,8 @@ Office 365 安全性&amp;規範中心不是 Office 365 的 21Vianet 21vianet 任
 |[問題和風險管理 (適用於小組成員)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members) <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |[Office 365 信任中心](../project-online-service-description/core-services-functionality.md#office-365-trust-center) <br/> |否  <br/> |否  <br/> |否  <br/> |無  <br/> |不適用  <br/> |
 |[PPM 合作夥伴生態系統](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem) <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |
-|[服務可靠性](../project-online-service-description/core-services-functionality.md#service-reliability) <br/> |是  <br/> |是  <br/> |是  <br/> |不適用  <br/> |不適用  <br/> |
-|[服務更新](../project-online-service-description/core-services-functionality.md#service-updates) <br/> |是  <br/> |是  <br/> |是  <br/> |不適用  <br/> |不適用  <br/> |
+|[服務可靠性](../project-online-service-description/core-services-functionality.md#service-reliability) <br/> |是  <br/> |是  <br/> |是  <br/> |無  <br/> |不適用  <br/> |
+|[服務更新](../project-online-service-description/core-services-functionality.md#service-updates) <br/> |是  <br/> |是  <br/> |是  <br/> |無  <br/> |不適用  <br/> |
 |[小組成員共同作業](../project-online-service-description/core-services-functionality.md#team-member-collaboration) <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |[時間和任務管理 (適用於小組成員)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members) <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |**專案管理** <br/> |**Project Online 21Vianet 運作的 Office 365 基本版** <br/> |**Project Online 21Vianet 運作的 Office 365 專業版** <br/> |**Project Online 21Vianet 運作的 Office 365 進階版** <br/> |**21Vianet 運作的 Project Professional 2016 for Office 365** <br/> |**21Vianet 運作的 Project Server 2016 for Office 365** <br/> |

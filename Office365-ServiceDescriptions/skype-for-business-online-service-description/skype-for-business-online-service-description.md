@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 您是否要知道您需要購買來取得特定 Skype 的商務功能何種授權？請參閱 Skype for Business 授權概觀。
-ms.openlocfilehash: 4b25d8b5b67e2c53acdb76530c15c16ea945f074
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 000095f2f0f6831bc796915905b507ff7f037c5b
+ms.sourcegitcommit: 6bc22caa49b04042d17dc551628a6824fc3f93aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362928"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29506657"
 ---
 # <a name="skype-for-business-online-service-description"></a>商務用 Skype Online 服務說明
 
@@ -123,7 +123,7 @@ ms.locfileid: "25362928"
 |通話許可控制  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |接聽/啟始通話  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |通話委派  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|來電轉接和同時響鈴  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
+|來電轉接和同時響鈴  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |通話記錄  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |通話保留/擷取  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |通話駐留  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
@@ -299,7 +299,7 @@ ms.locfileid: "25362928"
 |||
 |:-----|:-----|
 |**Office 365 方案** <br/> |**商務用 Skype Online 功能** <br/> |
-|商務用 Skype Online 獨立方案 2  <br/> | Skype 會議廣播  <br/>  若為召集人、產生者、事件小組成員和經過驗證的出席者，則需要 Office 365 授權。  <br/>  若為匿名出席者，則不需要 Office 365 授權。  <br/>  商務用 Skype Online 獨立方案 2 或任何包含方案 2 的 Office 365 套件有提供下列附加元件︰  <br/>  語音會議 (在有限的國家/地區提供)。  <br/>  電話系統。  <br/> > [!NOTE]> 時附加元件購買，本身沒有呼叫計劃、 電話系統可讓僅混合語音功能。混合語音需要啟用 PSTN 通話使用您現有的 PSTN 服務提供者的內部部署客戶混合語音部署。下列的電話系統附加元件可用來啟用為 PSTN 服務提供者使用 Microsoft 的輸入和輸出 PSTN 通話： > 國內呼叫計劃 （可在有限的國家/地區） > 國際呼叫計劃 （可在有限的國家/地區）           |
+|商務用 Skype Online 獨立方案 2  <br/> | Skype 會議廣播  <br/>  若為召集人、產生者、事件小組成員和經過驗證的出席者，則需要 Office 365 授權。  <br/>  若為匿名出席者，則不需要 Office 365 授權。  <br/>  商務用 Skype Online 獨立方案 2 或任何包含方案 2 的 Office 365 套件有提供下列附加元件︰  <br/>  語音會議 (在有限的國家/地區提供)。  <br/>  電話系統。  <br/> > [!NOTE]> 時沒有呼叫計劃、 電話系統購買單獨啟用僅混合語音功能。混合語音需要啟用 PSTN 通話使用您現有的 PSTN 服務提供者的內部部署客戶混合語音部署。下列的電話系統附加元件可用來啟用為 PSTN 服務提供者使用 Microsoft 的輸入和輸出 PSTN 通話： 呼叫規劃國際通用的 > 國內呼叫計劃 （可在有限的國家/地區） > （可在有限的國家/地區）           |
 |商務用 Skype Online 獨立方案 3  <br/> |商務用 Skype Online 獨立方案 3。  <br/> > [!NOTE]> 此計劃僅用於協力廠商語音服務提供者並*不*提供任何呼叫服務，例如音訊會議、 電話系統、 國內呼叫計劃]，或國際呼叫計劃。           |
 |Office 365 商務進階版  <br/> | Skype 會議廣播：  <br/>  若為召集人、產生者、事件小組成員和經過驗證的出席者，則需要 Office 365 授權。  <br/>  若為匿名出席者，則不需要 Office 365 授權。  <br/>  語音會議 (在適用的國家/地區)。  <br/> |
 |Office 365 企業版 E1  <br/> |商務用 Skype Online 獨立方案 2 (請參閱上方的商務用 Skype Online 獨立方案 2 以了解包含的功能)。  <br/> |
