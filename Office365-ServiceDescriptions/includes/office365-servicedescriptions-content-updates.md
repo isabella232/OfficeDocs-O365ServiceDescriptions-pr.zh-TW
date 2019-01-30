@@ -43,3 +43,12 @@
 | 1/17/2019 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 修改時間 |
 | 1/17/2019 | [Office 365 服務描述](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | 修改時間 |
 | 1/18/2019 | [最近的服務描述變更](/Office365/ServiceDescriptions/recent-service-descriptions-changes) | 修改時間 |
+
+
+## <a name="week-of-january-21-2019"></a>2019 年 1 月 21 日當週
+
+
+| 發佈時間 |主題標題 | 變更 |
+|------|------------|--------|
+| 1/24/2019 | [商務用 Skype Online 服務說明](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | 修改時間 |
+| 1/24/2019 | [Office 365 平台服務說明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 修改時間 |

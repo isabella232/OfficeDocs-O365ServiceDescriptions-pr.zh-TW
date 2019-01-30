@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: 使用 OneNote 的線上 (前身為 OneNote Web App) 可取得您可以從任何位置新增至並輕鬆地與其他人共用的 OneNote 筆記本中的線上備忘稿。所有的 Office 365 客戶可以檢視和限制性編輯 Office 檔案使用 Office Online。
-ms.openlocfilehash: a85614afd9b1757c619e75d4274285b366be88b8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 19725db54781c872d720767c1419f9b7529cb6df
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035346"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612746"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -124,7 +124,8 @@ OneNote Online 不提供將備註連結至檔案的功能，且會將檔案連�
 ## <a name="notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups"></a>筆記本管理：跨章節/筆記本頁面歸檔、重新排序章節、建立/刪除章節群組
 <a name="bkmk_AdvancedNotebookManagement"> </a>
 
-不適用於 OneNote Online。僅 OneNote 桌面應用程式提供進階的管理功能 (例如：重新排序章節、建立和刪除章節群組、拖放頁面歸檔)。 
+使用 OneNote Online，您可以拖錄製頁面和章節。  
+進階管理功能，例如建立、 刪除和重新排序] 區段中的群組都只可以在 OneNote 桌面應用程式。
   
 ## <a name="offline-viewing-and-authoring"></a>離線檢視和撰寫
 <a name="bkmk_Offlineviewing"> </a>

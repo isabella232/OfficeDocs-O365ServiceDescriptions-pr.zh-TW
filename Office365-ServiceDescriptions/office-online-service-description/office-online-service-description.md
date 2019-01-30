@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Excel、 OneNote 和 PowerPoint 文件。Office Online 容易搭配使用和共用 Office 檔案從任何位置具有網際網路連線，從幾乎任何裝置。Word、 Excel、 OneNote、 或 PowerPoint 的 Microsoft Office 365 客戶可以檢視、 建立及編輯移上的檔案。
-ms.openlocfilehash: 23eb27211f6225ec0e6b70b3993356cec693adc9
-ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
+ms.openlocfilehash: cbdde47716f983928ac83fa67b09d420c43fedc5
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "25435821"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612766"
 ---
 # <a name="office-online-service-description"></a>Office Online 服務說明
 
@@ -32,7 +32,7 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 需要協助找出最佳的 Office 解決方案適合貴組織？下表比較 Office Online 的功能與功能豐富 Microsoft Office 桌面應用程式。使用表格來探索哪些功能可在 Office Online] 和 [讀取有關該功能的運作方式的簡短描述的功能名稱。您可能會發現當您的組織中有些人員時其他人只需要能夠檢視及限制性編輯 Word 文件和 PowerPoint 簡報與 Office Online 搭配會需要 Excel 桌面應用程式的進階圖表功能。 
   
 > [!NOTE]
->  選擇 Office 功能的限制在選取項目代表 Office 桌面套件的進階的功能。資料表不是 Microsoft Office 功能的完整清單。> Microsoft Office 365 ProPlus 是每月訂閱產品項目之最新版的 Office 桌面套件。> Microsoft Office Online Server 內部部署客戶取得 Office Online 如果他們已購買 Office 桌面套件授權 （例如 Office Professional Plus、 Office Standard 或 Office 365 ProPlus 的授權） 編輯授權。 
+>  選擇 Office 功能的限制在選取項目代表 Office 桌面套件的進階的功能。資料表不是 Microsoft Office 功能的完整清單。Microsoft Office 365 ProPlus > 是每月訂閱產品項目之最新版的 Office 桌面套件。> Microsoft Office Online Server 內部部署客戶取得 Office Online 編輯授權如果他們已購買 Office 桌面套件授權 （例如 Office Professional Plus、 Office Standard 或 Office 365 ProPlus 的授權）。 
   
 > [!NOTE]
 > 當您開啟 Office 文件時，無論其為 Outlook 電子郵件的附件或來自 SharePoint 文件庫，該文件都會在 Office Online 中啟動，且為唯讀模式。若要在 Office Online (編輯模式) 中編輯文件，您需要 Office 365 套件授權 (如 Office 365 企業版 E1)。若要在桌面應用程式中編輯文件，您需要 Office 桌面套件授權 (如 Office 365 ProPlus 訂閱) 或 Office Professional Plus 2010 的安裝版本。 
@@ -111,7 +111,7 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |[縮放](word-online.md#zoom) <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>這些呈現在檢視器，但您無法建立或編輯 Office Online 中。> <sup>2</sup>部分，但並非所有 Office 增益集可用。 
+> <sup>1</sup>這些呈現在檢視器，但您無法建立或編輯 Office Online 中。提供一些，但並非所有 Office 增益集所 > <sup>2</sup> 。 
   
 ### <a name="excel"></a>Excel
 <a name="BKMK_ExcelFeatures"> </a>
@@ -204,6 +204,9 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |[共同撰寫](onenote-online.md#co-authoring) <br/> |是  <br/> |是  <br/> |
 |[建立和管理頁面和章節](onenote-online.md#create-and-manage-pages-and-sections) <br/> |是  <br/> |是  <br/> |
 |[下載嵌入的 Office 檔案副本](onenote-online.md#download-copy-of-embedded-office-files) <br/> |是  <br/> |是<sup>4</sup> <br/> |
+|[頁面拖放] <br/> |是  <br/> |是 <br/> |
+|[將拖放區段] <br/> |是  <br/> |是 <br/> |
+|[將拖放區段群組] <br/> |否  <br/> |是 <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |是  <br/> |是  <br/> |
 |[編輯嵌入的檔案](onenote-online.md#EmbeddedFileEdit) <br/> |否  <br/> |是  <br/> |
 |[方程式](onenote-online.md#equations) <br/> |是  <br/> |是  <br/> |
