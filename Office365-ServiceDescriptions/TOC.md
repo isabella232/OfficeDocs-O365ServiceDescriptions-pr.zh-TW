@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 1275e75d58e1f96cdf1c7c21dbcb8f9003e2154a
-ms.sourcegitcommit: 4fe0681e4bbfb5ffd36d1a5517b1a34e0eced7cf
-ms.translationtype: HT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "28728667"
----
 
   
 
@@ -19,7 +11,8 @@ ms.locfileid: "28728667"
 ### [Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
 #### [GCC High 和 DoD](office-365-platform-service-description/office-365-us-government/gcc-high-and-dod.md)
-### [21Vianet 運作的 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md)
+#### [如何購買 Microsoft 365 政府版](office-365-platform-service-description\office-365-us-government\microsoft-365-government-how-to-buy.md)
+### [由 21Vianet 運作的 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md)
 ### [Office 365 Germany](office-365-platform-service-description/office-365-germany.md)
 ### [Office 365 教育版](office-365-platform-service-description/office-365-education.md)
 ### [Microsoft 365 教育版](office-365-platform-service-description/microsoft-365-education.md)
