@@ -3,7 +3,7 @@ title: Office 365 進階威脅防護服務說明
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 01/02/2019
+ms.date: 02/08/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 進階威脅防護 (ATP) 是一種雲端架構電子郵件篩選服務，提供強大的零時差保護，同時也擁有即時保護組織防止有害連結的功能，可協助保護您的組織抵禦不明惡意軟體和病毒。ATP 具有豐富報告和 URL 追蹤功能，可讓系統管理員深入了解組織中發生的攻擊的類型。
-ms.openlocfilehash: f8a44cdebebafe575f5c22a3a491671f57b05d49
-ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
+ms.openlocfilehash: aeddc27c0275cb21ec257878e0978961356e7a85
+ms.sourcegitcommit: 30a452b9b9a0d8fc288e5911235454cc8f1907be
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "27784865"
+ms.lasthandoff: 02/11/2019
+ms.locfileid: "29884194"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 進階威脅防護服務說明
 
@@ -26,7 +26,7 @@ Microsoft Office 365 進階威脅防護 (ATP) 是一種雲端架構電子郵件�
   
 您可以使用 ATP 的郵件保護的主要方法如下：
   
-- 在 Office 365 ATP 僅篩選案例中，ATP 會針對內部部署 Exchange Server 2013 環境、舊式 Exchange Server 版本或任何其他內部部署 SMTP 電子郵件解決方案，提供雲端式電子郵件保護。
+- 在 Office 365 ATP 僅篩選案例 ATP 提供雲端式電子郵件保護內部部署 Exchange Server 環境或任何其他內部部署 SMTP 電子郵件解決方案。
     
 - Office 365 ATP 可保護 Exchange Online 的雲端託管信箱。若要深入了解 Exchange Online，請參閱 [Exchange Online 服務說明](exchange-online-service-description/exchange-online-service-description.md)。
     
@@ -35,9 +35,6 @@ Microsoft Office 365 進階威脅防護 (ATP) 是一種雲端架構電子郵件�
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Office 365 進階威脅防護 (ATP) 可用性
 
 ATP 隨附於 Office 365 企業版 E5、 Office 365 教育版 A5、 及 Microsoft 365 Business。 
-  
-> [!NOTE]
-> Microsoft 365 Business 中的用戶端相依 ATP 功能將會提供夏季 2018年。 
   
 您可以將 ATP 新增至下列 Exchange 與 Office 365 訂閱計劃： 
   
@@ -63,11 +60,13 @@ ATP 隨附於 Office 365 企業版 E5、 Office 365 教育版 A5、 及 Microsof
     
 - Office 365 A3
     
-若要購買 Office 365 進階威脅防護，請參閱 [Office 365 進階威脅防護](https://go.microsoft.com/fwlink/p/?LinkId=294201)。
+若要購買 Office 365 進階威脅防護，請參閱 [Office 365 進階威脅防護](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)。
   
 若要跨方案比較功能，請參閱 [比較 Office 365 for Business 方案](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
   
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Office 365 進階威脅防護 (ATP) 的新增功能
+
+開始在年 2 月 2019年和後續的幾個月內啟用、 威脅智慧功能會被新增至 ATP。此外，如果您的組織目前沒有 ATP，您必須考量，新的選項包括 ATP 計劃 1 和 ATP 計劃 2。如需詳細資訊，請參閱[Office 365 進階威脅保護計劃和價格](https://products.office.com/en-us/exchange/advance-threat-protection#pmg-allup-content)和[不同進階威脅保護 (ATP) 計劃中可用的功能](#feature-availability-across-advanced-threat-protection-atp-plans)。
 
 ATP 中的新功能的相關資訊，請參閱[ATP 中的新功能](https://docs.microsoft.com/office365/securitycompliance/office-365-atp#new-features-are-continually-being-added-to-atp)。
   
@@ -79,33 +78,52 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 每項功能如下所列。提到 Exchange Online 時，通常是指 Office 365 企業版服務系列。
   
-|**功能**|**ATP 獨立**|**Exchange Online Protection**|
-|:-----|:-----|:-----|
-|安全連結  <br/> |是  <br/> |否  <br/> |
-|安全附件  <br/> |是  <br/> |否  <br/> |
-|詐騙智慧  <br/> |是  <br/> |否  <br/> |
-|隔離區  <br/> |是  <br/> |是  <br/> |
-|進階反網路釣魚功能  <br/> |是  <br/> |否  <br/> |
+|**功能**|**ATP 計劃 1**<br>（前身為 ATP 獨立版）|**ATP 計劃 2**<br>（前身為威脅智慧 <br>獨立版） | Office 365 企業版 E5| 
+|:-----|:-----|:-----|:-----|
+| *設定、 保護及偵測* | 
+|安全附件 |是|有 |可以|
+|安全連結 |是|有 |可以 | 
+|反網路釣魚原則 |是 |有 |可以 |
+|SharePoint、 OneDrive 及 Microsoft 小組 ATP |是 |有 |可以|
+|小組中的安全連結 |是|有 |可以 |
+|即時報告 |是 |有 |可以|
+|*自動化、 調查、 修復及教育* |
+|威脅追蹤者 |否 |是 |可以 |
+|Explorer （進階威脅調查） |否 |是 |可以 |
+|將正在調查自動化及回應  |否 |是 |可以 |
+|攻擊模擬器 |否 |是 |可以 |
+
    
 ## <a name="advanced-threat-protection-atp-capabilities"></a>進階威脅防護 (ATP) 功能
 
-### <a name="safe-links"></a>安全連結
-
-ATP 安全連結功能主動保護您的使用者，抵禦郵件中的惡意超連結。因為可動態封鎖惡意連結，允許存取無害連結，所以每次使用者按一下連結時都能受到持續保護。
-  
 ### <a name="safe-attachments"></a>安全附件
 
-安全附件可防止不明的惡意軟體和病毒，並提供零時差保護來保護郵件系統。所有沒有已知病毒/惡意軟體簽章的訊息與附件將被路由傳送至特殊的環境，其中 ATP 會使用不同的機器學習與分析技術來偵測惡意的意圖。如果未偵測到可疑活動，即會釋出訊息傳遞到信箱。 
-  
-### <a name="spoof-intelligence"></a>詐騙智慧
+[ATP 安全附件](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)提供保護，避免未知的惡意程式碼及病毒，並提供零時差保護功能可保護您的訊息系統。所有的訊息與附件沒有已知的病毒/惡意程式碼簽章會路由傳送給其中 ATP 會使用各種機器學習與分析的技術來偵測惡意的特殊環境。如果偵測不到任何可疑的活動時，郵件已傳遞至信箱的發行。 
 
-詐騙智慧偵測時寄件者看起來會將代表一個或多個使用者帳戶的郵件傳送內的其中一個貴組織的網域。它可讓您檢閱所有寄件者詐騙您的網域，然後選擇 [允許繼續或封鎖的寄件者寄件者。詐騙智慧有安全性&amp;反垃圾郵件設定] 頁面上的規範中心。
-  
-### <a name="quarantine"></a>隔離區
+### <a name="safe-links"></a>安全連結
 
-由 Office 365 服務識別為垃圾郵件、大量郵件、網路釣魚郵件、包含惡意程式碼的郵件，或因為它們符合郵件流程規則的郵件都可以傳送至隔離區。根據預設，Office 365 會直接將網路釣魚郵件和包含惡意程式碼的郵件傳送至隔離區。經過授權的使用者可以檢視、刪除或管理已傳送至隔離區的電子郵件郵件。
-  
-### <a name="advanced-anti-phishing-capabilities"></a>進階反網路釣魚功能
+[ATP 安全連結](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links)功能主動會從一則訊息或 Office 文件中的惡意 Url 保護您的使用者。保護仍會保留每次他們按一下連結，如時可以存取良好的連結以動態方式會封鎖惡意的連結。
 
-這項功能會使用機器學習模型來偵測網路釣魚郵件。 
+### <a name="anti-phishing-policies"></a>反網路釣魚原則
+
+[ATP 反網路釣魚](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)會檢查內送郵件訊息可能是網路釣魚嘗試的指標。涵蓋使用者的內送郵件評估的多部機器學習分析訊息的模型 ATP 原則 （安全附件、 安全的連結或反網路釣魚），並採取適當的動作，根據設定的原則。
   
+### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>適用於 SharePoint、OneDrive 及 Microsoft Teams 的 ATP
+
+[SharePoint、 OneDrive 及 Microsoft 小組 ATP](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)協助偵測和封鎖識別為惡意小組網站和文件庫中的檔案。
+
+### <a name="real-time-reports"></a>即時報告
+
+監視功能可在 Office 365 安全性 & 規範中心包括[提供及即時報告](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp)可讓您以專注於高優先順序的問題，例如安全性攻擊的安全性和規範系統管理員或增加可疑的活動。除了反白顯示問題區域、 智慧報表及前瞻包括建議及檢視及探索資料及也採取快速連結。 
+  
+### <a name="threat-trackers"></a>威脅追蹤者
+
+[威脅追蹤者](https://docs.microsoft.com/office365/securitycompliance/threat-trackers)為資訊性 widget 及授權的使用者提供 cybersecurity 問題可能會影響您的組織上的智慧的檢視。
+
+### <a name="explorer"></a>瀏覽器
+
+[瀏覽器](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance)（也稱為威脅 Explorer） 是即時報告可讓授權的使用者來識別和分析最近的威脅。根據預設，這份報告顯示資料的過去 7 天;不過，可以修改檢視顯示過去 30 天的資料。 
+
+### <a name="attack-simulator"></a>攻擊模擬器
+  
+[攻擊模擬器](https://docs.microsoft.com/office365/SecurityCompliance/attack-simulator)可讓組織中執行真實感化的攻擊案例的授權的使用者。數個不同的攻擊可用，包括顯示名稱矛網路釣魚攻擊、 密碼噴灑攻擊，與暴力密碼攻擊。
