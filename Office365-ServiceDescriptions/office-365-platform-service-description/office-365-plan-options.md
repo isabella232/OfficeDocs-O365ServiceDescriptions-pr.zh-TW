@@ -17,12 +17,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。
-ms.openlocfilehash: ddb665c12ddb1b8b7e0b6e5a7aae9599145a9d39
-ms.sourcegitcommit: 1544ec1e67bc1e56e89d5ec56cafb94d2eb51e70
+ms.openlocfilehash: d775e3bef016989bd43708272ec45fe5a2df6b3a
+ms.sourcegitcommit: 30a452b9b9a0d8fc288e5911235454cc8f1907be
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/02/2018
-ms.locfileid: "25358650"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "26984796"
 ---
 # <a name="office-365-plan-options"></a>Office 365 方案選項
 
@@ -51,17 +51,17 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**服務** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5<sup>4</sup>** <br/> |**Office 365 企業版 F1** <br/> |
-|Office 365 平台  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|**服務** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5<sup>4</sup>，<sup>16</sup>** <br/> |**Office 365 企業版 F1** <br/> |
+|Office 365 平台  <br/> |是  <br/> |否   <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |Yes<sup>6</sup> <br/> |否  <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>7</sup> <br/> |是<sup>7</sup> <br/> |Yes<sup>9</sup> <br/> |
-|SharePoint Online  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|商務用 OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>5</sup> <br/> |
+|SharePoint Online  <br/> |是  <br/> |否   <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可以  <br/> |
+|商務用 OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可以  <br/> |Yes<sup>5</sup> <br/> |
 |Skype for Business 線上<sup>15</sup> <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>13</sup> <br/> |Yes<sup>14</sup> <br/> |
 |Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 應用程式  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|Office 應用程式  <br/> |否  <br/> |是  <br/> |有  <br/> |否   <br/> |是  <br/> |有  <br/> |否  <br/> |
 |Project Online  <br/> |無<sup>1</sup> <br/> |否  <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |無<sup>1</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|Yammer Enterprise  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Yammer Enterprise  <br/> |是  <br/> |否   <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可以  <br/> |
 |Azure 的資訊保護<sup>3</sup> <br/> |沒有<sup>2</sup> <br/> |否  <br/> |否<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |是  <br/> |沒有<sup>2</sup> <br/> |
    
 > <sup>1</sup> Project Online 並不包含在內，但可以當作附加服務來單獨購買，若是 Office 365 教育版 方案，則可免費新增此功能。 > 
@@ -71,7 +71,7 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。
 <br/><sup>9</sup> 包含 Exchange Online Kiosk。 > 
 <br/><sup>10</sup> 包含商務用 Skype Online Plan 2 與基本用戶端限制。 > <br/><sup>11</sup> 包含商務用 Skype Online Plan 2 且沒有任何用戶端限制。 > <br/><sup>12</sup> 包含商務用 Skype Online Plan 1 加上附加功能。 > <br/><sup>13</sup> 包含商務用 Skype Online Plan 2 與語音支援，且沒有任何用戶端限制。 > 
 <br/><sup>14</sup> 包含商務用 Skype Online Plan 1。 
-<br><sup>15</sup>的 Microsoft 小組現在是主要的用戶端訊息、 會議和 Office 365 中呼叫的。啟動 2018 年 10 月 1 新的 Office 365 客戶 500 基座或更少會 onboarded 至 Microsoft 小組而且將不會進行商務 Online 有 Skype 存取。租用戶的已在使用 Skype for Business 線上將能夠繼續這麼做可以 （包括佈建的新使用者） 直到完成其轉換到 Microsoft 小組。
+<br><sup>15</sup>的 Microsoft 小組現在是主要的用戶端訊息、 會議和 Office 365 中呼叫的。啟動 2018 年 10 月 1 新的 Office 365 客戶 500 基座或更少會 onboarded 至 Microsoft 小組而且將不會進行商務 Online 有 Skype 存取。租用戶的已在使用 Skype for Business 線上將能夠繼續這麼做可以 （包括佈建的新使用者） 直到完成其轉換到 Microsoft 小組。<br><sup>16</sup>包括進階規範、 提供進階資料控管、 進階的 eDiscovery、 客戶 Lockbox、 客戶索引鍵、 權限存取管理]，以及長期稽核記錄保留功能。
   
 #### <a name="basic-client-limitations"></a>基本用戶端限制
 
