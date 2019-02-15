@@ -9,12 +9,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 3fd2b91c7bd77c20ad429f0e2d61cce4b9106e6d
-ms.sourcegitcommit: 087c02907ef8bee6debe438c087469287a11ef07
+ms.openlocfilehash: 0f62679cf706c6ffab86e801b27c91555e06834b
+ms.sourcegitcommit: 8cdba6f181613cd1bb9e3c268f240d9e4dd516f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/31/2019
-ms.locfileid: "29673997"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "30052528"
 ---
 ---
 
@@ -115,7 +115,7 @@ GCC 與 GCC 高方案可用來為合格的 Microsoft 政府雲端，任何客戶
 <a name="BM3-withinUSA"> </a>
 
 請遵循下列步驟來購買 Microsoft 365 政府授權：
-1.   [完成並送出表單](https://aka.ms/m365usgoveligibility/)來驗證您組織的資格。 
+1.   [完成並送出表單](https://products.office.com/en-us/government/eligibility-validation)來驗證您組織的資格。 
 2.  使用 Microsoft 帳戶小組或完整協力廠商放置順序。客戶可以購買 Microsoft 365 只能透過 select 協力廠商的美國政府授權。
 
 **Lsp GCC 與 GCC 高 （+ 500 基座）** 
