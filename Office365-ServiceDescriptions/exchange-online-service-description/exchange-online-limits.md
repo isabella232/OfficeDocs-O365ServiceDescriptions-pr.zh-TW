@@ -3,7 +3,7 @@ title: Exchange Online 限制
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 7/13/2018
+ms.date: 02/19/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
-ms.openlocfilehash: 26fc2f55bc678103b92607978d3a5c746d5df8cc
-ms.sourcegitcommit: 0b61418567c542fe1f22da3174627b427218e18d
+ms.openlocfilehash: 5e52414fddae0fd1482fbad3bdffa44b081c3ed5
+ms.sourcegitcommit: de3d6f2aa5af01645705efe88bb41f9f3a5eef04
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25492793"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "30103111"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -107,7 +107,7 @@ ms.locfileid: "25492793"
 |封存信箱<sup>7, 8</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |無限制的<sup>1</sup> <br/> |無限制的<sup>1</sup> <br/> |無法使用<sup>4</sup> <br/> |
 |共用信箱  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2,9</sup> <br/> |50 GB<sup>2,9</sup> <br/> |50 GB<sup>2</sup> <br/> |
 |資源信箱  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3,9</sup> <br/> |50 GB<sup>3,9</sup> <br/> |50 GB<sup>3</sup> <br/> |
-|站台信箱<sup>5</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |無法使用  <br/> |
+|站台信箱<sup>5</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |無  <br/> |
 |公用資料夾信箱  <br/> |50 GB<sup>6</sup> <br/> |50 GB<sup>6</sup> <br/> |50 GB<sup>6</sup> <br/> |100 GB<sup>6</sup> <br/> |100 GB<sup>6</sup> <br/> |無法使用  <br/> |
 |群組信箱  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
    
@@ -206,7 +206,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |每一信箱資料夾的子資料夾數目警告  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
 |資料夾階層深度上限  <br/> |300  <br/> |300  <br/> |300  <br/> |300  <br/> |300  <br/> |300  <br/> |
 |資料夾階層深度警告  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|最大公用資料夾數目  <br/> | 500,000  <br/> | 500,000  <br/> | 500,000  <br/> | 500,000  <br/> | 500,000  <br/> |無  <br/> |
+|最大公用資料夾數目  <br/> | 500,000  <br/> | 500,000  <br/> | 500,000  <br/> | 500,000  <br/> | 500,000  <br/> |無法使用  <br/> |
 |每一公用資料夾的子資料夾數目上限  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |無  <br/> |
 |每一公用資料夾的子資料夾數目警告  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |無  <br/> |
    
@@ -230,7 +230,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |每一信箱資料夾的子資料夾數目警告  <br/> |無限制  <br/> |900  <br/> |900  <br/> |900  <br/> |
 |資料夾階層深度上限  <br/> |無限制  <br/> |300  <br/> |300  <br/> |300  <br/> |
 |資料夾階層深度警告  <br/> |無限制  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|最大公用資料夾數目  <br/> |1,000,000  <br/> |100,000  <br/> |100,000  <br/> |無  <br/> |
+|最大公用資料夾數目  <br/> |1,000,000  <br/> |100,000  <br/> |100,000  <br/> |無法使用  <br/> |
 |每一公用資料夾的子資料夾數目上限  <br/> |不適用  <br/> |1,000  <br/> |1,000  <br/> |無  <br/> |
 |每一公用資料夾的子資料夾數目警告  <br/> |不適用  <br/> |900  <br/> |900  <br/> |無  <br/> |
    
@@ -343,7 +343,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |收件者流量限制  <br/> |每天 10,000 位收件者  <br/> |每天 10,000 位收件者  <br/> |每天 10,000 位收件者  <br/> |每天 10,000 位收件者  <br/> |每天 10,000 位收件者  <br/> |每天 10,000 位收件者  <br/> |
 |收件者限制  <br/> |500 位收件者  <br/> |500 位收件者  <br/> |500 位收件者  <br/> |500 位收件者  <br/> |500 位收件者  <br/> |500 位收件者  <br/> |
 |收件者 proxy 位址限制  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |
-|郵件速率限制 (僅限 SMTP 用戶端提交)  <br/> |每分鐘 30 封郵件  <br/> |每分鐘 30 封郵件  <br/> |每分鐘 30 封郵件  <br/> |每分鐘 30 封郵件  <br/> |每分鐘 30 封郵件  <br/> |每分鐘 30 封郵件  <br/> |
+|郵件流量限制  <br/> |每分鐘 30 封郵件  <br/> |每分鐘 30 封郵件  <br/> |每分鐘 30 封郵件  <br/> |每分鐘 30 封郵件  <br/> |每分鐘 30 封郵件  <br/> |每分鐘 30 封郵件  <br/> |
    
 #### <a name="sending-limits-across-standalone-options"></a>不同獨立選項的傳送限制
 
@@ -502,7 +502,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
-|仲裁信箱的大小上限  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
+|仲裁信箱的大小上限  <br/> |10GB  <br/> |10GB  <br/> |10GB  <br/> |10GB  <br/> |10GB  <br/> |10 GB  <br/> |
 |仲裁者人數上限  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |
 |等候仲裁的郵件到期日  <br/> |2 天  <br/> |2 天  <br/> |2 天  <br/> |2 天  <br/> |2 天  <br/> |2 天  <br/> |
 |過期仲裁通知郵件的最大速率  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |
@@ -512,7 +512,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Exchange Server 2013** <br/> |**Exchange Online 方案 1** <br/> |**Exchange Online 方案 2** <br/> |**Exchange Online Kiosk** <br/> |
-|仲裁信箱的大小上限  <br/> |沒有限制<sup>1</sup> <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
+|仲裁信箱的大小上限  <br/> |沒有限制<sup>1</sup> <br/> |10 GB  <br/> |10GB  <br/> |10 GB  <br/> |
 |仲裁者人數上限  <br/> |無限制  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |
 |等候仲裁的郵件到期日  <br/> |5 天<sup>1</sup> <br/> |2 天  <br/> |2 天  <br/> |2 天  <br/> |
 |過期仲裁通知郵件的最大速率  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |
