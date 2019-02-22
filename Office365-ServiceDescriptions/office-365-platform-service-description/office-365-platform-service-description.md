@@ -3,7 +3,7 @@ title: Office 365 平台服務說明
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 2/21/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如果您正在尋找 Office 365 計劃，包括 Exchange Online 的計劃之間的差異本文將告訴您哪些功能都包含在這些項目的。
-ms.openlocfilehash: 4d52cda4032c1e94b478486e5df5fa81898abcf1
-ms.sourcegitcommit: 6bc22caa49b04042d17dc551628a6824fc3f93aa
+ms.openlocfilehash: 9656e9259f416b6077ece895697d098fc4652361
+ms.sourcegitcommit: 30c7b713cbe28bc2ce1f0bd850e48fbc9b1d63f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29506667"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30199790"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服務說明
 
@@ -94,42 +94,42 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |**[Office 365 系統管理功能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
-|使用 Office 365 系統管理中心或 Windows PowerShell來管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|使用 Azure 資訊保護 來保護內容  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |是  <br/> |沒有<sup>2</sup> <br/> |
+|使用 Office 365 系統管理中心或 Windows PowerShell來管理 Office 365  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|使用 Azure 資訊保護 來保護內容  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |可以  <br/> |沒有<sup>2</sup> <br/> |
 |**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
-|Microsoft Bookings  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Microsoft Flow  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>14</sup> <br/> |
-|Microsoft 表單  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft MyAnalytics  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|Microsoft Planner  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|Microsoft PowerApps  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>13</sup> <br/> |
-|Microsoft StaffHub  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft Stream  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>18</sup> <br/> |
-|Microsoft Sway  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>8</sup> <br/> |Yes<sup>8</sup> <br/> |Yes<sup>8</sup> <br/> |Yes<sup>8</sup> <br/> |
-|Microsoft 小組<sup>10</sup> <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>12</sup> <br/> |
-|Office Delve  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|Office 365 群組  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 365 影片  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>11</sup> <br/> |
+|Microsoft Bookings  <br/> |否  <br/> |否  <br/> |是  <br/> |否   <br/> |否  <br/> |否  <br/> |否  <br/> |
+|Microsoft Flow  <br/> |是  <br/> |沒有  <br/> |是  <br/> |是   <br/> |是   <br/> |是  <br/> |Yes<sup>14</sup> <br/> |
+|Microsoft 表單  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|Microsoft Graph API  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |
+|Microsoft MyAnalytics  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否   <br/> |
+|Microsoft Planner  <br/> |是  <br/> |沒有  <br/> |是  <br/> |是   <br/> |是   <br/> |有  <br/> |否  <br/> |
+|Microsoft PowerApps  <br/> |是  <br/> |沒有  <br/> |是  <br/> |是   <br/> |是   <br/> |可以  <br/> |Yes<sup>13</sup> <br/> |
+|Microsoft StaffHub  <br/> |否  <br/> |否  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|Microsoft Stream  <br/> |否  <br/> |否  <br/> |是  <br/> |是   <br/> |是   <br/> |是  <br/> |Yes<sup>18</sup> <br/> |
+|Microsoft Sway  <br/> |是  <br/> |是   <br/> |是  <br/> |Yes<sup>8</sup> <br/> |Yes<sup>8</sup> <br/> |Yes<sup>8</sup> <br/> |Yes<sup>8</sup> <br/> |
+|Microsoft 小組<sup>10</sup> <br/> |是  <br/> |沒有  <br/> |是  <br/> |是   <br/> |是   <br/> |可以  <br/> |是<sup>12</sup> <br/> |
+|Office Delve  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |有  <br/> |否   <br/> |
+|Office 365 群組  <br/> |是  <br/> |沒有  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |
+|Office 365 影片  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是   <br/> |可以  <br/> |Yes<sup>11</sup> <br/> |
 |OneNote 課程筆記本  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>15</sup> <br/> |否  <br/> |
 |**[使用者帳戶管理](user-account-management.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
-|雲端識別、聯盟識別或多重因素驗證  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 365 桌面設定  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|使用.csv 檔案大量上傳  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|目錄同步處理工具  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Exchange 簡易 (完全) 移轉  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|從 Office 365 或使用 Windows PowerShell 刪除帳戶並重設使用者密碼<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|使用者可以變更自己的密碼<sup>4</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|雲端識別、聯盟識別或多重因素驗證  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|Office 365 桌面設定  <br/> |是  <br/> |否  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|使用.csv 檔案大量上傳  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|目錄同步處理工具  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|Exchange 簡易 (完全) 移轉  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|從 Office 365 或使用 Windows PowerShell 刪除帳戶並重設使用者密碼<sup>3</sup> <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |
+|使用者可以變更自己的密碼<sup>4</sup> <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |
 |管理授權  <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |
-|從 Office 365 管理安全性群組  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|多個可用的管理員角色  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|允許合作夥伴代替您管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Azure Active Directory 服務  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|從 Office 365 管理安全性群組  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|多個可用的管理員角色  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|允許合作夥伴代替您管理 Office 365  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|Azure Active Directory 服務  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |
 |**[網域](domains.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |新增自訂的第 2 層網域，如 fourthcoffee.com  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |新增自訂的第 3 層網域，如 marketing.fourthcoffee.com  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |最多可新增 900 個自訂網域  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|由 Office 365 管理的 DNS 記錄 (完整重新委派)  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|由 Office 365 管理的 DNS 記錄 (完整重新委派)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |在您的 DNS 代管提供者網站上管理的 DNS 記錄 (部分重新委派)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |將 **name.onmicrosoft.com** 網域或自訂的網域名稱用於電子郵件地址和商務用 Skype Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |將 **name.sharepoint.com** 用於您的小組網站  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -151,19 +151,19 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 |傳送和接收的郵件  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |排名最前面的寄件者及收件者  <br/> |是  <br/> |--  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |垃圾郵件偵測  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|惡意程式碼偵測  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|郵件中排名最前面的惡意程式碼  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|郵件符合規則的數目  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|郵件排名最前面的相符規則  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|郵件排名最前面的相符 DLP 原則  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|依重要性分組顯示郵件符合 DLP 原則的數目  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|郵件的 DLP 原則比對、覆寫及誤判  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|郵件排名最前面的相符 DLP 規則  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|IM 和音訊工作階段  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|應用程式共用、Web 及電話撥入式會議  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|視訊、應用程式共用及檔案傳輸工作階段  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|IM 和音訊/視訊會議  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|可下載的郵件保護報告  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|惡意程式碼偵測  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|郵件中排名最前面的惡意程式碼  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|郵件符合規則的數目  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|郵件排名最前面的相符規則  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|郵件排名最前面的相符 DLP 原則  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |有  <br/> |否   <br/> |
+|依重要性分組顯示郵件符合 DLP 原則的數目  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |有  <br/> |否   <br/> |
+|郵件的 DLP 原則比對、覆寫及誤判  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |有  <br/> |否   <br/> |
+|郵件排名最前面的相符 DLP 規則  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |有  <br/> |否  <br/> |
+|IM 和音訊工作階段  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|應用程式共用、Web 及電話撥入式會議  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |
+|視訊、應用程式共用及檔案傳輸工作階段  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|IM 和音訊/視訊會議  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |
+|可下載的郵件保護報告  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用的瀏覽器  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用的作業系統  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Office 365 報表 Web 服務，建立自己的報表  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -176,20 +176,20 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 |線上說明  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |社群  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |其他自助資源  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|自訂進度訓練  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|自訂進度訓練  <br/> |是  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
 |**[網路功能](networking.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
-|IPv4 和 IPv6 通訊協定  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|IPv4 和 IPv6 通訊協定  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |
 |**信任** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
-|**[隱私權、安全性和透明化](privacy-security-and-transparency.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|**[隱私權、安全性和透明化](privacy-security-and-transparency.md)** <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
 |Office 365 雲端 App 安全性  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|進階威脅防護  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|Customer Lockbox  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|Office 365<sup>16</sup>的客戶機碼 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|Office 365 進階的 eDiscovery<sup>17</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|安全分數<sup>7</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|進階威脅防護  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否   <br/> |
+|Customer Lockbox  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否   <br/> |
+|Office 365<sup>16</sup>的客戶機碼 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否   <br/> |
+|Office 365 進階的 eDiscovery<sup>17</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否   <br/> |
+|安全分數<sup>7</sup> <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
 |威脅情報  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |**[合規性[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||||||
-|SAS 70 / SSAE16 評估  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|SAS 70 / SSAE16 評估  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |是  <br/> |
 |ISO 27001 認證  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |歐盟示範條款  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |歐盟安全港  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
