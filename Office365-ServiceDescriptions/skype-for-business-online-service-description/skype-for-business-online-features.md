@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 如果您是系統管理員，您可以找到 Skype 設定 Set up Skype for Business Online 中的商務 Online 功能的詳細的指示。
-ms.openlocfilehash: eb0822385e6d2b07a356c069fabf3726ee27dc4b
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 57b7a6fa23b69e56432a8778f059b5ea6fc99703
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035325"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210256"
 ---
 # <a name="skype-for-business-online-features"></a>商務用 Skype Online 功能
 
@@ -110,7 +110,7 @@ Skype for Business 與內部部署 Microsoft SharePoint Server 的目前狀態�
   
 - Microsoft Office 365 入口網站
     
-- Microsoft Office 365 系統管理中心
+- Microsoft 365 系統管理中心
     
 - 商務用 Skype 系統管理中心
     
@@ -118,7 +118,7 @@ Skype for Business 與內部部署 Microsoft SharePoint Server 的目前狀態�
     
 若商務 Online 系統管理 [說明] 主題與用法文章的最新的 Skype，請參閱[Skype 商務 online 在 Office 365-Admin 說明](https://support.office.com/en-us/article/Skype-for-Business-Online-in-Office-365-%e2%80%93-Admin-Help-4307bdbf-6097-458d-9a6a-048112695c59)
   
-## <a name="audio-conferencing-in-office-365"></a>Office 365 音訊會議
+## <a name="audio-conferencing-in-office-365"></a>Office 365 的音訊會議
 <a name="BKMK_Audio"> </a>
 
 音訊會議是在其中至少一位參與者所撥的音訊部分使用電話任何會議。使用電話來存取會議功能適用於使用者在出差或是否則無法參加會議使用行動裝置或電腦。使用電話也可以在其他情況下，例如會議僅限音訊時還是網際網路連線時僅限於較好的選擇。
@@ -136,7 +136,7 @@ Skype for Business 與內部部署 Microsoft SharePoint Server 的目前狀態�
   
 如需可用的呼叫計劃，移至[呼叫 Office 365 計劃](https://products.office.com/en-us/skype-for-business/pstn-calling-plans)。如需詳細資訊以及設定呼叫的計劃，請參閱[什麼是撥號計劃？](https://support.office.com/en-us/article/What-are-Calling-Plans-in-Office-365-3dc773b9-95e0-4448-b2f1-887c54022429?ui=en-US&amp;rs=en-US&amp;ad=US)。
   
-## <a name="phone-system-in-office-365"></a>Office 365 電話系統
+## <a name="phone-system-in-office-365"></a>Office 365 的電話系統
 <a name="BKMK_PhoneSystem"> </a>
 
 Office 365 中的電話系統可讓您使用 Skype 商務及公司的現有電話線路或輸入及輸出的通話的電話系統。使用 Office 365 的電話系統，您的使用者可以使用 Skype for Business 完成例如放置、 接收、 傳送，以及靜音或 unmuting 電話，從幾乎任何位置可存取網際網路的基本工作。

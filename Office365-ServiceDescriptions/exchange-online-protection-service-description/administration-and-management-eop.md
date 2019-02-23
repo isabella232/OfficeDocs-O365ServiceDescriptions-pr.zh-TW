@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: 本小節會說明 Microsoft Exchange Online Protection (EOP) 系統管理員可用的管理介面。
-ms.openlocfilehash: 67a8051b2b3b7136a981f8c8b1203f74a7c018f5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f7525dd92e0162ace50c126c5592fc6fcc530253
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035324"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210156"
 ---
 # <a name="administration-and-managementeop"></a>系統管理與管理[EOP]
 
@@ -26,10 +26,10 @@ ms.locfileid: "24035324"
   
 尋找所有 EOP 功能的相關資訊嗎？請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
   
-## <a name="access-to-the-office-365-admin-center"></a>存取 Office 365 系統管理中心
+## <a name="access-to-the-microsoft-365-admin-center"></a>Microsoft 365 系統管理中心存取
 <a name="BKMK_accesstotheoffice365admincenter"> </a>
 
-Microsoft Office 365 系統管理中心是一個入口網站，各公司的服務管理員可透過這個中心，管理其訂閱之各項 Office 365 服務的使用者帳戶和設定。系統管理員可以從 Office 365 系統管理中心，循著連結前往 EAC，在 EAC 中管理 EOP 的專屬設定。
+Microsoft 365 系統管理中心為每個公司的服務管理員可以來管理使用者帳戶的入口網站與訂閱每個要在 Office 365 服務的設定。從內 Microsoft 365 系統管理中心中，系統管理員可以遵循連結至 EAC 中，讓他們管理 EOP 特有的設定。
   
 ## <a name="access-to-the-exchange-admin-center"></a>存取 Exchange 系統管理中心
 <a name="BKMK_accesstotheexchangeadmincenter"> </a>

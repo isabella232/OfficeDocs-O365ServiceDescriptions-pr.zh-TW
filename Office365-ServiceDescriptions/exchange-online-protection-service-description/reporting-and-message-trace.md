@@ -12,31 +12,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
-description: Microsoft Exchange Online Protection (EOP) 提供許多不同的報告可協助您決定的整體狀態和組織的狀況。部分報表中可用的 Microsoft Office 365 系統管理中心中，而其他人都可在 Exchange 系統管理中心 (EAC)。
-ms.openlocfilehash: ead40ff8932d6f10ca91bd871e34ef9070c6b2db
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online Protection (EOP) 提供許多不同的報告可協助您決定的整體狀態和組織的狀況。提供 Microsoft 365 系統管理中心中，部分報表所時其他人都可在 Exchange 系統管理中心 (EAC)。
+ms.openlocfilehash: b52e1e33a8eec0694143c3dc277481fff79bf918
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035401"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210206"
 ---
 # <a name="reporting-and-message-trace"></a>報告和郵件追蹤
 
-Microsoft Exchange Online Protection (EOP) 提供許多不同的報告可協助您決定的整體狀態和組織的狀況。部分報表中可用的 Microsoft Office 365 系統管理中心中，而其他人都可在 Exchange 系統管理中心 (EAC)。
+Microsoft Exchange Online Protection (EOP) 提供許多不同的報告可協助您決定的整體狀態和組織的狀況。提供 Microsoft 365 系統管理中心中，部分報表所時其他人都可在 Exchange 系統管理中心 (EAC)。
   
 尋找所有 EOP 功能的相關資訊嗎？請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
   
-## <a name="office-365-admin-center-reports"></a>Office 365 系統管理中心報告
+## <a name="microsoft-365-admin-center-reports"></a>Microsoft 365 系統管理中心報告
 <a name="BKMK_office365admincenterreports"> </a>
 
-Office 365 系統管理中心的 [報告] 頁面提供有關郵件流量、垃圾郵件和惡意程式碼偵測，以及受 Exchange 傳輸規則或資料遺失防護 (DLP) 原則影響之郵件的資訊。保護、規則和 DLP 的增強型報告可讓 EOP 系統管理員享有互動報告體驗。這些報告提供摘要資料，而且可供人向下切入至個別郵件的詳細資料。
+Microsoft 365 系統管理中心 [報告] 頁面提供郵件流量、 垃圾郵件和惡意程式碼偵測及郵件受到 Exchange 傳輸規則或資料遺失防護 (DLP) 原則相關資訊。增強的保護、 規則和 DLP 報告提供若是 EOP 管理員的互動式報表體驗。這些報告提供摘要資料和向下切入需個別郵件的詳細資訊的能力。
   
 如需這些報告的詳細資訊，請參閱[使用 Office 365 的郵件保護報告以檢視有關惡意程式碼、垃圾郵件和規則偵測的資訊](https://go.microsoft.com/fwlink/p/?LinkID=401102)。
   
 ## <a name="excel-download-application-reports"></a>Excel 下載應用程式報告
 <a name="BKMK_exceldownloadapplicationreports"> </a>
 
-Excel 2013 報告活頁簿中也提供電子郵件保護報告，而報告活頁簿提供具有深入探查功能的摘要報告。不過，建議您改為使用增強型 Office 365 系統管理中心報告。Excel 2013 報告活頁簿預計將在未來被取代。 
+電子郵件保護報告也有 Excel 2013 報告活頁簿中，會向下鑽研功能提供摘要報告。不過，建議改用增強的 Microsoft 365 系統管理中心報告。Excel 2013 報告活頁簿，計劃未來取代。 
   
 如需更多概觀資訊，以及下載和安裝活頁簿的連結，請參閱 [Office 365 的郵件保護報告](https://go.microsoft.com/fwlink/p/?LinkId=271776)。如需有關如何使用活頁簿的資訊，請參閱[使用 Excel 報告活頁簿的郵件保護報告](https://go.microsoft.com/fwlink/p/?LinkId=285211)。
   

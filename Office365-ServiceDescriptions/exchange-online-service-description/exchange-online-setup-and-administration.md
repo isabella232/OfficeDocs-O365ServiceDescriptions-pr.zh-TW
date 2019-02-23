@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: 本節說明管理控制項和可用來自訂 Exchange Online 的設定，並讓組織的 Exchange Online 環境保持向上、 執行，並且目前的支援。它包含自助系統管理工具和組織; 可用的功能的相關資訊Microsoft 管理責任及效能承諾;與服務和產品升級。
-ms.openlocfilehash: 6b7bb1d68e6d676c39e9ebb254305b2799cc0931
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 6a7b7883292f84dcd38480c6065b8f64dafb3e25
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035257"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210196"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 的安裝和管理
 
@@ -34,7 +34,7 @@ ms.locfileid: "24035257"
   
 - [Microsoft Office 365 入口網站](exchange-online-setup-and-administration.md#microsoft-office-365-portal)
     
-- [Microsoft Office 365 系統管理中心](exchange-online-setup-and-administration.md#microsoft-office-365-admin-center)
+- [Microsoft 365 系統管理中心](exchange-online-setup-and-administration.md#microsoft-office-365-admin-center)
     
 - [Exchange 系統管理中心](exchange-online-setup-and-administration.md#exchange-admin-center)
     
@@ -45,10 +45,10 @@ ms.locfileid: "24035257"
 
 位於 [https://portal.office.com](https://portal.office.com) 的 Microsoft Office 365 入口網站，可供系統管理員與合作夥伴購買和管理 Office 365 服務，並讓使用者存取及使用 Office 365 共同作業工具。
   
-### <a name="microsoft-office-365-admin-center"></a>Microsoft Office 365 系統管理中心
+### <a name="microsoft-365-admin-center"></a>Microsoft 365 系統管理中心
 <a name="BKMK_Office365admincenterl"> </a>
 
-Microsoft Office 365 系統管理中心是一個入口網站，各公司的服務管理員可透過這個中心，管理其訂閱之各項 Office 365 服務的使用者帳戶和設定。管理員可以從 Office 365 系統管理中心追蹤 Exchange 系統管理中心 (EAC) 的連結，以便在其中管理 Exchange Online 專屬的設定。如需使用 Office 365 系統管理中心啟動與執行的詳細資訊，請觀看以下視訊：[Office 365 Enterprise 簡介](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
+Microsoft 365 系統管理中心為每個公司的服務管理員可以來管理使用者帳戶的入口網站與訂閱每個要在 Office 365 服務的設定。從內 Microsoft 365 系統管理中心中，系統管理員可以遵循連結至 Exchange 系統管理中心 (EAC) 他們可以在此管理 Exchange online 特定設定。如需取得詳細資訊及執行使用 Microsoft 365 系統管理中心，請參閱下列影片：[介紹 Office 365 企業版](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
   
 ### <a name="exchange-admin-center"></a>Exchange 系統管理中心
 <a name="BKMK_ExchangeAdministrationCenter"> </a>

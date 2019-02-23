@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online 提供廣泛的保留和復原支援組織的電子郵件基礎結構需求。這包括在資料中心複寫信箱並能夠還原已刪除信箱並刪除項目。
-ms.openlocfilehash: 3f926223a278bd671fa6121b2ee59b96da1f9fe1
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ec9d598fe2c0af2cc9af9a879c91a99a78baf883
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035339"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210226"
 ---
 # <a name="high-availability-and-business-continuity"></a>高可用性和業務連續性
 
@@ -32,7 +32,7 @@ Exchange Online 信箱在各 Microsoft 資料中心內持續複寫至多重資�
   
 ## <a name="deleted-mailbox-recovery"></a>復原已刪除的信箱
 
-系統管理員可以使用 Office 365 系統管理中心刪除對應的使用者帳戶或移除 Exchange Online 授權，或是使用遠端 Windows PowerShell 中的 **Remove-Mailbox** 指令程式來刪除 Exchange Online 信箱。信箱刪除之後，Exchange Online 預設會保留該信箱及其內容 30 天。30 天後，信箱將無法復原。復原的信箱包含所有儲存在信箱內遭到刪除的資料。系統管理員可以使用 Office 365 系統管理中心來復原在保留期間內的已刪除信箱。若要復原已刪除的信箱，系統管理員必須還原對應的 Office 365 使用者帳戶，或是重新指派 Exchange Online 授權給該使用者帳戶。如需詳細資訊，請參閱 [刪除或還原 Exchange Online 中的使用者信箱](https://go.microsoft.com/fwlink/p/?LinkId=286992).
+若要刪除對應的使用者帳戶或移除 Exchange Online 的授權，使用 Microsoft 365 系統管理中心或遠端 Windows PowerShell 中使用**Remove-mailbox**指令程式系統管理員可以刪除 Exchange Online 信箱。信箱刪除時，Exchange Online 會保留信箱和其內容 30 天的預設。30 天後不是可復原的信箱。復原的信箱包含所有已遭刪除次儲存它的資料。系統管理員可以使用 Microsoft 365 系統管理中心來復原刪除的信箱的保留期間內。若要復原刪除的信箱，系統管理員必須還原對應的 Office 365 使用者帳戶或重新指派給使用者帳戶的 Exchange Online 授權。如需詳細資訊，請參閱[刪除或還原使用者信箱在 Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=286992)。
   
 ## <a name="deleted-item-recovery"></a>復原已刪除的項目
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務是整合式的解決方案，將一起引進具有進階安全性和裝置管理功能可協助保護您的企業的 Office 365 最佳的類別生產力。.此服務描述說明計劃選項和功能。如需 Office 365 的詳細資訊，請參閱 Office 365 服務說明。
-ms.openlocfilehash: 0aeaea88fa368aa8d133f5e2bfb24547a8f89452
-ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
+ms.openlocfilehash: a85f8c0a5186097e9a8b7d8fb7a9fbf0eb0f917c
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "27784885"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210296"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務說明
 
@@ -59,90 +59,90 @@ Microsoft 365 商務是整合式的解決方案，將一起引進具有進階安
 |Office 365 影片  <br/> |否  <br/> |否  <br/> |
 |OneNote 課程筆記本  <br/> |否  <br/> |否  <br/> |
 |[Office 365 系統管理功能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
-|使用 Office 365 系統管理中心或 Windows PowerShell來管理 Office 365  <br/> |是  <br/> |是  <br/> |
+|使用 Microsoft 365 系統管理中心或 Windows PowerShell 來管理 Office 365  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 資訊保護 來保護內容  <br/> |沒有<sup>6</sup> <br/> |是  <br/> |
 |[使用者帳戶管理](office-365-platform-service-description/user-account-management.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
-|Office 365 桌面設定  <br/> |是  <br/> |是  <br/> |
-|使用.csv 檔案大量上傳  <br/> |是  <br/> |是  <br/> |
+|Office 365 桌面設定  <br/> |是  <br/> |可以  <br/> |
+|使用.csv 檔案大量上傳  <br/> |是  <br/> |可以  <br/> |
 |Azure AD 連線同步處理工具  <br/> |是  <br/> |是<sup>7</sup> <br/> |
-|Exchange 簡易 (完全) 移轉  <br/> |是  <br/> |是  <br/> |
-|刪除帳戶及重設密碼從 Office 365 或使用 Windows PowerShell<sup>8</sup> <br/> |是  <br/> |是  <br/> |
-|使用者可以變更他們自己的密碼<sup>9</sup> <br/> |是  <br/> |是  <br/> |
+|Exchange 簡易 (完全) 移轉  <br/> |是  <br/> |可以  <br/> |
+|刪除帳戶及重設密碼從 Office 365 或使用 Windows PowerShell<sup>8</sup> <br/> |是  <br/> |可以  <br/> |
+|使用者可以變更他們自己的密碼<sup>9</sup> <br/> |是  <br/> |是   <br/> |
 |管理授權  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |
-|從 Office 365 管理安全性群組  <br/> |是  <br/> |是  <br/> |
-|多個可用的管理員角色  <br/> |是  <br/> |是  <br/> |
-|允許合作夥伴代替您管理 Office 365  <br/> |是  <br/> |是  <br/> |
-|Azure Active Directory 服務  <br/> |是  <br/> |是  <br/> |
+|從 Office 365 管理安全性群組  <br/> |是  <br/> |可以  <br/> |
+|多個可用的管理員角色  <br/> |是  <br/> |可以  <br/> |
+|允許合作夥伴代替您管理 Office 365  <br/> |是  <br/> |可以  <br/> |
+|Azure Active Directory 服務  <br/> |是  <br/> |可以  <br/> |
    
 ||||
 |:-----|:-----|:-----|
 |[郵件原則及合規性](exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
 |封存 Exchange Online 式信箱  <br/> |是  <br/> |Yes<sup>11</sup> <br/> |
-|通訊記錄管理 (MRM) 保留標記和保留原則  <br/> |是  <br/> |是  <br/> |
-|靜態資料的加密 (BitLocker)  <br/> |是  <br/> |是  <br/> |
+|通訊記錄管理 (MRM) 保留標記和保留原則  <br/> |是  <br/> |可以  <br/> |
+|靜態資料的加密 (BitLocker)  <br/> |是  <br/> |可以  <br/> |
 |使用 Azure 資訊保護 的 IRM  <br/> |否  <br/> |Yes<sup>6</sup> <br/> |
 |Office 365 郵件加密  <br/> |否  <br/> |Yes<sup>6</sup> <br/> |
 |就地保留與訴訟暫止  <br/> |否  <br/> |是  <br/> |
-|就地 eDiscovery  <br/> |是  <br/> |是  <br/> |
-|傳輸規則  <br/> |是  <br/> |是  <br/> |
+|就地 eDiscovery  <br/> |是  <br/> |可以  <br/> |
+|傳輸規則  <br/> |是  <br/> |可以  <br/> |
 |資料遺失防護  <br/> |否  <br/> |是 <br/> |
 |[隱私權、安全性和透明化](office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
 |內建反垃圾郵件保護  <br/> |是  <br/> |是  <br/> |
-|內建反惡意程式碼保護  <br/> |是  <br/> |是  <br/> |
+|內建反惡意程式碼保護  <br/> |是  <br/> |可以  <br/> |
 |進階威脅防護  <br/> |否  <br/> |是 <br/> |
 |進階安全性管理  <br/> |否  <br/> |否  <br/> |
 |Customer Lockbox  <br/> |否  <br/> |否  <br/> |
 |Office 365<sup>12</sup>客戶金鑰 <br/> |否  <br/> |否  <br/> |
 |Office 365 進階的 eDiscovery<sup>13</sup> <br/> |否  <br/> |否  <br/> |
-|安全分數<sup>14</sup> <br/> |是  <br/> |是  <br/> |
+|安全分數<sup>14</sup> <br/> |是  <br/> |可以  <br/> |
 |威脅情報  <br/> |否  <br/> |否  <br/> |
 |[合規性[ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
-|SAS 70 / SSAE16 評估  <br/> |是  <br/> |是  <br/> |
-|ISO 27001 認證  <br/> |是  <br/> |是  <br/> |
-|歐盟示範條款  <br/> |是  <br/> |是  <br/> |
-|歐盟安全港  <br/> |是  <br/> |是  <br/> |
-|HIPAA 業務關聯協議  <br/> |是  <br/> |是  <br/> |
+|SAS 70 / SSAE16 評估  <br/> |是  <br/> |可以  <br/> |
+|ISO 27001 認證  <br/> |是  <br/> |可以  <br/> |
+|歐盟示範條款  <br/> |是  <br/> |可以  <br/> |
+|歐盟安全港  <br/> |是  <br/> |可以  <br/> |
+|HIPAA 業務關聯協議  <br/> |是  <br/> |可以  <br/> |
 |FISMA 操作授權  <br/> |是  <br/> |是  <br/> |
 |Microsoft 資料處理協議  <br/> |是  <br/> |是  <br/> |
 |PCI 規範 PAN 資料  <br/> |否  <br/> |否  <br/> |
 |[網路功能](office-365-platform-service-description/networking.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
-|IPv4 和 IPv6 通訊協定  <br/> |是  <br/> |是  <br/> |
+|IPv4 和 IPv6 通訊協定  <br/> |是  <br/> |可以  <br/> |
 |[服務更新](office-365-platform-service-description/service-updates.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
 |提供給所有客戶的定期更新  <br/> |是  <br/> |是  <br/> |
 |需要採取 行動時， 將通知傳送給 「訊息中心」  <br/> |是  <br/> |是  <br/> |
-|開啟已設定目標發行的選項  <br/> |是  <br/> |是  <br/> |
+|開啟已設定目標發行的選項  <br/> |是  <br/> |可以  <br/> |
 |[合作夥伴](office-365-platform-service-description/partners.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
-|提供委派管理  <br/> |是  <br/> |是  <br/> |
+|提供委派管理  <br/> |是  <br/> |可以  <br/> |
    
 |||||
 |:-----|:-----|:-----|:-----|
 |**身分識別與存取管理功能** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |**Enterprise 行動性套件** <br/> |
-|Office 365 的多重要素驗證 (MFA)  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 365 的多重要素驗證 (MFA)  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |系統管理單位  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |雲端應用程式探索  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |動態群組  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|自助式密碼重設為雲端身分識別  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|自助式密碼重設與內部部署 AD 回寫  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|自助式密碼重設為雲端身分識別  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|自助式密碼重設與內部部署 AD 回寫  <br/> |否  <br/> |是  <br/> |可以  <br/> |
 |裝置物件雙向之間的同步處理內部部署目錄及 Azure AD （裝置回寫）  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |設定格式化的條件 （根據群組、 位置、 裝置狀態、 登入或使用者風險） 的存取  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|公司品牌 （登入頁面/存取面板自訂  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|公司品牌 （登入頁面/存取面板自訂  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |應用程式 Proxy  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |Microsoft Identity Manager (MIM) 使用者 CAL  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |連線狀況  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|SLA 達 99.9年 %  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|SLA 達 99.9年 %  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |進階威脅分析  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |**裝置和應用程式的管理功能** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |**Enterprise 行動性 + 安全性 E3** <br/> |
-|行動裝置管理 (MDM)<sup>15</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
-|行動裝置管理 (MDM) 自動註冊  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Office 應用程式與 LOB 應用程式<sup>15</sup>的行動應用程式管理 (MAM) <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Windows 更新管理、 防禦者、 防火牆原則<sup>15</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
-|資料保護-選擇性擦去  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|選取目標原則的安全群組 （個儲存）  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|註冊 Windows 10 裝置上安裝 Office 應用程式  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Windows 防禦者設定  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|部署裝置設定檔及安全性設定<sup>15</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
-|企業狀態漫遊的 Windows 10 搭配 Azure AD 加入  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|自助 BitLocker 復原  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|行動裝置管理 (MDM)<sup>15</sup> <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|行動裝置管理 (MDM) 自動註冊  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|Office 應用程式與 LOB 應用程式<sup>15</sup>的行動應用程式管理 (MAM) <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|Windows 更新管理、 防禦者、 防火牆原則<sup>15</sup> <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|資料保護-選擇性擦去  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|選取目標原則的安全群組 （個儲存）  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|註冊 Windows 10 裝置上安裝 Office 應用程式  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|Windows 防禦者設定  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|部署裝置設定檔及安全性設定<sup>15</sup> <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|企業狀態漫遊的 Windows 10 搭配 Azure AD 加入  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|自助 BitLocker 復原  <br/> |否  <br/> |是  <br/> |可以  <br/> |
    
 |||
 |:-----|:-----|

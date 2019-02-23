@@ -12,24 +12,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
-description: Microsoft Exchange Online Protection (EOP) 提供數種方法來管理您的收件者、 網域和公司資訊。身為管理員，您可以執行 Exchange 系統管理中心 (EAC) 內特定管理工作，並確認在 Microsoft Office 365 系統管理中心中執行其他管理工作。
-ms.openlocfilehash: 17a87a85611dc286e3d19eaeefe04466a1ac62d0
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online Protection (EOP) 提供數種方法來管理您的收件者、 網域和公司資訊。身為管理員，您可以執行 Exchange 系統管理中心 (EAC) 內特定管理工作，並確認在 Microsoft 365 系統管理中心中執行其他管理工作。
+ms.openlocfilehash: fcae2c3ad93b977fb197089e2c8809b74ada7bd7
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035398"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210326"
 ---
 # <a name="recipient-domain-and-company-management"></a>收件者、網域和公司管理
 
-Microsoft Exchange Online Protection (EOP) 提供數種方法來管理您的收件者、 網域和公司資訊。身為管理員，您可以執行 Exchange 系統管理中心 (EAC) 內特定管理工作，並確認在 Microsoft Office 365 系統管理中心中執行其他管理工作。
+Microsoft Exchange Online Protection (EOP) 提供數種方法來管理您的收件者、 網域和公司資訊。身為管理員，您可以執行 Exchange 系統管理中心 (EAC) 內特定管理工作，並確認在 Microsoft 365 系統管理中心中執行其他管理工作。
   
 尋找所有 EOP 功能的相關資訊嗎？請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
   
 ## <a name="mail-recipients"></a>收件者
 <a name="BKMK_mailrecipients"> </a>
 
-郵件收件者可分類為郵件使用者或群組，而且可以透過目錄同步作業進行管理 (在 EAC 中直接進行，或透過遠端 Windows PowerShell 進行)。如果您管理內部部署的收件者，則必須執行目錄同步處理，才能在 EAC 中反映郵件收件者。僅在 Office 365 管理中心內管理的使用者不會顯示於 EAC 中，但可在 EAC 系統管理員角色群組的成員資格中新增或移除。如需 EOP 中收件者的詳細資訊，請參閱 [EOP 中的收件者](https://go.microsoft.com/fwlink/p/?LinkId=280011)。
+郵件收件者可分類為 「 郵件使用者或群組並可透過目錄同步處理，直接在 EAC 中，或透過遠端 Windows PowerShell 進行管理。如果您正在管理收件者在內部，您必須反映在 EAC 中您郵件收件者的順序執行目錄同步處理。管理關係 Microsoft 365 系統管理中心中的使用者都可檢視在 EAC 中，但可以加入或移除在 EAC 中系統管理員角色群組的成員資格。如需在 EOP 中的收件者的詳細資訊，請參閱[Recipients in EOP](https://go.microsoft.com/fwlink/p/?LinkId=280011)。
   
 ## <a name="admin-role-group-permissions"></a>系統管理角色群組權限
 <a name="BKMK_adminrolegrouppermissions"> </a>
@@ -39,7 +39,7 @@ Microsoft Exchange Online Protection (EOP) 提供數種方法來管理您的收�
 ## <a name="domain-management"></a>網域管理
 <a name="BKMK_domainmanagement"> </a>
 
-受管理的網域就是受 EOP 保護的網域。可在 EAC 中檢視受管理網域，並編輯網域類型。網域佈建及管理是在 Office 365 系統管理中心進行，而變更會反映在 EAC 中。如需詳細資訊，請參閱[在 EOP 中檢視或編輯受管理的網域](https://go.microsoft.com/fwlink/p/?LinkId=282239)。
+受管理的網域是 EOP 來保護的網域。可檢視受管理的網域，且可在 EAC 中編輯網域類型。網域佈建和管理發生在 Microsoft 365 系統管理中心並變更便會反映在 EAC 中。如需詳細資訊，請參閱[檢視] 或 [Edit Managed Domains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239)。
   
 ## <a name="match-subdomains"></a>符合子網域
 <a name="BKMK_EOP_Match_Subdomains"> </a>

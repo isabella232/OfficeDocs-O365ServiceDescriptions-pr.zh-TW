@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如果您正在尋找 Office 365 教育版方案之間的差異，本文將告訴您哪些功能都包含在這些項目的。Office 365 將熟悉的 Microsoft Office 桌面套件結合與雲端型版本的 Microsoft 的新一代通訊和共同作業服務 — 包括 Microsoft Exchange Online、 Microsoft SharePoint Online、 Office Online 並Microsoft Skype 商務 online — 可協助使用者提高工作效率從任何虛擬位置透過網際網路。
-ms.openlocfilehash: 69b35b10c0295f1ef41c8c1454e0bb8a7a5626be
-ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
+ms.openlocfilehash: 2d28f6fe21095d91ca0d0ae7d02aa6dfae78483c
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2018
-ms.locfileid: "26988574"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210396"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -33,20 +33,20 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如�
 |||||
 |:-----|:-----|:-----|:-----|
 |**服務** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5**<sup>3</sup> <br/> |
-|Office 365 平台  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 365 平台  <br/> |是  <br/> |有  <br/> |是  <br/> |
 |Exchange Online  <br/> |Yes<sup>5</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
-|SharePoint Online  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|商務用 OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|SharePoint Online  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|商務用 OneDrive  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |商務用 Skype Online  <br/> |是<sup>7</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |
-|Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 應用程式  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Office Online  <br/> |是  <br/> |有  <br/> |是  <br/> |
+|Office 應用程式  <br/> |否  <br/> |是  <br/> |可以  <br/> |
 |Project Online  <br/> |無<sup>1</sup> <br/> |無<sup>1</sup> <br/> |無<sup>1</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|Yammer Academic  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Azure 的資訊保護<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Yammer Academic  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|Azure 的資訊保護<sup>2</sup> <br/> |是  <br/> |有  <br/> |可以  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> project Online 不包含在內，但可以免費新增至 Office 365 教育版計劃。> <sup>2</sup>以了解更多有關此 Azure 資訊保護功能隨附 Office 365 計劃，請參閱[Azure 資訊保護](https://technet.microsoft.com/en-us/dn858608)。> <sup>3</sup> office 365 A5 包含電話系統、 音訊會議和呼叫規劃功能。若要實作呼叫計劃需要額外的計劃購買 （國內呼叫計劃或國際呼叫計）。> <sup>4</sup>包含 Exchange Online 計劃 2。> <sup>5</sup>包含 Exchange Online 計劃 1 加上附加功能。> <sup>6</sup>包括 Skype 商務 Online 計劃 2。> <sup>7</sup>包含 Skype 商務 Online 計劃 1 plus 附加功能。 
+> <sup>1</sup> project Online 不包含在內，但可以免費新增至 Office 365 教育版計劃。> <sup>2</sup>來了解更多有關此 Azure 資訊保護功能隨附 Office 365 計劃，請參閱[Azure 資訊保護](https://technet.microsoft.com/en-us/dn858608)。> <sup>3</sup> office 365 A5 包含電話系統、 音訊會議和呼叫規劃功能。若要實作呼叫計劃需要額外的計劃購買 （國內呼叫計劃或國際呼叫計）。> <sup>4</sup>包含 Exchange Online 計劃 2。> <sup>5</sup>包含 Exchange Online 計劃 1 加上附加功能。> <sup>6</sup>包含 Skype 對商務 Online 計劃 2。> <sup>7</sup>包含 Skype 商務 Online 計劃 1 plus 附加功能。 
   
 ## <a name="system-requirements"></a>系統需求
 
@@ -64,13 +64,13 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如�
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Office 365 系統管理功能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||
-|使用 Office 365 系統管理中心或 Windows PowerShell來管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|使用 Azure 資訊保護 來保護內容  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|使用 Microsoft 365 系統管理中心或 Windows PowerShell 來管理 Office 365  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|使用 Azure 資訊保護 來保護內容  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Microsoft Bookings  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Microsoft Flow  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft Forms  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft Bookings  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|Microsoft Flow  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|Microsoft Forms  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|Microsoft Graph API  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |Microsoft MyAnalytics  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |Microsoft Planner  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft PowerApps  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -110,7 +110,7 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如�
 |自動化網域購買和網域驗證功能可用於透過 Go Daddy 購買的網域  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[服務健康狀況和持續性](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |可在 **[服務健康狀況]** 或 **[服務狀態]** 頁面上獲取狀態資訊  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|可在 Office 365 系統管理中心儀表板上獲取個別警示狀態  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|可在 Microsoft 365 系統管理中心儀表板上的個別警示狀態  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**服務健康狀況** RSS 摘要  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[報告](reports.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |使用中和非使用中的信箱  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -148,35 +148,35 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如�
 |其他自助資源  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自訂進度訓練  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[網路功能](networking.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|IPv4 和 IPv6 通訊協定  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|IPv4 和 IPv6 通訊協定  <br/> |是  <br/> |有  <br/> |是  <br/> |
 |**信任** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**[隱私權、安全性和透明化](privacy-security-and-transparency.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |
-|進階安全性管理  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|**[隱私權、安全性和透明化](privacy-security-and-transparency.md)** <br/> |是  <br/> |有  <br/> |是  <br/> |
+|進階安全性管理  <br/> |否  <br/> |是  <br/> |可以  <br/> |
 |進階威脅防護  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |Customer Lockbox  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |Office 365 進階的 eDiscovery<sup>7</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
-|安全分數<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|安全分數<sup>5</sup> <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |威脅情報  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |**[合規性[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
-|SAS 70 / SSAE16 評估  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|ISO 27001 認證  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|歐盟示範條款  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|歐盟安全港  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|HIPAA 業務關聯協議  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|FISMA 操作授權  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft 資料處理協議  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|SAS 70 / SSAE16 評估  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|ISO 27001 認證  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|歐盟示範條款  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|歐盟安全港  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|HIPAA 業務關聯協議  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|FISMA 操作授權  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|Microsoft 資料處理協議  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |PCI 規範 PAN 資料  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[服務連續性](service-health-and-continuity.md)** <br/> ||||
 |**[BlackBerry](blackberry.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|使用 BlackBerry Internet Service (BIS)  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|使用 BlackBerry Internet Service (BIS)  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |**[協力程式](partners.md)** <br/> ||||
-|針對正在使用指定計劃的客戶建立試用邀請和購買訂單  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|提供委派管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[服務等級協定](service-level-agreement.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[產品使用權限](product-use-rights.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |
+|針對正在使用指定計劃的客戶建立試用邀請和購買訂單  <br/> |是  <br/> |有  <br/> |是  <br/> |
+|提供委派管理  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|**[服務等級協定](service-level-agreement.md)** <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|**[產品使用權限](product-use-rights.md)** <br/> |是  <br/> |有  <br/> |可以  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> office 365 沒有提供支援任何不受製造商支援的作業系統。> <sup>2</sup>如果與本機 Active Directory 使用目錄同步處理，您必須刪除帳戶或變更密碼使用本機的 Active Directory，而不是 Office 365 入口網站或使用 windows Azure Active Directory 模組PowerShell。> <sup>3</sup>以了解如何設定自助式密碼管理原則的使用者，請參閱[在 Azure AD 的管理密碼](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)。> <sup>4</sup>字詞折扣所購買的減少基座可能會受限於早期的終止費用。不適用的每月為基礎付費訂閱。> <sup>5</sup>可在[https://securescore.office.com](https://securescore.office.com/)（連結需要系統管理員權限）。如需詳細資訊，請參閱[簡介 Office 365 安全分數](https://go.microsoft.com/fwlink/?linkid=836894)。> <sup>6</sup> Microsoft Sway 不是目前可用的客戶的特定地理位置。一些舊版的 Office 365 計劃不再年 8 月 2015年市場可能也無法存取 Microsoft Sway。> <sup>7</sup>進階的 eDiscovery 支援在美國及西歐 （荷蘭） 區域中。（加拿大和亞太地區的客戶資料匯出至美國。歐洲、 中東及非洲的客戶資料匯出至西歐 [荷蘭]。）> <sup>8</sup>包含在每個計劃、 Microsoft 資料流功能的相關資訊以查看[資料流授權概觀 （英文）](https://stream.microsoft.com/en-us/documentation/stream-license-overview/)。 
+> <sup>1</sup> office 365 沒有提供支援任何不受製造商支援的作業系統。> <sup>2</sup>如果與本機 Active Directory 使用目錄同步處理，您必須刪除帳戶或變更密碼使用本機的 Active Directory，而不是 Office 365 入口網站或使用 windows Azure Active Directory 模組PowerShell。> <sup>3</sup>以了解如何設定自助式密碼管理原則的使用者，請參閱[在 Azure AD 的管理密碼](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)。字詞庫折扣所購買的 > <sup>4</sup>減少基座可能會受限於早期的終止費用。不適用的每月為基礎付費訂閱。> <sup>5</sup>可在[https://securescore.office.com](https://securescore.office.com/)（連結需要系統管理員權限）。如需詳細資訊，請參閱[簡介 Office 365 安全分數](https://go.microsoft.com/fwlink/?linkid=836894)。> <sup>6</sup> Microsoft Sway 沒有目前的客戶的特定地理位置。一些舊版的 Office 365 計劃不再年 8 月 2015年市場可能也無法存取 Microsoft Sway。> <sup>7</sup>進階的 eDiscovery 支援在美國及西歐 （荷蘭） 區域中。（加拿大和亞太地區的客戶資料匯出至美國。歐洲、 中東及非洲的客戶資料匯出至西歐 [荷蘭]。）包含在每個計劃、 Microsoft 資料流功能的相關資訊的 > <sup>8</sup>看到的[資料流授權概觀 （英文）](https://stream.microsoft.com/en-us/documentation/stream-license-overview/)。 
   
 ## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 安全性&amp;規範中心功能
 <a name="SCC"> </a>
@@ -189,24 +189,24 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如�
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[存取安全性&amp;規範中心](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[進階安全性管理](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |否  <br/> |是  <br/> |是  <br/> |
-|[Threat management](https://go.microsoft.com/fwlink/?linkid=845550)例如篩選郵件和反惡意程式碼  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[存取安全性&amp;規範中心](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[進階安全性管理](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|[Threat management](https://go.microsoft.com/fwlink/?linkid=845550)例如篩選郵件和反惡意程式碼  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |例如網路釣魚活動<sup>5</sup>的客戶 lockbox 和威脅檔案總管的 [[進階 threat management](https://go.microsoft.com/fwlink/?linkid=846673) <br/> |否  <br/> |否  <br/> |是  <br/> |
-|[行動裝置管理](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[資料遺失防護](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[資料管理](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[行動裝置管理](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |是  <br/> |有  <br/> |是  <br/> |
+|[資料遺失防護](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[資料管理](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |[進階資料控管](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
-|[搜尋和將正在調查]<br/> |是  <br/> |是  <br/> |是  <br/> |
-|[eDiscovery 搜尋](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[eDiscovery 匯出](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[搜尋和將正在調查]<br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[eDiscovery 搜尋](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[eDiscovery 匯出](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |[進階 eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>4</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
-|eDiscovery 保留 （包括 eDiscovery 查詢型保留）  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[封存](https://go.microsoft.com/fwlink/?linkid=844060)<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
-|手動保留/刪除原則  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|eDiscovery 保留 （包括 eDiscovery 查詢型保留）  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[封存](https://go.microsoft.com/fwlink/?linkid=844060)<sup>3</sup> <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|手動保留/刪除原則  <br/> |是  <br/> |有  <br/> |可以  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>資料控管可讓使用者在建立、 發佈及手動將標籤套用至文件 ；匯入資料傳送或透過網路; 的磁碟機 （英文）建立與套用保留/刪除原則工作量、 使用者及群組。套用至信箱的保留原則需要 Office 365 企業版 E3 或 E5。> <sup>2</sup>進階的資料控管可讓您保留重要資訊並刪除不重要的資訊將分類為基礎的保留或刪除原則或兩者的資訊。包括智慧型/自動化動作，例如建議原則 ；自動將標籤套用至資料 ；套用敏感資料類型或查詢; 為基礎的標籤和使用智慧匯入篩選器。它也包括檢閱員工通訊的安全性和規範用途的監督功能。> <sup>3</sup>無限制。> <sup>4</sup>進階的 eDiscovery 支援在美國及西歐 （荷蘭） 區域中。（加拿大和亞太地區的客戶資料匯出至美國。歐洲、 中東及非洲的客戶資料匯出至西歐 [荷蘭]。）> <sup>5</sup>進階的威脅保護在 Office 365 A5 和為獨立服務 office 365 A1 與 Office 365 A3。 
+> <sup>1</sup>資料控管可讓使用者在建立、 發佈及手動將標籤套用至文件 ；匯入資料傳送或透過網路; 的磁碟機 （英文）建立與套用保留/刪除原則工作量、 使用者及群組。套用至信箱的保留原則需要 Office 365 企業版 E3 或 E5。> <sup>2</sup>進階的資料控管可讓您保留重要資訊及刪除不重要的資訊將分類保留或刪除原則或兩者皆為基礎的資訊。包括智慧型/自動化動作，例如建議原則 ；自動將標籤套用至資料 ；套用敏感資料類型或查詢; 為基礎的標籤和使用智慧匯入篩選器。它也包括檢閱員工通訊的安全性和規範用途的監督功能。> <sup>3</sup>無限制。> <sup>4</sup>進階的 eDiscovery 支援在美國及西歐 （荷蘭） 區域中。（加拿大和亞太地區的客戶資料匯出至美國。歐洲、 中東及非洲的客戶資料匯出至西歐 [荷蘭]。）> <sup>5</sup>可在 Office 365 A5 做為 Office 365 A1 及 Office 365 A3 獨立服務，進階威脅保護。 
   
 ## <a name="office-application-features"></a>Office 應用程式功能
 <a name="SCC"> </a>
@@ -217,55 +217,55 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如�
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**Office 應用程式** <br/> ||||
-|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) <br/> |否<sup>3, 4</sup> <br/> |是  <br/> |是  <br/> |
-|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |否<sup>3, 4</sup> <br/> |是  <br/> |是  <br/> |
-|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint) <br/> |否<sup>3, 4</sup> <br/> |是  <br/> |是  <br/> |
-|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) <br/> |否<sup>3, 4</sup> <br/> |是  <br/> |可以  <br/> |
+|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |否<sup>3, 4</sup> <br/> |是  <br/> |可以  <br/> |
+|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint) <br/> |否<sup>3, 4</sup> <br/> |是  <br/> |可以  <br/> |
+|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote) <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |是  <br/> |
-|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |是  <br/> |
+|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |可以  <br/> |
 |[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |是  <br/> |
-|[商務用 Skype](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |
-|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |是  <br/> |
-|[Windows 8 應用程式](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |是  <br/> |
-|[Office 365 的 Mac 版 Office](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |是  <br/> |
+|[商務用 Skype](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |是<sup>2</sup> <br/> |是  <br/> |可以  <br/> |
+|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |可以  <br/> |
+|[Windows 8 應用程式](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |可以  <br/> |
+|[Office 365 的 Mac 版 Office](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |可以  <br/> |
 |[Office Mobile for iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Yes<sup>3</sup> <br/> |是  <br/> |是  <br/> |
-|[Office Mobile for Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Yes<sup>3</sup> <br/> |是  <br/> |是  <br/> |
-|[適用於 Windows Phone 手機的 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Yes<sup>3</sup> <br/> |是  <br/> |是  <br/> |
-|[適用於 Windows Phone 手機的 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Yes<sup>3</sup> <br/> |是  <br/> |是  <br/> |
-|Outlook for Android  <br/> |Yes<sup>3</sup> <br/> |是  <br/> |是  <br/> |
+|[Office Mobile for Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Yes<sup>3</sup> <br/> |是  <br/> |可以  <br/> |
+|[適用於 Windows Phone 手機的 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Yes<sup>3</sup> <br/> |是  <br/> |可以  <br/> |
+|[適用於 Windows Phone 手機的 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Yes<sup>3</sup> <br/> |是  <br/> |可以  <br/> |
+|Outlook for Android  <br/> |Yes<sup>3</sup> <br/> |是  <br/> |可以  <br/> |
 |**企業價值** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|每個使用者可同時在 5 部 PC 或 Mac 上安裝  <br/> |沒有<sup>3</sup> <br/> |是  <br/> |是  <br/> |
-|自動化使用者帳戶的佈建  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|多種語系使用者介面  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|用戶端推送部署  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|內部部署 Exchange 的用戶端支援  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|內部部署 SharePoint 的用戶端支援  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|軟體更新的控制  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|資料庫比較  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|桌上型電腦虛擬化  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Excel 試算表比較  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Excel 試算表查詢  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Exchange Online 和 SharePoint Online 封存與規範  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|群組原則支援  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|使用 Azure 資訊保護的資訊版權管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|每個使用者可同時在 5 部 PC 或 Mac 上安裝  <br/> |沒有<sup>3</sup> <br/> |是  <br/> |可以  <br/> |
+|自動化使用者帳戶的佈建  <br/> |是  <br/> |有  <br/> |是  <br/> |
+|多種語系使用者介面  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|用戶端推送部署  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|內部部署 Exchange 的用戶端支援  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|內部部署 SharePoint 的用戶端支援  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|軟體更新的控制  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|資料庫比較  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|桌上型電腦虛擬化  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|Excel 試算表比較  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|Excel 試算表查詢  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|Exchange Online 和 SharePoint Online 封存與規範  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|群組原則支援  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|使用 Azure 資訊保護的資訊版權管理  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |使用 Windows Server AD RMS 的 Information Rights Management  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
 |Office 增益集、ActiveX 與 BHO 支援  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|SharePoint Server、SharePoint Online、商務用 OneDrive 和 Office 365 上筆記本的 OneNote 用戶端存取  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Office 遙測  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|用戶端應用程式的離線支援  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Excel 的 Power Map  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Power Pivot for Excel  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Excel 的 Power Query  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Power View for Excel  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|漫遊設定  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|共用電腦啟用  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|支援對雲端架構檔案儲存進行封鎖  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|點選以尋找並重複使用內容  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|版本升級  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|SharePoint Server、SharePoint Online、商務用 OneDrive 和 Office 365 上筆記本的 OneNote 用戶端存取  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|Office 遙測  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|用戶端應用程式的離線支援  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|Excel 的 Power Map  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|Power Pivot for Excel  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|Excel 的 Power Query  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|Power View for Excel  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|漫遊設定  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|共用電腦啟用  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|支援對雲端架構檔案儲存進行封鎖  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|點選以尋找並重複使用內容  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|版本升級  <br/> |否  <br/> |是  <br/> |可以  <br/> |
 |大量啟用 (KMS/MAK)  <br/> |否  <br/> |否  <br/> |否  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Windows Server AD RMS 是內部部署伺服器必須是個別採購並管理以便啟用支援的 IRM 功能。> <sup>2</sup>的商業基本 Skype 是可用的所有客戶。商務桌面用戶端 Skype 是在本機上已安裝的應用程式提供顯示狀態、 立即訊息與會議功能內含 Skype 商務 Online 的 Office 365 計劃。Office 365 ProPlus 和 Office 365 企業版 E3 包含完整 Skype 應用程式，其中包含包括進階電話語音支援、 封存和規範功能的其他功能。商務 Online 授權 Skype 必須被指派每位使用者。如需有關 Lync Basic 功能的詳細資訊，請參閱[商務 online Skype 的用戶端](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)。> <sup>3</sup>一些學校是適合教育 Plus 包含 Office 365 ProPlus，並允許學生、 教師和人員及其他行動裝置，包括 Windows 平板電腦上最多可以有五個 PC 或 Mac 電腦安裝最新版的 Office 和iPad。學校限定為 Office 365 教育版加上時這些授權 Office 教師和人員透過教育解決方案、 開啟值訂閱教育解決方案，或學校合約註冊機構全。Access 與 Publisher 所提供的 Pc 上只有附註。使用 Mac 應用程式商店從個別下載 for Mac 的 OneNote。> <sup>4</sup> office Online 版本都包含在內。如需詳細資訊，請參閱[Office Online 的功能](office-365-education.md#office-online-features)
+> <sup>1</sup> Windows Server AD RMS 是內部部署伺服器必須是個別採購並管理以便啟用支援的 IRM 功能。使用的所有客戶 > <sup>2</sup>的商業基本 Skype。商務桌面用戶端 Skype 是在本機上已安裝的應用程式提供顯示狀態、 立即訊息與會議功能內含 Skype 商務 Online 的 Office 365 計劃。Office 365 ProPlus 和 Office 365 企業版 E3 包含完整 Skype 應用程式，其中包含包括進階電話語音支援、 封存和規範功能的其他功能。商務 Online 授權 Skype 必須被指派每位使用者。如需有關 Lync Basic 功能的詳細資訊，請參閱[商務 online Skype 的用戶端](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)。某些學校是適合教育 Plus 包含 Office 365 ProPlus，並允許學生、 教師和人員及其他行動裝置，包括 Windows 平板電腦上最多可以有五個 PC 或 Mac 電腦安裝最新版的 Office > <sup>3</sup>和iPad。學校限定為 Office 365 教育版加上時這些授權 Office 教師和人員透過教育解決方案、 開啟值訂閱教育解決方案，或學校合約註冊機構全。Access 與 Publisher 所提供的 Pc 上只有附註。使用 Mac 應用程式商店從個別下載 for Mac 的 OneNote。包含的 > <sup>4</sup> office Online 版本。如需詳細資訊，請參閱[Office Online 的功能](office-365-education.md#office-online-features)
   
 ## <a name="office-online-features"></a>Office Online 功能
 <a name="OfcOnline"> </a>
@@ -273,7 +273,7 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如�
 下表提供連結的豐富功能的 Microsoft Office 桌面應用程式的 Office 365 教育版計劃中提供的 Office Online 功能功能比較。使用比較探索哪些功能可在 Office Online] 和 [讀取有關該功能的運作方式的簡短描述的功能名稱。您可能會發現時其他人可能只需要能夠檢視及限制性編輯 Word 文件和 PowerPoint 簡報與 Office Online 組織中的有些人員可能需要的進階的圖表功能的 Excel 桌面應用程式。
   
 > [!NOTE]
->  選擇 Office 功能的限制在選取項目代表 Office 桌面套件的進階的功能。資料表不是 Microsoft Office 功能的完整清單。> Microsoft Office 365 ProPlus 是每月訂閱產品項目之最新版的 Office 桌面套件。> Microsoft Office Online Server 內部部署客戶取得 Office Online 如果他們已購買 Office 桌面套件授權 （例如 Office Professional Plus、 Office Standard 或 Office 365 ProPlus 的授權） 編輯授權。 
+>  選擇 Office 功能的限制在選取項目代表 Office 桌面套件的進階的功能。資料表不是 Microsoft Office 功能的完整清單。Microsoft Office 365 ProPlus > 是每月訂閱產品項目之最新版的 Office 桌面套件。> Microsoft Office Online Server 內部部署客戶取得 Office Online 編輯授權如果他們已購買 Office 桌面套件授權 （例如 Office Professional Plus、 Office Standard 或 Office 365 ProPlus 的授權）。 
   
 ||||
 |:-----|:-----|:-----|
@@ -293,9 +293,9 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如�
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[規劃及部署](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
-|支援混合部署  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|支援 IMAP 移轉  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|支援完全移轉  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|支援混合部署  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|支援 IMAP 移轉  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|支援完全移轉  <br/> |是  <br/> |有  <br/> |是  <br/> |
 |支援階段性移轉  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[權限](../exchange-online-service-description/permissions.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |以角色為基礎的權限  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -321,83 +321,83 @@ Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如�
 |內建反惡意程式碼保護  <br/> |Yes<sup>3</sup> <br/> |Yes<sup>3</sup> <br/> |Yes<sup>3</sup> <br/> |
 |自訂反惡意程式碼原則  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |隔離 - 系統管理員管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|隔離 - 使用者自我管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|隔離 - 使用者自我管理  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |進階威脅防護  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |**[郵件流程](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|自訂輸出郵件的路由  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|與信任的合作夥伴間的安全傳訊  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|條件式郵件路由  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|新增合作夥伴到輸入安全清單  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|混合電子郵件路由  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|自訂輸出郵件的路由  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|與信任的合作夥伴間的安全傳訊  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|條件式郵件路由  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|新增合作夥伴到輸入安全清單  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|混合電子郵件路由  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |**[收件者](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|容量提醒  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|雜亂資料  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|MailTips  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|委派存取  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|收件匣規則  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|容量提醒  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|雜亂資料  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|MailTips  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|委派存取  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|收件匣規則  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |連線的帳戶  <br/> |Yes<sup>5</sup> <br/> |Yes<sup>5</sup> <br/> |Yes<sup>5</sup> <br/> |
-|非使用中的信箱  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|離線通訊錄  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通訊錄原則  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|階層式通訊錄  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|非使用中的信箱  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|離線通訊錄  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|通訊錄原則  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|階層式通訊錄  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |通訊錄和全域通訊錄  <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |
-|Office 365 群組  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通訊群組  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|外部連絡人（全域）  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通用連絡人卡片  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|社交網路的連絡人連結  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|資源信箱  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|會議室管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|外出回覆  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|行事曆共用  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 365 群組  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|通訊群組  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|外部連絡人（全域）  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|通用連絡人卡片  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|社交網路的連絡人連結  <br/> |是  <br/> |有  <br/> |是  <br/> |
+|資源信箱  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|會議室管理  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|外出回覆  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|行事曆共用  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |**[報告功能和疑難排解工具](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Office 365 系統管理中心報告  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Excel 報告活頁簿  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Web 服務報告  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|郵件追蹤  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|稽核報告  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|整合通訊報告  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Microsoft 365 系統管理中心報告  <br/> |是  <br/> |有  <br/> |是  <br/> |
+|Excel 報告活頁簿  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|Web 服務報告  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|郵件追蹤  <br/> |是  <br/> |有  <br/> |是  <br/> |
+|稽核報告  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|整合通訊報告  <br/> |否  <br/> |是  <br/> |可以  <br/> |
 |**[共用和協同](../exchange-online-service-description/sharing-and-collaboration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|同盟共用 (包括行事曆發佈)  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|同盟共用 (包括行事曆發佈)  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |網站信箱  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
-|公用資料夾  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|公用資料夾  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |**[用戶端和行動裝置](../exchange-online-service-description/clients-and-mobile-devices.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-| Outlook for Windows <sup>9</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Outlook web<sup>9</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Outlook for Mac<sup>9</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
-|IOS 及 Android<sup>9</sup>的 outlook <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Exchange ActiveSync  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 365 的行動裝置管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|POP 與 IMAP  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|SMTP  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|EWS 應用程式支援  <br/> |是  <br/> |是  <br/> |是  <br/> |
+| Outlook for Windows <sup>9</sup> <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|Outlook web<sup>9</sup> <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|Outlook for Mac<sup>9</sup> <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|IOS 及 Android<sup>9</sup>的 outlook <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|Exchange ActiveSync  <br/> |是  <br/> |有  <br/> |是  <br/> |
+|Office 365 的行動裝置管理  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|POP 與 IMAP  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|SMTP  <br/> |是  <br/> |有  <br/> |是  <br/> |
+|EWS 應用程式支援  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |**[語音訊息服務](../exchange-online-service-description/voice-message-services.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|語音信箱  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|語音信箱與協力廠商傳真之間的整合  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|協力廠商語音信箱互通性  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|商務用 Skype 整合  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|語音信箱  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|語音信箱與協力廠商傳真之間的整合  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|協力廠商語音信箱互通性  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|商務用 Skype 整合  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |**[高可用性和業務連續性](../exchange-online-service-description/high-availability-and-business-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|在資料中心複寫信箱  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|復原已刪除的信箱  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|復原已刪除的項目  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|單一項目復原  <br/> |是  <br/> |是  <br/> |是  <br/> ||
+|在資料中心複寫信箱  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|復原已刪除的信箱  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|復原已刪除的項目  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|單一項目復原  <br/> |是  <br/> |有  <br/> |可以  <br/> ||
 |**[互通性、連線性和相容性](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|商務用 Skype 在 OWA 和 Outlook 中的目前狀態  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|SharePoint 互通性  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|EWS 連線支援  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|SMTP 轉送支援  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|商務用 Skype 在 OWA 和 Outlook 中的目前狀態  <br/> |是  <br/> |有  <br/> |是  <br/> |
+|SharePoint 互通性  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|EWS 連線支援  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|SMTP 轉送支援  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |**[Exchange Online 的安裝和管理](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Microsoft Office 365 入口網站存取  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft Office 365 系統管理中心存取  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Exchange 系統管理中心存取  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|遠端 Windows PowerShell 存取  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|用於行動裝置的 ActiveSync 原則  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|使用報告  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft Office 365 入口網站存取  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|Microsoft 365 系統管理中心存取  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|Exchange 系統管理中心存取  <br/> |是  <br/> |有  <br/> |是  <br/> |
+|遠端 Windows PowerShell 存取  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|用於行動裝置的 ActiveSync 原則  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|使用報告  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |**[擴充 Service-自訂、 增益集及資源](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Outlook 增益集和 Outlook MAPI  <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Windows Server AD RMS 是內部部署伺服器必須是個別採購並管理以便啟用支援的 IRM 功能。> <sup>2</sup>傳輸規則由組成具彈性的準則，讓您定義條件和例外狀況和動作才會根據條件。可用的條件和動作不同 Exchange Online 和 Microsoft Exchange Server 2013 之間。如需可用的條件和動作的清單，請參閱對應條件和動作主題針對每個產品。> <sup>3</sup> Exchange Server 2013 使用僅限 Microsoft 反惡意程式碼引擎。Exchange Online 使用多個反惡意程式碼引擎來掃描輸入、 輸出及內部郵件的惡意程式碼。> <sup>4</sup> SharePoint Online 必須包含在 Office 365 訂閱計劃。> <sup>5</sup>連線的帳戶是支援 POP 與 IMAP 帳戶但如 Outlook.com (Hotmail) 停用。> 不支援使用指令程式來處理的通訊清單與全域通訊清單<sup>6</sup> 。> <sup>7</sup>一些協力廠商網頁組件和增益集可能無法使用。> <sup>8</sup> ediscovery （英文），您需要針對內部部署和雲端比較不同的查詢。> <sup>9</sup>表格會指出是否用戶端的運作方式與相關聯的計劃。沒有意義的用戶端一定都包含在這些計劃購買。 
+> <sup>1</sup> Windows Server AD RMS 是內部部署伺服器必須是個別採購並管理以便啟用支援的 IRM 功能。> <sup>2</sup>傳輸規則是由組成具彈性的準則，讓您定義條件和例外狀況和動作才會根據條件。可用的條件和動作不同 Exchange Online 和 Microsoft Exchange Server 2013 之間。如需可用的條件和動作的清單，請參閱對應條件和動作主題針對每個產品。> <sup>3</sup> Exchange Server 2013 使用僅限 Microsoft 反惡意程式碼引擎。Exchange Online 使用多個反惡意程式碼引擎來掃描輸入、 輸出及內部郵件的惡意程式碼。> <sup>4</sup> SharePoint Online 必須包含在 Office 365 訂閱計劃。> <sup>5</sup>連線的帳戶是支援 POP 與 IMAP 帳戶但如 Outlook.com (Hotmail) 停用。不支援使用指令程式來處理的通訊清單與全域通訊清單的 > <sup>6</sup> 。> <sup>7</sup>一些協力廠商網頁組件和增益集可能無法使用。> <sup>8</sup> ediscovery （英文）、 則需要不同的查詢內部部署與雲端的比較。> <sup>9</sup>表格會指出是否用戶端的運作方式與相關聯的計劃。沒有意義的用戶端一定都包含在這些計劃購買。 
   
 ### <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -474,7 +474,7 @@ Microsoft Exchange Online 中的限制屬於下列其中一個類別：
 |群組信箱  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>每位使用者最初 100 GB 的存放區中收到封存信箱。自動展開封存開啟時，達到 100 GB 的儲存容量時自動新增額外儲存空間。如需詳細資訊，請參閱 ＜ Overview of Office 365 中沒有限制之封存。請參閱 Office 365 藍圖如需可用性的詳細資訊。> <sup>2</sup>來存取共用的信箱，使用者必須具備的 Exchange Online 授權。共用的信箱不需要個別授權。不過，如果您想要啟用就地封存或就地保留或訴訟暫止狀態置於共用信箱，Exchange Online 計劃 2 授權或 Exchange Online 計劃 1 與 Exchange Online 封存授權則需要。如果您啟用就地封存和共用信箱的自動展開封存，達到封存信箱 100 GB 儲存容量時自動新增額外儲存空間。> <sup>3</sup>資源信箱不需要授權。> <sup>4</sup>站台信箱會建立和管理 SharePoint Online 中。如需詳細資訊，請參閱使用 Office 365 中的網站信箱的準備。> <sup>5</sup>您有 1000年公用資料夾信箱及所有公用資料夾信箱的總大小上限限制為 50 TB。> <sup>6</sup>就地封存只可以使用其授權是否已套用的封存的單一使用者或實體 （例如共用信箱） 的郵件。使用就地封存以儲存郵件從多個使用者或實體的方法被禁止。例如，IT 系統管理員無法建立共用的信箱且明確的目的封存 （透過 [副本] 或 [密件副本] 欄位中，或透過傳輸規則） 複製的使用者。請注意使用多人共用的信箱實際上不會儲存這些個別使用者的電子郵件。多個使用者都擁有存取，並為共用信箱傳送電子郵件。因此，只有儲存在共用信箱的電子郵件是指傳送至或來自，作為共用信箱。> <sup>7</sup>如果您在 Exchange Online 中建立保留原則，郵件將會自動移到使用者的封存信箱僅如果使用者的主要信箱大於 10 MB。保留原則不會執行自動小於 10 MB 的信箱。 
+> <sup>1</sup>每位使用者最初 100 GB 的存放區中收到封存信箱。自動展開封存開啟時，達到 100 GB 的儲存容量時自動新增額外儲存空間。如需詳細資訊，請參閱 ＜ Overview of Office 365 中沒有限制之封存。請參閱 Office 365 藍圖如需可用性的詳細資訊。> <sup>2</sup>來存取共用的信箱，使用者必須具備的 Exchange Online 授權。共用的信箱不需要個別授權。不過，如果您想要啟用就地封存或就地保留或訴訟暫止狀態置於共用信箱，Exchange Online 計劃 2 授權或 Exchange Online 計劃 1 與 Exchange Online 封存授權則需要。如果您啟用就地封存和共用信箱的自動展開封存，達到封存信箱 100 GB 儲存容量時自動新增額外儲存空間。> <sup>3</sup>資源信箱不需要授權。建立和管理 SharePoint Online 中 > <sup>4</sup>站台信箱。如需詳細資訊，請參閱使用 Office 365 中的網站信箱的準備。> <sup>5</sup>您是 1000年公用資料夾信箱的限制與所有的公用資料夾信箱的總大小上限為 50 TB。> <sup>6</sup>就地封存只可以使用其授權是否已套用的封存的單一使用者或實體 （例如共用信箱） 的郵件。使用就地封存以儲存郵件從多個使用者或實體的方法被禁止。例如，IT 系統管理員無法建立共用的信箱且明確的目的封存 （透過 [副本] 或 [密件副本] 欄位中，或透過傳輸規則） 複製的使用者。請注意使用多人共用的信箱實際上不會儲存這些個別使用者的電子郵件。多個使用者都擁有存取，並為共用信箱傳送電子郵件。因此，只有儲存在共用信箱的電子郵件是指傳送至或來自，作為共用信箱。> <sup>7</sup>如果您在 Exchange Online 中建立保留原則，郵件將會自動移到使用者的封存信箱僅如果使用者的主要信箱大於 10 MB。保留原則不會執行自動小於 10 MB 的信箱。 
   
 #### <a name="capacity-alerts"></a>容量提醒
 <a name="CapacityAlerts"> </a>
@@ -582,7 +582,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |內嵌郵件深度限制  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> office 365 系統管理員可以指定自訂限制 1 MB 和 150 MB 之間。不過，您可以傳送或接收之郵件的大小也取決於您的電子郵件用戶端或方案支援的項目。如需自訂允許的郵件大小上限為組織的詳細資訊，請參閱[Office 365 現在支援較大的電子郵件訊息](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。> <sup>2</sup>可傳送及接收最多可 150 MB （其中郵件永遠不會保留 Office 365 資料中心） 的 Office 365 使用者之間的郵件。外部 Office 365 資料中心會路由傳送的郵件會受到編碼的增加，在此案例的郵件大小上限為 112 MB 其他 33%轉譯。> <sup>3</sup> OWA 帳戶新增為您的郵件可能會受限於編碼增加 33%可能性和會限制您可以傳送給 25%小於 [設定] 設定之郵件的大小。例如，如果您在自訂您的設定為 100 MB 的郵件大小上限，您可以傳送郵件不得大於 75 MB。> <sup>4</sup>移至 Exchange Online 郵件的大小由 Exchange Online 以來計算。Exchange Server 2013 以前的 Exchange 版本可能會回報較小的項目大小。此限制適用於移動根據的移轉使用任何支援 Exchange 信箱複寫服務。其他移轉方法 （Cutover、 分段、 IMAP、 PST） 及其他協力廠商工具會受限於一般的郵件大小限制。> <sup>5</sup> OME 資訊使用新功能，請參閱[設定新的 Office 365 郵件加密功能建置於 Azure 資訊保護](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)。 
+> <sup>1</sup> office 365 系統管理員可以指定自訂限制 1 MB 和 150 MB 之間。不過，您可以傳送或接收之郵件的大小也取決於您的電子郵件用戶端或方案支援的項目。如需自訂允許的郵件大小上限為組織的詳細資訊，請參閱[Office 365 現在支援較大的電子郵件訊息](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。> <sup>2</sup>可傳送及接收向上 150 MB （其中郵件永遠不會保留 Office 365 資料中心） 的 Office 365 使用者之間的郵件。外部 Office 365 資料中心會路由傳送的郵件會受到編碼的增加，在此案例的郵件大小上限為 112 MB 其他 33%轉譯。您的郵件可能會受限於編碼增加 33%和限制的郵件大小的可能性 > <sup>3</sup> OWA 帳戶可以傳送給 25%小於設定的設定值。例如，如果您在自訂您的設定為 100 MB 的郵件大小上限，您可以傳送郵件不得大於 75 MB。> <sup>4</sup>移至 Exchange Online 郵件的大小是以 Exchange Online 會利用來計算。Exchange Server 2013 以前的 Exchange 版本可能會回報較小的項目大小。此限制適用於移動根據的移轉使用任何支援 Exchange 信箱複寫服務。其他移轉方法 （Cutover、 分段、 IMAP、 PST） 及其他協力廠商工具會受限於一般的郵件大小限制。> <sup>5</sup>的 OME 資訊使用新功能，請參閱[設定新的 Office 365 郵件加密功能建置於 Azure 資訊保護](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)。 
   
 #### <a name="receiving-and-sending-limits"></a>接收及傳送限制
 <a name="RecipientLimits"> </a>
@@ -725,7 +725,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|仲裁信箱的大小上限  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
+|仲裁信箱的大小上限  <br/> |10GB  <br/> |10 GB  <br/> |10 GB  <br/> |
 |仲裁者人數上限  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |
 |等候仲裁的郵件到期日  <br/> |2 天  <br/> |2 天  <br/> |2 天  <br/> |
 |過期仲裁通知郵件的最大速率  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |
@@ -791,7 +791,7 @@ OneDrive for Business 隨附於 SharePoint Online。若要了解在 SharePoint O
 |||||
 |:-----|:-----|:-----|:-----|
 |**開發人員功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[存取服務](../sharepoint-online-service-description/developer.md#access-services) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Access Services](../sharepoint-online-service-description/developer.md#access-services) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[存取服務](../sharepoint-online-service-description/developer.md#access-services) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[存取服務](../sharepoint-online-service-description/developer.md#access-services) <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[應用程式目錄 (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -883,75 +883,75 @@ OneDrive for Business 隨附於 SharePoint Online。若要了解在 SharePoint O
 |具有電子郵件功能的清單和文件庫 <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[外部共用：外部存取](../sharepoint-online-service-description/content.md#external-sharing-external-access) <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |
 |[外部共用：來賓連結](../sharepoint-online-service-description/content.md#external-sharing-guest-link) <br/> |Yes<sup>6</sup> <br/> |是  <br/> |Yes<sup>6</sup> <br/> |
-|[資料夾同步處理](../sharepoint-online-service-description/content.md#folder-sync) <br/> |是<sup>1、 6</sup> <br/> |是  <br/> |是  <br/> |
-|混合式稽核  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|混合式分類法和內容類型  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[資訊版權管理 (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm) <br/> |是  <br/> |是  <br/> |<sup>6</sup>[是]  <br/> |
+|[資料夾同步處理](../sharepoint-online-service-description/content.md#folder-sync) <br/> |是<sup>1、 6</sup> <br/> |是  <br/> |可以  <br/> |
+|混合式稽核  <br/> |是  <br/> |有  <br/> |是  <br/> |
+|混合式分類法和內容類型  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[資訊版權管理 (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm) <br/> |是  <br/> |可以  <br/> |<sup>6</sup>[是]  <br/> |
 |[資訊版權管理 (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm) <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[受管理的中繼資料服務](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[中繼資料驅動的導覽](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[多階段處理](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office Online (建立/編輯)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office Online (檢視)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[受管理的中繼資料服務](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[中繼資料驅動的導覽](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[多階段處理](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[Office Online (建立/編輯)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[Office Online (檢視)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |Office ProPlus (Osub)  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |[Office Web Apps Server 整合](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |否  <br/> |否  <br/> |否  <br/> |
 |PowerPoint Automation Services <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[保存保留庫](../sharepoint-online-service-description/content.md#preservation-hold-library) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[快速編輯](../sharepoint-online-service-description/content.md#quick-edit) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[記錄管理](../sharepoint-online-service-description/content.md#records-management) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[資源回收筒 (SharePoint 系統管理中心)](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[資源回收筒 (網站集合)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|相關項目 <br/> |是  <br/> |是  <br/> |是  <br/> |
-|多媒體管理 <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[共用內容類型](../sharepoint-online-service-description/content.md#shared-content-types) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[SharePoint 翻譯服務](../sharepoint-online-service-description/content.md#sharepoint-translation-services) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|問卷調查 <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[獨特的文件 ID](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[影片搜尋](../sharepoint-online-service-description/content.md#video-search) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[發佈的分析](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[目錄](../sharepoint-online-service-description/content.md#catalog) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[類別頁面和目錄項目頁面](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[搜尋網頁組件](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[跨網站發佈](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|WCM：設計者工具 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[保存保留庫](../sharepoint-online-service-description/content.md#preservation-hold-library) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[快速編輯](../sharepoint-online-service-description/content.md#quick-edit) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[記錄管理](../sharepoint-online-service-description/content.md#records-management) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[資源回收筒 (SharePoint 系統管理中心)](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center) <br/> |是  <br/> |有  <br/> |是  <br/> |
+|[資源回收筒 (網站集合)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|相關項目 <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|多媒體管理 <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[共用內容類型](../sharepoint-online-service-description/content.md#shared-content-types) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[SharePoint 翻譯服務](../sharepoint-online-service-description/content.md#sharepoint-translation-services) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|問卷調查 <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[獨特的文件 ID](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[影片搜尋](../sharepoint-online-service-description/content.md#video-search) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[發佈的分析](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[目錄](../sharepoint-online-service-description/content.md#catalog) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[類別頁面和目錄項目頁面](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[搜尋網頁組件](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[跨網站發佈](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|WCM：設計者工具 <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |[多面向導覽](../sharepoint-online-service-description/content.md#faceted-navigation) <br/> |否  <br/> |Yes<sup>14</sup> <br/> |Yes<sup>14</sup> <br/> |
-|[影像轉譯](../sharepoint-online-service-description/content.md#image-renditions) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|WCM：受管理的導覽 <br/> |是  <br/> |是  <br/> |是  <br/> |
-|WCM：手機與裝置轉譯 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[影像轉譯](../sharepoint-online-service-description/content.md#image-renditions) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|WCM：受管理的導覽 <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|WCM：手機與裝置轉譯 <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |WCM：多個網域 <br/> |否  <br/> |否  <br/> |否  <br/> |
-|WCM：建議 <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[WCM：Search Engine Optimizations (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|WCM：建議 <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[WCM：Search Engine Optimizations (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**觀點功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[商務智慧中心](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |否  <br/> |是  <br/> |是  <br/> |
-|[導出量值與計算成員](../sharepoint-online-service-description/insights.md#calculated-measures-and-members) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[資料連線程式庫](../sharepoint-online-service-description/insights.md#data-connection-library) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[降低 PivotTables 和 PivotCharts 之間的關聯](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Field list and Field Support](../sharepoint-online-service-description/insights.md#field-list-and-field-support) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[篩選器增強功能](../sharepoint-online-service-description/insights.md#filter-enhancements) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[篩選器搜尋](../sharepoint-online-service-description/insights.md#filter-search) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[導出量值與計算成員](../sharepoint-online-service-description/insights.md#calculated-measures-and-members) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[資料連線程式庫](../sharepoint-online-service-description/insights.md#data-connection-library) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[降低 PivotTables 和 PivotCharts 之間的關聯](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[Field list and Field Support](../sharepoint-online-service-description/insights.md#field-list-and-field-support) <br/> |是  <br/> |有  <br/> |是  <br/> |
+|[篩選器增強功能](../sharepoint-online-service-description/insights.md#filter-enhancements) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[篩選器搜尋](../sharepoint-online-service-description/insights.md#filter-search) <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |[PerformancePoint 服務](../sharepoint-online-service-description/insights.md#performancepoint-services) <br/> |否  <br/> |否  <br/> |否  <br/> |
 |PerformancePoint 服務 (PPS) 儀表板遷移 <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[Power BI 網頁組件](../sharepoint-online-service-description/insights.md#power-bi-web-part) <br/> |否  <br/> |否  <br/> |是  <br/> |
-|[SharePoint 中 Excel 的 Power View](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[SharePoint 中 Excel 的 Power Pivot](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[快速瀏覽](../sharepoint-online-service-description/insights.md#quick-explore) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[SharePoint 中 Excel 的 Power View](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[SharePoint 中 Excel 的 Power Pivot](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[快速瀏覽](../sharepoint-online-service-description/insights.md#quick-explore) <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |計分卡 & 儀表板 <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[SQL Server Reporting Services (SSRS) 整合模式](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[時間表交叉分析篩選器](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[使用包含資料模型的 Excel 活頁簿並與其互動](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Visio Services](../sharepoint-online-service-description/insights.md#visio-services) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[時間表交叉分析篩選器](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[使用包含資料模型的 Excel 活頁簿並與其互動](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[Visio Services](../sharepoint-online-service-description/insights.md#visio-services) <br/> |是  <br/> |有  <br/> |是  <br/> |
 |**搜尋功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|進階內容處理 <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[連續編目](../sharepoint-online-service-description/search.md#continuous-crawls) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|進階內容處理 <br/> |是  <br/> |有  <br/> |是  <br/> |
+|[連續編目](../sharepoint-online-service-description/search.md#continuous-crawls) <br/> |是  <br/> |有  <br/> |是  <br/> |
 |自訂實體擷取 <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[深層連結](../sharepoint-online-service-description/search.md#deep-links) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[事件型關聯性](../sharepoint-online-service-description/search.md#event-based-relevancy) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[專業知識搜尋](../sharepoint-online-service-description/search.md#expertise-search) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[深層連結](../sharepoint-online-service-description/search.md#deep-links) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[事件型關聯性](../sharepoint-online-service-description/search.md#event-based-relevancy) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[專業知識搜尋](../sharepoint-online-service-description/search.md#expertise-search) <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |可延伸的內容處理] <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[圖形精簡器](../sharepoint-online-service-description/search.md#graphical-refiners) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[混合搜尋](../sharepoint-online-service-description/search.md#hybrid-search) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[管理搜尋結構描述](../sharepoint-online-service-description/search.md#manage-search-schema) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[圖形精簡器](../sharepoint-online-service-description/search.md#graphical-refiners) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[混合搜尋](../sharepoint-online-service-description/search.md#hybrid-search) <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|[管理搜尋結構描述](../sharepoint-online-service-description/search.md#manage-search-schema) <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |內部部署的搜尋索引 <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[姓名發音匹配功能](../sharepoint-online-service-description/search.md#phonetic-name-matching) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[查詢規則增加升級的查詢結果](../sharepoint-online-service-description/search.md#query-rulesadd-promoted-results) <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -1030,7 +1030,7 @@ OneDrive for Business 隨附於 SharePoint Online。若要了解在 SharePoint O
 |[Azure 佈建的應用程式：Azure 輕量型網路角色 (LWR) 中的自訂程式碼](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |是  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>使用資料夾同步處理，您必須具有 Office 2013 或更新版本 (標準版或 Professional edition) 或包含 Office 應用程式的 Office 365 訂閱。Office 365 商務 Essentials、 Office 365 企業版 E1 和 Office 365 教育版計劃不包含訂閱 Office 桌面應用程式。不過，您可以使用資料夾同步處理如果您有 Office 2013 或稍後安裝和訂閱其中一個計劃。> <sup>2</sup>因為 Kiosk 使用者不能是系統管理員、 有 Kiosk 使用者的承租人必須至少一個 Enterprise 使用者，以便存取系統管理中心。> <sup>3</sup> SharePoint Online 客戶必須下載並安裝免費的排名模型調整應用程式來建立及自訂排名模型。> <sup>4</sup>使用 eDiscovery 功能時，允許該功能的計劃的授權需求適用於屬於 eDiscovery 動作 （搜尋、 保留匯出） 的所有使用者。> <sup>5</sup>有些提供者可能會封鎖的國家/地區。> <sup>6</sup>與組織外的某個人共用文件、 文件庫或網站的電子郵件。管理員必須能夠加以開啟，但會得到警告訊息指出其無法進行檔案共用可以存取外部國家/地區。嘗試與組織外的某個人共用的使用者會收到相同的警告訊息。> <sup>7</sup>您可以在任何行動裝置瀏覽器中檢視文件。您需要安裝的 Office Mobile 應用程式編輯文件。Windows phone 與平板電腦、 Android 電話與平板電腦、 iPhone 與 iPad 目前使用的 office Mobile。> <sup>8</sup>說明是只適用於簡體中文和英文。> 不能新增<sup>9</sup>部落格上的註解。> <sup>10</sup>組織社群網站為可用、 但不提供公用社群所提供的說明。> <sup>11</sup> access 2010 不受支援。> <sup>12</sup>沙箱化解決方案無法包含使用者程式碼。它們只可能包含定義 (.xml) 檔案和時所啟用之伺服器所處理的資源。> <sup>13</sup>包含使用者程式碼 （沙箱） 的 InfoPath 表單僅供 InfoPath 豐富型用戶端中。> <sup>14</sup>經過驗證的 SharePoint Online 使用者可以存取與多面向導覽的私用網站集合。 
+> <sup>1</sup>使用資料夾同步處理，您必須具有 Office 2013 或更新版本 (標準版或 Professional edition) 或包含 Office 應用程式的 Office 365 訂閱。Office 365 商務 Essentials、 Office 365 企業版 E1 和 Office 365 教育版計劃不包含訂閱 Office 桌面應用程式。不過，您可以使用資料夾同步處理如果您有 Office 2013 或稍後安裝和訂閱其中一個計劃。> <sup>2</sup>因為 Kiosk 使用者不能是系統管理員、 有 Kiosk 使用者的承租人必須至少一個 Enterprise 使用者，以便存取系統管理中心。> <sup>3</sup> SharePoint Online 客戶必須下載並安裝免費的排名模型調整應用程式來建立及自訂排名模型。> <sup>4</sup>使用 eDiscovery 功能時，允許該功能的計劃的授權需求適用於屬於 eDiscovery 動作 （搜尋、 保留匯出） 的所有使用者。有些提供者可能會封鎖的國家/地區 > <sup>5</sup> 。與組織外的某個人共用文件、 文件庫或網站的電子郵件 > <sup>6</sup> 。管理員必須能夠加以開啟，但會得到警告訊息指出其無法進行檔案共用可以存取外部國家/地區。嘗試與組織外的某個人共用的使用者會收到相同的警告訊息。您可以在任何行動裝置瀏覽器中檢視文件 > <sup>7</sup> 。您需要安裝的 Office Mobile 應用程式編輯文件。Windows phone 與平板電腦、 Android 電話與平板電腦、 iPhone 與 iPad 目前使用的 office Mobile。> <sup>8</sup>說明是只適用於簡體中文和英文。> 無法新增<sup>9</sup>部落格上的註解。> <sup>10</sup>組織社群網站，但是不提供公用社群所提供的說明。不支援 > <sup>11</sup> access 2010。> <sup>12</sup>沙箱化解決方案無法包含使用者程式碼。它們只可能包含定義 (.xml) 檔案和時所啟用之伺服器所處理的資源。> <sup>13</sup>包含使用者程式碼 （沙箱） 的 InfoPath 表單僅供 InfoPath 豐富型用戶端中。> <sup>14</sup>經過驗證的 SharePoint Online 使用者可以存取與多面向導覽的私用網站集合。 
   
 ### <a name="sharepoint-online-limits"></a>SharePoint Online 限制
 
@@ -1061,21 +1061,21 @@ OneDrive for Business 隨附於 SharePoint Online。若要了解在 SharePoint O
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[商務用 Skype Online 用戶端](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
-|商務用 Skype 完整  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|商務用 Skype 完整  <br/> |否  <br/> |是  <br/> |可以  <br/> |
 |商務用 Skype 基本  <br/> |是<sup>1</sup> <br/> |否  <br/> |否  <br/> |
 |Lync 2013 Basic  <br/> |是<sup>1</sup> <br/> |否  <br/> |否  <br/> |
-|商務用 Skype Windows 市集應用程式  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Lync for Mac 2011  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|商務用 Skype 行動用戶端  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|商務用 Skype Web App  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|商務用 Skype Windows 市集應用程式  <br/> |是  <br/> |有  <br/> |是  <br/> |
+|Lync for Mac 2011  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|商務用 Skype 行動用戶端  <br/> |是  <br/> |有  <br/> |是  <br/> |
+|商務用 Skype Web App  <br/> |是  <br/> |有  <br/> |是  <br/> |
 |**[立即訊息、 目前狀態及連絡人](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|「PC 對 PC」立即訊息與顯示狀態  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|多方立即訊息與顯示狀態  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|連絡人卡片設定  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|我的圖片組態  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|「PC 對 PC」立即訊息與顯示狀態  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|多方立即訊息與顯示狀態  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|連絡人卡片設定  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|我的圖片組態  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |我的圖片：URL 相片體驗  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|連絡人清單設定  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|整合聯絡資料儲存  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|連絡人清單設定  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|整合聯絡資料儲存  <br/> |是  <br/> |有  <br/> |是  <br/> |
 |通訊錄搜尋  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |通訊群組清單延伸  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |常設聊天室  <br/> |否  <br/> |否  <br/> |否  <br/> |
@@ -1101,90 +1101,90 @@ OneDrive for Business 隨附於 SharePoint Online。若要了解在 SharePoint O
 |簡報者控制項  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |所選參與者檢視  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |OneNote 共用  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|臨機操作和排程 Web 會議  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|臨機操作和排程 Web 會議  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |透過音訊會議的商務用 Skype 會議撥入 (第一方)  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|透過認證音訊會議提供者 (ACP) 的商務用 Skype 會議撥入  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|PowerPoint 共用  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|檔案傳輸  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|白板和注釋  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|PowerPoint 上傳  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|輪詢  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|用戶端錄製和播放  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|透過認證音訊會議提供者 (ACP) 的商務用 Skype 會議撥入  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|PowerPoint 共用  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|檔案傳輸  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|白板和注釋  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|PowerPoint 上傳  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|輪詢  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|用戶端錄製和播放  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |伺服器端錄製和播放  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|會議大廳  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Skype 會議廣播  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|使用商務用 Skype Web App 的 Skype 會議的 Guest 存取權  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|在 Outlook 中排程商務用 Skype 會議  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|在 Outlook 中代表他人排程商務用 Skype 會議 (委派)  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|使用 Web 排程器排程商務用 Skype 會議  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|在 Outlook Web App 中排程線上會議  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Outlook 委派排程會議  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|會議大廳  <br/> |是  <br/> |有  <br/> |是  <br/> |
+|Skype 會議廣播  <br/> |否  <br/> |是  <br/> |可以  <br/> |
+|使用商務用 Skype Web App 的 Skype 會議的 Guest 存取權  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|在 Outlook 中排程商務用 Skype 會議  <br/> |是  <br/> |有  <br/> |是  <br/> |
+|在 Outlook 中代表他人排程商務用 Skype 會議 (委派)  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|使用 Web 排程器排程商務用 Skype 會議  <br/> |是  <br/> |有  <br/> |是  <br/> |
+|在 Outlook Web App 中排程線上會議  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|Outlook 委派排程會議  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |從 Outlook 中使用靜態會議 ID 建立公開會議  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**語音通話** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |自動語音應答  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |忙碌選項  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |分公司生存能力  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |通話許可控制  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|接聽/啟始通話  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|接聽/啟始通話  <br/> |是  <br/> |有  <br/> |是  <br/> |
 |通話委派  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|來電轉接和同時響鈴  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通話記錄  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通話保留/擷取  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|來電轉接和同時響鈴  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|通話記錄  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|通話保留/擷取  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |通話駐留  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|來電轉接 (盲目、諮詢和行動)  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|來電者識別碼  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|插撥功能  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|呼叫保留  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|PC、Mac 和行動用戶端  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|切換裝置  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|來電轉接 (盲目、諮詢和行動)  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|來電者識別碼  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|插撥功能  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|呼叫保留  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|PC、Mac 和行動用戶端  <br/> |是  <br/> |有  <br/> |可以  <br/> |
+|切換裝置  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |特殊響鈴  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|請勿打擾路由  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|請勿打擾路由  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |緊急電話 - 靜態位置  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |緊急電話 - 動態位置  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|企業行事曆來電路由  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|企業行事曆來電路由  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |分機撥號  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |群組來電接聽  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |搜尋群組/來電佇列與處理  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |整合式撥號鍵台  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |依位置路由  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|來電保留音樂  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|來電保留音樂  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |撥出 DID 控制  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |私人線路  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |合格的 IP 桌上型電話  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |共用的線路外觀  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Skype 和同盟通話  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Skype 和同盟通話  <br/> |是  <br/> |是   <br/> |可以  <br/> |
 |團隊通話  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|視訊通話監視器  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|語音信箱  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|視訊通話監視器  <br/> |是  <br/> |是   <br/> |可以  <br/> |
+|語音信箱  <br/> |不可以  <br/> |否  <br/> |是  <br/> |
 |[Office 365 通話方案](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (國內通話方案，含有必要的附加元件購買)  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |
 |[Office 365 通話方案](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (國際通話方案，含有必要的附加元件購買)  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |
 |[耗用字幕](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |否  <br/> |否  <br/> |是  <br/> |
-|商務用 Skype 語音  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|商務用 Skype 語音  <br/> |是  <br/> |是   <br/> |可以  <br/> |
 |**[安全性和封存](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|IM 與媒體加密  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|IM 與媒體加密  <br/> |是  <br/> |是   <br/> |可以  <br/> |
 |IM 與檔案篩選  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|用戶端版本控制  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|IM 內容封存  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|會議內容封存  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|應用程式共用和桌面共用封存  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|使用者層級的封存設定  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|登入追蹤檔案  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|用戶端版本控制  <br/> |是  <br/> |是   <br/> |可以  <br/> |
+|IM 內容封存  <br/> |是  <br/> |是   <br/> |可以  <br/> |
+|會議內容封存  <br/> |是  <br/> |是   <br/> |可以  <br/> |
+|應用程式共用和桌面共用封存  <br/> |是  <br/> |否   <br/> |否  <br/> |
+|使用者層級的封存設定  <br/> |是  <br/> |是   <br/> |可以  <br/> |
+|登入追蹤檔案  <br/> |是  <br/> |是   <br/> |是  <br/> |
 |**[Exchange 和 SharePoint 互通性](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|與 Exchange Server 的目前狀態互通性  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|與 Exchange Online 的目前狀態互通性  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|與 Exchange Server 的目前狀態互通性  <br/> |是  <br/> |是   <br/> |可以  <br/> |
+|與 Exchange Online 的目前狀態互通性  <br/> |是  <br/> |是   <br/> |可以  <br/> |
 |與 Exchange Server 的整合通訊互通性  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |與 Exchange Online 的整合通訊互通性  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Outlook Web App 互通性  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Outlook Web App 互通性  <br/> |是  <br/> |是   <br/> |是  <br/> |
 |與 Exchange Server 的封存互通性  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |與 Exchange Online 的封存互通性  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |透過 SharePoint Server 進行技能搜尋  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |透過 SharePoint Online 進行技能搜尋  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[Skype 商務 Online 系統管理與管理](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft Office 365 入口網站  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft Office 365 系統管理中心  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft 365 系統管理中心  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |商務用 Skype 系統管理中心  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Windows PowerShell  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 365 系統管理中心中的商務用 Skype Online 報告  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Skype Microsoft 365 系統管理中心中的商務 Online 報告  <br/> |是  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Skype 商務 (Lync) 用戶端支援搭配下列訂閱選項] 中，但不包含在內。Lync 2013 Basic 是可用的所有客戶。Lync Basic 桌面用戶端是在本機上已安裝的應用程式提供顯示狀態、 立即訊息與會議功能內含 Skype 商務 Online 的 Office 365 計劃。Office 365 ProPlus 和 Office 365 A3 包含完整的 Skype Business (Lync) 應用程式，其中包含其他功能，例如進階電話語音支援、 封存、 和符合性功能。商務 Online 授權 Skype 必須被指派每位使用者。如需有關 Lync Basic 功能的詳細資訊，請參閱[Clients for Business online Skype](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)> <sup>2</sup>您必須將 Exchange Online (Plan 2) 的計劃指派給您想讓語音信箱的使用者。Exchange Online (Plan 1) 的計劃無法使用的語音信箱。 
@@ -1256,12 +1256,12 @@ Skype 商務 online 中的限制屬於下列類別：
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|會議內容保留：單次會議  <br/> |15 天  <br/> |15 天  <br/> |15 天  <br/> |
-|會議內容保留：週期性會議  <br/> |15 天  <br/> |15 天  <br/> |15 天  <br/> |
-|會議內容保留：立即開會會議  <br/> |8 小時  <br/> |8 小時  <br/> |8 小時  <br/> |
+|會議內容保留：單次會議  <br/> |15 天   <br/> |15 天   <br/> |15 天  <br/> |
+|會議內容保留：週期性會議  <br/> |15 天  <br/> |15 天   <br/> |15 天   <br/> |
+|會議內容保留：立即開會會議  <br/> |8 小時  <br/> |8 小時   <br/> |8 小時  <br/> |
 |會議到期：單次會議  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |
 |會議到期：週期性會議  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |
-|會議到期：立即開會會議  <br/> |8 小時  <br/> |8 小時  <br/> |8 小時  <br/> |
+|會議到期：立即開會會議  <br/> |8 小時  <br/> |8 小時   <br/> |8 小時   <br/> |
    
 #### <a name="minute-limits"></a>分鐘限制
 

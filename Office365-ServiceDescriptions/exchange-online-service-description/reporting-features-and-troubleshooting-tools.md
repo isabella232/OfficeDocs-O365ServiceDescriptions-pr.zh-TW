@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online 提供各種報告 Exchange 系統管理中心 (EAC) 功能。
-ms.openlocfilehash: b95ab58d2ec09f5e6bae32a3902e92deb75d789f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 16bcea7f90115ca3238e502e5b57d756d24025ba
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035283"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210216"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>報告功能和疑難排解工具
 
@@ -26,19 +26,19 @@ Microsoft Exchange Online 提供各種報告 Exchange 系統管理中心 (EAC) �
   
 ## <a name="reporting-features"></a>報告功能
 
-Exchange Online 客戶可透過下載 Excel 報告活頁簿或使用 Web 服務來存取 Office 365 系統管理中心內的報告。
+下載 Excel 報告活頁簿，或使用 Web 服務 Exchange Online 客戶可以存取 Microsoft 365 系統管理中心內的報告。
   
-### <a name="reporting-in-the-office-365-admin-center"></a>Office 365 系統管理中心的報告
+### <a name="reporting-in-the-microsoft-365-admin-center"></a>Microsoft 365 系統管理中心的報告
 
-Microsoft Office 365 系統管理中心 [報告] 頁面上的報告會提供有關信箱和群組的摘要資訊。例如，一份報告列出了依日、週或年所建立和刪除的群組數目。也有新增和刪除信箱的摘要報告，以及使用中和非使用中信箱的摘要報告。 
+有 Microsoft 365 系統管理中心 [報告] 頁面上提供的信箱和群組的摘要資訊的報表。例如，一份報告列出群組建立與刪除一天、 一週、 一個月或年的數。也有新增和已刪除信箱摘要報告與使用中和非使用中的信箱。 
   
-Microsoft Office 365 系統管理中心的 [報告] 頁面還包含傳訊資料報告，提供有關郵件流量、垃圾郵件和惡意程式碼偵測，以及受 Exchange 傳輸規則或資料遺失防護 (DLP) 原則影響之郵件的資訊。保護、規則和 DLP 的增強型報告可讓 Exchange Online 系統管理員享有互動報告體驗。這些報告提供摘要資料，而且可供人向下切入至個別郵件的詳細資料。
+此外，Microsoft 365 系統管理中心 [報告] 頁面包含訊息提供郵件流量、 垃圾郵件和惡意程式碼偵測及訊息會受到 Exchange 傳輸規則或資料遺失防護 (DLP) 的相關資訊的資料報告原則。增強的保護、 規則和 DLP 報告提供 Exchange Online 管理員的互動式報表的體驗。這些報告提供摘要資料和向下切入需個別郵件的詳細資訊的能力。
   
-如需每個 Office 365 訂閱可用報告的詳細資訊，請參閱[報告](../office-365-platform-service-description/reports.md)。如需 Office 365 系統管理中心中 [報告] 頁面的詳細資訊，請參閱[檢視及下載 Office 365 服務使用情況報告](https://go.microsoft.com/fwlink/p/?LinkId=401187)和[使用 Office 365 的郵件保護報告以檢視有關惡意程式碼、垃圾郵件和規則偵測的資訊](https://go.microsoft.com/fwlink/p/?LinkID=401102)。
+如需受報表可用的每一個 Office 365 訂閱的詳細資訊，請參閱[報告](../office-365-platform-service-description/reports.md)。如需 Microsoft 365 系統管理中心中，[報告] 頁面的詳細的資訊請參閱[檢視並下載 Office 365 中服務使用情況報告](https://go.microsoft.com/fwlink/p/?LinkId=401187)和[使用的郵件保護報告 Office 365 中以檢視有關惡意程式碼、 垃圾郵件和規則偵測](https://go.microsoft.com/fwlink/p/?LinkID=401102).
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>使用 Excel 報告活頁簿執行報告
 
-您也可以使用 Excel 2013 報告活頁簿，來檢視具有深入探查功能的摘要報告。不過，建議您改為使用增強型 Office 365 系統管理中心報告。Excel 2013 報告活頁簿預計將在未來被取代。如需更多概觀資訊，以及下載和安裝活頁簿的連結，請參閱下列[下載頁面](https://go.microsoft.com/fwlink/p/?LinkId=271776)。如需有關如何使用活頁簿的資訊，請參閱[使用 Excel 報告活頁簿的郵件保護報告](https://go.microsoft.com/fwlink/p/?LinkId=285211)。 
+您也可以使用 Excel 2013 報告活頁簿檢視向下鑽研功能摘要報告。不過，建議改用增強的 Microsoft 365 系統管理中心報告。Excel 2013 報告活頁簿，計劃未來取代。如需詳細的概觀資訊以及下載和安裝此活頁簿的連結，請參閱[下載] 頁面上](https://go.microsoft.com/fwlink/p/?LinkId=271776)的下列。如需如何使用活頁簿的資訊，請參閱[使用 Excel 報告活頁簿的郵件保護報告](https://go.microsoft.com/fwlink/p/?LinkId=285211)。 
   
 ### <a name="reporting-using-web-services"></a>使用 Web 服務報告
 

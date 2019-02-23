@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如果您正在尋找 Office 365 計劃，包括 Exchange Online 的計劃之間的差異本文將告訴您哪些功能都包含在這些項目的。
-ms.openlocfilehash: 9656e9259f416b6077ece895697d098fc4652361
-ms.sourcegitcommit: 30c7b713cbe28bc2ce1f0bd850e48fbc9b1d63f7
+ms.openlocfilehash: 5346aa8a30ed89b31ed7b072914f146707068561
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 02/22/2019
-ms.locfileid: "30199790"
+ms.locfileid: "30210356"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服務說明
 
@@ -94,7 +94,7 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |**[Office 365 系統管理功能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
-|使用 Office 365 系統管理中心或 Windows PowerShell來管理 Office 365  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|使用 Microsoft 365 系統管理中心或 Windows PowerShell 來管理 Office 365  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
 |使用 Azure 資訊保護 來保護內容  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |可以  <br/> |沒有<sup>2</sup> <br/> |
 |**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |Microsoft Bookings  <br/> |否  <br/> |否  <br/> |是  <br/> |否   <br/> |否  <br/> |否  <br/> |否  <br/> |
@@ -140,7 +140,7 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 |自動化網域購買和網域驗證功能可用於透過 Go Daddy 購買的網域  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[服務健康狀況和持續性](service-health-and-continuity.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |可在 **[服務健康狀況]** 或 **[服務狀態]** 頁面上獲取狀態資訊  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|可在 Office 365 系統管理中心儀表板上獲取個別警示狀態  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|可在 Microsoft 365 系統管理中心儀表板上的個別警示狀態  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**服務健康狀況** RSS 摘要  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[報告](reports.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |使用中和非使用中的信箱  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
