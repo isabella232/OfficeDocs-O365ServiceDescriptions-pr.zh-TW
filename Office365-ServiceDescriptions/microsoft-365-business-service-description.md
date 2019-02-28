@@ -3,7 +3,7 @@ title: Microsoft 365 商務版服務說明
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 02/27/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務是整合式的解決方案，將一起引進具有進階安全性和裝置管理功能可協助保護您的企業的 Office 365 最佳的類別生產力。.此服務描述說明計劃選項和功能。如需 Office 365 的詳細資訊，請參閱 Office 365 服務說明。
-ms.openlocfilehash: a85f8c0a5186097e9a8b7d8fb7a9fbf0eb0f917c
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 498334db4672e186d7e02bfcec3a519178e71197
+ms.sourcegitcommit: 7020c5cb68748694d05e23265e23eef2be3bc076
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210296"
+ms.lasthandoff: 02/27/2019
+ms.locfileid: "30312120"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務說明
 
@@ -116,7 +116,7 @@ Microsoft 365 商務是整合式的解決方案，將一起引進具有進階安
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**身分識別與存取管理功能** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |**Enterprise 行動性套件** <br/> |
+|**身分識別與存取管理功能** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |**Enterprise 行動性 + 安全性 E5** <br/> |
 |Office 365 的多重要素驗證 (MFA)  <br/> |是  <br/> |有  <br/> |可以  <br/> |
 |系統管理單位  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |雲端應用程式探索  <br/> |否  <br/> |否  <br/> |是  <br/> |
