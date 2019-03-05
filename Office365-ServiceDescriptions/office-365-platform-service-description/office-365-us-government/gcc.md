@@ -1,9 +1,9 @@
 ---
-title: GCC
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 9/26/2017
+title: Office 365 GCC
+ms.author: danarl
+author: danarl
+manager: dianap
+ms.date: 3/4/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: '為符合美國聯邦政府機構、州政府機構、地方政府機構和族群政府機構，以及代表美國政府保留及處理資料之約聘人員之唯一與發展需求，Microsoft 提供 Office 365 美國政府社群 (GCC) 服務。可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。試用目前僅可用於美國政府實體。 '
-ms.openlocfilehash: 75fcb85c4c79506b15e382d5482ab81938f978db
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
+ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035254"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379025"
 ---
-# <a name="gcc"></a>GCC
+# <a name="office-365-gcc"></a>Office 365 GCC
 
 為符合美國聯邦政府機構、州政府機構、地方政府機構和族群政府機構，以及代表美國政府保留及處理資料之約聘人員之唯一與發展需求，Microsoft 提供 Office 365 美國政府社群 (GCC) 服務。可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。試用目前僅可用於美國政府實體。  
   
@@ -42,7 +42,7 @@ Office 365 人員沒有 Office 365 美國政府社群 中所裝載的客戶內�
   
 |||
 |:-----|:-----|
-|**Microsoft 人員檢測和背景檢查** <br/> |**描述** <br/> |
+|**Microsoft 人員檢測和背景檢查**<sup>1</sup> <br/> |**描述** <br/> |
 |美國公民權  <br/> |美國公民權驗證  <br/> |
 |工作經驗檢查  <br/> |七 (7) 年工作經驗的驗證  <br/> |
 |教育驗證  <br/> |取得之最高學位驗證  <br/> |
@@ -53,7 +53,8 @@ Office 365 人員沒有 Office 365 美國政府社群 中所裝載的客戶內�
 |防衛辦公室貿易控制排除人員清單 (DDTC)  <br/> |國務院禁止從事國防工業相關之出口活動的個人與實體清單驗證  <br/> |
 |指紋檢查  <br/> |FBI 資料庫指紋背景檢查  <br/> |
 |CJIS 背景檢測  <br/> |每個已簽署 Microsoft CJIS IA 計劃的州內由州 CSA 所任命之授權單位州裁定的聯邦與州刑事案件記錄審查  <br/> |
-   
+
+<sup>1</sup>只適用於人員暫時性或站裝載在 Office 365 美國政府社群雲端 (GCC) 的客戶內容存取  
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 US Government 社群雲端與 Yammer
 
 Yammer Enterprise 不是 Office 365 US Government 的元件，但每位獲得 Office 365 US Government 方案 E1 和 E3 授權的使用者都可以免費取得，做為獨立優惠。這項優惠目前僅限於透過 Enterprise 合約及 Enterprise Subscription 合約購買 Office 365 US Government 的客戶享有。 
@@ -66,4 +67,9 @@ Yammer Enterprise 不是 Office 365 US Government 的元件，但每位獲得 Of
 
 MyAnalytics 係根據 Office 365 服務的 FedRAMP 控制實作所設計及運作，但尚未在 Office 365 年度 FedRAMP 稽核程序中由 3PAO 檢閱。如有必要，請洽詢相容性辦公室，才能啟用您組織中使用者的 MyAnalytics 服務。 
   
+## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 美國政府社群雲端 (GCC) 客戶支援
 
+提供 office 365 GCC 客戶支援在相同的字詞及至[全球版本 Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
+)提供的條件，包括不支援代理程式實體位置或公民保證。Azure 公用雲端，支援下列之下搭配運作的 office 365 GCC[條款和條件。](https://azure.microsoft.com/en-us/support/plans/)
+
+Microsoft 會提醒您不共用任何受控制、 敏感或機密資訊與支援人員，一部分您 Office 365 GCC 相關支援事件，直到您確認他們的授權，才能檢視或存取這類資料。Microsoft 致力於[保護您的隱私權。](https://privacy.microsoft.com/en-US/privacystatement )Office 365 GCC 客戶支援服務 」 資格鑑定界限中未包含和不提供 FedRAMP、 SRG、 ITAR、 IRS 1075 或 CJIS 資料處理和/或規範保證。

@@ -1,26 +1,26 @@
 ---
-title: GCC 高和 DoD
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 5/23/2018
+title: Office 365 GCC 高和 DoD
+ms.author: danarl
+author: danarl
+manager: dianap
+ms.date: 3/4/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
-description: 若要符合美國部門的防禦，以及承包商的唯一與發展需求保留處理 DoD 控制還是未分類的資訊 (CUI) 或 Microsoft 提供受限於國際流量中召集令規定 (ITAR)GCC 高和 DoD 環境。透過大量授權、 興趣的組織移到驗證程序，以確保資格之前建立的環境。Trials 都無法使用。
-ms.openlocfilehash: 62a5011564856c879a153ec88db965fda5d96002
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+description: 若要特殊且不斷變化的需求的美國國防部，以及承包商保留或處理 DoD 控制的未分類的資訊 (CUI) 或受到國際流量中武器法規 (ITAR)，Microsoft 提供了GCC 高和 DoD 環境。可透過大量授權，有興趣的組織請通過驗證程序，以確保資格之前建立環境。恕不提供在此階段。
+ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
+ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215368"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379035"
 ---
-# <a name="gcc-high-and-dod"></a>GCC 高和 DoD
+# <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC 高和 DoD
 
-若要符合美國部門的防禦，以及承包商的唯一與發展需求保留處理 DoD 控制還是未分類的資訊 (CUI) 或 Microsoft 提供受限於國際流量中召集令規定 (ITAR)GCC 高和 DoD 環境。透過大量授權、 興趣的組織移到驗證程序，以確保資格之前建立的環境。Trials 都無法使用。 
+若要特殊且不斷變化的需求的美國國防部，以及承包商保留或處理 DoD 控制的未分類的資訊 (CUI) 或受到國際流量中武器法規 (ITAR)，Microsoft 提供了GCC 高和 DoD 環境。可透過大量授權，有興趣的組織請通過驗證程序，以確保資格之前建立環境。恕不提供在此階段。 
   
 請洽詢您的客戶團隊或偏好的夥伴以瞭解詳細資訊，或啟動驗證程序。
   
@@ -30,21 +30,21 @@ Office 365 US Government 服務說明的設計目的在於與一般 Office 365 �
   
 ## <a name="compliance"></a>合規性
 
-GCC 高和 DoD 符合下列認證及 accreditations 規範需求： 
+GCC 高和 DoD 滿足下列認證和資格鑑定的符合性需求： 
   
 - 聯邦政府風險與授權管理計畫中度基準 (FedRAMP 中等影響級別) 包括美國國家標準技術研究所 (NIST) 特別出版品 800 53 中所述的這些安全性控制和控制增強功能。
     
 - 針對影響級別最高達等級 5 (L5) 的美國國防部雲端運算安全需求準則 (SRG) 安全性控制和控制增強功能。
     
-Office 365 的部門的防禦訂閱者會收到從符合 DOD SRG 5 DOD 獨佔環境提供服務。非-部門的防禦訂閱者會收到服務從美國政府防禦環境評估在 5，但使用 4 區隔。
+國防部的訂閱者 Office 365 會得到由符合 DOD SRG L5 DOD 獨佔環境所提供的服務。非-部門的國防版訂閱者會收到美國政府國防版環境的評估在 L5，但會使用 L4 分割服務。
   
 ## <a name="background-screening"></a>背景檢測
 
-Office 365 人員沒有出位置的存取權 GCC 高和 DoD 實際執行。要求暫時權限提高權限會授與客戶內容的存取權的必須先任何人員已經過下列背景檢查。
+Office 365 人員沒有常設存取權 GCC 高和 DoD 實際執行環境。任何人員若想要求臨時權限提高以獲授客戶內容存取權必須先經過下列背景檢查。
   
 |||
 |:-----|:-----|
-|**Microsoft 人員檢測和背景檢查** <br/> |**描述** <br/> |
+|**Microsoft 人員檢測和背景檢查**<sup>1</sup> <br/> |**描述** <br/> |
 |美國公民權  <br/> |美國公民權驗證  <br/> |
 |工作經驗檢查  <br/> |七 (7) 年工作經驗的驗證  <br/> |
 |教育驗證  <br/> |取得之最高學位驗證  <br/> |
@@ -55,48 +55,49 @@ Office 365 人員沒有出位置的存取權 GCC 高和 DoD 實際執行。要�
 |防衛辦公室貿易控制排除人員清單 (DDTC)  <br/> |國務院禁止從事國防工業相關之出口活動的個人與實體清單驗證  <br/> |
 |指紋檢查  <br/> |FBI 資料庫指紋背景檢查  <br/> |
 |美國國防部 IT-2  <br/> |員工若想要求權限提高以存取客戶資料，或 DOD SRG L5 服務能力具權限的系統管理存取權，必須先根據美國人事管理局第 3 層調查 (OPM Tier 3 investigation) 通過美國國防部 IT-2 裁定  <br/> |
-   
-## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>相容的雲端架構為基礎的功能紅
 
-GCC 高和 DoD 環境中的 office 365 訂閱包括核心 Exchange Online、 SharePoint Online 和 Skype 的商務功能。只要增加的憑證和履歷表基礎結構，有 GCC 高和 DoD 中之間的一般商業 Office 365 方案可用的一些功能差異。
+<sup>1</sup>只適用於人員暫時性或站裝載於 Office 365 US GCC 高] 或 [DOD 定域機組中的客戶內容存取
+## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>根據相容的雲端架構的功能紅
+
+GCC 高和 DoD 環境中的 office 365 訂閱包含核心 Exchange Online、 SharePoint Online 和 Skype 商務功能。增加的憑證和基礎結構 」 資格鑑定指定時，有一些功能差異一般的商業 Office 365 方案，並提供 GCC 高和 DoD 中。
   
 ### <a name="exchange-online"></a>Exchange Online
 
- GCC 高與 DoD 訂閱不支援**Exchange Online 整合通訊支援的內部 IP PBX**整合的內部 IP PBX 系統和 Exchange Online 整合通訊的支援。 
+ GCC 高和 DoD 訂閱中不支援**Exchange Online 整合通訊服務支援用於內部部署 IP-PBX**支援整合內部部署 IP-PBX 系統與 Exchange Online 整合通訊。 
   
 ### <a name="sharepoint-online"></a>SharePoint Online
 
- **文件共用**-SharePoint Online 和 OneDrive for Business 啟用順暢資訊共用和協同合作的使用者與小組之間。文件擁有者可以提供其他使用者透過 web 介面或 Outlook 中的現代附件其文件的存取權。當共用文件時，有管理權限的多個選項： 
+ **文件共用**-SharePoint Online 和商務用 OneDrive 啟用無縫資訊共用和協同作業的使用者與小組之間。文件擁有者可以存取其文件透過 web 介面或在 Outlook 中的最新附件提供給其他使用者。當共用文件] 中，有多個選項的管理權限： 
   
 1. 僅限自己
     
 2. 我的公司內的任何人
     
-3. 使用此連結的任何人
+3. 此連結的任何人
     
-4. 特定的人員
+4. 特定人員
     
-使用 SharePoint Online 和 OneDrive for Business GCC 高或 DoD 環境中的可保留文件私人客戶 （先選項），其組織中使用的任何人共用 （第二個選項），與已連結至文件的任何人共用 （第三個選項） 和共用與 GCC 高和 DoD 環境內的特定人員 （第四選項）;當然，這些選項可以限制根據也租用戶層級的存取控制。
+使用 SharePoint Online 和 OneDrive for Business GCC 高] 或 [DoD 環境中的可以保留文件私人客戶 （第一次] 選項），其組織中與任何人共用 （第二個選項），與具有文件的連結的任何人共用 （第三個選項），和GCC 高和 DoD 環境內的特定人員共用 （四選項）;當然，這些選項可以限制根據也租用戶層級的存取控制。
   
-GCC 高承租人僅可以與其他 GCC 高承租人共用。例如：
+GCC 高租用戶僅可以與其他 GCC High 租用戶共用。例如：
   
-- GCC 高租用戶的可共用與 GCC 高租用 b。
+- GCC 高租用戶的可共用與 GCC High 租用戶 b。
     
-- 非 GCC 租用戶 C 可以共用與 GCC 高的租用戶的或 b。
+- 非 GCC 租用戶 C 可以共用與 GCC High 租用戶的或 b。
     
-- GCC 高租用戶 A 或 B 無法共用與非 GCC 高租用 c。
+- GCC 高租用戶的或 B 無法共用與非 GCC High 租用戶 c。
     
-此外，非-GCC 高附加至使用者設定檔的電子郵件地址不支援與不允許傳送的提醒電子郵件。例如，在內部部署使用者 A 是指派 Gmail 電子郵件地址並再同步處理至 Azure GCC 高租用戶。使用者 A 瀏覽至文件庫，並建立的任何變更的提醒。警示不會傳送至 Gmail 地址。
+此外，非-GCC High 附加至使用者設定檔的電子郵件地址不受支援，而且不允許傳送警告電子郵件。例如，內部部署使用者的有指派 Gmail 電子郵件地址，而且再同步處理至 Azure GCC High 租用戶。使用者的瀏覽至文件庫，並建立的任何變更的提醒。警示不會傳送到 Gmail 地址。
   
- **外部應用程式存取**外部應用程式，例如資料來源的增益集的連線受到限制是位在支援的高 GCC 和 DoD 系統安全性界限內的來源。 
+ **外部應用程式存取**-增益集在例如之資料來源的外部應用程式的連線會受限於位在 GCC 高和 DoD 所支援的系統安全性界限。 
   
- **Business Connectivity Services** -BCS 功能支援連線案例中的資料來源保持連至您的雲端服務的安全性界限內。 
+ **Business Connectivity Services** -BCS 功能可支援在其中的資料來源維持在您的雲端服務安全性界限以內的連線情況下。 
   
- **沙箱解決方案**這項功能已被取代也無法使用。任何沙箱化解決方案應該移轉至[SharePoint 增益集擴充性模型]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx)。
+ **沙箱化解決方案**-這項功能已被取代，並不提供。任何沙箱化解決方案都應移轉至[SharePoint 增益集擴充性模型]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx)。
   
 ### <a name="skype-for-business-online"></a>商務用 Skype Online
 
- **PSTN 呼叫&amp;PSTN 會議**-由於，才可使用公用交換電話網路 (PSTN) 電話語音為主的服務、 PSTN 呼叫&amp;PSTN 會議服務都目前無法使用 GCC 高和 DoD 中。 
+ **PSTN 通話&amp;PSTN 會議**-由於使用公用交換電話網路 (PSTN) 電話語音導向的服務，PSTN 通話需求&amp;PSTN 會議服務都目前無法使用 GCC 高和 DoD 中。 
   
 ### <a name="identity"></a>身分識別
 

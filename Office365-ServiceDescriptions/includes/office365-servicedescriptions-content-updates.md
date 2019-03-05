@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-january-21-2019"></a>2019 年 1 月 21 日當週
-
-
-| 發佈時間 |主題標題 | 變更 |
-|------|------------|--------|
-| 1/24/2019 | [商務用 Skype Online 服務說明](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | 修改時間 |
-| 1/24/2019 | [Office 365 平台服務說明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 修改時間 |
-
-
 ## <a name="week-of-january-28-2019"></a>2019 年 1 月28 日當週
 
 
@@ -19,8 +10,8 @@
 |------|------------|--------|
 | 1/29/2019 | [Office Online 服務說明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 修改時間 |
 | 1/29/2019 | [OneNote Online](/Office365/ServiceDescriptions/office-online-service-description/onenote-online) | 修改時間 |
-| 1/30/2019 | [Microsoft 365 政府如何購買](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy) | 新增 |
-| 1/30/2019 | [Microsoft 365 政府如何購買](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy) | 修改時間 |
+| 1/30/2019 | [Microsoft 365 政府版如何購買](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy) | 新增 |
+| 1/30/2019 | [Microsoft 365 政府版如何購買](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy) | 修改時間 |
 | 1/31/2019 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 修改時間 |
 
 
@@ -64,3 +55,11 @@
 | 2/22/2019 | [使用者帳戶管理](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | 修改時間 |
 | 2/22/2019 | [商務用 Skype Online 功能](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-features) | 修改時間 |
 | 2/22/2019 | [商務用 Skype Online 服務說明](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | 修改時間 |
+
+
+## <a name="week-of-february-25-2019"></a>2019 年 2 月 25 日當週
+
+
+| 發佈時間 |主題標題 | 變更 |
+|------|------------|--------|
+| 2/27/2019 | [Microsoft 365 商務版服務說明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 修改時間 |
