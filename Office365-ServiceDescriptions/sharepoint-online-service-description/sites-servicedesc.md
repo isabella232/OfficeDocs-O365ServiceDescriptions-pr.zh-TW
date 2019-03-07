@@ -1,7 +1,7 @@
 ---
-title: Sites[ServiceDesc]
-ms.author: pebaum
-author: pebaum
+title: 網站 [ServiceDesc]
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,106 +14,106 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
-description: Microsoft SharePoint Online 是一組 Web 式工具和技術，協助您的組織儲存、 分享和管理數位資訊。Microsoft SharePoint Server 2013 上為建置基礎，此裝載的服務適合在專案中工作、 儲存資料與文件集中的位置，並與他人共用資訊。下列網站功能提供一組完整的組織可用來建立任何種類的網站，以及簡化網站管理單一基礎結構的工具。若要尋找的詳細資訊，請參閱 ＜ 尋找有關 SharePoint Online 內容。
-ms.openlocfilehash: c154bbd75accb312e3415b820b5ed1439f28e7b8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列的網站功能提供了一整套的工具，讓您的組織可以用來建立各種類形的網站，還有一個能簡化網站管理的單一基礎架構。 如需詳細資訊，請參閱尋找有關 SharePoint Online 的內容。
+ms.openlocfilehash: 1cd3f25d6fbf156f6b9dc120e9b8c0bb3e39a202
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035329"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467880"
 ---
-# <a name="sitesservicedesc"></a><span data-ttu-id="dc18d-106">網站 [ServiceDesc]</span><span class="sxs-lookup"><span data-stu-id="dc18d-106">Sites[ServiceDesc]</span></span>
+# <a name="sitesservicedesc"></a><span data-ttu-id="2e6c1-106">網站 [ServiceDesc]</span><span class="sxs-lookup"><span data-stu-id="2e6c1-106">Sites[ServiceDesc]</span></span>
 
-<span data-ttu-id="dc18d-p102">Microsoft SharePoint Online 是一組 Web 式工具和技術，協助您的組織儲存、 分享和管理數位資訊。Microsoft SharePoint Server 2013 上為建置基礎，此裝載的服務適合在專案中工作、 儲存資料與文件集中的位置，並與他人共用資訊。下列網站功能提供一組完整的組織可用來建立任何種類的網站，以及簡化網站管理單一基礎結構的工具。若要尋找更多詳細的資訊，請參閱[尋找有關 SharePoint Online 的內容](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7)。</span><span class="sxs-lookup"><span data-stu-id="dc18d-p102">Microsoft SharePoint Online is a collection of Web-based tools and technologies that help your organization store, share, and manage digital information. Built on Microsoft SharePoint Server 2013, this hosted service is ideal for working on projects, storing data and documents in a central location, and sharing information with others. The following Sites features provide a full set of tools that your organization can use to create any kind of site, plus a single infrastructure that simplifies site management. To find more detailed information, see [Find content about SharePoint Online](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7).</span></span>
+<span data-ttu-id="2e6c1-107">Microsoft SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-107">Microsoft SharePoint Online is a collection of Web-based tools and technologies that help your organization store, share, and manage digital information.</span></span> <span data-ttu-id="2e6c1-108">建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-108">Built on Microsoft SharePoint Server 2013, this hosted service is ideal for working on projects, storing data and documents in a central location, and sharing information with others.</span></span> <span data-ttu-id="2e6c1-109">下列的網站功能提供了一整套的工具，讓您的組織可以用來建立各種類形的網站，還有一個能簡化網站管理的單一基礎架構。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-109">The following Sites features provide a full set of tools that your organization can use to create any kind of site, plus a single infrastructure that simplifies site management.</span></span> <span data-ttu-id="2e6c1-110">如需詳細資訊，請參閱[尋找有關 SharePoint Online 的內容](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7)。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-110">To find more detailed information, see [Find content about SharePoint Online](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7).</span></span>
   
-## <a name="cross-browser-support"></a><span data-ttu-id="dc18d-111">跨瀏覽器支援</span><span class="sxs-lookup"><span data-stu-id="dc18d-111">Cross Browser Support</span></span>
-<span data-ttu-id="dc18d-112"><a name="bkmk_CrossBrowserSupport"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-112"></span></span>
+## <a name="cross-browser-support"></a><span data-ttu-id="2e6c1-111">Cross Browser Support</span><span class="sxs-lookup"><span data-stu-id="2e6c1-111">Cross Browser Support</span></span>
+<span data-ttu-id="2e6c1-112"><a name="bkmk_CrossBrowserSupport"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-112"></span></span>
 
-<span data-ttu-id="dc18d-p103">SharePoint Online 支援幾種常用的網頁瀏覽器，包含三個最新版本的 Internet Explorer、最新版的 Google Chrome、Mozilla Firefox 以及 Apple Safari。深入了解[規劃瀏覽器支援](https://go.microsoft.com/fwlink/?LinkId=271048)。</span><span class="sxs-lookup"><span data-stu-id="dc18d-p103">SharePoint Online supports several commonly used web browsers, including the latest three versions of Internet Explorer, and the latest versions of Google Chrome, Mozilla Firefox, and Apple Safari. Learn more about [planning browser support](https://go.microsoft.com/fwlink/?LinkId=271048).</span></span>
+<span data-ttu-id="2e6c1-p103">SharePoint Online 支援幾種常用的網頁瀏覽器，包含三個最新版本的 Internet Explorer、最新版的 Google Chrome、Mozilla Firefox 以及 Apple Safari。深入了解[規劃瀏覽器支援](https://go.microsoft.com/fwlink/?LinkId=271048)。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-p103">SharePoint Online supports several commonly used web browsers, including the latest three versions of Internet Explorer, and the latest versions of Google Chrome, Mozilla Firefox, and Apple Safari. Learn more about [planning browser support](https://go.microsoft.com/fwlink/?LinkId=271048).</span></span>
   
-## <a name="custom-managed-paths"></a><span data-ttu-id="dc18d-115">自訂管理的路徑</span><span class="sxs-lookup"><span data-stu-id="dc18d-115">Custom Managed Paths</span></span>
-<span data-ttu-id="dc18d-116"><a name="bkmk_CustomManagedPaths"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-116"></span></span>
+## <a name="custom-managed-paths"></a><span data-ttu-id="2e6c1-115">Custom Managed Paths</span><span class="sxs-lookup"><span data-stu-id="2e6c1-115">Custom Managed Paths</span></span>
+<span data-ttu-id="2e6c1-116"><a name="bkmk_CustomManagedPaths"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-116"></span></span>
 
-<span data-ttu-id="dc18d-p104">藉由定義受管理的路徑，您可以指定那個在網路應用程式的 URL 命名空間的路徑，要作為網站集合來使用。您可以指定在特定路徑上存在一個或多個網站集合。對不同部門的使用者來說，這是一種方便整合多個網站存取的方法。深入了解[管理的路徑](https://go.microsoft.com/fwlink/?LinkId=271049)。</span><span class="sxs-lookup"><span data-stu-id="dc18d-p104">By defining managed paths, you can specify which paths in the URL namespace of a Web application are used for site collections. You can specify that one or more site collections exists at a specified path. This can be a convenient method of consolidating multiple site access to users in various departments. Learn more about [managed paths](https://go.microsoft.com/fwlink/?LinkId=271049).</span></span>
+<span data-ttu-id="2e6c1-p104">藉由定義受管理的路徑，您可以指定那個在網路應用程式的 URL 命名空間的路徑，要作為網站集合來使用。您可以指定在特定路徑上存在一個或多個網站集合。對不同部門的使用者來說，這是一種方便整合多個網站存取的方法。深入了解[管理的路徑](https://go.microsoft.com/fwlink/?LinkId=271049)。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-p104">By defining managed paths, you can specify which paths in the URL namespace of a Web application are used for site collections. You can specify that one or more site collections exists at a specified path. This can be a convenient method of consolidating multiple site access to users in various departments. Learn more about [managed paths](https://go.microsoft.com/fwlink/?LinkId=271049).</span></span>
   
-## <a name="document-libraries"></a><span data-ttu-id="dc18d-121">文件庫</span><span class="sxs-lookup"><span data-stu-id="dc18d-121">Document libraries</span></span>
-<span data-ttu-id="dc18d-122"><a name="bkmk_SiteFolders"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-122"></span></span>
+## <a name="document-libraries"></a><span data-ttu-id="2e6c1-121">文件庫</span><span class="sxs-lookup"><span data-stu-id="2e6c1-121">Document libraries</span></span>
+<span data-ttu-id="2e6c1-122"><a name="bkmk_SiteFolders"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-122"></span></span>
 
-<span data-ttu-id="dc18d-p105">您可以使用網站資料夾輕鬆地瀏覽到所需的內容。商務用 OneDrive 中的網站資料夾檢視會將您直接帶到所關注之 SharePoint 網站的文件庫。</span><span class="sxs-lookup"><span data-stu-id="dc18d-p105">Using site folders, you can easily navigate to the content you need. The site folders view in OneDrive for Business takes you directly to the document libraries of SharePoint sites you're following.</span></span> 
+<span data-ttu-id="2e6c1-p105">您可以使用網站資料夾輕鬆地瀏覽到所需的內容。商務用 OneDrive 中的網站資料夾檢視會將您直接帶到所關注之 SharePoint 網站的文件庫。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-p105">Using site folders, you can easily navigate to the content you need. The site folders view in OneDrive for Business takes you directly to the document libraries of SharePoint sites you're following.</span></span> 
   
-## <a name="governance"></a><span data-ttu-id="dc18d-125">治理</span><span class="sxs-lookup"><span data-stu-id="dc18d-125">Governance</span></span>
-<span data-ttu-id="dc18d-126"><a name="bkmk_Governance"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-126"></span></span>
+## <a name="governance"></a><span data-ttu-id="2e6c1-125">治理</span><span class="sxs-lookup"><span data-stu-id="2e6c1-125">Governance</span></span>
+<span data-ttu-id="2e6c1-126"><a name="bkmk_Governance"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-126"></span></span>
 
-<span data-ttu-id="dc18d-p106">每個網站很重要卻又常被忽略的一部分就是治理模式，這包含了您所建立的一組原則、職責、責任和流程，藉以決定您群組的人員如何使用 SharePoint。深入了解[建立與管理小組網站的最佳作法](https://go.microsoft.com/fwlink/?LinkId=271050)。</span><span class="sxs-lookup"><span data-stu-id="dc18d-p106">An important but often invisible part of any site is its governance model—the set of policies, roles, responsibilities, and processes that you establish to determine how the people in your group use SharePoint. Learn more about [best practices for creating and managing team sites](https://go.microsoft.com/fwlink/?LinkId=271050).</span></span>
+<span data-ttu-id="2e6c1-p106">每個網站很重要卻又常被忽略的一部分就是治理模式，這包含了您所建立的一組原則、職責、責任和流程，藉以決定您群組的人員如何使用 SharePoint。深入了解[建立與管理小組網站的最佳作法](https://go.microsoft.com/fwlink/?LinkId=271050)。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-p106">An important but often invisible part of any site is its governance model—the set of policies, roles, responsibilities, and processes that you establish to determine how the people in your group use SharePoint. Learn more about [best practices for creating and managing team sites](https://go.microsoft.com/fwlink/?LinkId=271050).</span></span>
   
-## <a name="large-list-scalability-and-management"></a><span data-ttu-id="dc18d-129">大量清單延展性和管理</span><span class="sxs-lookup"><span data-stu-id="dc18d-129">Large List Scalability and Management</span></span>
-<span data-ttu-id="dc18d-130"><a name="bkmk_LargeListScalabilityManagement"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-130"></span></span>
+## <a name="large-list-scalability-and-management"></a><span data-ttu-id="2e6c1-129">Large List Scalability and Management</span><span class="sxs-lookup"><span data-stu-id="2e6c1-129">Large List Scalability and Management</span></span>
+<span data-ttu-id="2e6c1-130"><a name="bkmk_LargeListScalabilityManagement"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-130"></span></span>
 
-<span data-ttu-id="dc18d-p107">藉由規劃並使用主要清單和文件庫功能，您可以確保您和其他使用者可以快速找到訊息，而且不會影響到您網站其他部分的效能。深入了解[管理清單與文件庫](https://go.microsoft.com/fwlink/?LinkId=271051)。</span><span class="sxs-lookup"><span data-stu-id="dc18d-p107">By planning and using key list and library features, you can ensure that you and other users quickly find information without adversely affecting the performance of the rest of your site. Learn more about [managing lists and libraries](https://go.microsoft.com/fwlink/?LinkId=271051).</span></span>
+<span data-ttu-id="2e6c1-p107">藉由規劃並使用主要清單和文件庫功能，您可以確保您和其他使用者可以快速找到訊息，而且不會影響到您網站其他部分的效能。深入了解[管理清單與文件庫](https://go.microsoft.com/fwlink/?LinkId=271051)。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-p107">By planning and using key list and library features, you can ensure that you and other users quickly find information without adversely affecting the performance of the rest of your site. Learn more about [managing lists and libraries](https://go.microsoft.com/fwlink/?LinkId=271051).</span></span>
   
-## <a name="mobile-connectivity"></a><span data-ttu-id="dc18d-133">行動裝置連線</span><span class="sxs-lookup"><span data-stu-id="dc18d-133">Mobile Connectivity</span></span>
-<span data-ttu-id="dc18d-134"><a name="bkmk_MobileConnectivity"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-134"></span></span>
+## <a name="mobile-connectivity"></a><span data-ttu-id="2e6c1-133">Mobile Connectivity</span><span class="sxs-lookup"><span data-stu-id="2e6c1-133">Mobile Connectivity</span></span>
+<span data-ttu-id="2e6c1-134"><a name="bkmk_MobileConnectivity"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-134"></span></span>
 
-<span data-ttu-id="dc18d-p108">您可以透過具有網際網路連線的行動電話或平板電腦，隨時隨地存取 SharePoint 網站。您可以完全透過您的行動裝置檢視並更新文件、清單和其他網站內容，並和同事互動合作。深入了解[使用行動裝置在 SharePoint Online 網站上工作](https://go.microsoft.com/fwlink/?LinkId=271052)。</span><span class="sxs-lookup"><span data-stu-id="dc18d-p108">You can access SharePoint sites on the go from an Internet-connected mobile phone or tablet. You can view and update documents, lists, and other site content and collaborate with colleagues, all from your mobile device. Learn more about [using a mobile device to work with SharePoint Online sites](https://go.microsoft.com/fwlink/?LinkId=271052).</span></span>
+<span data-ttu-id="2e6c1-p108">您可以透過具有網際網路連線的行動電話或平板電腦，隨時隨地存取 SharePoint 網站。您可以完全透過您的行動裝置檢視並更新文件、清單和其他網站內容，並和同事互動合作。深入了解[使用行動裝置在 SharePoint Online 網站上工作](https://go.microsoft.com/fwlink/?LinkId=271052)。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-p108">You can access SharePoint sites on the go from an Internet-connected mobile phone or tablet. You can view and update documents, lists, and other site content and collaborate with colleagues, all from your mobile device. Learn more about [using a mobile device to work with SharePoint Online sites](https://go.microsoft.com/fwlink/?LinkId=271052).</span></span>
   
-## <a name="multi-lingual-user-interface"></a><span data-ttu-id="dc18d-138">多語言使用者介面</span><span class="sxs-lookup"><span data-stu-id="dc18d-138">Multi-Lingual User Interface</span></span>
-<span data-ttu-id="dc18d-139"><a name="bkmk_MultiLingualUserInterface"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-139"></span></span>
+## <a name="multi-lingual-user-interface"></a><span data-ttu-id="2e6c1-138">Multi-Lingual User Interface</span><span class="sxs-lookup"><span data-stu-id="2e6c1-138">Multi-Lingual User Interface</span></span>
+<span data-ttu-id="2e6c1-139"><a name="bkmk_MultiLingualUserInterface"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-139"></span></span>
 
-<span data-ttu-id="dc18d-p109">使用多語言使用者介面 (MUI) 功能，以不同於 SharePoint 安裝預設語言的語言建立網站。深入了解[多語言功能](https://go.microsoft.com/fwlink/?LinkId=271053)。</span><span class="sxs-lookup"><span data-stu-id="dc18d-p109">Use the Multi-lingual User Interface (MUI) feature to create sites in languages that are different from the default language of your SharePoint installation. Learn more about [multilingual features](https://go.microsoft.com/fwlink/?LinkId=271053).</span></span>
+<span data-ttu-id="2e6c1-p109">使用多語言使用者介面 (MUI) 功能，以不同於 SharePoint 安裝預設語言的語言建立網站。深入了解[多語言功能](https://go.microsoft.com/fwlink/?LinkId=271053)。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-p109">Use the Multi-lingual User Interface (MUI) feature to create sites in languages that are different from the default language of your SharePoint installation. Learn more about [multilingual features](https://go.microsoft.com/fwlink/?LinkId=271053).</span></span>
   
-## <a name="ootb-web-parts"></a><span data-ttu-id="dc18d-142">OOTB 網頁組件</span><span class="sxs-lookup"><span data-stu-id="dc18d-142">OOTB Web Parts</span></span>
-<span data-ttu-id="dc18d-143"><a name="bkmk_OOTBWebParts"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-143"></span></span>
+## <a name="ootb-web-parts"></a><span data-ttu-id="2e6c1-142">OOTB Web Parts</span><span class="sxs-lookup"><span data-stu-id="2e6c1-142">OOTB Web Parts</span></span>
+<span data-ttu-id="2e6c1-143"><a name="bkmk_OOTBWebParts"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-143"></span></span>
 
-<span data-ttu-id="dc18d-144">網頁組件是一種資訊模組化單位，它組成了網頁組件頁面的基本建置組塊。</span><span class="sxs-lookup"><span data-stu-id="dc18d-144">A Web Part is a modular unit of information that forms the basic building block of a Web Part page.</span></span>
+<span data-ttu-id="2e6c1-144">網頁組件是一種資訊模組化單位，它組成了網頁組件頁面的基本建置組塊。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-144">A Web Part is a modular unit of information that forms the basic building block of a Web Part page.</span></span>
   
-## <a name="permissions-management"></a><span data-ttu-id="dc18d-145">權限管理</span><span class="sxs-lookup"><span data-stu-id="dc18d-145">Permissions Management</span></span>
-<span data-ttu-id="dc18d-146"><a name="bkmk_PermissionsManagement"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-146"></span></span>
+## <a name="permissions-management"></a><span data-ttu-id="2e6c1-145">Permissions Management</span><span class="sxs-lookup"><span data-stu-id="2e6c1-145">Permissions Management</span></span>
+<span data-ttu-id="2e6c1-146"><a name="bkmk_PermissionsManagement"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-146"></span></span>
 
-<span data-ttu-id="dc18d-p110">SharePoint 的權限非常有彈性，其設定彈性相當充足，足以讓組織在任何必要的細節層次上管理權限。以下三個關鍵安全性要素會共同運作來控制使用者對網站和網站內容的存取：這些要素包括權限繼承、權限等級 (有時亦稱為 SharePoint 角色) 和 SharePoint 群組 (或稱為 SharePoint 安全性群組)。深入了解[透過權限控制使用者的存取](https://go.microsoft.com/fwlink/?LinkId=271054)。</span><span class="sxs-lookup"><span data-stu-id="dc18d-p110">SharePoint permissions are flexible and configurable enough for an organization to manage permissions at whatever level of detail that is needed. Three key security elements work together to control user access to sites and site content: permissions inheritance, permission levels (sometimes known as SharePoint roles), and SharePoint groups (or SharePoint security groups). Learn more about [controlling user access with permissions](https://go.microsoft.com/fwlink/?LinkId=271054).</span></span>
+<span data-ttu-id="2e6c1-p110">SharePoint 的權限非常有彈性，其設定彈性相當充足，足以讓組織在任何必要的細節層次上管理權限。以下三個關鍵安全性要素會共同運作來控制使用者對網站和網站內容的存取：這些要素包括權限繼承、權限等級 (有時亦稱為 SharePoint 角色) 和 SharePoint 群組 (或稱為 SharePoint 安全性群組)。深入了解[透過權限控制使用者的存取](https://go.microsoft.com/fwlink/?LinkId=271054)。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-p110">SharePoint permissions are flexible and configurable enough for an organization to manage permissions at whatever level of detail that is needed. Three key security elements work together to control user access to sites and site content: permissions inheritance, permission levels (sometimes known as SharePoint roles), and SharePoint groups (or SharePoint security groups). Learn more about [controlling user access with permissions](https://go.microsoft.com/fwlink/?LinkId=271054).</span></span>
   
-## <a name="project-site-template"></a><span data-ttu-id="dc18d-150">專案網站範本</span><span class="sxs-lookup"><span data-stu-id="dc18d-150">Project site template</span></span>
-<span data-ttu-id="dc18d-151"><a name="bkmk_Projectsitetemplate"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-151"><a name="bkmk_Projectsitetemplate"> </a></span></span>
+## <a name="project-site-template"></a><span data-ttu-id="2e6c1-150">Project site template</span><span class="sxs-lookup"><span data-stu-id="2e6c1-150">Project site template</span></span>
+<span data-ttu-id="2e6c1-151"><a name="bkmk_Projectsitetemplate"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-151"></span></span>
 
-<span data-ttu-id="dc18d-p111">使用專案網站範本建立網站，以在此擷取工作並指派工作給組織裡的人、儲存並管理專案相關的文件，以及在共用的行事曆上追蹤專案團隊活動。深入了解[專案網站](https://go.microsoft.com/fwlink/?LinkId=271228)。</span><span class="sxs-lookup"><span data-stu-id="dc18d-p111">Use the project site template to create a site where you can capture tasks and assign them to people in your organization, store and manage project-related documentation, and track project team events on a common calendar. Learn more about [project sites](https://go.microsoft.com/fwlink/?LinkId=271228).</span></span>
+<span data-ttu-id="2e6c1-p111">使用專案網站範本建立網站，以在此擷取工作並指派工作給組織裡的人、儲存並管理專案相關的文件，以及在共用的行事曆上追蹤專案團隊活動。深入了解[專案網站](https://go.microsoft.com/fwlink/?LinkId=271228)。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-p111">Use the project site template to create a site where you can capture tasks and assign them to people in your organization, store and manage project-related documentation, and track project team events on a common calendar. Learn more about [project sites](https://go.microsoft.com/fwlink/?LinkId=271228).</span></span>
   
-## <a name="sharepoint-lists"></a><span data-ttu-id="dc18d-154">SharePoint 清單</span><span class="sxs-lookup"><span data-stu-id="dc18d-154">SharePoint Lists</span></span>
-<span data-ttu-id="dc18d-155"><a name="bkmk_SharePointLists"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-155"></span></span>
+## <a name="sharepoint-lists"></a><span data-ttu-id="2e6c1-154">SharePoint Lists</span><span class="sxs-lookup"><span data-stu-id="2e6c1-154">SharePoint Lists</span></span>
+<span data-ttu-id="2e6c1-155"><a name="bkmk_SharePointLists"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-155"></span></span>
 
-<span data-ttu-id="dc18d-p112">清單是您可以與團隊成員和其他網站使用者共享的資料集。舉例來說，您可以使用清單為活動建立簽到表，或追蹤行事曆上的團隊活動。您可以利用一些已就緒的清單和清單範本，這都是組織清單項目絕佳的起始點。深入了解[SharePoint 清單](https://go.microsoft.com/fwlink/?LinkId=271056)。</span><span class="sxs-lookup"><span data-stu-id="dc18d-p112">A list is a collection of data that you can share with team members and other site users. For example, you can create a sign-up sheet for an event or track team events on a calendar by using a list. You can use several ready-to-use lists and list templates, which provide a good starting point for organizing list items. Learn more about [SharePoint lists](https://go.microsoft.com/fwlink/?LinkId=271056).</span></span>
+<span data-ttu-id="2e6c1-p112">清單是您可以與團隊成員和其他網站使用者共享的資料集。舉例來說，您可以使用清單為活動建立簽到表，或追蹤行事曆上的團隊活動。您可以利用一些已就緒的清單和清單範本，這都是組織清單項目絕佳的起始點。深入了解[SharePoint 清單](https://go.microsoft.com/fwlink/?LinkId=271056)。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-p112">A list is a collection of data that you can share with team members and other site users. For example, you can create a sign-up sheet for an event or track team events on a calendar by using a list. You can use several ready-to-use lists and list templates, which provide a good starting point for organizing list items. Learn more about [SharePoint lists](https://go.microsoft.com/fwlink/?LinkId=271056).</span></span>
   
-## <a name="site-designs"></a><span data-ttu-id="dc18d-160">網站設計</span><span class="sxs-lookup"><span data-stu-id="dc18d-160">Site designs</span></span>
-<span data-ttu-id="dc18d-161"><a name="bkmk_Templates"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-161"><a name="bkmk_Templates"> </a></span></span>
+## <a name="site-designs"></a><span data-ttu-id="2e6c1-160">網站設計</span><span class="sxs-lookup"><span data-stu-id="2e6c1-160">Site designs</span></span>
+<span data-ttu-id="2e6c1-161"><a name="bkmk_Templates"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-161"></span></span>
 
-<span data-ttu-id="dc18d-p113">選取網站範本以作為網站基調，是您在 SharePoint 建立新網站的第一步。網站範本包含清單、文件庫、網頁和其他支援組織需求的元件或功能。深入了解[自訂您的小組網站](https://go.microsoft.com/fwlink/?LinkId=271058)。</span><span class="sxs-lookup"><span data-stu-id="dc18d-p113">When you create a new site in SharePoint, you start by selecting a site template to base your site on. Site templates contain lists, libraries, pages, and other elements or features that support the needs of an organization. Learn more about [customizing your team site](https://go.microsoft.com/fwlink/?LinkId=271058).</span></span>
+<span data-ttu-id="2e6c1-p113">選取網站範本以作為網站基調，是您在 SharePoint 建立新網站的第一步。網站範本包含清單、文件庫、網頁和其他支援組織需求的元件或功能。深入了解[自訂您的小組網站](https://go.microsoft.com/fwlink/?LinkId=271058)。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-p113">When you create a new site in SharePoint, you start by selecting a site template to base your site on. Site templates contain lists, libraries, pages, and other elements or features that support the needs of an organization. Learn more about [customizing your team site](https://go.microsoft.com/fwlink/?LinkId=271058).</span></span>
   
-## <a name="site-themes-change-the-look"></a><span data-ttu-id="dc18d-165">網站佈景主題 （變更外觀）</span><span class="sxs-lookup"><span data-stu-id="dc18d-165">Site Themes (change the look)</span></span>
-<span data-ttu-id="dc18d-166"><a name="bkmk_Themes"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-166"></span></span>
+## <a name="site-themes-change-the-look"></a><span data-ttu-id="2e6c1-165">網站佈景主題 （變更外觀）</span><span class="sxs-lookup"><span data-stu-id="2e6c1-165">Site Themes (change the look)</span></span>
+<span data-ttu-id="2e6c1-166"><a name="bkmk_Themes"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-166"></span></span>
 
-<span data-ttu-id="dc18d-p114">您可以快速地自訂您的小組網站，使其更容易使用，並能顯示您的專業風格和品牌特徵。主題是可以對網站快速套用顏色和字型的方式。</span><span class="sxs-lookup"><span data-stu-id="dc18d-p114">You can quickly customize your team site so that it's easier to use and reflects your professional style and brand. Themes are a quick and way to apply colors and fonts to sites.</span></span>
+<span data-ttu-id="2e6c1-p114">您可以快速地自訂您的小組網站，使其更容易使用，並能顯示您的專業風格和品牌特徵。主題是可以對網站快速套用顏色和字型的方式。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-p114">You can quickly customize your team site so that it's easier to use and reflects your professional style and brand. Themes are a quick and way to apply colors and fonts to sites.</span></span>
   
-## <a name="site-usage-page"></a><span data-ttu-id="dc18d-169">網站流量頁面</span><span class="sxs-lookup"><span data-stu-id="dc18d-169">Site usage page</span></span>
-<span data-ttu-id="dc18d-170"><a name="bkmk_UsageAnalytics"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-170"><a name="bkmk_UsageAnalytics"> </a></span></span>
+## <a name="site-usage-page"></a><span data-ttu-id="2e6c1-169">網站使用狀況] 頁面上</span><span class="sxs-lookup"><span data-stu-id="2e6c1-169">Site usage page</span></span>
+<span data-ttu-id="2e6c1-170"><a name="bkmk_UsageAnalytics"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-170"></span></span>
 
-<span data-ttu-id="dc18d-171">Web Analytics 報表是 SharePoint 中的內建報表功能，它使用流量資料來分析網站與網站集合的各個層面。</span><span class="sxs-lookup"><span data-stu-id="dc18d-171">Web Analytics reports are pre-built reports in SharePoint that use usage data to analyze various aspects of sites and site collections.</span></span> 
+<span data-ttu-id="2e6c1-171">Web Analytics 報表是 SharePoint 中的內建報表功能，它使用流量資料來分析網站與網站集合的各個層面。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-171">Web Analytics reports are pre-built reports in SharePoint that use usage data to analyze various aspects of sites and site collections.</span></span> 
   
-## <a name="task-list"></a><span data-ttu-id="dc18d-172">工作清單</span><span class="sxs-lookup"><span data-stu-id="dc18d-172">Task list</span></span>
-<span data-ttu-id="dc18d-173"><a name="bkmk_Tasklist"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-173"></span></span>
+## <a name="task-list"></a><span data-ttu-id="2e6c1-172">工作清單</span><span class="sxs-lookup"><span data-stu-id="2e6c1-172">Task list</span></span>
+<span data-ttu-id="2e6c1-173"><a name="bkmk_Tasklist"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-173"></span></span>
 
-<span data-ttu-id="dc18d-p115">工作清單支援階層式工作管理方式，並在單一清單上列出工作摘要和子工作。工作可以有開始日期和結束日期，可以被指派給組織中的人，也可以被列在有說明的時間表中。深入了解[將工作新增至您的專案](https://go.microsoft.com/fwlink/?LinkId=271230)。</span><span class="sxs-lookup"><span data-stu-id="dc18d-p115">Task lists are used for managing work in a hierarchical way, with summary tasks and subtasks appearing in a single list. Tasks can have start and end dates, can be assigned to people in your organization, and can be included in an illustrated timeline. Learn more about [adding tasks to your project](https://go.microsoft.com/fwlink/?LinkId=271230).</span></span>
+<span data-ttu-id="2e6c1-p115">工作清單支援階層式工作管理方式，並在單一清單上列出工作摘要和子工作。工作可以有開始日期和結束日期，可以被指派給組織中的人，也可以被列在有說明的時間表中。深入了解[將工作新增至您的專案](https://go.microsoft.com/fwlink/?LinkId=271230)。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-p115">Task lists are used for managing work in a hierarchical way, with summary tasks and subtasks appearing in a single list. Tasks can have start and end dates, can be assigned to people in your organization, and can be included in an illustrated timeline. Learn more about [adding tasks to your project](https://go.microsoft.com/fwlink/?LinkId=271230).</span></span>
   
-## <a name="team-notebook"></a><span data-ttu-id="dc18d-177">小組筆記本</span><span class="sxs-lookup"><span data-stu-id="dc18d-177">Team Notebook</span></span>
-<span data-ttu-id="dc18d-178"><a name="bkmk_TeamSiteNotebook"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-178"></span></span>
+## <a name="team-notebook"></a><span data-ttu-id="2e6c1-177">小組筆記本</span><span class="sxs-lookup"><span data-stu-id="2e6c1-177">Team Notebook</span></span>
+<span data-ttu-id="2e6c1-178"><a name="bkmk_TeamSiteNotebook"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-178"></span></span>
 
-<span data-ttu-id="dc18d-p116">當您建立小組網站時，系統會自動產生一個 OneNote 2013 共用的筆記本，以作為網站的一部分。您可以利用此筆記本來擷取、編譯和共用資訊。(只有當您註冊一套包含 Office Online 支援的 Office 365 套件時，才可以使用這項功能。 )</span><span class="sxs-lookup"><span data-stu-id="dc18d-p116">When you create a team site, a OneNote 2013 shared notebook is automatically created as part of the site. You can use this notebook to capture, compile, and share information. (This feature is available only if you have signed up with an Office 365 suite that includes Office Online support.)</span></span>
+<span data-ttu-id="2e6c1-p116">當您建立小組網站時，系統會自動產生一個 OneNote 2013 共用的筆記本，以作為網站的一部分。您可以利用此筆記本來擷取、編譯和共用資訊。(只有當您註冊一套包含 Office Online 支援的 Office 365 套件時，才可以使用這項功能。 )</span><span class="sxs-lookup"><span data-stu-id="2e6c1-p116">When you create a team site, a OneNote 2013 shared notebook is automatically created as part of the site. You can use this notebook to capture, compile, and share information. (This feature is available only if you have signed up with an Office 365 suite that includes Office Online support.)</span></span>
   
-## <a name="variations"></a><span data-ttu-id="dc18d-182">變化</span><span class="sxs-lookup"><span data-stu-id="dc18d-182">Variations</span></span>
-<span data-ttu-id="dc18d-183"><a name="bkmk_Variations"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-183"></span></span>
+## <a name="variations"></a><span data-ttu-id="2e6c1-182">Variations</span><span class="sxs-lookup"><span data-stu-id="2e6c1-182">Variations</span></span>
+<span data-ttu-id="2e6c1-183"><a name="bkmk_Variations"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-183"></span></span>
 
-<span data-ttu-id="dc18d-p117">變化功能使您可以為內部網路出版網站建立、管理和翻譯特定地區的內容。變化功能不供 Office 365 公用網站使用。深入了解[建立多種語言網站](https://go.microsoft.com/fwlink/?LinkId=272921)。</span><span class="sxs-lookup"><span data-stu-id="dc18d-p117">Variations enable you to create, manage, and translate locale-specific content for intranet Publishing sites. Variations is not available for Office 365 public websites. Learn more about [creating a multi-language website](https://go.microsoft.com/fwlink/?LinkId=272921).</span></span>
+<span data-ttu-id="2e6c1-p117">變化功能使您可以為內部網路出版網站建立、管理和翻譯特定地區的內容。變化功能不供 Office 365 公用網站使用。深入了解[建立多種語言網站](https://go.microsoft.com/fwlink/?LinkId=272921)。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-p117">Variations enable you to create, manage, and translate locale-specific content for intranet Publishing sites. Variations is not available for Office 365 public websites. Learn more about [creating a multi-language website](https://go.microsoft.com/fwlink/?LinkId=272921).</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="dc18d-187">功能可用性</span><span class="sxs-lookup"><span data-stu-id="dc18d-187">Feature Availability</span></span>
-<span data-ttu-id="dc18d-188"><a name="bkmk_Variations"> </a></span><span class="sxs-lookup"><span data-stu-id="dc18d-188"></span></span>
+## <a name="feature-availability"></a><span data-ttu-id="2e6c1-187">功能可用性</span><span class="sxs-lookup"><span data-stu-id="2e6c1-187">Feature Availability</span></span>
+<span data-ttu-id="2e6c1-188"><a name="bkmk_Variations"> </a></span><span class="sxs-lookup"><span data-stu-id="2e6c1-188"></span></span>
 
-<span data-ttu-id="dc18d-189">若要檢視 Office 365 計劃、獨立選項和內部部署解決方案中的功能可用性，請參閱 [SharePoint Online 服務說明](sharepoint-online-service-description.md)。</span><span class="sxs-lookup"><span data-stu-id="dc18d-189">To view feature availability across Office 365 plans, standalone options, and on-premise solutions, see [SharePoint Online Service Description](sharepoint-online-service-description.md).</span></span>
+<span data-ttu-id="2e6c1-189">若要檢視 Office 365 計劃、獨立選項和內部部署解決方案中的功能可用性，請參閱 [SharePoint Online 服務說明](sharepoint-online-service-description.md)。</span><span class="sxs-lookup"><span data-stu-id="2e6c1-189">To view feature availability across Office 365 plans, standalone options, and on-premise solutions, see [SharePoint Online Service Description](sharepoint-online-service-description.md).</span></span>
   
 
