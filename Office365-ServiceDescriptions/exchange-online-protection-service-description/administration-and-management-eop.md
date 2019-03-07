@@ -1,7 +1,7 @@
 ---
 title: 系統管理與管理[EOP]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,24 +12,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
-description: 本小節會說明 Microsoft Exchange Online Protection (EOP) 系統管理員可用的管理介面。
-ms.openlocfilehash: f7525dd92e0162ace50c126c5592fc6fcc530253
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: 本章節說明 Microsoft Exchange Online Protection (EOP) 系統管理員可用的管理介面。
+ms.openlocfilehash: 3281fafa8dde443a25085a2605a085cd31623fcb
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210156"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467490"
 ---
 # <a name="administration-and-managementeop"></a>系統管理與管理[EOP]
 
-本小節會說明 Microsoft Exchange Online Protection (EOP) 系統管理員可用的管理介面。
+本章節說明 Microsoft Exchange Online Protection (EOP) 系統管理員可用的管理介面。
   
-尋找所有 EOP 功能的相關資訊嗎？請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
+尋找所有 EOP 功能的相關資訊嗎？ 請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
   
 ## <a name="access-to-the-microsoft-365-admin-center"></a>Microsoft 365 系統管理中心存取
 <a name="BKMK_accesstotheoffice365admincenter"> </a>
 
-Microsoft 365 系統管理中心為每個公司的服務管理員可以來管理使用者帳戶的入口網站與訂閱每個要在 Office 365 服務的設定。從內 Microsoft 365 系統管理中心中，系統管理員可以遵循連結至 EAC 中，讓他們管理 EOP 特有的設定。
+在 Microsoft 365 系統管理中心是從中每個公司的服務管理員可以管理使用者帳戶的入口網站及訂閱的每個 Office 365 服務的設定。 從內 Microsoft 365 系統管理中心中，系統管理員可以遵循連結至 EAC 中，他們可以在此管理 EOP 的專屬的設定。
   
 ## <a name="access-to-the-exchange-admin-center"></a>存取 Exchange 系統管理中心
 <a name="BKMK_accesstotheexchangeadmincenter"> </a>

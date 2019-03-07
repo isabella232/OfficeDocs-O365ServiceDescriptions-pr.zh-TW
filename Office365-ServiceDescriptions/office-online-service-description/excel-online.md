@@ -1,7 +1,7 @@
 ---
 title: Excel Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: Excel Online (先前稱為 Excel Web App) Microsoft Excel 將您功能延伸至網頁瀏覽器，讓您可以使用活頁簿儲存活頁簿的網站上直接。所有的 Office 365 客戶可以檢視和限制性編輯 Office 檔案使用 Office Online。
-ms.openlocfilehash: 1cf8b3f9144a940b2e79958455c08fee2d1e7365
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+description: Excel Online (先前稱為 Excel Web App) 您 Microsoft Excel 將經驗延伸至網頁瀏覽器中，其中您可以使用的活頁簿儲存活頁簿的網站上直接。 所有 Office 365 客戶均可使用 Office Online 來檢視和局部編輯 Office 檔案。
+ms.openlocfilehash: bfbf1f354d7bc5fdc4e8539885498d360ef67faa
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362898"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467380"
 ---
 # <a name="excel-online"></a>Excel Online
 
-Excel Online (先前稱為 Excel Web App) Microsoft Excel 將您功能延伸至網頁瀏覽器，讓您可以使用活頁簿儲存活頁簿的網站上直接。所有的 Office 365 客戶可以檢視和限制性編輯 Office 檔案使用 Office Online。
+Excel Online (先前稱為 Excel Web App) 您 Microsoft Excel 將經驗延伸至網頁瀏覽器中，其中您可以使用的活頁簿儲存活頁簿的網站上直接。 所有 Office 365 客戶均可使用 Office Online 來檢視和局部編輯 Office 檔案。
   
 > [!NOTE]
-> 無法在 Excel Online 中從 Microsoft SharePoint Online 中檢視超過 30 mb 的活頁簿。若要檢視較大的檔案，您將需要在電腦上安裝 Excel 桌面應用程式。 
+> 無法在 Excel Online 從內 Microsoft SharePoint Online 中檢視超過 30 mb (MB) 的活頁簿。 若要檢視較大的檔案，則您的電腦需要安裝 Excel 桌面應用程式。 
   
 > [!NOTE]
 > 為協助您比較各產品項目，本文章中所列的進階功能包括：僅適用於 Office 套件 (例如：Office Professional Plus、Office Standard 或 Office 365 ProPlus) 的 Excel 桌面應用程式功能。若要查看所有 Office Online 功能 (例如 Word Online 和 PowerPoint Online) 的清單，請參閱＜[各 Office Online 計劃中可用的功能](office-online-service-description.md#feature-availability-across-office-online-plans)＞
@@ -44,7 +44,7 @@ Excel Online (先前稱為 Excel Web App) Microsoft Excel 將您功能延伸至�
 
 「時間表」控制可讓您篩選模型化資料。視覺化的呈現方式可讓您檢視和變更日期的持續範圍，以及篩選樞紐型物件，例如：樞紐分析表和樞紐分析圖。 
   
-## <a name="alignment"></a>對齊
+## <a name="alignment"></a>Alignment
 <a name="bkmk_Alignment"> </a>
 
 使用 [首頁] 索引標籤上的 [對齊] 按鈕來變更文字的對齊方式。 
@@ -57,7 +57,7 @@ Excel Online (先前稱為 Excel Web App) Microsoft Excel 將您功能延伸至�
 ## <a name="apply-data-validation-to-cells"></a>將資料驗證套用至儲存格
 <a name="bkmk_Applydatavalidationtocells"> </a>
 
-在 Excel Online 中使用此功能。其他進階的功能只可 Excel 桌面應用程式中。
+在 Excel Online 中使用這項功能。 其他進階的功能只可在 Excel 桌面應用程式中。
   
 ## <a name="apply-smartrecommended-formatting"></a>套用智慧/建議的格式
 <a name="bkmk_Applysmartformatting"> </a>
@@ -67,14 +67,14 @@ Excel Online (先前稱為 Excel Web App) Microsoft Excel 將您功能延伸至�
 ## <a name="office-add-ins"></a>Office 增益集
 <a name="bkmk_AppsOfficeIntegration"> </a>
 
- 某些，但不是所有 Office 增益集的 Excel Online 中可用的。您可以取得增益集的 Excel 來自 Office 市集。深入了解[如何取得 Excel 增益集](https://go.microsoft.com/fwlink/p/?LinkId=271667)。
+ 某些，但並非所有 Office 增益集可在 Excel Online 中。 您可以從 Office 市集取得 Excel 增益集。 進一步了解[如何取得 Excel 增益集](https://go.microsoft.com/fwlink/p/?LinkId=271667)。
   
 ## <a name="autocomplete"></a>自動完成
 <a name="bkmk_Autocomplete"> </a>
 
 Excel Online 可以完成您在儲存格中輸入的內容，若有一個以上的可能值，則會以清單顯示所有的可能值供您挑選。
   
-## <a name="autosum"></a>自動加總
+## <a name="autosum"></a>AutoSum
 <a name="bkmk_AutoSum"> </a>
 
 選取您要加總的儲存格，然後按兩下 [自動加總]，即可計算某欄或某列的總數。結果將顯示在下一個空白儲存格中。
@@ -149,7 +149,7 @@ Dropbox 是一個檔案主控服務，提供雲端儲存體、檔案同步作業
 
 拖曳所選儲存格右下角的填滿控點，即可將資料填入相鄰的儲存格。
   
-## <a name="find"></a>尋找
+## <a name="find"></a>Find
 <a name="bkmk_Find"> </a>
 
 在使用中的工作表中尋找儲存格內容。易於使用的對話方塊會提供選項，讓您從工作表中目前的選取範圍向上或向下搜尋。
@@ -172,14 +172,14 @@ Microsoft Excel 桌面應用程式支援最進階的公式工具，例如：3D �
 ## <a name="freeze-panes"></a>凍結窗格
 <a name="bkmk_FreezePanes"> </a>
 
-使用 Excel Online 功能區中的凍結窗格功能。了解更多關於[如何凍結窗格工時以 Excel 2013 桌面應用程式](https://go.microsoft.com/fwlink/p/?LinkId=282331)和[請參閱 Excel Online 的秘訣](https://go.microsoft.com/fwlink/?linkid=869873)。
+在 Excel Online 功能區中使用凍結窗格功能。 深入了解[如何在 Excel 2013 桌面應用程式中使用凍結窗格](https://go.microsoft.com/fwlink/p/?LinkId=282331)與[查看 Excel Online 的秘訣](https://go.microsoft.com/fwlink/?linkid=869873)。
   
 ## <a name="full-fidelity-reading-view"></a>高逼真讀取檢視
 <a name="bkmk_FullFidelityReadingView"> </a>
 
 [讀取檢視] 中顯示的活頁簿內容和 [編輯檢視] 的瀏覽器中顯示的內容完全相同。
   
-## <a name="functions"></a>函數
+## <a name="functions"></a>函式
 <a name="bkmk_Functions"> </a>
 
 在 Excel Online 中，有超過 400 個工作表函數可供您用於公式計算，讓您充分運用 Excel 功能。
@@ -207,7 +207,7 @@ Microsoft Excel 桌面應用程式支援最進階的公式工具，例如：3D �
 ## <a name="merge-cells"></a>合併儲存格
 <a name="bkmk_MergeCells"> </a>
 
-使用合併&amp;合併及置中選取的儲存格的一個較大的儲存格的內容的 [常用] 索引標籤上的中心。您可以按一下 [對齊] 按鈕來變更對齊方式。
+Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
   
 ## <a name="number-formatting"></a>數字格式化
 <a name="bkmk_Numberformatting"> </a>
@@ -234,7 +234,7 @@ Excel Online 可讓您檢視 Power Pivot 表格和圖表，但是您需要 Excel
 
 您可以檢視活頁簿中的 Power View 工作表並與其互動，但是無法使用 Excel Online 建立 Power View。只有使用桌面應用程式才能建立 Power View。Power View 可讓您在互動式、能隨時呈現的檢視中，建立、共用及瀏覽資料。在單一工作表上相互連結的互動式地圖、圖表和表格中檢視資訊。進一步了解 [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674)。
   
-## <a name="print"></a>列印
+## <a name="print"></a>Print
 <a name="bkmk_Print"> </a>
 
 使用 Excel Online 中的列印命令將整份工作表或目前的選取範圍傳送至印表機。進一步了解[如何在 Excel Online 中列印](https://go.microsoft.com/fwlink/p/?LinkId=271676)。
@@ -242,7 +242,7 @@ Excel Online 可讓您檢視 Power Pivot 表格和圖表，但是您需要 Excel
 ## <a name="real-time-co-authoring"></a>即時共同撰寫
 <a name="bkmk_Coauthoring"> </a>
 
-兩個或更多位人員可以搭配使用相同的試算表中同時由桌面 app 即時的目前狀態可協助您看到其中您共同撰寫作者會使用文件中使您不建立衝突，如您所編輯 Excel 中而不是其網頁瀏覽器中開啟報表您可以看見變更正在進行。如需即時共同撰寫的詳細資訊，請參閱[在 Excel 活頁簿，同時共同撰寫的共同作業](https://go.microsoft.com/fwlink/?linkid=850793)。
+只要使用網頁瀏覽器 (而非 Excel 桌面應用程式) 開啟檔案，即可讓兩位以上的使用者同時編輯同一試算表。 即時目前狀態可讓您看見共同撰寫作者正在文件何處進行編輯，讓您避免在編輯時與之衝突，並且您可以看見正在進行的變更。 如需即時共同撰寫的詳細資訊，請參閱 <<c0>在此同時共同撰寫的 Excel 活頁簿上共同作業。
   
 ## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>使用格式化控制項來建立和編輯建議的圖表
 <a name="bkmk_Advancedrecommendedchart"> </a>
@@ -264,7 +264,7 @@ Excel Online 可讓您檢視 Power Pivot 表格和圖表，但是您需要 Excel
 
 在 Excel Online 中，您可以不關閉活頁簿檔案就直接加以重新命名，只要按一下標題中的檔案名稱，再輸入新名稱即可。若要使用 Excel 桌面應用程式重新命名檔案，則需要關閉檔案、瀏覽至其在裝置上的位置，然後重新命名檔案。
   
-## <a name="replace"></a>取代
+## <a name="replace"></a>Replace
 <a name="bkmk_Replace"> </a>
 
 不適用於 Excel Online。如果您的電腦已安裝 Excel 桌面應用程式，則您可以使用 Excel 來尋找和取代文件中的內容。進一步了解[在 Excel 2013 中使用尋找和取代功能](https://go.microsoft.com/fwlink/p/?LinkId=282333)。
@@ -342,5 +342,5 @@ Microsoft Excel 桌面應用程式是功能相當強大的工具，可用於操�
 ## <a name="feature-availability"></a>功能可用性
 <a name="bkmk_WhatIfAnalysis"> </a>
 
-若要檢視 Office 365 計劃、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Office Online 服務說明](office-online-service-description.md)。 
+若要檢視 Office 365 方案、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Office Online 服務說明](office-online-service-description.md)。 
 

@@ -1,7 +1,7 @@
 ---
 title: 郵件原則及符合性[ServiceDesc]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,18 +13,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) 提供郵件原則及符合性功能，可協助您管理電子郵件資料。
-ms.openlocfilehash: f88cd016586384f4617cd4899708c811a32af980
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7ac2ad58bd4eeebc7ee0af3f5befcaab8959beec
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035266"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466970"
 ---
 # <a name="messaging-policy-and-complianceservicedesc"></a>郵件原則及符合性[ServiceDesc]
 
 Microsoft Exchange Online Protection (EOP) 提供郵件原則及符合性功能，可協助您管理電子郵件資料。
   
-尋找所有 EOP 功能的相關資訊嗎？請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
+尋找所有 EOP 功能的相關資訊嗎？ 請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
   
 ## <a name="transport-rules"></a>傳輸規則
 <a name="BKMK_transportrules"> </a>
@@ -67,19 +67,19 @@ Microsoft Exchange Online Protection (EOP) 提供郵件原則及符合性功能�
 ## <a name="office-365-message-encryption"></a>Office 365 郵件加密
 <a name="BKMK_OME_in_EOP"> </a>
 
-Office 365 郵件加密的 Azure 資訊保護、 組件是一種線上服務，可讓電子郵件使用者將加密的電子郵件訊息傳送給任何人。內部部署客戶可以存取 Office 365 郵件加密購買 Azure 資訊保護及使用 Exchange Online Protection 設定郵件流程透過 Exchange Online。若要深入了解 Office 365 郵件加密在 Exchange Online，請參閱 Exchange Online 服務說明中的[Office 365 郵件加密](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption)。 
+Office 365 郵件加密的 Azure 資訊保護，組件是一種線上服務，可讓電子郵件使用者將加密的電子郵件傳送給任何人。 內部部署客戶可以購買 Azure 資訊保護，並且使用 Exchange Online Protection 設定郵件流程通過 Exchange Online 存取 Office 365 郵件加密。 若要進一步了解 Exchange Online 中的 Office 365 郵件加密，請參閱 Exchange Online 服務說明的＜[Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption)＞。 
   
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>EOP 選項的郵件原則和符合性功能
 <a name="BKMK_OME_in_EOP"> </a>
 
 |**功能**|**獨立式 EOP**|**Exchange Online 中的 EOP 功能**|**Exchange Enterprise CAL with Services**|
 |:-----|:-----|:-----|:-----|
-|傳輸規則  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是  <br/> |
+|傳輸規則  <br/> |Yes<sup>1</sup> <br/> |Yes<sup>1</sup> <br/> |是  <br/> |
 |稽核記錄  <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |
-|資料外洩防護 (DLP)  <br/> |否  <br/> |是  <br/> |Yes<sup>3</sup> <br/> |
+|資料外洩防護 (DLP)  <br/> |否  <br/> |是  <br/> |是<sup>3</sup> <br/> |
 |Office 365 郵件加密  <br/> |是<sup>4</sup> <br/> |是  <br/> |是<sup>4</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup>可用的條件和動作不同 EOP 與 Exchange Online 之間。如需可用的條件和動作在 EOP 中的清單，請參閱[傳輸規則條件](https://go.microsoft.com/fwlink/p/?LinkId=320392)和[傳輸規則動作](https://go.microsoft.com/fwlink/p/?LinkId=320393)。如需可用的準則與 Exchange Online 中的動作的清單，請參閱[傳輸規則條件](https://go.microsoft.com/fwlink/p/?LinkId=320394)和[傳輸規則動作](https://go.microsoft.com/fwlink/p/?LinkId=320395)。> <sup>2</sup> EOP 稽核報告的子集的 Exchange Online 稽核報告，但不包括信箱的相關資訊。> <sup>3</sup> DLP 原則祕訣不適用於 Exchange Enterprise CAL with Services 客戶使用。> <sup>4</sup>支援的內部部署客戶購買 Azure 資訊保護附加元件，並透過 Exchange Online 路由電子郵件使用 Exchange Online Protection。桌面體驗，除了 Azure 資訊保護附加元件的 Office 365 ProPlus 需要購買。 
+> <sup>1</sup> EOP 與 Exchange Online 可用的準則和動作各不相同。 如需 EOP 中可用的準則和動作清單，請參閱 [傳輸規則準則](https://go.microsoft.com/fwlink/p/?LinkId=320392) 和 [傳輸規則動作](https://go.microsoft.com/fwlink/p/?LinkId=320393)。 如需 Exchange Online 中可用的準則和動作清單，請參閱[傳輸規則準則](https://go.microsoft.com/fwlink/p/?LinkId=320394) 和 [傳輸規則動作](https://go.microsoft.com/fwlink/p/?LinkId=320395)。 > <sup>2</sup> EOP 稽核報告是 Exchange Online 稽核報告的子集，但不包括信箱的相關資訊。 > <sup>3</sup> DLP 原則祕訣不適用於 Exchange Enterprise CAL with Services 客戶。 > <sup>4</sup>對於購買 Azure 資訊保護附加元件，並使用 Exchange Online Protection 透過 Exchange Online 路由電子郵件的內部部署客戶支援。 為桌面體驗，除了 Azure 資訊保護的附加元件，Office 365 專業增強版需要購買。 
   
 

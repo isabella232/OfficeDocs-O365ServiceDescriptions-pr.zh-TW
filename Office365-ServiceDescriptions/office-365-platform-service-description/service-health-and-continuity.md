@@ -1,7 +1,7 @@
 ---
 title: 服務健康狀況和持續性
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,48 +12,48 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
-description: Microsoft Office 365 系統管理員可以檢視之服務的狀態並找出維護已排程的時間。服務健康狀況之資訊隨時登入 Office 365。
-ms.openlocfilehash: 5744d0f0390aee046c63309c2395e2225c4d9342
-ms.sourcegitcommit: ac81ba091876af9c42828faf9f5eb989a3a2cc58
+description: Microsoft Office 365 系統管理員可以檢視服務的狀態，並找出維護排定的時間。 服務健康狀況資訊，請在任何時間登入 Office 365。
+ms.openlocfilehash: 010d93d70ce69717d4b02e752fcafc7734851b5e
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/13/2018
-ms.locfileid: "27258735"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466950"
 ---
 # <a name="service-health-and-continuity"></a>服務健康狀況和持續性
 
-Microsoft Office 365 系統管理員可以檢視之服務的狀態並找出維護已排程的時間。服務健康狀況之資訊隨時登入 Office 365。
+Microsoft Office 365 系統管理員可以檢視服務的狀態，並找出維護排定的時間。 服務健康狀況資訊，請在任何時間登入 Office 365。
   
 > [!NOTE]
-> 如果您使用 21Vianet 所操作的 Office 365，以下的部分資訊可能不適用。相反地，請參閱 [21Vianet 服務層次協議](http://www.21vbluecloud.com/office365/O365-SLA/)。 
+> 如果您使用 21Vianet 所操作的 Office 365，以下的部分資訊可能不適用。 相反地，請參閱 [21Vianet 服務層次協議](http://www.21vbluecloud.com/office365/O365-SLA/)。 
   
 ## <a name="view-status-of-services"></a>檢視服務狀態
 
-服務健康狀況] 區段中的 Office 365 顯示服務及服務干擾及中斷的詳細資料的目前狀態。計劃的維護資訊會訊息中心上提供。如需詳細資訊，請參閱 ＜[檢視服務的狀態](https://docs.microsoft.com/office365/enterprise/view-service-health)。 
+Office 365 的服務健康區段顯示服務和相關服務干擾及中斷的詳細資料的目前狀態。 在 [訊息中心都提供計劃的維護資訊。 如需詳細資訊，請參閱[檢視您服務的狀態](https://docs.microsoft.com/office365/enterprise/view-service-health)。 
   
 ## <a name="service-incidents"></a>服務事件
 
-建立服務事件是會影響的服務傳遞事件。服務事件可能會造成於 Microsoft 資料中心，客戶與 Microsoft、 或主要資料中心挑戰例如火災、 洪水或區域災難之間的無效的網路連線的硬體或軟體失敗。大部分的服務事件可以使用 Microsoft 技術及程序解決方案解決，以及解決在短時間內。不過，某些服務事件更嚴重，且可能會導致較長的字詞庫中斷。
+服務事件為可影響服務傳遞的事件。 服務意外事件可能是在 Microsoft 資料中心，客戶與 Microsoft 或主要資料中心項挑戰，例如火災、 洪水或區域災難之間的無效的網路連線的硬體或軟體失敗所造成。 大多數的服務意外事件皆可使用 Microsoft 技術與程序解決方案，在短時間內解決。 但是，部分服務意外事件可能更為嚴重，且會導致較長期的服務中斷。
   
-有兩種類型的相關當服務可能無法使用的時間通知：
+有兩種類型的通知時服務可能無法使用的時間：
   
-- **計劃維護事件：** 計劃的維護是一般的 Microsoft 起始服務基礎結構及軟體應用程式更新。計劃的維護通知通知客戶需可能會影響功能的 Office 365 服務的服務運作。客戶不晚於五天前透過 Office 365 系統管理入口網站上的訊息中心的所有計劃維護會收到通知。Microsoft 通常將維護計劃的時間時服務使用方式在過去在其最低根據區域的時區。 
+- **計劃維護事件：** 計畫性的維護是基礎架構與軟體應用程式的 Microsoft 起始的定期服務更新。 規劃的維護通知知會客戶關於可能影響的 Office 365 服務功能的服務工程。 不晚遲透過訊息中心 Office 365 管理入口網站上的所有計畫維護五天前通知客戶。 Microsoft 通常會以時間時服務使用情況紀錄位於最低點根據區域時間方案維護。 
     
 - **意外停機** 其中一個 Office 365 套件中的服務無法使用或無回應時，就會發生意外的服務事件。 
     
 ## <a name="notification-policy"></a>通知原則
 
-建立服務事件發生時，Microsoft 可辨識及時、 目標，且正確的通訊很重要的客戶。Microsoft 通知由更新承租人特定服務健康狀況儀表板 (SHD) Office 365 系統管理入口網站上的 Office 365 系統管理員。在每小時的頻率所提供的服務事件更新或如果需要不同的頻率，它會上文 SHD 通訊張貼。 
+服務事件發生時，Microsoft 會辨識及時、鎖定目標且正確的通訊對客戶很重要。 Microsoft 會藉由更新租用戶特定服務健康狀況儀表板 (SHD) 上 Office 365 系統管理入口網站通知 Office 365 系統管理員。 服務事件更新會提供每小時的頻率，或者，如果需要不同的頻率，將會說明在 SHD 通訊張貼內容中。 
   
 ## <a name="service-health-communication-channels"></a>服務健康狀況的通訊通道
 
 ### <a name="office-365-admin-app"></a>Office 365 系統管理應用程式
 
-Office 365 租用戶系統管理員管理應用程式可讓您能夠連線以在行進貴組織的 Office 365 服務狀態。Office 365 租用戶系統管理員必須能夠檢視服務健康狀況資訊及維護的狀態更新他們的行動裝置。如需詳細資訊，請瀏覽[管理應用程式常見問題集](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)。
+Office 365 租用戶系統管理員系統管理應用程式可讓您能夠隨時隨地貴組織的 Office 365 服務狀態連線。 Office 365 租用戶系統管理員必須能夠檢視服務健康情況資訊及維護狀態更新，從行動裝置。 如需詳細資訊，請瀏覽[系統管理應用程式常見問題集](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)。
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2 的 Office 365 管理組件
 
-Microsoft System Center 是可幫助您管理資料中心、 用戶端裝置和混合式雲端的 IT 環境整合的管理平台。Office 365 系統管理員使用 System Center 現在已匯入 Office 365 管理套件，讓它們可以檢視 System Center Operations Manager 內的所有服務通訊選項。使用此工具可讓您存取您的訂閱的服務、 作用中且解析服務事件及訊息中心通訊的狀態。如需詳細資訊，請瀏覽[新的 Office 365 系統管理工具](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/)部落格文章。 
+Microsoft System Center 是可協助您管理資料中心、用戶端裝置和混合雲端 IT 環境的整合式管理平台。 Office 365 系統管理員現在使用 System Center 已匯入 Office 365 管理組件，可讓他們能夠檢視在 System Center Operations Manager 內的所有服務通訊選項。 使用此工具可讓您存取您已訂閱服務的狀態、作用中及已解決服務事件及訊息中心通訊。 若需詳細資訊，請瀏覽[新的 Office 365 系統管理工具](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/) 部落格文章。 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 服務通訊 API
 
@@ -71,19 +71,19 @@ Office 365 服務通訊 API 可讓您以您想要的方式存取 Office 365 服�
 
 Microsoft 對於持續改善服務的承諾包括針對對客戶產生影響的意外服務事件之分析，以至將未來重複發生的機會降至最低。 
   
-因的服務事件被定義為多承租人服務中斷的影響服務使用情況定義我們服務 sla，而且有已因此宣告服務健康狀況儀表板上。
+意外的服務事件定義為多用戶服務中斷，影響服務使用，我們的服務 Sla 所定義，並已在 [服務健康狀況儀表板上做如此宣告。
   
- 針對因客戶會影響服務事件中有廣泛和明顯影響整個組織的數目、 初步後事件檢閱 (PIR) 會傳遞透過服務健康狀況儀表板事件的 48 小時內解決方法，後面接著最後一個 PIR 五個工作天內。詳細的 PIR 報告包含： 
+ 意外客戶產生影響的服務事件順序時發生廣泛和明顯影響整個組織的大型數字，如初步事件後續檢閱 (PIR) 將會透過傳遞服務健全狀況儀表板的事件 48 小時內解決方法，接著五個工作天內的最後一個 PIR。 詳細的 PIR 報告中包含： 
   
 - 使用者經驗和客戶影響
     
 - 事件開始和結束日期/時間
     
-- 詳細的時間表的影響和解決方法的量值
+- 詳細的時間表的影響和解決措施
     
 - 根本原因分析和為持續改進所採取的動作
     
-針對其他所有服務事件、 服務健康狀況儀表板會提供事件關閉摘要包含最後一個事件、 初步根本原因、 開始與結束時間和資訊細部下一個步驟的摘要。此類別的服務事件不會產生 PIR。 
+對於所有其他的服務事件，服務健全狀況儀表板會提供包括事件、 初步的根本原因，開始和結束時間及細部後續步驟的資訊的最終摘要意外關閉摘要。 對於這個類別的服務事件，將不會產生 PIR。 
   
 ## <a name="service-continuity"></a>服務連續性
 

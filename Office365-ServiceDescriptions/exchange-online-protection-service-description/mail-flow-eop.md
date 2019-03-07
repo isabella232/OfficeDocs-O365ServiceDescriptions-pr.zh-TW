@@ -1,7 +1,7 @@
 ---
 title: 郵件流程[EOP]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: 用於大多數的組織使用 Office 365，我們會主控您的信箱並需要注意的郵件流程。它是最簡單的設定，也表示 Office 365 管理所有信箱和篩選。不過，某些組織有公司需要在內部部署中的所有其信箱。Exchange Online Protection (EOP) 可讓您這樣做，並提供防毒及反垃圾郵件處理雲端中的郵件。如需詳細資訊以及購買 EOP，請移至 Exchange Online Protection。
-ms.openlocfilehash: 6c43d308db3c4f62e4c6891cb87263560d9478a7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。 這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。 不過，某些組織基於業務需求而需要將所有信箱保留在內部。 Exchange Online Protection (EOP) 可提供您這個功能，並在雲端提供防毒和反垃圾郵件處理。 如需詳細資訊並購買 EOP，請移至 Exchange Online Protection。
+ms.openlocfilehash: 0e9e5fffaa88b2ec654cb90dc5d432875336328e
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035265"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467570"
 ---
 # <a name="mail-floweop"></a>郵件流程[EOP]
 
-用於大多數的組織使用 Office 365，我們會主控您的信箱並需要注意的郵件流程。它是最簡單的設定，也表示 Office 365 管理所有信箱和篩選。不過，某些組織有公司需要在內部部署中的所有其信箱。Exchange Online Protection (EOP) 可讓您這樣做，並提供防毒及反垃圾郵件處理雲端中的郵件。如需詳細資訊以及購買 EOP，請移至[Exchange Online Protection](https://products.office.com/en-us/exchange/exchange-email-security-spam-protection)。
+對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。 這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。 不過，某些組織基於業務需求而需要將所有信箱保留在內部。 Exchange Online Protection (EOP) 可提供您這個功能，並在雲端提供防毒和反垃圾郵件處理。 如需詳細資訊並購買 EOP，請移至 [Exchange Online Protection](https://products.office.com/en-us/exchange/exchange-email-security-spam-protection)。
   
 尋找網域管理還是目錄架構邊緣封鎖 (DBEB) 的詳細資訊？請參閱[收件者、網域和公司管理](recipient-domain-and-company-management.md)。若要深入了解所有 EOP 功能，請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
   

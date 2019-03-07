@@ -1,7 +1,7 @@
 ---
 title: 商務用 OneDrive 服務說明
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 商務用 OneDrive 是雲端中的個人線上儲存空間 (由您的公司所提供)。請使用它輕鬆地在跨多個裝置存取您的工作檔案時加以儲存並保護。視需要與公司同事共用檔案，並且以最新的 Office 桌面、Web 和行動裝置應用程式，在 Office 文件上即時共同作業。使用商務用 OneDrive 同步處理用戶端將檔案同步處理到本機電腦。
-ms.openlocfilehash: 4fca7cfff8db13e15b6c79ee3add0d103dd2e26d
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+ms.openlocfilehash: 4a367c37794e2ff9355f0e88cb8ca0e50394e77c
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215358"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467190"
 ---
 # <a name="onedrive-for-business-service-description"></a>商務用 OneDrive 服務說明
 

@@ -1,7 +1,7 @@
 ---
 title: PowerPoint Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,21 +14,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: PowerPoint Online (前身為 PowerPoint Web App) Microsoft PowerPoint 將您功能延伸至網頁瀏覽器，讓您可以使用直接在儲存簡報的網站上的簡報。與 Office Online 搭配 Microsoft Office 365 客戶可以檢視、 建立及編輯移上的檔案。
-ms.openlocfilehash: 4d28ee4715ba55122b95588b5f0888bc0155245d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: PowerPoint Online (先前稱為 PowerPoint Web App) 可將延伸至網頁瀏覽器中，您 Microsoft PowerPoint 經驗讓您將簡報儲存所在的網站上直接使用簡報。 具有 Office Online 的 Microsoft Office 365 客戶可以隨時隨地檢視、建立及編輯檔案。
+ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035358"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467340"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
-PowerPoint Online (前身為 PowerPoint Web App) Microsoft PowerPoint 將您功能延伸至網頁瀏覽器，讓您可以使用直接在儲存簡報的網站上的簡報。與 Office Online 搭配 Microsoft Office 365 客戶可以檢視、 建立及編輯移上的檔案。
+PowerPoint Online (先前稱為 PowerPoint Web App) 可將延伸至網頁瀏覽器中，您 Microsoft PowerPoint 經驗讓您將簡報儲存所在的網站上直接使用簡報。 具有 Office Online 的 Microsoft Office 365 客戶可以隨時隨地檢視、建立及編輯檔案。
   
-PowerPoint 編輯器會建立瀏覽器型編輯介面，可讓使用者能夠在文件而不會遺失不失真的 web 前端元件。
+The PowerPoint Editor is a web front-end component that creates a browser-based editing surface, which enables users to work on documents without losing fidelity.
   
-如果您按一下 [PowerPoint Online] 工具列上的 [**在 PowerPoint 中開啟**] 按鈕，以開啟簡報 PowerPoint 桌面應用程式 （如果電腦上安裝 Microsoft PowerPoint 2010 或更新版本）。 
+如果您按一下 [PowerPoint Online] 工具列上的 [**在 PowerPoint 中開啟**] 按鈕，簡報隨即開啟 PowerPoint 桌面應用程式 （Microsoft PowerPoint 2010 或更新版本已安裝在電腦上）。 
   
 了解如何[在電腦上使用商務用 Office 365 下載及安裝 Office](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c)。
   
@@ -122,7 +122,7 @@ PowerPoint Online 支援 8 種切換效果和 37 種動畫。如需更多選項�
 
 您無法在 PowerPoint Online 中插入、編輯或刪除頁首和頁尾 (包括日期和投影片編號)，但 PowerPoint Online 會依照原樣顯示頁首和頁尾。進一步了解[在瀏覽器中和 PowerPoint 桌面應用程式中使用簡報的差異](https://go.microsoft.com/fwlink/?LinkId=272763)。
   
-## <a name="hyperlinks"></a>超連結
+## <a name="hyperlinks"></a>Hyperlinks
 <a name="bkmk_Hyperlinks"> </a>
 
 插入、編輯和追蹤超連結。書籤連結可以運作，但是無法在 PowerPoint Online 中編輯。
@@ -182,10 +182,10 @@ PowerPoint Online 從網頁瀏覽器啟動並依賴網際網路連線運作。�
 
 可以有多位作者同時在 PowerPoint Online 和 PowerPoint 2016 中進行作業。即時目前狀態可讓您看見共同撰寫作者正在簡報何處進行作業，以避免在編輯時與之衝突，您也可以看見正在進行的變更。PowerPoint 2013 支援同時編輯，但不會指出目前狀態，因此要等文件儲存後，才看得見其他多位作者所做的變更。關於 PowerPoint 中即時共同撰寫的詳細資訊，請參閱＜[在 PowerPoint 簡報上共同作業](https://go.microsoft.com/fwlink/?linkid=844014)＞。
   
-## <a name="reviewer-tools---advanced"></a>檢閱工具-進階
+## <a name="reviewer-tools---advanced"></a>審閱工具-進階
 <a name="bkmk_AdvancedReviewerTools"> </a>
 
-PowerPoint Online 中無法使用。進階的檢閱功能，例如合併衝突和比較簡報都只可以在 PowerPoint 桌面應用程式。使用 PowerPoint Online，您可以檢視、 新增、 編輯或刪除註解。
+不適用於 PowerPoint Online。 僅 PowerPoint 桌面應用程式提供進階審閱功能 (例如：合併衝突和比較簡報)。 透過 PowerPoint Online，您可以檢視、 新增、 編輯或刪除註解。
   
 ## <a name="rights-management-apply-and-consume-irm-and-password-protection"></a>版權管理：套用和使用 IRM 和密碼保護功能
 <a name="bkmk_CreationPasswords"> </a>
@@ -202,7 +202,7 @@ PowerPoint Online 中無法使用。進階的檢閱功能，例如合併衝突�
 
 PowerPoint Online 會在您每次變更之後儲存作業。PowerPoint Web App 不提供 [儲存] 命令。您可以下載副本，但必須擁有 Microsoft PowerPoint 桌面應用程式才能編輯本機副本。
   
-## <a name="shapes"></a>形狀
+## <a name="shapes"></a>Shapes
 <a name="bkmk_Shapes"> </a>
 
 文字藝術師和圖表無法插入 PowerPoint Online，但 PowerPoint Online 會依照原樣顯示。在 [編輯] 檢視中編輯和格式化文字。如果您想要套用文字效果至文字藝術師，則需要 Microsoft PowerPoint 桌面應用程式。
@@ -240,9 +240,9 @@ PowerPoint Online 會在全螢幕視窗播放投影片。按下空格鍵可前�
 ## <a name="view-and-add-comments"></a>檢視和新增注釋
 <a name="bkmk_Viewaddcomments"> </a>
 
-如果您的檔案儲存在 SharePoint Online 或 OneDrive for Business，您可以新增、 編輯或刪除註解。 
+如果您的檔案儲存在 SharePoint Online 或商務用 OneDrive，您可以新增、 編輯或刪除註解。 
   
-如果您的檔案儲存在 OneDrive，您可以新增、 編輯或刪除在編輯檢視] 中的註解和您可以檢視並更新 [讀取] 檢視中的註解。
+如果您的檔案儲存在 OneDrive 中，您可以新增、 編輯或刪除註解，在 [編輯] 檢視中，而且您可以檢視和更新 [讀取] 檢視中的註解。
   
 ## <a name="view-and-edit-slide-notes"></a>檢視和編輯投影片備註
 <a name="bkmk_Viewslidenotes"> </a>
@@ -257,4 +257,4 @@ PowerPoint Online 會在全螢幕視窗播放投影片。按下空格鍵可前�
 ## <a name="feature-availability"></a>功能可用性
 <a name="bkmk_WYSIWYGViewing"> </a>
 
-若要檢視 Office 365 計劃、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Office Online 服務說明](office-online-service-description.md)。 
+若要檢視 Office 365 方案、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Office Online 服務說明](office-online-service-description.md)。 

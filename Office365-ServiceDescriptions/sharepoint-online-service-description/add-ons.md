@@ -1,7 +1,7 @@
 ---
 title: 附加元件
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
-description: Microsoft SharePoint 是一組 Web 式工具和技術，協助您的組織儲存、 分享和管理數位資訊。Microsoft SharePoint Server 2013 上為建置基礎，此裝載的服務適合在專案中工作、 儲存資料與文件集中的位置，並與他人共用資訊。Office 365 客戶也可以購買額外 to SharePoint Online 相關聯的附加元件。
-ms.openlocfilehash: a3fc73f53fd0f6dd8e68392430412e2ed0f135b7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 根據 Microsoft SharePoint Server 2013 設計的主控式服務，最適合用於專案執行、資料與文件儲存於中央位置、以及與他人共享資訊等作業。 Office 365 客戶也可購買與 SharePoint Online 相關的額外附加元件。
+ms.openlocfilehash: 3fd453bf37e68defdd9aad60cb9185c4190caa7f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035330"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466400"
 ---
 # <a name="add-ons"></a>附加元件
 
-Microsoft SharePoint 是一組 Web 式工具和技術，協助您的組織儲存、 分享和管理數位資訊。Microsoft SharePoint Server 2013 上為建置基礎，此裝載的服務適合在專案中工作、 儲存資料與文件集中的位置，並與他人共用資訊。Office 365 客戶也可以購買額外 to SharePoint Online 相關聯的附加元件。
+Microsoft SharePoint 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 根據 Microsoft SharePoint Server 2013 設計的主控式服務，最適合用於專案執行、資料與文件儲存於中央位置、以及與他人共享資訊等作業。 Office 365 客戶也可購買與 SharePoint Online 相關的額外附加元件。
   
-## <a name="additional-storage"></a>額外儲存空間
+## <a name="additional-storage"></a>Additional Storage
 <a name="bkmk_AdditionalStorage"> </a>
 
 若您需要更多儲存空間，可每月依 gigabyte (GB) 的計費方式購買。

@@ -1,7 +1,7 @@
 ---
 title: Office Online 服務說明
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,27 +12,27 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Excel、 OneNote 和 PowerPoint 文件。Office Online 容易搭配使用和共用 Office 檔案從任何位置具有網際網路連線，從幾乎任何裝置。Word、 Excel、 OneNote、 或 PowerPoint 的 Microsoft Office 365 客戶可以檢視、 建立及編輯移上的檔案。
-ms.openlocfilehash: cbdde47716f983928ac83fa67b09d420c43fedc5
-ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
+description: Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Excel、 OneNote 和 PowerPoint 文件。 Office Online 讓您輕鬆藉由網際網路連線，從任何地點透過幾乎任何裝置來使用和共用 Office 檔案。 以 Word、 Excel、 OneNote、 或 PowerPoint 的 Microsoft Office 365 客戶可以檢視、 建立及編輯檔案隨時隨地。
+ms.openlocfilehash: ccab7cffeac239c8cdab20d9496d5e6bff943632
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/29/2019
-ms.locfileid: "29612766"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467450"
 ---
 # <a name="office-online-service-description"></a>Office Online 服務說明
 
-Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Excel、 OneNote 和 PowerPoint 文件。Office Online 容易搭配使用和共用 Office 檔案從任何位置具有網際網路連線，從幾乎任何裝置。Word、 Excel、 OneNote、 或 PowerPoint 的 Microsoft Office 365 客戶可以檢視、 建立及編輯移上的檔案。 
+Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Excel、 OneNote 和 PowerPoint 文件。 Office Online 讓您輕鬆藉由網際網路連線，從任何地點透過幾乎任何裝置來使用和共用 Office 檔案。 以 Word、 Excel、 OneNote、 或 PowerPoint 的 Microsoft Office 365 客戶可以檢視、 建立及編輯檔案隨時隨地。 
   
 若要跨方案比較功能，請參閱[比較 Office 365 for Business 方案](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
   
 ## <a name="feature-availability-across-office-online-plans"></a>各 Office Online 計劃中可用的功能
 <a name="bkmk_FeatureavailabilityO365"> </a>
 
-需要協助找出最佳的 Office 解決方案適合貴組織？下表比較 Office Online 的功能與功能豐富 Microsoft Office 桌面應用程式。使用表格來探索哪些功能可在 Office Online] 和 [讀取有關該功能的運作方式的簡短描述的功能名稱。您可能會發現當您的組織中有些人員時其他人只需要能夠檢視及限制性編輯 Word 文件和 PowerPoint 簡報與 Office Online 搭配會需要 Excel 桌面應用程式的進階圖表功能。 
+需要協助找出最適合組織需求的 Office 解決方案嗎？ 下表比較 Office Online 功能和具備豐富功能的 Microsoft Office 桌面應用程式。 使用表格，以在 Office Online 中的功能可用，然後按一下功能名稱，即可閱讀有關該功能如何運作的簡短描述。 您可能會發現您的組織中有些人員需要 Excel 桌面應用程式的進階圖表功能，而其他使用者只需要檢視和局部編輯 Word 文件與 PowerPoint 簡報與 Office Online。 
   
 > [!NOTE]
->  選擇 Office 功能的限制在選取項目代表 Office 桌面套件的進階的功能。資料表不是 Microsoft Office 功能的完整清單。Microsoft Office 365 ProPlus > 是每月訂閱產品項目之最新版的 Office 桌面套件。> Microsoft Office Online Server 內部部署客戶取得 Office Online 編輯授權如果他們已購買 Office 桌面套件授權 （例如 Office Professional Plus、 Office Standard 或 Office 365 ProPlus 的授權）。 
+>  Office 桌面套件涵蓋了 Office 的有限精選功能，提供進階功能讓您運用。 表未完整列出 Microsoft Office 的功能。 >  Microsoft Office 365 ProPlus 是最新版 Office 桌面套件推出的每月訂閱產品項目。 > Microsoft Office Online 伺服器內部部署客戶取得 Office Online 的編輯授權，如果已購買 Office 桌面套件授權 （例如： Office Professional Plus、 Office Standard 或 Office 365 ProPlus 授權）。 
   
 > [!NOTE]
 > 當您開啟 Office 文件時，無論其為 Outlook 電子郵件的附件或來自 SharePoint 文件庫，該文件都會在 Office Online 中啟動，且為唯讀模式。若要在 Office Online (編輯模式) 中編輯文件，您需要 Office 365 套件授權 (如 Office 365 企業版 E1)。若要在桌面應用程式中編輯文件，您需要 Office 桌面套件授權 (如 Office 365 ProPlus 訂閱) 或 Office Professional Plus 2010 的安裝版本。 
@@ -54,11 +54,11 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |[剪貼簿](word-online.md#clipboard) <br/> |是  <br/> |是  <br/> |
 |[共同作業 - 進階](word-online.md#collaboration--advanced) <br/> |否  <br/> |是  <br/> |
 |[內容控制項](word-online.md#content-controls) <br/> |是  <br/> |是  <br/> |
-|[封面頁](word-online.md#cover-pages) <br/> |無<sup>1</sup> <br/> |是  <br/> |
+|[封面頁](word-online.md#cover-pages) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
 |[建立進階的文件元素](word-online.md#creation-of-advanced-document-elements) <br/> |否  <br/> |是  <br/> |
 |[文件組件庫和佈景主題](word-online.md#document-parts-and-themes) <br/> |否  <br/> |是  <br/> |
 |[Dropbox](word-online.md#dropbox) <br/> |是  <br/> |是  <br/> |
-|[方程式](word-online.md#equations) <br/> |無<sup>1</sup> <br/> |是  <br/> |
+|[方程式](word-online.md#equations) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
 |[尋找和取代](word-online.md#find-and-replace) <br/> |是  <br/> |是  <br/> |
 |[字體格式化](word-online.md#font-formatting) <br/> |是  <br/> |是  <br/> |
 |[註腳和章節附註](word-online.md#footnotes-and-endnotes) <br/> |是  <br/> |是  <br/> |
@@ -66,7 +66,7 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |[圖形效果預設設定](word-online.md#graphic-effect-presets) <br/> |是  <br/> |是  <br/> |
 |[頁首和頁尾](word-online.md#headers-and-footers) <br/> |是  <br/> |是  <br/> |
 |[超連結](word-online.md#hyperlinks) <br/> |是  <br/> |是  <br/> |
-|[索引](word-online.md#index) <br/> |無<sup>1</sup> <br/> |是  <br/> |
+|[索引](word-online.md#index) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
 |[筆跡編輯器](word-online.md#ink-editor) <br/> |否  <br/> |是  <br/> |
 |[插入線上圖片](word-online.md#insert-online-pictures) <br/> |是  <br/> |是  <br/> |
 |[IRM 和密碼保護](word-online.md#irm-and-password-protection) <br/> |否  <br/> |是  <br/> |
@@ -97,21 +97,21 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |[另存為 PDF](word-online.md#save-as-pdf) <br/> |是  <br/> |是  <br/> |
 |[共用](word-online.md#share) <br/> |是  <br/> |是  <br/> |
 |[簡單的表格建立功能](word-online.md#simple-table-creation) <br/> |是  <br/> |是  <br/> |
-|[SmartArt](powerpoint-online.md#smartart) <br/> |無<sup>1</sup> <br/> |是  <br/> |
-|[引用的文獻](word-online.md#table-of-authority) <br/> |無<sup>1</sup> <br/> |是  <br/> |
-|[目錄](word-online.md#table-of-contents) <br/> |無<sup>1</sup> <br/> |是  <br/> |
-|[點選](word-online.md#tap) <br/> |否  <br/> |是  <br/> |
+|[SmartArt](powerpoint-online.md#smartart) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
+|[引用的文獻](word-online.md#table-of-authority) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
+|[目錄](word-online.md#table-of-contents) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
+|[點選 [](word-online.md#tap) <br/> |否  <br/> |是  <br/> |
 |[操作說明搜尋](word-online.md#tell-me) <br/> |是  <br/> |是  <br/> |
 |[轉譯服務](word-online.md#translation-service) <br/> |是  <br/> |是  <br/> |
 |[復原和取消復原](word-online.md#undo-and-redo) <br/> |是  <br/> |是  <br/> |
 |[VBA 和表單指令碼](word-online.md#vba-and-forms-scripts) <br/> |否  <br/> |是  <br/> |
 |[檢視和新增注釋](word-online.md#view-and-add-comments) <br/> |是  <br/> |是  <br/> |
-|[浮水印](word-online.md#watermarks) <br/> |無<sup>1</sup> <br/> |是  <br/> |
+|[浮水印](word-online.md#watermarks) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
 |[字數統計](word-online.md#word-count) <br/> |是  <br/> |是  <br/> |
 |[縮放](word-online.md#zoom) <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>這些呈現在檢視器，但您無法建立或編輯 Office Online 中。提供一些，但並非所有 Office 增益集所 > <sup>2</sup> 。 
+> 這些呈現在檢視器， <sup>1</sup> ，但是您無法建立或編輯他們的 Office Online。 > <sup>2</sup>部份但非全部的 Office 增益集可用。 
   
 ### <a name="excel"></a>Excel
 <a name="BKMK_ExcelFeatures"> </a>
@@ -127,7 +127,7 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |[套用智慧/建議的格式](excel-online.md#apply-smartrecommended-formatting) <br/> |否  <br/> |是  <br/> |
 |[音訊備註錄製](onenote-online.md#audio-notes-recording) <br/> |否  <br/> |是  <br/> |
 |[自動完成](excel-online.md#autocomplete) <br/> |是  <br/> |是  <br/> |
-|[自動加總](excel-online.md#autosum) <br/> |是  <br/> |是  <br/> |
+|[AutoSum](excel-online.md#autosum) <br/> |是  <br/> |是  <br/> |
 |[計算](excel-online.md#calculations) <br/> |是  <br/> |是  <br/> |
 |[建立註解](excel-online.md#comment-creation) <br/> |是  <br/> |是  <br/> |
 |[複製和貼上](excel-online.md#copy-and-paste) <br/> |是  <br/> |是  <br/> |
@@ -156,7 +156,7 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |[數字格式化](excel-online.md#number-formatting) <br/> |是  <br/> |是  <br/> |
 |[Office 增益集](excel-online.md#office-add-ins) <br/> |是 <br/> |是  <br/> |
 |[離線檢視和撰寫](excel-online.md#offline-viewing-and-authoring) <br/> |否  <br/> |是  <br/> |
-|[樞紐分析圖](excel-online.md#post-to-social-network-and-present-online) <br/> |是<sup>1</sup>  <br/> |是  <br/> |
+|[樞紐分析圖](excel-online.md#post-to-social-network-and-present-online) <br/> |Yes<sup>1</sup>  <br/> |是  <br/> |
 |[樞紐分析表](excel-online.md#post-to-social-network-and-present-online) <br/> |是  <br/> |是  <br/> |
 |[發佈到社交網路並於線上呈現](excel-online.md#post-to-social-network-and-present-online) <br/> |否  <br/> |是  <br/> |
 |[Power Pivot 檢視](excel-online.md#power-pivot-viewing) <br/> |是  <br/> |是  <br/> |
@@ -179,16 +179,17 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |[問卷調查](excel-online.md#surveys) <br/> |是  <br/> |否  <br/> |
 |[操作說明搜尋](excel-online.md#tell-me) <br/> |是  <br/> |是  <br/> |
 |[復原和取消復原](excel-online.md#undo-and-redo) <br/> |是  <br/> |是  <br/> |
-|[VBA 和巨集指令碼](excel-online.md#vba-and-macro-scripting) <br/> |Yes<sup>3</sup>  <br/> |是  <br/> |
+|[VBA 和巨集指令碼](excel-online.md#vba-and-macro-scripting) <br/> |是<sup>3</sup>  <br/> |是  <br/> |
 |[檢視 3D 圖表](excel-online.md#view-3d-charts) <br/> |是  <br/> |是  <br/> |
 |[What if 分析工具](excel-online.md#what-if-analysis-tools) <br/> |否  <br/> |是  <br/> |
 
-> <sup>1</sup>不能建立樞紐分析圖、 僅供檢視。
- <br/><sup>2</sup>根據您的環境的設定方式某些類型的資料連線支援 Excel Online 中顯示活頁簿。如需詳細資訊，請參閱在瀏覽器視窗中的活頁簿中的 Refreshing 資料。 <br/><sup>3</sup>您無法使用 Excel Online 中的 VBA 建立巨集，但是可以開啟和編輯已啟用 VBA 功能的試算表，而不移除 （或損毀） 檔案中所含的 VBA。
- <br/><sup>4</sup>使用而造成資料驗證的活頁簿可以編輯 Excel Online 中但不能設定而造成資料驗證 Excel Online 中。 
- <br/><sup>5</sup>在 Excel Online 最後的已知的參照值會顯示在瀏覽器視窗中 ；不過，它必須更新使用 Excel 的桌面。 
- <br/>您可以檢視<sup>6</sup>凍結窗格透過 Excel 桌面應用程式，但您無法在 Excel Online 中建立凍結窗格。 
- <br/><sup>7</sup>一些，但並非所有 Office 增益集可用。 
+> <sup>1</sup>無法建立樞紐分析圖時，僅供檢視。
+ <br/><sup>2</sup>根據您的環境的設定方式，某些類型的資料連線支援 Excel Online 中顯示的活頁簿。 如需詳細資訊，請參閱 在瀏覽器視窗中重新整理活頁簿的資料。 
+ <br/><sup>3</sup>您無法在 Excel Online 中使用 VBA 建立巨集，但是您可以開啟和編輯已啟用 VBA 功能的試算表，而不移除 （或損毀） 此檔案所含的 VBA。
+ <br/><sup>4</sup>可以在 Excel Online 中編輯使用資料驗證的活頁簿，但無法設立資料驗證在 Excel Online 中。 
+ <br/><sup>5</sup>在 Excel Online 中，最後一個已知的參考值會顯示在瀏覽器視窗;不過，它必須更新使用 Excel 桌面版。 
+ <br/><sup>6</sup>您可以檢視凍結窗格透過 Excel 桌面應用程式，但您無法在 Excel Online 中建立凍結窗格。 
+ <br/><sup>7</sup>部份但非全部的 Office 增益集可用。 
   
 ### <a name="onenote"></a>OneNote
 <a name="BKMK_OneNoteFeatures"> </a>
@@ -204,9 +205,9 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |[共同撰寫](onenote-online.md#co-authoring) <br/> |是  <br/> |是  <br/> |
 |[建立和管理頁面和章節](onenote-online.md#create-and-manage-pages-and-sections) <br/> |是  <br/> |是  <br/> |
 |[下載嵌入的 Office 檔案副本](onenote-online.md#download-copy-of-embedded-office-files) <br/> |是  <br/> |是<sup>4</sup> <br/> |
-|[頁面拖放] <br/> |是  <br/> |是 <br/> |
+|[將拖放頁面] <br/> |是  <br/> |是 <br/> |
 |[將拖放區段] <br/> |是  <br/> |是 <br/> |
-|[將拖放區段群組] <br/> |否  <br/> |是 <br/> |
+|[將拖放節群組] <br/> |否  <br/> |是 <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |是  <br/> |是  <br/> |
 |[編輯嵌入的檔案](onenote-online.md#EmbeddedFileEdit) <br/> |否  <br/> |是  <br/> |
 |[方程式](onenote-online.md#equations) <br/> |是  <br/> |是  <br/> |
@@ -215,7 +216,7 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |[筆跡：筆跡成為文字和數學、可自訂的畫筆、繪畫工具](onenote-online.md#inking-ink-to-text-and-math-customizable-pens-drawing-tools) <br/> |否  <br/> |是  <br/> |
 |[筆跡檢視](onenote-online.md#ink-viewing) <br/> |是  <br/> |是  <br/> |
 |[瀏覽](onenote-online.md#navigation) <br/> |是  <br/> |是  <br/> |
-|[筆記本管理：跨章節/筆記本頁面歸檔、重新排序章節、建立/刪除章節群組](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |是<sup>1</sup> <br/> |是  <br/> |
+|[筆記本管理：跨章節/筆記本頁面歸檔、重新排序章節、建立/刪除章節群組](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |Yes<sup>1</sup> <br/> |是  <br/> |
 |[Office 增益集](onenote-online.md#office-add-ins) <br/> |是<sup>2</sup> <br/> |是  <br/> |
 |[Outlook 整合 (工作)](onenote-online.md#outlook-integration-tasks) <br/> |否  <br/> |是  <br/> |
 |[段落格式化](onenote-online.md#paragraph-formatting) <br/> |是  <br/> |是  <br/> |
@@ -223,7 +224,7 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |[列印](onenote-online.md#print) <br/> |是  <br/> |是  <br/> |
 |[校訂工具](onenote-online.md#proofing-tools) <br/> |是  <br/> |是  <br/> |
 |版權管理：IRM 和密碼安全性 <br/> |否  <br/> |是  <br/> |
-|[搜尋根據：標記、標題、作者/日期、音訊備註](onenote-online.md#search-by-tag-title-authordate-audio-notes) <br/> |Yes<sup>3</sup> <br/> |是  <br/> |
+|[搜尋根據：標記、標題、作者/日期、音訊備註](onenote-online.md#search-by-tag-title-authordate-audio-notes) <br/> |是<sup>3</sup> <br/> |是  <br/> |
 |[搜尋 (在頁面上、章節中)](onenote-online.md#search-on-page-within-sections) <br/> |是  <br/> |是  <br/> |
 |[共用](onenote-online.md#share) <br/> |是  <br/> |是  <br/> |
 |[顯示或隱藏作者](onenote-online.md#show-or-hide-authors) <br/> |是  <br/> |是  <br/> |
@@ -235,7 +236,10 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |[檢視先前的頁面版本](onenote-online.md#view-previous-page-versions) <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>在 OneNote Online 中，您可以筆記本及複製和貼上的頁面中的區段] 區段中一間移動。 <br/> <sup>2</sup>部分，但並非所有 Office 增益集可用。 <br/><sup>3</sup>您可以在頁面或] 區段中，但不是整個筆記本或搜尋整個筆記本 （如您可以在桌面版本）。 <br/><sup>4</sup>的桌面的版本中沒有 「 下載 」] 選項，但也可以另存新檔到另一個位置。 
+> <sup>1</sup>在 OneNote Online，您可以移動筆記本中和複製和貼上的頁面內的區段從一個區段到另一個。 
+ <br/> <sup>2</sup>部份但非全部的 Office 增益集可用。 
+ <br/><sup>3</sup>一樣，您可以搜尋頁面或] 區段中，但不是整個筆記本或跨筆記本 （您可以在桌面版本）。 
+ <br/><sup>4</sup>在桌面版本中，有非 [下載] 選項，但您可以另存新檔到另一個位置。 
   
 ### <a name="powerpoint"></a>PowerPoint
 <a name="BKMK_PowerPointFeatures"> </a>
@@ -244,26 +248,26 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |:-----|:-----|:-----|
 |**應用程式功能** <br/> |**PowerPoint Online** <br/> |**PowerPoint 桌面應用程式** <br/> |
 |[對齊方式、項目符號、編號](powerpoint-online.md#alignment-bullets-numbers) <br/> |是  <br/> |是  <br/> |
-|[套用基本切換和動畫效果](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |是<sup>1</sup> <br/> |是  <br/> |
+|[套用基本切換和動畫效果](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |Yes<sup>1</sup> <br/> |是  <br/> |
 |[將豐富格式套用至文字、形狀和圖片](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |否  <br/> |是  <br/> |
 |[套用佈景主題和佈景主題變化](powerpoint-online.md#apply-themes-and-theme-variants) <br/> |是  <br/> |是  <br/> |
 |[排列物件](powerpoint-online.md#arrange-objects) <br/> |是  <br/> |是  <br/> |
 |[廣播投影片放映](powerpoint-online.md#broadcast-slide-show) <br/> |否  <br/> |是  <br/> |
 |[剪貼簿](powerpoint-online.md#clipboard) <br/> |是  <br/> |是  <br/> |
 |[建立和管理投影片](powerpoint-online.md#create-and-manage-slides) <br/> |是  <br/> |是  <br/> |
-|[建立自訂動畫](powerpoint-online.md#create-custom-animation) <br/> |無<sup>1</sup> <br/> |是  <br/> |
+|[建立自訂動畫](powerpoint-online.md#create-custom-animation) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
 |[設計工具 - 進階](powerpoint-online.md#design-tools--advanced) <br/> |否  <br/> |是  <br/> |
 |[在網頁或部落格頁面上嵌入簡報](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |是  <br/> |否  <br/> |
 |[字體格式化](powerpoint-online.md#font-formatting) <br/> |是  <br/> |是  <br/> |
 |[高逼真讀取檢視](powerpoint-online.md#full-fidelity-reading-view) <br/> |是  <br/> |是  <br/> |
 |[完整的筆跡支援](powerpoint-online.md#full-ink-support) <br/> |否  <br/> |是<sup>2</sup> <br/> |
-|[完整的動畫和切換效果選項](powerpoint-online.md#full-selection-of-animations-and-transitions) <br/> |無<sup>1</sup> <br/> |是  <br/> |
+|[完整的動畫和切換效果選項](powerpoint-online.md#full-selection-of-animations-and-transitions) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
 |[頁首和頁尾](powerpoint-online.md#headers-and-footers) <br/> |否  <br/> |是  <br/> |
 |[超連結](powerpoint-online.md#hyperlinks) <br/> |是  <br/> |是  <br/> |
 |[插入線上影片](powerpoint-online.md#insert-online-video) <br/> |是  <br/> |是  <br/> |
 |[整合 Excel 圖表](powerpoint-online.md#integration-with-excel-for-charts) <br/> |否  <br/> |是  <br/> |
 |[導覽 - 投影片瀏覽](powerpoint-online.md#navigation-slide-sorter) <br/> |是  <br/> |是  <br/> |
-|[Office 增益集](powerpoint-online.md#office-add-ins) <br/> |Yes<sup>3</sup> <br/> |是  <br/> |
+|[Office 增益集](powerpoint-online.md#office-add-ins) <br/> |是<sup>3</sup> <br/> |是  <br/> |
 |[離線檢視和撰寫](powerpoint-online.md#offline-viewing-and-authoring) <br/> |否  <br/> |是  <br/> |
 |[圖片裁剪](powerpoint-online.md#picture-cropping) <br/> |是  <br/> |是  <br/> |
 |[圖片](powerpoint-online.md#pictures) <br/> |是  <br/> |是  <br/> |
@@ -272,7 +276,7 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |[列印為 PDF](powerpoint-online.md#print-to-pdf) <br/> |是  <br/> |是  <br/> |
 |[校訂工具](powerpoint-online.md#proofing-tools) <br/> |是  <br/> |是  <br/> |
 |[即時共同撰寫](powerpoint-online.md#real-time-co-authoring) <br/> |是  <br/> |是<sup>4</sup> <br/> |
-|[檢閱工具-進階](powerpoint-online.md#reviewer-tools---advanced) <br/> |否  <br/> |是  <br/> |
+|[審閱工具-進階](powerpoint-online.md#reviewer-tools---advanced) <br/> |否  <br/> |是  <br/> |
 |版權管理：IRM 和密碼安全性 <br/> |否  <br/> |是  <br/> |
 |[執行投影片放映](powerpoint-online.md#run-slide-show) <br/> |是  <br/> |是  <br/> |
 |[另存新檔或下載副本](powerpoint-online.md#save-as-or-download-a-copy) <br/> |是  <br/> |是  <br/> |
@@ -287,9 +291,10 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |[檢視和編輯投影片備註](powerpoint-online.md#view-and-edit-slide-notes) <br/> |是  <br/> |是  <br/> |
 |[WYSIWYG 的檢視](powerpoint-online.md#wysiwyg-viewing) <br/> |是  <br/> |是  <br/> |
    
-> <sup>1</sup> PowerPoint Online 支援庫八個切換和 37 動畫效果。針對較大的選取項目] 或 [以建立自訂動畫，就會使用 PowerPoint 桌面應用程式。 <br/><sup>2</sup>您正在使用裝置必須支援筆跡功能。 
- <br/> <sup>3</sup>部分，但並非所有 Office 增益集可用。 
- <br/><sup>4</sup>您無法建立樞紐分析圖或樞紐分析表，但是您可以檢視器中看到它們。 
+> <sup>1</sup> PowerPoint Online 支援 8 種切換效果和 37 種動畫的圖庫。 如需更多選項，或建立自訂動畫，請使用 PowerPoint 桌面應用程式。 
+ <br/><sup>2</sup>您正在使用裝置必須支援筆跡功能。 
+ <br/> <sup>3</sup>部份但非全部的 Office 增益集可用。 
+ <br/><sup>4</sup>您無法建立樞紐分析圖或樞紐分析表，但是您可以看到它們在檢視器中。 
   
 ## <a name="supported-file-types-for-office-online"></a>Office Online 支援的檔案類型
 <a name="bkmk_SupportedFileTypes"> </a>
@@ -299,7 +304,7 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |**以 Word 2.0 或更新版本建立的 Word 文件** <br/> |**檢視模式** <br/> |**編輯模式** <br/> |
 |Open XML (.docx)  <br/> |是  <br/> |是  <br/> |
 |二進位 (.doc)  <br/> |是  <br/> |轉換為 .docx  <br/> |
-|巨集 (.docm)  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
+|巨集 (.docm)  <br/> |Yes<sup>1</sup> <br/> |Yes<sup>1</sup> <br/> |
 |其他 (.dotm, .dotx)  <br/> |是  <br/> |否  <br/> |
 |OpenDocument (.odt)  <br/> |是  <br/> |是  <br/> |
 |可攜式文件格式 (.pdf)  <br/> |否  <br/> |否  <br/> |
@@ -307,7 +312,7 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |Open XML (.xlsx, .xlsb)  <br/> |是  <br/> |是  <br/> |
 |二進位 (.xls)  <br/> |是  <br/> |轉換為 .xlsx  <br/> |
 |範本 (.xlt, .xltx)  <br/> |否  <br/> |否  <br/> |
-|巨集 (.xlsm)  <br/> |是<sup>1</sup> <br/> |是<sup>2</sup> <br/> |
+|巨集 (.xlsm)  <br/> |Yes<sup>1</sup> <br/> |是<sup>2</sup> <br/> |
 |OpenDocument (.ods)  <br/> |是  <br/> |是  <br/> |
 |**以 OneNote 2010 或更新版本建立的 OneNote 筆記本** <br/> |**檢視模式** <br/> |**編輯模式** <br/> |
 |Open XML (.one)  <br/> |是  <br/> |是  <br/> |
@@ -315,7 +320,7 @@ Office Online (前身為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Ex
 |Open XML (.pptx, .ppsx)  <br/> |是  <br/> |是  <br/> |
 |二進位 (.ppt, .pps)  <br/> |是  <br/> |轉換為.pptx 或 .ppsx  <br/> |
 |範本 (.pot, .potx)  <br/> |是  <br/> |否  <br/> |
-|巨集 (.pptm, .potm, .ppam, .potx, .ppsm)  <br/> |是<sup>1</sup> <br/> |否  <br/> |
+|巨集 (.pptm, .potm, .ppam, .potx, .ppsm)  <br/> |Yes<sup>1</sup> <br/> |否  <br/> |
 |增益集 (.ppa, .ppam)  <br/> |否  <br/> |否  <br/> |
 |OpenDocument (.odp)  <br/> |是  <br/> |是  <br/> |
    

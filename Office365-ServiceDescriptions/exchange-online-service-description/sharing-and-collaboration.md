@@ -1,7 +1,7 @@
 ---
 title: 共用和協同
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 13ab2163b76b5ccc4732659a64be5fcead01dc9d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ca55a389f5ed117b09b6c10ca1b2caf42bf01be0
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035290"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466920"
 ---
 # <a name="sharing-and-collaboration"></a>共用和協同
 
@@ -43,7 +43,7 @@ ms.locfileid: "24035290"
   
 ## <a name="public-folders"></a>公用資料夾
 
-若要利用現有高可用性及儲存技術的信箱資料庫具有已 modernized Exchange Online 中的公用資料夾。公用資料夾架構使用專門設計的信箱來儲存階層與公用資料夾內容。這表示已不再個別公用資料夾資料庫。公用資料夾複寫現在會使用連續複寫模型。由資料庫可用性群組 (DAG) 中的資料中心提供高可用性階層和內容的信箱。在 Exchange Online 中，您會限制在 1000年公用資料夾信箱。每個公用資料夾信箱也有儲存大小上限。如需詳細資訊，請參閱[Exchange Online 限制](exchange-online-limits.md)的 「 信箱資料夾限制 」 一節。公用資料夾信箱有相同的訊息收件者，且容量警示限制與一般信箱。如需詳細資訊，請參閱[收件者](recipients.md)。 
+Exchange Online 中的公用資料夾已經過強化，可善用信箱資料庫現有的高可用性和儲存技術。 公用資料夾架構使用特殊設計的信箱來儲存階層與公用資料夾內容。 這意味著再也沒有獨立的公用資料夾資料庫。 公用資料夾複寫目前使用連續複寫模型。 階層和內容信箱的高可用性是由資料中心的資料庫可用性群組 (DAG) 提供。 在 Exchange Online 中，您可以有 1000 個公用資料夾信箱。 每個公用資料夾信箱也有最大儲存大小。 如需詳細資訊，請參閱 [Exchange Online 限制](exchange-online-limits.md)中的＜信箱資料夾限制＞一節。 公用資料夾信箱與一般信箱具有相同的郵件、收件者及容量警示限制。 如需詳細資訊，請參閱[收件者](recipients.md)。 
   
 如需有關公用資料夾的詳細資訊，請參閱[公用資料夾](https://go.microsoft.com/fwlink/p/?LinkId=271790)。
   

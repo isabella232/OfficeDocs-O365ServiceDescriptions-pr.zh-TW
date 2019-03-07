@@ -1,7 +1,7 @@
 ---
 title: 專案規劃
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
-description: Project Online 中可用的下列專案規劃功能。
-ms.openlocfilehash: 1524f5bb2eb3237ba4c8813e48a673d73721a12a
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 是 Project Online 中提供下列專案規劃功能。
+ms.openlocfilehash: 059fff81c541cb378688f25d7d09180a8a9d8419
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035249"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467750"
 ---
 # <a name="project-planning"></a>專案規劃
 
-Project Online 中可用的下列專案規劃功能。
+是 Project Online 中提供下列專案規劃功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？請參閱 [Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
   
 ## <a name="baseline-rollup"></a>基準匯總
 <a name="bkmk_Baselinerollup"> </a>
@@ -61,7 +61,7 @@ Project Online 中可用的下列專案規劃功能。
 
 將多個群組列套用至專案計劃。深入了解[群組任務或資源](https://go.microsoft.com/fwlink/p/?LinkId=271326)。
   
-## <a name="reports"></a>報告
+## <a name="reports"></a>報表
 <a name="bkmk_Reports"> </a>
 
 使用 Project 2016，您可以建立簡潔、繽紛的專業報告，而不必將資料匯出至其他程式。新增圖片、圖表、動畫、連結及更多，任何您必須清楚且有效率地與專案關係人及小組成員共用專案狀態資訊的一切。深入了解[建立專案報告](https://go.microsoft.com/fwlink/p/?LinkId=271349)。

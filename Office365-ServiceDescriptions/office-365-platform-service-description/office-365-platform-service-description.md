@@ -1,7 +1,7 @@
 ---
 title: Office 365 平台服務說明
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 2/21/2019
 ms.audience: ITPro
@@ -14,27 +14,27 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
-description: Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如果您正在尋找 Office 365 計劃，包括 Exchange Online 的計劃之間的差異本文將告訴您哪些功能都包含在這些項目的。
-ms.openlocfilehash: 5346aa8a30ed89b31ed7b072914f146707068561
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如果您想要知道各種 Office 365 計劃有何差異，包括 Exchange Online 計劃，本文將說明各計劃中包含的功能。
+ms.openlocfilehash: eb542d224f330581490265713675929df65693c8
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210356"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467720"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服務說明
 
-Microsoft Office 365 位在各種可滿足組織的需求的最佳方案。如果您正在尋找 Office 365 計劃，包括 Exchange Online 的計劃之間的差異本文將告訴您哪些功能都包含在這些項目的。
+Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如果您想要知道各種 Office 365 計劃有何差異，包括 Exchange Online 計劃，本文將說明各計劃中包含的功能。
   
 Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您節省時間、金錢，並釋放有價值的資源。Office 365 與知名的 Microsoft Office 桌面套件結合，搭載 Microsoft 新一代通訊與共同作業服務的雲端架構版本 (包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office Online，以及 Microsoft 商務用 Skype Online)，讓使用者可透過網際網路在任何地點執行工作。
   
-若要比較各計劃的功能，請參閱[比較 Office 365 商務計劃](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)或者，如需更詳細的功能清單，請參閱在[Office 365 服務說明](../office-365-service-descriptions-technet-library.md)相關的服務說明。
+若要跨方案比較功能，請參閱[比較 Office 365 for Business 方案](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，或如需更詳細的功能清單，請參閱[Office 365 服務說明](../office-365-service-descriptions-technet-library.md)相關服務描述。
   
-- 如需 Office 365 教育版計劃，開始使用[Office 365 教育版](office-365-education.md)] 頁面。 
+- 如需 Office 365 教育版方案， [Office 365 教育版](office-365-education.md)從頁面開始參閱。 
     
-- 如需 Office 365 美國政府計劃，開始使用[Office 365 美國政府](office-365-us-government/office-365-us-government.md)頁面。 
+- 如需 Office 365 US Government 方案的資訊，啟動與[Office 365 US Government](office-365-us-government/office-365-us-government.md)頁面。 
     
-- 如需 Office 365 的 21Vianet 21vianet，開始使用[Office 365 21vianet 來 21Vianet](office-365-operated-by-21vianet.md) ] 頁面。 
+- 由 21Vianet 運作的 Office 365 的詳細資訊，從開始[由 21Vianet 運作的 Office 365](office-365-operated-by-21vianet.md) ] 頁面。 
     
 - 如需 Office 365 Germany 的資訊，請從 [Office 365 Germany](office-365-germany.md) 頁面開始參閱。 
     
@@ -54,23 +54,23 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
   
 ## <a name="service-level-agreement"></a>服務等級協定
 
-如需有關服務等級協定的詳細資訊，請參閱[服務等級協定](https://go.microsoft.com/fwlink/?linkid=843153)。如需有關 Office 365 最近運作時間的詳細資訊，請參閱 [Office 365 的透明化作業](https://go.microsoft.com/fwlink/?linkid=848695)。
+如需有關服務等級協定的詳細資訊，請參閱[服務等級協定](https://go.microsoft.com/fwlink/?linkid=843153)。 如需有關 Office 365 最近運作時間的詳細資訊，請參閱 [Office 365 的透明化作業](https://go.microsoft.com/fwlink/?linkid=848695)。
   
-## <a name="security-amp-compliance-center"></a>安全性&amp;規範中心
+## <a name="security-amp-compliance-center"></a>安全性&amp;合規性中心
 
-如需安全性的資訊&amp;規範中心和連結的其他資訊和可用性，請參閱[Office 365 安全性&amp;規範中心](office-365-securitycompliance-center.md)。
+如需安全性資訊&amp;規範中心和連結的其他資訊和可用性，請參閱[Office 365 安全性&amp;合規性中心](office-365-securitycompliance-center.md)。
   
 ## <a name="data-storage-location"></a>資料儲存位置
 
-儲存您的資料，請參閱 ＜[資料儲存區對應](https://go.microsoft.com/fwlink/?linkid=401277)。 
+若要了解您的資料儲存位置，請參閱 <<c0>資料儲存區對應。 
   
-## <a name="multi-geo-capabilities-in-office-365"></a>Office 365 的多重地理位置功能
+## <a name="multi-geo-capabilities-in-office-365"></a>Office 365 中的多地理位置功能
 
-多個地理位置啟用單一 Office 365 租用戶為跨多個 Office 365 的資料中心地理位置，並讓您能夠儲存 Office 365 資料的 Exchange Online 與 OneDrive for Business，在-rest 根據每個使用者，在您所選擇的地理位置。 
+多地理位置可讓單一 Office 365 租用戶橫跨多個 Office 365 資料中心的地區，並讓您能夠儲存 Exchange Online 和商務用 OneDrive 的 Office 365 資料待用，根據每位使用者，您所選擇的地理位置中。 
   
-提供 Geos： 亞洲太平洋 （澳洲）、 加拿大、 歐盟、 印度、 日本、 韓國，聯合英國、 美國。 
+可用 Geos： 亞洲太平洋，澳大利亞、 加拿大、 歐盟、 印度、 日本、 韓國，聯合英國，美國境內。 
   
-若要了解更多瀏覽[簡介 （英文） 多-地理 Office 365 中](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016)。
+若要了解更多造訪[簡介多地理位置中 Office 365](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016)。
   
 ## <a name="feature-availability-across-office-365-plans"></a>各 Office 365 計劃中可用的功能
 
@@ -88,43 +88,43 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
     
 - Office 365 Germany：[Office 365 Germany 方案](https://go.microsoft.com/fwlink/?linkid=839016)
     
-有幾個商業計畫的 Office 365 擁有您可以購買您訂閱的附加元件。附加元件提供給訂閱的其他功能。如需詳細資訊，請參閱"可用的不同版本的 Office 365 企業版的附加元件"[購買](https://support.office.com/en-us/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)或編輯企業版的 Office 365 的附加元件。
+數個適用於企業方案的 Office 365 提供可針對您的訂閱購買的附加元件。 附加元件可為訂閱提供額外的功能。 如需詳細資訊，請參閱 「 附加元件可供使用不同版本的 Office 365 商務版 」[購買](https://support.office.com/en-us/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)或編輯商務用 Office 365 的附加元件。
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |**[Office 365 系統管理功能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
-|使用 Microsoft 365 系統管理中心或 Windows PowerShell 來管理 Office 365  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|使用 Azure 資訊保護 來保護內容  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |可以  <br/> |沒有<sup>2</sup> <br/> |
+|使用 Microsoft 365 系統管理中心或 Windows PowerShell 來管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|使用 Azure 資訊保護 來保護內容  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |是  <br/> |沒有<sup>2</sup> <br/> |
 |**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
-|Microsoft Bookings  <br/> |否  <br/> |否  <br/> |是  <br/> |否   <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Microsoft Flow  <br/> |是  <br/> |沒有  <br/> |是  <br/> |是   <br/> |是   <br/> |是  <br/> |Yes<sup>14</sup> <br/> |
-|Microsoft 表單  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|Microsoft Graph API  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |
-|Microsoft MyAnalytics  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否   <br/> |
-|Microsoft Planner  <br/> |是  <br/> |沒有  <br/> |是  <br/> |是   <br/> |是   <br/> |有  <br/> |否  <br/> |
-|Microsoft PowerApps  <br/> |是  <br/> |沒有  <br/> |是  <br/> |是   <br/> |是   <br/> |可以  <br/> |Yes<sup>13</sup> <br/> |
-|Microsoft StaffHub  <br/> |否  <br/> |否  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|Microsoft Stream  <br/> |否  <br/> |否  <br/> |是  <br/> |是   <br/> |是   <br/> |是  <br/> |Yes<sup>18</sup> <br/> |
-|Microsoft Sway  <br/> |是  <br/> |是   <br/> |是  <br/> |Yes<sup>8</sup> <br/> |Yes<sup>8</sup> <br/> |Yes<sup>8</sup> <br/> |Yes<sup>8</sup> <br/> |
-|Microsoft 小組<sup>10</sup> <br/> |是  <br/> |沒有  <br/> |是  <br/> |是   <br/> |是   <br/> |可以  <br/> |是<sup>12</sup> <br/> |
-|Office Delve  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |有  <br/> |否   <br/> |
-|Office 365 群組  <br/> |是  <br/> |沒有  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |
-|Office 365 影片  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是   <br/> |可以  <br/> |Yes<sup>11</sup> <br/> |
+|Microsoft Bookings  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|Microsoft Flow  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>14</sup> <br/> |
+|Microsoft 表單  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft MyAnalytics  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
+|Microsoft Planner  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|Microsoft PowerApps  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>13</sup> <br/> |
+|Microsoft StaffHub  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft Stream  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>18</sup> <br/> |
+|Microsoft Sway  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |
+|Microsoft Teams<sup>10</sup> <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>12</sup> <br/> |
+|Office Delve  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|Office 365 群組  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 365 影片  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>11</sup> <br/> |
 |OneNote 課程筆記本  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>15</sup> <br/> |否  <br/> |
 |**[使用者帳戶管理](user-account-management.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
-|雲端識別、聯盟識別或多重因素驗證  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|Office 365 桌面設定  <br/> |是  <br/> |否  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|使用.csv 檔案大量上傳  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|目錄同步處理工具  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|Exchange 簡易 (完全) 移轉  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|從 Office 365 或使用 Windows PowerShell 刪除帳戶並重設使用者密碼<sup>3</sup> <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |
-|使用者可以變更自己的密碼<sup>4</sup> <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |
-|管理授權  <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |Yes<sup>6</sup> <br/> |
-|從 Office 365 管理安全性群組  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|多個可用的管理員角色  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|允許合作夥伴代替您管理 Office 365  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|Azure Active Directory 服務  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |
+|雲端識別、聯盟識別或多重因素驗證  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 365 桌面設定  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|使用.csv 檔案大量上傳  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|目錄同步處理工具  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Exchange 簡易 (完全) 移轉  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|從 Office 365 或使用 Windows PowerShell 刪除帳戶並重設使用者密碼<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|使用者可以變更自己的密碼<sup>4</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|管理授權  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |
+|從 Office 365 管理安全性群組  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|多個可用的管理員角色  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|允許合作夥伴代替您管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Azure Active Directory 服務  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[網域](domains.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |新增自訂的第 2 層網域，如 fourthcoffee.com  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |新增自訂的第 3 層網域，如 marketing.fourthcoffee.com  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -140,7 +140,7 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 |自動化網域購買和網域驗證功能可用於透過 Go Daddy 購買的網域  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[服務健康狀況和持續性](service-health-and-continuity.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |可在 **[服務健康狀況]** 或 **[服務狀態]** 頁面上獲取狀態資訊  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|可在 Microsoft 365 系統管理中心儀表板上的個別警示狀態  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|可在 Microsoft 365 系統管理中心儀表板上獲取個別警示狀態  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**服務健康狀況** RSS 摘要  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[報告](reports.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |使用中和非使用中的信箱  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -151,19 +151,19 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 |傳送和接收的郵件  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |排名最前面的寄件者及收件者  <br/> |是  <br/> |--  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |垃圾郵件偵測  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|惡意程式碼偵測  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|郵件中排名最前面的惡意程式碼  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|郵件符合規則的數目  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|郵件排名最前面的相符規則  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|郵件排名最前面的相符 DLP 原則  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |有  <br/> |否   <br/> |
-|依重要性分組顯示郵件符合 DLP 原則的數目  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |有  <br/> |否   <br/> |
-|郵件的 DLP 原則比對、覆寫及誤判  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |有  <br/> |否   <br/> |
-|郵件排名最前面的相符 DLP 規則  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |有  <br/> |否  <br/> |
-|IM 和音訊工作階段  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|應用程式共用、Web 及電話撥入式會議  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |
-|視訊、應用程式共用及檔案傳輸工作階段  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
-|IM 和音訊/視訊會議  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |
-|可下載的郵件保護報告  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |是  <br/> |是  <br/> |
+|惡意程式碼偵測  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|郵件中排名最前面的惡意程式碼  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|郵件符合規則的數目  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|郵件排名最前面的相符規則  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|郵件排名最前面的相符 DLP 原則  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|依重要性分組顯示郵件符合 DLP 原則的數目  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|郵件的 DLP 原則比對、覆寫及誤判  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|郵件排名最前面的相符 DLP 規則  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|IM 和音訊工作階段  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|應用程式共用、Web 及電話撥入式會議  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|視訊、應用程式共用及檔案傳輸工作階段  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|IM 和音訊/視訊會議  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|可下載的郵件保護報告  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用的瀏覽器  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用的作業系統  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Office 365 報表 Web 服務，建立自己的報表  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -176,20 +176,20 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 |線上說明  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |社群  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |其他自助資源  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|自訂進度訓練  <br/> |是  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|自訂進度訓練  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[網路功能](networking.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
-|IPv4 和 IPv6 通訊協定  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |
+|IPv4 和 IPv6 通訊協定  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**信任** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
-|**[隱私權、安全性和透明化](privacy-security-and-transparency.md)** <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|**[隱私權、安全性和透明化](privacy-security-and-transparency.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 雲端 App 安全性  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|進階威脅防護  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否   <br/> |
-|Customer Lockbox  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否   <br/> |
-|Office 365<sup>16</sup>的客戶機碼 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否   <br/> |
-|Office 365 進階的 eDiscovery<sup>17</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否   <br/> |
-|安全分數<sup>7</sup> <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |可以  <br/> |
+|進階威脅防護  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
+|Customer Lockbox  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
+|Office 365<sup>16</sup>的客戶金鑰 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
+|Office 365 進階電子文件<sup>17</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
+|安全分數<sup>7</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |威脅情報  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|**[合規性[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||||||
-|SAS 70 / SSAE16 評估  <br/> |是  <br/> |是   <br/> |是   <br/> |是   <br/> |是   <br/> |是  <br/> |是  <br/> |
+|**[合規性 [ServiceDesc]](compliance-servicedesc.md)** <br/> ||||||||
+|SAS 70 / SSAE16 評估  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 認證  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |歐盟示範條款  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |歐盟安全港  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -207,12 +207,19 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 |**[產品使用權限](product-use-rights.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
    
 
-> <sup>1</sup> office 365 沒有提供支援任何不受製造商支援的作業系統。 
-<br/><sup>2</sup> azure 資訊保護未包含在內，但是可以購買作為個別的附加元件與將會啟用支援的資訊版權管理 (IRM) 功能。有些 Azure 資訊保護功能需要 Office 365 ProPlus，這是不包含在 Office 365 商務 Essentials、 Office 365 企業進階版、 Office 365 企業版 E1、 Office 365 教育版或 Office 365 企業版 F1 訂閱。<br/><sup>3</sup> 若您正在透過本機 Active Directory 使用目錄同步作業，則必須使用本機 Active Directory (而非透過 Office 365 入口網站或適用於 Windows PowerShell 的 Azure Active Directory 模組) 來刪除帳戶或變更密碼。 
-<br/><sup>4</sup>以了解如何設定使用者的自助式密碼管理原則，請參閱[在 Azure AD 的管理密碼](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)。 
-<br/><sup>6</sup> 若減少以折扣條件購買的基座，有可能需支付提前終止訂閱的費用。這不適用於每月付款的訂閱。<br/><sup>7</sup>位於[https://securescore.office.com](https://securescore.office.com)。需要系統管理員權限。如需詳細資訊，請參閱[簡介 Office 365 安全分數](https://go.microsoft.com/fwlink/?linkid=836894)。<br/><sup>8</sup> Microsoft Sway 沒有目前的客戶的特定地理位置。一些舊版的 Office 365 計劃不再年 8 月 2015年市場可能也無法存取 Microsoft Sway。<br/><sup>9</sup> Diminished 體驗。如果您的組織是取決於 Internet Explorer 8 或 Internet Explorer 9 來存取舊的 web 應用程式及服務，您可能會想考慮升級為 Internet Explorer 11 及評估企業模式的 Internet Explorer 11。此更新可協助提供更佳的回溯相容性的舊版的 web 應用程式。<br/><sup>10</sup>是 Office 365 商務 Essentials、 Office 365 企業進階版、 Office 365 Enterprise （E1、 E3、 E5、 F1） 及 Office 365 教育版計劃中可用的 Microsoft 小組。 
-<br/><sup>11</sup>在 Office 365 企業版 F1、 Office 365 影片會限制為僅限檢視 （無發佈或共用）。 
-<br/><sup>12</sup>支援 InOffice 365 Enterprise F1 一對一的音訊/視訊通話。會議權限僅限於加入僅 （沒有建立或初始化）。<br/><sup>13</sup>在 Office 365 企業版 f1 鍵，PowerApps 僅限於耗用量僅 （沒有發佈或共用）。 
-<br/><sup>14</sup>在 Office 365 企業版 f1 鍵、 流程耗用僅限於且流限於每位使用者每月 750。 
-<br/><sup>15</sup>只可在 Office 365 教育版 Office 365 E5 教育包括計劃。不提供 Office 365 企業版 E5。<br/><sup>16</sup>如需詳細資訊，請參閱[控制您使用客戶金鑰的 Office 365 中的資料](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)。 
-<br/><sup>第 17</sup>進階的 eDiscovery 支援在美國及西歐 （荷蘭） 區域中。（加拿大和亞太地區的客戶資料匯出至美國。歐洲、 中東及非洲的客戶資料匯出至西歐 [荷蘭]。）><br/>僅適用於 Microsoft 資料流的<sup>18</sup>耗用： 無發佈或共用。 
+> <sup>1</sup> Office 365 does not provide support for any operating system that is not supported by its manufacturer. 
+<br/><sup>2</sup> azure 資訊保護未包含在內，但能以個別的附加元件形式購買，並將會啟用支援的資訊版權管理 (IRM) 功能。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. 
+<br/><sup>3</sup> If using directory synchronization with a local Active Directory, you must delete accounts or change passwords by using the local Active Directory, rather than the Office 365 portal or by using the Azure Active Directory module for Windows PowerShell. 
+<br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). 
+<br/><sup>6</sup> Reducing seats that were purchased with a term discount may be subject to an early termination fee. This is not applicable for subscriptions paid on a monthly basis. 
+<br/><sup>7</sup>可在[https://securescore.office.com](https://securescore.office.com)。 需要系統管理員權限。 如需詳細資訊，請參閱[介紹 Office 365 安全分數](https://go.microsoft.com/fwlink/?linkid=836894)。 
+<br/><sup>8</sup> Microsoft Sway 不是目前適用於特定地區的客戶。 自 2015 年 8 月起就不再販售的一些舊版 Office 365 方案也可能無法存取 Microsoft Sway。 
+<br/><sup>9</sup> Diminished experience. If your organization is dependent upon Internet Explorer 8 or Internet Explorer 9 to access older web apps and services, you may want to consider upgrading to Internet Explorer 11 and evaluating Enterprise Mode for Internet Explorer 11. This update helps provide better backward compatibility for legacy web apps. 
+<br/><sup>10</sup> Microsoft Teams，您可以在 Office 365 商務基本版、 Office 365 商務進階版、 Office 365 企業版 E1、 E3、 E5 （f1 鍵） 和 Office 365 教育版方案。 
+<br/><sup>11</sup> In Office 365 Enterprise F1, Office 365 Video is limited to viewing only (no publishing or sharing). 
+<br/><sup>12</sup> InOffice 365 Enterprise F1, one-to-one audio/visual calls are supported. Meetings rights are limited to join only (no creating or initiating). 
+<br/><sup>13</sup> In Office 365 Enterprise F1, PowerApps is limited to consumption only (no publishing or sharing). 
+<br/><sup>14</sup> In Office 365 Enterprise F1, Flow is limited to consumption only and runs are limited to 750 per user per month. 
+<br/><sup>15</sup>僅適用於 Office 365 教育版方案，包括 Office 365 教育版 E5。 It is not available in Office 365 Enterprise E5. 
+<br/><sup>16</sup>如需詳細資訊，請參閱[控制使用客戶金鑰的 Office 365 中的資料](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)。 
+<br/><sup>17</sup>進階電子文件是在美國及支援西歐 （荷蘭） 區域中。 （從加拿大和亞太地區的客戶資料匯出至美國境內。 歐洲、 中東和非洲地區的客戶資料匯出至西歐 [荷蘭]。）> <br/>僅適用於 Microsoft Stream <sup>18</sup>消耗量： 沒有發佈或共用。 

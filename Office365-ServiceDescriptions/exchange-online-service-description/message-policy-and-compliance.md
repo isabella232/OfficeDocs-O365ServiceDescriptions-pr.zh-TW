@@ -1,7 +1,7 @@
 ---
 title: 郵件原則及符合性
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: fd5062df19298720417566d91667f3c3b237b164
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 806476eb165bb4e98fe5c9d73b878aaa7e32b66c
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035465"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467250"
 ---
 # <a name="message-policy-and-compliance"></a>郵件原則及符合性
 
@@ -72,24 +72,24 @@ Exchange Online 提供的保留原則功能與 Exchange Server 2010 Service Pack
   
 ## <a name="encryption-of-data-at-rest"></a>靜態資料的加密
 
-Office 365 客戶靜態資料的加密所提供多個服務端技術，包括 BitLocker、 DKM、 Azure Storage Service 加密，以及服務加密在 Exchange Online、 Skype for Business、 OneDrive for Business 和 SharePoint線上。Office 365 服務加密包括使用 Azure 機碼存放庫中所儲存的客戶管理加密金鑰] 選項。此客戶 managed 金鑰] 選項，呼叫[Office 365 客戶機碼](https://go.microsoft.com/fwlink/?linkid=863349)，為適用於 Exchange Online、 SharePoint Online 和 OneDrive for Business。 
+靜態的 Office 365 客戶資料的加密是由提供多個服務端技術，包括 BitLocker、 DKM、 Azure 儲存體服務加密，以及服務加密在 Exchange Online、 商務用 Skype、 OneDrive for Business 和 SharePoint線上。 Office 365 服務加密包括要使用儲存在 Azure 金鑰保存庫中的客戶管理加密金鑰的選項。 客戶管理金鑰，稱為[Office 365 客戶金鑰](https://go.microsoft.com/fwlink/?linkid=863349)，則使用此選項的 Exchange Online、 SharePoint Online 和商務用 OneDrive。 
   
 ### <a name="bitlocker"></a>BitLocker
 
-Office 365 伺服器使用 BitLocker 加密包含在磁碟區層級的其餘部分的客戶資料磁碟機。BitLocker 加密是 Windows 內建的資料保護功能。BitLocker 是硬體的其中一個用來防範威脅以防有漏洞其他處理程序或可能導致某人取得實體磁碟包含客戶資料存取的控制項 （例如，存取控制或回收） 中的技術。在此例中 BitLocker 不資料竊取或洩露可能因遺失、 竊、 或不當解除委任電腦與磁碟。 
+Office 365 伺服器使用 BitLocker 加密包含客戶資料磁碟區層級的靜態的磁碟機。 BitLocker 加密是內建於 Windows 的資料保護功能。 BitLocker 是硬體的下列其中一個以預防威脅，萬一有漏洞其他處理程序或可能會導致其他人存取實體磁碟包含客戶資料的控制項 （例如，存取控制或重複使用） 中所使用的技術。 在此情況下，BitLocker 會由於遺失、 遭竊或不當解除委任電腦和磁碟消除竊取或曝光的可能性。 
   
-### <a name="distributed-key-manager"></a>分散的索引鍵管理員
+### <a name="distributed-key-manager"></a>分散式金鑰管理員
 
-除了 BitLocker，我們使用稱為分散式金鑰管理員 (DKM) 的技術。DKM 是用來加密和解密資訊的一組秘密機碼的用戶端功能。只有在 Active Directory 網域服務中的特定安全性群組的成員可以存取這些機碼解密依 DKM 加密資料。在 Exchange Online 中，僅限 Exchange 程序執行特定服務帳戶屬於該安全性群組。在資料中心 standard 作業系統程序的一部分，沒有人力資源會屬於此安全性群組的認證並沒有人力資源因此具有存取權之按鍵的可以解密這些機密資料。
+除了 BitLocker，我們會使用稱為分散式金鑰管理員 (DKM) 的技術。 DKM 是使用一組秘密金鑰來加密及解密資訊用戶端功能。 只有在 Active Directory 網域服務中的特定安全性群組的成員可以存取這些金鑰來解密由 DKM 加密的資料。 在 Exchange Online 中，只有在其下的 Exchange 處理程序執行特定服務帳戶屬於該 [安全性] 群組。 資料中心裡的標準作業程序的一部分，沒有人所指定屬於此安全性群組的認證，因此沒有 human 具有存取權才能解密這些機密的機碼。
   
 ## <a name="customer-key"></a>客戶金鑰
 
-與客戶金鑰您控制組織的加密金鑰並使用這些加密 Microsoft 資料中心的靜態資料的 Office 365，則設定。靜態資料包括從 Exchange Online 和 Skype 會儲存在信箱和 SharePoint Online 中儲存的檔案中的企業版及 OneDrive for Business 的資料。如需詳細資訊，請參閱[控制您使用客戶金鑰的 Office 365 中的資料](https://go.microsoft.com/fwlink/?linkid=863349)和[服務加密與 Office 365 常見問題集的客戶金鑰](https://go.microsoft.com/fwlink/?linkid=869438)。
+使用客戶金鑰，您可以控制您組織的加密金鑰，然後設定 [要用來加密存放在 Microsoft 資料中心中的 Office 365。 存放的資料包括 Exchange Online 資料和儲存在信箱的商務用 Skype 資料，以及儲存在 SharePoint Online 中和商務用 OneDrive 中的檔案。 如需詳細資訊，請參閱[控制使用客戶金鑰的 Office 365 中的資料](https://go.microsoft.com/fwlink/?linkid=863349)和[使用 Office 365 常見問題集的客戶金鑰服務加密](https://go.microsoft.com/fwlink/?linkid=869438)。
   
 ## <a name="office-365-message-encryption"></a>Office 365 郵件加密
 <a name="bkmk_O365_MessageEncryption"> </a>
 
-Office 365 郵件加密可讓電子郵件使用者將加密的電子郵件傳送給任何人。我們即已宣佈 Office 郵件加密的運用的 Azure 資訊加密保護功能的新功能。提供這些新功能增強方便分享和共同作業與組織內外的任何人受保護的郵件上的使用者體驗。新 Office 郵件加密功能有一些設定需求。請參閱 ＜ Set up 新建置上方的 Azure 資訊保護的 Office 365 郵件加密功能。在舊版的 Office 365 郵件加密的客戶不會取得的新功能不遵循上述所提供的指引的設定。請參閱 ＜ [FAQ](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e)如需詳細資訊與舊版的 Office 365 郵件加密功能比較新的內容。 
+Office 365 郵件加密可讓電子郵件使用者將加密的電子郵件傳送給任何人。 我們宣佈 Office 郵件加密中利用 Azure 資訊加密的保護功能的新功能。 提供這些新功能，強化使用者體驗，可讓您更輕鬆地進行共用與共同作業與組織內外的任何人受保護的郵件。 新的 Office 郵件加密功能有一些安裝程式的需求。 請參閱 < Set up 以 Azure 資訊保護基礎所建置的全新 Office 365 郵件加密功能。 在舊版的 Office 365 郵件加密的客戶不會收到的新功能未依照設定上面所提供的指導方針。 請閱讀[常見問題集](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e)的詳細資料中新的和舊版的 Office 365 郵件加密功能比較包含的內容。 
   
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Secure/Multipurpose Internet Mail Extensions (S/MIME)
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -156,7 +156,7 @@ Exchange Online 可讓客戶使用網頁介面搜尋整個組織的信箱內容�
 ## <a name="mail-flow-rules"></a>郵件流程規則
 <a name="bkmk_O365_MessageEncryption"> </a>
 
-郵件流程規則可用來尋找郵件通過組織並對它們上特定條件。郵件流程規則可讓您訊息將原則套用至電子郵件訊息、 安全郵件、 保護郵件系統，並避免資訊外洩。
+您可以使用郵件流程規則來尋找滿足特定條件的郵件，通過您組織並處理它們。 郵件流程規則可讓您套用至電子郵件、 保護郵件、 保護郵件系統及防止資訊外洩的郵件原則。
   
 現今的法律、管控需求或公司原則要求許多組織套用郵件傳遞原則，以限制組織內部和外部之收件者與寄件者間的互動。除了限制個人、組織內的部門群組，以及組織外的實體間的互動外，有些組織也會受到下列郵件原則需求的控制：
   
@@ -171,11 +171,11 @@ Exchange Online 可讓客戶使用網頁介面搜尋整個組織的信箱內容�
 - 在郵件通過組織時套用免責聲明至其中
     
 > [!IMPORTANT]
-> 需要使用郵件流程規則之前安裝的適當 iFilter 之後無法檢查的協力廠商 Ifilter （例如 Adobe.pdf) 的電子郵件伺服器上安裝的附件檔案類型。如需郵件流程規則所支援的檔案類型的詳細資訊，請參閱[使用郵件流程規則檢查 Office 365 中的郵件附件](https://go.microsoft.com/fwlink/p/?LinkId=271748)。 
+> 需要安裝協力廠商 Ifilter （例如 Adobe.pdf) 的電子郵件伺服器上無法使用郵件流程規則，直到安裝適當的 iFilter 之後檢查的附件檔案類型。 如需郵件流程規則所支援的檔案類型的詳細資訊，請參閱 <<c0>使用郵件流程規則來 inspect message attachments 於 Office 365。 
   
-如需郵件流程規則的詳細資訊，請參閱[Mail flow 規則 Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkId=296488)。
+如需郵件流程規則的詳細資訊，請參閱[郵件流程規則在 Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkId=296488)。
   
-## <a name="data-loss-prevention"></a>資料遺失防護
+## <a name="data-loss-prevention"></a>資料外洩防護
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 資料遺失防護 (DLP) 功能可透過深入內容分析，協助您識別、監視和保護組織的敏感資訊。DLP 是對於企業郵件系統越來越重要的一項高階功能，因為業務關鍵電子郵件包含需要受到保護的敏感資料。Exchange Online 中的 DLP 功能可讓您保護敏感資料，同時又不影響工作者的生產力。
@@ -190,7 +190,7 @@ Exchange Online 可讓客戶使用網頁介面搜尋整個組織的信箱內容�
     
 - 加入您自己的自訂 DLP 原則範本和敏感資訊類型。
     
-- 偵測郵件附件、 本文或主旨行中的敏感資訊並調整的 Exchange Online 做的信賴等級。
+- 偵測郵件附件、 本文或主旨行中的敏感資訊並調整在 Exchange Online 做的信賴等級。
     
 - 使用「文件指紋」偵測敏感表單資料。「文件指紋」會協助您根據可用於定義傳輸規則和 DLP 原則的文字型表單，輕易地建立自訂敏感資訊類型。
     
@@ -215,7 +215,7 @@ Exchange Online 可讓客戶使用網頁介面搜尋整個組織的信箱內容�
     
 - 建立第二個連絡人物件作為備用日誌信箱，以便在無法使用主要日誌信箱時擷取任何日誌報告。
     
-- 維持適當的管理、 備援、 可用性、 效能及功能層級的 SMTP 目標以確保一律成功接收郵件接受度。
+- 維護適當的管理、 備援、 可用性、 效能及功能層級的 SMTP 目標，以確保一律成功接收郵件接受度。
     
 - 在 Exchange Server 和 Exchange 傳輸之間提供適當的互通性，包括郵件格式、寄件者/收件者資訊整合以及適當的內容轉換。
     

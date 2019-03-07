@@ -1,7 +1,7 @@
 ---
 title: Yammer 服務說明
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
-description: Yammer 是適合在-類別、 安全及私人企業社交網路。Yammer 讓員工可更提高工作效率成功啟用輕鬆地進行共同作業、 更快、 做出決策並且自我將組織成小組採取任何商務挑戰。是新的自然磁碟機商務的對齊模式和彈性、 減少循環時間、 會請員工及客戶和合作夥伴改善關係方式。
-ms.openlocfilehash: 7feac0f0b107a159dd7d0545632815ec24679040
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Yammer 是同級產品最佳、安全且私密的企業社交網路。 Yammer 可讓員工輕鬆協同作業、更快做出決策，以及自行組成小組來迎接任何業務挑戰，進而使員工更具生產力且更為成功。 這是一種新的工作方式，可自然地促成業務契合度和靈活性、減少週期時間、凝聚員工，以及改善與客戶及合作夥伴的關係。
+ms.openlocfilehash: 4d94fafd21a1022b19ae71503b777263250d74ff
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035279"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467150"
 ---
 # <a name="yammer-service-description"></a>Yammer 服務說明
 
-Yammer 是適合在-類別、 安全及私人企業社交網路。Yammer 讓員工可更提高工作效率成功啟用輕鬆地進行共同作業、 更快、 做出決策並且自我將組織成小組採取任何商務挑戰。是新的自然磁碟機商務的對齊模式和彈性、 減少循環時間、 會請員工及客戶和合作夥伴改善關係方式。
+Yammer 是同級產品最佳、安全且私密的企業社交網路。 Yammer 可讓員工輕鬆協同作業、更快做出決策，以及自行組成小組來迎接任何業務挑戰，進而使員工更具生產力且更為成功。 這是一種新的工作方式，可自然地促成業務契合度和靈活性、減少週期時間、凝聚員工，以及改善與客戶及合作夥伴的關係。
   
 如需包含 Yammer 的 Office 365 方案清單，請參閱 [Office 365 服務系列與方案](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)。
   
@@ -50,7 +50,7 @@ Yammer 可透過下列計劃取得：
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer Enterprise 服務通訊原則
 <a name="YammerCommsPolicy"> </a>
 
-Yammer 是 Office 365 一部分和遵守[Office 365 變更管理原則](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/)，但不會使用 Targeted 版本來導入更新。 
+Yammer 是 Office 365 的一部分，會遵循[Office 365 變更管理原則](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/)，但不會使用已設定目標發行來部署更新。 
   
 所有 Yammer 使用者都需要接受 A/B 功能測試。這能讓 Microsoft 測試功能，以改善在多種環境與裝置中的穩定性、效能和體驗。同一網路內的使用者可能會因為接受測試而得到不同的體驗。客戶無法選擇退出 A/B 測試。
   

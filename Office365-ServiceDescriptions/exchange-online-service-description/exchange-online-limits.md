@@ -1,7 +1,7 @@
 ---
 title: Exchange Online 限制
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 02/21/2019
 ms.audience: ITPro
@@ -14,22 +14,22 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
-description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
-ms.openlocfilehash: ce25d57281cd9a5260b34f2d33d7cf4a490ac866
-ms.sourcegitcommit: 30c7b713cbe28bc2ce1f0bd850e48fbc9b1d63f7
+description: 尋找不同服務區域，包括通訊錄限制、 信箱儲存限制以及報告和郵件追蹤限制，只是其中幾例的 Exchange Online 限制。
+ms.openlocfilehash: 0291609bedf605177719847f36438d2a19020a60
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30199918"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467680"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
-尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
+尋找不同服務區域，包括通訊錄限制、 信箱儲存限制以及報告和郵件追蹤限制，只是其中幾例的 Exchange Online 限制。
   
 > [!NOTE]
->  如果您需要某項工作的協助，或是要針對某個問題進行疑難排解，您可能會發現下列文章很實用：  <br/> • [[電子郵件](https://support.office.com/en-us/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US)（如說明建立及傳送電子郵件）  <br/> • [ [Office 365 企業版-Admin 說明中的電子郵件](https://go.microsoft.com/fwlink/?linkid=529722) <br/>   •[修正 Outlook 和 Microsoft 支援服務和 Office 365 的助理修復 Office 365 的問題](https://diagnostics.office.com/) <br/>  • [ [Office 365 中的電子郵件未傳遞回報](https://go.microsoft.com/fwlink/?linkid=526653) <br/> • [Exchange 線上說明](https://go.microsoft.com/fwlink/?linkid=825607) <br/>
+>  如果您需要某項工作的協助，或如果您針對問題進行疑難排解，您可能會發現下列文章很實用：  <br/> •[電子郵件](https://support.office.com/en-us/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US)（適用於提供建立和傳送電子郵件的說明）  <br/> •[在 Office 365 商務版-系統管理說明中的電子郵件](https://go.microsoft.com/fwlink/?linkid=529722) <br/>   •[修正 Outlook 與 Microsoft 支援及修復小幫手的 Office 365 的 Office 365 問題](https://diagnostics.office.com/) <br/>  •[在 Office 365 中的電子郵件未傳遞回報](https://go.microsoft.com/fwlink/?linkid=526653) <br/> • [Exchange 線上說明](https://go.microsoft.com/fwlink/?linkid=825607) <br/>
   
-在 Microsoft Exchange Online 限制配合分成下列類別：
+Microsoft Exchange Online 中的上下限範圍分為下列類別之一：
   
 - [通訊錄限制](#address-book-limits)
     
@@ -49,14 +49,14 @@ ms.locfileid: "30199918"
     
 - [通訊群組限制](#distribution-group-limits)
     
-- [日誌、 傳輸及收件匣規則限制](#journal-transport-and-inbox-rule-limits)
+- [日誌、傳輸和收件匣規則限制](#journal-transport-and-inbox-rule-limits)
     
 - [仲裁限制](#moderation-limits)
     
 - [Exchange ActiveSync 限制](#exchange-activesync-limits)
     
 > [!IMPORTANT]
->  • [套用至 Microsoft Office 365 組織的限制可能會根據多久組織有所不同具有已註冊服務。<br/> • [限制變更 Microsoft 資料中心，則可能需要一些時間來將變更套用至所有現有的客戶。<br/> • 您無法修改大部分的這些限制，不過您和使用者應該要知道有這些項目。<br/> • 這些限制適用於內部和外部收件者。<br/> • [依預設，Exchange Online Protection (EOP) 提供保護 Exchange Online 信箱。如需套用至 EOP 功能在 Exchange Online 的限制，請參閱[Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。<br/> • For Office 365 群組限制的相關資訊請參閱"How do I 管理 「 我的 groups?"中[了解 Office 365 群組](https://go.microsoft.com/fwlink/?linkid=846714)。 
+>  • 適用於 Microsoft Office 365 組織的限制可能會有所不同多久組織已註冊服務。 <br/> • 當限制變更於 Microsoft 資料中心，可能需要一些時間才能將變更套用至所有現有的客戶。 <br/> • 您無法修改大部分的這些限制，不過您和您的使用者應該要知道它們。 <br/> • 這些限制適用於內部和外部收件者。 <br/> • 依預設，Exchange Online Protection (EOP) 會保護 Exchange Online 信箱。 若要了解適用於 Exchange Online 中 EOP 功能的限制，請參閱 [Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。 <br/> • 針對 Office 365 群組限制的相關資訊請參閱 「 如何管理我的群組？ 」 」。 
   
 ## <a name="address-book-limits"></a>通訊錄限制
 
@@ -104,15 +104,15 @@ ms.locfileid: "30199918"
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |使用者信箱  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
-|封存信箱<sup>7, 8</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |無限制的<sup>1</sup> <br/> |無限制的<sup>1</sup> <br/> |無法使用<sup>4</sup> <br/> |
-|共用信箱  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2,9</sup> <br/> |50 GB<sup>2,9</sup> <br/> |50 GB<sup>2</sup> <br/> |
-|資源信箱  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3,9</sup> <br/> |50 GB<sup>3,9</sup> <br/> |50 GB<sup>3</sup> <br/> |
+|封存信箱<sup>7, 8</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |沒有限制的<sup>1</sup> <br/> |沒有限制的<sup>1</sup> <br/> |無法使用<sup>4</sup> <br/> |
+|共用信箱  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50GB<sup>2,9</sup> <br/> |50GB<sup>2,9</sup> <br/> |50 GB<sup>2</sup> <br/> |
+|資源信箱  <br/> |50GB<sup>3</sup> <br/> |50GB<sup>3</sup> <br/> |50GB<sup>3</sup> <br/> |50GB<sup>3,9</sup> <br/> |50GB<sup>3,9</sup> <br/> |50GB<sup>3</sup> <br/> |
 |站台信箱<sup>5</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |無  <br/> |
-|公用資料夾信箱  <br/> |50 GB<sup>6</sup> <br/> |50 GB<sup>6</sup> <br/> |50 GB<sup>6</sup> <br/> |100 GB<sup>6</sup> <br/> |100 GB<sup>6</sup> <br/> |無法使用  <br/> |
+|公用資料夾信箱  <br/> |50GB<sup>6</sup> <br/> |50GB<sup>6</sup> <br/> |50GB<sup>6</sup> <br/> |100 GB<sup>6</sup> <br/> |100 GB<sup>6</sup> <br/> |無法使用  <br/> |
 |群組信箱  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>每位使用者最初 100 GB 的存放區中收到封存信箱。自動展開封存開啟時，達到 100 GB 的儲存容量時自動新增額外儲存空間。如需詳細資訊，請參閱 ＜ [Overview of Office 365 中沒有限制之封存](https://go.microsoft.com/fwlink/?linkid=844060)。請參閱[Office 365 藍圖](http://go.microsoft.com/fwlink/?LinkId=509914)如需可用性的詳細資訊。<br/>  <sup>2</sup>來存取共用的信箱，使用者必須具有的 Exchange Online 授權。共用的信箱不需要個別授權。但沒有授權、 共用的信箱的限制為 50 GB。若要增加的信箱大小，必須被指派 E3 或 E5 授權。這會增加為 100 GB 的信箱。如果您想要啟用封存信箱或置於訴訟暫止狀態共用信箱，Exchange Online 計劃 2 授權或 Exchange Online 計劃 1 與 Exchange Online 封存授權則需要。如果您啟用封存信箱與共用信箱的自動展開封存，達到封存信箱 100 GB 儲存容量時自動新增額外儲存空間。<br/>  <sup>3</sup>資源信箱不需要授權。但沒有授權、 共用的信箱的限制為 50 GB。若要增加的信箱大小，必須被指派 E3 或 E5 授權。這會增加為 100 GB 的信箱。<br/>  <sup>4</sup> Exchange Online Kiosk 中不要包括封存信箱。不過，可以為透過 Exchange Online 封存的附加元件購買。如需詳細資訊，請參閱[Exchange Online 封存服務說明](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)。<br/>  <sup>5</sup>站台信箱會建立及管理 SharePoint Online 中。如需詳細資訊，請參閱[使用 Office 365 中的網站信箱的準備](http://go.microsoft.com/fwlink/p/?LinkId=299131)。<br/>  <sup>6</sup>您有 1000 公用資料夾信箱，而且所有公用資料夾信箱的總大小上限為 50 TB。階層提供信箱皆有 100 個公用資料夾信箱。<br/>  <sup>7</sup>封存信箱僅可用來為其授權已套用封存的單一使用者或實體 （例如共用信箱） 的郵件。使用封存信箱作為儲存郵件從多個使用者或實體的方法被禁止。例如，IT 系統管理員無法建立共用的信箱且明確的目的封存 （透過 [副本] 或 [密件副本] 欄位中，或透過傳輸規則） 複製的使用者。請注意使用多人共用的信箱實際上不會儲存這些個別使用者的電子郵件。多個使用者都擁有存取，並為共用信箱傳送電子郵件。因此，只有儲存在共用信箱的電子郵件是指傳送至或來自它，*做為*共用信箱。<br/>  <sup>8</sup>如果您在 Exchange Online 中建立保留原則，郵件將會自動移到使用者的封存信箱只有當使用者的主要信箱大於 10 MB。保留原則不會執行自動小於 10 MB 的信箱。<br/>  <sup>9</sup>共用和資源信箱不需要授權。但沒有授權、 共用的信箱的限制為 50 GB。若要增加的信箱大小，必須被指派 E3 或 E5 授權。這會增加為 100 GB 的信箱。 
+> <sup>1</sup> 每位使用者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://go.microsoft.com/fwlink/?linkid=844060)。 如需可用性的詳細資訊，請參閱 [Office 365 藍圖](http://go.microsoft.com/fwlink/?LinkId=509914)。 <br/>  <sup>2</sup> 若要存取共用信箱，使用者必須擁有 Exchange Online 授權。 共用信箱不需要個別授權。 不過，如果沒有授權，共用的信箱是限制為 50 GB。 若要增加信箱大小，必須指派 E3 或 E5 授權。 這會增加到 100 GB 的信箱。 如果您想要啟用封存信箱，或放入共用信箱的 [訴訟暫止狀態，Exchange Online Plan 2 授權或 Exchange Online Plan 1 Exchange Online Archiving 授權則需要。 如果您啟用封存信箱與自動展開封存的共用信箱，達到 100 GB 的儲存容量，封存信箱時，會自動會新增額外儲存空間。 <br/>  <sup>3</sup> 資源信箱不需要授權。 不過，如果沒有授權，共用的信箱是限制為 50 GB。 若要增加信箱大小，必須指派 E3 或 E5 授權。 這會增加到 100 GB 的信箱。 <br/>  <sup>4</sup> Exchange Online Kiosk 不包含封存信箱。 不過，他們可以以透過 Exchange Online Archiving 附加元件形式購買。 如需詳細資訊，請參閱 [Exchange Online 封存服務說明](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)。 <br/>  <sup>5</sup> 網站信箱的建立和管理是在 SharePoint Online 中進行。 如需詳細資訊，請參閱[為在 Office 365 中使用網站信箱作準備](http://go.microsoft.com/fwlink/p/?LinkId=299131)。 <br/>  <sup>6</sup>您可以有 1000 個公用資料夾信箱，而且所有公用資料夾信箱的總大小上限為 50 TB。 階層提供信箱的限制為 100 個公用資料夾信箱。 <br/>  <sup>7</sup>封存信箱僅可用來封存郵件之單一使用者或實體 （例如共用信箱） 的授權已套用。 禁止使用封存信箱 」 儲存來自多個使用者或實體的郵件。 例如，IT 系統管理員不能建立共用信箱，再由使用者純粹為了封存的目的來複製它 (透過 [副本] 或 [密件副本] 欄位，或透過傳輸規則)。 請注意，多人使用的共用信箱不會實際儲存個別使用者的電子郵件。 多個使用者可以存取，且傳送電子郵件做為共用信箱。 因此，只有傳送至共用信箱或從共用信箱寄出的電子郵件會儲存在共用信箱中，  *做為*  共用信箱。 <br/>  <sup>8</sup>如果您已在 Exchange Online 中建立保留原則，則只有當使用者的主要信箱大於 10 MB 時，系統才會自動將郵件移到使用者的封存信箱。 若信箱小於 10 MB，則保留原則不會自動執行。 <br/>  <sup>9</sup>共用和資源信箱不需要授權。 不過，如果沒有授權，共用的信箱是限制為 50 GB。 若要增加信箱大小，必須指派 E3 或 E5 授權。 這會增加到 100 GB 的信箱。 
   
 ### <a name="storage-limits-across-standalone-plans"></a>不同獨立計劃中的儲存限制
 
@@ -121,16 +121,16 @@ ms.locfileid: "30199918"
 |**功能** <br/> |**Exchange Server 2013** <br/> |**Exchange Online 方案 1** <br/> |**Exchange Online 方案 2** <br/> |**Exchange Online Kiosk** <br/> |
 |使用者信箱  <br/> |2 GB<sup>1</sup> <br/> |50 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
 |封存信箱<sup>8, 9</sup> <br/> |100 GB<sup>1</sup> <br/> |50 GB  <br/> |無限制的<sup>2</sup> <br/> |無法使用<sup>5</sup> <br/> |
-|共用信箱  <br/> |2 GB<sup>1</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3,10</sup> <br/> |50 GB<sup>3</sup> <br/> |
-|資源信箱  <br/> |2 GB<sup>1</sup> <br/> |50 GB<sup>4</sup> <br/> |50 GB<sup>4,10</sup> <br/> |50 GB<sup>4</sup> <br/> |
-|公用資料夾信箱  <br/> |2 GB<sup>6</sup> <br/> |50 GB<sup>7</sup> <br/> |100 GB<sup>7</sup> <br/> |無法使用  <br/> |
+|共用信箱  <br/> |2 GB<sup>1</sup> <br/> |50GB<sup>3</sup> <br/> |50GB<sup>3,10</sup> <br/> |50GB<sup>3</sup> <br/> |
+|資源信箱  <br/> |2 GB<sup>1</sup> <br/> |50GB<sup>4</sup> <br/> |50GB<sup>4,10</sup> <br/> |50GB<sup>4</sup> <br/> |
+|公用資料夾信箱  <br/> |2 GB<sup>6</sup> <br/> |50GB<sup>7</sup> <br/> |100 GB<sup>7</sup> <br/> |無法使用  <br/> |
 |群組信箱  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>這是 Exchange Server 2013 組織的預設信箱大小。系統管理員可以變更這個值為其組織。沒有內部部署信箱的最大的儲存量限制。<br/>  <sup>2</sup>每位使用者最初 100 GB 的存放區中收到封存信箱。自動展開封存開啟時，達到 100 GB 的儲存容量時自動新增額外儲存空間。如需詳細資訊，請參閱 ＜ [Overview of Office 365 中沒有限制之封存](https://go.microsoft.com/fwlink/?linkid=844060)。請參閱 ＜ [Office 365 藍圖](http://go.microsoft.com/fwlink/?LinkId=509914)如需詳細資訊的自動展開可用性封存。<br/> <sup>3</sup>若要存取共用的信箱，使用者必須具有的 Exchange Online 授權。共用的信箱不需要個別授權。但沒有授權、 共用的信箱的限制為 50 GB。若要增加的信箱大小，必須被指派 Exchange Online 計劃 2 授權。這會增加為 100 GB 的信箱。如果您想要啟用封存信箱或置於訴訟暫止狀態共用信箱，Exchange Online 計劃 2 授權或 Exchange Online 計劃 1 與 Exchange Online 封存授權則需要。如果您啟用封存信箱與共用信箱的自動展開封存，達到封存信箱 100 GB 儲存容量時自動新增額外儲存空間。<br/> <sup>4</sup>資源信箱不需要授權。但沒有授權、 共用的信箱的限制為 50 GB。若要增加的信箱大小，必須被指派 Exchange Online 計劃 2 授權。這會增加為 100 GB 的信箱。<br/>  <sup>5</sup> Exchange Online Kiosk 中不要包括封存信箱。不過，可以為透過 Exchange Online 封存的附加元件購買。如需詳細資訊，請參閱[Exchange Online 封存服務說明](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)。<br/>  <sup>6</sup>這是 Microsoft Exchange Server 2013 組織的預設信箱大小。系統管理員可以變更這個值為其組織。在 Exchange Server 2013，您有 100 個公用資料夾信箱，而且所有公用資料夾信箱的總大小上限為 50 TB。<br/>  <sup>7</sup> In Exchange Online 中，您有 1000 公用資料夾信箱，而且所有公用資料夾信箱的總大小上限為 50 TB。<br/>  <sup>8</sup>封存信箱僅可用來封存的單一使用者或實體已套用授權的郵件。禁止為方法使用的封存信箱來儲存來自多個使用者或實體的郵件。例如 IT 管理員無法建立共用的信箱並讓使用者將複製 （透過 [副本] 或 [密件副本] 欄位中，或透過傳輸規則） 共用的信箱的封存明確的目的。<br/>  <sup>9</sup>如果您在 Exchange Online 中建立保留原則，郵件將會自動移到使用者的封存信箱只有當使用者的主要信箱大於 10 MB。保留原則不會執行自動小於 10 MB 的信箱。<br/>  <sup>10</sup>共用和資源信箱不需要指派授權。但沒有授權，這些信箱是限制為 50 GB。若要增加的信箱大小，Exchange Online 計劃 2 授權必須被指派。這會增加為 100 GB 的信箱。 
+> <sup>1</sup> 這是 Exchange Server 2013 組織的預設信箱大小。 系統管理員可以為其組織變更此值。 內部部署信箱並無儲存空間上限。 <br/>  <sup>2</sup> 每位使用者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://go.microsoft.com/fwlink/?linkid=844060)。 如需自動展開封存的可用性詳細資訊，請參閱 [Office 365 藍圖](http://go.microsoft.com/fwlink/?LinkId=509914)。 <br/> <sup>3</sup> 若要存取共用信箱，使用者必須擁有 Exchange Online 授權。 共用信箱不需要個別授權。 不過，如果沒有授權，共用的信箱是限制為 50 GB。 若要增加信箱大小，必須指派 Exchange Online Plan 2 授權。 這會增加到 100 GB 的信箱。 如果您想要啟用封存信箱，或放入共用信箱的 [訴訟暫止狀態，Exchange Online Plan 2 授權或 Exchange Online Plan 1 Exchange Online Archiving 授權則需要。 如果您啟用封存信箱與自動展開封存的共用信箱，達到 100 GB 的儲存容量，封存信箱時，會自動會新增額外儲存空間。 <br/> <sup>4</sup> 資源信箱不需要授權。 不過，如果沒有授權，共用的信箱是限制為 50 GB。 若要增加信箱大小，必須指派 Exchange Online Plan 2 授權。 這會增加到 100 GB 的信箱。  <br/>  <sup>5</sup> Exchange Online Kiosk 不包含封存信箱。 不過，他們可以以透過 Exchange Online Archiving 附加元件形式購買。 如需詳細資訊，請參閱 [Exchange Online 封存服務說明](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)。  <br/>  <sup>6</sup> 這是 Microsoft Exchange Server 2013 組織的預設信箱大小。 系統管理員可以為其組織變更此值。 在 Exchange Server 2013您最多可以有 100 個公用資料夾信箱，而且所有公用資料夾信箱的大小總和上限為 50 TB。  <br/>  <sup>7</sup> In Exchange Online 中，您可以有 1000 個公用資料夾信箱，而且所有公用資料夾信箱的總大小上限為 50 TB。  <br/>  <sup>8</sup>封存信箱僅可用來封存之單一使用者或實體已套用授權的郵件。 禁止使用封存信箱 」 來儲存來自多個使用者或實體的郵件。 例如，IT 系統管理員不能建立共用信箱，再由使用者純粹為了封存的目的來複製 (透過 [副本] 或 [密件副本] 欄位，或透過傳輸規則) 共用信箱。  <br/>  <sup>9</sup> 如果您已在 Exchange Online 中建立保留原則，則只有當使用者的主要信箱大於 10 MB 時，系統才會自動將郵件移到使用者的封存信箱。 若信箱小於 10 MB，則保留原則不會自動執行。  <br/>  <sup>10</sup>共用和資源信箱不需要指派授權。 不過，沒有授權，這些信箱可以有 50 GB。 若要增加信箱大小，Exchange Online Plan 2 授權必須指派。 這會增加到 100 GB 的信箱。 
   
 > [!NOTE]
-> 共用的信箱並不被設計直接登入。共用信箱本身的使用者帳戶應該留在**已停用**（或"中斷連線 」） 的狀態。 
+> 共用的信箱不是直接登入。 共用信箱本身的使用者帳戶應保持在**已停用**（或 「 中斷連線 」） 的狀態。 
   
 ## <a name="capacity-alerts"></a>容量提醒
 
@@ -163,7 +163,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 > [!NOTE]
 > <sup>1</sup> 這是 Exchange Server 2013 組織的預設值。系統管理員可以為其組織變更此值。 
   
-## <a name="mailbox-folder-limits"></a>信箱資料夾限制
+## <a name="mailbox-folder-limits"></a>Mailbox folder limits
 
 這些限制是為了讓信箱容量不超過 Exchange Online 可支援的已知大小範圍。這些限制的目的在於防止每一資料夾有無限多個信箱項目、每一信箱有無限多個資料夾，或每一 Exchange Online 組織有無限多個公用資料夾。為了實用目的，信箱資料夾限制實際上不受限，且足以支援大多數的 Exchange Online 信箱和已移轉至 Exchange Online 的內部部署信箱。
   
@@ -206,12 +206,12 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |每一信箱資料夾的子資料夾數目警告  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
 |資料夾階層深度上限  <br/> |300  <br/> |300  <br/> |300  <br/> |300  <br/> |300  <br/> |300  <br/> |
 |資料夾階層深度警告  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|最大公用資料夾數目  <br/> | 500,000  <br/> | 500,000  <br/> | 500,000  <br/> | 500,000  <br/> | 500,000  <br/> |無法使用  <br/> |
+|最大公用資料夾數目  <br/> | 500,000  <br/> | 500,000  <br/> | 500,000  <br/> | 500,000  <br/> | 500,000  <br/> |無  <br/> |
 |每一公用資料夾的子資料夾數目上限  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |無  <br/> |
 |每一公用資料夾的子資料夾數目警告  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |無  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>這是儲存配額可復原的項目] 資料夾的 [不整個封存信箱的配額。封存信箱儲存配額為無限制的使用者與 Exchange Online 計劃 2 授權或具有 Exchange Online 計劃 1 和 Exchange Online 封存的授權的使用者。如需增加可復原的項目配額資訊，請參閱[增加可復原的項目上的信箱配額保留](http://technet.microsoft.com/library/a8bdcbdd-9298-462f-b889-df26037a990c.aspx)。<br/> <sup>2</sup>中的封存信箱 [可復原的項目] 資料夾的初始儲存配額為 100 GB。自動展開封存開啟時，達到 [可復原的項目] 資料夾的儲存容量時自動新增額外儲存空間。如需詳細資訊，請參閱 ＜ [Overview of Office 365 中沒有限制之封存](https://go.microsoft.com/fwlink/?linkid=844060)。請參閱 ＜ [Office 365 藍圖](http://go.microsoft.com/fwlink/?LinkId=509914)如需詳細資訊的自動展開可用性封存。 
+> <sup>1</sup> 這是 [可復原的項目] 資料夾的儲存配額，而非整個封存信箱的配額。 封存信箱的儲存配額是無限制為具有 Exchange Online Plan 2 授權的使用者，或具有 Exchange Online Plan 1 和 Exchange Online Archiving 授權的使用者。 如需增加可復原的項目配額的詳細資訊，請參閱 [Increase the Recoverable Items quota for mailboxes on hold](http://technet.microsoft.com/library/a8bdcbdd-9298-462f-b889-df26037a990c.aspx)。 <br/> <sup>2</sup> 封存信箱中 [可復原的項目] 資料夾的儲存配額是 100 GB。 開啟自動展開封存時，當 [可復原項目] 資料夾達到儲存容量時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://go.microsoft.com/fwlink/?linkid=844060)。 如需自動展開封存的可用性詳細資訊，請參閱 [Office 365 藍圖](http://go.microsoft.com/fwlink/?LinkId=509914)。 
   
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>不同獨立計劃中的信箱資料夾限制
 
@@ -224,18 +224,18 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |主信箱中 [可復原的項目] 資料夾的儲存配額 (未保留)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
 |主信箱中 [可復原的項目] 資料夾的儲存配額 (保留)  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
 |封存信箱中 [可復原的項目] 資料夾的儲存配額 (未保留)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
-|封存信箱中 [可復原的項目] 資料夾的儲存配額 (保留)  <br/> |100 GB<sup>2</sup> <br/> |100 GB<sup>2</sup> <br/> |無限制的<sup>3</sup> <br/> |無限制的<sup>3</sup> <br/> |
+|封存信箱中 [可復原的項目] 資料夾的儲存配額 (保留)  <br/> |100 GB<sup>2</sup> <br/> |100 GB<sup>2</sup> <br/> |Unlimited 的<sup>3</sup> <br/> |Unlimited 的<sup>3</sup> <br/> |
 |[可復原的項目] 資料夾中每一資料夾的郵件數目警告  <br/> |無限制  <br/> |275 萬  <br/> |275 萬  <br/> |275 萬  <br/> |
 |每一信箱資料夾的子資料夾數目上限  <br/> |無限制  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |
 |每一信箱資料夾的子資料夾數目警告  <br/> |無限制  <br/> |900  <br/> |900  <br/> |900  <br/> |
 |資料夾階層深度上限  <br/> |無限制  <br/> |300  <br/> |300  <br/> |300  <br/> |
 |資料夾階層深度警告  <br/> |無限制  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|最大公用資料夾數目  <br/> |1,000,000  <br/> |100,000  <br/> |100,000  <br/> |無法使用  <br/> |
+|最大公用資料夾數目  <br/> |1,000,000  <br/> |100,000  <br/> |100,000  <br/> |無  <br/> |
 |每一公用資料夾的子資料夾數目上限  <br/> |不適用  <br/> |1,000  <br/> |1,000  <br/> |無  <br/> |
 |每一公用資料夾的子資料夾數目警告  <br/> |不適用  <br/> |900  <br/> |900  <br/> |無  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Microsoft 建議不得超過 1000000 個每一信箱資料夾的郵件。><br/> <sup>2</sup>這是儲存配額可復原的項目] 資料夾的 [不整個封存信箱的配額。封存信箱儲存配額為無限制的使用者與 Exchange Online 計劃 2 授權或具有 Exchange Online 計劃 1 和 Exchange Online 封存的授權的使用者。如需增加可復原的項目配額資訊，請參閱[增加可復原的項目上的信箱配額保留](http://technet.microsoft.com/library/a8bdcbdd-9298-462f-b889-df26037a990c.aspx)。<br/> <sup>3</sup>封存信箱中的 [可復原的項目] 資料夾的初始儲存配額為 100 GB。自動展開封存開啟時，達到 [可復原的項目] 資料夾的儲存容量時自動新增額外儲存空間。如需詳細資訊，請參閱 ＜ [Overview of Office 365 中沒有限制之封存](https://go.microsoft.com/fwlink/?linkid=844060)。請參閱 ＜ [Office 365 藍圖](http://go.microsoft.com/fwlink/?LinkId=509914)如需詳細資訊的自動展開可用性封存。 
+> <sup>1</sup> Microsoft 建議每個信箱資料夾的郵件數不要超過 1,000,000 封。 > <br/> <sup>2</sup> 這是 [可復原的項目] 資料夾的儲存配額，而非整個封存信箱的配額。 封存信箱的儲存配額是無限制為具有 Exchange Online Plan 2 授權的使用者，或具有 Exchange Online Plan 1 和 Exchange Online Archiving 授權的使用者。 如需增加可復原的項目配額的詳細資訊，請參閱 [Increase the Recoverable Items quota for mailboxes on hold](http://technet.microsoft.com/library/a8bdcbdd-9298-462f-b889-df26037a990c.aspx)。 <br/> <sup>3</sup> 封存信箱中 [可復原的項目] 資料夾的儲存配額是 100 GB。 開啟自動展開封存時，當 [可復原項目] 資料夾達到儲存容量時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://go.microsoft.com/fwlink/?linkid=844060)。 如需自動展開封存的可用性詳細資訊，請參閱 [Office 365 藍圖](http://go.microsoft.com/fwlink/?LinkId=509914)。 
   
 ## <a name="message-limits"></a>郵件限制
 
@@ -246,7 +246,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
     > [!NOTE]
     > 特定電子郵件用戶端可擁有較低的郵件大小或可限制個別檔案附件的大小為小於 Exchange Online 郵件大小上限的值。 
   
-- **郵件標頭大小限制**指定在郵件中的所有郵件標頭欄位的大小上限。目前的限制為 256 KB。如果所有的郵件標頭的總大小超過 256 KB，Exchange Online 會拒絕此郵件錯誤"552 5.3.4 標頭大小超過固定大小上限。 」不被視為郵件內文或附件的大小。因為標頭欄位純文字、 標頭大小決定以每個標頭] 欄位中的字元數與標頭欄位的總數。每個文字字元會耗用 1 個位元組。
+- **郵件標頭大小限制**在郵件中指定的所有郵件標頭欄位的大小上限。 目前的限制為 256 KB。 如果所有的郵件標頭的總大小超過 256 KB，Exchange Online 將拒絕此郵件以錯誤 「 552 5.3.4 標頭大小超過固定大小上限。 」 郵件內文或附件的大小不考慮在內。 因為標頭欄位是純文字，所以標頭大小是由每個標頭欄位中的字元數以及標頭欄位的總數來決定。 每個文字字元都佔用 1 個位元組。
 
 - **主旨長度限制** 電子郵件主旨行中允許的文字字元數目上限。 
     
@@ -270,18 +270,18 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |郵件大小限制 - OWA  <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |
 |郵件大小限制 - Outlook for Mac  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
 |郵件大小限制 - 移轉  <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |
-|加密郵件的大小限制 (適用於使用 Office 365 郵件加密與新功能的訂閱者)<sup>5</sup> <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|加密郵件的大小限制 (適用於使用 Office 365 郵件加密與新功能的訂閱者)<sup>5</sup> <br/> |150 MB  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
 |加密郵件的大小限制 (適用於使用舊版 Office 365 郵件加密的訂閱者)<sup>5</sup> <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
 |主旨長度限制  <br/> |255 個字元  <br/> |255 個字元  <br/> |255 個字元  <br/> |255 個字元  <br/> |255 個字元  <br/> |255 個字元  <br/> |
 |檔案附件限制  <br/> |250 個附件  <br/> |250 個附件  <br/> |250 個附件  <br/> |250 個附件  <br/> |250 個附件  <br/> |250 個附件  <br/> |
-|檔案附件大小限制 - Outlook  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|檔案附件大小限制 - Outlook  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
 |檔案附件大小限制 - OWA <sup>6</sup> <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
-|檔案附件大小限制 - Outlook for Mac  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|檔案附件大小限制 - Outlook for Mac  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
 |Multipart 郵件限制  <br/> |250 個部分  <br/> |250 個部分  <br/> |250 個部分  <br/> |250 個部分  <br/> |250 個部分  <br/> |250 個部分  <br/> |
 |內嵌郵件深度限制  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>預設郵件大小上限為 Office 365 信箱為 25 MB。Office 365 系統管理員可以指定自訂限制 1 MB 和 150 MB 之間。不過，您可以傳送或接收之郵件的大小也取決於您的電子郵件用戶端或方案支援的項目。如需自訂允許的郵件大小上限為組織的詳細資訊，請參閱[Office 365 現在支援較大的電子郵件訊息](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。<br/> <sup>2</sup>您可以傳送和接收向上 150 MB （其中郵件永遠不會保留 Office 365 資料中心） 的 Office 365 使用者之間的郵件。外部 Office 365 資料中心會路由傳送的郵件會受到編碼的增加，在此案例的郵件大小上限為 112 MB 其他 33%轉譯。<br/> <sup>3</sup> OWA 帳戶的郵件可能會受限於編碼增加 33%和限制的郵件大小在其中您可以傳送給 25%小於設定的設定值。例如，如果您在自訂您的設定為 100 MB 的郵件大小上限，您可以傳送郵件不得大於 75 MB。<br/> <sup>4</sup> Exchange Online 會計算要移動至 Exchange Online 的郵件大小。Exchange Server 2013 之前的 Exchange 版本可能會報告較小的項目大小。此限制適用於使用任何支援的 Exchange 信箱複寫服務來移動基本移轉。其他移轉方法 (轉換、分段、IMAP、PST) 和其他協力廠商工具都受限於一般訊息大小限制。<br/> <sup>5</sup> 如需 OME 與新功能的相關資訊，請參閱 [設定以 Azure 資訊保護為基礎所建置的全新 Office 365 郵件加密功能](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)。<br/> <sup>6</sup> 您無法附加超過 35 MB 的單一檔案。此外，您也無法附加全部加起來超過 35 MB 的檔案。例如，如果附加一個 34 MB 的檔案，您只能再額外附加 1 MB 的檔案。 
+> <sup>1</sup> Office 365 信箱的預設最大郵件大小為 25 MB。 Office 365 系統管理員可以指定 1 MB 到 150 MB 之間的自訂限制。 不過，您可以傳送或接收的郵件大小也取決於您的電子郵件用戶端或解決方案支援的項目。 如需自訂您的組織允許的最大郵件大小的詳細資訊，請參閱 [Office 365 現在支援較大的電子郵件訊息](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。 <br/> <sup>2</sup> 您可以在 Office 365 使用者之間 (郵件永遠不會離開 Office 365 資料中心) 傳送和接收最多 150 MB 的郵件。 Office 365 資料中心外路由傳送的郵件都會受限於額外 33% 轉譯編碼增加，如此一來，郵件大小上限是 112 MB。 <br/> <sup>3</sup> OWA 會計算您的訊息可能受限於編碼增加 33% 的可能性，並且會將您可以傳送的郵件大小限制為小於已配置的設定 25%。 例如，如果您自訂的設定是 100 MB 的郵件大小上限，您可以傳送的郵件不超過 75 MB。 <br/> <sup>4</sup> Exchange Online 會計算要移動至 Exchange Online 的郵件大小。 Exchange Server 2013 之前的 Exchange 版本可能會報告較小的項目大小。 此限制適用於使用任何支援的 Exchange 信箱複寫服務來移動基本移轉。 其他移轉方法 (轉換、分段、IMAP、PST) 和其他協力廠商工具都受限於一般訊息大小限制。 <br/> <sup>5</sup> 如需 OME 與新功能的相關資訊，請參閱 [設定以 Azure 資訊保護為基礎所建置的全新 Office 365 郵件加密功能](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)。 <br/> <sup>6</sup> 您無法附加超過 35 MB 的單一檔案。 此外，您也無法附加全部加起來超過 35 MB 的檔案。 例如，如果附加一個 34 MB 的檔案，您只能再額外附加 1 MB 的檔案。 
   
 ### <a name="message-limits-across-standalone-options"></a>不同獨立選項中的郵件限制
 
@@ -290,20 +290,20 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |**功能** <br/> |**Exchange Server 2013** <br/> |**Exchange Online 方案 1** <br/> |**Exchange Online 方案 2** <br/> |**Exchange Online Kiosk** <br/> |
 |郵件大小限制 - Outlook  <br/> |10 MB<sup>4</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>2</sup> <br/> |
 |郵件大小限制 - OWA  <br/> |10 MB<sup>4</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
-|郵件大小限制 - Outlook for Mac  <br/> |10 MB<sup>4</sup> <br/> |150 MB  <br/> |150 MB  <br/> ||
+|郵件大小限制 - Outlook for Mac  <br/> |10 MB<sup>4</sup> <br/> |150 MB   <br/> |150 MB  <br/> ||
 |郵件大小限制 - 移轉  <br/> |不適用  <br/> |150 MB <sup>5</sup> <br/> |150 MB <sup>5</sup> <br/> |150 MB <sup>5</sup> <br/> |
-|加密郵件的大小限制 (適用於使用 Office 365 郵件加密與新功能的訂閱者)<sup>6</sup> <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|加密郵件的大小限制 (適用於使用 Office 365 郵件加密與新功能的訂閱者)<sup>6</sup> <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
 |加密郵件的大小限制 (適用於使用舊版 Office 365 郵件加密的訂閱者)<sup>6</sup> <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
 |主旨長度限制  <br/> |255 個字元  <br/> |255 個字元  <br/> |255 個字元  <br/> |255 個字元  <br/> |
 |檔案附件限制  <br/> |1024 附件<sup>4</sup> <br/> |250 個附件  <br/> |250 個附件  <br/> |250 個附件  <br/> |
-|檔案附件大小限制 - Outlook  <br/> |35 MB<sup>4</sup> <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|檔案附件大小限制 - Outlook  <br/> |35 MB<sup>4</sup> <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |檔案附件大小限制 - OWA  <br/> |35 MB<sup>4</sup> <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
 |檔案附件大小限制 - Outlook for Mac  <br/> |35 MB<sup>4</sup> <br/> |150 MB  <br/> |150 MB  <br/> |35 MB  <br/> |
 |Multipart 郵件限制  <br/> |250 個部分  <br/> |250 個部分  <br/> |250 個部分  <br/> |250 個部分  <br/> |
 |內嵌郵件深度限制  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> office 365 系統管理員可以指定自訂限制 1 MB 和 150 MB 之間。不過，您可以傳送或接收之郵件的大小也取決於您的電子郵件用戶端或方案支援的項目。如需自訂允許的郵件大小上限為組織的詳細資訊，請參閱[Office 365 現在支援較大的電子郵件訊息](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。<br/> <sup>2</sup>您可以傳送和接收向上 150 MB （其中郵件永遠不會保留 Office 365 資料中心） 的 Office 365 使用者之間的郵件。外部 Office 365 資料中心會路由傳送的郵件會受到編碼的增加，在此案例的郵件大小上限為 112 MB 其他 33%轉譯。<br/> <sup>3</sup> OWA 帳戶的郵件可能會受限於編碼增加 33%和限制的郵件大小在其中您可以傳送給 25%小於設定的設定值。例如，如果您在自訂您的設定為 100 MB 的郵件大小上限，您可以傳送郵件不得大於 75 MB。<br/> <sup>4</sup>這是 Exchange Server 2013 組織的預設限制。系統管理員可以變更這個值為其組織。<br/> <sup>5</sup> Exchange Online 會利用計算移至 Exchange Online 郵件的大小。Exchange Server 2013 以前的 Exchange 版本可能會回報較小的項目大小。<br/> <sup>6</sup> 如需 OME 與新功能的相關資訊，請參閱 [設定以 Azure 資訊保護為基礎所建置的全新 Office 365 郵件加密功能](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)。 
+> <sup>1</sup> Office 365 系統管理員可以指定 1 MB 到 150 MB 之間的自訂限制。 不過，您可以傳送或接收的郵件大小也取決於您的電子郵件用戶端或解決方案支援的項目。 如需自訂您的組織允許的最大郵件大小的詳細資訊，請參閱 [Office 365 現在支援較大的電子郵件訊息](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。 <br/> <sup>2</sup> 您可以在 Office 365 使用者之間 (郵件永遠不會離開 Office 365 資料中心) 傳送和接收最多 150 MB 的郵件。 Office 365 資料中心外路由傳送的郵件都會受限於額外 33% 轉譯編碼增加，如此一來，郵件大小上限是 112 MB。 <br/> <sup>3</sup> OWA 會計算您的訊息可能受限於編碼增加 33% 的可能性，並且會將您可以傳送的郵件大小限制為小於已配置的設定 25%。 例如，如果您自訂的設定是 100 MB 的郵件大小上限，您可以傳送的郵件不超過 75 MB。 <br/> <sup>4</sup> 這是 Exchange Server 2013 組織的預設限制。 系統管理員可以為其組織變更此值。 <br/> <sup>5</sup> Exchange Online 會計算要移動至 Exchange Online 的郵件大小。 Exchange Server 2013 之前的 Exchange 版本可能會報告較小的項目大小。 <br/> <sup>6</sup> 如需 OME 與新功能的相關資訊，請參閱 [設定以 Azure 資訊保護為基礎所建置的全新 Office 365 郵件加密功能](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)。 
   
 ## <a name="receiving-and-sending-limits"></a>接收及傳送限制
 
@@ -316,7 +316,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版 Office** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
-|已接收的訊息  <br/> |每小時 3600 訊息  <br/> |每小時 3600 訊息  <br/> |每小時 3600 訊息  <br/> |每小時 3600 訊息  <br/> |每小時 3600 封訊息  <br/> |每小時 3600 封訊息  <br/> |
+|已接收的訊息  <br/> |每小時 3600 郵件  <br/> |每小時 3600 郵件  <br/> |每小時 3600 郵件  <br/> |每小時 3600 郵件  <br/> |每小時 3600 封訊息  <br/> |每小時 3600 封訊息  <br/> |
    
 ### <a name="sending-limits"></a>傳送限制
 
@@ -357,7 +357,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |收件者 proxy 位址限制  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 這是 Exchange Server 2013 組織的預設限制。系統管理員可以為其組織變更此值。 
+> <sup>1</sup> 這是 Exchange Server 2013 組織的預設限制。 系統管理員可以為其組織變更此值。 
   
 ## <a name="reporting-and-message-trace-limits"></a>報告和郵件追蹤限制
 <a name="bkmk_Reporting_Message_Trace_Limits"> </a>
@@ -397,7 +397,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |[垃圾郵件] 資料夾保留期間  <br/> |2 年<sup>1</sup> <br/> |30 天  <br/> |30 天  <br/> |30 天  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 這是預設限制。系統管理員可以為其組織變更此值。<br/> <sup>2</sup>這是 Exchange Online 組織的預設值。系統管理員可以變更這個值為其組織中信箱的 30 天的最大值。 
+> <sup>1</sup> 這是預設限制。系統管理員可以為其組織變更此值。<br/> <sup>2</sup> 這是 Exchange Online 組織的預設值。 系統管理員可以將組織中信箱的這個值變更為 30 天。 
   
 ## <a name="distribution-group-limits"></a>通訊群組限制
 
@@ -416,13 +416,13 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |**功能** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |通訊群組成員數目上限<sup>1</sup> <br/> |100,000 位成員  <br/> |100,000 位成員  <br/> |100,000 位成員  <br/> |100,000 位成員  <br/> |100,000 位成員  <br/> |100,000 位成員  <br/> |
 |傳送郵件給大型通訊群組的限制  <br/> |5,000 位以上成員  <br/> |5,000 位以上成員  <br/> |5,000 位以上成員  <br/> |5,000 位以上成員  <br/> |5,000 位以上成員  <br/> |5,000 位以上成員  <br/> |
-|通訊群組與至 100000 之間 5000 個成員的郵件大小上限  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
+|有 5000 個至 100000 之間成員的通訊群組的郵件大小上限  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
 |100000 或多個成員的通訊群組的郵件大小上限  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |
-|通訊群組擁有者數目上限  <br/> |10   <br/> |10   <br/> |10   <br/> |10   <br/> |10   <br/> |10   <br/> |
+|通訊群組擁有者數目上限  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |
 |使用者可以建立的群組數目上限  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup>如果您使用 Azure Active Directory DirSync，您可以對 Azure Active Directory 同步處理從內部部署 Active Directory 的通訊群組成員數目上限為 15000。如果您使用 Azure AD 連線，該號碼為 50000。<br/> <sup>2</sup> 這項限制也適用於系統管理員。 
+> <sup>1</sup> 如果您是使用 Azure Active Directory DirSync，則您可以從內部部署 Active Directory 同步到 Azure Active Directory 的通訊群組成員最大數量為 15,000。 如果您使用的是 Azure AD Connect，則該數量為 50,000。 <br/> <sup>2</sup> 這項限制也適用於系統管理員。 
   
 ### <a name="distribution-group-limits-across-standalone-options"></a>不同獨立選項中的通訊群組限制
 
@@ -431,11 +431,11 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |**功能** <br/> |**Exchange Server 2013** <br/> |**Exchange Online 方案 1** <br/> |**Exchange Online 方案 2** <br/> |**Exchange Online Kiosk** <br/> |
 |通訊群組成員數目上限  <br/> |100,000 位成員<sup>1</sup> <br/> |100,000 位成員  <br/> |100,000 位成員  <br/> |100,000 位成員  <br/> |
 |傳送郵件給大型通訊群組的限制  <br/> |5,000 位以上成員<sup>1</sup> <br/> |5,000 位以上成員  <br/> |5,000 位以上成員  <br/> |5,000 位以上成員  <br/> |
-|通訊群組擁有者數目上限  <br/> |10   <br/> |10   <br/> |10   <br/> |10   <br/> |
+|通訊群組擁有者數目上限  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |
 |使用者可以建立的群組數目上限  <br/> |250<sup>2</sup> <br/> |250<sup>2</sup> <br/> |250<sup>2</sup> <br/> |250<sup>2</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 這是 Exchange Server 2013 組織的預設限制。系統管理員可以為其組織變更此值。<br/> <sup>2</sup> 這項限制也適用於系統管理員。 
+> <sup>1</sup> 這是 Exchange Server 2013 組織的預設限制。 系統管理員可以為其組織變更此值。 <br/> <sup>2</sup> 這項限制也適用於系統管理員。 
   
 ## <a name="journal-transport-and-inbox-rule-limits"></a>日誌、傳輸和收件匣規則限制
 
@@ -504,7 +504,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
-|仲裁信箱的大小上限  <br/> |10GB  <br/> |10GB  <br/> |10GB  <br/> |10GB  <br/> |10GB  <br/> |10 GB  <br/> |
+|仲裁信箱的大小上限  <br/> |10GB  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
 |仲裁者人數上限  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |
 |等候仲裁的郵件到期日  <br/> |2 天  <br/> |2 天  <br/> |2 天  <br/> |2 天  <br/> |2 天  <br/> |2 天  <br/> |
 |過期仲裁通知郵件的最大速率  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |
@@ -539,7 +539,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |Exchange ActiveSync 裝置限制  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |
-|Exchange ActiveSync 裝置刪除限制  <br/> |20 個  <br/> |20 個  <br/> |20 個  <br/> |20 個  <br/> |20 個  <br/> |20 個  <br/> |
+|Exchange ActiveSync 裝置刪除限制  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |
 |Exchange ActiveSync 檔案附件限制  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
    
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>跨獨立選項的 Exchange ActiveSync 限制
@@ -548,5 +548,5 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Exchange Server 2013** <br/> |**Exchange Online 方案 1** <br/> |**Exchange Online 方案 2** <br/> |**Exchange Online Kiosk** <br/> |
 |Exchange ActiveSync 裝置限制  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |
-|Exchange ActiveSync 裝置刪除限制  <br/> |20 個  <br/> |20 個  <br/> |20 個  <br/> |20 個  <br/> |
+|Exchange ActiveSync 裝置刪除限制  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |
 |Exchange ActiveSync 檔案附件限制  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |

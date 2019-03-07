@@ -1,7 +1,7 @@
 ---
 title: 社交
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 207c5829-0ba9-440a-a602-1222458fb479
-description: Microsoft SharePoint Online 是一組 Web 式工具和技術，協助您的組織儲存、 分享和管理數位資訊。Microsoft SharePoint Server 2013 上為建置基礎，此裝載的服務適合在專案中工作、 儲存資料與文件集中的位置，並與他人共用資訊。下列社交功能讓使用者能夠為其最有效率的方式中的共同作業。如何？提供更好的共同作業工具的任何人都可以使用分享構思、 尋找人員及專業知識與位置的商務資訊。
-ms.openlocfilehash: 3e964ef776b8df36700964463eaeeb2557288ce6
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列的社交網路功能讓人們以最具效率的方式一起合作。 怎麼做？ 藉由提供大型的協同作業工具，任何人都可共用新構想、尋找人與專門知識及商業資訊。
+ms.openlocfilehash: 7cfe67b7278af07c911ab5807b5fc5073a88d39f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035261"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466460"
 ---
 # <a name="social"></a>社交
 
-Microsoft SharePoint Online 是一組 Web 式工具和技術，協助您的組織儲存、 分享和管理數位資訊。Microsoft SharePoint Server 2013 上為建置基礎，此裝載的服務適合在專案中工作、 儲存資料與文件集中的位置，並與他人共用資訊。下列社交功能讓使用者能夠為其最有效率的方式中的共同作業。如何？提供更好的共同作業工具的任何人都可以使用分享構思、 尋找人員及專業知識與位置的商務資訊。 
+Microsoft SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列的社交網路功能讓人們以最具效率的方式一起合作。 怎麼做？ 藉由提供大型的協同作業工具，任何人都可共用新構想、尋找人與專門知識及商業資訊。 
   
 ## <a name="personal-blogs"></a>個人部落格
 <a name="bkmk_Blogs"> </a>
@@ -34,12 +34,12 @@ Microsoft SharePoint Online 是一組 Web 式工具和技術，協助您的組�
 
 線上社群是討論及分享各種想法的虛擬場合。藉由分享自己的專門知識並向他人學習，使用者之間的討論會更為熱絡，進而刺激彼此之間的交流。進一步了解[建立社群](https://go.microsoft.com/fwlink/p/?LinkId=271061)。
   
-## <a name="company-feed"></a>公司摘要
+## <a name="company-feed"></a>Company Feed
 <a name="bkmk_CompanyFeed"> </a>
 
 公司摘要是組織的公開新聞摘要。包括公司可看到的所有張貼內容，包括使用者可能不再跟進之人所建立的內容。進一步了解[公司摘要](https://go.microsoft.com/fwlink/p/?LinkId=271062)。
   
-## <a name="site-feed-classic-team-site-using-sharepoint-social"></a>網站摘要 （使用 SharePoint 社交傳統小組網站）
+## <a name="site-feed-classic-team-site-using-sharepoint-social"></a>網站摘要 （使用 SharePoint 社交傳統的小組網站）
 <a name="bkmk_SiteFeed"> </a>
 
 網站摘要與新聞摘要類似，是一個可在小組網站上張貼資料並且回覆其他張貼文章的地方。進一步了解[將內容張貼給一小群人](https://go.microsoft.com/fwlink/p/?LinkId=271071)。

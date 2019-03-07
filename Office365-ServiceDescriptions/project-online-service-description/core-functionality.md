@@ -1,7 +1,7 @@
 ---
 title: 核心功能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: Project Online 中可用的下列核心功能功能。
-ms.openlocfilehash: 12d754a9119afe3e8827cb33b1bcbba3ee8f4ebe
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 是 Project Online 中提供下列核心功能。
+ms.openlocfilehash: 79761c672fc36bc6758d30712715ba96f440c032
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035274"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467464"
 ---
 # <a name="core-functionality"></a>核心功能
 
-Project Online 中可用的下列核心功能功能。
+是 Project Online 中提供下列核心功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？請參閱 [Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
   
 ## <a name="add-columns"></a>新增欄
 <a name="bkmk_AddColumns"> </a>
@@ -34,7 +34,7 @@ Project Online 中可用的下列核心功能功能。
 ## <a name="backstage"></a>Backstage
 <a name="bkmk_Backstage"> </a>
 
-按一下 [的 Backstage，您可以在此管理您的專案檔案和其相關資料的使用功能的**檔案**。Backstage 用於您不要在檔案中的專案檔案所做的所有內容-建立、 儲存、 隱藏的中繼資料或個人資訊、 檢查及設定的選項。 
+Click **File** to use features in the Backstage, where you can manage your project files and the data about them. Use the Backstage for everything that you do to a project file that you don't do in the file—creating, saving, inspecting for hidden metadata or personal information, and setting options. 
   
 ## <a name="click-to-run"></a>隨選即用
 <a name="bkmk_ClicktoRun"> </a>
@@ -66,10 +66,10 @@ Project Online 中可用的下列核心功能功能。
 
 使用功能區提高生產力，功能區是可用來快速尋找並使用 Project 功能與控制項的索引標籤介面。[深入了解功能區](https://go.microsoft.com/fwlink/p/?LinkId=271325)。
   
-## <a name="multiple-level-undo"></a>多層復原
+## <a name="multiple-level-undo"></a>Multiple-level undo
 <a name="bkmk_Multiplelevelundo"> </a>
 
-您可以使用 [復原] 功能表，同時復原多項變更。 
+您可以使用 [復原] 功能表，一次復原多項變更。 
   
 ## <a name="network-diagram-view"></a>網狀圖檢視
 <a name="bkmk_Networkdiagramview"> </a>
@@ -91,7 +91,7 @@ Project Online 中可用的下列核心功能功能。
 
 將專案檔案儲存為 PDF 或 XPS 檔案。請參閱[將專案檔案儲存為 PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350)。
   
-## <a name="placeholder-text-in-project-fields"></a>Project 欄位中的預留位置文字
+## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 <a name="bkmk_PlaceholdertextinProjectFields"> </a>
 
 如果您不確定專案的所有詳細資料，則可以使用預留位置文字 (如針對資源、開始日期、結束日期等使用 "TBD")。如需詳細資訊，請參閱[由上而下的計劃](https://go.microsoft.com/fwlink/p/?LinkId=271333)。
@@ -111,7 +111,7 @@ Project 2013 顯示一站式中心用於開始專案，而不是提供空白專�
 
 任務或資源名稱換行，以便它們換到第二行。請參閱[變更列高以自動換行](https://go.microsoft.com/fwlink/p/?LinkId=271344)。
   
-## <a name="timeline-view"></a>時間表檢視
+## <a name="timeline-view"></a>Timeline view
 <a name="bkmk_TimelineView"> </a>
 
 建立和自訂時間表檢視，以視覺化排程詳細資料並與專案關係人通訊。請參閱[影片：建立時間表](https://go.microsoft.com/fwlink/?LinkId=402912)。

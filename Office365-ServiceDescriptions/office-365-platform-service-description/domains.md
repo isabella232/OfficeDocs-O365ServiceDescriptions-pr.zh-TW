@@ -1,7 +1,7 @@
 ---
 title: 網域
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/10/2017
 ms.audience: ITPro
@@ -14,22 +14,22 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
-description: 當您新增網域時，逐步精靈會協助您新增使用者並將您的 Office 365 電子郵件地址和其他服務轉換成企業名稱。當您完成精靈時，商業電子郵件會啟動傳入到 Office 365 而非移至目前的電子郵件供應商。若要深入了解，請參閱新增使用者和網域至 Office 365。如果您使用 Office 365 21Vianet 所運作，請參閱確認您的網域。
-ms.openlocfilehash: 15254355d2bb7aed01d7be8c8e56d455409a51a5
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: 新增網域時，逐步精靈可協助您新增使用者，並將您的 Office 365 電子郵件地址和其他服務轉換為公司名稱。 完成精靈後，您的商業電子郵件會開始進入 Office 365，而不是移至目前的電子郵件提供者。 若要深入了解，請參閱將您的使用者與網域新增至 Office 365。 如果使用 21Vianet 運作的 Office 365，請參閱驗證您的網域。
+ms.openlocfilehash: 1dc6d23afea52dd292d97b414e5b491d6d332dd7
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210236"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466370"
 ---
 # <a name="domains"></a>網域
 
-當您新增網域時，逐步精靈會協助您新增使用者並將您的 Office 365 電子郵件地址和其他服務轉換成企業名稱。當您完成精靈時，商業電子郵件會啟動傳入到 Office 365 而非移至目前的電子郵件供應商。若要深入了解，請參閱[新增使用者和 Office 365 的網域](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)。如果您使用 Office 365 21Vianet 所運作，請參閱[確認您的網域](http://go.microsoft.com/fwlink/?LinkID=733344&amp;clcid=0x409)。
+新增網域時，逐步精靈可協助您新增使用者，並將您的 Office 365 電子郵件地址和其他服務轉換為公司名稱。 完成精靈後，您的商業電子郵件會開始進入 Office 365，而不是移至目前的電子郵件提供者。 若要深入了解，請參閱[將您的使用者與網域新增至 Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)。 如果使用 21Vianet 運作的 Office 365，請參閱[驗證您的網域](http://go.microsoft.com/fwlink/?LinkID=733344&amp;clcid=0x409)。
   
 ## <a name="custom-domains"></a>自訂網域
 <a name="BKMK_CustomDomains"> </a>
 
-您可以將最多可達 900 個網域新增至您的 Office 365 訂閱。不過，您無法將網域新增至您已使用另一個 Microsoft 雲端服務中的 Office 365。這表示您不能將相同的網域新增至多個 Office 365 訂閱。如需詳細資訊，請參閱[網域常見問題集](https://support.office.com/en-us/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)。
+您最多可以新增 900 個網域到 Office 365 訂閱。 不過，您不能將已經在其他 Microsoft 雲端服務中使用的網域新增到 Office 365。 這表示您無法將相同的網域新增到多個 Office 365 訂閱。 如需詳細資訊，請參閱[網域的常見問題集](https://support.office.com/en-us/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)。
   
 ### <a name="second-and-third-level-domains"></a>第二層和第三層網域
 <a name="BKMK_SecondAndThirdLevelDomains"> </a>
@@ -47,14 +47,14 @@ ms.locfileid: "30210236"
   
 不論 DNS 記錄裝載在哪裡，您都可以設定 DNS 記錄，以使用您的網站做為裝載於 Office 365 上或位於其他主機服務提供者那邊之公用網站的 URL。 
   
-Office 365 主動檢查您的 DNS 記錄尋找及協助修正 DNS 問題。如果您的 DNS 記錄不符合我們預期它們是，將會收到通知在 Microsoft 365 系統管理中心，以及告訴您如何修正可能的問題被識別的資訊。
+Office 365 主動檢查您的 DNS 記錄以尋找和協助修正 DNS 問題。 如果您的 DNS 記錄不符合我們預期它們是，您會收到通知，在 Microsoft 365 系統管理中心，以及告訴您如何修正可能已識別的問題的資訊。
   
 如需詳細資訊，請參閱 [Office 365 如何管理 DNS 記錄](https://go.microsoft.com/fwlink/p/?LinkID=270144)；或對於 21Vianet 運作的 Office 365，請參閱[管理您的 DNS 記錄時建立 Office 365 的 DNS 記錄](http://go.microsoft.com/fwlink/?LinkID=817326&amp;clcid=0x409)。
   
 ## <a name="sharing-a-domain"></a>共用網域
 <a name="BKMK_ManagingDNSRecords"> </a>
 
-您可以使用在 Office 365 的網域部分電子郵件地址有些舊的電子郵件供應商試驗 Office 365。這是僅建議使用在 Office 365 試驗期間因為它需要其他設定步驟及有 for Office 365 服務限制。如需詳細資訊，請參閱：
+您可以讓某個網域有些電子郵件地址裝載於 Office 365，有些則裝載於先前的電子郵件提供者，來試驗 Office 365。 這是建議您只使用 Office 365 的試驗期間因為它需要額外的設定步驟，並具有 Office 365 服務會受到一些限制。 如需詳細資訊，請參閱：
   
 - [試驗 Office 365 小型企業版](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     

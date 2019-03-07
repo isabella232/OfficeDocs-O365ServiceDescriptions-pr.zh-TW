@@ -1,7 +1,7 @@
 ---
 title: 協力程式
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,14 +13,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 身為 Microsoft 授權合作夥伴，Microsoft Office 365 可提供機會讓您擴展客群，並與客戶建立長久的關係。您的客戶只要付月費或年費給您，就能夠使用雲端式服務，而不需要管理資料備份、伺服器硬體和伺服器更新。您可用的服務取決於您有權提供的服務類型。
-ms.openlocfilehash: de56f3f3f890c0015ae823bd78bc0185d065fe9c
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 5967b661ce698479cf618bad06ff3cf75a2f7d47
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035341"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467620"
 ---
-# <a name="partners"></a>合作夥伴
+# <a name="partners"></a>協力程式
 
 > [!NOTE]
 > 下列的夥伴功能尚無法在 21Vianet 運作的 Office 365 中使用。 
@@ -32,7 +32,7 @@ ms.locfileid: "24035341"
   
 ## <a name="create-trial-invitations-and-purchase-orders"></a>建立試用邀請和採購單
 
-您可以建立和傳送給您的客戶試用邀請讓他們可以嘗試在 Office 365 中使用**協力廠商概觀**] 頁面上的 Office 365。邀請中可以包含一或多個服務，根據產品項目。如果您正在認證提供委派的管理，您可以新增可讓您管理代表您的客戶帳戶試用邀請] 選項。這讓您試用 Office 365 的客戶更容易。 
+You can create and send trial invitations to your customers so they can try Office 365 by using the **Partner overview** page in Office 365. The invitation can contain one or more services, depending on the offer. If you're certified to offer delegated administration, you can add an option to the trial invitation that allows you to administer the account on behalf of your customer. This makes it easier for your customer to try Office 365. 
   
 在將 Office 365 的試用邀請寄給客戶之後，您可以採取後續步驟，建立和傳送符合客戶需求的購買優惠，其中包括客戶需要的特定服務和授權數目。如果您獲認證可以提供委派管理，就可以在購買優惠中加入選項，以便代表客戶管理帳戶。
   

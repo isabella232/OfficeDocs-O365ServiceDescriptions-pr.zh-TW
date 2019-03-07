@@ -1,7 +1,7 @@
 ---
 title: 產品組合管理
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -10,19 +10,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
-description: Project Online 中可用的下列產品組合管理功能。
-ms.openlocfilehash: c279338ee9ee2c6911e308cb3da65f4aa9f360c6
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 是 Project Online 中提供下列組合管理功能。
+ms.openlocfilehash: d6d2993906bdb05ba248108110f0cc44030926d2
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035338"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466620"
 ---
 # <a name="portfolio-management"></a>產品組合管理
 
-Project Online 中可用的下列產品組合管理功能。
+是 Project Online 中提供下列組合管理功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？請參閱 [Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>分析專案並最佳化組合
 <a name="bkmk_AnalyzeProjects"> </a>
@@ -54,7 +54,7 @@ Project Online 中可用的下列產品組合管理功能。
 
 有效識別、選取和交付最符合組織業務策略的專案公事包並最佳化投資回報率 (ROI)。若要深入了解，請參閱[專案公事包管理方案指南 (白皮書)](https://go.microsoft.com/fwlink/p/?LinkId=402633)。
   
-## <a name="program-management"></a>計劃管理
+## <a name="program-management"></a>程式管理
 <a name="bkmk_ProgramManagement"> </a>
 
 在計劃管理中，每個專案有一組專屬目標，當彼此結合時，可達成整體計劃的預期效益。若要深入了解，請參閱[專案公事包管理方案指南 (白皮書)](https://go.microsoft.com/fwlink/p/?LinkId=402633)。

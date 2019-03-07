@@ -1,7 +1,7 @@
 ---
 title: OneNote Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
-description: 使用 OneNote 的線上 (前身為 OneNote Web App) 可取得您可以從任何位置新增至並輕鬆地與其他人共用的 OneNote 筆記本中的線上備忘稿。所有的 Office 365 客戶可以檢視和限制性編輯 Office 檔案使用 Office Online。
-ms.openlocfilehash: 19725db54781c872d720767c1419f9b7529cb6df
-ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
+description: 使用 OneNote Online (先前稱為 OneNote Web App) 中，您可以從任何地方新增至此並輕鬆與他人共用 OneNote 筆記本記筆記線上。 所有 Office 365 客戶均可使用 Office Online 來檢視和局部編輯 Office 檔案。
+ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/29/2019
-ms.locfileid: "29612746"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467020"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
-使用 OneNote 的線上 (前身為 OneNote Web App) 可取得您可以從任何位置新增至並輕鬆地與其他人共用的 OneNote 筆記本中的線上備忘稿。所有的 Office 365 客戶可以檢視和限制性編輯 Office 檔案使用 Office Online。 
+使用 OneNote Online (先前稱為 OneNote Web App) 中，您可以從任何地方新增至此並輕鬆與他人共用 OneNote 筆記本記筆記線上。 所有 Office 365 客戶均可使用 Office Online 來檢視和局部編輯 Office 檔案。 
   
 ## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>進階的共同作業：將新內容顯示為未讀取、顯示狀態
 <a name="bkmk_AdvancedCollaboration"> </a>
@@ -46,7 +46,7 @@ OneNote Online 僅支援 Office 的內容增益集。內容增益集將網頁式
 
 不適用於 OneNote Online。透過 OneNote 桌面應用程式，您可以錄製音訊和視訊備註，並將其直接連結至錄製時所作的任何文字備註。OneNote Online 不會播放音訊和視訊內容，但媒體會保留在筆記本中，您可以將音訊和視訊檔案下載至電腦再行播放。 
   
-## <a name="bullets-and-numbering"></a>項目符號和編號
+## <a name="bullets-and-numbering"></a>項目符號及編號
 <a name="bkmk_BulletsNumbering"> </a>
 
 OneNote Online 提供 3 種項目符號樣式和 5 種編號樣式讓您選擇套用。使用 [增加縮排] 和 [減少縮排] 按鈕可變更筆記本和透過 OneNote Online 建立的筆記本中已設定項目符號和編號的現有條列層級。進一步了解[在瀏覽器中和 OneNote 桌面應用程式中使用筆記本的差異](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
@@ -91,7 +91,7 @@ Dropbox 是一個檔案主控服務，提供雲端儲存體、檔案同步作業
 
 不適用於 OneNote Online。透過 OneNote 桌面應用程式，您可以在會議、研討會或上課中記錄數學方程式，OneNote 會立即計算方程式結果。
   
-## <a name="hyperlinks"></a>超連結
+## <a name="hyperlinks"></a>Hyperlinks
 <a name="bkmk_hyperlinks"> </a>
 
 透過 OneNote Online，您可以插入網址的超連結或套用連結至選取的文字。您也可以用滑鼠右鍵按一下頁面索引標籤，以複製該頁面的直接連結。進一步了解[在瀏覽器中和 OneNote 桌面應用程式中使用筆記本的差異](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
@@ -116,7 +116,7 @@ Dropbox 是一個檔案主控服務，提供雲端儲存體、檔案同步作業
 
 OneNote Online 不提供將備註連結至檔案的功能，且會將檔案連結隱藏起來。不過，這些連結仍會保留在備註中，您可以使用 OneNote 桌面應用程式來開啟連結。 
   
-## <a name="navigation"></a>瀏覽
+## <a name="navigation"></a>導覽
 <a name="bkmk_navigation"> </a>
 
 透過 OneNote Online，您可以使用 [快速存取] 工具列上的 [上一頁] 和 [下一頁] 瀏覽器式按鈕，在頁面之間快速來回切換。
@@ -124,8 +124,8 @@ OneNote Online 不提供將備註連結至檔案的功能，且會將檔案連�
 ## <a name="notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups"></a>筆記本管理：跨章節/筆記本頁面歸檔、重新排序章節、建立/刪除章節群組
 <a name="bkmk_AdvancedNotebookManagement"> </a>
 
-使用 OneNote Online，您可以拖錄製頁面和章節。  
-進階管理功能，例如建立、 刪除和重新排序] 區段中的群組都只可以在 OneNote 桌面應用程式。
+透過 OneNote Online，您可以將拖放至重新排序頁面和章節。  
+進階管理功能，例如建立、 刪除和重新排序章節群組可僅 OneNote 桌面應用程式。
   
 ## <a name="offline-viewing-and-authoring"></a>離線檢視和撰寫
 <a name="bkmk_Offlineviewing"> </a>
@@ -137,7 +137,7 @@ OneNote Online 不提供將備註連結至檔案的功能，且會將檔案連�
 
 OneNote Online 不支援 Microsoft Outlook 命令 (例如：電子郵件頁面、Outlook 工作或會議詳細資料)。
   
-## <a name="paragraph-formatting"></a>段落格式化
+## <a name="paragraph-formatting"></a>段落格式設定
 <a name="bkmk_Paragraphformatting"> </a>
 
 透過 OneNote Online，您可以變更段落的對齊方式、從左邊界增加或減少縮排，或將文字方向從左變更至右。進一步了解[在瀏覽器中和 OneNote 桌面應用程式中使用筆記本的差異](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
@@ -147,7 +147,7 @@ OneNote Online 不支援 Microsoft Outlook 命令 (例如：電子郵件頁面�
 
 使用 OneNote Online，您可以從檔案或 Bing 圖像插入圖片。您也可以調整圖片大小，以及新增替代文字。如需進階的圖片功能 (例如：畫面裁剪、掃描的圖像或線上圖片)，請使用 OneNote 桌面應用程式。進一步了解[在瀏覽器中和 OneNote 桌面應用程式中使用筆記本的差異](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   
-## <a name="print"></a>列印
+## <a name="print"></a>Print
 <a name="BKMK_Print_OneNote"> </a>
 
 您可以列印 OneNote Online 中的記事。
@@ -182,12 +182,12 @@ OneNote Online 可顯示受資訊版權管理 (IRM) 保護的筆記本。但是�
 
 透過 OneNote Online，您可以關閉在某人編輯筆記本時顯示的作者標籤。這可以移除在頁面中新備註旁顯示的縮寫。作者標籤預設為開啟。
   
-## <a name="styles"></a>樣式
+## <a name="styles"></a>Styles
 <a name="bkmk_Styles"> </a>
 
 透過 OneNote Online，您可以輕鬆套用文字樣式以快速格式化。進一步了解[在瀏覽器中和 OneNote 桌面應用程式中使用筆記本的差異](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   
-## <a name="tables"></a>資料表
+## <a name="tables"></a>表格
 <a name="bkmk_Tables"> </a>
 
 透過 OneNote Online，您可以插入表格、編輯表格文字，以及輕鬆編輯基本的表格結構 (例如：新增或刪除列和欄)。如需進階的表格功能 (例如：將表格轉換為 Excel 試算表或儲存格網底、標題列，以及在表格儲存格中排序資料)，請使用 OneNote 桌面應用程式。進一步了解[在瀏覽器中和 OneNote 桌面應用程式中使用筆記本的差異](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
@@ -215,6 +215,6 @@ OneNote Online 可顯示受資訊版權管理 (IRM) 保護的筆記本。但是�
 ## <a name="feature-availability"></a>功能可用性
 <a name="bkmk_Viewpreviouspage"> </a>
 
-若要檢視 Office 365 計劃、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Office Online 服務說明](office-online-service-description.md)。
+若要檢視 Office 365 方案、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Office Online 服務說明](office-online-service-description.md)。
   
 

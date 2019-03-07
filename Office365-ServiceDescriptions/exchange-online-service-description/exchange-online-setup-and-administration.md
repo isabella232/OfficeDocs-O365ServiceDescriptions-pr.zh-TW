@@ -1,7 +1,7 @@
 ---
 title: Exchange Online 的安裝和管理
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: 本節說明管理控制項和可用來自訂 Exchange Online 的設定，並讓組織的 Exchange Online 環境保持向上、 執行，並且目前的支援。它包含自助系統管理工具和組織; 可用的功能的相關資訊Microsoft 管理責任及效能承諾;與服務和產品升級。
-ms.openlocfilehash: 6a7b7883292f84dcd38480c6065b8f64dafb3e25
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: 本節說明的管理控制和可自訂 Exchange Online 設定，並跟組織的 Exchange Online 環境，在執行，且目前的支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
+ms.openlocfilehash: 909806b0bd62b989081f36a8588cd813b1ee1717
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210196"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467800"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 的安裝和管理
 
-本節說明管理控制項和可用來自訂 Exchange Online 的設定，並讓組織的 Exchange Online 環境保持向上、 執行，並且目前的支援。它包含自助系統管理工具和組織; 可用的功能的相關資訊Microsoft 管理責任及效能承諾;與服務和產品升級。
+本節說明的管理控制和可自訂 Exchange Online 設定，並跟組織的 Exchange Online 環境，在執行，且目前的支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
   
 ## <a name="self-service-administration-tools"></a>自助系統管理工具
 
@@ -48,7 +48,7 @@ ms.locfileid: "30210196"
 ### <a name="microsoft-365-admin-center"></a>Microsoft 365 系統管理中心
 <a name="BKMK_Office365admincenterl"> </a>
 
-Microsoft 365 系統管理中心為每個公司的服務管理員可以來管理使用者帳戶的入口網站與訂閱每個要在 Office 365 服務的設定。從內 Microsoft 365 系統管理中心中，系統管理員可以遵循連結至 Exchange 系統管理中心 (EAC) 他們可以在此管理 Exchange online 特定設定。如需取得詳細資訊及執行使用 Microsoft 365 系統管理中心，請參閱下列影片：[介紹 Office 365 企業版](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
+在 Microsoft 365 系統管理中心是從中每個公司的服務管理員可以管理使用者帳戶的入口網站及訂閱的每個 Office 365 服務的設定。 從內 Microsoft 365 系統管理中心中，系統管理員可以遵循連結至 Exchange 系統管理中心 (EAC) 中，他們可以在其中管理 Exchange Online 專屬的設定。 如需有關取得及執行使用 Microsoft 365 系統管理中心，請參閱下列影片：[介紹 Office 365 企業版](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
   
 ### <a name="exchange-admin-center"></a>Exchange 系統管理中心
 <a name="BKMK_ExchangeAdministrationCenter"> </a>

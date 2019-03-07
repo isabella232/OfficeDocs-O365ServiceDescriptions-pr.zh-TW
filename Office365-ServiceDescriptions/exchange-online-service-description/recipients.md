@@ -1,7 +1,7 @@
 ---
 title: 收件者
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
-description: 本主題將說明 Microsoft Exchange Online 所包含的收件者相關功能。其中包括電子郵件、連絡人、通訊群組，以及行事曆與排程功能。
-ms.openlocfilehash: 32f792028f9e0d15b97048861ddc77ac59151b0f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 本主題說明包含與 Microsoft Exchange Online 的收件者相關功能。 其中包括電子郵件、連絡人、通訊群組，以及行事曆與排程功能。
+ms.openlocfilehash: 875cbfb171d12fe9d60379255308c3332cda43f5
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035285"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467410"
 ---
 # <a name="recipients"></a>收件者
 
-本主題將說明 Microsoft Exchange Online 所包含的收件者相關功能。其中包括電子郵件、連絡人、通訊群組，以及行事曆與排程功能。
+本主題說明包含與 Microsoft Exchange Online 的收件者相關功能。 其中包括電子郵件、連絡人、通訊群組，以及行事曆與排程功能。
   
 ## <a name="email"></a>電子郵件
 
@@ -37,7 +37,7 @@ ms.locfileid: "24035285"
   
 如需詳細資訊，請參閱[Exchange Online 限制](exchange-online-limits.md)主題中的＜信箱儲存限制＞和＜容量警示＞等小節。
   
-### <a name="mailtips"></a>寄件提醒
+### <a name="mailtips"></a>MailTips
 
 寄件提醒為自動化、具資訊內容的郵件，在使用者編寫或傳送郵件時，將出現在收件人：列的上方。專為協助預防意外傳遞、違反政策或不必要的未傳遞回報 (NDR) 而設計。舉例來說，寄件提醒可在寄件人嘗試傳送郵件給過大的群組、包含外部收件人的群組、或者遭仲裁或限制的通訊群組時產生警告。如需詳細資訊，請參閱[郵件提示](https://go.microsoft.com/fwlink/p/?LinkId=401472)。
   
@@ -136,7 +136,7 @@ Exchange Online 支援通訊清單和全域通訊清單的自訂功能；全域�
   
 - [建立及管理會議室信箱](http://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
     
-- [Manage Equipment Mailboxes](https://go.microsoft.com/fwlink/?LinkId=717534)
+- [管理設備信箱](https://go.microsoft.com/fwlink/?LinkId=717534) (機器翻譯)
     
 ### <a name="conference-room-management"></a>會議室管理
 

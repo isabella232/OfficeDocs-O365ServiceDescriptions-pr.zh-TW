@@ -1,7 +1,7 @@
 ---
 title: 說明和訓練
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,22 +12,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
-description: Microsoft Office 365 提供下列說明及訓練資源。
-ms.openlocfilehash: 4ea99142d70bec44a3c30875c22979c5f405fdd8
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: Microsoft Office 365 提供下列說明和訓練資源。
+ms.openlocfilehash: 295faf2dbaf866b3110beef2b547893d7248f52a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210286"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467080"
 ---
 # <a name="help-and-training"></a>說明和訓練
 
-Microsoft Office 365 提供下列說明及訓練資源。
+Microsoft Office 365 提供下列說明和訓練資源。
   
 ## <a name="online-help"></a>線上說明
 <a name="BKMK_Online_Help"> </a>
 
-說明文章及影片均可在任何內嵌說明中的連結的服務，包括 Office 365 入口網站和 Microsoft 365 系統管理中心的上方導覽列中的 [說明] 圖示。您也可以搜尋所有 Office 365 說明[http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)。 
+說明文章和影片可從任何內嵌說明中連結的服務，包括 Office 365 入口網站和 Microsoft 365 系統管理中心的上方導覽列中的 [說明] 圖示。 您也可以前往 [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) 搜尋所有 Office 365 說明。 
   
 ## <a name="training"></a>訓練
 <a name="BKMK_Online_Help"> </a>
@@ -123,33 +123,33 @@ Office 365 社群是提供自助支援資訊的單一目的地平台。社群透
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |阿拉伯文  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |保加利亞文  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|中文 (簡體)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可以  <br/> |
-|中文 (繁體)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可以  <br/> |
+|中文 (簡體)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|中文 (繁體)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |捷克文  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|丹麥文  <br/> |是  <br/> |Yes  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|荷蘭文  <br/> |是  <br/> |Yes  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|丹麥文  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|荷蘭文  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |愛沙尼亞文  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |芬蘭文  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|法文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可以  <br/> |
+|法文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |德文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |希臘文  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|匈牙利文  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |無  <br/> |
-|義大利文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可以  <br/> |
-|日文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可以  <br/> |
-|韓文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |有  <br/> |
+|匈牙利文  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|義大利文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|日文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|韓文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |拉脫維亞文  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |立陶宛文  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|挪威文  <br/> |是  <br/> |Yes  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|波蘭文  <br/> |是  <br/> |是  <br/> |Yes  <br/> |否   <br/> |是  <br/> |
+|挪威文  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|波蘭文  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |葡萄牙文  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|葡萄牙文 (巴西)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可以  <br/> |
+|葡萄牙文 (巴西)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |羅馬尼亞文  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|俄文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可以  <br/> |
+|俄文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |塞爾維亞文  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |斯洛伐克文  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |斯洛維尼亞文  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|西班牙文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |有  <br/> |
-|瑞典文  <br/> |是  <br/> |Yes  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|西班牙文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|瑞典文  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |泰文  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |土耳其文  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |烏克蘭文  <br/> |是  <br/> | 否  <br/> |否  <br/> |否  <br/> |否  <br/> |

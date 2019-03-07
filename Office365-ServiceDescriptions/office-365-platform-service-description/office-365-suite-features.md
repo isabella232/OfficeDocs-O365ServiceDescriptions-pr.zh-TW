@@ -1,7 +1,7 @@
 ---
 title: Office 365 套件功能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
-description: 本主題中所列的功能是一組 web 式工具可協助您進行共同作業和安全地跨越多種裝置與多個 Office 365 服務進行通訊。這些功能可協助讓組織內的新連線使用統一數位內容建立、 儲存及管理與社交工具探索和使用者之間共用資訊。
-ms.openlocfilehash: cdc7803a1373f5442e768dc5c8a6b26dff9d5ab8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 本主題中列出的功能是一群 web 式工具，可協助您進行共同作業並安全地跨多種裝置與多個 Office 365 服務進行通訊。 這些功能會協助在您的組織內進行新的連線，方法是整合數位內容建立、儲存及管理與用於在使用者之間探索及分享資訊的社交工具。
+ms.openlocfilehash: b595a0315beb72d5120c78b4df93b959b19a0efc
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035241"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466940"
 ---
 # <a name="office-365-suite-features"></a>Office 365 套件功能
 
-本主題中所列的功能是一組 web 式工具可協助您進行共同作業和安全地跨越多種裝置與多個 Office 365 服務進行通訊。這些功能可協助讓組織內的新連線使用統一數位內容建立、 儲存及管理與社交工具探索和使用者之間共用資訊。
+本主題中列出的功能是一群 web 式工具，可協助您進行共同作業並安全地跨多種裝置與多個 Office 365 服務進行通訊。 這些功能會協助在您的組織內進行新的連線，方法是整合數位內容建立、儲存及管理與用於在使用者之間探索及分享資訊的社交工具。
   
 ## <a name="microsoft-bookings"></a>Microsoft Bookings
 <a name="BKMK_Bookings"> </a>
@@ -39,12 +39,12 @@ Microsoft Flow 可讓您在多個應用程式間自動化工作流程。您可�
 ## <a name="microsoft-forms"></a>Microsoft 表單
 <a name="BKMK_Forms"> </a>
 
-Microsoft Forms 是可讓您快速又輕鬆地建立自訂的測驗、 問卷調查、 問卷、 註冊，及更多的 Office 365 教育版的新部分。當您建立測驗或表單時，您可以邀請其他人以回應甚至是在行動裝置上使用任何網頁瀏覽器。結果所送出，您可以使用內建分析用來評估回應。表單的資料，例如測驗結果可以輕鬆地匯出至 Excel 供進一步分析或評分。若要深入了解，請參閱[什麼是 Microsoft Forms？](https://support.office.com/en-us/forms)。
+Microsoft Forms 是 Office 365 教育版，可讓您快速且輕鬆地建立自訂測驗、 問卷、 問卷、 註冊，及多個新的一部分。 當您建立測驗或表單時，您可以邀請其他人使用任何網頁瀏覽器，甚至是行動裝置，來進行回應。 提交結果之後，您可以使用內建分析來評估回應。 表單資料，例如測驗結果，可以輕鬆地匯出至 Excel 進行其他分析或是評分。 若要深入了解，請參閱[什麼是 Microsoft Forms？](https://support.office.com/en-us/forms)。
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph API
 <a name="BKMK_Graph"> </a>
 
-使用 Microsoft Graph API 來快速建立連線至豐富的資源、 關聯性和智慧、 面對單一端點的應用程式： https://graph.microsoft.com。例如，您可以建立自訂的儀表板、 工作流程與擷取您的組織資料的應用程式。如需詳細資訊，請參閱[Microsoft Graph 文件](https://go.microsoft.com/fwlink/?linkid=849595)。
+若要快速建置連線至豐富的資源]、 [關係] 及 [智慧，面對單一端點的應用程式使用 Microsoft Graph API: https://graph.microsoft.com。 例如，您可以建立自訂的儀表板、 工作流程，並擷取您的組織資料的應用程式。 如需詳細資訊，請參閱[Microsoft Graph 文件](https://go.microsoft.com/fwlink/?linkid=849595)。
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 <a name="BKMK_MyAnalytics"> </a>
@@ -69,12 +69,12 @@ Microsoft StaffHub 是雲端式應用程式，可讓工作者和其管理者使�
 ## <a name="microsoft-stream"></a>Microsoft Stream
 <a name="BKMK_Stream"> </a>
 
-Microsoft 資料流是組織中的人員可用來將上傳、 檢視和安全地共用影片企業視訊服務。您可以共用類別、 會議、 簡報、 訓練課程、 或其他幫助您的小組共同作業的視訊的錄製。Microsoft 資料流也方便分享視訊和標記時間代碼中的註解和說明若要參照在一段影片中的特定點上的註解。
+Microsoft 資料流是您組織中的人員可用來上傳、 檢視及安全地共用影片企業視訊服務。 您可以共用類別、 會議、 簡報、 訓練課程、 或其他幫助您的小組共同作業的視訊的錄製。 Microsoft Stream 也可讓您輕易地共用視訊和標記時間代碼中的註解和描述來參照程序的影片中的特定資料點的註解。
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 <a name="BKMK_Sway"> </a>
 
-Microsoft Sway 是可協助您的商務專業數位 storytelling 應用程式與同事 express 使用互動式、 web 式畫布的想法。Microsoft Sway 內建的設計引擎可協助您產生 professional、 引人注目報告、 簡報及多不需要的大規模的格式設定] 或 [其他訓練。您也可以修改結果，以取得您想唯一外觀與風格。Microsoft Sway 讓您尋找在任何瀏覽器中任何在畫面上，更好的建立與可以同事及客戶一起中共用直接傳送連結。Microsoft Sway 可幫助您尋找並不會出現應用程式，因此您可以拖圖像、 文字、 影片及圖表上從右至您的畫布提取一起所有排序的內容。若要深入了解，請參閱[Sway](https://sway.com)。Microsoft Sway 尚未提供[Office 365](office-365-germany.md)德國。
+Microsoft Sway 是可協助您的商務專業數位 storytelling 應用程式與您的同事 express 使用互動、 web 式畫布的想法。 Microsoft Sway 的內建的設計引擎可協助您產生 professional、 引人注目報告、 簡報和更多不需進行大量格式或其他訓練。 您也可以修改結果，以取得您想要唯一外觀與風格。 Microsoft Sway 建立美觀任何瀏覽器在任何畫面上，在您建立，並且可以與同事和客戶中共用藉由直接傳送連結。 Microsoft Sway 可幫助您尋找和提取而不需要離開應用程式，因此您可以將拖放影像、 文字、 視訊及圖表右上您畫布上的所有類型的內容在一起。 若要深入了解，請參閱[Sway](https://sway.com)。 Microsoft Sway 尚未提供[Office 365 Germany](office-365-germany.md)中。
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 <a name="BKMK_Teams"> </a>
@@ -99,7 +99,7 @@ Office 365 影片是您可以在裝置上傳、共用與探索視訊的安全全
 ## <a name="onenote-class-notebook"></a>OneNote 課程筆記本
 <a name="BKMK_Video"> </a>
 
-類別筆記本屬於 OneNote 和適用於 Office 365 教育版與 Office 365 E5 教育。每個筆記本包含每個學生共用課程 （英文） 內容]、 [共同作業空格其中老師與學生可以運作，與 [私人筆記本老師內容庫。建立類別筆記本之後，老師與學生可以存取從任何裝置使用了 OneNote 應用程式。
+課程筆記本 」 是 OneNote 的一部分，且適用於 Office 365 教育版和 Office 365 教育版 E5。 每個筆記本包含用於共用課程內容，其中教師和學生可以合作，共同作業空間和私人筆記本的每個學生教師內容文件庫。 建立 「 課程筆記本 」 之後，讓老師和學生可以使用 OneNote 應用程式來存取從任何裝置。
   
 ## <a name="feature-availability"></a>功能可用性
 <a name="BKMK_Video"> </a>

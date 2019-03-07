@@ -1,7 +1,7 @@
 ---
 title: 報告和商業智慧
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
-description: 下列報表和商務智慧功能可用的 Project Online。
-ms.openlocfilehash: eee05d4f12af50e0df090cf21b8bc9f6c73ba7ad
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 下列報告和商業智慧功能可在 Project Online 中。
+ms.openlocfilehash: 37bad29131a8c18a312bfc1b7b784e07080c4203
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035328"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466480"
 ---
-# <a name="reporting-and-business-intelligence"></a>報告和商務智慧
+# <a name="reporting-and-business-intelligence"></a>報告和商業智慧
 
-下列報表和商務智慧功能可用的 Project Online。
+下列報告和商業智慧功能可在 Project Online 中。
   
 ## <a name="odata-feeds"></a>OData 摘要
 <a name="bkmk_ODataFeeds"> </a>
@@ -30,7 +30,7 @@ OData 摘要可啟用 REST 查詢以及各種不同的 OData 用戶端程式庫�
 ## <a name="out-of-the-box-portfolio-dashboards"></a>現成可用的組合儀表板
 <a name="bkmk_OutOfTheBoxPortfolioDashboards"> </a>
 
-多樣且現成可用的報告的設計用來為立即適用於許多客戶與 web 應用程式也可讓您產品組合儀表板以幫助您滿足組織的特定需求的自訂。選擇 [從各種專案、 任務及資源為基礎的報表，包括問題/風險/可交付項目報告，以及數個的篩選選項，包括自訂欄位的篩選。報告可以使用少數點閱來自訂不會出現應用程式。 
+豐富且現成可用的報告經過設計，可讓許多客戶立即使用，而 Web 應用程式也可針對組合儀表板進行自訂，有助於滿足組織的特定需求。 有各種專案、任務和以資源為基礎的報表可供選擇，包括問題/風險/成果報告，以及數個篩選選項 (包括按自訂欄位篩選)。 只要按幾下滑鼠便可自訂報表，而不需要離開應用程式。 
   
 ## <a name="project-desktop-reporting"></a>Project 桌面報告
 <a name="bkmk_ProjectDesktopReporting"> </a>

@@ -1,7 +1,7 @@
 ---
 title: Yammer 中的訊息與交談
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
-description: Yammer 中提供下列郵件和對話功能。
-ms.openlocfilehash: 3578b282cd25d45963b645552aa3fcf473e01aff
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 是 Yammer 中提供下列郵件和對話功能。
+ms.openlocfilehash: eaf713948a36579ef75f48fb42f47f3175395c71
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035276"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468160"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer 中的訊息與交談
 
-Yammer 中提供下列郵件和對話功能。
+是 Yammer 中提供下列郵件和對話功能。
   
-## <a name="publisher"></a>發行者
+## <a name="publisher"></a>Publisher
 <a name="bkmk_Publisher"> </a>
 
 使用發行者來分享更新、新增文件、舉行投票、稱讚某人或發表活動訊息。
@@ -34,22 +34,22 @@ Yammer 中提供下列郵件和對話功能。
 
 通知其他同事，並透過 @提及 他們的姓名讓他們加入對話。
   
-## <a name="online-now"></a>目前上線
+## <a name="online-now"></a>Online Now
 <a name="bkmk_OnlineNow"> </a>
 
 查看上線人員，並立即與一或多位同事展開私人討論。連絡人清單會自動依據您最常互動的人員順序進行排序。
   
-## <a name="private-messages"></a>私人郵件
+## <a name="private-messages"></a>Private Messages
 <a name="bkmk_PrivateMessages"> </a>
 
 與一或多位同事展開私人對話。您可以隨時增加多位參與者。
   
-## <a name="share-conversations"></a>分享對話
+## <a name="share-conversations"></a>Share Conversations
 <a name="bkmk_ShareConversations"> </a>
 
 在另一個群組的摘要中或透過私人郵件分享對話，以轉送資訊和重要訊息。
   
-## <a name="office-online-support"></a>Office Online 支援
+## <a name="office-online-support"></a>Office Online support
 <a name="bkmk_ShareConversations"> </a>
 
 有了 Yammer 中的 Office Online 支援，就可以使用 Office Online，直接在 Yammer 中檢視與編輯上傳至 Yammer 的文件。使用 Office Online 能將文件漂亮地轉譯、由不同使用者共同撰寫文件，並在瀏覽器中顯示相關的 Yammer 交談。

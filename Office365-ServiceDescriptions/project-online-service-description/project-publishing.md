@@ -1,7 +1,7 @@
 ---
 title: 專案發佈
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
-description: 下列 SharePoint 和 Skype 的商務互通性功能可用的 Project Online。
-ms.openlocfilehash: e4f0fc82274d0c8ed4c2752e5080f2e0f3ea26f9
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 下列的 SharePoint 與 Skype for Business 互通性功能可在 Project Online 中。
+ms.openlocfilehash: 26794c9f3564fef01443350b035b04498aacc622
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035252"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466910"
 ---
 # <a name="project-publishing"></a>專案發佈
 
-下列 SharePoint 和 Skype 的商務互通性功能可用的 Project Online。
+下列的 SharePoint 與 Skype for Business 互通性功能可在 Project Online 中。
   
-尋找所有 Project Online 功能的相關資訊嗎？請參閱 [Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
   
 ## <a name="create-a-project-site"></a>建立專案網站
 <a name="bkmk_CreateProjectsite"> </a>

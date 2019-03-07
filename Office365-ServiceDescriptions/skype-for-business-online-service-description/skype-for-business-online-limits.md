@@ -1,7 +1,7 @@
 ---
 title: 商務用 Skype Online 限制
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: Skype 商務 online 中的限制屬於下列類別：
-ms.openlocfilehash: 85d1d9ec41f9ae39c85beac69e85c740acf2bcfe
-ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
+description: Skype 商務 Online 中的限制可分為下列類別：
+ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2018
-ms.locfileid: "27213890"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466960"
 ---
 # <a name="skype-for-business-online-limits"></a>商務用 Skype Online 限制
 
-Skype 商務 online 中的限制屬於下列類別：
+Skype 商務 Online 中的限制可分為下列類別：
   
 - [對等限制](skype-for-business-online-limits.md#peer-to-peer-limits)
     
@@ -54,7 +54,7 @@ Skype 商務 online 中的限制屬於下列類別：
 |開啟的分頁交談限制  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |不適用  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>用戶端可以啟動聊天室與最多 99 使用者手動將它們新增或傳送立即訊息中的群組或通訊群組清單的快顯功能表。如需商務 online Skype 在立即訊息的詳細資訊，請參閱[傳送 IM Skype for Business 中](https://go.microsoft.com/fwlink/?linkid=533412)。 
+> <sup>1</sup>用戶端可以啟動聊天與最多 99 使用者以手動方式新增他們，或傳送立即訊息從群組或通訊群組清單的快顯功能表。 如需商務用 Skype 在立即訊息的詳細資訊，請參閱[傳送 IM skype for Business](https://go.microsoft.com/fwlink/?linkid=533412)。 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>不同獨立選項的對等限制
 
@@ -66,7 +66,7 @@ Skype 商務 online 中的限制屬於下列類別：
 |開啟的分頁交談限制  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>用戶端可以啟動聊天室與最多 99 使用者手動將它們新增或傳送立即訊息中的群組或通訊群組清單的快顯功能表。如需商務 online Skype 在立即訊息的詳細資訊，請參閱[傳送 IM Skype for Business 中](https://go.microsoft.com/fwlink/?linkid=533412)。 
+> <sup>1</sup>用戶端可以啟動聊天與最多 99 使用者以手動方式新增他們，或傳送立即訊息從群組或通訊群組清單的快顯功能表。 如需商務用 Skype 在立即訊息的詳細資訊，請參閱[傳送 IM skype for Business](https://go.microsoft.com/fwlink/?linkid=533412)。 
   
 ## <a name="meeting-limits"></a>會議限制
 <a name="bkmk_Meeting_LyncOnlineLimits"> </a>
@@ -119,7 +119,7 @@ Skype 商務 online 中的限制屬於下列類別：
     
 - **會議到期期間**：會議結束之後，使用者可以存取會議的時間量。 
     
-### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>不同 Office 365 選項和獨立計劃的會議保留限制
+### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>跨 Office 365 選項和獨立計劃會議保留限制
 
 > [!NOTE]
 > 每個人員在資料庫中隨時最多可有 1000 個會議。 
@@ -127,10 +127,10 @@ Skype 商務 online 中的限制屬於下列類別：
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**會議類型** <br/> |**描述** <br/> 
-|一次性會議| 會議都可存取至少之前排定的時間，或上一次會議啟用，或上一次會議更新後的 14 天，準是最新。
-|具有結束日期的週期性會議| 會議都可存取至少之前的最後一個會議或上一次會議啟用，或上一次會議更新之排定的結束時間後的 14 天，準是最新。
-|沒有結束日期的週期性會議| 會議會一律可以存取，提供有新的會議 join （啟用） 或排程至少一次每年的更新
-|     [立即開會]|會議都可存取至少 8 小時。
+|一次性會議| 會議才會存取，至少有排定的時間，或上次會議啟用，或上次會議更新後的 14 天，無論是最新。
+|具有結束日期的週期性會議| 會議才會存取最少的最後一個的會議項目，或上次會議啟用，或上次會議更新之排定的結束時間後的 14 天，無論是最新。
+|沒有結束日期的週期性會議| 會議所提供有新的會議聯結 （啟用），或至少一次每年更新排程，就能存取
+|[立即開會]|至少 8 小時會存取會議。
 
 
   

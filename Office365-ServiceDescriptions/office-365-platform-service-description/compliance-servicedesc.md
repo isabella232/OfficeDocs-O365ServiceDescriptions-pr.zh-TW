@@ -1,7 +1,7 @@
 ---
-title: Compliance[ServiceDesc]
-ms.author: pebaum
-author: pebaum
+title: 合規性 [ServiceDesc]
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,15 +14,15 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
-description: Microsoft Office 365 遵守產業標準規定，和專門設計來協助您達成對於企業的法規需求。如需詳細資訊，請參閱規範方案。
-ms.openlocfilehash: 5c88a6b52988893b60a46775a0043d7bd2b7a2ab
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Office 365 符合產業標準與法規，和設計來協助您符合貴企業的法規需求。 如需詳細資訊，請參閱 < 合規性供應項目。
+ms.openlocfilehash: 46c444003a927227905fc8fef338d256cba92add
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035264"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466880"
 ---
-# <a name="complianceservicedesc"></a>符合性 [ServiceDesc]
+# <a name="complianceservicedesc"></a>合規性 [ServiceDesc]
 
 > [!NOTE]
 > 這份文件中的資訊適用於全球版 Office 365。如果您使用 Office 365 的國家/地區雲端執行個體，包括 Office 365 美國。由 21Vianet 運作的政府版、Office 365 Germany 和 Office 365，請參閱 [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582)。 
@@ -30,17 +30,17 @@ ms.locfileid: "24035264"
 > [!NOTE]
 > 協力廠商功能的可用性會依地區而有所不同。 
   
-Microsoft Office 365 遵守產業標準規定，和專門設計來協助您達成對於企業的法規需求。如需詳細資訊，請參閱[規範方案](https://go.microsoft.com/fwlink/?linkid=864391)。
+Microsoft Office 365 符合產業標準與法規，和設計來協助您符合貴企業的法規需求。 如需詳細資訊，請參閱 <<c0>合規性供應項目。
   
 ## <a name="industry-certifications"></a>產業認證
 
-Office 365 遵守或可協助組織符合使用政府最全方位的一組可協助組織符合管理集合及使用個人資料的國際、 區域和產業特定需求，或第三方需求、 認證及任何雲端服務提供者的 attestations：
+若要協助組織符合國家、 區域和產業特定的收集與使用個人的資料控管自己的需求，Office 365 遵守或可協助組織遵守最全面性的政府或協力廠商需求、 認證，以及 attestations 任何雲端服務提供者：
   
 - 阿根廷 PDPA
     
 - CSA CCM
     
-- CS 標記 （金色）
+- CS 標記 （黃金）
     
 - DISA
     
@@ -48,7 +48,7 @@ Office 365 遵守或可協助組織符合使用政府最全方位的一組可協
     
 - 歐盟示範條款
     
-- FDA 21 CFR 11 部分
+- FDA 21 CFR 組件 11
     
 - FedRAMP
     
@@ -64,7 +64,7 @@ Office 365 遵守或可協助組織符合使用政府最全方位的一組可協
     
 - HIPAA/HITECH
     
-- CCSL (IRAP)
+- CCSL （次）
     
 - ISO/IEC 27001
     
@@ -78,37 +78,37 @@ Office 365 遵守或可協助組織符合使用政府最全方位的一組可協
     
 - 508 / VPATs
     
-- 共用的評估
+- 共用的 「 評估 」
     
 - SOC 1
     
 - SOC 2
     
-- ENS 西班牙
+- 西班牙 ENS
     
 - 英國 G 雲端
     
-- PCI DSS 最高等級
+- PCI DSS 等級一
     
-您可以在 Office 365 規範的詳細資訊和稽核報告服務信任入口網站中。
+您可以尋找在 Office 365 合規性的詳細資訊和稽核服務信任入口網站中的報告。
   
-此外，請注意下列問題的 PCI DSS：
+此外，請注意下列問題的 PCI DSS:
   
-- **我的組織可以使用 Office 365 及仍能 PCI DSS 相容吗？**
+- **我的組織可以使用 Office 365 和仍是 PCI DSS 相容？**
     
-  - 付款卡片產業資料安全標準 (PCI DSS) 是通用設計用來防止透過信用卡資料的增加控制詐騙資訊安全標準。PCI DSS 已寫入所建立的一組處理信用卡和金融卡任何組織的安全性標準 PCI 安全標準 （英文） 會議。
+  - 支付卡產業資料安全標準 (PCI DSS) 是通用的設計用來防止詐騙透過增加控制項的信用卡資料的資訊安全性標準。 PCI DSS 所編寫的 PCI 安全標準會議，建立一組用於處理信用卡和轉帳卡任何組織的安全性標準。
     
-  - 客戶可以使用信用卡順序並因為透過客戶可以購買訂閱至 Office 365 商務系統已達到 PCI DSS 層級 1 規範與信賴工資 for Office 365 服務。獨立的協力廠商稽核者決定 Microsoft Online Commerce 平台 (OCP) critical 具有符合 PCI DSS 1.2 版。清楚下方，組織可以使用 Office 365 服務協助他們遵守 PCI DSS 需求。
+  - 客戶可以放心使用信用卡至順序和 Office 365 服務使用支付信賴因為商務系統透過其客戶可以購買 Office 365 的訂閱已達成 PCI DSS 層級 1 合規性。 獨立第三方稽核者決定的 Microsoft Online Commerce Platform (OCP) 符合 PCI-DSS 1.2 版。 如以下所述，組織可以使用 Office 365 服務，以協助他們符合 PCI DSS 需求。
     
-- **Office 365 能如何協助我的組織具有 PCI DSS？**
+- **Office 365 如何協助我的組織具有 PCI DSS？**
     
-  - Office 365 提供安全的平台的通訊及共同作業的客戶。Microsoft 安全地運作服務，並提供一組豐富的遵循與安全性功能可用來保護您在整個生命週期中的資料。[資料遺失防護 (DLP)](https://go.microsoft.com/fwlink/?linkid=868520)、[進階資料控管](https://go.microsoft.com/fwlink/?linkid=863925)、 [Azure 資訊保護 (AIP)](https://go.microsoft.com/fwlink/?linkid=868521)等功能，您可以開啟自動偵測並時資料，像是信用卡號，SWIFT 標籤機密內容的原則程式碼、 ABA 路由號碼等已存在。您可以找到我們內建的敏感資訊類型清單[以下](https://go.microsoft.com/fwlink/?linkid=868522)而您也可以遵循指示[此處](https://go.microsoft.com/fwlink/?linkid=868523)以建立您自己的敏感資訊類型。具有適當的原則套用的客戶，組織自動的一段時間保留資料並防止使用者共用機密資料來保護其內容。如果客戶需要與組織內外的任何人共用機密資料透過電子郵件，客戶可以套用與[Office 365 郵件加密](https://go.microsoft.com/fwlink/?linkid=858986)的加密和權限保護僅授權的方可以讀取受保護的郵件。 
+  - Office 365 提供安全的平台的通訊和共同作業的客戶。 Microsoft 安全地運作該服務，並提供您一組豐富的遵循與安全性功能，可用來保護您的資料在其生命週期。 [資料外洩防護 (DLP)](https://go.microsoft.com/fwlink/?linkid=868520)、[進階資料控管](https://go.microsoft.com/fwlink/?linkid=863925)、 [Azure 資訊保護 (AIP)](https://go.microsoft.com/fwlink/?linkid=868521)等功能，您可以開啟原則，以自動偵測並時資料像是信用卡號碼、 SWIFT 標示敏感內容程式碼，阿拉巴馬州銀行號碼等路由會出現。 您可以找到我們內建的敏感資訊類型的清單在[這裡](https://go.microsoft.com/fwlink/?linkid=868522)，而且您也可以遵循指示[這裡](https://go.microsoft.com/fwlink/?linkid=868523)建立您自己的敏感資訊類型。 由客戶套用適當的原則，組織可以自動保留一段時間的資料與來防止使用者共用機密資料保護其內容。 如果客戶需要與組織內外的任何人共用機密資料透過電子郵件，客戶可以套用加密和權限保護[Office 365 郵件加密](https://go.microsoft.com/fwlink/?linkid=858986)，因此只有授權的合作對象可以讀取受保護的郵件。 
     
 - **Gramm-Leach-Bliley Act 金融服務業現代化法案 (GLB)** GLB 針對美國金融機構制訂了最低的安全性和隱私規定。軟體或服務無法宣稱「符合 GLB 規範」，是因為符合 GLB 規範的條件還包括程序和原則。GLB 影響 Office 365 服務的兩大條例為： 
     
   - **金融隱私規定** 此條例規範金融機構對於客戶個人財務資訊的收集與披露。 
     
-  - **保護措施規則**此規則需要設計、 實作及維護其本身收集這類資訊或收到來自其他金融機構保護客戶資訊的保護措施所有金融機構 
+  - **保護規則**此規則必須設計、 實作和維護安全保護機制來保護客戶資訊，不論他們自行收集這類資訊或接收來自其他金融機構所有金融機構 
     
 ## <a name="feature-availability"></a>功能可用性
 

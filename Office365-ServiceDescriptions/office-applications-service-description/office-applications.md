@@ -1,7 +1,7 @@
 ---
 title: Office 應用程式
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office 是一套強大的服務產品，能協助您想出最棒的點子、完成工作並在行動間保持聯繫。只要登入以使用個人化體驗，所有最新的 Office 應用程式，以及新的增強功能都將持續加入。
-ms.openlocfilehash: 01f5613e53e9fbb66853febd4e61c6ff94c10b05
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 8dfdf4a28fde1d509a96af910b137698e371f713
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035271"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467690"
 ---
 # <a name="office-applications"></a>Office 應用程式
 
@@ -71,7 +71,7 @@ Microsoft Access 是適用於 Windows 作業系統的資料庫管理解決方案
 
 Microsoft InfoPath 是一個允許您設計、散佈、完成與提交電子表格的程式。您可以選擇將 InfoPath 表單網頁組件加入 SharePoint Online 網站。深入瞭解 [InfoPath 表單網頁組件](http://go.microsoft.com/fwlink/p/?LinkId=271687)。
   
-## <a name="windows-8-apps"></a>Windows 8 應用程式
+## <a name="windows-8-apps"></a>Windows 8 Apps
 <a name="bkmkWin8Apps"> </a>
 
 某些 Office 應用程式 (如 Excel 和 Word) 在預設情況下，均含被釘選到 Windows 8 與 Windows RT 裝置 [開始] 畫面的標題。深入瞭解有關[在 Windows 8 或 Windows 8 RT 中尋找並啟動 Office 應用程式](http://go.microsoft.com/fwlink/p/?LinkId=271688)。
@@ -94,14 +94,14 @@ Office Mobile for Android 包括 Word for Android、Excel for Android 和 PowerP
   
 - [適用於 Android 手機的 Office Mobile](https://support.office.com/en-us/article/Office-Mobile-for-Android-phones-ee598133-59d1-43c3-b47c-aac3f2d9a605?ui=en-US&amp;rs=en-US&amp;ad=US)
     
-## <a name="office-mobile-for-windows-phone"></a>適用於 Windows Phone 手機的 Office Mobile
+## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 <a name="BKMK_Office_for_WindowsPhone"> </a>
 
 Office Mobile for Windows Phone 包括 Word for Windows Phone、Excel for Windows Phone 和 PowerPoint for Windows Phone。這些應用程式可供免費下載，而且具有適用的 Office 365 計劃，您可在 Windows Phone 上建立和編輯文件。若要了解 Office Mobile for Windows Phone 與其桌面對等項目的比較，請參閱：
   
 - [Office Mobile for Windows Phone](https://support.office.com/en-us/article/Office-Mobile-for-Windows-Phone-011b83c4-0d5f-4ea8-bbbe-2ed0d76dc69c?ui=en-US&amp;rs=en-US&amp;ad=US)
     
-## <a name="office-mobile-for-windows-10-tablets"></a>Office Mobile for Windows 10 平板電腦
+## <a name="office-mobile-for-windows-10-tablets"></a>Office Mobile for Windows 10 tablets
 <a name="BKMK_Office_for_WindowsPhone"> </a>
 
 Office Mobile for Windows 10 平板電腦包含 Word Mobile、Excel Mobile 和 PowerPoint Mobile。這些應用程式可在 Windows 市集免費下載。深入了解 [Windows 10 的 Office Mobile 應用程式](https://blogs.office.com/2015/07/29/office-mobile-apps-for-windows-10-are-here/)。

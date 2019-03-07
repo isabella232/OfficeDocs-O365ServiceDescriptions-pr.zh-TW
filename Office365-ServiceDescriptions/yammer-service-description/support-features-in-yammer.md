@@ -1,7 +1,7 @@
 ---
 title: Yammer 中的支援功能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Yammer 中提供下列支援功能。
-ms.openlocfilehash: 95a9710d701f329819cd4265695849bfece97a75
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7711f11c03c4c7275a120513f1f4936a07825b7d
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035278"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467370"
 ---
 # <a name="support-features-in-yammer"></a>Yammer 中的支援功能
 
@@ -30,14 +30,14 @@ Yammer 中提供下列支援功能。
 ## <a name="fasttrack-center"></a>FastTrack Center
 <a name="bkmk_FastTrackCenter"> </a>
 
-Microsoft FastTrack 服務可協助組織所提供的說明在每個步驟隨時將移至 Microsoft Cloud。FastTrack 可讓您策略性地規劃部署、 快速會增加新服務及內建的新使用者。如需詳細資訊，請造訪[FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)。如需建立 Yammer 網路，包括前啟動、 啟動和支援文件和活動資訊移至[構想： 識別案例](https://fasttrack.microsoft.com/office/envision/identify-scenarios)頁面，然後再按一下 [**結合您的組織**。
+Microsoft FastTrack 服務可以藉由在後續每一個步驟中提供說明，協助您的組織移轉至 Microsoft Cloud。 FastTrack 可讓您策略性計劃發行、快速增加新的服務並上架新的使用者。 如需詳細資訊，請造訪 [FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)。 如需建立您的 Yammer 網路，包括預先啟動、 啟動和支援文件和活動，請移至[展望： 識別案例](https://fasttrack.microsoft.com/office/envision/identify-scenarios)頁面，然後再按一下 [**您的組織在一起**。
   
 ## <a name="customer-support"></a>客戶支援
 <a name="BKMK_Customersupport"> </a>
 
 我們有技術支援人員可以快速回答客戶問題及解決問題。Yammer 客戶可以在公開的支援論壇貼文，然後就會有在該論壇每天 24 小時、每週 7 天的值班支援專員為其提供支援。如果您是需要支援的 Yammer 客戶，請參閱＜[Yammer 公用支援](https://go.microsoft.com/fwlink/p/?LinkId=330921)＞。
   
-## <a name="administrator-support"></a>系統管理員支援
+## <a name="administrator-support"></a>Administrator support
 <a name="BKMK_Administratorsupport"> </a>
 
 Yammer Enterprise 系統管理員負責維護帳戶，並且有權直接與 Microsoft 支援小組通訊。如果您是需要支援的 Yammer Enterprise 系統管理員，請參閱＜[Microsoft 支援](https://go.microsoft.com/fwlink/p/?LinkId=330922)＞。
@@ -56,7 +56,7 @@ Yammer Enterprise 系統管理員負責維護帳戶，並且有權直接與 Micr
 ## <a name="technical-support-initial-response-times"></a>技術支援的初始回應時間
 <a name="BKMK_Administratorsupport"> </a>
 
-初始回應時間取決於上述的嚴重性層級及 Yammer 訂閱的類型。下表中顯示目標回應時間。
+一開始的回應時間是依上述的嚴重層級和 Yammer 訂閱的類型而定。 下表顯示了目標回應時間。
   
 |**嚴重層級**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

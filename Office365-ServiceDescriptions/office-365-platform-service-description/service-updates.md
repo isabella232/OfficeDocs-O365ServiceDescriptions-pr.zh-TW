@@ -1,7 +1,7 @@
 ---
 title: 服務更新
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 若要了解剛剛發行或即將發行的 Office 365 功能，請參閱 Office 365 導覽圖。
-ms.openlocfilehash: e0f679a3e3b272dca90f4a416b9b232af9221a86
-ms.sourcegitcommit: 9c751127339ea6a50184daa34f7da18e13361d52
+ms.openlocfilehash: b2ba1896f3c1acd616c62a82e7a8a1f25744d26f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29966217"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467760"
 ---
 # <a name="service-updates"></a>服務更新
 
@@ -28,11 +28,11 @@ ms.locfileid: "29966217"
 若要了解剛剛發行或即將發行的 Office 365 功能，請參閱 [Office 365 導覽圖](https://go.microsoft.com/fwlink/?LinkId=509914)。
   
 > [!NOTE]
-> 更新及升級所導許多因素，例如地理位置、 語言、 資料中心，以及訂閱為基礎的客戶。這表示不是所有的更新會立即供現有的客戶。 
+> 根據眾多因素，例如地理位置、 語言、 資料中心和訂閱的客戶，會將更新及升級導入。 這表示現有客戶無法立即取得所有更新 。 
   
 ## <a name="targeted-release"></a>已設定目標發行
 
-Targeted 版本與您的組織或一組使用者會收到一組選定的服務更新約一週我們開始板 standard 版本程序之前。若要深入了解，請參閱[Office 365 釋出程式]](https://go.microsoft.com/fwlink/p/?LinkId=509823)。 
+與已設定目標發行，您的組織或一群使用者會收到一組選定的服務更新大約標準發行程序開始前一週。 若要深入了解，請參閱 [Office 365 發行方案](https://go.microsoft.com/fwlink/p/?LinkId=509823)。 
   
 ## <a name="update-notifications"></a>更新通知
 

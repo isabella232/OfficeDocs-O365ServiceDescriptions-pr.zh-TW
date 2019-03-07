@@ -1,7 +1,7 @@
 ---
 title: 郵件流程
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
-description: '對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。不過，某些組織需要更複雜的郵件流程設定，以確保它們遵守特定法規或業務需求。您可以在此找到這些選項。 '
-ms.openlocfilehash: 3decc04fb4c426e161541c1d24480cc0344b0a00
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。 這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。 不過，某些組織需要更複雜的郵件流程設定，以確保它們遵守特定法規或業務需求。 您可以在此找到這些選項。
+ms.openlocfilehash: e5b56712a3c88c91b943d681f927cea480776839
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035337"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467290"
 ---
 # <a name="mail-flow"></a>郵件流程
 
-對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。不過，某些組織需要更複雜的郵件流程設定，以確保它們遵守特定法規或業務需求。您可以在此找到這些選項。  
+對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。 這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。 不過，某些組織需要更複雜的郵件流程設定，以確保它們遵守特定法規或業務需求。 您可以在此找到這些選項。 
   
 ## <a name="custom-routing-of-outbound-email"></a>自訂輸出電子郵件的路由傳送
 

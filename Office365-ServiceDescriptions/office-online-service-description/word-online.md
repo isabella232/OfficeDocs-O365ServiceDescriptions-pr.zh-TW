@@ -1,7 +1,7 @@
 ---
 title: Word Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: Word Online (先前稱為 Word Web App) 您 Microsoft 將 Word 功能延伸至網頁瀏覽器，讓您可以使用文件直接在儲存文件的網站上。
-ms.openlocfilehash: fabe2049a8b35666a6bb608c3198ac68473ffca2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Word Online (先前稱為 Word Web App) 延伸至網頁瀏覽器中，您的 Microsoft Word 使用經驗，其中您可以使用文件儲存文件的網站上直接。
+ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035293"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467300"
 ---
 # <a name="word-online"></a>Word Online
 
-Word Online (先前稱為 Word Web App) 您 Microsoft 將 Word 功能延伸至網頁瀏覽器，讓您可以使用文件直接在儲存文件的網站上。 
+Word Online (先前稱為 Word Web App) 延伸至網頁瀏覽器中，您的 Microsoft Word 使用經驗，其中您可以使用文件儲存文件的網站上直接。 
   
 ## <a name="alignment-guides-and-live-layout"></a>對齊方式指南和即時配置
 <a name="bkmk_AlignmentGuidesLivelayout"> </a>
@@ -56,7 +56,7 @@ Word Online 會在您進行變更時自動儲存文件。
 
 不適用於 Word Online。僅 Word 桌面應用程式提供進階的設計功能 (例如：從 Office.com 中的各式專業設計範本選擇中挑選其一套用至文件)。但是，Office 365 客戶可以設定文件庫，在使用者建立新文件時啟動自訂範本。若要深入了解，請參閱＜[新增內容類型至清單或文件庫](https://go.microsoft.com/fwlink/p/?LinkId=391446)＞。
   
-## <a name="bullets-and-numbering"></a>項目符號和編號
+## <a name="bullets-and-numbering"></a>項目符號及編號
 <a name="bkmk_BulletsNumbering"> </a>
 
 Word Online 提供 3 種項目符號樣式和 5 種編號樣式讓您選擇套用。按一下 [增加縮排] 和 [減少縮排] 按鈕，以變更文件和透過 Word 桌面應用程式建立的文件中已設定項目符號和編號的現有條列層級。進一步了解[在瀏覽器中和 Word 中使用文件的差異](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
@@ -146,7 +146,7 @@ Microsoft Word 包含撰寫和編輯方程式的內建支援，以及可以置�
 
 在 Word Online 與 Word 桌面應用程式中，都可以在文件中插入頁首和頁尾。您也可以對文件第一頁以外的所有頁面套用頁首和頁尾。若要深入了解在 Word Online 中使用頁首和頁尾，請參閱＜[Word Online 的新功能](https://go.microsoft.com/fwlink/?LinkId=389520)＞。
   
-## <a name="hyperlinks"></a>超連結
+## <a name="hyperlinks"></a>Hyperlinks
 <a name="bkmk_Hyperlinks"> </a>
 
 透過 Word Online，您可以在文件中輕易建立書籤連結，以及設定游標指在連結上時要顯示的工具提示。進一步了解 [Word Online 中的超連結](https://go.microsoft.com/fwlink/p/?LinkId=271863)。
@@ -174,7 +174,7 @@ Word Online 可顯示受資訊版權管理 (IRM) 保護的文件。但是無法�
 ## <a name="learning-tools"></a>學習工具
 <a name="BKMK_LearningTools"> </a>
 
-學習工具的設計被用來協助您改善讀取技能促進能力正確讀出單字、 快速且正確地，請閱讀並了解您的閱讀。 
+學習工具被設計來協助您改善讀取技能提升您正確讀出文字、 快速且正確地，請閱讀及了解您的閱讀的能力。 
   
 ## <a name="lists"></a>清單
 <a name="BKMK_Lists_WordOnline"> </a>
@@ -191,7 +191,7 @@ Word Online 可顯示受資訊版權管理 (IRM) 保護的文件。但是無法�
 
 不適用於 Word Online。Office Online 需要網際網路連線與網際網路瀏覽器。您的電腦需要安裝 Word 桌面應用程式，才可以在未連線至網際網路或組織的內部部署 Office Web Apps 伺服器時檢視和編輯文件。如果您已安裝 Word 桌面應用程式，可以使用 Word 的完整功能以檢視及編輯文件。儲存文件時，會以您的變更來更新線上文件。您也可以下載文件並且另存為離線複本，但是該離線複本不會與線上版本同步。進一步了解 [Office Web Apps 伺服器](https://go.microsoft.com/fwlink/p/?LinkId=282318)。
   
-## <a name="page-breaks"></a>分頁符號
+## <a name="page-breaks"></a>分頁頁
 <a name="bkmk_PageBreaks"> </a>
 
 在 Word Online 和 Word 桌面應用程式中插入分頁符號。
@@ -213,7 +213,7 @@ Word Online 可顯示受資訊版權管理 (IRM) 保護的文件。但是無法�
 
 在 Word Online 和 Word 桌面應用程式中，都可以在文件中插入頁碼。您也可以對文件第一頁以外的所有頁面套用頁碼。若要深入了解在 Word Online 中使用頁碼，請參閱＜[Word Online 的新功能](https://go.microsoft.com/fwlink/?LinkId=389520)＞。
   
-## <a name="paragraph-formatting"></a>段落格式化
+## <a name="paragraph-formatting"></a>段落格式設定
 <a name="bkmk_ParagraphFormatting"> </a>
 
 在 Word Online 中，您可以設定段落向左、向右對齊或置中；將文字方向設定為從右至左；增加或減少縮排；以及在各段落新增項目符號或編號。您還可以清除格式設定。您可以在 Word Online 中調整行距。進一步了解[在瀏覽器中和 Word 中使用文件的差異](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
@@ -256,7 +256,7 @@ Word Online 可顯示受資訊版權管理 (IRM) 保護的文件。但是無法�
 ## <a name="real-time-co-authoring"></a>即時共同撰寫
 <a name="bkmk_Coauthoring"> </a>
 
-多人可以同時處理文件中。Word Online 和 Word 2016、 即時的目前狀態可協助您看到其中您共同撰寫作者會使用文件中使您不建立衝突，如您編輯與您所見的變更正在進行。Word 2013 支援同時編輯，但是有會顯示狀態，而且無法多位作者所做的變更，等到儲存文件。若要深入了解即時共同撰寫，請參閱[What's new in Word Online](https://go.microsoft.com/fwlink/?LinkId=389520)和[即時共同撰寫 Word 文件上的共同作業](https://go.microsoft.com/fwlink/?linkid=798760)。
+可以有一個以上的人同時在文件中進行編輯。 在 Word Online 和 Word 2016，即時顯示狀態可協助您查看您共同撰寫作者所使用的儲存文件中，讓您編輯及您所見的變更正在進行時，請勿建立衝突。 Word 2013 支援同時編輯，但是不會指出目前狀態，因此要等文件儲存後，才看得見其他多位作者所做的變更。 若要深入了解即時共同撰寫，請參閱[What's new in Word Online](https://go.microsoft.com/fwlink/?LinkId=389520)和[即時共同撰寫 Word 文件上的共同作業](https://go.microsoft.com/fwlink/?linkid=798760)。
   
 ## <a name="reference-tools"></a>參考工具
 <a name="bkmk_ReferenceTools"> </a>
@@ -271,7 +271,7 @@ Word Online 可顯示受資訊版權管理 (IRM) 保護的文件。但是無法�
 ## <a name="researcher"></a>研究工具
 <a name="BKMK_Researcher"> </a>
 
-研究者可協助您尋找並納入可靠的來源與您的文件的內容。研究者使用 Bing 提取中適當的 web 內容。如需詳細資訊，請參閱 ＜[參考資料的您輕鬆地在 Word 中的紙張](https://go.microsoft.com/fwlink/?linkid=839490)。
+Researcher 可協助您尋找並納入可靠來源和文件的內容。 Researcher 使用 Bing 提取從網路上的適當內容中。 如需詳細資訊，請參閱[您輕鬆地在 Word 中的紙張的參考資料](https://go.microsoft.com/fwlink/?linkid=839490)。
   
 ## <a name="rich-media"></a>多媒體
 <a name="bkmk_RichMedia"> </a>
@@ -358,7 +358,7 @@ Word Online 和 Word 桌面應用程式皆提供進階的表格格式化功能 (
 
 Word Online 提供簡易的文件字數統計功能。進一步了解 [Word Online 中的字數統計](https://go.microsoft.com/fwlink/p/?LinkId=271864)。
   
-## <a name="zoom"></a>縮放
+## <a name="zoom"></a>Zoom
 <a name="bkmk_Zoom"> </a>
 
 縮放功能僅可在 [檢視] 模式時使用。您可以在 Word Online 的 [編輯] 模式中使用瀏覽器檢視設定來執行縮放。進一步了解 [Word Online 中的字數統計](https://go.microsoft.com/fwlink/p/?LinkId=271864)。
@@ -366,5 +366,5 @@ Word Online 提供簡易的文件字數統計功能。進一步了解 [Word Onli
 ## <a name="feature-availability"></a>功能可用性
 <a name="bkmk_Zoom"> </a>
 
-若要檢視 Office 365 計劃、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Office Online 服務說明](office-online-service-description.md)。 
+若要檢視 Office 365 方案、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Office Online 服務說明](office-online-service-description.md)。 
   

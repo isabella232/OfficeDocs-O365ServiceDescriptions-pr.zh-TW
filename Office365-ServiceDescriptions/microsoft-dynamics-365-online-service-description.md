@@ -1,7 +1,7 @@
 ---
 title: Microsoft Dynamics 365 （線上） 服務說明
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
-description: 年 12 月 2016年更新 Dynamics 365 (線上及內部部署)、 Dynamics CRM 功能現在包含作為 Dynamics 365，是套裝的智慧型商務應用程式的一部分。動態 365 統一客戶關係管理 (CRM) 與企業資源規劃 (ERP) 功能來傳遞來協助管理特定商務功能的新應用程式。
-ms.openlocfilehash: 8261b126140325fa8190437c5981ad49d17586a7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 年 12 月 2016 更新 Dynamics 365 (線上和內部部署)，Dynamics CRM 功能現在是包含 Dynamics 365，是套裝的智慧型商務應用程式的一部分。 Dynamic 365 透過新的應用程式，協助您管理特定商務功能，藉此統整客戶關係管理 (CRM) 和企業資源規劃 (ERP) 功能。
+ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035342"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467210"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365 （線上） 服務說明
 
-年 12 月 2016年更新 Dynamics 365 (線上及內部部署)、 Dynamics CRM 功能現在包含作為 Dynamics 365，是套裝的智慧型商務應用程式的一部分。動態 365 統一客戶關係管理 (CRM) 與企業資源規劃 (ERP) 功能來傳遞來協助管理特定商務功能的新應用程式。 
+年 12 月 2016 更新 Dynamics 365 (線上和內部部署)，Dynamics CRM 功能現在是包含 Dynamics 365，是套裝的智慧型商務應用程式的一部分。 Dynamic 365 透過新的應用程式，協助您管理特定商務功能，藉此統整客戶關係管理 (CRM) 和企業資源規劃 (ERP) 功能。 
   
 這些應用程式包括︰
   
@@ -42,88 +42,89 @@ ms.locfileid: "24035342"
   
 ## <a name="dynamics-365-plans"></a>Dynamics 365 計劃
 
-Dynamics 365 有兩種版本： 企業版及商務。這兩個版本、 有數個計劃可用特別設計來符合使用模式和大型和小型企業的需求。可用的應用程式也可以個別。 
+Dynamics 365 有兩種版本： 企業版和商務版。 這些兩種版本，有幾個方案可用特別設計用來符合使用模式及大型及小型企業的需求。 應用程式也會提供個別。 
   
 若要深入了解 Dynamics 365 的功能，請參閱[Microsoft Dynamics 365](https://www.microsoft.com/en-us/dynamics365/home)。
   
-## <a name="application-availability-across-dynamics-365-plans"></a>不同 Dynamics 365 計劃中可用的應用程式
+## <a name="application-availability-across-dynamics-365-plans"></a>Dynamics 365 方案的應用程式可用性
 
-下表列出所有 Dynamics 365 應用程式和其可用性不同 Enterprise 與 Business 計劃。定價、 授權、 使用者權利及其他相關的特定資訊，請參閱下列下載： [Dynamics 365 授權指南 》](http://download.microsoft.com/documents/en-us/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf)。
+下表會列出所有的 Dynamics 365 應用程式和其可用性企業版和商務方案。 特定價格、 授權、 使用者權利及更多有關的詳細資訊，請參閱下列下載： [Dynamics 365 授權指南](http://download.microsoft.com/documents/en-us/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf)。
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|**應用程式** <br/> |**企業計劃 1** <br/> |**企業計劃 2** <br/> |**企業個小組使用<sup>1</sup>** <br/> |**商務版、 完整使用<sup>2</sup>** <br/> |**商務版的小組成員<sup>3</sup>** <br/> |
+|**應用程式** <br/> |**企業方案 1** <br/> |**企業版計劃 2** <br/> |**企業的小組使用<sup>1</sup>** <br/> |**商務版，完整，請使用<sup>2</sup>** <br/> |**商務版的小組成員<sup>3</sup>** <br/> |
 |[Dynamics 365 for Sales](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_sales) <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |[Dynamics 365 for Customer Service](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_customerservice) <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |[Dynamics 365 for Field Service](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_fieldservice) <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |[Dynamics 365 for Project Service Automation](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_projservautomation) <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|[Dynamics 365 作業](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_operations)<sup>4</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|[Microsoft PowerApps 流程](https://ms.flow.microsoft.com/documentation/connection-dynamics365/) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Dynamics 365 的作業](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_operations)<sup>4</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|[Microsoft PowerApps 與流程](https://ms.flow.microsoft.com/documentation/connection-dynamics365/) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Dynamics 365 Financials](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_financials) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
    
-> <br/><sup>1</sup>淺色使用： 包括跨所有 Enterprise edition Dynamics 365 應用程式的讀取權限與某些寫入權限選取 [淺工作。 
-<br/><sup>2</sup>每一個完整的使用伺服器授權包含一個外部會計 professional 授權才能安全地連線與您 accountant 透過雲端。
- <br/><sup>3</sup>淺色使用： 包括跨所有商務版 Dynamics 365 應用程式的讀取權限與某些寫入權限選取 [淺工作。 
-<br/><sup>4</sup>包含製造業及提供鏈結、 零售及商務和財務。 
+> <br/><sup>1</sup>淺色使用： 包括讀取權限及某些寫入存取的 select 淺工作跨所有 Enterprise edition Dynamics 365 應用程式。 
+<br/><sup>2</sup>每個充分利用授權包含一個外部會計 professional 授權才能安全地連線與您的會計透過雲端。
+ <br/><sup>3</sup>個燈使用： 包括讀取權限及某些寫入存取的 select 淺工作跨所有商務版 Dynamics 365 應用程式。 
+<br/><sup>4</sup>包含製造業及補給鏈結、 零售版和商務和財務。 
   
-## <a name="subscription-license-comparison-of-dynamics-365-for-sales-customer-service-field-service-and-project-service-automation"></a>訂閱授權比較的銷售、 客戶服務、 欄位及 Project Service 自動化 Dynamics 365
+## <a name="subscription-license-comparison-of-dynamics-365-for-sales-customer-service-field-service-and-project-service-automation"></a>銷售、 客戶服務、 欄位及 Project 服務自動化的 Dynamics 365 訂閱授權比較
 
-以下提供使用權利每五個使用者服務層級相關聯的高層級摘要。如需詳細的比較，請參閱**附錄 B**下載中： [Dynamics 365 授權指南 》](http://download.microsoft.com/documents/en-us/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf)。
+以下提供與每個五個使用者服務層級相關聯的使用權限的高層級摘要。 如需詳細的比較，請參閱**附錄 B**中以下載： [Dynamics 365 授權指南](http://download.microsoft.com/documents/en-us/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf)。
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-||**小組成員** <br/> |**業務部** <br/> |**客戶服務** <br/> |**欄位服務** <br/> |**Project Service 自動化** <br/> |**方案 1** <br/> |
+||**小組成員** <br/> |**銷售** <br/> |**客戶服務** <br/> |**欄位服務** <br/> |**Project 服務自動化** <br/> |**方案 1** <br/> |
 |**Dynamics 365 企業版的所有資料** <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |
-|**Dynamics 365 作業功能： 時間及費用; 記錄建立條件;管理預算;核准的作業階段;費用和發票;編輯和回應的相關事宜： 品質控制、 服務訂單** <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |
-|**帳戶和連絡人、 活動及備忘稿** <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |
-|**知識管理、 互動式服務中樞** <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |
-|**時間和費用記錄、 管理個人資訊、 套用的專案** <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |
-|**Custom entities** <br/> |完整<sup>1</sup> <br/> |完整<sup>1</sup> <br/> |完整<sup>1</sup> <br/> |完整<sup>1</sup> <br/> |完整<sup>1</sup> <br/> |完整<sup>1</sup> <br/> |
-|**雙使用權限的對等 Dynamics 365 CAL (如果存在)** <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |
+|**Dynamics 365 作業功能： 記錄時間和費用;建立條件;管理預算;核准的作業時間;費用和發票;編輯和回應的相關事宜： 品質控制、 服務訂單** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
+|**帳戶和連絡人、 活動及備忘稿** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
+|**知識管理、 互動式服務中樞** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
+|**記錄時間和費用、 管理個人資訊、 套用的專案** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
+|**自訂實體** <br/> |完整<sup>1</sup> <br/> |完整<sup>1</sup> <br/> |完整<sup>1</sup> <br/> |完整<sup>1</sup> <br/> |完整<sup>1</sup> <br/> |完整<sup>1</sup> <br/> |
+|**雙重用於對等的 Dynamics 365 CAL 權限 (如果存在)** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
 |**執行工作流程與隨選程序** <br/> |完整<sup>2</sup> <br/> |完整<sup>2</sup> <br/> |完整<sup>2</sup> <br/> |完整<sup>2</sup> <br/> |完整<sup>2</sup> <br/> |完整<sup>2</sup> <br/> |
-|**Microsoft Project Online Essentials、 Gamification 風扇及觀眾 」 權限** <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |
-|**入口網站只： 自我將案例提交及聊天室 initiations 做 supportee （而不是代理程式）** <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |
-|**入口網站僅限非-員工只： 更新工時 orders、 建立並更新商機** <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup>`  <br/> |
-|**使用者報告、 儀表板和圖表** <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |
+|**Microsoft Project Online 基本版、 Gamification 風扇和觀眾權限** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
+|**入口網站僅： 自我做為 supportee （而不是代理程式） 的 [大小寫的提交和聊天 initiations** <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |
+|**入口網站，非-聘僅： 更新工單、 建立和更新商機** <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup> <br/> |完整<sup>3</sup>`  <br/> |
+|**使用者報告、 儀表板和圖表** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
 |**設定系統報告、 系統圖表、 系統儀表板** <br/> |無  <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |
-|**負責人、 商機、 目標、 合約、 報價、 訂單、 發票、 競爭者** <br/> |唯讀  <br/> |Full  <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |
-|**銷售行銷活動、快速行銷活動、行銷清單、價目表、產品清單** <br/> |唯讀  <br/> |Full  <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |
-|**Unified Service Desk** <br/> |唯讀  <br/> |完整  <br/> |完整  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |
-|**完整管理 （英文）、 服務、 (不 bookable) 的資源、 工作時數、 設施、 設備、 文章** <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |
-|**工時 orders、 排程及排程委員會、 服務合約、 欄位服務發票和購買訂單 」，客戶資產發送清查、 修復並傳回** <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |唯讀  <br/> |Full  <br/> |
-|**專案、 專案費用和預估、 資源可用性] 檢視和排程管理、 project 發票/清單/合約價格、 核准 project 交易、 Microsoft Project Online 進階版** <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |完整  <br/> |完整  <br/> |
+|**時會導致，機會、 目標、 合約、 報價、 訂單、 發票、 競爭者** <br/> |唯讀  <br/> |Full  <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |
+|**銷售 campaigns、 快速行銷活動、 行銷清單、 價目表、 產品清單** <br/> |唯讀  <br/> |Full  <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |
+|**整合的服務台** <br/> |唯讀  <br/> |Full  <br/> |Full  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |
+|**完整的專案管理、 服務、 (不 bookable) 的資源、 工作時數、 設施、 設備、 文章** <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |
+|**工單、 排程及排程面板、 與服務合約、 欄位服務發票購買訂單 」，客戶資產，發送清查、 修復並傳回** <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |唯讀  <br/> |Full  <br/> |
+|**專案、 project 費用和估計值，資源可用性] 檢視和排程管理、 專案價格清單/合約/發票、 核准專案交易，Microsoft Project Online 進階版** <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |Full  <br/> |
 |**PowerApps** <br/> |唯讀<sup>4</sup> <br/> |唯讀<sup>4</sup> <br/> |唯讀<sup>4</sup> <br/> |唯讀<sup>4</sup> <br/> |唯讀<sup>4</sup> <br/> |Full  <br/> |
-|**Microsoft 社交參與、 客戶、 離線行動、 Gamification Player 及管理語音** <br/> |無  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |
-|**在不同的應用程式中包含的實體建立工作流程、 大量資料匯入及自訂項目** <br/> |無  <br/> |唯讀<sup>4</sup> <br/> |唯讀<sup>4</sup> <br/> |唯讀<sup>4</sup> <br/> |唯讀<sup>4</sup> <br/> |Full  <br/> |
+|**Microsoft Social Engagement 中，客戶、 行動離線、 Gamification 播放程式和系統管理員的語音** <br/> |無  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
+|**跨應用程式中包含的實體建立工作流程、 bulk data import 和自訂項目** <br/> |無  <br/> |唯讀<sup>4</sup> <br/> |唯讀<sup>4</sup> <br/> |唯讀<sup>4</sup> <br/> |唯讀<sup>4</sup> <br/> |Full  <br/> |
    
  **完整**= 完整存取權限 
   
- **唯讀**= 讀取-僅限/限制存取權限 
+ **唯讀**= 讀取-僅限/有限存取權限 
   
  **無**= 沒有存取權限 
   
-><sup>1</sup> （其中一個根據實體併入 CRM 或建立的客戶或協力廠商） 的自訂實體可能需要更高 CAL 或 USL，視需要存取而定。自訂項目只能針對使用權利中包含的實體。<br/><sup>2</sup>建立、 更新和刪除透過工作流程可以只執行針對使用權利中包含的實體 (亦即更新商機需要銷售或計劃 1)。 
-<br/><sup>3</sup>沒有存取權 Dynamics 365 使用者介面。案件管理和聊天室可以只送出使用者自己的代理 supportee、 不代表客戶或其他個人身分。<br/><sup>4</sup> PowerApps 建立只可以運用包含個別的應用程式內的資料。 
+><sup>1</sup> （根據實體納入 CRM 或客戶或合作夥伴所建立的） 的自訂實體可能需要較高的 CAL 或 USL，根據所需的存取。 只能針對使用權利中包含的實體執行自訂項目。 
+<br/><sup>2</sup>建立、 更新及刪除工作流程透過只能用於針對使用權利中包含的實體 (亦即更新機會需要銷售或方案 1)。 
+<br/><sup>3</sup>不允許存取 Dynamics 365 的使用者介面。 Case 管理和聊天室可以只送出使用者自己的代理，為 supportee，不代表客戶或其他個人。 <br/><sup>4</sup>建立的 PowerApps 僅可以利用包含個別的應用程式內的資料。 
   
-## <a name="dynamics-365-service-level-agreement"></a>Dynamics 365 服務等級協定
+## <a name="dynamics-365-service-level-agreement"></a>Dynamics 365 服務層次協議
 
-如需授權條款、 條件及補充資訊使用相關的產品和服務授權透過 Microsoft 大量授權方案，請參閱[Microsoft Online Services 的服務等級協定](http://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=12249)。
+如需授權條款、 條件和補充資訊相關所使用的產品和服務授權透過 Microsoft 大量授權方案，請參閱 < <b0>Microsoft 線上服務的服務等級協定</b0>。
   
-## <a name="dynamics-365-service-downtime-windows"></a>Dynamics 365 服務的停機時間 windows
+## <a name="dynamics-365-service-downtime-windows"></a>Dynamics 365 服務的停機時間期間
 
-停機時間 windows Dynamics 365 服務的定義如下：
+Dynamics 365 服務的停機時間 windows 的定義如下：
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**類別** <br/> |**影響/停機時間** <br/> |**通知** <br/> |**操作等級協定\*** <br/> |
+|**類別** <br/> |**影響/停機時間** <br/> |**通知** <br/> |**作業層級協議\*** <br/> |
 |每週  <br/> |不影響/否停機時間  <br/> |訊息中心  <br/> |48 小時  <br/> |
 |每月  <br/> |不影響/否停機時間  <br/> |訊息中心  <br/> |48 小時  <br/> |
 |更新彙總套件  <br/> |不影響/否停機時間  <br/> |訊息中心  <br/> |48 小時  <br/> |
-|主要升級  <br/> |排定的客戶與所選的視窗內完成  <br/> |訊息中心  <br/> |90 天  <br/> |
+|主要的升級  <br/> |由客戶排程，並在 [選取] 視窗內完成  <br/> |訊息中心  <br/> |90 天  <br/> |
    
-查看最新的資訊有關服務的停機時間 windows[服務等級協定的 Microsoft Online Services](http://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=12249)下載。 
+檢查最新的資訊有關服務的停機時間 windows 的[Microsoft Online Services 的服務等級協定](http://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=12249)下載。 
   
-\***操作等級協定**= 時間的作業小組來傳遞上的服務等級協定中所定義的服務。 
+\***作業層級協議**= 時間，如作業小組好在聖誕夜的一組定義在服務層級協議中的服務。 
   
 ## <a name="dynamics-365-trust-center"></a>Dynamics 365 信任中心
 
