@@ -3,7 +3,7 @@ title: 服務健康狀況和持續性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 03/12/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 系統管理員可以檢視服務的狀態，並找出維護排定的時間。 服務健康狀況資訊，請在任何時間登入 Office 365。
-ms.openlocfilehash: 010d93d70ce69717d4b02e752fcafc7734851b5e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
+ms.sourcegitcommit: 61351f48b8662ed5b39b9cce896dd6bb2db0fe32
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466950"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30574137"
 ---
 # <a name="service-health-and-continuity"></a>服務健康狀況和持續性
 
@@ -40,7 +40,25 @@ Office 365 的服務健康區段顯示服務和相關服務干擾及中斷的詳
 - **計劃維護事件：** 計畫性的維護是基礎架構與軟體應用程式的 Microsoft 起始的定期服務更新。 規劃的維護通知知會客戶關於可能影響的 Office 365 服務功能的服務工程。 不晚遲透過訊息中心 Office 365 管理入口網站上的所有計畫維護五天前通知客戶。 Microsoft 通常會以時間時服務使用情況紀錄位於最低點根據區域時間方案維護。 
     
 - **意外停機** 其中一個 Office 365 套件中的服務無法使用或無回應時，就會發生意外的服務事件。 
-    
+
+### <a name="recent-worldwide-uptimes"></a>最近的全球透明化
+
+移至雲端服務，不應該會失去能夠知道什麼事。 使用 Office 365，不支援。 我們的目標是透明我們操作，因此您可以監視的服務狀態、 追蹤問題，並有可用性的歷史檢視。 下表顯示的最近使用的全球上線時間資料。
+
+<br/>
+
+|**2018** <br/>||||
+|:-----|:-----|:-----|:-----|
+| **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
+| 99.99% <br/> | 99.98% <br/> | 99.97% <br/> | 99.98% <br/> |
+
+<br/>
+
+|**2017** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
+| 99.99% <br/> | 99.97% <br/> | 99.98% <br/> | 99.99% <br/> |
+
 ## <a name="notification-policy"></a>通知原則
 
 服務事件發生時，Microsoft 會辨識及時、鎖定目標且正確的通訊對客戶很重要。 Microsoft 會藉由更新租用戶特定服務健康狀況儀表板 (SHD) 上 Office 365 系統管理入口網站通知 Office 365 系統管理員。 服務事件更新會提供每小時的頻率，或者，如果需要不同的頻率，將會說明在 SHD 通訊張貼內容中。 
