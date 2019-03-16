@@ -3,7 +3,7 @@ title: 'Office 365 服務描述 '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/26/2018
+ms.date: 03/14/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 是雲端式服務，旨在協助達成您的組織對於健全安全性、 可靠性和使用者生產力需求。
-ms.openlocfilehash: abf2ca2eb13bc5830bb5520836aebc66aa55bc1f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
+ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466690"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "30641438"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 服務描述 
 
@@ -58,6 +58,8 @@ Microsoft 為的合格服務的 Office 365 的 FastTrack Center 權益提供合�
 - [商務用 Skype Online 服務說明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
 - [Workplace Analytics Service Description](workplace-analytics-service-description.md)
+
+- [MyAnalytics 服務說明](mya-service-description.md)
     
 - [Power BI 服務說明](power-bi-service-description.md)
     
