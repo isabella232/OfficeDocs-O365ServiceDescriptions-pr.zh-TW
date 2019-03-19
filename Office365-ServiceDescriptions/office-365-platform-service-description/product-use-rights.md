@@ -3,7 +3,7 @@ title: 產品使用權限
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 03/18/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,18 +12,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: db1bb3de9f577b896f916b1055d3de24bc009b25
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 43bc5e30b318bf78d38ebebd0f8435c322fac2d2
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467480"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30668968"
 ---
 # <a name="product-use-rights"></a>產品使用權限
 
 ## <a name="microsoft-online-services-use-rights"></a>Microsoft Online Services 使用權利
 
-若您遵循您的「Microsoft Online 訂閱合約」，您可以使用 [Microsoft Online Services 使用權利](https://www.microsoft.com/licensing/products/products.aspx) 下明確允許的線上服務和相關軟體。
+若您遵循您的「Microsoft Online 訂閱合約」，您可以使用 [Microsoft Online Services 使用權利](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true) 下明確允許的線上服務和相關軟體。
   
 ## <a name="office-365-operated-by-21vianet-use-rights"></a>21Vianet 運作的 Office 365 使用權限
 
