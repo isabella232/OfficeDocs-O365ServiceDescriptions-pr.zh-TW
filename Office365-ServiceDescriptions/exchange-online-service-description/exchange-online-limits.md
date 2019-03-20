@@ -3,7 +3,7 @@ title: Exchange Online 限制
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 02/21/2019
+ms.date: 03/18/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域，包括通訊錄限制、 信箱儲存限制以及報告和郵件追蹤限制，只是其中幾例的 Exchange Online 限制。
-ms.openlocfilehash: 0291609bedf605177719847f36438d2a19020a60
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ee23a4b17807d6df80d853b7b460820a020aec99
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467680"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30641468"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -231,7 +231,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |資料夾階層深度上限  <br/> |無限制  <br/> |300  <br/> |300  <br/> |300  <br/> |
 |資料夾階層深度警告  <br/> |無限制  <br/> |250  <br/> |250  <br/> |250  <br/> |
 |最大公用資料夾數目  <br/> |1,000,000  <br/> |100,000  <br/> |100,000  <br/> |無  <br/> |
-|每一公用資料夾的子資料夾數目上限  <br/> |不適用  <br/> |1,000  <br/> |1,000  <br/> |無  <br/> |
+|每一公用資料夾的子資料夾數目上限  <br/> |無  <br/> |1,000  <br/> |1,000  <br/> |無  <br/> |
 |每一公用資料夾的子資料夾數目警告  <br/> |不適用  <br/> |900  <br/> |900  <br/> |無  <br/> |
    
 > [!NOTE]
@@ -269,14 +269,14 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |郵件大小限制 - Outlook  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
 |郵件大小限制 - OWA  <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |
 |郵件大小限制 - Outlook for Mac  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
-|郵件大小限制 - 移轉  <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |
-|加密郵件的大小限制 (適用於使用 Office 365 郵件加密與新功能的訂閱者)<sup>5</sup> <br/> |150 MB  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
+|郵件大小限制 - 移轉  <br/> |150 MB <sup>1、 4</sup> <br/> |150 MB <sup>1、 4</sup> <br/> |150 MB <sup>1、 4</sup> <br/> |150 MB <sup>1、 4</sup> <br/> |150 MB <sup>1、 4</sup> <br/> |150 MB <sup>1、 4</sup> <br/> |
+|加密郵件的大小限制 (適用於使用 Office 365 郵件加密與新功能的訂閱者)<sup>5</sup> <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
 |加密郵件的大小限制 (適用於使用舊版 Office 365 郵件加密的訂閱者)<sup>5</sup> <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
 |主旨長度限制  <br/> |255 個字元  <br/> |255 個字元  <br/> |255 個字元  <br/> |255 個字元  <br/> |255 個字元  <br/> |255 個字元  <br/> |
 |檔案附件限制  <br/> |250 個附件  <br/> |250 個附件  <br/> |250 個附件  <br/> |250 個附件  <br/> |250 個附件  <br/> |250 個附件  <br/> |
 |檔案附件大小限制 - Outlook  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
 |檔案附件大小限制 - OWA <sup>6</sup> <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
-|檔案附件大小限制 - Outlook for Mac  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
+|檔案附件大小限制 - Outlook for Mac  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
 |Multipart 郵件限制  <br/> |250 個部分  <br/> |250 個部分  <br/> |250 個部分  <br/> |250 個部分  <br/> |250 個部分  <br/> |250 個部分  <br/> |
 |內嵌郵件深度限制  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |
    
@@ -416,8 +416,8 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |**功能** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |通訊群組成員數目上限<sup>1</sup> <br/> |100,000 位成員  <br/> |100,000 位成員  <br/> |100,000 位成員  <br/> |100,000 位成員  <br/> |100,000 位成員  <br/> |100,000 位成員  <br/> |
 |傳送郵件給大型通訊群組的限制  <br/> |5,000 位以上成員  <br/> |5,000 位以上成員  <br/> |5,000 位以上成員  <br/> |5,000 位以上成員  <br/> |5,000 位以上成員  <br/> |5,000 位以上成員  <br/> |
-|有 5000 個至 100000 之間成員的通訊群組的郵件大小上限  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
-|100000 或多個成員的通訊群組的郵件大小上限  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |
+|有 5000 個到 99999 成員的通訊群組的郵件大小上限  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
+|具有 100000 個成員的通訊群組的郵件大小上限  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |
 |通訊群組擁有者數目上限  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |
 |使用者可以建立的群組數目上限  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
@@ -504,7 +504,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
-|仲裁信箱的大小上限  <br/> |10GB  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
+|仲裁信箱的大小上限  <br/> |10GB  <br/> |10GB  <br/> |10GB  <br/> |10GB  <br/> |10GB  <br/> |10 GB  <br/> |
 |仲裁者人數上限  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |10 位仲裁者  <br/> |
 |等候仲裁的郵件到期日  <br/> |2 天  <br/> |2 天  <br/> |2 天  <br/> |2 天  <br/> |2 天  <br/> |2 天  <br/> |
 |過期仲裁通知郵件的最大速率  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |每小時 300 個過期通知  <br/> |

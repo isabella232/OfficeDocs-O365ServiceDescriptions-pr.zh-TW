@@ -3,7 +3,7 @@ title: Microsoft 365 商務版服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 02/27/2019
+ms.date: 03/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全性與裝置管理功能，協助保護您的業務與整合式的解決方案。 . 此服務描述中說明的計劃選項和功能。 如需有關 Office 365 的詳細資訊，請參閱 Office 365 服務說明。
-ms.openlocfilehash: f9b6983eb299eef24935f2e784a23b6b7863e8e1
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 8337eb102ccf0e54df90501791de29d80aa2ca9e
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467940"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30641478"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務說明
 
@@ -38,7 +38,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |商務用 Skype Online  <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |
 |Office Online  <br/> |是  <br/> |是  <br/> |
 |Office 應用程式  <br/> |是  <br/> |是  <br/> |
-|Project Online  <br/> |沒有<sup>3</sup> <br/> |沒有<sup>3</sup> <br/> |
+|Microsoft Project Online  <br/> |沒有<sup>3</sup> <br/> |沒有<sup>3</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |
 |Yammer Enterprise  <br/> |是  <br/> |是  <br/> |
 |Azure 資訊保護  <br/> |否  <br/> |是<sup>4</sup> <br/> |
@@ -132,11 +132,11 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |SLA 高達 99.9年 %  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |進階威脅分析  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |**裝置和應用程式的管理功能** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |**企業行動力 + 安全性版 E3** <br/> |
-|行動裝置管理 (MDM)<sup>15</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
+|行動裝置管理 (MDM)<sup>15</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |行動裝置管理 (MDM) 自動註冊  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|行動應用程式管理 (MAM) 的 Office 應用程式和 LOB 應用程式<sup>15</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
+|行動應用程式管理 (MAM) 的 Office 應用程式和 LOB 應用程式<sup>17</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
 |Windows 更新管理、 Defender，防火牆原則<sup>15</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
-|資料保護-選擇性清除  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|資料保護-選擇性清除  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |目標原則的安全群組 （個儲存）  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |在 [註冊的 Windows 10 裝置上安裝 Office 應用程式  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |Windows Defender 組態  <br/> |否  <br/> |是  <br/> |是  <br/> |
@@ -173,6 +173,8 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 <br/><sup>10</sup>減少以折扣條件購買的基座可能需支付提前終止訂閱的費用。 This is not applicable for subscriptions paid on a monthly basis. 
 <br/><sup>11</sup> Microsoft 365 商務版包含 Exchange Online Archiving 訂閱。 每位 Exchange Online Archiving 訂閱者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://go.microsoft.com/fwlink/?linkid=863320)。 
 <br/><sup>12</sup>如需詳細資訊，請參閱[控制使用客戶金鑰的 Office 365 中的資料](https://go.microsoft.com/fwlink/?linkid=863349)。 
-<br/><sup>13</sup>進階電子文件是在美國及支援西歐 （荷蘭） 區域中。 （從加拿大和亞太地區的客戶資料匯出至美國境內。 歐洲、 中東和非洲地區的客戶資料匯出至西歐 [荷蘭]。） <br/><sup>14</sup>可在[https://securescore.office.com](https://securescore.office.com)。 需要系統管理員權限。 如需詳細資訊，請參閱[介紹 Office 365 安全分數](https://go.microsoft.com/fwlink/?linkid=863490)。
-<br/>Microsoft 365 商務版主控台內建<sup>15</sup>簡化 Windows 10 裝置管理。 IOS、 Android、 MacOS，與其他跨平台裝置管理 Azure 主控台，也用於 Microsoft 365 商務版授權所內建的完整 Intune 功能。 協力廠商應用程式及設定之類的 WiFi 設定檔、 VPN 憑證，等等，可以管理在完整的 Intune 主控台。 <br/>
-此計劃隨附 Microsoft Stream 計劃 2 包含影片入口網站中，語音文字轉譯、 深入搜尋，以及偵測<sup>16</sup> 。
+<br/><sup>13</sup>進階電子文件是在美國及支援西歐 （荷蘭） 區域中。 （從加拿大和亞太地區的客戶資料匯出至美國境內。 歐洲、 中東和非洲地區的客戶資料匯出至西歐 [荷蘭]。）
+<br/><sup>14</sup>可在[https://securescore.office.com](https://securescore.office.com)。 需要系統管理員權限。 如需詳細資訊，請參閱[介紹 Office 365 安全分數](https://go.microsoft.com/fwlink/?linkid=863490)。
+<br/>在 Microsoft 365 系統管理中心內建<sup>15</sup>簡化 Windows 10 裝置管理。 Intune 管理的 iOS、 Android、 macOS 和內建於裝置管理系統管理中心中，也用於 Microsoft 365 商務版授權其他跨平台裝置管理的功能。 協力廠商應用程式及設定之類的 WiFi 設定檔和 VPN 憑證也可以管理裝置管理系統管理中心。 
+<br/>此計劃隨附 Microsoft Stream 計劃 2 包含影片入口網站中，語音文字轉譯、 深入搜尋，以及偵測<sup>16</sup> 。
+<br/><sup>17</sup>簡化 Windows 10 裝置管理和 Microsoft 365 系統管理中心內建的 Intune 應用程式保護原則。
