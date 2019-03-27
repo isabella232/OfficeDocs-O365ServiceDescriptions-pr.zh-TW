@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 直接工程是企業層級支援服務若是 Microsoft Premier Support 合約。 Office 365 工程直接服務說明包含與提供的功能和實作需求相關的其他資訊。
-ms.openlocfilehash: 110e7c1448a994dec7f495b63e14490a1d4fd7f4
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 628d705e6b5c762ee619c7034f5c86f48e26f19d
+ms.sourcegitcommit: 83cfa1d7892cb6b8fb91ac28ce0182fe786b6810
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467890"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "30867919"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Office 365 工程直接服務說明
 
-Office 365 直接工程是企業層級支援服務若是 Microsoft Premier Support 合約。 [Office 365 工程直接服務說明](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(11dec2018).pdf)包含與提供的功能和實作需求相關的其他資訊。
+Office 365 直接工程是企業層級支援服務若是 Microsoft Premier Support 合約。 [Office 365 工程直接服務說明](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(25mar2019).pdf)包含與提供的功能和實作需求相關的其他資訊。
 
 若要取得 Office 365 工程直接提供新的客戶，為您的組織必須提供 Microsoft Premier Support 訂閱，請符合 Office 365 服務的大型企業分類層級，並執行支援合約增訂版。 新增的服務套裝軟體補充成本會套用。 連絡 Microsoft 客戶團隊代表若要確認您支援合約狀態，並啟動任何契約性的變更，以保護支援供應項目。 
 
