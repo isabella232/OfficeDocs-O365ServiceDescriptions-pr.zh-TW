@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany 是歐洲的 Office 365 可用服務已區分的選項。 它可以協助德國、 歐盟 (EU) 以及歐洲自由貿易聯盟 (EFTA) 方式，從德國資料傳遞數位工時，我們領先業界的生產力服務中最受管制客戶的需求垂直置中，與資料落地的地址在德國與嚴格的資料存取及控制透過特有的資料信任者模型量值控管下德國法律。
-ms.openlocfilehash: 52f98f816ae0cdb0d919dd485fd0ba4b3767ef22
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 133752b5e9b18c78f8804c99195836eb45af6ed7
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468090"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955822"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -462,11 +462,11 @@ Office 365 Germany 遵循 Office 365 的雲端安全性與合規性標準。 Off
 |[安全列出夥伴的 IP 位址](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[條件式郵件路由](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[混合郵件路由](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Microsoft 365 系統管理中心報告](../exchange-online-protection-service-description/reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |是<sup>9</sup> <br/> |是<sup>10</sup> <br/> |是 <sup>9, 10</sup> <br/> |
+|[Microsoft 365 系統管理中心報告](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |是<sup>9</sup> <br/> |是<sup>10</sup> <br/> |是 <sup>9, 10</sup> <br/> |
 |[Excel 下載應用程式報告](../exchange-online-protection-service-description/reporting-and-message-trace.md#excel-download-application-reports) <br/> |是  <br/> |是  <br/> |Yes<sup>11</sup> <br/> |
 |[使用 Web 服務報告](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services) <br/> |否  <br/> |是  <br/> |是  <br/> |
 |[郵件追蹤](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace) <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是  <br/> |
-|[Microsoft 365 系統管理中心存取](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Microsoft 365 系統管理中心存取](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |是  <br/> |是  <br/> |是  <br/> |
 |[存取 Exchange 系統管理中心](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[遠端 Windows PowerShell 存取](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |
    

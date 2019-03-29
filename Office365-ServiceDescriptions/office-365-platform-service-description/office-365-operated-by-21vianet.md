@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: a34a4f4a2a96254a65f04e934b3c1c7c178d9088
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 1af7e17c1ab006ef06c1f5d5b0714e10b389379e
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468080"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955802"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet 運作的 Office 365
 
@@ -178,7 +178,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Office 365 進階 eDiscovery  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |安全分數<sup>4</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |威脅情報  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|**[合規性 [ServiceDesc]](compliance-servicedesc.md)** <br/> ||||||||
+|**[合規性[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||||||
 |SAS 70 / SSAE16 評估  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |ISO 27001 認證  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |歐盟示範條款  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
@@ -438,19 +438,19 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 - [通訊錄限制](../exchange-online-service-description/exchange-online-limits.md#address-book-limits)
     
     
-- [容量提醒](../exchange-online-service-description/exchange-online-limits.md#capacity-alerts)
+- [Capacity alerts](../exchange-online-service-description/exchange-online-limits.md#capacity-alerts)
     
-- [信箱資料夾限制](../exchange-online-service-description/exchange-online-limits.md#mailbox-folder-limits)
+- [Mailbox folder limits](../exchange-online-service-description/exchange-online-limits.md#mailbox-folder-limits)
     
-- [郵件限制](../exchange-online-service-description/exchange-online-limits.md#message-limits)
+- [Message limits](../exchange-online-service-description/exchange-online-limits.md#message-limits)
     
 - [接收及傳送限制](../exchange-online-service-description/exchange-online-limits.md#receiving-and-sending-limits)
     
 - [報告和郵件追蹤限制](../exchange-online-service-description/exchange-online-limits.md#reporting-and-message-trace-limits)
     
-- [保留限制](../exchange-online-service-description/exchange-online-limits.md#retention-limits)
+- [Retention limits](../exchange-online-service-description/exchange-online-limits.md#retention-limits)
     
-- [通訊群組限制](../exchange-online-service-description/exchange-online-limits.md#distribution-group-limits)
+- [Distribution group limits](../exchange-online-service-description/exchange-online-limits.md#distribution-group-limits)
     
 - [日誌、傳輸和收件匣規則限制](../exchange-online-service-description/exchange-online-limits.md#journal-transport-and-inbox-rule-limits)
     
@@ -462,7 +462,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 > - 適用於 Microsoft Office 365 組織的限制可能會因為組織在服務中註冊的時間長短而有所不同。 如果在 Microsoft 資料中心內變更了某項限制，可能需要一些時間才能將變更套用至所有現有的客戶。 
 > - 雖然您無法修改大部分的這些限制，不過您和使用者都應該知悉這些限制。 
 > - 這些限制同時適用於內部和外部收件者。 
-> - 根據預設，Exchange Online Protection (EOP) 會保護 Exchange Online 信箱。 若要了解適用於 Exchange Online 中 EOP 功能的限制，請參閱 [Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。 
+> - 根據預設，Exchange Online Protection (EOP) 會保護 Exchange Online 信箱。 若要了解適用於 Exchange Online中 EOP 功能的限制，請參閱 [Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。 
   
 ## <a name="exchange-online-protection-features"></a>Exchange Online Protection 功能
 <a name="BM6_EOP"> </a>
@@ -497,11 +497,11 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[安全列出夥伴的 IP 位址](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |是  <br/> |是  <br/> |
 |[條件式郵件路由](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing) <br/> |是  <br/> |是  <br/> |
 |[混合郵件路由](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing) <br/> |否  <br/> |是  <br/> |
-|[Microsoft 365 系統管理中心報告](../exchange-online-protection-service-description/reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |沒有<sup>8</sup> <br/> |是<sup>8, 9</sup> <br/> |
+|[Microsoft 365 系統管理中心報告](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |沒有<sup>8</sup> <br/> |是<sup>8, 9</sup> <br/> |
 |[Excel 下載應用程式報告](../exchange-online-protection-service-description/reporting-and-message-trace.md#excel-download-application-reports) <br/> |否  <br/> |是  <br/> |
 |[使用 Web 服務報告](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services) <br/> |否  <br/> |是  <br/> |
 |[郵件追蹤](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace) <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |
-|[Microsoft 365 系統管理中心存取](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |是  <br/> |是  <br/> |
+|[Microsoft 365 系統管理中心存取](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |是  <br/> |是  <br/> |
 |[存取 Exchange 系統管理中心](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |是  <br/> |是  <br/> |
 |[遠端 Windows PowerShell 存取](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |是<sup>2</sup> <br/> |是  <br/> |
    

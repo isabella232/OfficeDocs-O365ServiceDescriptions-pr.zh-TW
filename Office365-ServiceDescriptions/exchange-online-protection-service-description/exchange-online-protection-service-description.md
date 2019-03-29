@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 取得功能和需求，Exchange Online Protection 的相關資訊。 包含提供 Exchange Online Protection 的計劃清單，和不同計劃的功能比較。
-ms.openlocfilehash: 7232e2ab40e7041913982e043c3e1d4e162b255a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467670"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955762"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服務說明
 
@@ -109,11 +109,11 @@ EOP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 |[安全列出夥伴的 IP 位址](mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[條件式郵件路由](mail-flow-eop.md#conditional-mail-routing) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[混合郵件路由](mail-flow-eop.md#hybrid-mail-routing) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Microsoft 365 系統管理中心報告](reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |是<sup>9</sup> <br/> |是<sup>10</sup> <br/> |是 <sup>9, 10</sup> <br/> |
+|[Microsoft 365 系統管理中心報告](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |是<sup>9</sup> <br/> |是<sup>10</sup> <br/> |是 <sup>9, 10</sup> <br/> |
 |[Excel 下載應用程式報告](reporting-and-message-trace.md#excel-download-application-reports) <br/> |是  <br/> |是  <br/> |Yes<sup>11</sup> <br/> |
 |[使用 Web 服務報告](reporting-and-message-trace.md#reporting-using-web-services) <br/> |否  <br/> |是  <br/> |是  <br/> |
 |[郵件追蹤](reporting-and-message-trace.md#message-trace) <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是  <br/> |
-|[Microsoft 365 系統管理中心存取](administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Microsoft 365 系統管理中心存取](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[存取 Exchange 系統管理中心](administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[遠端 Windows PowerShell 存取](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |
    

@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: 本節說明的管理控制和可自訂 Exchange Online 設定，並跟組織的 Exchange Online 環境，在執行，且目前的支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
-ms.openlocfilehash: 909806b0bd62b989081f36a8588cd813b1ee1717
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 45707cbba47af8076312049686cb01beb6825d9e
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467800"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955742"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 的安裝和管理
 
@@ -34,7 +34,7 @@ ms.locfileid: "30467800"
   
 - [Microsoft Office 365 入口網站](exchange-online-setup-and-administration.md#microsoft-office-365-portal)
     
-- [Microsoft 365 系統管理中心](exchange-online-setup-and-administration.md#microsoft-office-365-admin-center)
+- [Microsoft 365 系統管理中心](#microsoft-365-admin-center)
     
 - [Exchange 系統管理中心](exchange-online-setup-and-administration.md#exchange-admin-center)
     
