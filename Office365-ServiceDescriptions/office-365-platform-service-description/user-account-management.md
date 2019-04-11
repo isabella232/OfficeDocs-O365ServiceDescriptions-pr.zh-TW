@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 支援下列方法來建立、 管理，並驗證使用者。
-ms.openlocfilehash: edb1f321761409eda0ae6b0e7180bc317f4a7bd5
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467740"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764851"
 ---
 # <a name="user-account-management"></a>使用者帳戶管理
 
@@ -55,7 +55,7 @@ Office 365 有兩個系統可用於使用者身分識別：
   
 您能託管高達 900 個登錄的網路網域在 Office 365，每個網域各由不同的命名空間代表。 
   
-針對採用單一登入的組織，網域上的所有使用者都必須使用相同的身份識別系統：雲端身份或同盟身份。舉例來說，你可以擁有一組使用者，僅需一個雲端身分，因為他們不存取內部部署系統，另一組使用者使用 Office 365 以及內部部署系統。您可以新增兩個網域到 Office 365，例如：contractors.contoso.com 和 staff.contoso.com，但只能針對其中一個網域設定 SSO。您可以將整個網域從雲端身分識別轉換為同盟身分識別，或者從同盟身分識別轉換為雲端身分識別。
+針對採用單一登入的組織，網域上的所有使用者都必須使用相同的身份識別系統：雲端身份或同盟身份。 舉例來說，你可以擁有一組使用者，僅需一個雲端身分，因為他們不存取內部部署系統，另一組使用者使用 Office 365 以及內部部署系統。 您應將兩個網域新增至 Office 365，例如： contractors.contoso.com 和 staff.contoso.com，然後只設定 SSO 的其中一部。 您可以將整個網域從雲端身分識別轉換為同盟身分識別，或者從同盟身分識別轉換為雲端身分識別。
   
 如需 Office 365 之網域相關資訊，請參閱 [網域](domains.md) 服務說明。 
   
@@ -71,13 +71,13 @@ Office 365 有兩個系統可用於使用者身分識別：
     
 - **Cloud identity authentication** Users with cloud identities are authenticated using traditional challenge/response. The web browser is redirected to the Office 365 sign-in service, where you type the user name and password for your work or school account. The sign-in service authenticates your credentials and generates a service token, which the web browser posts to the requested service and logs you in. 
     
-- **Federated identity authentication** Users with federated identities are authenticated using Active Directory Federation Services (AD FS) 2.0 or other Security Token Services. The web browser is redirected to the Office 365 sign-in service, where you type your corporate ID in the form a user principal name (UPN; for example, isabel@contoso.com). The sign-in service determines that you are part of a federated domain and offers to redirect you to the on-premises Federation Server for authentication. If you are logged on to the desktop (domain joined), you are authenticated (using Kerberos or NTLMv2) and the on-premises Security Token Service generates a logon token, which the web browser posts to the Office 365 sign-in service. Using the logon token, the sign-in service generates a service token that the web browser posts to the requested service and logs you in. For a list of available Security Token Services available, see [Single sign-on roadmap](https://go.microsoft.com/fwlink/p/?LinkID=270015).
+- **Federated identity authentication** Users with federated identities are authenticated using Active Directory Federation Services (AD FS) 2.0 or other Security Token Services. 在網頁瀏覽器重新導向至 Office 365 登入服務，其中您輸入您公司的識別碼在表單中的使用者主要名稱 (UPN; 例如， isabel@contoso.com)。 The sign-in service determines that you are part of a federated domain and offers to redirect you to the on-premises Federation Server for authentication. If you are logged on to the desktop (domain joined), you are authenticated (using Kerberos or NTLMv2) and the on-premises Security Token Service generates a logon token, which the web browser posts to the Office 365 sign-in service. Using the logon token, the sign-in service generates a service token that the web browser posts to the requested service and logs you in. For a list of available Security Token Services available, see [Single sign-on roadmap](https://go.microsoft.com/fwlink/p/?LinkID=270015).
     
 Office 365 使用表單式驗證，網路的驗證傳輸流量總是會使用 443 埠，以 TLS/SSL 加密。驗證傳輸流量使用極小百分比的頻寬提供 Office 365 服務。 
   
 ### <a name="multi-factor-authentication-for-office-365"></a>Office 365 的 Multi-Factor Authentication
 
-With Multi-Factor Authentication for Office 365\*, users are required to acknowledge a phone call, text message, or an app notification on their smartphone after correctly entering their password. Only after this second authentication can the user sign in. Office 365 系統管理員可以註冊 Microsoft 365 系統管理中心中的多重要素驗證的使用者。 Learn more about [Multi-Factor Authentication for Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
+With Multi-Factor Authentication for Office 365, users are required to acknowledge a phone call, text message, or an app notification on their smartphone after correctly entering their password. Only after this second authentication can the user sign in. Office 365 系統管理員可以註冊 Microsoft 365 系統管理中心中的多重要素驗證的使用者。 Learn more about [Multi-Factor Authentication for Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
   
 ### <a name="rich-client-authentication"></a>豐富型用戶驗證
 
@@ -97,7 +97,7 @@ With Multi-Factor Authentication for Office 365\*, users are required to acknowl
 
 登入經驗會改變，端視使用的 Office 365 身分類別：
   
-||**雲端身分識別**|**同盟身份**|
+||**雲端身分識別**|**同盟身分識別**|
 |:-----|:-----|:-----|
 |Outlook 2016  <br/> |登入每個工作階段 <sup>1</sup> <br/> |登入每個工作階段 <sup>2</sup> <br/> |
 |Outlook 2013  <br/> |登入每個工作階段 <sup>1</sup> <br/> |登入每個工作階段 <sup>2</sup> <br/> |
@@ -175,7 +175,7 @@ Office 365 Enterprise 採用角色型存取控制 (RBAC) 模型：權限和功�
   
 ## <a name="delegated-administration-and-support-for-partners"></a>委派合作夥伴管理和支援
 
-合作夥伴可以被授權管理客戶帳戶。客戶不得要求合作夥伴使用之使用者帳戶，指派管理授權時亦不需使用 Office 365 授權條款。合作夥伴可以將完全或有限存取權限分配給他們的組織內的使用者。Limited 有限存取包括重設密碼、管理服務要求，以及監督服務健全之權力。如需詳細資訊，請參閱[新增或刪除委派管理員](https://go.microsoft.com/fwlink/p/?LinkID=270055)。
+合作夥伴可以被授權管理客戶帳戶。 客戶不得要求合作夥伴使用之使用者帳戶，指派管理授權時亦不需使用 Office 365 授權條款。 合作夥伴可以將完全或有限存取權限分配給他們的組織內的使用者。 Limited 有限存取包括重設密碼、管理服務要求，以及監督服務健全之權力。 
   
 > [!NOTE]
 > 使用並將夥伴指定為委派系統管理員的能力依地區而有所不同。 

@@ -3,7 +3,7 @@ title: Office 365 平台服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/28/2019
+ms.date: 04/08/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如果您想要知道各種 Office 365 計劃有何差異，包括 Exchange Online 計劃，本文將說明各計劃中包含的功能。
-ms.openlocfilehash: 0ad78d2b5fbdecd7fcec3e9177254f7e0b2a99b2
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.openlocfilehash: 0dc130b5efb9ae0735a509ad26ffe26859cd4f31
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955782"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764861"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服務說明
 
@@ -92,11 +92,11 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
-|**[Office 365 系統管理功能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
+|**功能** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
+|**[Office 365 administration](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
 |使用 Microsoft 365 系統管理中心或 Windows PowerShell 來管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 資訊保護 來保護內容  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |是  <br/> |沒有<sup>2</sup> <br/> |
-|**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
+|**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |Microsoft Bookings  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft Flow  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>14</sup> <br/> |
 |Microsoft 表單  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -112,7 +112,8 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 |Office 365 群組  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 影片  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>11</sup> <br/> |
 |OneNote 課程筆記本  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>15</sup> <br/> |否  <br/> |
-|**[使用者帳戶管理](user-account-management.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
+|Microsoft Kaizala<sup>19</sup> <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> |
+|**[使用者帳戶管理](user-account-management.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |雲端識別、聯盟識別或多重因素驗證  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 桌面設定  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用.csv 檔案大量上傳  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -125,7 +126,7 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 |多個可用的管理員角色  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |允許合作夥伴代替您管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Azure Active Directory 服務  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[網域](domains.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
+|**[網域](domains.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |新增自訂的第 2 層網域，如 fourthcoffee.com  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |新增自訂的第 3 層網域，如 marketing.fourthcoffee.com  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |最多可新增 900 個自訂網域  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -138,11 +139,11 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 |使用不同的電子郵件和 IM 提供者  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自訂網域需要網域所有權驗證  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自動化網域購買和網域驗證功能可用於透過 Go Daddy 購買的網域  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[服務健康狀況和持續性](service-health-and-continuity.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
+|**[服務健康狀況和持續性](service-health-and-continuity.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |可在 **[服務健康狀況]** 或 **[服務狀態]** 頁面上獲取狀態資訊  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |可在 Microsoft 365 系統管理中心儀表板上獲取個別警示狀態  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**服務健康狀況** RSS 摘要  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[報告](reports.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
+|**[報表](reports.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |使用中和非使用中的信箱  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |新增和已刪除的信箱  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |新的和已刪除的群組  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -167,20 +168,20 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 |使用的瀏覽器  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用的作業系統  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Office 365 報表 Web 服務，建立自己的報表  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[服務更新](service-updates.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
+|**[服務更新](service-updates.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |提供給所有客戶的定期更新  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |需要採取 行動時， 將通知傳送給 「訊息中心」  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Roadmap.office.com 的一些服務 更新  <br/> |是  <br/> |--  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |開啟已設定目標發行的選項  <br/> |是  <br/> |--  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[說明和訓練](help-and-training.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
+|**[說明和訓練](help-and-training.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |線上說明  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |社群  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |其他自助資源  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自訂進度訓練  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[網路功能](networking.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
+|**[網路功能](networking.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |IPv4 和 IPv6 通訊協定  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**信任** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
-|**[隱私權、安全性和透明化](privacy-security-and-transparency.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|**信任** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
+|**[Privacy, Security, and Transparency](privacy-security-and-transparency.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 雲端 App 安全性  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |進階威脅防護  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |Customer Lockbox  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
@@ -197,15 +198,14 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 |FISMA 操作授權  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft 資料處理協議  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |PCI 規範 PAN 資料  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|**[服務連續性](service-health-and-continuity.md)** <br/> ||||||||
-|**[BlackBerry](blackberry.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> **Office 365 Germany 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
+|**[Service Continuity](service-health-and-continuity.md)** <br/> ||||||||
+|**[BlackBerry](blackberry.md)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> **Office 365 Germany 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |使用 BlackBerry Internet Service (BIS)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[協力程式](partners.md)** <br/> ||||||||
 |針對正在使用指定計劃的客戶建立試用邀請和購買訂單  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |提供委派管理  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[服務等級協定](service-level-agreement.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[產品使用權限](product-use-rights.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-   
+|**[Service Level Agreement](service-level-agreement.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|**[Product Use Rights](product-use-rights.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> | 
 
 > <sup>1</sup> Office 365 does not provide support for any operating system that is not supported by its manufacturer. 
 <br/><sup>2</sup> azure 資訊保護未包含在內，但能以個別的附加元件形式購買，並將會啟用支援的資訊版權管理 (IRM) 功能。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. Microsoft 365 商務版會隨附的 Office 用戶端應用程式也支援完整的 Azure 資訊保護 (方案 1) 功能。
@@ -222,4 +222,5 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
 <br/><sup>14</sup> In Office 365 Enterprise F1, Flow is limited to consumption only and runs are limited to 750 per user per month. 
 <br/><sup>15</sup>僅適用於 Office 365 教育版方案，包括 Office 365 教育版 E5。 It is not available in Office 365 Enterprise E5. 
 <br/><sup>16</sup>如需詳細資訊，請參閱[控制使用客戶金鑰的 Office 365 中的資料](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)。 
-<br/><sup>17</sup>進階電子文件是在美國及支援西歐 （荷蘭） 區域中。 （從加拿大和亞太地區的客戶資料匯出至美國境內。 歐洲、 中東和非洲地區的客戶資料匯出至西歐 [荷蘭]。）> <br/>僅適用於 Microsoft Stream <sup>18</sup>消耗量： 沒有發佈或共用。 
+<br/><sup>17</sup>進階電子文件是在美國及支援西歐 （荷蘭） 區域中。 （從加拿大和亞太地區的客戶資料匯出至美國境內。 歐洲、 中東和非洲地區的客戶資料匯出至西歐 [荷蘭]。）> <br/>僅適用於 Microsoft Stream <sup>18</sup>消耗量： 沒有發佈或共用。
+<br/><sup>19</sup>從開始 2019 年，現有合格 Sku 的 Office 365 和 Microsoft 365 會使用 Kaizala Pro 回填。 2019 年 6 月 1 日，從 Kaizala Pro 將會包含所有適用的 Office 365 和 Microsoft 365 Sku 中。   

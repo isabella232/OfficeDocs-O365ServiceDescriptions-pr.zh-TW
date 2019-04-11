@@ -3,7 +3,7 @@ title: Microsoft 365 商務版服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/14/2019
+ms.date: 04/08/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全性與裝置管理功能，協助保護您的業務與整合式的解決方案。 . 此服務描述中說明的計劃選項和功能。 如需有關 Office 365 的詳細資訊，請參閱 Office 365 服務說明。
-ms.openlocfilehash: 8337eb102ccf0e54df90501791de29d80aa2ca9e
-ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
+ms.openlocfilehash: d138e2afbc9bdeb7fd81e9a1c60fa03b91e1a373
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30641478"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764821"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務說明
 
-Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全性與裝置管理功能，協助保護您的業務與整合式的解決方案。 . 此服務描述中說明的計劃選項和功能。 如需有關 Office 365 的詳細資訊，請參閱[Office 365 服務說明](office-365-service-descriptions-technet-library.md)。
+Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全性與裝置管理功能，協助保護您的業務與整合式的解決方案。 此服務描述中說明的計劃選項和功能。 如需有關 Office 365 的詳細資訊，請參閱[Office 365 服務說明](office-365-service-descriptions-technet-library.md)。
   
 ## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>不同 Office 365 商務進階版和 Microsoft 365 商務版計劃中可用的功能
 
@@ -30,7 +30,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
   
 ||||
 |:-----|:-----|:-----|
-|**計劃選項** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
+|**方案選項** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |Office 365 平台  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |Yes<sup>1</sup> <br/> |Yes<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |是  <br/> |是  <br/> |
@@ -45,7 +45,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |[Office 365 套件功能](office-365-platform-service-description/office-365-suite-features.md) <br/> |||
 |Microsoft Bookings  <br/> |是  <br/> |是  <br/> |
 |Microsoft Flow  <br/> |是  <br/> |是  <br/> |
-|Microsoft 表單  <br/> |是  <br/> |是  <br/> |
+|Microsoft Forms  <br/> |是  <br/> |是  <br/> |
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |
 |Microsoft 我的分析  <br/> |否  <br/> |否  <br/> |
 |Microsoft Planner  <br/> |是  <br/> |是  <br/> |
@@ -58,10 +58,11 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |Office 365 群組  <br/> |是  <br/> |是  <br/> |
 |Office 365 影片  <br/> |否  <br/> |否  <br/> |
 |OneNote 課程筆記本  <br/> |否  <br/> |否  <br/> |
-|[Office 365 系統管理功能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
+|Microsoft Kaizala<sup>18</sup> <br/> |是  <br/> |是  <br/> |
+|[Office 365 系統管理功能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |使用 Microsoft 365 系統管理中心或 Windows PowerShell 來管理 Office 365  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 資訊保護 來保護內容  <br/> |沒有<sup>6</sup> <br/> |是  <br/> |
-|[使用者帳戶管理](office-365-platform-service-description/user-account-management.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
+|[使用者帳戶管理](office-365-platform-service-description/user-account-management.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |Office 365 桌面設定  <br/> |是  <br/> |是  <br/> |
 |使用.csv 檔案大量上傳  <br/> |是  <br/> |是  <br/> |
 |Azure AD Connect 同步作業工具  <br/> |是  <br/> |是<sup>7</sup> <br/> |
@@ -76,7 +77,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
    
 ||||
 |:-----|:-----|:-----|
-|[郵件原則及符合性](exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
+|[郵件原則及符合性](exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |封存 Exchange Online 式信箱  <br/> |是  <br/> |Yes<sup>11</sup> <br/> |
 |通訊記錄管理 (MRM) 保留標記和保留原則  <br/> |是  <br/> |是  <br/> |
 |靜態資料的加密 (BitLocker)  <br/> |是  <br/> |是  <br/> |
@@ -86,7 +87,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |就地 eDiscovery  <br/> |是  <br/> |是  <br/> |
 |傳輸規則  <br/> |是  <br/> |是  <br/> |
 |資料遺失防護  <br/> |否  <br/> |是 <br/> |
-|[隱私權、安全性和透明化](office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
+|[隱私權、安全性和透明化](office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |內建的反垃圾郵件保護  <br/> |是  <br/> |是  <br/> |
 |內建反惡意程式碼保護  <br/> |是  <br/> |是  <br/> |
 |進階威脅防護  <br/> |否  <br/> |是 <br/> |
@@ -96,7 +97,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |Office 365 進階電子文件<sup>13</sup> <br/> |否  <br/> |否  <br/> |
 |安全分數<sup>14</sup> <br/> |是  <br/> |是  <br/> |
 |威脅情報  <br/> |否  <br/> |否  <br/> |
-|[合規性 [ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
+|[合規性[ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |SAS 70 / SSAE16 評估  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 認證  <br/> |是  <br/> |是  <br/> |
 |歐盟示範條款  <br/> |是  <br/> |是  <br/> |
@@ -105,18 +106,18 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |FISMA 操作授權  <br/> |是  <br/> |是  <br/> |
 |Microsoft 資料處理協議  <br/> |是  <br/> |是  <br/> |
 |PCI 規範 PAN 資料  <br/> |否  <br/> |否  <br/> |
-|[網路功能](office-365-platform-service-description/networking.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
+|[網路功能](office-365-platform-service-description/networking.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |IPv4 和 IPv6 通訊協定  <br/> |是  <br/> |是  <br/> |
-|[服務更新](office-365-platform-service-description/service-updates.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
+|[服務更新](office-365-platform-service-description/service-updates.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |提供給所有客戶的定期更新  <br/> |是  <br/> |是  <br/> |
 |需要採取 行動時， 將通知傳送給 「訊息中心」  <br/> |是  <br/> |是  <br/> |
 |開啟已設定目標發行的選項  <br/> |是  <br/> |是  <br/> |
-|[協力程式](office-365-platform-service-description/partners.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |
+|[協力程式](office-365-platform-service-description/partners.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |提供委派管理  <br/> |是  <br/> |是  <br/> |
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**身分識別與存取管理功能** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |**Enterprise Mobility + Security E5** <br/> |
+|**身分識別與存取管理功能** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |**Enterprise Mobility + Security E5** <br/> |
 |Office 365 的多重要素驗證 (MFA)  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |系統管理單位  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |雲端應用程式探索  <br/> |否  <br/> |否  <br/> |是  <br/> |
@@ -131,7 +132,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |Connect Health  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |SLA 高達 99.9年 %  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |進階威脅分析  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|**裝置和應用程式的管理功能** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版 ** <br/> |**企業行動力 + 安全性版 E3** <br/> |
+|**裝置和應用程式的管理功能** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |**企業行動力 + 安全性版 E3** <br/> |
 |行動裝置管理 (MDM)<sup>15</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |行動裝置管理 (MDM) 自動註冊  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |行動應用程式管理 (MAM) 的 Office 應用程式和 LOB 應用程式<sup>17</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
@@ -146,7 +147,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
    
 |||
 |:-----|:-----|
-|**Windows 10 管理功能**-Microsoft 365 商務版可讓您輕鬆地管理裝置。 當您設定您的 Microsoft 365 商務版租用戶您選取 [應用程式防護和裝置組態設定。 這些設定可決定會自動套用至裝置時他們加入 Azure Active Directory 的原則。 Windows 10 專業版管理功能包括：  <br/> |**Microsoft 365 商務版 ** <br/> |
+|**Windows 10 管理功能**-Microsoft 365 商務版可讓您輕鬆地管理裝置。 當您設定您的 Microsoft 365 商務版租用戶您選取 [應用程式防護和裝置組態設定。 這些設定可決定會自動套用至裝置時他們加入 Azure Active Directory 的原則。 Windows 10 專業版管理功能包括：  <br/> |**Microsoft 365 商務版** <br/> |
 |透過 Windows AutoPilot 簡化的部署  <br/> |是  <br/> |
 |訂閱啟用  <br/> |是  <br/> |
 |受組織控制的裝置] 畫面上閒置  <br/> |是  <br/> |
@@ -154,7 +155,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |受組織控制的使用者存取 Cortana  <br/> |是  <br/> |
 |組織控制的 Windows 祕訣和廣告從 Microsoft  <br/> |是  <br/> |
 |自動維持最新的 Windows 10 裝置  <br/> |是  <br/> |
-|**Windows 10 安全性功能** <br/> |**Microsoft 365 商務版 ** <br/> |
+|**Windows 10 安全性功能** <br/> |**Microsoft 365 商務版** <br/> |
 |保護電腦免於病毒與其他使用 Windows Defender 防毒軟體的威脅  <br/> |是  <br/> |
 |保護電腦預防網頁威脅 Microsoft Edge 中  <br/> |是  <br/> |
 |使用能減少裝置受攻擊面的規則 <br/> |是  <br/> |
@@ -178,3 +179,4 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 <br/>在 Microsoft 365 系統管理中心內建<sup>15</sup>簡化 Windows 10 裝置管理。 Intune 管理的 iOS、 Android、 macOS 和內建於裝置管理系統管理中心中，也用於 Microsoft 365 商務版授權其他跨平台裝置管理的功能。 協力廠商應用程式及設定之類的 WiFi 設定檔和 VPN 憑證也可以管理裝置管理系統管理中心。 
 <br/>此計劃隨附 Microsoft Stream 計劃 2 包含影片入口網站中，語音文字轉譯、 深入搜尋，以及偵測<sup>16</sup> 。
 <br/><sup>17</sup>簡化 Windows 10 裝置管理和 Microsoft 365 系統管理中心內建的 Intune 應用程式保護原則。
+<br/><sup>18</sup>從開始 2019 年，現有合格 Sku 的 Office 365 和 Microsoft 365 會使用 Kaizala Pro 回填。 2019 年 6 月 1 日，從 Kaizala Pro 將會包含所有適用的 Office 365 和 Microsoft 365 Sku 中。 

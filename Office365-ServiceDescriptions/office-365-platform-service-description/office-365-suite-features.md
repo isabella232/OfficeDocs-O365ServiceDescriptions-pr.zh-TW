@@ -3,7 +3,7 @@ title: Office 365 套件功能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 4/08/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主題中列出的功能是一群 web 式工具，可協助您進行共同作業並安全地跨多種裝置與多個 Office 365 服務進行通訊。 這些功能會協助在您的組織內進行新的連線，方法是整合數位內容建立、儲存及管理與用於在使用者之間探索及分享資訊的社交工具。
-ms.openlocfilehash: b595a0315beb72d5120c78b4df93b959b19a0efc
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466940"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764831"
 ---
 # <a name="office-365-suite-features"></a>Office 365 套件功能
 
@@ -36,7 +36,7 @@ Microsoft Bookings 是適用於小型企業的線上和行動應用程式，可�
 
 Microsoft Flow 可讓您在多個應用程式間自動化工作流程。您可以使用 Flow 與電子郵件及 IM 警訊連線、同步應用程式間的檔案、在兩個服務間複製檔案，以及從一個應用程式收集資料，然後資料儲存至另一個應用程式等等。範本可協助您入門。若要深入了解 Flow 的功能，以及如何使用這些功能，請前往 Microsoft [Flow 網站](https://flow.microsoft.com/en-us/)。
   
-## <a name="microsoft-forms"></a>Microsoft 表單
+## <a name="microsoft-forms"></a>Microsoft Forms
 <a name="BKMK_Forms"> </a>
 
 Microsoft Forms 是 Office 365 教育版，可讓您快速且輕鬆地建立自訂測驗、 問卷、 問卷、 註冊，及多個新的一部分。 當您建立測驗或表單時，您可以邀請其他人使用任何網頁瀏覽器，甚至是行動裝置，來進行回應。 提交結果之後，您可以使用內建分析來評估回應。 表單資料，例如測驗結果，可以輕鬆地匯出至 Excel 進行其他分析或是評分。 若要深入了解，請參閱[什麼是 Microsoft Forms？](https://support.office.com/en-us/forms)。
@@ -97,12 +97,14 @@ Office 365 中的群組讓使用者與他們所需的同事、資訊和應用程
 Office 365 影片是您可以在裝置上傳、共用與探索視訊的安全全公司目的地，由 Microsoft Azure 媒體服務提供。Office 365 影片可讓觀看者投入並掌握資訊、廣泛交換想法，並且讓組織維持一致。若要深入了解，請參閱[介紹 Office 365 影片](https://blogs.office.com/2014/11/18/introducing-office-365-video/)。
   
 ## <a name="onenote-class-notebook"></a>OneNote 課程筆記本
-<a name="BKMK_Video"> </a>
 
 課程筆記本 」 是 OneNote 的一部分，且適用於 Office 365 教育版和 Office 365 教育版 E5。 每個筆記本包含用於共用課程內容，其中教師和學生可以合作，共同作業空間和私人筆記本的每個學生教師內容文件庫。 建立 「 課程筆記本 」 之後，讓老師和學生可以使用 OneNote 應用程式來存取從任何裝置。
+
+## <a name="microsoft-kaizala"></a>Microsoft Kaizala
+
+Microsoft Kaizala 是簡單且安全的行動裝置工作管理應用程式，其能夠連線及吸引人內部和外部組織的目錄 – 包括合約工作者，廠商，以將唯一的功能帶到 Microsoft 365，協力廠商、 供應商、 客戶和公民 – 使用大型和[彈性的群組類型](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)。 Kaizala 的開啟目錄模型可讓電話號碼式身分識別的簡單的上架和簡單的使用者體驗的通訊和工作管理。 Kaizala 行動應用程式可讓使用者傳送立即訊息和附件，例如圖片、 文件、 視訊、 60, 等等，以及使用巨集指令卡問卷調查、 投票、 工作分派、 宣告、 訓練及其他。 [Kaizala 是隨附於 Office 365](https://products.office.com/en/business/microsoft-kaizala) ，並可在 iPhone 和 Android。 若要深入了解，移至[Kaizala 網站](https://products.office.com/en/business/microsoft-kaizala)。 
   
 ## <a name="feature-availability"></a>功能可用性
-<a name="BKMK_Video"> </a>
 
 若要檢視跨 Office 365 規劃的功能可用性，請參閱 [Office 365 平台服務說明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)。
   
