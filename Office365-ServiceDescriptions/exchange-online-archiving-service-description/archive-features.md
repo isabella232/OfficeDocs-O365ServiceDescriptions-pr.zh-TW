@@ -3,7 +3,7 @@ title: Exchange Online 封存中的封存功能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/11/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 下列各節說明 Microsoft Exchange Online Archiving 的封存功能。
-ms.openlocfilehash: 78b33911a583c1cc50d910e9ebd6fd2aebbfc697
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ba1617cfad392290dd9259d8f4eb87860f58eb73
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467200"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31833839"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online 封存中的封存功能
 
@@ -37,7 +37,7 @@ Exchange Online Archiving 以封存信箱功能的形式，為使用者提供進
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>將郵件移至 Exchange Online 封存
 
-使用者可以將郵件從 .pst 檔案拖放至封存中，以方便進行線上存取。 使用者也可以使用「封存原則」，自動將電子郵件項目從主要信箱中移至封存信箱中，以減少主要信箱的大小並改善其效能。 雖然此行為與 Exchange Hosted Archive 中，將每個郵件的次要複本建立於封存中的做法不同，但同樣可以達到保留的目的。 
+使用者可以將郵件從 .pst 檔案拖放至封存中，以方便進行線上存取。 使用者也可以使用「封存原則」，自動將電子郵件項目從主要信箱中移至封存信箱中，以減少主要信箱的大小並改善其效能。 
   
 ### <a name="import-data-to-the-archive"></a>將資料匯入封存
 

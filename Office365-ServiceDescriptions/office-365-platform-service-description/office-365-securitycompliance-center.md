@@ -3,7 +3,7 @@ title: Office 365 安全規範中心
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 安全性&amp;合規性中心設計來協助您管理 Office 365 組織符合性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: a3534103053d4299177880ef1992ad0b7b36b5f7
-ms.sourcegitcommit: d8369cb3d7886e33f9738ad3e95b02de0b54184e
+ms.openlocfilehash: 11175d1cbbf1b60adee403b02118ae2d7f878fde
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/03/2019
-ms.locfileid: "31411862"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31833855"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -29,21 +29,22 @@ ms.locfileid: "31411862"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> **Office 365 美國政府版 G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 美國政府版 G3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> **Office 365 美國政府版 F1** <br/> |
-|[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|**功能** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> **Office 365 美國政府版 G1** <br/> |**Office 365 企業版 E3** <br/> **Office 365 美國政府版 G3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> **Office 365 美國政府版 F1** <br/> |
+|[存取安全性&amp;合規性中心](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Office 365 雲端 App 安全性](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |[威脅管理](https://go.microsoft.com/fwlink/?linkid=845550)，例如郵件篩選和反惡意程式碼  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[進階威脅管理，](https://go.microsoft.com/fwlink/?linkid=846673)例如網路釣魚活動<sup>6</sup>的客戶加密箱和威脅總管 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |[行動裝置管理](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[資料遺失防護](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|[資料控管](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Exchange Online、 SharePoint Online 和商務用 OneDrive 的資料外洩防護](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|[Microsoft 小組聊天和通道交談的資料外洩防護](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/>|
+|[資料控管](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[進階資料控管](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |[搜尋和調查](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[eDiscovery 搜尋](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[eDiscovery 匯出](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[eDiscovery 保留 （包括查詢為基礎的 eDiscovery 保留）](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[進階 eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>5</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|[封存](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx) <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
+|[封存](https://technet.microsoft.com/library/exchange-online-limits.aspx) <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |手動保留/刪除原則  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
    
 > <sup>1</sup>資料控管可讓使用者建立、 發佈及以手動方式將標籤套用至文件;使用磁碟機運送或透過網路; 匯入資料建立並套用保留/刪除原則工作負載、 使用者和群組。 套用至信箱的保留原則需要 Office 365 企業版 E3 或 E5。
@@ -56,8 +57,8 @@ ms.locfileid: "31411862"
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online Kiosk** <br/> |**SharePoint Online 方案 1** <br/> |**SharePoint Online 方案 2** <br/> |**商務用 Skype Online 方案 1** <br/> |**商務用 Skype Online 方案 2** <br/> |
-|[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|**功能** <br/> |**Exchange Online 方案 1** <br/> |**Exchange Online 方案 2** <br/> |**Exchange Online Kiosk** <br/> |**SharePoint Online 計劃 1** <br/> |**SharePoint Online 計劃 2** <br/> |**商務用 Skype Online 方案 1** <br/> |**商務用 Skype Online 方案 2** <br/> |
+|[存取安全性&amp;合規性中心](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Office 365 雲端 App 安全性](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |[威脅管理](https://go.microsoft.com/fwlink/?linkid=845550)，例如郵件篩選和反惡意程式碼  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[進階威脅管理，](https://go.microsoft.com/fwlink/?linkid=846673)例如網路釣魚活動的客戶加密箱和威脅總管  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
@@ -70,7 +71,7 @@ ms.locfileid: "31411862"
 |[eDiscovery 匯出](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |沒有<sup>4</sup> <br/> |沒有<sup>4</sup> <br/> |
 |[eDiscovery 保留 （包括查詢為基礎的 eDiscovery 保留）](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |[進階 eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>5</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[封存](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx)<sup>6</sup> <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|[封存](https://technet.microsoft.com/library/exchange-online-limits.aspx)<sup>6</sup> <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |手動保留/刪除原則  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
    
 > <sup>1</sup>資料控管可讓使用者建立、 發佈及以手動方式將標籤套用至文件;使用磁碟機運送或透過網路; 匯入資料建立並套用保留/刪除原則工作負載、 使用者和群組。 套用至信箱的保留原則需要 Office 365 企業版 E3 或 E5。 

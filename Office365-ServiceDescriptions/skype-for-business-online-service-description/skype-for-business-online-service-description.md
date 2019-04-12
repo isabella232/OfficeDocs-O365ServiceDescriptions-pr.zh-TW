@@ -3,7 +3,7 @@ title: 商務用 Skype Online 服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/11/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 您想要知道您需要取得特定 Skype 商務功能購買哪些授權嗎？ 請參閱 < Skype for Business 授權概觀。
-ms.openlocfilehash: d96ff935b03efdd3db8af6bcc6d35f842a221588
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 311bba2c1d2600136644acef05f2360c4355068b
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467960"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31833865"
 ---
 # <a name="skype-for-business-online-service-description"></a>商務用 Skype Online 服務說明
 
@@ -28,7 +28,7 @@ ms.locfileid: "30467960"
 > Microsoft Teams 現在是主要的用戶端的訊息、 會議和 Office 365 中呼叫。 啟動 2018 年 10 月 1 日，新的 Office 365 客戶與 500 基座或更少將會對 Microsoft Teams 上的架，並將無法存取 skype for Business Online。 已經在使用 Skype for Business Online 能夠繼續這麼做的租用戶的話 （包括佈建的新使用者） 直到他們完成他們轉移至 Microsoft Teams。
 
 > [!NOTE]
-> Skype 商務 Online Plan 1 是被淘汰從銷售截至年 10 月 10。 這表示，您將再也無法取得 Skype 商務 Online 方案 1，如立即訊息、 目前狀態和對等語音和視訊。 這些功能將會繼續受到支援在所有 Office 365 產品項目包含 Teams，包括 Office 365 f1 鍵。 當您計劃到期時您目前的字詞的結尾時，才能繼續存取這些功能，您必須切換至不同的計劃。 我們建議您評估目前有 Skype 商務 Online 計劃 1 指定的使用者的 Office 365 F1 計劃。 
+> Skype 商務 Online Plan 2 是被淘汰從銷售 2019 年 7 月 1 日起。 這表示，您將再也無法取得 Skype 商務 Online 方案 2 的立即訊息、 目前狀態、 會議，和對等語音和視訊。 這些功能將會繼續受到支援在所有 Office 365 產品項目包含 Teams，包括 Office 365 套件。 當您計劃到期時您目前的字詞的結尾時，才能繼續存取這些功能，您必須切換至不同的計劃。 我們建議您評估 Office 365 商務基本版、 商務進階版或之使用者的目前沒有 Skype 商務 Online 方案 2 以指派任何其他 Office 套件。 
 
  <b0>您想要知道您需要取得特定 Skype 商務功能購買哪些授權嗎？請參閱 < <b1>Skype for Business 授權概觀</b1>。</b0>
   
