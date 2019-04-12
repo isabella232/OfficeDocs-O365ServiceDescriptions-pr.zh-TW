@@ -1,9 +1,9 @@
 ---
-title: 合規性 [ServiceDesc]
+title: 合規性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 符合產業標準與法規，和設計來協助您符合貴企業的法規需求。 如需詳細資訊，請參閱 < 合規性供應項目。
-ms.openlocfilehash: 46c444003a927227905fc8fef338d256cba92add
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ad4b2a0cbc43f2eb4e6070fc5d41159f54141fbc
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466880"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825141"
 ---
-# <a name="complianceservicedesc"></a>合規性 [ServiceDesc]
+# <a name="compliance"></a>合規性
 
 > [!NOTE]
 > 這份文件中的資訊適用於全球版 Office 365。如果您使用 Office 365 的國家/地區雲端執行個體，包括 Office 365 美國。由 21Vianet 運作的政府版、Office 365 Germany 和 Office 365，請參閱 [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582)。 

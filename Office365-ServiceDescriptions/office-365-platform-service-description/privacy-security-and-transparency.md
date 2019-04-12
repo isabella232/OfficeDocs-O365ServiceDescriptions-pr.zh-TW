@@ -3,7 +3,7 @@ title: 隱私權、安全性和透明化
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 01/02/2019
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft 十分重視與客戶之間的合作關係，且致力於保護客戶資料的隱私和安全性。 如需詳細資訊，請參閱 Microsoft 信任中心。
-ms.openlocfilehash: 044f8e1d45f359ca9851f72259791bc38857ea8a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 162722e6d2a7dd3cd644153fdbc0f35eeef9e397
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467580"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825211"
 ---
 # <a name="privacy-security-and-transparency"></a>隱私權、安全性和透明化
 
@@ -33,17 +33,17 @@ Microsoft 十分重視與客戶之間的合作關係，且致力於保護客戶�
   
 如需企業、商務、政府和教育機構管理員在設定 Office 365 隱私權設定時可採取的特定步驟，請參閱[管理員的進階隱私權選項](https://go.microsoft.com/fwlink/p/?LinkID=285202)。
   
-如需有關其他 Microsoft 服務 (包括 Office 365 專業增強版) 的安全性和隱私權的資訊，請參閱[信任中心適用於哪些線上服務？](https://go.microsoft.com/fwlink/p/?LinkID=281962)
+如需有關其他 Microsoft 服務 (包括 Office 365 專業增強版) 的安全性和隱私權的資訊，請參閱[信任中心適用於哪些線上服務？](https://www.microsoft.com/trustcenter/default.aspx)
   
 ## <a name="security"></a>安全性
 
 若要了解 Microsoft 如何安全且可靠地提供 Office 365 服務，請參閱[安全性](http://go.microsoft.com/fwlink/?LinkID=717954&amp;clcid=0x409)。
   
-## <a name="transparency"></a>透明
+## <a name="transparency"></a>透明度
 
 作為 Office 365 客戶，您可以知道資料儲存在哪些位置，Microsoft 中哪些人員可存取該資料，以及我們在內部如何使用該資訊。如需詳細資訊，請參閱[透明度](http://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409)。
   
-## <a name="office-365-advanced-ediscovery"></a>Office 365 進階 eDiscovery
+## <a name="office-365-advanced-ediscovery"></a>Office 365 進階電子文件探索
 
 電子搜索 (eDiscovery) 是識別與傳遞電子資訊的程序，而且此類資訊可在法律案件中做為呈堂證據。Office 365進階電子搜索是以 Office 365 中現有的電子搜索功能為基礎，可讓您分析大型的非結構化資料集並減少與法律案件相關的資料量。您可以使用 Office 365 規範中心的 [搜尋] 功能來執行您的組織中所有內容來源的初始搜尋，以識別並收集特定法律案件相關的資料。然後，您可藉由套用文字分析、機器學習和進階電子搜索的相關性/預測式編碼功能，來分析該資料。如需詳細資訊，請參閱 [Office 365 進階電子搜索](http://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409)。
   
@@ -59,6 +59,6 @@ Office 365 進階威脅防護可協助組織抵禦惡意程式碼和病毒。 AT
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 規劃的功能可用性，請參閱 [Office 365 平台服務說明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)。
+若要檢視跨 Office 365 規劃的功能可用性，請參閱 [Office 365 平台服務說明](https://technet.microsoft.com/library/office-365-platform-service-description.aspx)。
   
 

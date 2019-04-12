@@ -2,7 +2,7 @@
 title: Microsoft 365 教育版
 ms.author: sharik
 author: skjerland
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 是提供各種可滿足您組織需求的最佳方案。 如果您正在尋找 Microsoft 365 和 Office 365 教育版方案之間的差異，則本文將告訴您在每個包含哪些功能。
-ms.openlocfilehash: 1303484ca25d737b1cc5217b6b3dc8a129585dc6
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 25338e9572f765ffc09127d4deb7e3ff0cf56a76
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468170"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825191"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -38,13 +38,13 @@ Microsoft 365 提供的完整的系統，包括 Office 365、 Windows 10 和 Ent
 |商務用 OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Teams  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |商務用 Skype Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Project Online  <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |
+|Microsoft Project Online  <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |
 |Yammer Academic  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**教室工具** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |在 [Microsoft Teams 教室體驗  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |OneNote 課程筆記本  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Sway  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft 表單  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft Forms  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |學習工具  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |協助工具檢查程式  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office Lens  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -97,6 +97,17 @@ Microsoft 365 提供的完整的系統，包括 Office 365、 Windows 10 和 Ent
 |System Center 端點保護  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>包含 Exchange Online Plan 1 加上附加功能。 > <sup>2</sup>包含 Exchange Online Plan 2。 > <sup>3</sup>包含 SharePoint Online Plan 1 加上附加功能。 > <sup>4</sup>包含 SharePoint Online 方案 2。 > <sup>5</sup> project Online 基本版不包含在內，但是可免費新增至 Office 365 教育版方案。 > <sup>6</sup> Microsoft 365 教育版 A5 包含電話系統、 音訊會議和通話方案的功能。 若要實作通話方案需要購買額外的方案 （國內通話方案或國際通話方案）。 > <sup>7</sup>若要深入了解更多相關的 Azure 資訊保護功能隨附於 Office 365 計劃，請參閱[Azure 資訊保護](https://go.microsoft.com/fwlink/?linkid=838357)。 > <sup>8</sup>包含 Intune。 > <sup>9</sup>伺服器與 Cal 會包含在 Exchange、 SharePoint 和商務用 Skype。 > <sup>10</sup> ECAL 或核心 CAL，根據的版本購買的 A3 — A5，與 ECAL 權限都包含在內。 > 如需 Azure Active Directory 的詳細資訊，請參閱的<sup>11</sup> [什麼是 Active Directory？](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis)。 > <sup>12</sup> office Pro Plus 是必要的以套用保護，並從 Outlook 桌面傳送受保護的電子郵件。 
+> <sup>1</sup>包含 Exchange Online Plan 1 加上附加功能。 <br/>
+> <sup>2</sup>包含 Exchange Online Plan 2。 <br/>
+> <sup>3</sup>包含 SharePoint Online Plan 1 加上附加功能。 <br/>
+> <sup>4</sup>包含 SharePoint Online 方案 2。 <br/>
+> <sup>5</sup> project Online 基本版不包含在內，但是可免費新增至 Office 365 教育版方案。 <br/>
+> <sup>6</sup> Microsoft 365 教育版 A5 包含電話系統、 音訊會議和通話方案的功能。 若要實作通話方案需要購買額外的方案 （國內通話方案或國際通話方案）。 <br/>
+> <sup>7</sup>若要深入了解更多相關的 Azure 資訊保護功能隨附於 Office 365 計劃，請參閱[Azure 資訊保護](https://go.microsoft.com/fwlink/?linkid=838357)。 <br/>
+> <sup>8</sup>包含 Intune。 <br/>
+> <sup>9</sup>伺服器與 Cal 會包含在 Exchange、 SharePoint 和商務用 Skype。 <br/>
+> <sup>10</sup> ECAL 或核心 CAL，根據的版本購買的 A3 — A5，與 ECAL 權限都包含在內。 <br/>
+> 如需 Azure Active Directory 的詳細資訊，請參閱的<sup>11</sup> [什麼是 Active Directory？](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis)。 <br/>
+> <sup>12</sup> office Pro Plus 是必要的以套用保護，並從 Outlook 桌面傳送受保護的電子郵件。 
   
 

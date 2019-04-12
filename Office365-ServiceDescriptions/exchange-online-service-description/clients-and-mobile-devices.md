@@ -3,7 +3,7 @@ title: 用戶端和行動裝置
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: e58ff18b8d926e7aa705d0715d77ee37be6e3101
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: b5755b76445ddc186d02e5b8a499d905636bd311
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467610"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825201"
 ---
 # <a name="clients-and-mobile-devices"></a>用戶端和行動裝置
 
@@ -40,7 +40,7 @@ Microsoft Outlook 是電子郵件程式，包含支援行事曆、 連絡人、 
   
 ## <a name="outlook-on-the-web"></a>Outlook 網頁版
 
-Outlook 網頁版是網路架構版本的 Outlook 電子郵件程式，搭配 Exchange Online 使用。它能讓使用者透過網路瀏覽器接存取電子郵件、行事曆，以及聯絡人，不無論他們在哪裡連接網際網路。如需有關支援瀏覽器的詳細資訊，請參閱[商務用 Outlook 網頁版支援的瀏覽器](https://go.microsoft.com/fwlink/p/?LinkId=287032)。
+Outlook 網頁版是網路架構版本的 Outlook 電子郵件程式，搭配 Exchange Online 使用。它能讓使用者透過網路瀏覽器接存取電子郵件、行事曆，以及聯絡人，不無論他們在哪裡連接網際網路。如需有關支援瀏覽器的詳細資訊，請參閱[商務用 Outlook 網頁版支援的瀏覽器](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006)。
   
 Outlook 網頁版有兩種用戶端版本，皆可搭配 Exchange Online 使用：
   

@@ -3,7 +3,7 @@ title: IT 專業人員
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 以下 SharePoint 功能支援 IT 專業人員於其組織的 SharePoint 環境進行保護與管理工作。
-ms.openlocfilehash: c0033c22040f517d51f9b38bd2d2c926d319699f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: afacaa2e05b7b6cc178ca3585230408f75264aa6
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467590"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825161"
 ---
 # <a name="it-professional"></a>IT 專業人員
 
@@ -45,9 +45,9 @@ SharePoint Online 為上傳並儲存至文件庫的檔案，提供反惡意程�
 不適用於 SharePoint Online 客戶。SharePoint Server 2013 客戶可針對支援 SharePoint Server 2013 伺服器到伺服器驗證和應用程式驗證的 Web 應用程式，設定宣告式驗證。深入了解[宣告式驗證](https://go.microsoft.com/fwlink/p/?LinkId=270982)。
   
 ## <a name="data-loss-prevention"></a>資料外洩防護
-<a name="bkmk_DLP"> </a>
+<a name="bkmk_DLP"> </a> 
 
-資料遺失防護 (DLP) 可識別 SharePoint Online 中儲存的敏感資料。識別敏感資料可協助您降低組織的風險。您可以使用 eDiscovery 中心，在您的組織中搜尋敏感資訊類型。敏感內容偵測會記載並儲存起來，僅供 eDiscovery 中心核准的使用者使用，並可輕鬆匯出分類結果。若要深入了解敏感資料類型，請參閱[敏感資訊類型詳細目錄](https://technet.microsoft.com/en-us/library/jj150541%28v=exchg.150%29.aspx)。深入了解如何[在 SharePoint Online 中使用 DLP 以識別儲存在網站上的敏感資料](https://technet.microsoft.com/library/dn798914.aspx)。
+資料遺失防護 (DLP) 可識別 SharePoint Online 中儲存的敏感資料。識別敏感資料可協助您降低組織的風險。您可以使用 eDiscovery 中心，在您的組織中搜尋敏感資訊類型。敏感內容偵測會記載並儲存起來，僅供 eDiscovery 中心核准的使用者使用，並可輕鬆匯出分類結果。若要深入了解敏感資料類型，請參閱[敏感資訊類型詳細目錄](https://technet.microsoft.com/library/jj150541%28v=exchg.150%29.aspx)。深入了解如何[在 SharePoint Online 中使用 DLP 以識別儲存在網站上的敏感資料](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)。
   
 ## <a name="encryption-at-rest"></a>Encryption at rest
 <a name="bkmk_EncryptionAtRest"> </a>
