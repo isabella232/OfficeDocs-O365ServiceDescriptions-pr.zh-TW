@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: b5755b76445ddc186d02e5b8a499d905636bd311
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.openlocfilehash: 380f542c6db323d5dac647dc694c0b320bf13be6
+ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825201"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31981637"
 ---
 # <a name="clients-and-mobile-devices"></a>用戶端和行動裝置
 
@@ -36,7 +36,7 @@ Microsoft Outlook 是電子郵件程式，包含支援行事曆、 連絡人、 
 如需哪些 Outlook 用戶端受到 Exchange 2016 和 Exchange Online 支援的詳細資訊，請參閱 [Exchange 2016 系統需求](https://go.microsoft.com/fwlink/?LinkID=828972)中的＜支援的用戶端＞。
   
 > [!IMPORTANT]
->  Outlook 不包含在 Exchange Online 的訂閱價格之內。Microsoft Office Pro Plus（包括 Microsoft Outlook）包含在某些 Office 365 計畫內，並且能以單獨訂閱的方式購買。 >  如果您使用 POP 與 Exchange Online 電子郵件帳戶連線，您會看到下列限制︰ >  沒有行事曆資訊 >  沒有空閒/忙碌資訊 >  沒有全球通訊清單 >  沒有行動郵件 >  透過 POP 連接時，所有郵件都會被下載到用戶端，不會在多部電腦或裝置之間（例如筆電和手機）進行同步處理。 
+>  Outlook 不包含在 Exchange Online 的訂閱價格之內。 Microsoft Office Pro Plus（包括 Microsoft Outlook）包含在某些 Office 365 計畫內，並且能以單獨訂閱的方式購買。 如果您使用 POP 連線至 Exchange Online 的電子郵件帳戶，您會看到下列限制： > 沒有行事曆資訊 > 沒有空閒/忙碌資訊 > 否全域通訊清單 > 沒有發送電子郵件 > 透過 POP 連接時，所有的郵件將是 downlo用戶端和有將 aded 是沒有多部電腦或裝置 （例如筆電膝上型電腦和手機） 之間的同步處理。 
   
 ## <a name="outlook-on-the-web"></a>Outlook 網頁版
 

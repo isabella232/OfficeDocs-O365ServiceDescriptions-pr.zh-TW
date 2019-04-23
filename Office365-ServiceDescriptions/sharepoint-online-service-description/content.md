@@ -3,7 +3,7 @@ title: 內容
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 4/17/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列的「內容」功能可方便每個人使用 Enterprise Content Management (ECM)。 本產品集傳統內容管理、社交功能與強大搜尋功能於一身。
-ms.openlocfilehash: cfa36cfa492b1abf7e98be2b259fcd267d7d7930
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 71307d6c268a6060ebcacdcfa082a494a7b6059e
+ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467510"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31981677"
 ---
 # <a name="content"></a>內容
 
@@ -29,7 +29,7 @@ SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 �
 ## <a name="accessibility-standards-support"></a>Accessibility Standards Support
 <a name="bkmk_AccessibilitySS"> </a>
 
-大多數的 SharePoint 使用者介面 (UI) 元件，例如連結、表單控制項及按鈕，均是專門為 Microsoft Active Accessibility (MSAA) 的使用而設計的。MSA 能讓行動不便人士使用協助技術例 (如螢幕助讀程式) 來與內容互動。深入了解[協助工具功能](https://go.microsoft.com/fwlink/?LinkId=270947)。
+大多數的 SharePoint 使用者介面 (UI) 元件，例如連結、表單控制項及按鈕，均是專門為 Microsoft Active Accessibility (MSAA) 的使用而設計的。MSA 能讓行動不便人士使用協助技術例 (如螢幕助讀程式) 來與內容互動。深入了解[協助工具功能](https://www.microsoft.com/accessibility/features?activetab=pivot_1%3aprimaryr2)。
   
 ## <a name="asset-library-enhancementsvideo-support"></a>Asset Library Enhancements/Video Support
 <a name="bkmk_AssetLibraryEnhancementsViseoSupport"> </a>
@@ -84,17 +84,17 @@ SharePoint Online 網站集合管理員可使用稽核功能來追蹤哪些使�
 ## <a name="ediscovery-search"></a>eDiscovery Search
 <a name="bkmk_eDiscovery_Search"> </a>
 
-eDiscovery 搜尋允許使用者搜尋可用做法務遵循和訴訟支援證據的電子儲存資訊 (ESI)。可搜尋內容包括結構化內容 (如文件和清單項目)，以及部落格、Wiki、新聞摘要，以及 Exchange 信箱中的內容。若要讓內容可供搜尋，則搜尋必須編製內容的索引。如需詳細資訊，請參閱[建立和執行 eDiscovery 查詢](https://go.microsoft.com/fwlink/?LinkId=402985)。
+eDiscovery 搜尋允許使用者搜尋可用做法務遵循和訴訟支援證據的電子儲存資訊 (ESI)。可搜尋內容包括結構化內容 (如文件和清單項目)，以及部落格、Wiki、新聞摘要，以及 Exchange 信箱中的內容。若要讓內容可供搜尋，則搜尋必須編製內容的索引。如需詳細資訊，請參閱[建立和執行 eDiscovery 查詢](https://docs.microsoft.com/sharepoint/governance/create-and-run-queries-in-the-ediscovery-center)。
   
 ## <a name="ediscovery-hold"></a>eDiscovery Hold
 <a name="bkmk_eDiscovery_Hold"> </a>
 
-套用保留，表示在使用者修改或刪除內容時保留原始內容複本。您可以對 SharePoint 網站 (包括 商務用 OneDrive 網站) 中和 Exchange 信箱 (包括已封存的商務用 Skype 交談) 中的內容設定保留。保留是用來保留套用保留時的原始內容。使用者將保留套用至網站或信箱時，內容會就地保留在其原始位置。如需詳細資訊，請參閱[保留內容來源及新增內容至 eDiscovery 案例](https://go.microsoft.com/fwlink/?LinkId=270964)。
+套用保留，表示在使用者修改或刪除內容時保留原始內容複本。您可以對 SharePoint 網站 (包括 商務用 OneDrive 網站) 中和 Exchange 信箱 (包括已封存的商務用 Skype 交談) 中的內容設定保留。保留是用來保留套用保留時的原始內容。使用者將保留套用至網站或信箱時，內容會就地保留在其原始位置。如需詳細資訊，請參閱[保留內容來源及新增內容至 eDiscovery 案例](https://docs.microsoft.com/sharepoint/governance/add-content-to-a-case-and-place-sources-on-hold-in-the-ediscovery-center)。
   
 ## <a name="ediscovery-export"></a>eDiscovery Export
 <a name="bkmk_eDiscovery_export"> </a>
 
-如果使用者準備好將 eDiscovery 內容傳遞至授權單位，或想要使用另一個合法程式處理內容，則可以從 eDiscovery 中心匯出內容。匯出內容時，會以其他 eDiscovery 程式可使用的標準 EDRM 格式來傳遞內容。搜尋結果會包括「電子探索參照模型 XML」資訊清單，以提供所匯出項目的中繼資料。如需詳細資訊，請參閱[匯出 eDiscovery 內容和建立報告](https://go.microsoft.com/fwlink/?LinkId=402986)。
+如果使用者準備好將 eDiscovery 內容傳遞至授權單位，或想要使用另一個合法程式處理內容，則可以從 eDiscovery 中心匯出內容。匯出內容時，會以其他 eDiscovery 程式可使用的標準 EDRM 格式來傳遞內容。搜尋結果會包括「電子探索參照模型 XML」資訊清單，以提供所匯出項目的中繼資料。如需詳細資訊，請參閱[匯出 eDiscovery 內容和建立報告](https://docs.microsoft.com/office365/securitycompliance/export-case-data-in-advanced-ediscovery)。
   
 ## <a name="external-sharing-external-access"></a>External Sharing: External Access
 <a name="bkmk_ExternalSharingExternalAccess"> </a>
@@ -124,7 +124,7 @@ eDiscovery 搜尋允許使用者搜尋可用做法務遵循和訴訟支援證據
 ## <a name="information-rights-management-irm"></a>資訊版權管理 (IRM)
 <a name="bkmk_InformationRightsManagement"> </a>
 
-SharePoint Online IRM 使用 Azure 資訊保護，是在 Office 365 中的資訊保護技術。 IRM 保護已套用到 SharePoint 清單及文件庫層級中的檔案。 深入了解[在 SharePoint Online 中的 IRM](https://go.microsoft.com/fwlink/?LinkId=270963)。
+SharePoint Online IRM 使用 Azure 資訊保護，是在 Office 365 中的資訊保護技術。 IRM 保護已套用到 SharePoint 清單及文件庫層級中的檔案。 深入了解[在 SharePoint Online 中的 IRM](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)。
   
 ## <a name="managed-metadata-service"></a>Managed Metadata Service
 <a name="bkmk_ManagedMetadataService"> </a>
@@ -154,7 +154,7 @@ Office Online 預設為僅限檢視。僅限檢視的功能是免費提供的。
 ## <a name="office-web-apps-server-integration"></a>Office Web Apps Server integration
 <a name="bkmk_OfficeWebAppsServerIntegration"> </a>
 
-SharePoint Online 客戶無法使用此功能。在 SharePoint Server 2010 中，Office Web App 是 SharePoint 服務應用程式。在 SharePoint Server 2013 中，有新的 Office 伺服器產品：Office Web Apps Server。單一 Office Web Apps Server 伺服器陣列可支援透過 SharePoint Server 2013、Exchange Server 2013、共用資料夾和網站存取 Office 檔案的使用者。這可讓您在內部部署環境中部署和管理線上版本的 Office。深入了解[Office Web App Server 整合](https://go.microsoft.com/fwlink/?LinkId=270911)。
+SharePoint Online 客戶無法使用此功能。在 SharePoint Server 2010 中，Office Web App 是 SharePoint 服務應用程式。在 SharePoint Server 2013 中，有新的 Office 伺服器產品：Office Web Apps Server。單一 Office Web Apps Server 伺服器陣列可支援透過 SharePoint Server 2013、Exchange Server 2013、共用資料夾和網站存取 Office 檔案的使用者。這可讓您在內部部署環境中部署和管理線上版本的 Office。深入了解[Office Web App Server 整合](https://docs.microsoft.comskypeforbusiness/help-topics/help-topobld/add-office-web-apps-server)。
   
 ## <a name="preservation-hold-library"></a>Preservation hold library
 <a name="bkmk_PreservationHoldLibrary"> </a>
@@ -179,7 +179,7 @@ SharePoint Online 客戶無法使用此功能。在 SharePoint Server 2010 中�
 ## <a name="recycle-bin-sharepoint-admin-center"></a>Recycle Bin (SharePoint admin center)
 <a name="bkmk_RecycleBinadmincenter"> </a>
 
-SharePoint Online 系統管理員可以使用 SharePoint 系統管理中心來還原已刪除的網站集合。若要深入了解，請參閱[還原已刪除的網站集合](https://go.microsoft.com/fwlink/p/?LinkId=286114)。 
+SharePoint Online 系統管理員可以使用 SharePoint 系統管理中心來還原已刪除的網站集合。若要深入了解，請參閱[還原已刪除的網站集合](https://docs.microsoft.com/sharepoint/sites/delete-and-restore-site-collections)。 
   
 ## <a name="recycle-bin-site-collection"></a>Recycle Bin (site collection)
 <a name="bkmk_RecycleBinSC"> </a>
