@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Excel、 OneNote 和 PowerPoint 文件。 Office Online 讓您輕鬆藉由網際網路連線，從任何地點透過幾乎任何裝置來使用和共用 Office 檔案。 以 Word、 Excel、 OneNote、 或 PowerPoint 的 Microsoft Office 365 客戶可以檢視、 建立及編輯檔案隨時隨地。
 ms.openlocfilehash: ccab7cffeac239c8cdab20d9496d5e6bff943632
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467450"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246959"
 ---
 # <a name="office-online-service-description"></a>Office Online 服務說明
 

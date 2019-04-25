@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 您想要知道您需要取得特定 Skype 商務功能購買哪些授權嗎？ 請參閱 < Skype for Business 授權概觀。
 ms.openlocfilehash: 311bba2c1d2600136644acef05f2360c4355068b
-ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31833865"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246859"
 ---
 # <a name="skype-for-business-online-service-description"></a>商務用 Skype Online 服務說明
 

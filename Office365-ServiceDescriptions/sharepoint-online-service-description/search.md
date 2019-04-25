@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
 description: SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列的搜尋功能協助人們找到他們工作所需的資訊。 搜尋包含相關性、精簡搜尋和人員搜尋等功能。
 ms.openlocfilehash: 2dc56b1bafaf25c61d07052108267d8beebc0c03
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467630"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246619"
 ---
 # <a name="search"></a>搜尋
 
@@ -49,12 +49,12 @@ SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 �
 
 新的圖形精簡器可提供一種更具視覺效果的方式來篩選搜尋結果。深入了解[設定精簡搜尋網頁組件](https://go.microsoft.com/fwlink/?LinkId=271017)。
   
-## <a name="hybrid-search"></a>Hybrid search
+## <a name="hybrid-search"></a>混合式搜尋
 <a name="bkmk_HybridSearch"> </a>
 
 在 SharePoint 的混合部署中，搜尋結果內容可來自內部部署網站中的 SharePoint Online 和 SharePoint Server 2013。若要進一步了解混合 SharePoint 環境，請參閱 [SharePoint Server 2013 混合模式](https://go.microsoft.com/fwlink/?LinkId=275765)。
   
-## <a name="manage-search-schema"></a>Manage search schema
+## <a name="manage-search-schema"></a>管理搜尋結構描述
 <a name="bkmk_manage_search_schema"> </a>
 
 當使用者在您的 SharePoint 網站上搜尋內容時，您搜尋索引中的項目會決定他們能夠找到的結果。搜尋索引包含網站上所有文件和頁面的資訊，該索引是藉由編目 SharePoint 網站上的內容而建立的。搜尋結構描述可協助編目程式決定要揀選哪些內容和中繼資料，以及如何編製索引。您可以藉由變更搜尋結構描述，為使用者建立自訂的搜尋體驗。深入了解[在 SharePoint Online 中管理搜尋結構描述](https://go.microsoft.com/fwlink/p/?LinkId=392427)。

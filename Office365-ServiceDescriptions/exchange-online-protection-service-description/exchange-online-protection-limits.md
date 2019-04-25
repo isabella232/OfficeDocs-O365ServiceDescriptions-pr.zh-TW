@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Exchange Online protection 目前有下列限制。 這些限制會無法加以設定，除非另有指定。
 ms.openlocfilehash: 3c96449b2694dba470f6860f8324d86bb84d3774
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468140"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245629"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 限制
 
@@ -50,7 +50,7 @@ Exchange Online protection 目前有下列限制。 這些限制會無法加以�
 |**功能**|****獨立式 EOP****|****EOP 功能 -Exchange Online****|****Exchange Enterprise CAL with Services****|
 |:-----|:-----|:-----|:-----|
 |網域限制  <br/> |900  <br/> |900  <br/> |900  <br/> |
-|郵件大小限制 (包括附件)  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
+|郵件大小限制 (包括附件)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |收件者限制  <br/> |請參閱上方的「收件者限制」  <br/> |從裝載的信箱中傳送時的 500 個收件者；請參閱上方的「收件者限制」以取得其他案例  <br/> |請參閱上方的「收件者限制」  <br/> |
 |安全寄件者限制  <br/> |1024 個項目  <br/> |1024 個項目  <br/> ||
 |封鎖的寄件者限制  <br/> |1024 個項目  <br/> |1024 個項目  <br/> ||

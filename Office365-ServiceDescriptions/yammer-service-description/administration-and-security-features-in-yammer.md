@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: 下列系統管理和安全性功能是 Yammer 中提供。
 ms.openlocfilehash: d68cf69d069998fd4a92d86ff5132678095f8783
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466740"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246549"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Yammer 中的系統管理與安全性功能
 

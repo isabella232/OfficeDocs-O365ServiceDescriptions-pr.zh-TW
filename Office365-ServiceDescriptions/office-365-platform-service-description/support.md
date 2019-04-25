@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: 針對所有 Microsoft Office 365 Enterprise、Business、Education 和 Government 訂閱，Microsoft 支援團隊均提供全球技術、售前、帳單和訂閱支援。 支援可同時上線打電話付費或試用版訂閱與透過 Office 365 入口網站。 如需詳細資訊，請參閱〈Office 365 支援選項〉。
 ms.openlocfilehash: 3192d778f402e5a0a64c00f0928ce185b3bb81de
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467530"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246999"
 ---
 # <a name="support"></a>支援
 

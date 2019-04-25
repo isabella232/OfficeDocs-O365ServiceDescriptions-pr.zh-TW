@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 支援下列方法來建立、 管理，並驗證使用者。
 ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764851"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247199"
 ---
 # <a name="user-account-management"></a>使用者帳戶管理
 
@@ -71,7 +71,7 @@ Office 365 有兩個系統可用於使用者身分識別：
     
 - **Cloud identity authentication** Users with cloud identities are authenticated using traditional challenge/response. The web browser is redirected to the Office 365 sign-in service, where you type the user name and password for your work or school account. The sign-in service authenticates your credentials and generates a service token, which the web browser posts to the requested service and logs you in. 
     
-- **Federated identity authentication** Users with federated identities are authenticated using Active Directory Federation Services (AD FS) 2.0 or other Security Token Services. 在網頁瀏覽器重新導向至 Office 365 登入服務，其中您輸入您公司的識別碼在表單中的使用者主要名稱 (UPN; 例如， isabel@contoso.com)。 The sign-in service determines that you are part of a federated domain and offers to redirect you to the on-premises Federation Server for authentication. If you are logged on to the desktop (domain joined), you are authenticated (using Kerberos or NTLMv2) and the on-premises Security Token Service generates a logon token, which the web browser posts to the Office 365 sign-in service. Using the logon token, the sign-in service generates a service token that the web browser posts to the requested service and logs you in. For a list of available Security Token Services available, see [Single sign-on roadmap](https://go.microsoft.com/fwlink/p/?LinkID=270015).
+- **Federated identity authentication** Users with federated identities are authenticated using Active Directory Federation Services (AD FS) 2.0 or other Security Token Services. The web browser is redirected to the Office 365 sign-in service, where you type your corporate ID in the form a user principal name (UPN; for example, isabel@contoso.com). The sign-in service determines that you are part of a federated domain and offers to redirect you to the on-premises Federation Server for authentication. If you are logged on to the desktop (domain joined), you are authenticated (using Kerberos or NTLMv2) and the on-premises Security Token Service generates a logon token, which the web browser posts to the Office 365 sign-in service. Using the logon token, the sign-in service generates a service token that the web browser posts to the requested service and logs you in. For a list of available Security Token Services available, see [Single sign-on roadmap](https://go.microsoft.com/fwlink/p/?LinkID=270015).
     
 Office 365 使用表單式驗證，網路的驗證傳輸流量總是會使用 443 埠，以 TLS/SSL 加密。驗證傳輸流量使用極小百分比的頻寬提供 Office 365 服務。 
   
@@ -97,7 +97,7 @@ With Multi-Factor Authentication for Office 365, users are required to acknowled
 
 登入經驗會改變，端視使用的 Office 365 身分類別：
   
-||**雲端身分識別**|**同盟身分識別**|
+||**雲端身分識別**|**同盟身份**|
 |:-----|:-----|:-----|
 |Outlook 2016  <br/> |登入每個工作階段 <sup>1</sup> <br/> |登入每個工作階段 <sup>2</sup> <br/> |
 |Outlook 2013  <br/> |登入每個工作階段 <sup>1</sup> <br/> |登入每個工作階段 <sup>2</sup> <br/> |

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 （線上） 服務說明
+title: Microsoft Dynamics 365 (Online) 服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,13 +14,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: 年 12 月 2016 更新 Dynamics 365 (線上和內部部署)，Dynamics CRM 功能現在是包含 Dynamics 365，是套裝的智慧型商務應用程式的一部分。 Dynamic 365 透過新的應用程式，協助您管理特定商務功能，藉此統整客戶關係管理 (CRM) 和企業資源規劃 (ERP) 功能。
 ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467210"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246519"
 ---
-# <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365 （線上） 服務說明
+# <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365 (Online) 服務說明
 
 年 12 月 2016 更新 Dynamics 365 (線上和內部部署)，Dynamics CRM 功能現在是包含 Dynamics 365，是套裝的智慧型商務應用程式的一部分。 Dynamic 365 透過新的應用程式，協助您管理特定商務功能，藉此統整客戶關係管理 (CRM) 和企業資源規劃 (ERP) 功能。 
   

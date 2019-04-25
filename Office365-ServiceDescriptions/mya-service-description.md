@@ -1,5 +1,5 @@
 ---
-title: MyAnalytics 服務說明
+title: MyAnalytics 服務描述
 ms.author: sharik
 author: skjerland
 ms.reviewer: v-pascha
@@ -11,13 +11,13 @@ ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics-功能、 散佈、 隱私權和必要條件
 ms.openlocfilehash: e0e060674b72bd278ef237e505ca05ef1e082db1
-ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "30642218"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246499"
 ---
-# <a name="myanalytics-service-description"></a>MyAnalytics 服務說明
+# <a name="myanalytics-service-description"></a>MyAnalytics 服務描述
 
 MyAnalytics 摘要說明您如何消磨上班時間，並再建議聰明工作的方法。 MyAnalytics 提供這些深入了解透過[元素](#elements)，您可以存取 Microsoft outlook 或網頁瀏覽器。
 
@@ -38,7 +38,7 @@ MyAnalytics 是由下列元素所組成：
 
 MyAnalytics 元素中可用的不同的 Microsoft Office 365 計劃，使用者的不同層級，如下表所述：
 
-| 方案 | 可用的元素 |
+| 規劃 | 可用的元素 |
 | --- | --- |
 | Microsoft 365 E3</br>Microsoft 365 商務版</br>Office 365 E3</br>Office 365 版 E1</br>商務進階版</br>商務基本版 | </br></br></br>[增益集](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in) |
 | Microsoft 365 E5</br>Office 365 企業版 E5</br>Office 365 A5</br>OOffice 365 非營利組織版 E5</br>MyAnalytics 附加元件 | </br>[儀表板](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/dashboard)、[增益集](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in)、[電子郵件摘要](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/email-digest)及[MyAnalytics 微調](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/mya-notifications) |

@@ -13,11 +13,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
 ms.openlocfilehash: 6da22293e465f83a69181aec78c47866154a6b79
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467790"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245049"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>在 Exchange Online 封存的遵循與安全性功能
 
@@ -72,7 +72,7 @@ Exchange Online Archiving 提供的保留原則功能與 Exchange Server 2010 Se
 > [!NOTE]
 > 對於 Exchange Online Archiving使用者而言，[可復原的項目] 資料夾的預設配額為 100 GB。 
   
-### <a name="in-place-ediscovery"></a>就地 eDiscovery
+### <a name="in-place-ediscovery"></a>就地電子文件探索
 <a name="BKMK_In_placehold"> </a>
 
 Exchange Online Archiving 支援就地 eDiscovery，可供搜尋組織中的信箱內容。系統管理員或經過授權的 Discovery 管理員可以從內部部署 Exchange 2013 伺服器，使用 Exchange 系統管理中心或遠端 Windows PowerShell 來搜尋各種信箱項目，包括電子郵件、附件、行事曆約會、工作及連絡人。就地 eDiscovery 可以同時搜尋主要信箱和封存。功能齊備的篩選功能包括寄件者、收件者、郵件類型、傳送日期、接收日期、副本及密件副本，另外還包括關鍵字查詢語法 (KQL) 語法。如需詳細資訊，請參閱[就地 eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169)。

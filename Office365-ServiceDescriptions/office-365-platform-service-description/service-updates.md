@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 若要了解剛剛發行或即將發行的 Office 365 功能，請參閱 Microsoft 365 藍圖。
 ms.openlocfilehash: dc9896215787cbd2477ddbf7826415d98b98616b
-ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31833837"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247009"
 ---
 # <a name="service-updates"></a>服務更新
 

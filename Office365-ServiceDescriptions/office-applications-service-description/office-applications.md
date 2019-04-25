@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office 是一套強大的服務產品，能協助您想出最棒的點子、完成工作並在行動間保持聯繫。只要登入以使用個人化體驗，所有最新的 Office 應用程式，以及新的增強功能都將持續加入。
 ms.openlocfilehash: 8dfdf4a28fde1d509a96af910b137698e371f713
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467690"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246749"
 ---
 # <a name="office-applications"></a>Office 應用程式
 

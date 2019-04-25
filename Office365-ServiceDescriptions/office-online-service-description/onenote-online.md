@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: 使用 OneNote Online (先前稱為 OneNote Web App) 中，您可以從任何地方新增至此並輕鬆與他人共用 OneNote 筆記本記筆記線上。 所有 Office 365 客戶均可使用 Office Online 來檢視和局部編輯 Office 檔案。
 ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467020"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247179"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -182,12 +182,12 @@ OneNote Online 可顯示受資訊版權管理 (IRM) 保護的筆記本。但是�
 
 透過 OneNote Online，您可以關閉在某人編輯筆記本時顯示的作者標籤。這可以移除在頁面中新備註旁顯示的縮寫。作者標籤預設為開啟。
   
-## <a name="styles"></a>Styles
+## <a name="styles"></a>樣式
 <a name="bkmk_Styles"> </a>
 
 透過 OneNote Online，您可以輕鬆套用文字樣式以快速格式化。進一步了解[在瀏覽器中和 OneNote 桌面應用程式中使用筆記本的差異](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   
-## <a name="tables"></a>表格
+## <a name="tables"></a>Tables
 <a name="bkmk_Tables"> </a>
 
 透過 OneNote Online，您可以插入表格、編輯表格文字，以及輕鬆編輯基本的表格結構 (例如：新增或刪除列和欄)。如需進階的表格功能 (例如：將表格轉換為 Excel 試算表或儲存格網底、標題列，以及在表格儲存格中排序資料)，請使用 OneNote 桌面應用程式。進一步了解[在瀏覽器中和 OneNote 桌面應用程式中使用筆記本的差異](https://go.microsoft.com/fwlink/p/?LinkId=272946)。

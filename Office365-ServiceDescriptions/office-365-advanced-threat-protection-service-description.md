@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 進階威脅防護 (ATP) 是雲端式電子郵件篩選服務，可協助提供穩定的零時差保護來保護您的組織抵禦不明的惡意程式碼和病毒，並包含的功能，以保護您組織從即時有害的連結。 ATP 具有豐富報告和 URL 追蹤功能，可讓系統管理員深入了解組織中發生的攻擊的類型。
 ms.openlocfilehash: e0b3b686f707063bff2433f1ed6acd368a08aab6
-ms.sourcegitcommit: 5fabae12930bc8d815cdbb3af9d36af4be7c6c53
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31479741"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246258"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 進階威脅防護服務說明
 
@@ -85,7 +85,7 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式，例如 Microsoft Exchange Se
   
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>各進階威脅防護 (ATP) 計劃中可用的功能
 
-每項功能如下所列。 提到 Exchange Online 時，通常是指 Office 365 企業版服務系列。
+每項功能如下所列。提到 Exchange Online 時，通常是指 Office 365 企業版服務系列。
   
 |**功能**|**ATP 計劃 1**<br>（先前稱為 ATP 獨立版）|**ATP 計劃 2**<br>（先前稱為威脅情報 <br>獨立版） | Office 365 企業版 E5| 
 |:-----|:-----|:-----|:-----|

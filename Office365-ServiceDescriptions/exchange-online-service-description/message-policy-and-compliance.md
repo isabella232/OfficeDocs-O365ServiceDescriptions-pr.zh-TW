@@ -13,11 +13,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 ms.openlocfilehash: 806476eb165bb4e98fe5c9d73b878aaa7e32b66c
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467250"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246539"
 ---
 # <a name="message-policy-and-compliance"></a>郵件原則及符合性
 
@@ -128,7 +128,7 @@ Internet Explorer 9 或更新版本支援 S/MIME。目前，Firefox、Opera 和 
   
 如需詳細資訊，請參閱[原有範圍暫止](https://go.microsoft.com/fwlink/p/?LinkId=271746)。
   
-## <a name="in-place-ediscovery"></a>就地 eDiscovery
+## <a name="in-place-ediscovery"></a>就地電子文件探索
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 Exchange Online 可讓客戶使用網頁介面搜尋整個組織的信箱內容。具有就地 eDiscovery 搜尋執行授權 (透過指派) 的系統管理員或法規遵循和安全性職員可搜尋電子郵件訊息、附件、行事曆約會、工作、連絡人及其他項目。就地 eDiscovery 可以同時搜尋主要信箱和封存。功能齊備的篩選功能包括寄件者、收件者、訊息類型、傳送/接收日期和副本/密件副本，另外還包括 KQL 語法。搜尋結果將同時包含 [刪除的郵件] 資料夾中符合搜尋查詢的項目。

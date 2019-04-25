@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (先前稱為 Excel Web App) 您 Microsoft Excel 將經驗延伸至網頁瀏覽器中，其中您可以使用的活頁簿儲存活頁簿的網站上直接。 所有 Office 365 客戶均可使用 Office Online 來檢視和局部編輯 Office 檔案。
 ms.openlocfilehash: bfbf1f354d7bc5fdc4e8539885498d360ef67faa
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467380"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246979"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -44,7 +44,7 @@ Excel Online (先前稱為 Excel Web App) 您 Microsoft Excel 將經驗延伸至
 
 「時間表」控制可讓您篩選模型化資料。視覺化的呈現方式可讓您檢視和變更日期的持續範圍，以及篩選樞紐型物件，例如：樞紐分析表和樞紐分析圖。 
   
-## <a name="alignment"></a>Alignment
+## <a name="alignment"></a>對齊
 <a name="bkmk_Alignment"> </a>
 
 使用 [首頁] 索引標籤上的 [對齊] 按鈕來變更文字的對齊方式。 
@@ -264,7 +264,7 @@ Excel Online 可讓您檢視 Power Pivot 表格和圖表，但是您需要 Excel
 
 在 Excel Online 中，您可以不關閉活頁簿檔案就直接加以重新命名，只要按一下標題中的檔案名稱，再輸入新名稱即可。若要使用 Excel 桌面應用程式重新命名檔案，則需要關閉檔案、瀏覽至其在裝置上的位置，然後重新命名檔案。
   
-## <a name="replace"></a>Replace
+## <a name="replace"></a>取代
 <a name="bkmk_Replace"> </a>
 
 不適用於 Excel Online。如果您的電腦已安裝 Excel 桌面應用程式，則您可以使用 Excel 來尋找和取代文件中的內容。進一步了解[在 Excel 2013 中使用尋找和取代功能](https://go.microsoft.com/fwlink/p/?LinkId=282333)。

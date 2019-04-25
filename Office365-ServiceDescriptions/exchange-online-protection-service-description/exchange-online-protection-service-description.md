@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 取得功能和需求，Exchange Online Protection 的相關資訊。 包含提供 Exchange Online Protection 的計劃清單，和不同計劃的功能比較。
 ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955762"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246109"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服務說明
 

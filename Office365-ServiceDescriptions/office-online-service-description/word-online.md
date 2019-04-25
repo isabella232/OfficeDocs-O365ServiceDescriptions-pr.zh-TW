@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word Online (先前稱為 Word Web App) 延伸至網頁瀏覽器中，您的 Microsoft Word 使用經驗，其中您可以使用文件儲存文件的網站上直接。
 ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467300"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246949"
 ---
 # <a name="word-online"></a>Word Online
 
@@ -358,7 +358,7 @@ Word Online 和 Word 桌面應用程式皆提供進階的表格格式化功能 (
 
 Word Online 提供簡易的文件字數統計功能。進一步了解 [Word Online 中的字數統計](https://go.microsoft.com/fwlink/p/?LinkId=271864)。
   
-## <a name="zoom"></a>Zoom
+## <a name="zoom"></a>縮放
 <a name="bkmk_Zoom"> </a>
 
 縮放功能僅可在 [檢視] 模式時使用。您可以在 Word Online 的 [編輯] 模式中使用瀏覽器檢視設定來執行縮放。進一步了解 [Word Online 中的字數統計](https://go.microsoft.com/fwlink/p/?LinkId=271864)。

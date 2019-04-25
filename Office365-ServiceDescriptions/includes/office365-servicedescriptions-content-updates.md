@@ -34,7 +34,7 @@
 | 3/28/2019 | [Exchange Online 設定與管理](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-setup-and-administration) | 修改時間 |
 | 3/28/2019 | [Office 365 進階威脅防護服務說明](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 修改時間 |
 | 3/28/2019 | [Office 365 Germany](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | 修改時間 |
-| 3/28/2019 | [由 21Vianet 運作的 Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 修改時間 |
+| 3/28/2019 | [21Vianet 運作的 Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 修改時間 |
 | 3/28/2019 | [Office 365 平台服務說明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 修改時間 |
 
 

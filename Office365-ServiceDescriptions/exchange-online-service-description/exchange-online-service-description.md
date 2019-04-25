@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之 Office 365 訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
 ms.openlocfilehash: 5f30525e37aa4cf71815fcd8670bc2965a62ab4b
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467950"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246249"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -106,7 +106,7 @@ Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsof
 |**[收件者](recipients.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F1** <br/> |
 |容量提醒  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |雜亂資料  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|MailTips  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|寄件提醒  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |委派存取  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |沒有<sup>24</sup>  <br/> |
 |收件匣規則  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |連線的帳戶  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |Yes<sup>17</sup> <br/> |Yes<sup>17</sup> <br/> |Yes<sup>17</sup> <br/> |Yes<sup>17</sup> <br/> |
@@ -239,7 +239,7 @@ Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsof
 |**[收件者](recipients.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 方案 1** <br/> |**Exchange Online 方案 2** <br/> |**Exchange Online Kiosk** <br/> |
 |容量提醒  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |雜亂資料  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|MailTips  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|寄件提醒  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |委派存取  <br/> |是  <br/> |是  <br/> |是\  <br/> |是  <br/> |否  <br/> |
 |收件匣規則  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |連線的帳戶  <br/> |是  <br/> |是  <br/> |是<sup>19</sup> <br/> |是<sup>19</sup> <br/> |是<sup>19</sup> <br/> |

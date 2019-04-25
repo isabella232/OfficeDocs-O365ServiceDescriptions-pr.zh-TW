@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 是雲端式服務，旨在協助達成您的組織對於健全安全性、 可靠性和使用者生產力需求。
 ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
-ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "30641438"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246789"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 服務描述 
 
@@ -47,7 +47,7 @@ Microsoft 為的合格服務的 Office 365 的 FastTrack Center 權益提供合�
     
 - [Exchange Online Protection 服務說明](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
     
-- [Office 365 進階的威脅防護服務說明](office-365-advanced-threat-protection-service-description.md)
+- [Office 365 進階威脅防護服務說明](office-365-advanced-threat-protection-service-description.md)
     
 - [Exchange Online 封存服務說明](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
     
@@ -57,9 +57,9 @@ Microsoft 為的合格服務的 Office 365 的 FastTrack Center 權益提供合�
     
 - [商務用 Skype Online 服務說明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
-- [Workplace Analytics Service Description](workplace-analytics-service-description.md)
+- [工作場所分析服務描述](workplace-analytics-service-description.md)
 
-- [MyAnalytics 服務說明](mya-service-description.md)
+- [MyAnalytics 服務描述](mya-service-description.md)
     
 - [Power BI 服務說明](power-bi-service-description.md)
     
@@ -69,7 +69,7 @@ Microsoft 為的合格服務的 Office 365 的 FastTrack Center 權益提供合�
     
 - [Yammer 服務說明](yammer-service-description/yammer-service-description.md)
     
-- [Microsoft Dynamics 365 （線上） 服務說明](microsoft-dynamics-365-online-service-description.md)
+- [Microsoft Dynamics 365 (Online) 服務說明](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
 > <sup>1</sup> 包含 [套件功能](https://technet.microsoft.com/EN-US/library/office-365-suite-features.aspx)的可用性，例如 Office Delve、Microsoft MyAnalytics、Microsoft Sway 和 Microsoft Teams。 

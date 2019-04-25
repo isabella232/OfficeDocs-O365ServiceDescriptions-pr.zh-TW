@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio Online 您 Microsoft Visio 將經驗延伸至網頁瀏覽器中，其中您可以使用圖表圖表儲存所在的網站上直接。 使用 Office Online 的 Microsoft Office 365 客戶可以檢視和共用圖表和插入移至的註解。
 ms.openlocfilehash: 54c57a095d3689e9e6879f8c4a74ae4bbaeac315
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467560"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246559"
 ---
 # <a name="visio-online"></a>Visio Online
 
@@ -145,7 +145,7 @@ Visio Online 可讓您使用 [另存新檔或下載一份圖表中，但是您�
 
 因為您的 Visio 圖表儲存 online，您可以傳送的連結。 人員就可以檢視它的任何瀏覽器中。 它們不需要有安裝 Visio 桌面應用程式。
   
-## <a name="zoom"></a>Zoom
+## <a name="zoom"></a>縮放
 <a name="BM_25"> </a>
 
 Visio Online 包含可讓您放大和縮小的滑桿。此外，您可以使用 Pan&amp;若要放大的圖表區域的 [縮放] 功能。

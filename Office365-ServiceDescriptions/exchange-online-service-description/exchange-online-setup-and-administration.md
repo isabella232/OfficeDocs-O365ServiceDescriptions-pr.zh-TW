@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: 本節說明的管理控制和可自訂 Exchange Online 設定，並跟組織的 Exchange Online 環境，在執行，且目前的支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
 ms.openlocfilehash: 45707cbba47af8076312049686cb01beb6825d9e
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955742"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246299"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 的安裝和管理
 

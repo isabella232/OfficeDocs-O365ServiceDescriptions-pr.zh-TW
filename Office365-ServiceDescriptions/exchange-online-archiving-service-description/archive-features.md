@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 下列各節說明 Microsoft Exchange Online Archiving 的封存功能。
 ms.openlocfilehash: ba1617cfad392290dd9259d8f4eb87860f58eb73
-ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31833839"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245029"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online 封存中的封存功能
 

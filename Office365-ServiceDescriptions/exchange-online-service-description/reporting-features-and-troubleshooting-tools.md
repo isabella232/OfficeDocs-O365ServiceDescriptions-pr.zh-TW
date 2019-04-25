@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online 提供各種報告功能在 Exchange 系統管理中心 (EAC)。
 ms.openlocfilehash: 1fb9a0fe62fb94c0ace7388613ca26f65fc4698f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466980"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246369"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>報告功能和疑難排解工具
 

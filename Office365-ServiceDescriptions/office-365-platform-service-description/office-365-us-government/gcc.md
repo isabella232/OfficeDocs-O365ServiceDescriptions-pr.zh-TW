@@ -10,23 +10,23 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
-description: '為符合美國聯邦政府機構、州政府機構、地方政府機構和族群政府機構，以及代表美國政府保留及處理資料之約聘人員之唯一與發展需求，Microsoft 提供 Office 365 美國政府社群 (GCC) 服務。可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。試用目前僅可用於美國政府實體。 '
+description: 為了符合唯一且不斷美國聯邦、 狀態、 本機，以及部落政府，以及承包商保留，或代表美國政府處理資料的需求，Microsoft 會提供 Office 365 美國政府社群 (GCC) 服務。 可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 試用版目前僅供美國政府實體使用。
 ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
-ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379025"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247129"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
-為符合美國聯邦政府機構、州政府機構、地方政府機構和族群政府機構，以及代表美國政府保留及處理資料之約聘人員之唯一與發展需求，Microsoft 提供 Office 365 美國政府社群 (GCC) 服務。可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。試用目前僅可用於美國政府實體。  
+為了符合唯一且不斷美國聯邦、 狀態、 本機，以及部落政府，以及承包商保留，或代表美國政府處理資料的需求，Microsoft 會提供 Office 365 美國政府社群 (GCC) 服務。 可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 試用版目前僅供美國政府實體使用。 
   
 請洽詢您的客戶團隊或偏好的夥伴以瞭解詳細資訊，或啟動驗證程序。可在[比較 Office 365 政府版方案](https://products.office.com/en-us/government/compare-office-365-government-plans)頁面上找到其他資訊。 
   
 ## <a name="how-to-use-this-service-description-section"></a>如何使用此「服務說明」一節
 
-Office 365 美國政府服務說明的設計目的旨在作為一般 Office 365 服務說明的重疊。它定義了與 Office 365 企業版產品相比的唯一承諾和差異。
+Office 365 US Government 服務說明的設計目的在於與一般 Office 365 服務說明之間互相對照，定義了與 Office 365 企業版產品之間特色和差異的比較。
   
 ## <a name="us-government-community-compliance"></a>美國政府社群符合性
 
@@ -70,6 +70,6 @@ MyAnalytics 係根據 Office 365 服務的 FedRAMP 控制實作所設計及運�
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 美國政府社群雲端 (GCC) 客戶支援
 
 提供 office 365 GCC 客戶支援在相同的字詞及至[全球版本 Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
-)提供的條件，包括不支援代理程式實體位置或公民保證。Azure 公用雲端，支援下列之下搭配運作的 office 365 GCC[條款和條件。](https://azure.microsoft.com/en-us/support/plans/)
+)提供的條件，包括不支援代理程式實體位置或公民保證。 Azure 公用雲端，支援下列之下搭配運作的 office 365 GCC[條款和條件。](https://azure.microsoft.com/en-us/support/plans/)
 
-Microsoft 會提醒您不共用任何受控制、 敏感或機密資訊與支援人員，一部分您 Office 365 GCC 相關支援事件，直到您確認他們的授權，才能檢視或存取這類資料。Microsoft 致力於[保護您的隱私權。](https://privacy.microsoft.com/en-US/privacystatement )Office 365 GCC 客戶支援服務 」 資格鑑定界限中未包含和不提供 FedRAMP、 SRG、 ITAR、 IRS 1075 或 CJIS 資料處理和/或規範保證。
+Microsoft 會提醒您不共用任何受控制、 敏感或機密資訊與支援人員，一部分您 Office 365 GCC 相關支援事件，直到您確認他們的授權，才能檢視或存取這類資料。 Microsoft 致力於[保護您的隱私權。](https://privacy.microsoft.com/en-US/privacystatement ) Office 365 GCC 客戶支援服務 」 資格鑑定界限中未包含和不提供 FedRAMP、 SRG、 ITAR、 IRS 1075 或 CJIS 資料處理和/或規範保證。

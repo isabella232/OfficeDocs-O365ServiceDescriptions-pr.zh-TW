@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: 新增網域時，逐步精靈可協助您新增使用者，並將您的 Office 365 電子郵件地址和其他服務轉換為公司名稱。 完成精靈後，您的商業電子郵件會開始進入 Office 365，而不是移至目前的電子郵件提供者。 若要深入了解，請參閱將您的使用者與網域新增至 Office 365。 如果使用 21Vianet 運作的 Office 365，請參閱驗證您的網域。
 ms.openlocfilehash: 1dc6d23afea52dd292d97b414e5b491d6d332dd7
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466370"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247279"
 ---
 # <a name="domains"></a>網域
 

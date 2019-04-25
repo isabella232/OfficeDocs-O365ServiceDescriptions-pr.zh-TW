@@ -14,17 +14,17 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Yammer 中的下列文件共同作業功能可用。
 ms.openlocfilehash: aff27c7638975044c76aa6328cd3939230afd2b8
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466310"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246509"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Yammer 中的文件協同作業功能
 
 Yammer 中的下列文件共同作業功能可用。
   
-## <a name="files"></a>Files
+## <a name="files"></a>檔案
 <a name="bkmk_Files"> </a>
 
 跨團隊共用 Microsoft Office 文件、PDF、影像和視訊，並立即取得意見反應。上傳新版本，確保每個人均可看見最新草稿並隨時存取較舊版本。

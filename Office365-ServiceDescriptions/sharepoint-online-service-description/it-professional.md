@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 以下 SharePoint 功能支援 IT 專業人員於其組織的 SharePoint 環境進行保護與管理工作。
 ms.openlocfilehash: afacaa2e05b7b6cc178ca3585230408f75264aa6
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825161"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246739"
 ---
 # <a name="it-professional"></a>IT 專業人員
 

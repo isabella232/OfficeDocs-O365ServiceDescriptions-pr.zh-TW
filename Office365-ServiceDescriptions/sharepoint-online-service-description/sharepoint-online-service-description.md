@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online 在 Office 365 中讓其他人共用和共同作業，可以通知，並邀請其他人公司，轉換商務程序，並充分發揮集體知識。 此外，SharePoint 會提供組織的功能來保護和管理資料，以及建置自訂解決方案。 如需快速的概觀，請參閱什麼是 SharePoint？
 ms.openlocfilehash: bd15c6b9835706e90e77810d5f216f030214a073
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467910"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246599"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 服務說明
 
@@ -148,7 +148,7 @@ Microsoft SharePoint Online 在 Office 365 中讓其他人共用和共同作業�
 |[Office Online (建立/編輯)](content.md#office-online-createedit) <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是<sup>15</sup> <br/> |是  <br/> |是  <br/> |
 |[Office Online (檢視)](content.md#office-online-view) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 專業增強版  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[Office Web Apps Server 整合](content.md#office-web-apps-server-integration) <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |是  <br/> |是  <br/> |
+|[Office Web Apps Server 整合](content.md#office-web-apps-server-integration) <br/> |包含  <br/> |包含  <br/> |包含  <br/> |包含  <br/> |包含  <br/> |包含  <br/> |包含  <br/> |是  <br/> |是  <br/> |
 |[保存保留庫](content.md#preservation-hold-library) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |[發佈的分析](content.md#publishing-analytics) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[快速編輯](content.md#quick-edit) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |
@@ -210,7 +210,7 @@ Microsoft SharePoint Online 在 Office 365 中讓其他人共用和共同作業�
 |[自訂管理的路徑](sites-servicedesc.md#custom-managed-paths) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |文件庫  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[治理](sites-servicedesc.md#governance) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|中樞站台  <br/> |沒有<sup>21</sup> <br/> |沒有<sup>21</sup> <br/> |沒有<sup>21</sup> <br/> |沒有<sup>21</sup> <br/> |沒有<sup>21</sup> <br/> |沒有<sup>21</sup> <br/> |沒有<sup>21</sup> <br/> |否  <br/> |否  <br/> |
+|中樞網站  <br/> |沒有<sup>21</sup> <br/> |沒有<sup>21</sup> <br/> |沒有<sup>21</sup> <br/> |沒有<sup>21</sup> <br/> |沒有<sup>21</sup> <br/> |沒有<sup>21</sup> <br/> |沒有<sup>21</sup> <br/> |否  <br/> |否  <br/> |
 |混合式應用程式啟動器  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>19</sup> <br/> |是  <br/> |是  <br/> |
 |商務和網站的混合式 OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>19</sup> <br/> |是  <br/> |是  <br/> |
 |[大量清單延展性和管理](sites-servicedesc.md#large-list-scalability-and-management) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
