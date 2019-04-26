@@ -10,11 +10,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 尋找適用於 Office 365 企業版方案及獨立方案的 SharePoint Online 限制。
 ms.openlocfilehash: c1b6185c46be6f1343e6679a5b887bab5b393708
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467870"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246609"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 限制
 
@@ -27,7 +27,7 @@ ms.locfileid: "30467870"
 |**功能** <br/> |**Office 365 商務基本版或商務進階版** <br/> |**Office 365 企業版 E1、 E3 或 E5 或 SharePoint Online 計劃 1 或 2** <br/> | **Office 365 企業版 F1** <br/> |
 |儲存體<sup>1、2</sup> <br/> |每個組織 1 TB，加上 10 GB，每個購買授權  <br/> |每個組織 1 TB，加上 10 GB，每個授權購買<sup>3</sup> <br/> |每個組織 1 TB <sup>3</sup> <br/> |
 |網站集合儲存體  <br/> |每個網站集合或群組最多 25 TB<sup>4</sup> <br/> |每個網站集合或群組最多 25 TB<sup>4</sup> <br/> |每個網站集合或群組最多 25 TB<sup>5</sup> <br/> |
-|每個組織的網站集合  <br/> |500000<sup>6</sup> <br/> |500000<sup>6</sup> <br/> | 500,000<br/> |
+|每個組織的網站集合  <br/> |500000<sup>6</sup> <br/> |500000<sup>6</sup> <br/> |500,000<br/> |
 |使用者數目  <br/> |最多 300 個  <br/> |1- 500,000<sup>7</sup> <br/> |1- 500,000<sup>7</sup> <br/> |
    
 > [!NOTE]
@@ -68,6 +68,6 @@ ms.locfileid: "30467870"
 > [!NOTE]
 > 沒有您可以邀請您的 SharePoint Online 網站集合的外部使用者數目不受限制。 如需詳細資訊，請參閱 <<c0>管理外部共用您的 SharePoint Online 環境。
 
-## <a name="see-also"></a>另請參閱
+## <a name="see-also"></a>請參閱
 
 [適用於 SharePoint Online 的搜尋限制](/sharepoint/search-limits)

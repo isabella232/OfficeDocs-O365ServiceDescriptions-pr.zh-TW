@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主題中列出的功能是一群 web 式工具，可協助您進行共同作業並安全地跨多種裝置與多個 Office 365 服務進行通訊。 這些功能會協助在您的組織內進行新的連線，方法是整合數位內容建立、儲存及管理與用於在使用者之間探索及分享資訊的社交工具。
 ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764831"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247189"
 ---
 # <a name="office-365-suite-features"></a>Office 365 套件功能
 

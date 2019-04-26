@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 是一項訂閱服務，提供您已熟悉，例如 Word、 Excel 及 PowerPoint 的 Office 桌面應用程式的最新版本。
 ms.openlocfilehash: 9ae21b604a2650586402e33388d705641292ab88
-ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31981697"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247018"
 ---
 # <a name="office-applications-service-description"></a>Office 應用程式服務說明
 

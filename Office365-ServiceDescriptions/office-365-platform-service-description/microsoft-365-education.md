@@ -11,11 +11,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 是提供各種可滿足您組織需求的最佳方案。 如果您正在尋找 Microsoft 365 和 Office 365 教育版方案之間的差異，則本文將告訴您在每個包含哪些功能。
 ms.openlocfilehash: 25338e9572f765ffc09127d4deb7e3ff0cf56a76
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825191"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247249"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -77,7 +77,7 @@ Microsoft 365 提供的完整的系統，包括 Office 365、 Windows 10 和 Ent
 |Customer Lockbox  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |進階資料管理  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |**管理和安全性** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
-|School Data Sync  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|學校資料同步處理  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |進階安全性管理  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Intune 教育版<sup>8</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |進階威脅分析  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |

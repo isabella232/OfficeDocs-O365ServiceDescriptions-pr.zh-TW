@@ -18,11 +18,11 @@ ms.custom:
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
 ms.openlocfilehash: 8776294c2a9e03d625b84ac4568e397605e294eb
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764811"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247229"
 ---
 # <a name="office-365-plan-options"></a>Office 365 方案選項
 
@@ -36,10 +36,10 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
 |**Office 365 服務系列**|**方案**|
 |:-----|:-----|
 |**商務版 (最多 300 位使用者)** <br/> |[Office 365 商務基本版](https://go.microsoft.com/fwlink/?LinkId=517487) <br/> [Office 365 商務版](https://go.microsoft.com/fwlink/?linkid=625101) <br/> [Office 365 商務進階版](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
-|**企業 (使用者數目不受限制)** <br/> |[Office 365 企業版 E1](https://go.microsoft.com/fwlink/p/?LinkId=286413) <br/> [Office 365 Enterprise E3](https://go.microsoft.com/fwlink/p/?LinkId=286417) <br/> [Office 365 企業版 E5](https://go.microsoft.com/fwlink/?linkid=786444) <br/> [Office 365 企業版 F1](https://go.microsoft.com/fwlink/p/?LinkId=286418) <br/> |
+|**企業 (使用者數目不受限制)** <br/> |[Office 365 企業版 E1](https://go.microsoft.com/fwlink/p/?LinkId=286413) <br/> [Office 365 企業版 E3](https://go.microsoft.com/fwlink/p/?LinkId=286417) <br/> [Office 365 企業版 E5](https://go.microsoft.com/fwlink/?linkid=786444) <br/> [Office 365 企業版 F1](https://go.microsoft.com/fwlink/p/?LinkId=286418) <br/> |
 |**Education (使用者數目不受限制)** <br/> |[Office 365 教育版](https://go.microsoft.com/fwlink/?linkid=824860) <br/> [Office 365 教育版 E5](https://go.microsoft.com/fwlink/?linkid=824860) <br/> |
 |**Government (使用者數目不受限制)** <br/> |[參閱所有可用的商務方案](http://go.microsoft.com/fwlink/?LinkID=827898) <br/> |
-|**中國的 21Vianet 運作的 Office 365** <br/> |[參閱所有可用的商務方案](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
+|**中國的 21Vianet 運作的 Office 365** <br/> |[請參閱所有可用的業務計劃](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Germany** <br/> |[參閱所有可用的商務方案](https://go.microsoft.com/fwlink/?linkid=839016) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>每個 Office 365 方案中可用的服務
@@ -51,7 +51,7 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Service (服務)** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 企業版 E5<sup>4</sup>，<sup>16</sup>** <br/> |**Office 365 企業版 F1** <br/> |
+|**服務** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5<sup>4</sup>，<sup>16</sup>** <br/> |**Office 365 企業版 F1** <br/> |
 |Office 365 平台  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -118,11 +118,11 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
 
 下列線上服務是以獨立方案的形式單獨提供：您也可以將它們加入到尚不包含它們的 Business 和 Enterprise 服務系列方案中。如需定價資訊，或是與線上服務代表洽談，請按下表中所列的任何方案。
   
-|**Service (服務)**|**方案**|
+|**服務**|**方案**|
 |:-----|:-----|
-|Exchange Online  <br/> |[Exchange Online Plan 1](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Plan 2](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Exchange Online 進階威脅防護](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Exchange Online Archiving](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Exchange Online Kiosk](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
-|SharePoint Online  <br/> |[SharePoint Online 方案 1](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online 方案 2](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
-|商務用 OneDrive  <br/> |[商務用 OneDrive 方案 1](https://onedrive.live.com/about/en-us/business/) <br/> [商務用 OneDrive 方案 2](https://onedrive.live.com/about/en-us/business/) <br/> |
+|Exchange Online  <br/> |[Exchange Online 方案 1](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online 方案 2](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Exchange Online 進階威脅防護](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Exchange Online 封存](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Exchange Online Kiosk](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
+|SharePoint Online  <br/> |[SharePoint Online 計劃 1](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online 計劃 2](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
+|商務用 OneDrive  <br/> |[商務用 OneDrive (方案 1)](https://onedrive.live.com/about/en-us/business/) <br/> [商務用 OneDrive (方案 2)](https://onedrive.live.com/about/en-us/business/) <br/> |
 |商務用 Skype Online  <br/> |[商務用 Skype Online 方案 1](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> [商務用 Skype Online 方案 2](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> |
 |Office 應用程式  <br/> |[Office 365 專業增強版](https://go.microsoft.com/fwlink/p/?LinkId=294195) <br/> [Office 365 商務版](https://office.microsoft.com/en-us/office-365-business-FX104355718.aspx) <br/> [Office 365 商務進階版](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
 |專案組合管理  <br/> |[Project Online](https://go.microsoft.com/fwlink/p/?LinkId=294196) <br/> |
