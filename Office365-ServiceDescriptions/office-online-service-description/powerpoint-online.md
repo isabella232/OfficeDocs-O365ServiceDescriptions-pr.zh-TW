@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint Online (先前稱為 PowerPoint Web App) 可將延伸至網頁瀏覽器中，您 Microsoft PowerPoint 經驗讓您將簡報儲存所在的網站上直接使用簡報。 具有 Office Online 的 Microsoft Office 365 客戶可以隨時隨地檢視、建立及編輯檔案。
 ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467340"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246939"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
@@ -202,7 +202,7 @@ PowerPoint Online 從網頁瀏覽器啟動並依賴網際網路連線運作。�
 
 PowerPoint Online 會在您每次變更之後儲存作業。PowerPoint Web App 不提供 [儲存] 命令。您可以下載副本，但必須擁有 Microsoft PowerPoint 桌面應用程式才能編輯本機副本。
   
-## <a name="shapes"></a>Shapes
+## <a name="shapes"></a>圖案
 <a name="bkmk_Shapes"> </a>
 
 文字藝術師和圖表無法插入 PowerPoint Online，但 PowerPoint Online 會依照原樣顯示。在 [編輯] 檢視中編輯和格式化文字。如果您想要套用文字效果至文字藝術師，則需要 Microsoft PowerPoint 桌面應用程式。

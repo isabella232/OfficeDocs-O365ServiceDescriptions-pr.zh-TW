@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Microsoft Exchange Online 封存可讓使用者從各種裝置和平台連線到他們的封存信箱。 所有對使用者封存進行的網路連線都是透過網際網路進行，不需要虛擬私人網路 (VPN) 連線。 組織可以發佈內部部署用戶端存取伺服器，讓使用者能夠使用 Outlook 無所不在 存取其主要信箱，而不需要 VPN 連線。 如果要求要有 VPN 連線才能存取內部部署伺服器上使用者的主要信箱，則此要求並不會變。
 ms.openlocfilehash: d1f304936d184dc30826d6e60552d4e186bb2a41
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467180"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245059"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online 封存中的用戶端功能
 
@@ -50,11 +50,11 @@ Outlook 2007 可提供對封存的基本支援，但是並非所有封存和法�
 |:-----|:-----|
 |Outlook 2010 及更新版本  <br/> |支援 Exchange Online Archiving 的最新功能。<sup>1</sup> <br/> |
 |Outlook 2007  <br/> |支援搭配 Exchange Online Archiving使用。<sup>1,2</sup> <br/> |
-|Outlook 2003  <br/> |exExchange2k7 和更早版本  <br/> |
-|Outlook for Mac 2011  <br/> |exExchange2k7 和更早版本  <br/> |
+|Outlook 2003  <br/> |不支援  <br/> |
+|Outlook for Mac 2011  <br/> |不支援  <br/> |
 |Mac 版 Outlook  <br/> |支援搭配 Exchange Online Archiving。<sup>3</sup> <br/> |
-|Microsoft Office Entourage 2008 Web Services Edition  <br/> |exExchange2k7 和更早版本  <br/> |
-|IMAP 與 POP  <br/> |exExchange2k7 和更早版本  <br/> |
+|Microsoft Office Entourage 2008 Web Services Edition  <br/> |不支援  <br/> |
+|IMAP 與 POP  <br/> |不支援  <br/> |
 |Exchange ActiveSync (行動裝置)  <br/> |不支援  <br/> |
    
 > [!NOTE]

@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany 是歐洲的 Office 365 可用服務已區分的選項。 它可以協助德國、 歐盟 (EU) 以及歐洲自由貿易聯盟 (EFTA) 方式，從德國資料傳遞數位工時，我們領先業界的生產力服務中最受管制客戶的需求垂直置中，與資料落地的地址在德國與嚴格的資料存取及控制透過特有的資料信任者模型量值控管下德國法律。
 ms.openlocfilehash: 133752b5e9b18c78f8804c99195836eb45af6ed7
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955822"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247319"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -310,7 +310,7 @@ Office 365 Germany 遵循 Office 365 的雲端安全性與合規性標準。 Off
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Office Online** <br/> |**連結至詳細的功能比較** <br/> |
+|**應用程式** <br/> |**Office Online** <br/> |**連結至詳細的功能比較** <br/> |
 |Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -707,7 +707,7 @@ Office 365 Germany 遵循 Office 365 的雲端安全性與合規性標準。 Off
 |[社群](../sharepoint-online-service-description/social.md#community) <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |[公司摘要](../sharepoint-online-service-description/social.md#company-feed) <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |Document Conversations with Yammer <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Follow <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|跟進 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |微網誌 <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |新聞摘要 <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |One Click Sharing <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -970,7 +970,7 @@ Office 365 Germany 遵循 Office 365 的雲端安全性與合規性標準。 Off
 |[社群](../sharepoint-online-service-description/social.md#community) <br/> |Yes<sup>14</sup> <br/> |否  <br/> |Yes<sup>14</sup> <br/> |Yes<sup>14</sup> <br/> |Yes<sup>14</sup> <br/> |Yes<sup>14</sup> <br/> |Yes<sup>14</sup> <br/> |否  <br/> |
 |[公司摘要](../sharepoint-online-service-description/social.md#company-feed) <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Document Conversations with Yammer <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Follow <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|跟進 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |微網誌 <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |新聞摘要 <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |One Click Sharing <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |

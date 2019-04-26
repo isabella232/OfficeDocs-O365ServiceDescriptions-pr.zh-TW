@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 在 [回應美國公共部門特殊且不斷變化需求時，Microsoft 已建立 Office 365 US Government 方案 (orOffice 365 美國政府版)。 本節提供 Office 365 US Government 特有功能的概觀。 建議您先閱讀本補充章節配合 Office 365 服務說明。
 ms.openlocfilehash: 6d10de59be0f2f8e187933d47d24a4108c69478a
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825221"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247079"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
