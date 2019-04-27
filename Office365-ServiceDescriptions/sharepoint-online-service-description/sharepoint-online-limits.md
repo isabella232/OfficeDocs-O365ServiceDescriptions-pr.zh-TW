@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 尋找適用於 Office 365 企業版方案及獨立方案的 SharePoint Online 限制。
-ms.openlocfilehash: c1b6185c46be6f1343e6679a5b887bab5b393708
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 4615eeefe2f9f172a5baa43ce3a506015bfe159e
+ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246609"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368366"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 限制
 
@@ -43,7 +43,7 @@ ms.locfileid: "33246609"
   
 ## <a name="service-limits-for-all-plans"></a>服務限制的所有計劃
 
-- **清單和文件庫中的項目**-清單可以有最多 30 萬個項目和文件庫可以有最多 30 萬個檔案和資料夾。 檢視可以有最多 12 個查閱欄。 若要深入了解檢視大型清單的其他限制，請參閱 <<c0>管理大型清單和 Office 365 中的文件庫。 檔案名稱中不能使用的字元的相關資訊，請參閱[檔案和資料夾名稱中的含有無效字元](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+- **清單和文件庫中的項目**-清單可以有最多 30 萬個項目和文件庫可以有最多 30 萬個檔案和資料夾。 100,00 項目新增至清單、 文件庫或資料夾之後，就無法變更清單、 文件庫或資料夾的權限繼承。 若要深入了解檢視大型清單的其他限制，請參閱 <<c0>管理大型清單和 Office 365 中的文件庫。 檔案名稱中不能使用的字元的相關資訊，請參閱[檔案和資料夾名稱中的含有無效字元](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
 
 - **檔案大小及檔案路徑長度**-15 GB。 若要深入了解規定和限制使用新版 OneDrive 同步處理用戶端 (OneDrive.exe) 時，請參閱[無效的檔案名稱和 OneDrive、 商務用 OneDrive 和 SharePoint 中的檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
 
@@ -68,6 +68,6 @@ ms.locfileid: "33246609"
 > [!NOTE]
 > 沒有您可以邀請您的 SharePoint Online 網站集合的外部使用者數目不受限制。 如需詳細資訊，請參閱 <<c0>管理外部共用您的 SharePoint Online 環境。
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 [適用於 SharePoint Online 的搜尋限制](/sharepoint/search-limits)

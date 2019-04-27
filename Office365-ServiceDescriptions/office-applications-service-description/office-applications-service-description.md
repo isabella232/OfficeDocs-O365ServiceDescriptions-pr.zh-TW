@@ -3,7 +3,7 @@ title: Office 應用程式服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/15/2018
+ms.date: 04/15/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 是一項訂閱服務，提供您已熟悉，例如 Word、 Excel 及 PowerPoint 的 Office 桌面應用程式的最新版本。
-ms.openlocfilehash: 9ae21b604a2650586402e33388d705641292ab88
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 144f5a6ef84e83f194a997d77176538860d947ca
+ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247018"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368356"
 ---
 # <a name="office-applications-service-description"></a>Office 應用程式服務說明
 

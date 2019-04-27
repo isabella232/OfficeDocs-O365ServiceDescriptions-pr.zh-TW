@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>2019 年 3 月 11 日當週
-
-
-| 發佈時間 |主題標題 | 變更 |
-|------|------------|--------|
-| 3/12/2019 | [服務健康狀況和持續性](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | 修改時間 |
-| 3/14/2019 | [Microsoft 365 商務版服務說明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 修改時間 |
-| 3/14/2019 | [MyAnalytics 服務描述](/Office365/ServiceDescriptions/mya-service-description) | 新增 |
-| 3/14/2019 | [Office 365 服務描述](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | 修改時間 |
-| 3/14/2019 | [Exchange Online 限制](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 修改時間 |
-
-
 ## <a name="week-of-march-18-2019"></a>2019 年 3 月 18 日當週
 
 
@@ -69,3 +57,14 @@
 | 4/11/2019 | [Exchange Online 封存中的封存功能](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | 修改時間 |
 | 4/11/2019 | [Office 365 安全性與合規性中心](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 修改時間 |
 | 4/11/2019 | [商務用 Skype Online 服務說明](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | 修改時間 |
+
+
+## <a name="week-of-april-15-2019"></a>2019 年 4 月 15 日當週
+
+
+| 發佈時間 |主題標題 | 變更 |
+|------|------------|--------|
+| 4/18/2019 | [用戶端和行動裝置](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | 修改時間 |
+| 4/18/2019 | [Exchange Online 限制](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 修改時間 |
+| 4/18/2019 | [Office 應用程式服務說明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 修改時間 |
+| 4/18/2019 | [內容](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | 修改時間 |

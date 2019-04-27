@@ -3,7 +3,7 @@ title: 服務健康狀況和持續性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/12/2019
+ms.date: 04/25/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 系統管理員可以檢視服務的狀態，並找出維護排定的時間。 服務健康狀況資訊，請在任何時間登入 Office 365。
-ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: a903af56e9526c4a2076025c223811077caf2fe4
+ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247039"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368386"
 ---
 # <a name="service-health-and-continuity"></a>服務健康狀況和持續性
 
@@ -47,6 +47,13 @@ Office 365 的服務健康區段顯示服務和相關服務干擾及中斷的詳
 
 <br/>
 
+|**2019** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
+| 99.97% <br/> |  <br/> |  <br/> |  <br/> |
+
+<br/>
+
 |**2018** <br/>||||
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
@@ -58,6 +65,8 @@ Office 365 的服務健康區段顯示服務和相關服務干擾及中斷的詳
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
 | 99.99% <br/> | 99.97% <br/> | 99.98% <br/> | 99.99% <br/> |
+
+<br/>
 
 ## <a name="notification-policy"></a>通知原則
 
@@ -147,4 +156,3 @@ Office 365 研發與營運團隊將由專用的 Office 365 支援組織來完整
 
 若要檢視跨 Office 365 規劃的功能可用性，請參閱 [Office 365 平台服務說明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)。
   
-
