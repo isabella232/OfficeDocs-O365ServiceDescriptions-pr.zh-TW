@@ -3,7 +3,7 @@ title: 21Vianet 運作的 Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 2/21/2019
+ms.date: 04/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: 1af7e17c1ab006ef06c1f5d5b0714e10b389379e
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 2fb0b7e9c83753e757d1efa87795047ffc403f4f
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247302"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544900"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet 運作的 Office 365
 
@@ -98,7 +98,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Office Delve  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Office 365 群組  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 影片  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>2</sup> <br/> |
-|OneNote 課程筆記本  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|OneNote 課程筆記本  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>15<sup>  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[使用者帳戶管理](user-account-management.md)** <br/> |**由 21Vianet 運作的 Office 365 商務基本版** <br/> |**由 21Vianet 運作的 Office 365 商務版** <br/> |**由 21Vianet 運作的 Office 365 商務進階版** <br/> |**由 21Vianet 運作的 Office 365 A1** <br/> |**由 21Vianet 運作的 Office 365 Enterprise E1** <br/> |**由 21Vianet 運作的 Office 365 Enterprise E3** <br/> |**由 21Vianet 運作的 office 365 企業版 F1** <br/> |
 |雲端身分識別、 聯盟識別或多重要素驗證<sup>14</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 桌面設定  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
@@ -159,7 +159,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |**[服務更新](service-updates.md)** <br/> |**由 21Vianet 運作的 Office 365 商務基本版** <br/> |**由 21Vianet 運作的 Office 365 商務版** <br/> |**由 21Vianet 運作的 Office 365 商務進階版** <br/> |**由 21Vianet 運作的 Office 365 A1** <br/> |**由 21Vianet 運作的 Office 365 Enterprise E1** <br/> |**由 21Vianet 運作的 Office 365 Enterprise E3** <br/> |**由 21Vianet 運作的 office 365 企業版 F1** <br/> |
 |提供給所有客戶的定期更新  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |將通知傳送給 「 訊息中心時不需要採取動作、 問題已解決、 部署功能，或變更您的服務  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Roadmap.office.com 的一些服務 更新  <br/> |是  <br/> |--  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=)的一些服務更新  <br/> |是  <br/> |--  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |開啟已設定目標發行的選項  <br/> |否  <br/> |--  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[說明和訓練](help-and-training.md)** <br/> |**由 21Vianet 運作的 Office 365 商務基本版** <br/> |**由 21Vianet 運作的 Office 365 商務版** <br/> |**由 21Vianet 運作的 Office 365 商務進階版** <br/> |**由 21Vianet 運作的 Office 365 A1** <br/> |**由 21Vianet 運作的 Office 365 Enterprise E1** <br/> |**由 21Vianet 運作的 Office 365 Enterprise E3** <br/> |**由 21Vianet 運作的 office 365 企業版 F1** <br/> |
 |線上說明  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -210,6 +210,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>12</sup> 部分 TechNet 內容可能不適用於由 21Vianet 運作的 Office 365。 
 <br/><sup>13</sup> 正在消失的體驗。 If your organization is dependent upon Internet Explorer 8 or Internet Explorer 9 to access older web apps and services, you may want to consider upgrading to Internet Explorer 11 and evaluating Enterprise Mode for Internet Explorer 11. This update helps provide better backward compatibility for legacy web apps. 
 <br/><sup>14</sup>多重要素驗證是目前不支援在 Outlook mobile 中 （IOS 和 Android）。 
+<br/><sup>15</sup> OneNote 課程筆記本 」 無法透過 21Vianet，但 OneNote 課程筆記本 」 工具列不適用於 Windows 10 應用程式、 iPad 或 OneNote Online。
   
 ## <a name="office-365-application-features"></a>Office 365 應用程式功能 
 <a name="BM3_OfficeApp"> </a>
@@ -233,7 +234,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Microsoft Visio Pro<sup>10</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[商務用 Skype](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是  <br/> |是<sup>4</sup> <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |沒有<sup>5</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[Windows 8 應用程式](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|[Windows 10 應用程式](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[Office 365 的 Mac 版 Office](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |沒有<sup>5</sup> <br/> |否  <br/> |是  <br/> |否  <br/> |
 |[Office Mobile for iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |

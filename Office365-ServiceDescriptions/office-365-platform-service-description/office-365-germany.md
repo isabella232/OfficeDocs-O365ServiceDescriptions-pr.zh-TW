@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany 是歐洲的 Office 365 可用服務已區分的選項。 它可以協助德國、 歐盟 (EU) 以及歐洲自由貿易聯盟 (EFTA) 方式，從德國資料傳遞數位工時，我們領先業界的生產力服務中最受管制客戶的需求垂直置中，與資料落地的地址在德國與嚴格的資料存取及控制透過特有的資料信任者模型量值控管下德國法律。
-ms.openlocfilehash: 133752b5e9b18c78f8804c99195836eb45af6ed7
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: a3f2a16ef66258a922b8c53f715870f46b623949
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247319"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544980"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -203,7 +203,7 @@ Office 365 Germany 遵循 Office 365 的雲端安全性與合規性標準。 Off
 |[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |沒有<sup>7</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[商務用 Skype](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是  <br/> |是  <br/> |是<sup>6</sup> <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |否  <br/> |否  <br/> |否  <br/> |沒有<sup>7</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|[Windows 8 應用程式](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|[Windows 10 應用程式](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[Office 365 的 Mac 版 Office](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |是  <br/> |否  <br/> |是  <br/> |沒有<sup>7</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[Office Mobile for iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是  <br/> |否  <br/> |是  <br/> |沒有<sup>7</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[Office Mobile for Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |是  <br/> |否  <br/> |是  <br/> |沒有<sup>7</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
@@ -258,7 +258,7 @@ Office 365 Germany 遵循 Office 365 的雲端安全性與合規性標準。 Off
 |[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[商務用 Skype](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |是  <br/> |是  <br/> |否  <br/> |
-|[Windows 8 應用程式](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Windows 10 應用程式](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Office 365 的 Mac 版 Office](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |否  <br/> |是  <br/> |是  <br/> |
 |[Office Mobile for iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |否  <br/> |是  <br/> |是  <br/> |
 |[Office Mobile for Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |否  <br/> |是  <br/> |是  <br/> |
@@ -310,7 +310,7 @@ Office 365 Germany 遵循 Office 365 的雲端安全性與合規性標準。 Off
   
 ||||
 |:-----|:-----|:-----|
-|**應用程式** <br/> |**Office Online** <br/> |**連結至詳細的功能比較** <br/> |
+|**Application** <br/> |**Office Online** <br/> |**連結至詳細的功能比較** <br/> |
 |Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如果您正在尋找 Office 365 教育版方案之間的差異，則本文將告訴您在每個包含哪些功能。 Office 365 與知名的 Microsoft Office 桌面套件結合，搭載 Microsoft 新一代通訊與共同作業服務的雲端架構版本 (包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office Online，以及 Microsoft 商務用 Skype Online)，讓使用者可透過網際網路在任何地點執行工作。
-ms.openlocfilehash: 4cf3b4220fb56e21d8105dee9ac8ea447845bcf9
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 6f6bcf8780be134b88043740973ca9f8d4380626
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247289"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544970"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -226,7 +226,7 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如�
 |[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |是  <br/> |
 |[商務用 Skype](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |是  <br/> |
-|[Windows 8 應用程式](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |是  <br/> |
+|[Windows 10 應用程式](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |是  <br/> |
 |[Office 365 的 Mac 版 Office](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |是  <br/> |
 |[Office Mobile for iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是<sup>3</sup> <br/> |是  <br/> |是  <br/> |
 |[Office Mobile for Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |是<sup>3</sup> <br/> |是  <br/> |是  <br/> |
@@ -277,7 +277,7 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如�
   
 ||||
 |:-----|:-----|:-----|
-|**應用程式** <br/> |**Office Online** <br/> |**連結至詳細的功能比較** <br/> |
+|**Application** <br/> |**Office Online** <br/> |**連結至詳細的功能比較** <br/> |
 |Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -332,7 +332,7 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如�
 |**[收件者](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |容量提醒  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |雜亂資料  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|寄件提醒  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|MailTips  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |委派存取  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |收件匣規則  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |連線的帳戶  <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |

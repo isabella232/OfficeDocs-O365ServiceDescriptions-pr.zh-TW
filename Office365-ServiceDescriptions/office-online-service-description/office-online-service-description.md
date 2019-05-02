@@ -3,7 +3,7 @@ title: Office Online 服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/01/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Excel、 OneNote 和 PowerPoint 文件。 Office Online 讓您輕鬆藉由網際網路連線，從任何地點透過幾乎任何裝置來使用和共用 Office 檔案。 以 Word、 Excel、 OneNote、 或 PowerPoint 的 Microsoft Office 365 客戶可以檢視、 建立及編輯檔案隨時隨地。
-ms.openlocfilehash: ccab7cffeac239c8cdab20d9496d5e6bff943632
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 4e5e66791af7a71bf877ec89dfa959be6e30064a
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246959"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544960"
 ---
 # <a name="office-online-service-description"></a>Office Online 服務說明
 
@@ -120,6 +120,7 @@ Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、
 |:-----|:-----|:-----|
 |**應用程式功能** <br/> |**Excel Online** <br/> |**Excel 桌面應用程式** <br/> |
 |[協助工具檢查程式](excel-online.md#add-hyperlinks) <br/> |是  <br/> |是  <br/> |
+|[新增工作表索引標籤的背景色彩](excel-online.md#add-background-color-to-sheet-tabs) <br/> |是  <br/> |是  <br/> |
 |[新增超連結](excel-online.md#add-hyperlinks) <br/> |是  <br/> |是  <br/> |
 |[進階時間篩選 (時間表交叉分析篩選器)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |否  <br/> |是  <br/> |
 |[對齊](excel-online.md#alignment) <br/> |是  <br/> |是  <br/> |
@@ -129,6 +130,7 @@ Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、
 |[自動完成](excel-online.md#autocomplete) <br/> |是  <br/> |是  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |是  <br/> |是  <br/> |
 |[計算](excel-online.md#calculations) <br/> |是  <br/> |是  <br/> |
+|[在公式中呼叫的參考](excel-online.md#call-reference-in-formulas) <br/> |是  <br/> |是  <br/> |
 |[建立註解](excel-online.md#comment-creation) <br/> |是  <br/> |是  <br/> |
 |[複製和貼上](excel-online.md#copy-and-paste) <br/> |是  <br/> |是  <br/> |
 |[建立外部資料連線<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |
@@ -136,9 +138,10 @@ Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、
 |[建立進階分析檢視 (Power View、Power Pivot、交叉分析篩選器)](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |否  <br/> |是  <br/> |
 |[資料驗證](excel-online.md#data-validation) <br/> |是 <br/> |是  <br/> |
 |[拖放儲存格](excel-online.md#drag-and-drop-cells) <br/> |是  <br/> |是  <br/> |
-|[Dropbox](excel-online.md#dropbox) <br/> |是  <br/> |是  <br/> |
+|[Dropbox](excel-online.md#dropbox) <br/> |是  <br/> |是  <br/>|
+|[Duplicate （複製） workseets](excel-online.md#duplicate-copy-worksheets) <br/> |是  <br/> |是  <br/>|
 |[在網頁或部落格頁面 (OneDrive) 上嵌入活頁簿](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |是  <br/> |否  <br/> |
-|[外部參考](excel-online.md#external-references-links) <br/> |沒有<sup>5</sup> <br/> |是  <br/> |
+|[外部參考](excel-online.md#external-references-links) <br/> |沒有<sup>4</sup> <br/> |是  <br/> |
 |[填滿控點](excel-online.md#fill-handle) <br/> |是  <br/> |是  <br/> |
 |[尋找](excel-online.md#find) <br/> |是  <br/> |是  <br/> |
 |[字體和儲存格格式化](excel-online.md#font-and-cell-formatting) <br/> |是  <br/> |是  <br/> |
@@ -148,16 +151,20 @@ Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、
 |[高逼真讀取檢視](excel-online.md#full-fidelity-reading-view) <br/> |是  <br/> |是  <br/> |
 |[函數](excel-online.md#functions) <br/> |是  <br/> |是  <br/> |
 |[GoTo](excel-online.md#goto) <br/> |是  <br/> |是  <br/> |
+|[群組資料](excel-online.md#group-data) <br/> |是  <br/> |是  <br/> |
 |[隱藏/取消隱藏列、欄和工作表](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |是  <br/> |是  <br/> |
-|[插入圖形/圖片](excel-online.md#insert-charts) <br/> |是  <br/> |是  <br/> |
+|[構想](excel-online.md#ideas) <br/> |是  <br/> |是  <br/> |
 |[插入圖表](excel-online.md#insert-charts) <br/> |是  <br/> |是  <br/> |
 |[插入/刪除列和欄](excel-online.md#insertdelete-rows-and-columns) <br/> |是  <br/> |是  <br/> |
+|[插入圖片](excel-online.md#insert-pictures) <br/> |是  <br/> |是  <br/> |
+|[插入圖形](excel-online.md#insert-shapes) <br/> |是  <br/> |是  <br/> |
 |[合併儲存格](excel-online.md#merge-cells) <br/> |是  <br/> |是  <br/> |
+|[具名的範圍](excel-online.md#named-ranges) <br/> |是  <br/> |是  <br/> |
 |[數字格式化](excel-online.md#number-formatting) <br/> |是  <br/> |是  <br/> |
 |[Office 增益集](excel-online.md#office-add-ins) <br/> |是 <br/> |是  <br/> |
 |[離線檢視和撰寫](excel-online.md#offline-viewing-and-authoring) <br/> |否  <br/> |是  <br/> |
-|[樞紐分析圖](excel-online.md#post-to-social-network-and-present-online) <br/> |Yes<sup>1</sup>  <br/> |是  <br/> |
-|[樞紐分析表](excel-online.md#post-to-social-network-and-present-online) <br/> |是  <br/> |是  <br/> |
+|[樞紐分析圖](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Yes<sup>1</sup>  <br/> |是  <br/> |
+|[樞紐分析表](excel-online.md#pivot-tables) <br/> |是  <br/> |是  <br/> |
 |[發佈到社交網路並於線上呈現](excel-online.md#post-to-social-network-and-present-online) <br/> |否  <br/> |是  <br/> |
 |[Power Pivot 檢視](excel-online.md#power-pivot-viewing) <br/> |是  <br/> |是  <br/> |
 |[Power View 檢視](excel-online.md#power-view-viewing) <br/> |是  <br/> |是  <br/> |
@@ -165,6 +172,7 @@ Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、
 |[即時共同撰寫](excel-online.md#real-time-co-authoring) <br/> |是  <br/> |是  <br/> |
 |[使用格式化控制項來建立和編輯建議的圖表](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |否  <br/> |是  <br/> |
 |[重新整理現有的資料連接](excel-online.md#refresh-existing-data-connections) <br/> |是  <br/> |是  <br/> |
+|[移除重複的值](excel-online.md#remove-duplicate-values) <br/> |是  <br/> |是  <br/> |
 |[重新命名和新增工作表](excel-online.md#rename-and-add-sheets) <br/> |是  <br/> |是  <br/> |
 |[在活頁簿開著時重新命名檔案](excel-online.md#rename-file-while-workbook-is-open) <br/> |是  <br/> |否  <br/> |
 |[取代](excel-online.md#replace) <br/> |是  <br/> |是  <br/> |
@@ -177,7 +185,9 @@ Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、
 |[試算表審核和法規遵循](excel-online.md#spreadsheet-audit-and-compliance) <br/> |否  <br/> |是  <br/> |
 |[狀態列彙總](excel-online.md#status-bar-aggregates) <br/> |是  <br/> |是  <br/> |
 |[問卷調查](excel-online.md#surveys) <br/> |是  <br/> |否  <br/> |
-|[操作說明搜尋](excel-online.md#tell-me) <br/> |是  <br/> |是  <br/> |
+|[操作說明搜尋](excel-online.md#tell-me) <br/> |是  <br/> |是  <br/>|
+|[文字格式設定](excel-online.md#text-formatting) <br/> |是  <br/> |是  <br/>|
+|[加總資料。](excel-online.md#total-data) <br/> |是  <br/> |是  <br/>|
 |[復原和取消復原](excel-online.md#undo-and-redo) <br/> |是  <br/> |是  <br/> |
 |[VBA 和巨集指令碼](excel-online.md#vba-and-macro-scripting) <br/> |是<sup>3</sup>  <br/> |是  <br/> |
 |[檢視 3D 圖表](excel-online.md#view-3d-charts) <br/> |是  <br/> |是  <br/> |
@@ -186,10 +196,8 @@ Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、
 > <sup>1</sup>無法建立樞紐分析圖時，僅供檢視。
  <br/><sup>2</sup>根據您的環境的設定方式，某些類型的資料連線支援 Excel Online 中顯示的活頁簿。 如需詳細資訊，請參閱 在瀏覽器視窗中重新整理活頁簿的資料。 
  <br/><sup>3</sup>您無法在 Excel Online 中使用 VBA 建立巨集，但是您可以開啟和編輯已啟用 VBA 功能的試算表，而不移除 （或損毀） 此檔案所含的 VBA。
- <br/><sup>4</sup>可以在 Excel Online 中編輯使用資料驗證的活頁簿，但無法設立資料驗證在 Excel Online 中。 
- <br/><sup>5</sup>在 Excel Online 中，最後一個已知的參考值會顯示在瀏覽器視窗;不過，它必須更新使用 Excel 桌面版。 
- <br/><sup>6</sup>您可以檢視凍結窗格透過 Excel 桌面應用程式，但您無法在 Excel Online 中建立凍結窗格。 
- <br/><sup>7</sup>部份但非全部的 Office 增益集可用。 
+ <br/><sup>4</sup>在 Excel Online 中，最後一個已知的參考值會顯示在瀏覽器視窗;不過，它必須更新使用 Excel 桌面應用程式。 
+ <br/><sup>5</sup> 可使用部份但非全部的 Office 增益集。 
   
 ### <a name="onenote"></a>OneNote
 <a name="BKMK_OneNoteFeatures"> </a>
