@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
-ms.openlocfilehash: 7b3910ea194e7e8be2d4ba221252e7e0a3c9d748
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: 1fe0b98ab37061312c1b419304ae91d394dd2b2d
+ms.sourcegitcommit: b92efda3126d52cd58a524bceb816abe18d59856
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544840"
+ms.locfileid: "33553482"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -456,6 +456,8 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
     
 - **重新導向郵件的次數** 根據收件匣規則自動重新導向、轉寄或回覆郵件的次數。 例如，使用者 A 的收件匣規則會根據寄件者，將郵件重新導向到使用者 B。 使用者 B 的收件匣規則會根據主旨行中的關鍵字，將郵件轉寄給使用者 C。 如果某封郵件同時符合這兩項條件，該郵件將只會傳送給使用者 B 而不會轉寄給使用者 C，因為只允許重新導向一次。 在此情況下，會捨棄郵件，而不傳送未傳遞回報 (NDR) 給使用者 B，指出郵件未傳遞給使用者 c。我們將使用 X-MS-Exchange-Inbox-Rules-Loop 標頭可以決定的重新導向郵件的次數。 此標頭仍會保留也整個 Exchange 組織界限。
 
+- **郵件由傳輸規則重新導向次數**郵件會重新導向的次數根據傳輸規則。 例如，Exchange 組織 Tailspin Toys 具有傳輸規則，以重新導向已傳送給使用者 B 位於 Exchange 組織 Contoso 使用者的每一封郵件。 在 Exchange 組織中準備就緒可以重新導向的每一封郵件沒有傳輸規則的 Contoso 傳送給使用者 B 給使用者 C，也就是在 Exchange 位於組織 A.材料 Corporation。 在此情況下，會捨棄郵件和未傳遞回報 (NDR) 與狀態碼，並拒絕郵件*550 5.7.128 傳輸。此規則。RejectMessage;傳輸規則迴圈計數超過上限和拒絕的郵件*是傳送給使用者 a。我們將使用 X-MS-Exchange-Transport-Rules-Loop 標頭可以決定的郵件重新導向由傳輸規則的次數。 此標頭仍會保留也整個 Exchange 組織界限。
+
 ### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>不同 Office 365 選項的日誌、傳輸和收件匣規則限制
 
 ||||||||
@@ -469,6 +471,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |所有傳輸規則新增到郵件中的收件者人數上限|100 位收件者|100 位收件者|100 位收件者|100 位收件者|100 位收件者|100 位收件者|
 |轉寄者限制|10 位收件者|10 位收件者|10 位收件者|10 位收件者|10 位收件者|10 位收件者|
 |重新導向郵件的次數|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|
+|傳輸規則是重新導向郵件的次數|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>不同獨立選項的日誌、傳輸和收件匣規則限制
 
@@ -482,6 +485,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |所有傳輸規則新增到郵件中的收件者人數上限|無限制|100 位收件者|100 位收件者|100 位收件者|
 |轉寄者限制|無限制|10 位收件者|10 位收件者|10 位收件者|
 |重新導向郵件的次數|3 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|
+|傳輸規則是重新導向郵件的次數|無限制|1 次重新導向|1 次重新導向|1 次重新導向|
 
 ## <a name="moderation-limits"></a>仲裁限制
 <a name="ModerationLimits"> </a>
