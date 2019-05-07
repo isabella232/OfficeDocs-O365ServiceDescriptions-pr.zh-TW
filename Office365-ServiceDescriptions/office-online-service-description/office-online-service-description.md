@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Excel、 OneNote 和 PowerPoint 文件。 Office Online 讓您輕鬆藉由網際網路連線，從任何地點透過幾乎任何裝置來使用和共用 Office 檔案。 以 Word、 Excel、 OneNote、 或 PowerPoint 的 Microsoft Office 365 客戶可以檢視、 建立及編輯檔案隨時隨地。
-ms.openlocfilehash: 4e5e66791af7a71bf877ec89dfa959be6e30064a
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544960"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621863"
 ---
 # <a name="office-online-service-description"></a>Office Online 服務說明
 
@@ -130,7 +130,7 @@ Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、
 |[自動完成](excel-online.md#autocomplete) <br/> |是  <br/> |是  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |是  <br/> |是  <br/> |
 |[計算](excel-online.md#calculations) <br/> |是  <br/> |是  <br/> |
-|[在公式中呼叫的參考](excel-online.md#call-reference-in-formulas) <br/> |是  <br/> |是  <br/> |
+|[在公式中的儲存格參照](excel-online.md#cell-references-in-formulas) <br/> |是  <br/> |是  <br/> |
 |[建立註解](excel-online.md#comment-creation) <br/> |是  <br/> |是  <br/> |
 |[複製和貼上](excel-online.md#copy-and-paste) <br/> |是  <br/> |是  <br/> |
 |[建立外部資料連線<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |
@@ -161,10 +161,10 @@ Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、
 |[合併儲存格](excel-online.md#merge-cells) <br/> |是  <br/> |是  <br/> |
 |[具名的範圍](excel-online.md#named-ranges) <br/> |是  <br/> |是  <br/> |
 |[數字格式化](excel-online.md#number-formatting) <br/> |是  <br/> |是  <br/> |
-|[Office 增益集](excel-online.md#office-add-ins) <br/> |是 <br/> |是  <br/> |
+|[Office 增益集](excel-online.md#office-add-ins) <br/> |是<sup>5</sup>  <br/> |是  <br/> |
 |[離線檢視和撰寫](excel-online.md#offline-viewing-and-authoring) <br/> |否  <br/> |是  <br/> |
 |[樞紐分析圖](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Yes<sup>1</sup>  <br/> |是  <br/> |
-|[樞紐分析表](excel-online.md#pivot-tables) <br/> |是  <br/> |是  <br/> |
+|[PivotTables](excel-online.md#pivottables) <br/> |是  <br/> |是  <br/> |
 |[發佈到社交網路並於線上呈現](excel-online.md#post-to-social-network-and-present-online) <br/> |否  <br/> |是  <br/> |
 |[Power Pivot 檢視](excel-online.md#power-pivot-viewing) <br/> |是  <br/> |是  <br/> |
 |[Power View 檢視](excel-online.md#power-view-viewing) <br/> |是  <br/> |是  <br/> |

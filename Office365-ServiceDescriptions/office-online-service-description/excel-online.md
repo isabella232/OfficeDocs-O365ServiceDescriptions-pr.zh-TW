@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (先前稱為 Excel Web App) 您 Microsoft Excel 將經驗延伸至網頁瀏覽器中，其中您可以使用的活頁簿儲存活頁簿的網站上直接。 所有 Office 365 客戶均可使用 Office Online 來檢視和局部編輯 Office 檔案。
-ms.openlocfilehash: cd69bf3c7683146744d6cbd65ba4cea0921a6e84
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: e429ff99f195a24480d79cace60889aeade3bfea
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544941"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621823"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -32,7 +32,7 @@ Excel Online (先前稱為 Excel Web App) 您 Microsoft Excel 將經驗延伸至
 > [!NOTE]
 > 為協助您比較各產品項目，本文章中所列的進階功能包括：僅適用於 Office 套件 (例如：Office Professional Plus、Office Standard 或 Office 365 ProPlus) 的 Excel 桌面應用程式功能。 如需所有 Office Online 功能的詳細資訊，例如 Word Online 和 PowerPoint Online，請參閱[Office Online 計劃的功能可用性](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)。 
 
-若要查看 Excel Online 所支援的檔案類型，請參閱 [Office Online 支援的檔案類型](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)。若要深入瞭解 Excel Online 和 Excel 桌面應用程式之間的差異，請參閱[在瀏覽器和 Excel 中使用活頁簿的差異](https://support.office.com/en-us/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US)。 
+若要查看 Excel Online 所支援的檔案類型，請參閱 [Office Online 支援的檔案類型](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)。若要深入瞭解 Excel Online 和 Excel 桌面應用程式之間的差異，請參閱[在瀏覽器和 Excel 中使用活頁簿的差異](https://support.office.com/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US)。 
   
 ## <a name="add-background-color-to-sheet-tabs"></a>新增工作表索引標籤的背景色彩 
 <b0></b0>新增至工作表索引標籤，以您的活頁簿，使其在突出底部的背景填滿色彩。如需詳細資訊，請參閱 < <b1>Add 背景色彩設為工作表索引標籤</b1>。 
@@ -53,9 +53,7 @@ Excel Online (先前稱為 Excel Web App) 您 Microsoft Excel 將經驗延伸至
 使用 [首頁] 索引標籤上的 [對齊] 按鈕來變更文字的對齊方式。  
   
 ## <a name="apply-conditional-formatting"></a>套用條件格式化設定
-<a name="bkmk_Applyconditionalformatting"> </a>
-
-使用條件化格式可協助您以視覺方式探索及分析資料，偵測到嚴重的問題，並識別模式和趨勢。 深入了解如何使用 Excel Online 中的條件化格式設定。 [使用 Excel 2013 中格式化的條件](https://go.microsoft.com/fwlink/p/?LinkId=282326)。 
+<a name="bkmk_Applyconditionalformatting"></a>以協助您以視覺方式探索及分析資料，偵測到嚴重的問題，並識別模式和趨勢使用條件化格式。 深入了解如何[使用 Excel Online 中的條件化格式設定](https://go.microsoft.com/fwlink/p/?LinkId=282326)。
   
 ## <a name="apply-data-validation-to-cells"></a>將資料驗證套用至儲存格
 <a name="bkmk_Applydatavalidationtocells"> </a>
@@ -65,7 +63,7 @@ Excel Online (先前稱為 Excel Web App) 您 Microsoft Excel 將經驗延伸至
 ## <a name="apply-smartrecommended-formatting"></a>套用智慧/建議的格式
 <a name="bkmk_Applysmartformatting"> </a>
 
-不適用於 Excel Online。 在 Excel 桌面應用程式，建議的圖表可讓您挑選最適用於呈現您資料的圖表的各種不同。 深入了解[如何使用 Excel 中的圖表建議](https://support.office.com/article/Create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0)。
+不適用於 Excel Online。 在 Excel 桌面應用程式，建議的圖表可讓您挑選最適用於呈現您資料的圖表的各種不同。 深入了解[如何使用 Excel 中的圖表建議](https://support.office.com/article/create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0)。
   
 ## <a name="office-add-ins"></a>Office 增益集
 <a name="bkmk_AppsOfficeIntegration"> </a>
@@ -87,8 +85,8 @@ Excel Online 可以完成您在儲存格中輸入的內容，若有一個以上�
 
 您可以使用 Excel 來執行各種自動、手動與反覆運算。Excel 會使用函數來執行這些計算。如需詳細資訊，請參閱 [Excel 函數 (依類別)](https://go.microsoft.com/fwlink/?linkid=847459)。
 
-## <a name="call-reference-in-formulas"></a>在公式中的通話參考
-<a name="bkmk_Callreferenceinformulas"></a>您可以在公式中使用的儲存格的參考。 當您參照的儲存格或公式中的範圍時，請參照儲存格的範圍會醒目提示色彩。 如需詳細資訊，請參閱 <<c0>使用公式中的儲存格參照。
+## <a name="cell-references-in-formulas"></a>在公式中的儲存格參照
+<a name="bkmk_Cellreferenceinformulas"></a>您可以在公式中使用的儲存格的參考。 當您參照的儲存格或公式中的範圍時，請參照儲存格的範圍會醒目提示色彩。 如需詳細資訊，請參閱 <<c0>使用公式中的儲存格參照。
   
 ## <a name="chart-animations-adapt-to-new-data"></a>圖表動畫可隨新資料改變
 <a name="bkmk_Chartanimations"> </a>
@@ -98,7 +96,7 @@ Excel Online 可以完成您在儲存格中輸入的內容，若有一個以上�
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>圖表與表格 (包含樞紐分析圖和樞紐分析表)
 <a name="BKMK_ChartsandtablesincludingPivotChartreportsandPivotTablereports"> </a>
 
-Excel 圖表與表格可讓您輕鬆格式化資料和管理資訊。如需詳細資訊，請參閱[建立或刪除 Excel 表格](https://support.office.com/en-US/article/Create-or-delete-an-Excel-table-e81aa349-b006-4f8a-9806-5af9df0ac664)和[樞紐分析表與樞紐分析圖概觀](https://go.microsoft.com/fwlink/?linkid=55417)。
+Excel 圖表與表格可讓您輕鬆格式化資料和管理資訊。如需詳細資訊，請參閱[建立或刪除 Excel 表格](https://support.office.com/article/Create-or-delete-an-Excel-table-e81aa349-b006-4f8a-9806-5af9df0ac664)和[樞紐分析表與樞紐分析圖概觀](https://go.microsoft.com/fwlink/?linkid=55417)。
   
 ## <a name="comment-creation"></a>建立註解
 <a name="bkmk_Commentcreation"> </a>
@@ -141,7 +139,7 @@ Excel 圖表與表格可讓您輕鬆格式化資料和管理資訊。如需詳�
 Dropbox 是一個檔案主控服務，提供雲端儲存體、檔案同步作業、個人雲端及用戶端軟體。
   
 ## <a name="duplicate-copy-worksheets"></a>Duplicate （複製） 工作表
-您可以複製 （或複製） 工作表在活頁簿內或在 Excel Online 中的另一個活頁簿。 深入了解[在 Excel Online 中的複製工作表](https://support.office.com/en-us/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online)。 
+您可以複製 （或複製） 工作表在活頁簿內或在 Excel Online 中的另一個活頁簿。 深入了解[在 Excel Online 中的複製工作表](https://support.office.com/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online)。 
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>在網頁或部落格頁面 (OneDrive) 上嵌入活頁簿
 <a name="bkmk_EmbedWorkbookWeb"> </a>
@@ -199,7 +197,7 @@ Microsoft Excel 桌面應用程式支援最進階的公式工具，例如：3D �
 使用「移至」功能，快速導覽您的試算表。請在儲存格參照中輸入位置，並跳至試算表中的那個位置。進一步了解 [Excel Online 的鍵盤快速鍵](https://go.microsoft.com/fwlink/p/?LinkID=272943)。
  
 ## <a name="group-data"></a>群組資料
-<a name="Group data"></a>群組，或大綱列及欄在您的 Excel Online 中試算表。 深入了解群組在 Excel Online 中的資料。
+<a name="Group data"></a>群組，或大綱列及欄在您的 Excel Online 中試算表。 深入了解[在 Excel Online 中的群組資料](https://support.office.com/article/outline-group-data-in-a-worksheet-08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online)。
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>隱藏/取消隱藏列、欄和工作表
 <a name="bkmk_HideUnhide"> </a>
@@ -209,7 +207,7 @@ Microsoft Excel 桌面應用程式支援最進階的公式工具，例如：3D �
 ## <a name="ideas"></a>構想
 <a name="Ideas"> </a>
 
-想法可讓您了解您透過高層級的視覺摘要、 趨勢和模式的資料。 只要按一下 [資料範圍內的儲存格，然後按一下 [首頁] 索引標籤，深入了解[想法](https://support.office.com/en-us/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US)了 [想法] 按鈕。
+想法可讓您了解您透過高層級的視覺摘要、 趨勢和模式的資料。 只要按一下 [資料範圍內的儲存格，然後按一下 [首頁] 索引標籤，深入了解[想法](https://support.office.com/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US)了 [想法] 按鈕。
 
  
 ## <a name="insert-charts"></a>插入圖表
@@ -223,10 +221,10 @@ Microsoft Excel 桌面應用程式支援最進階的公式工具，例如：3D �
 選取一列或多列，再按一下 [首頁] 索引標籤上的 [插入] 或 [刪除]，即可在工作表中一次新增或移除一列/欄或多列/欄。
 
 ## <a name="insert-pictures"></a>插入圖片
-<a name="bkmk_insertpicture"></a>新增一些視覺效果在試算表中插入的圖片。 深入了解[在 Excel Online 中的插入圖片](https://support.office.com/en-us/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3)。
+<a name="bkmk_insertpicture"></a>新增一些視覺效果在試算表中插入的圖片。 深入了解[在 Excel Online 中的插入圖片](https://support.office.com/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3)。
 
 ## <a name="insert-shapes"></a>插入圖形
-<a name="bkmk_insertshapes"></a>新增與格式的圖形，例如方塊、 圓形、 線條、 連接器或 Excel Online 試算表的箭號。 深入了解[新增圖形](https://support.office.com/en-us/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)。
+<a name="bkmk_insertshapes"></a>新增與格式的圖形，例如方塊、 圓形、 線條、 連接器或 Excel Online 試算表的箭號。 深入了解[新增圖形](https://support.office.com/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)。
   
 ## <a name="merge-cells"></a>合併儲存格
 <a name="bkmk_MergeCells"> </a>
@@ -247,8 +245,8 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 Excel Online 從網際網路瀏覽器啟動，並依靠網際網路連線。若要離線存取試算表，您必須在電腦上安裝 Microsoft Excel 桌面應用程式，以用來檢視和編輯 Excel 試算表。
 
-## <a name="pivot-tables"></a>樞紐分析表
-<a name="bkmk_Pivottables"></a>您可以在 Excel Online 試算表中插入樞紐分析表計算、 總之，並分析資料。 深入了解如何插入[在 Excel Online 中的樞紐分析表](https://support.office.com/en-us/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online)。
+## <a name="pivottables"></a>樞紐分析表
+<a name="bkmk_Pivottables"></a>您可以在 Excel Online 試算表中插入樞紐分析表計算、 總之，並分析資料。 深入了解如何插入[在 Excel Online 中的樞紐分析表](https://support.office.com/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online)。
 
   
 ## <a name="post-to-social-network-and-present-online"></a>發佈到社交網路並於線上呈現
@@ -287,8 +285,7 @@ Excel Online 可讓您檢視 Power Pivot 表格和圖表，但是您需要 Excel
 如果活頁簿中的資料連接至外部來源 (例如：資料庫、網頁或分析 Cube)，則您可以使用 Excel Online 來重新整理該資料。
 
 ## <a name="remove-duplicate-values"></a>移除重複的值
-<a name="bkmk_Removeduplicatevalues"></a>您可以在範圍或表格中移除重複的值。 如需詳細資訊，請參閱篩選器的唯一值或[移除重複的值](https://support.office.com/en-us/article/filter-for-unique-values-or-remove-duplicate-values-ccf664b0-81d6-449b-bbe1-8daaec1e83c2)。
-
+<a name="bkmk_Removeduplicatevalues"></a>您可以在範圍或表格中移除重複的值。 如需詳細資訊，請參閱 <<c0>篩選器的唯一值或移除重複的值。
   
 ## <a name="rename-and-add-sheets"></a>重新命名和新增工作表
 <a name="bkmk_renameaddsheets"> </a>

@@ -3,7 +3,7 @@ title: 郵件原則及符合性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/03/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 806476eb165bb4e98fe5c9d73b878aaa7e32b66c
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 15456686dfb5f50a21541fd431ba35f2052541a6
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246539"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621873"
 ---
 # <a name="message-policy-and-compliance"></a>郵件原則及符合性
 
@@ -90,7 +90,9 @@ Office 365 伺服器使用 BitLocker 加密包含客戶資料磁碟區層級的�
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 Office 365 郵件加密可讓電子郵件使用者將加密的電子郵件傳送給任何人。 我們宣佈 Office 郵件加密中利用 Azure 資訊加密的保護功能的新功能。 提供這些新功能，強化使用者體驗，可讓您更輕鬆地進行共用與共同作業與組織內外的任何人受保護的郵件。 新的 Office 郵件加密功能有一些安裝程式的需求。 請參閱 < Set up 以 Azure 資訊保護基礎所建置的全新 Office 365 郵件加密功能。 在舊版的 Office 365 郵件加密的客戶不會收到的新功能未依照設定上面所提供的指導方針。 請閱讀[常見問題集](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e)的詳細資料中新的和舊版的 Office 365 郵件加密功能比較包含的內容。 
-  
+
+Office 365 進階郵件加密藉由讓郵件到期及撤銷提供額外的保護。  您也可以建立多個範本來自您組織的加密電子郵件。  進階的郵件加密隨附於 Microsoft 365 E5、 Office 365 E5、 Microsoft 365 E5 （非營利組織版人員價格），Office 365 企業版 E5 （非營利組織版人員價格），或 Office 365 教育版 A5。 如果貴組織擁有不包含 Office 365 進階郵件加密的 Office 365 訂閱，您可以以附加元件形式購買 Microsoft 365 E5 合規性或 Office 365 進階合規性的 SKU。
+
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Secure/Multipurpose Internet Mail Extensions (S/MIME)
 <a name="bkmk_O365_MessageEncryption"> </a>
 
@@ -128,7 +130,7 @@ Internet Explorer 9 或更新版本支援 S/MIME。目前，Firefox、Opera 和 
   
 如需詳細資訊，請參閱[原有範圍暫止](https://go.microsoft.com/fwlink/p/?LinkId=271746)。
   
-## <a name="in-place-ediscovery"></a>就地電子文件探索
+## <a name="in-place-ediscovery"></a>就地 eDiscovery
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 Exchange Online 可讓客戶使用網頁介面搜尋整個組織的信箱內容。具有就地 eDiscovery 搜尋執行授權 (透過指派) 的系統管理員或法規遵循和安全性職員可搜尋電子郵件訊息、附件、行事曆約會、工作、連絡人及其他項目。就地 eDiscovery 可以同時搜尋主要信箱和封存。功能齊備的篩選功能包括寄件者、收件者、訊息類型、傳送/接收日期和副本/密件副本，另外還包括 KQL 語法。搜尋結果將同時包含 [刪除的郵件] 資料夾中符合搜尋查詢的項目。

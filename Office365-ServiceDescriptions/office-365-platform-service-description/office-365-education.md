@@ -3,7 +3,7 @@ title: Office 365 教育版
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/28/2018
+ms.date: 5/03/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如果您正在尋找 Office 365 教育版方案之間的差異，則本文將告訴您在每個包含哪些功能。 Office 365 與知名的 Microsoft Office 桌面套件結合，搭載 Microsoft 新一代通訊與共同作業服務的雲端架構版本 (包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office Online，以及 Microsoft 商務用 Skype Online)，讓使用者可透過網際網路在任何地點執行工作。
-ms.openlocfilehash: 6f6bcf8780be134b88043740973ca9f8d4380626
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: c03a69c5d85f156f5aa7f6d6b6f7ae8b2e1a4c51
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544970"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621923"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -277,7 +277,7 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如�
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Office Online** <br/> |**連結至詳細的功能比較** <br/> |
+|**應用程式** <br/> |**Office Online** <br/> |**連結至詳細的功能比較** <br/> |
 |Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -698,7 +698,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|日誌規則數目上限  <br/> |10 條規則  <br/> |10 條規則  <br/> |10 條規則  <br/> |
+|日誌規則數目上限  <br/> |50 的規則  <br/> |50 的規則  <br/> |50 的規則  <br/> |
 |傳輸規則數目上限  <br/> |300 條規則  <br/> |300 條規則  <br/> |300 條規則  <br/> |
 |個別傳輸規則的大小上限  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
 |所有傳輸規則中使用之所有規則運算式的字元限制  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |
