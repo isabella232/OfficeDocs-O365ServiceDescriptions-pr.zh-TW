@@ -3,7 +3,7 @@ title: Excel Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (先前稱為 Excel Web App) 您 Microsoft Excel 將經驗延伸至網頁瀏覽器中，其中您可以使用的活頁簿儲存活頁簿的網站上直接。 所有 Office 365 客戶均可使用 Office Online 來檢視和局部編輯 Office 檔案。
-ms.openlocfilehash: e429ff99f195a24480d79cace60889aeade3bfea
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 16f5f8fb606277f58f4b6ba5cff91b51656c441f
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621823"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641619"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -179,7 +179,7 @@ Microsoft Excel 桌面應用程式支援最進階的公式工具，例如：3D �
 ## <a name="freeze-panes"></a>凍結窗格
 <a name="bkmk_FreezePanes"> </a>
 
-在 Excel Online 功能區中使用凍結窗格功能。 深入了解[如何在 Excel 中使用凍結窗格](https://go.microsoft.com/fwlink/p/?LinkId=282331)與[查看 Excel Online 的秘訣](https://go.microsoft.com/fwlink/?linkid=869873)。
+在 Excel Online 功能區中使用凍結窗格功能。 深入了解[如何使用凍結窗格在 Excel 中](https://go.microsoft.com/fwlink/p/?LinkId=282331)，並[查看 Excel Online 的秘訣](https://go.microsoft.com/fwlink/?linkid=869873)。
   
 ## <a name="full-fidelity-reading-view"></a>高逼真讀取檢視
 <a name="bkmk_FullFidelityReadingView"> </a>
@@ -203,13 +203,7 @@ Microsoft Excel 桌面應用程式支援最進階的公式工具，例如：3D �
 <a name="bkmk_HideUnhide"> </a>
 
 您可以在 Excel Online 中隱藏和取消隱藏活頁簿中的列、欄和工作表。
- 
-## <a name="ideas"></a>構想
-<a name="Ideas"> </a>
-
-想法可讓您了解您透過高層級的視覺摘要、 趨勢和模式的資料。 只要按一下 [資料範圍內的儲存格，然後按一下 [首頁] 索引標籤，深入了解[想法](https://support.office.com/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US)了 [想法] 按鈕。
-
- 
+  
 ## <a name="insert-charts"></a>插入圖表
 <a name="bkmk_InsertCharts"> </a>
 
@@ -382,5 +376,4 @@ Microsoft Excel 桌面應用程式是功能相當強大的工具，可用於操�
 ## <a name="feature-availability"></a>功能可用性
 <a name="bkmk_WhatIfAnalysis"> </a>
 
-若要檢視 Office 365 方案、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Office Online 服務說明](office-online-service-description.md)。 
-
+若要檢視 Office 365 方案、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Office Online 服務說明](office-online-service-description.md)。

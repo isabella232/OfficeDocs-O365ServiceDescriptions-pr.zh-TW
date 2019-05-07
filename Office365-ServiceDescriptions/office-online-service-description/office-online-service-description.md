@@ -3,7 +3,7 @@ title: Office Online 服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Excel、 OneNote 和 PowerPoint 文件。 Office Online 讓您輕鬆藉由網際網路連線，從任何地點透過幾乎任何裝置來使用和共用 Office 檔案。 以 Word、 Excel、 OneNote、 或 PowerPoint 的 Microsoft Office 365 客戶可以檢視、 建立及編輯檔案隨時隨地。
-ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 922dba2570dc7989af7f1667eaaf9108978852a2
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621863"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641629"
 ---
 # <a name="office-online-service-description"></a>Office Online 服務說明
 
@@ -111,7 +111,8 @@ Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、
 |[縮放](word-online.md#zoom) <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> 這些呈現在檢視器， <sup>1</sup> ，但是您無法建立或編輯他們的 Office Online。 > <sup>2</sup>部份但非全部的 Office 增益集可用。 
+> 這些呈現在檢視器， <sup>1</sup> ，但是您無法建立或編輯他們的 Office Online。 <br/>
+> <sup>2</sup>部份但非全部的 Office 增益集可用。 <br/>
   
 ### <a name="excel"></a>Excel
 <a name="BKMK_ExcelFeatures"> </a>
@@ -153,7 +154,6 @@ Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、
 |[GoTo](excel-online.md#goto) <br/> |是  <br/> |是  <br/> |
 |[群組資料](excel-online.md#group-data) <br/> |是  <br/> |是  <br/> |
 |[隱藏/取消隱藏列、欄和工作表](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |是  <br/> |是  <br/> |
-|[構想](excel-online.md#ideas) <br/> |是  <br/> |是  <br/> |
 |[插入圖表](excel-online.md#insert-charts) <br/> |是  <br/> |是  <br/> |
 |[插入/刪除列和欄](excel-online.md#insertdelete-rows-and-columns) <br/> |是  <br/> |是  <br/> |
 |[插入圖片](excel-online.md#insert-pictures) <br/> |是  <br/> |是  <br/> |
@@ -193,6 +193,7 @@ Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、
 |[檢視 3D 圖表](excel-online.md#view-3d-charts) <br/> |是  <br/> |是  <br/> |
 |[What if 分析工具](excel-online.md#what-if-analysis-tools) <br/> |否  <br/> |是  <br/> |
 
+> [!NOTE] 
 > <sup>1</sup>無法建立樞紐分析圖時，僅供檢視。
  <br/><sup>2</sup>根據您的環境的設定方式，某些類型的資料連線支援 Excel Online 中顯示的活頁簿。 如需詳細資訊，請參閱 在瀏覽器視窗中重新整理活頁簿的資料。 
  <br/><sup>3</sup>您無法在 Excel Online 中使用 VBA 建立巨集，但是您可以開啟和編輯已啟用 VBA 功能的試算表，而不移除 （或損毀） 此檔案所含的 VBA。
@@ -298,7 +299,8 @@ Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、
 |[檢視和新增注釋](powerpoint-online.md#view-and-add-comments) <br/> |是  <br/> |是  <br/> |
 |[檢視和編輯投影片備註](powerpoint-online.md#view-and-edit-slide-notes) <br/> |是  <br/> |是  <br/> |
 |[WYSIWYG 的檢視](powerpoint-online.md#wysiwyg-viewing) <br/> |是  <br/> |是  <br/> |
-   
+
+> [!NOTE]   
 > <sup>1</sup> PowerPoint Online 支援 8 種切換效果和 37 種動畫的圖庫。 如需更多選項，或建立自訂動畫，請使用 PowerPoint 桌面應用程式。 
  <br/><sup>2</sup>您正在使用裝置必須支援筆跡功能。 
  <br/> <sup>3</sup>部份但非全部的 Office 增益集可用。 
@@ -333,7 +335,8 @@ Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、
 |OpenDocument (.odp)  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 巨集無法執行或已變更。 > <sup>2</sup> 若巨集存在，系統會提示使用者移除含有巨集的檔案副本。 
+> <sup>1</sup> 巨集無法執行或已變更。<br/>
+> <sup>2</sup> 若巨集存在，系統會提示使用者移除含有巨集的檔案副本。<br/> 
   
 > [!NOTE]
 > 透過 Office 2016、2013、2010 或 2007，或隨附相容性套件的 Office 2000 及更新版本，可建立較新的檔案格式 (例如：.docx, .xlsl 和 .pptx)。 
