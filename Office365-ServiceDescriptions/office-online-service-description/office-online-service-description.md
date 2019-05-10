@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、 Excel、 OneNote 和 PowerPoint 文件。 Office Online 讓您輕鬆藉由網際網路連線，從任何地點透過幾乎任何裝置來使用和共用 Office 檔案。 以 Word、 Excel、 OneNote、 或 PowerPoint 的 Microsoft Office 365 客戶可以檢視、 建立及編輯檔案隨時隨地。
-ms.openlocfilehash: 922dba2570dc7989af7f1667eaaf9108978852a2
-ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
+ms.openlocfilehash: e9c486f9066b0bd2513bd0d0fb288da89db721a3
+ms.sourcegitcommit: 236252f06dfa9802c3708a19eee28e434bb30966
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33641629"
+ms.lasthandoff: 05/08/2019
+ms.locfileid: "33663287"
 ---
 # <a name="office-online-service-description"></a>Office Online 服務說明
 
@@ -336,7 +336,7 @@ Office Online (先前稱為 Office Web Apps) 開啟網頁瀏覽器中的 Word、
    
 > [!NOTE]
 > <sup>1</sup> 巨集無法執行或已變更。<br/>
-> <sup>2</sup> 若巨集存在，系統會提示使用者移除含有巨集的檔案副本。<br/> 
+> <sup>2</sup>若巨集存在，會提示使用者儲存檔案的複本移除巨集。<br/> 
   
 > [!NOTE]
 > 透過 Office 2016、2013、2010 或 2007，或隨附相容性套件的 Office 2000 及更新版本，可建立較新的檔案格式 (例如：.docx, .xlsl 和 .pptx)。 
