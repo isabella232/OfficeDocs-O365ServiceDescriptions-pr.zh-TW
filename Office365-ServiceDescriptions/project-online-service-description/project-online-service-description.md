@@ -3,7 +3,7 @@ title: Project Online 服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/03/2019
+ms.date: 05/13/2019
 ms.audience: End User
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是適用於專案組合管理 (PPM) 和日常工作彈性線上解決方案。 Project Online 是透過 Office 365 所交付，提供功能強大的專案管理功能，以規劃、設定優先順序以及管理專案和專案組合投資 (幾乎可以從任何位置在任何裝置上使用)。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: 6f55d69126ec2eff471f19cf8f018f7c8f1f6fb0
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 45d071b980536dcba61f88fcb5717abcfc566e9f
+ms.sourcegitcommit: daf388cc1f51774cb254b0d41b4aeea74aeac0dc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621913"
+ms.lasthandoff: 05/14/2019
+ms.locfileid: "33970067"
 ---
 # <a name="project-online-service-description"></a>Project Online 服務說明
 
@@ -65,7 +65,7 @@ Project Online 網站上的任何互動需要 Project Online 授權。
   
 ## <a name="project-online-plans"></a>Project Online 計劃
 
-下列為可用的 Project Online 計劃。 若要深入了解 Project Online，請參閱[Getting Started with Project Online](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)。
+下列為可用的 Project Online 計劃。 若要深入了解 Project Online，請參閱[Getting Started with Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)。
   
 ||||
 |:-----|:-----|:-----|

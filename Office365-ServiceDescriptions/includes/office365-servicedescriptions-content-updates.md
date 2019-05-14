@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-april-01-2019"></a>2019 年 4 月 01 日當週
-
-
-| 發佈時間 |主題標題 | 變更 |
-|------|------------|--------|
-| 4/3/2019 | [Office 365 安全性與合規性中心](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 修改時間 |
-| 4/4/2019 | [Office 365 進階威脅防護服務說明](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 修改時間 |
-
-
 ## <a name="week-of-april-08-2019"></a>2019 年 4 月 8 日當週
 
 
@@ -67,7 +58,7 @@
 | 5/1/2019 | [Exchange Online 限制](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 修改時間 |
 | 5/1/2019 | [Office 365 教育版](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-education) | 修改時間 |
 | 5/1/2019 | [Office 365 Germany](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | 修改時間 |
-| 5/1/2019 | [由 21Vianet 運作的 Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 修改時間 |
+| 5/1/2019 | [21Vianet 運作的 Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 修改時間 |
 | 5/1/2019 | [Office 應用程式](/Office365/ServiceDescriptions/office-applications-service-description/office-applications) | 修改時間 |
 | 5/1/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | 修改時間 |
 | 5/1/2019 | [Office Online 服務說明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 修改時間 |
@@ -81,3 +72,15 @@
 | 5/3/2019 | [組合管理](/Office365/ServiceDescriptions/project-online-service-description/portfolio-management) | 修改時間 |
 | 5/3/2019 | [專案管理](/Office365/ServiceDescriptions/project-online-service-description/project-management) | 修改時間 |
 | 5/3/2019 | [Project Online 服務說明](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | 修改時間 |
+
+
+## <a name="week-of-may-06-2019"></a>2019 年 06 日當週
+
+
+| 發佈時間 |主題標題 | 變更 |
+|------|------------|--------|
+| 5/6/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | 修改時間 |
+| 5/6/2019 | [Office Online 服務說明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 修改時間 |
+| 5/7/2019 | [Exchange Online 服務說明](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | 修改時間 |
+| 5/7/2019 | [支援](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | 修改時間 |
+| 5/7/2019 | [Office Online 服務說明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 修改時間 |
