@@ -3,7 +3,6 @@ title: 商務用 OneDrive 服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,118 +13,101 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
-description: 商務用 OneDrive 是雲端中的個人線上儲存空間 (由您的公司所提供)。請使用它輕鬆地在跨多個裝置存取您的工作檔案時加以儲存並保護。視需要與公司同事共用檔案，並且以最新的 Office 桌面、Web 和行動裝置應用程式，在 Office 文件上即時共同作業。使用商務用 OneDrive 同步處理用戶端將檔案同步處理到本機電腦。
-ms.openlocfilehash: 4a367c37794e2ff9355f0e88cb8ca0e50394e77c
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: 深入了解每個訂閱方案所提供的 OneDrive 儲存空間。
+ms.openlocfilehash: 53023491a4b417a6daa2ba0eb57d5e443510c5c3
+ms.sourcegitcommit: 9ea9aa7c3d87354af4ac69f950e36b895b930463
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246919"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34080464"
 ---
-# <a name="onedrive-for-business-service-description"></a><span data-ttu-id="e6094-106">商務用 OneDrive 服務說明</span><span class="sxs-lookup"><span data-stu-id="e6094-106">OneDrive for Business Service Description</span></span>
+# <a name="onedrive-for-business-service-description"></a><span data-ttu-id="d2159-103">商務用 OneDrive 服務描述</span><span class="sxs-lookup"><span data-stu-id="d2159-103">OneDrive for Business Service Description</span></span>
 
-<span data-ttu-id="e6094-p102">商務用 OneDrive 是雲端中的個人線上儲存空間 (由您的公司所提供)。請使用它輕鬆地在跨多個裝置存取您的工作檔案時加以儲存並保護。視需要與公司同事共用檔案，並且以最新的 Office 桌面、Web 和行動裝置應用程式，在 Office 文件上即時共同作業。使用商務用 OneDrive 同步處理用戶端將檔案同步處理到本機電腦。</span><span class="sxs-lookup"><span data-stu-id="e6094-p102">OneDrive for Business is personal online storage space in the cloud, provided for you by your company. Use it to store and protect your work files while accessing them across multiple devices with ease. Share your files with business colleagues as needed and collaborate on Office documents together in real time with the latest Office desktop, web, and mobile apps. Sync files to your local computer using the OneDrive for Business sync client.</span></span>
+<span data-ttu-id="d2159-104">OneDrive 是為組織中個別授權使用者在雲端提供的線上儲存空間。</span><span class="sxs-lookup"><span data-stu-id="d2159-104">OneDrive is online storage space in the cloud that's provided for individual licensed users in an organization.</span></span> <span data-ttu-id="d2159-105">您可以使用它來協助保護工作檔案，並跨多個裝置加以存取。</span><span class="sxs-lookup"><span data-stu-id="d2159-105">Use it to help protect work files and access them across multiple devices.</span></span> <span data-ttu-id="d2159-106">OneDrive 可讓您共用檔案並在文件上共同作業，以及將檔案同步處理到您的電腦。</span><span class="sxs-lookup"><span data-stu-id="d2159-106">OneDrive lets you share files and collaborate on documents, and sync files to your computer.</span></span> [<span data-ttu-id="d2159-107">深入了解 OneDrive 的特性、功能及價格</span><span class="sxs-lookup"><span data-stu-id="d2159-107">Learn more about OneDrive features, functionality, and pricing</span></span>](https://go.microsoft.com/fwlink/?linkid=850345) 
   
-<span data-ttu-id="e6094-111">商務用 OneDrive 隨附於 SharePoint Online，也可以作為獨立方案或與 Office 365 方案一起購買。</span><span class="sxs-lookup"><span data-stu-id="e6094-111">OneDrive for Business is included in SharePoint Online, and can also be purchased as a standalone plan or with Office 365 plans.</span></span> 
-  
-<span data-ttu-id="e6094-112">若要深入了解商務用 OneDrive 功能，請移至 [OneDrive](https://go.microsoft.com/fwlink/?linkid=850345)。</span><span class="sxs-lookup"><span data-stu-id="e6094-112">To learn more about OneDrive for Business features and functionality, go to [OneDrive](https://go.microsoft.com/fwlink/?linkid=850345).</span></span>
-  
-## <a name="subscription-plans"></a><span data-ttu-id="e6094-113">訂閱方案</span><span class="sxs-lookup"><span data-stu-id="e6094-113">Subscription plans</span></span>
-
-<span data-ttu-id="e6094-114">您可透過下列方案使用 商務用 OneDrive。</span><span class="sxs-lookup"><span data-stu-id="e6094-114">OneDrive for Business is available through the following plans.</span></span>
-  
-||||||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|<span data-ttu-id="e6094-115">**服務**</span><span class="sxs-lookup"><span data-stu-id="e6094-115">**Service**</span></span> <br/> |<span data-ttu-id="e6094-116">**Office 365 商務版**</span><span class="sxs-lookup"><span data-stu-id="e6094-116">**Office 365 Business**</span></span> <br/> |<span data-ttu-id="e6094-117">**Office 365 商務基本版**</span><span class="sxs-lookup"><span data-stu-id="e6094-117">**Office 365 Business Essentials**</span></span> <br/> |<span data-ttu-id="e6094-118">**Office 365 商務進階版**</span><span class="sxs-lookup"><span data-stu-id="e6094-118">**Office 365 Business Premium**</span></span> <br/> |<span data-ttu-id="e6094-119">**Office 365 專業增強版**</span><span class="sxs-lookup"><span data-stu-id="e6094-119">**Office 365 ProPlus**</span></span> <br/> |<span data-ttu-id="e6094-120">**Office 365 企業版 E1**</span><span class="sxs-lookup"><span data-stu-id="e6094-120">**Office 365 Enterprise E1**</span></span> <br/> |<span data-ttu-id="e6094-121">**Office 365 企業版 E3**</span><span class="sxs-lookup"><span data-stu-id="e6094-121">**Office 365 Enterprise E3**</span></span> <br/> |<span data-ttu-id="e6094-122">**Office 365 企業版 E5**</span><span class="sxs-lookup"><span data-stu-id="e6094-122">**Office 365 Enterprise E5**</span></span> <br/> |<span data-ttu-id="e6094-123">**Office 365 企業版 F1**</span><span class="sxs-lookup"><span data-stu-id="e6094-123">**Office 365 Enterprise F1**</span></span> <br/> |
-|<span data-ttu-id="e6094-124">包含商務用 OneDrive 方案</span><span class="sxs-lookup"><span data-stu-id="e6094-124">OneDrive for Business Plan included</span></span>  <br/> |<span data-ttu-id="e6094-125">方案 1</span><span class="sxs-lookup"><span data-stu-id="e6094-125">Plan 1</span></span>  <br/> |<span data-ttu-id="e6094-126">方案 1</span><span class="sxs-lookup"><span data-stu-id="e6094-126">Plan 1</span></span>  <br/> |<span data-ttu-id="e6094-127">方案 1</span><span class="sxs-lookup"><span data-stu-id="e6094-127">Plan 1</span></span>  <br/> |<span data-ttu-id="e6094-128">方案 1</span><span class="sxs-lookup"><span data-stu-id="e6094-128">Plan 1</span></span>  <br/> |<span data-ttu-id="e6094-129">方案 1</span><span class="sxs-lookup"><span data-stu-id="e6094-129">Plan 1</span></span>  <br/> |<span data-ttu-id="e6094-130">方案 2</span><span class="sxs-lookup"><span data-stu-id="e6094-130">Plan 2</span></span>  <br/> |<span data-ttu-id="e6094-131">方案 2</span><span class="sxs-lookup"><span data-stu-id="e6094-131">Plan 2</span></span>  <br/> |<span data-ttu-id="e6094-132">方案 F (之前稱為方案 K)</span><span class="sxs-lookup"><span data-stu-id="e6094-132">Plan F (formerly Plan K)</span></span>  <br/> |
-   
-||||
-|:-----|:-----|:-----|
-|<span data-ttu-id="e6094-133">**服務**</span><span class="sxs-lookup"><span data-stu-id="e6094-133">**Service**</span></span> <br/> |<span data-ttu-id="e6094-134">**SharePoint Online 計劃 1**</span><span class="sxs-lookup"><span data-stu-id="e6094-134">**SharePoint Online Plan 1**</span></span> <br/> |<span data-ttu-id="e6094-135">**SharePoint Online 計劃 2**</span><span class="sxs-lookup"><span data-stu-id="e6094-135">**SharePoint Online Plan 2**</span></span> <br/> |
-|<span data-ttu-id="e6094-136">商務用 OneDrive</span><span class="sxs-lookup"><span data-stu-id="e6094-136">OneDrive for Business</span></span>  <br/> |<span data-ttu-id="e6094-137">是</span><span class="sxs-lookup"><span data-stu-id="e6094-137">Yes</span></span>  <br/> |<span data-ttu-id="e6094-138">是</span><span class="sxs-lookup"><span data-stu-id="e6094-138">Yes</span></span>  <br/> |
-   
-<span data-ttu-id="e6094-139">若要比較方案，請參閱[比較商務用 Office 365 方案](https://go.microsoft.com/fwlink/?linkid=799177)和[比較商務用 OneDrive 方案](https://products.office.com/zh-TW/onedrive-for-business/compare-onedrive-for-business-plans)。</span><span class="sxs-lookup"><span data-stu-id="e6094-139">To compare plans, see [Compare Office 365 for Business plans](https://go.microsoft.com/fwlink/?linkid=799177) and [Compare OneDrive for Business plans](https://products.office.com/zh-TW/onedrive-for-business/compare-onedrive-for-business-plans).</span></span> 
+<span data-ttu-id="d2159-108">OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方案中，也可以獨立方案形式個別購買。</span><span class="sxs-lookup"><span data-stu-id="d2159-108">OneDrive is included in Microsoft 365 and Office 365 plans, in SharePoint Online plans, and can also be purchased as a standalone plan.</span></span> 
+    
+<span data-ttu-id="d2159-109">若要比較方案，請參閱[比較商務用 Office 365 方案](https://go.microsoft.com/fwlink/?linkid=799177)和[比較商務用 OneDrive 方案](https://products.office.com/zh-TW/onedrive-for-business/compare-onedrive-for-business-plans)。</span><span class="sxs-lookup"><span data-stu-id="d2159-109">To compare plans, see [Compare Office 365 for Business plans](https://go.microsoft.com/fwlink/?linkid=799177) and [Compare OneDrive for Business plans](https://products.office.com/en-us/onedrive-for-business/compare-onedrive-for-business-plans).</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="e6094-140">商務用 OneDrive 獨立方案包含 Office Online。</span><span class="sxs-lookup"><span data-stu-id="e6094-140">OneDrive for Business standalone plans include Office Online.</span></span> 
+> <span data-ttu-id="d2159-110">商務用 OneDrive 獨立方案包含 Office Online。</span><span class="sxs-lookup"><span data-stu-id="d2159-110">OneDrive for Business standalone plans include Office Online.</span></span> 
   
-## <a name="system-requirements"></a><span data-ttu-id="e6094-141">系統需求</span><span class="sxs-lookup"><span data-stu-id="e6094-141">System Requirements</span></span>
+## <a name="system-requirements"></a><span data-ttu-id="d2159-111">系統需求</span><span class="sxs-lookup"><span data-stu-id="d2159-111">System requirements</span></span>
 
-<span data-ttu-id="e6094-142">如需系統需求，請參閱此[頁面](https://go.microsoft.com/fwlink/?linkid=837584)。</span><span class="sxs-lookup"><span data-stu-id="e6094-142">For system requirements, see this [page](https://go.microsoft.com/fwlink/?linkid=837584).</span></span>
+<span data-ttu-id="d2159-112">若要檢閱 OneDrive 同步處理用戶端和行動裝置應用程式的需求，請參閱 [OneDrive 系統需求](https://go.microsoft.com/fwlink/?linkid=837584)。</span><span class="sxs-lookup"><span data-stu-id="d2159-112">To review the requirements for the OneDrive sync client and mobile app, see [OneDrive system requirements](https://go.microsoft.com/fwlink/?linkid=837584).</span></span>
   
-## <a name="about-sync"></a><span data-ttu-id="e6094-143">關於同步處理</span><span class="sxs-lookup"><span data-stu-id="e6094-143">About sync</span></span>
+## <a name="about-sync"></a><span data-ttu-id="d2159-113">關於同步處理</span><span class="sxs-lookup"><span data-stu-id="d2159-113">About sync</span></span>
 
-<span data-ttu-id="e6094-p103">如果您尚未安裝最新的商務用 OneDrive 同步處理用戶端，請參閱[如何安裝商務用 OneDrive 同步處理用戶端](https://support.microsoft.com/zh-TW/help/2903984/how-to-install-onedrive-for-business-for-sharepoint-and-sharepoint-onl)。不確定您使用的是哪個同步處理用戶端？請參閱[我使用的是哪個版本的 OneDrive？](https://go.microsoft.com/fwlink/?linkid=846624)</span><span class="sxs-lookup"><span data-stu-id="e6094-p103">If you do not have the latest OneDrive for Business sync client installed, see [How to install the OneDrive for Business sync client](https://support.microsoft.com/zh-TW/help/2903984/how-to-install-onedrive-for-business-for-sharepoint-and-sharepoint-onl). Not sure which sync client you're using? See [Which version of OneDrive am I using?](https://go.microsoft.com/fwlink/?linkid=846624)</span></span>
+<span data-ttu-id="d2159-114">若要安裝最新的同步處理用戶端，請移至 [OneDrive 下載頁面](https://onedrive.live.com/about/download/)。</span><span class="sxs-lookup"><span data-stu-id="d2159-114">To install the latest sync client, go to [the OneDrive download page](https://onedrive.live.com/about/download/).</span></span> 
   
-## <a name="unlimited-cloud-storage-details"></a><span data-ttu-id="e6094-147">無限雲端儲存空間詳細資料</span><span class="sxs-lookup"><span data-stu-id="e6094-147">Unlimited cloud storage details</span></span>
+## <a name="storage-space-per-user"></a><span data-ttu-id="d2159-115">每個使用者的儲存空間</span><span class="sxs-lookup"><span data-stu-id="d2159-115">Storage space per user</span></span>
 
-<span data-ttu-id="e6094-148">針對具有五位使用者以上的訂用帳戶，下列方案提供無限的個人雲端儲存空間。</span><span class="sxs-lookup"><span data-stu-id="e6094-148">The following plans provide unlimited personal cloud storage for subscriptions with five users or more.</span></span>
-  
-- <span data-ttu-id="e6094-149">商務用 OneDrive 方案 2</span><span class="sxs-lookup"><span data-stu-id="e6094-149">OneDrive for Business Plan 2</span></span>
-    
-- <span data-ttu-id="e6094-150">SharePoint Online 方案 2</span><span class="sxs-lookup"><span data-stu-id="e6094-150">SharePoint Online Plan 2</span></span>
-    
-- <span data-ttu-id="e6094-151">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="e6094-151">Office 365 Enterprise E3</span></span>
-    
-- <span data-ttu-id="e6094-152">Office 365 企業版 E5</span><span class="sxs-lookup"><span data-stu-id="e6094-152">Office 365 Enterprise E5</span></span>
-    
-- <span data-ttu-id="e6094-153">Office 365 A1</span><span class="sxs-lookup"><span data-stu-id="e6094-153">Office 365 A1</span></span>
-    
-- <span data-ttu-id="e6094-154">Office 365 A3</span><span class="sxs-lookup"><span data-stu-id="e6094-154">Office 365 A3</span></span>
-    
-- <span data-ttu-id="e6094-155">Office 365 A5</span><span class="sxs-lookup"><span data-stu-id="e6094-155">Office 365 A5</span></span>
-    
-- <span data-ttu-id="e6094-156">Office 365 美國政府版 G3</span><span class="sxs-lookup"><span data-stu-id="e6094-156">Office 365 US Government G3</span></span>
-    
-- <span data-ttu-id="e6094-157">Office 365 美國政府版 G5</span><span class="sxs-lookup"><span data-stu-id="e6094-157">Office 365 US Government G5</span></span>
-    
-- <span data-ttu-id="e6094-158">非營利組織版 Office 365 E3</span><span class="sxs-lookup"><span data-stu-id="e6094-158">Office 365 E3 for nonprofit</span></span>
-    
-- <span data-ttu-id="e6094-159">非營利組織版 Office 365 E5</span><span class="sxs-lookup"><span data-stu-id="e6094-159">Office 365 E5 for nonprofit</span></span>
-    
-- <span data-ttu-id="e6094-160">Microsoft 365 企業版 E3</span><span class="sxs-lookup"><span data-stu-id="e6094-160">Microsoft 365 Enterprise E3</span></span>
-    
-- <span data-ttu-id="e6094-161">Microsoft 365 企業版 E5</span><span class="sxs-lookup"><span data-stu-id="e6094-161">Microsoft 365 Enterprise E5</span></span>
-    
-- <span data-ttu-id="e6094-162">Microsoft 365 A3</span><span class="sxs-lookup"><span data-stu-id="e6094-162">Microsoft 365 A3</span></span>
-    
-- <span data-ttu-id="e6094-163">Microsoft 365 A5</span><span class="sxs-lookup"><span data-stu-id="e6094-163">Microsoft 365 A5</span></span>
-    
-- <span data-ttu-id="e6094-164">Microsoft 365 美國政府版 G3</span><span class="sxs-lookup"><span data-stu-id="e6094-164">Microsoft 365 US Government G3</span></span>
-    
-- <span data-ttu-id="e6094-165">Microsoft 365 美國政府版 G5</span><span class="sxs-lookup"><span data-stu-id="e6094-165">Microsoft 365 US Government G5</span></span>
-    
-- <span data-ttu-id="e6094-166">非營利組織版 Microsoft 365 E3</span><span class="sxs-lookup"><span data-stu-id="e6094-166">Microsoft 365 E3 for nonprofit</span></span>
-    
-- <span data-ttu-id="e6094-167">非營利組織版 Microsoft 365 E5</span><span class="sxs-lookup"><span data-stu-id="e6094-167">Microsoft 365 E5 for nonprofit</span></span>
-    
-<span data-ttu-id="e6094-168">少於五位使用者的訂用帳戶會收到每個使用者 1 TB 的個人雲端儲存空間。</span><span class="sxs-lookup"><span data-stu-id="e6094-168">Subscriptions with less than five users receive 1 TB of personal cloud storage per user.</span></span> 
-  
-<span data-ttu-id="e6094-p104">客戶一開始會在商務用 OneDrive 中為每位使用者佈建 1 TB 的個人雲端儲存空間。您可以在 Office 365 系統管理員的協助之下，於每當 1 TB 配額已用掉 90% 時，[增加商務用 OneDrive 的預設儲存空間](https://go.microsoft.com/fwlink/?linkid=838024)，每個使用者最多 5 TB。</span><span class="sxs-lookup"><span data-stu-id="e6094-p104">Customers will initially be provisioned 1 TB of personal cloud storage per user in OneDrive for Business. You may [increase the default OneDrive for Business storage space](https://go.microsoft.com/fwlink/?linkid=838024) to up to 5 TB per user with the help of your Office 365 administrator once the 1TB quota is 90% full.</span></span> 
+<span data-ttu-id="d2159-116">**2 GB**</span><span class="sxs-lookup"><span data-stu-id="d2159-116">**2 GB**</span></span>
+
+- <span data-ttu-id="d2159-117">Office 365 企業版 F1</span><span class="sxs-lookup"><span data-stu-id="d2159-117">Office 365 Enterprise F1</span></span>
+
+<span data-ttu-id="d2159-118">**1 TB**</span><span class="sxs-lookup"><span data-stu-id="d2159-118">**1 TB per organization**</span></span>
+
+- <span data-ttu-id="d2159-119">Office 365 商務基本版</span><span class="sxs-lookup"><span data-stu-id="d2159-119">Office 365 Business Essentials</span></span>
+- <span data-ttu-id="d2159-120">Office 365 商務版</span><span class="sxs-lookup"><span data-stu-id="d2159-120">Office 365 Business</span></span>
+- <span data-ttu-id="d2159-121">Office 365 商務進階版</span><span class="sxs-lookup"><span data-stu-id="d2159-121">Office 365 Business Premium</span></span>
+- <span data-ttu-id="d2159-122">Office 365 專業增強版</span><span class="sxs-lookup"><span data-stu-id="d2159-122">Office 365 ProPlus</span></span>
+- <span data-ttu-id="d2159-123">Office 365 企業版 E1</span><span class="sxs-lookup"><span data-stu-id="d2159-123">Office 365 Enterprise E1</span></span>
+- <span data-ttu-id="d2159-124">Office 365 政府版 G1</span><span class="sxs-lookup"><span data-stu-id="d2159-124">Office 365 Government G1</span></span>
+- <span data-ttu-id="d2159-125">Office 365 非營利組織版商務基本版</span><span class="sxs-lookup"><span data-stu-id="d2159-125">Office 365 Nonprofit Business Essentials</span></span>
+- <span data-ttu-id="d2159-126">Office 365 非營利組織版商務進階版</span><span class="sxs-lookup"><span data-stu-id="d2159-126">Office 365 Nonprofit Business Premium</span></span>
+- <span data-ttu-id="d2159-127">Office 365 非營利組織版 E1</span><span class="sxs-lookup"><span data-stu-id="d2159-127">Office 365 Nonprofit E1</span></span>
+- <span data-ttu-id="d2159-128">商務用 OneDrive 方案 1</span><span class="sxs-lookup"><span data-stu-id="d2159-128">OneDrive for Business Plan 1</span></span>
+- <span data-ttu-id="d2159-129">SharePoint Online 方案 1</span><span class="sxs-lookup"><span data-stu-id="d2159-129">SharePoint Online Plan 1</span></span>
+
+<span data-ttu-id="d2159-130">**不只 1 TB，到無限制**</span><span class="sxs-lookup"><span data-stu-id="d2159-130">**Beyond 1 TB, to unlimited**</span></span>
+ 
+<span data-ttu-id="d2159-131">具有少於 5 個使用者的每個訂閱為每個使用者 1 TB。</span><span class="sxs-lookup"><span data-stu-id="d2159-131">1 TB per user for subscriptions with fewer than 5 users.</span></span> <span data-ttu-id="d2159-132">對於具有 5 個或更多使用者的訂閱，Microsoft 一開始將為每個使用者提供 1 TB，系統管理員可以增加到每個使用者最多 5 TB。</span><span class="sxs-lookup"><span data-stu-id="d2159-132">For subscriptions with 5 or more users, Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="d2159-133">([了解作法](/onedrive/set-default-storage-space)) 若要要求額外的儲存空間，系統管理員必須連絡 Microsoft 支援服務。</span><span class="sxs-lookup"><span data-stu-id="d2159-133">([Learn how](/onedrive/set-default-storage-space)) To request additional storage, admins must contact Microsoft support.</span></span> 
+
+- <span data-ttu-id="d2159-134">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="d2159-134">Office 365 Enterprise E3</span></span>
+- <span data-ttu-id="d2159-135">Office 365 企業版 E5</span><span class="sxs-lookup"><span data-stu-id="d2159-135">Office 365 Enterprise E5</span></span>
+- <span data-ttu-id="d2159-136">商務用 OneDrive 方案 2</span><span class="sxs-lookup"><span data-stu-id="d2159-136">OneDrive for Business Plan 2</span></span>
+- <span data-ttu-id="d2159-137">SharePoint Online 方案 2</span><span class="sxs-lookup"><span data-stu-id="d2159-137">SharePoint Online Plan 2</span></span>
+- <span data-ttu-id="d2159-138">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="d2159-138">Office 365 Enterprise E3</span></span>
+- <span data-ttu-id="d2159-139">Office 365 企業版 E5</span><span class="sxs-lookup"><span data-stu-id="d2159-139">Office 365 Enterprise E5</span></span>
+- <span data-ttu-id="d2159-140">Office 365 A1</span><span class="sxs-lookup"><span data-stu-id="d2159-140">Office 365 A1</span></span>
+- <span data-ttu-id="d2159-141">Office 365 A3</span><span class="sxs-lookup"><span data-stu-id="d2159-141">Office 365 A3</span></span>
+- <span data-ttu-id="d2159-142">Office 365 A5</span><span class="sxs-lookup"><span data-stu-id="d2159-142">Office 365 A5</span></span>
+- <span data-ttu-id="d2159-143">Office 365 美國政府版 G3</span><span class="sxs-lookup"><span data-stu-id="d2159-143">Office 365 US Government G3</span></span>
+- <span data-ttu-id="d2159-144">Office 365 美國政府版 G5</span><span class="sxs-lookup"><span data-stu-id="d2159-144">Office 365 US Government G5</span></span>
+- <span data-ttu-id="d2159-145">Office 365 非營利組織版 E3</span><span class="sxs-lookup"><span data-stu-id="d2159-145">Office 365 Nonprofit E3</span></span> 
+- <span data-ttu-id="d2159-146">OOffice 365 非營利組織版 E5</span><span class="sxs-lookup"><span data-stu-id="d2159-146">Office 365 Nonprofit E5</span></span> 
+- <span data-ttu-id="d2159-147">Microsoft 365 企業版 E3</span><span class="sxs-lookup"><span data-stu-id="d2159-147">Microsoft 365 Enterprise E3</span></span>
+- <span data-ttu-id="d2159-148">Microsoft 365 企業版 E5</span><span class="sxs-lookup"><span data-stu-id="d2159-148">Microsoft 365 Enterprise E5</span></span>
+- <span data-ttu-id="d2159-149">Microsoft 365 A3</span><span class="sxs-lookup"><span data-stu-id="d2159-149">Microsoft 365 A3</span></span>
+- <span data-ttu-id="d2159-150">Microsoft 365 A5</span><span class="sxs-lookup"><span data-stu-id="d2159-150">Microsoft 365 A5</span></span>
+- <span data-ttu-id="d2159-151">Microsoft 365 美國政府版 G3</span><span class="sxs-lookup"><span data-stu-id="d2159-151">Microsoft 365 US Government G3</span></span>
+- <span data-ttu-id="d2159-152">Microsoft 365 美國政府版 G5</span><span class="sxs-lookup"><span data-stu-id="d2159-152">Microsoft 365 US Government G5</span></span>
+- <span data-ttu-id="d2159-153">非營利組織版 Microsoft 365 E3</span><span class="sxs-lookup"><span data-stu-id="d2159-153">Microsoft 365 E3 for nonprofit</span></span>
+- <span data-ttu-id="d2159-154">非營利組織版 Microsoft 365 E5</span><span class="sxs-lookup"><span data-stu-id="d2159-154">Microsoft 365 E5 for nonprofit</span></span>
+
   
 > [!NOTE]
-> <span data-ttu-id="e6094-171">您必須將至少一個授權指派給使用者，才能增加預設 OneDrive 儲存空間。</span><span class="sxs-lookup"><span data-stu-id="e6094-171">You must assign at least one license to a user before you can increase the default OneDrive storage space.</span></span> 
+> <span data-ttu-id="d2159-155">您必須將至少一個授權指派給使用者，才能增加預設 OneDrive 儲存空間。</span><span class="sxs-lookup"><span data-stu-id="d2159-155">You must assign at least one license to a user before you can increase the default OneDrive storage space.</span></span> 
   
-<span data-ttu-id="e6094-p105">如果您需要超過初始 5 TB 的雲端儲存空間，請至 [Microsoft 技術支援開啟案例](https://go.microsoft.com/fwlink/?linkid=869559)以提出要求。將會授與額外的雲端儲存空間，如下所示：</span><span class="sxs-lookup"><span data-stu-id="e6094-p105">Whenever you need cloud storage beyond the initial 5 TB, [open a case with Microsoft technical support](https://go.microsoft.com/fwlink/?linkid=869559) to request it. Additional cloud storage will be granted as follows:</span></span> 
+<span data-ttu-id="d2159-156">當您的個別使用者需要超過初始 5 TB 的雲端儲存空間，系統管理員可以向 [Microsoft 技術支援開啟案例](https://go.microsoft.com/fwlink/?linkid=869559)來要求。</span><span class="sxs-lookup"><span data-stu-id="d2159-156">Whenever you need cloud storage beyond the initial 5 TB, [open a case with Microsoft technical support](https://go.microsoft.com/fwlink/?linkid=869559) to request it.</span></span> <span data-ttu-id="d2159-157">將會授與額外的雲端儲存空間，如下所示：</span><span class="sxs-lookup"><span data-stu-id="d2159-157">Additional cloud storage will be granted as follows:</span></span> 
   
-- <span data-ttu-id="e6094-174">當使用者用盡 5 TB 商務用 OneDrive 儲存空間的至少 90% 容量時，Microsoft 會將 商務用 OneDrive 中的預設儲存空間增加到每個使用者最多 25 TB (系統管理員也可以視意願設定較低的每位使用者限制)。</span><span class="sxs-lookup"><span data-stu-id="e6094-174">When a user has filled their 5 TB of OneDrive for Business storage to at least 90% capacity, Microsoft will increase your default storage space in OneDrive for Business to up to 25 TB per user (admins may set a lower per user limit if they wish to).</span></span> 
+- <span data-ttu-id="d2159-158">當使用者用盡 5 TB OneDrive 儲存空間的至少 90% 容量時，Microsoft 會將 OneDrive 中的預設儲存空間增加到每個使用者最多 25 TB (系統管理員也可以視意願設定較低的每位使用者限制)。</span><span class="sxs-lookup"><span data-stu-id="d2159-158">When a user has filled their 5 TB of OneDrive for Business storage to at least 90% capacity, Microsoft will increase your default storage space in OneDrive for Business to up to 25 TB per user (admins may set a lower per user limit if they wish to).</span></span> 
     
-- <span data-ttu-id="e6094-p106">對於達到 25 TB 商務用 OneDrive 儲存空間至少 90% 容量的使用者，額外雲端儲存空間會以 25 TB SharePoint 小組網站的形式提供給個別使用者。此額外儲存空間是以借貸方式提供給租用戶。</span><span class="sxs-lookup"><span data-stu-id="e6094-p106">For any user that reaches at least 90% capacity of their 25 TB of OneDrive for Business storage, additional cloud storage will be provided as 25 TB SharePoint team sites to individual users. This additional storage is provided to the tenant by way of credit.</span></span>
+- <span data-ttu-id="d2159-159">對於達到 25 TB OneDrive 儲存空間至少 90% 容量的使用者，可以以 25 TB SharePoint 小組網站的形式提供額外的雲端儲存空間給個別使用者。</span><span class="sxs-lookup"><span data-stu-id="d2159-159">For any user that reaches at least 90% capacity of their 25 TB of OneDrive for Business storage, additional cloud storage will be provided as 25 TB SharePoint team sites to individual users.</span></span> <span data-ttu-id="d2159-160">此額外儲存空間是以借貸方式提供給租用戶。</span><span class="sxs-lookup"><span data-stu-id="d2159-160">This additional storage is provided to the tenant by way of credit.</span></span>
     
-<span data-ttu-id="e6094-177">若要查看您使用了多少個人雲端儲存空間，您的 Office 365 系統管理員可以移至 OneDrive 系統管理中心來管理其使用者的個人雲端儲存空間。</span><span class="sxs-lookup"><span data-stu-id="e6094-177">To see how much personal cloud storage you are using, your Office 365 administrator can go to the OneDrive Admin Center to manage their users' personal cloud storage.</span></span> 
-  
-<span data-ttu-id="e6094-178">請參閱[變更您的使用者使用 PowerShell 的 OneDrive 儲存空間](https://go.microsoft.com/fwlink/?linkid=866402)，以取得 Office 365 系統管理員如何在商務用 OneDrive 中管理使用者儲存空間的詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="e6094-178">See [Change your users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402) for more information on how Office 365 administrators can manage user storage in OneDrive for Business.</span></span> 
-  
-## <a name="supported-uses"></a><span data-ttu-id="e6094-179">支援使用</span><span class="sxs-lookup"><span data-stu-id="e6094-179">Supported uses</span></span>
+<span data-ttu-id="d2159-161">若要查看個別使用者的儲存空間和使用量，請在 OneDrive 同步處理用戶端中移至 [管理儲存空間][](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68)。</span><span class="sxs-lookup"><span data-stu-id="d2159-161">To see the storage space and usage for an individual user, go to [Manage storage](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) in the OneDrive sync client.</span></span> <span data-ttu-id="d2159-162">若要查看整個組織的使用者使用的儲存空間量，請移至 Microsoft 365 系統管理中心的 [OneDrive 使用量報告](/office365/admin/activity-reports/onedrive-for-business-usage)。</span><span class="sxs-lookup"><span data-stu-id="d2159-162">To see how much storage users across the organization are using, go to the [OneDrive usage report](/office365/admin/activity-reports/onedrive-for-business-usage) in the Microsoft 365 admin center.</span></span> 
+   
+## <a name="supported-uses"></a><span data-ttu-id="d2159-163">支援使用</span><span class="sxs-lookup"><span data-stu-id="d2159-163">Supported uses</span></span>
 
-<span data-ttu-id="e6094-p107">使用商務用 OneDrive，每個人都可以輕鬆地在雲端的個人線上儲存空間儲存、存取及共用工作檔案。商務用 OneDrive 是以每個使用者為基礎進行佈建，而且是設計來為個別使用者的需求提供服務。</span><span class="sxs-lookup"><span data-stu-id="e6094-p107">With OneDrive for Business, every person can easily store, access, and share their work files in their personal online storage space in the cloud. OneDrive for Business storage is provisioned on a per user basis and is designed to serve the needs of individual users.</span></span>
+<span data-ttu-id="d2159-164">OneDrive 是以每個使用者為基礎進行佈建，而且是設計來為個別使用者的需求提供服務。</span><span class="sxs-lookup"><span data-stu-id="d2159-164">OneDrive for Business storage is provisioned on a per user basis and is designed to serve the needs of individual users.</span></span>
   
-<span data-ttu-id="e6094-p108">不支援個別個人工作檔案以外的資料儲存，包括系統備份和部門與組織層級資料，也不支援將每個使用者授權指派給機器人、部門或其他非人類實體。SharePoint 是更進階內容管理和共同作業的最佳解決方案，包括儲存和管理檔案、通訊及小組與組織之間的內部網路網站。</span><span class="sxs-lookup"><span data-stu-id="e6094-p108">Storage of data other than an individual's personal work files, including system back-ups and departmental and organizational level data, is not supported, nor is the assignment of a per user license to a bot, department, or other non-human entity. SharePoint is the best solution for more advanced content management and collaboration, including storing and managing files, communications, and intranet sites across a team or organization.</span></span>
+<span data-ttu-id="d2159-165">不支援個別個人工作檔案以外的資料儲存，包括系統備份和部門與組織層級資料，也不支援將每個使用者授權指派給機器人、部門或其他非人類實體。</span><span class="sxs-lookup"><span data-stu-id="d2159-165">Storage of data other than an individual's personal work files, including system back-ups and departmental and organizational level data, is not supported, nor is the assignment of a per user license to a bot, department, or other non-human entity.</span></span> <span data-ttu-id="d2159-166">SharePoint 是更進階內容管理和共同作業的最佳解決方案，包括儲存和管理檔案、通訊及小組與組織之間的內部網路網站。</span><span class="sxs-lookup"><span data-stu-id="d2159-166">SharePoint is the best solution for more advanced content management and collaboration, including storing and managing files, communications, and intranet sites across a team or organization.</span></span>
   
-## <a name="onedrive-for-business-limitations"></a><span data-ttu-id="e6094-184">商務用 OneDrive 限制</span><span class="sxs-lookup"><span data-stu-id="e6094-184">OneDrive for Business limitations</span></span>
+## <a name="onedrive-limits"></a><span data-ttu-id="d2159-167">OneDrive 的限制</span><span class="sxs-lookup"><span data-stu-id="d2159-167">OneDrive limits</span></span>
 
-<span data-ttu-id="e6094-p109">商務用 OneDrive 隨附於 SharePoint Online。若要深入了解例如檔案上傳限制和網站集合配額的限制，請參閱 [SharePoint Online 限制](https://go.microsoft.com/fwlink/?linkid=829156)和[同步處理檔案和資料夾的限制](https://support.microsoft.com/zh-TW/help/3125202/restrictions-and-limitations-when-you-sync-files-and-folders)。</span><span class="sxs-lookup"><span data-stu-id="e6094-p109">OneDrive for Business is included in SharePoint Online. To learn about limitations such as file upload limits and site collection quotas see [SharePoint Online limits](https://go.microsoft.com/fwlink/?linkid=829156) and [Restrictions and limitations when you sync files and folders](https://support.microsoft.com/zh-TW/help/3125202/restrictions-and-limitations-when-you-sync-files-and-folders).</span></span>
+<span data-ttu-id="d2159-168">若要了解檔案和同步處理的限制，請參閱 [SharePoint Online 限制](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)和[無效的檔案名稱和檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。</span><span class="sxs-lookup"><span data-stu-id="d2159-168">To learn about file and sync limits, see [SharePoint Online limits](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) and [Invalid file names and file types](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).</span></span>
   
-<span data-ttu-id="e6094-187">針對包含無限個人雲端儲存空間的方案，請注意，限制可能會套用到非儲存空間功能。</span><span class="sxs-lookup"><span data-stu-id="e6094-187">For plans that include unlimited personal cloud storage, note that limits may apply on non-storage features.</span></span> 
+<span data-ttu-id="d2159-169">針對包含無限個別使用者雲端儲存空間的方案，請注意，限制可能會套用到非儲存空間功能。</span><span class="sxs-lookup"><span data-stu-id="d2159-169">For plans that include unlimited personal cloud storage, note that limits may apply on non-storage features.</span></span> 
   
 
