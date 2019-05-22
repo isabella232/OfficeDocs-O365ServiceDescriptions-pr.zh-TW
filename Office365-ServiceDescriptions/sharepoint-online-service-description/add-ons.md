@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-add-on-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
 description: Microsoft SharePoint 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 根據 Microsoft SharePoint Server 2013 設計的主控式服務，最適合用於專案執行、資料與文件儲存於中央位置、以及與他人共享資訊等作業。 Office 365 客戶也可購買與 SharePoint Online 相關的額外附加元件。
-ms.openlocfilehash: 3fd453bf37e68defdd9aad60cb9185c4190caa7f
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 6eddaa64b0d5c3406bee6cfd2bc57d693330543d
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246639"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343562"
 ---
 # <a name="add-ons"></a>附加元件
 

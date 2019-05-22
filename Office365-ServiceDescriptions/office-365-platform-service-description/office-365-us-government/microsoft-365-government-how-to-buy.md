@@ -4,17 +4,17 @@ ms.author: danarl
 author: danarl
 manager: mnirkhe
 ms.date: 1/28/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 0f62679cf706c6ffab86e801b27c91555e06834b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: c01d790b6c484aa618bc98b8def3bfa0c098a16c
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247169"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343232"
 ---
 ---
 

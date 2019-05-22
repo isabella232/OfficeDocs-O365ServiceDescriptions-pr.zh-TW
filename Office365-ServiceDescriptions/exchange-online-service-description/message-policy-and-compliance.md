@@ -3,7 +3,7 @@ title: 郵件原則及符合性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/03/2019
+ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 15456686dfb5f50a21541fd431ba35f2052541a6
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: b0e99d521ea56de91dcb7679aec5addbe9869f80
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621873"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342812"
 ---
 # <a name="message-policy-and-compliance"></a>郵件原則及符合性
 
@@ -35,17 +35,18 @@ Exchange Online 提供內建的封存功能來封存雲端式信箱，包括提�
   
 如需詳細資訊，請參閱：
   
-- [Exchange Online 中的封存信箱](https://go.microsoft.com/fwlink/p/?LinkId=404421)
+- [Exchange Online 中的封存信箱](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)
     
-- [在 Exchange Online 中啟用或停用封存信箱](https://go.microsoft.com/fwlink/p/?LinkId=404425)
+- [在 Exchange Online 中啟用或停用封存信箱](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
     
 ### <a name="archive-sizes"></a>封存大小
 
 每個個人封存只能儲存一位使用者的郵件資料。儲存空間的配置取決於訂閱計劃。如需有關封存信箱大小的詳細資訊，請參閱[Exchange Online 限制](exchange-online-limits.md)中的＜信箱儲存空間限制＞小節。
   
 > [!IMPORTANT]
-> 不允許使用日誌記錄、傳輸規則或自動轉寄規則將郵件複製到 Exchange Online 信箱以進行封存。在未使用信箱封存的個人案例中，Microsoft 保留拒絕執行個體中沒有限制之封存作業的權利。 > 就地封存針對 Outlook 使用者有特定的授權需求。Outlook 2007 使用者必須要有 2011 年 2 月累計更新的 Office 2007，才能存取個人封存。 > Exchange Online 不支援系統管理員使用 Exchange Server 2010 Service Pack 1 或更新版本的  _New-MailboxImportRequest_ Windows PowerShell 指令程式將 .pst 檔案匯入個人封存。如果使用者在 Exchange Online 中同時有主要信箱和封存，則系統管理員可以使用 PST Capture 這項免費的工具，將 .pst 檔案資料匯入使用者的主要信箱或封存。 
-  
+> - 不允許使用日誌記錄、傳輸規則或自動轉寄規則將郵件複製到 Exchange Online 信箱以進行封存。在未使用信箱封存的個人案例中，Microsoft 保留拒絕執行個體中沒有限制之封存作業的權利。 
+> - 就地封存針對 Outlook 使用者有特定的授權需求。Outlook 2007 使用者必須要有 2011 年 2 月累計更新的 Office 2007，才能存取個人封存。 
+> - Exchange Online 不支援_New-mailboximportrequest_ Windows PowerShell cmdlet 的 Exchange Server 2010 Service Pack 1 或更新版本的系統管理員導向.pst 檔案匯入至個人封存。 如果使用者在 Exchange Online 中同時有主要信箱和封存，則系統管理員可以使用 PST Capture 這項免費的工具，將 .pst 檔案資料匯入使用者的主要信箱或封存。 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>雲端式封存內部部署信箱
 
 您可以使用 Microsoft Exchange Online 封存這項由 Microsoft 提供的託管封存解決方案，使用 Exchange Online 對內部部署 Exchange Server 2010 或更新版本的信箱進行雲端式封存。若要執行這項作業，內部部署組織必須處於混合模式或設定使用 Exchange Online 封存。
@@ -68,11 +69,11 @@ Exchange Online 提供的保留原則功能與 Exchange Server 2010 Service Pack
 > [!IMPORTANT]
 > Exchange Online 不提供「受管理的資料夾」，這是 Exchange Server 2007 所引進的功能，為早期郵件記錄管理方法。 
   
-如需詳細資訊，請參閱〈[保留標記和保留原則](https://go.microsoft.com/fwlink/p/?LinkId=271745)〉。
+如需詳細資訊，請參閱〈[保留標記和保留原則](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)〉。
   
 ## <a name="encryption-of-data-at-rest"></a>靜態資料的加密
 
-靜態的 Office 365 客戶資料的加密是由提供多個服務端技術，包括 BitLocker、 DKM、 Azure 儲存體服務加密，以及服務加密在 Exchange Online、 商務用 Skype、 OneDrive for Business 和 SharePoint線上。 Office 365 服務加密包括要使用儲存在 Azure 金鑰保存庫中的客戶管理加密金鑰的選項。 客戶管理金鑰，稱為[Office 365 客戶金鑰](https://go.microsoft.com/fwlink/?linkid=863349)，則使用此選項的 Exchange Online、 SharePoint Online 和商務用 OneDrive。 
+靜態的 Office 365 客戶資料的加密是由提供多個服務端技術，包括 BitLocker、 DKM、 Azure 儲存體服務加密，以及服務加密在 Exchange Online、 商務用 Skype、 OneDrive for Business 和 SharePoint線上。 Office 365 服務加密包括要使用儲存在 Azure 金鑰保存庫中的客戶管理加密金鑰的選項。 客戶管理金鑰，稱為[Office 365 客戶金鑰](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697)，則使用此選項的 Exchange Online、 SharePoint Online 和商務用 OneDrive。 
   
 ### <a name="bitlocker"></a>BitLocker
 
@@ -84,12 +85,12 @@ Office 365 伺服器使用 BitLocker 加密包含客戶資料磁碟區層級的�
   
 ## <a name="customer-key"></a>客戶金鑰
 
-使用客戶金鑰，您可以控制您組織的加密金鑰，然後設定 [要用來加密存放在 Microsoft 資料中心中的 Office 365。 存放的資料包括 Exchange Online 資料和儲存在信箱的商務用 Skype 資料，以及儲存在 SharePoint Online 中和商務用 OneDrive 中的檔案。 如需詳細資訊，請參閱[控制使用客戶金鑰的 Office 365 中的資料](https://go.microsoft.com/fwlink/?linkid=863349)和[使用 Office 365 常見問題集的客戶金鑰服務加密](https://go.microsoft.com/fwlink/?linkid=869438)。
+使用客戶金鑰，您可以控制您組織的加密金鑰，然後設定 [要用來加密存放在 Microsoft 資料中心中的 Office 365。 存放的資料包括 Exchange Online 資料和儲存在信箱的商務用 Skype 資料，以及儲存在 SharePoint Online 中和商務用 OneDrive 中的檔案。 如需詳細資訊，請參閱[控制使用客戶金鑰的 Office 365 中的資料](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697)和[使用 Office 365 常見問題集的客戶金鑰服務加密](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq?redirectSourcePath=%252fen-us%252farticle%252fservice-encryption-with-customer-key-for-office-365-faq-41ae293a-bd5c-4083-acd8-e1a2b4329da6)。
   
 ## <a name="office-365-message-encryption"></a>Office 365 郵件加密
 <a name="bkmk_O365_MessageEncryption"> </a>
 
-Office 365 郵件加密可讓電子郵件使用者將加密的電子郵件傳送給任何人。 我們宣佈 Office 郵件加密中利用 Azure 資訊加密的保護功能的新功能。 提供這些新功能，強化使用者體驗，可讓您更輕鬆地進行共用與共同作業與組織內外的任何人受保護的郵件。 新的 Office 郵件加密功能有一些安裝程式的需求。 請參閱 < Set up 以 Azure 資訊保護基礎所建置的全新 Office 365 郵件加密功能。 在舊版的 Office 365 郵件加密的客戶不會收到的新功能未依照設定上面所提供的指導方針。 請閱讀[常見問題集](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e)的詳細資料中新的和舊版的 Office 365 郵件加密功能比較包含的內容。 
+Office 365 郵件加密可讓電子郵件使用者將加密的電子郵件傳送給任何人。 我們宣佈 Office 郵件加密中利用 Azure 資訊加密的保護功能的新功能。 提供這些新功能，強化使用者體驗，可讓您更輕鬆地進行共用與共同作業與組織內外的任何人受保護的郵件。 新的 Office 郵件加密功能有一些安裝程式的需求。 請參閱 < Set up 以 Azure 資訊保護基礎所建置的全新 Office 365 郵件加密功能。 在舊版的 Office 365 郵件加密的客戶不會收到的新功能未依照設定上面所提供的指導方針。 請閱讀[常見問題集](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e)的詳細資料中新的和舊版的 Office 365 郵件加密功能比較包含的內容。 
 
 Office 365 進階郵件加密藉由讓郵件到期及撤銷提供額外的保護。  您也可以建立多個範本來自您組織的加密電子郵件。  進階的郵件加密隨附於 Microsoft 365 E5、 Office 365 E5、 Microsoft 365 E5 （非營利組織版人員價格），Office 365 企業版 E5 （非營利組織版人員價格），或 Office 365 教育版 A5。 如果貴組織擁有不包含 Office 365 進階郵件加密的 Office 365 訂閱，您可以以附加元件形式購買 Microsoft 365 E5 合規性或 Office 365 進階合規性的 SKU。
 
@@ -98,7 +99,7 @@ Office 365 進階郵件加密藉由讓郵件到期及撤銷提供額外的保護
 
 S/MIME 可讓您在組織內傳送已簽署和已加密電子郵件，以協助保護敏感資訊。在建立並發出 PKI 憑證給使用者之後，系統管理員可以使用遠端 Windows PowerShell 來設定 S/MIME。這些憑證必須透過內部部署 Active Directory 憑證服務進行同步處理。
   
-Internet Explorer 9 或更新版本支援 S/MIME。目前，Firefox、Opera 和 Chrome 不支援 S/MIME。如需詳細資訊，請參閱〈[適用於訊息簽署和加密的 S/MIME](https://go.microsoft.com/fwlink/p/?LinkID=393973)〉。
+Internet Explorer 9 或更新版本支援 S/MIME。目前，Firefox、Opera 和 Chrome 不支援 S/MIME。如需詳細資訊，請參閱〈[適用於訊息簽署和加密的 S/MIME](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019)〉。
   
 ## <a name="in-place-hold-and-litigation-hold"></a>就地保留與訴訟暫止
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -128,7 +129,7 @@ Internet Explorer 9 或更新版本支援 S/MIME。目前，Firefox、Opera 和 
 > [!NOTE]
 > 當您對信箱進行就地保留或訴訟資料暫留時，會同時保留主要和封存信箱。 
   
-如需詳細資訊，請參閱[原有範圍暫止](https://go.microsoft.com/fwlink/p/?LinkId=271746)。
+如需詳細資訊，請參閱[原有範圍暫止](https://docs.microsoft.com/exchange/security-and-compliance/in-place-and-litigation-holds)。
   
 ## <a name="in-place-ediscovery"></a>就地 eDiscovery
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -153,7 +154,7 @@ Exchange Online 可讓客戶使用網頁介面搜尋整個組織的信箱內容�
     
 - 複製搜尋結果所傳回的郵件到探索信箱。
     
-如需詳細資訊，請參閱[就地 eDiscovery](http://go.microsoft.com/fwlink/p/?LinkId=271747)。
+如需詳細資訊，請參閱[就地 eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery)。
   
 ## <a name="mail-flow-rules"></a>郵件流程規則
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -175,7 +176,7 @@ Exchange Online 可讓客戶使用網頁介面搜尋整個組織的信箱內容�
 > [!IMPORTANT]
 > 需要安裝協力廠商 Ifilter （例如 Adobe.pdf) 的電子郵件伺服器上無法使用郵件流程規則，直到安裝適當的 iFilter 之後檢查的附件檔案類型。 如需郵件流程規則所支援的檔案類型的詳細資訊，請參閱 <<c0>使用郵件流程規則來 inspect message attachments 於 Office 365。 
   
-如需郵件流程規則的詳細資訊，請參閱[郵件流程規則在 Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkId=296488)。
+如需郵件流程規則的詳細資訊，請參閱[郵件流程規則在 Exchange 2016](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019)。
   
 ## <a name="data-loss-prevention"></a>資料外洩防護
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -200,7 +201,7 @@ Exchange Online 可讓客戶使用網頁介面搜尋整個組織的信箱內容�
     
 - 檢閱 DLP 報告中的事件資料，或使用產生事件報告動作來新增您自己的特定報告。
     
-如需有關 DLP 的詳細資訊，請參閱〈[資料遺失防護](https://go.microsoft.com/fwlink/p/?LinkId=271749)〉。
+如需有關 DLP 的詳細資訊，請參閱〈[資料遺失防護](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)〉。
   
 ## <a name="journaling"></a>日誌
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -221,7 +222,7 @@ Exchange Online 可讓客戶使用網頁介面搜尋整個組織的信箱內容�
     
 - 在 Exchange Server 和 Exchange 傳輸之間提供適當的互通性，包括郵件格式、寄件者/收件者資訊整合以及適當的內容轉換。
     
-如需有關日誌記錄的詳細資訊，請參閱〈[日誌記錄](https://go.microsoft.com/fwlink/p/?LinkId=271750)〉。
+如需有關日誌記錄的詳細資訊，請參閱〈[日誌記錄](https://docs.microsoft.com/exchange/security-and-compliance/journaling/journaling)〉。
   
 ## <a name="feature-availability"></a>功能可用性
 <a name="bkmk_O365_MessageEncryption"> </a>

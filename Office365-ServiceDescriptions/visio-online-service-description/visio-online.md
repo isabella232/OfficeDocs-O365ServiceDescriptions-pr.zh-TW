@@ -3,7 +3,7 @@ title: Visio Online
 ms.author: sharik
 author: skjerland
 ms.date: 6/28/2017
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - visio-online-service-descriptoin
@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio Online 您 Microsoft Visio 將經驗延伸至網頁瀏覽器中，其中您可以使用圖表圖表儲存所在的網站上直接。 使用 Office Online 的 Microsoft Office 365 客戶可以檢視和共用圖表和插入移至的註解。
-ms.openlocfilehash: 54c57a095d3689e9e6879f8c4a74ae4bbaeac315
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 8e76db1eaa8184db6400efb2768c67cd5d87c2ca
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246559"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342342"
 ---
 # <a name="visio-online"></a>Visio Online
 

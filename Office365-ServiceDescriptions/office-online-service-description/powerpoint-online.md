@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - powerpoint-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint Online (先前稱為 PowerPoint Web App) 可將延伸至網頁瀏覽器中，您 Microsoft PowerPoint 經驗讓您將簡報儲存所在的網站上直接使用簡報。 具有 Office Online 的 Microsoft Office 365 客戶可以隨時隨地檢視、建立及編輯檔案。
-ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 058cc9c8621fbec4a8788cbbc1ab32a541558b11
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246939"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343742"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 

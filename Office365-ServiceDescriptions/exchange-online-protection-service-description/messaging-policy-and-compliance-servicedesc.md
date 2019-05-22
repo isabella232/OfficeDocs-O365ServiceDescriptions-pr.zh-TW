@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - messaging-policy-and-compliance-in-eop
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) 提供郵件原則及符合性功能，可協助您管理電子郵件資料。
-ms.openlocfilehash: a37ad3c1bcecb73f7c903b553bdcb43935dc9ed7
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 4e4851def9c6eb5675c5302f865f6db369ffbfeb
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246119"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34341882"
 ---
 # <a name="messaging-policy-and-compliance"></a>郵件原則及符合性
 

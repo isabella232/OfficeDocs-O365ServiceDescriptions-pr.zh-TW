@@ -3,7 +3,7 @@ title: Office 365 教育版
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 5/03/2019
+ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如果您正在尋找 Office 365 教育版方案之間的差異，則本文將告訴您在每個包含哪些功能。 Office 365 與知名的 Microsoft Office 桌面套件結合，搭載 Microsoft 新一代通訊與共同作業服務的雲端架構版本 (包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office Online，以及 Microsoft 商務用 Skype Online)，讓使用者可透過網際網路在任何地點執行工作。
-ms.openlocfilehash: c03a69c5d85f156f5aa7f6d6b6f7ae8b2e1a4c51
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 4b0835673a5c78c9751f802632c3b96900237a13
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621923"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343612"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
 Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如果您正在尋找 Office 365 教育版方案之間的差異，則本文將告訴您在每個包含哪些功能。 Office 365 與知名的 Microsoft Office 桌面套件結合，搭載 Microsoft 新一代通訊與共同作業服務的雲端架構版本 (包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office Online，以及 Microsoft 商務用 Skype Online)，讓使用者可透過網際網路在任何地點執行工作。
   
-本文列出 Office 365 教育版方案 （A1、 A3 和 A5） 的功能。 若要跨商務和企業方案比較功能，請參閱[比較 Office 365 for Business 方案](https://go.microsoft.com/fwlink/?linkid=799177)，或如需更詳細的功能清單，請參閱[Office 365 服務說明](https://technet.microsoft.com/en-us/library/jj819284.aspx)相關服務描述。
+本文列出 Office 365 教育版方案 （A1、 A3 和 A5） 的功能。 若要跨商務和企業方案比較功能，請參閱[比較 Office 365 for Business 方案](https://products.office.com/business/compare-more-office-365-for-business-plans?legRedir=true&CorrelationId=cd322a5e-7b9c-467b-96d7-16b8074b9dda)，或如需更詳細的功能清單，請參閱[Office 365 服務說明](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)相關服務描述。
   
 若要搜尋技術支援文章和資訊，請參閱[Office 說明和訓練](https://support.office.com/)。
   
@@ -46,7 +46,11 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如�
 |Azure 資訊保護<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> project Online 並不包含在內，但可免費新增至 Office 365 教育版方案。 > <sup>2</sup>若要深入了解更多相關的 Azure 資訊保護功能隨附於 Office 365 計劃，請參閱[Azure 資訊保護](https://technet.microsoft.com/en-us/dn858608)。 > <sup>3</sup> office 365 A5 包含電話系統、 音訊會議和通話方案的功能。 若要實作通話方案需要購買額外的方案 （國內通話方案或國際通話方案）。 > <sup>4</sup>包含 Exchange Online Plan 2。 > <sup>5</sup>包含 Exchange Online Plan 1 加上附加功能。 > <sup>6</sup>包含 Skype 商務 Online 方案 2。 > <sup>7</sup>包含商務用 Skype 商務 Online Plan 1 加上附加功能。 
+> <sup>1</sup> project Online 並不包含在內，但可免費新增至 Office 365 教育版方案。 <br/> 
+<sup>2</sup>若要深入了解更多相關的 Azure 資訊保護功能隨附於 Office 365 計劃，請參閱[Azure 資訊保護](https://azure.microsoft.com/services/information-protection/)。<br/> 
+<sup>3</sup> office 365 A5 包含電話系統、 音訊會議和通話方案的功能。 若要實作通話方案需要購買額外的方案 （國內通話方案或國際通話方案）。 <br/> <sup>4</sup>包含 Exchange Online Plan 2。 <br/> 
+<sup>5</sup>包含 Exchange Online Plan 1 加上附加功能。 <br/> 
+<sup>6</sup>包含 Skype 商務 Online 方案 2。 <br> <sup>7</sup>包含商務用 Skype 商務 Online Plan 1 加上附加功能。 
   
 ## <a name="system-requirements"></a>系統需求
 
@@ -54,7 +58,7 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如�
   
 ## <a name="service-level-agreement"></a>服務等級協定
 
-如需有關服務等級協定的詳細資訊，請參閱[服務等級協定](https://go.microsoft.com/fwlink/?linkid=843153)。 如需有關 Office 365 最近運作時間的詳細資訊，請參閱 [Office 365 的透明化作業](https://go.microsoft.com/fwlink/?linkid=848695)。
+如需有關服務等級協定的詳細資訊，請參閱[服務等級協定](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-level-agreement)。 如需有關 Office 365 最近運作時間的詳細資訊，請參閱 [Office 365 的透明化作業](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity)。
   
 ## <a name="platform-features"></a>平台功能
 
@@ -157,7 +161,7 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如�
 |Office 365 進階電子文件<sup>7</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
 |安全分數<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |威脅情報  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|**[合規性[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
+|**[合規性 [ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
 |SAS 70 / SSAE16 評估  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 認證  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |歐盟示範條款  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -176,12 +180,19 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如�
 |**[產品使用權限](product-use-rights.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 does not provide support for any operating system that is not supported by its manufacturer. > <sup>2</sup>若使用目錄同步處理與本機的 Active Directory，您必須刪除帳戶或藉由在本機 Active Directory，而不是在 Office 365 入口網站或使用 Windows PowerShell 的 Azure Active Directory 模組來變更密碼。 > <sup>3</sup>若要了解如何為使用者設定自助式密碼管理原則，請參閱[在 Azure AD 中管理密碼](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)。 > <sup>4</sup>減少以折扣條件購買的基座可能需支付提前終止訂閱的費用。 This is not applicable for subscriptions paid on a monthly basis. > <sup>5</sup>可使用在[https://securescore.office.com](https://securescore.office.com/)（連結需要系統管理員權限）。 如需詳細資訊，請參閱[介紹 Office 365 安全分數](https://go.microsoft.com/fwlink/?linkid=836894)。 > <sup>6</sup> Microsoft Sway 不是目前適用於特定地區的客戶。 自 2015 年 8 月起就不再販售的一些舊版 Office 365 方案也可能無法存取 Microsoft Sway。 > <sup>7</sup>進階電子文件是在美國及支援西歐 （荷蘭） 區域中。 （從加拿大和亞太地區的客戶資料匯出至美國境內。 歐洲、 中東和非洲地區的客戶資料匯出至西歐 [荷蘭]。）> <sup>8</sup>的每個方案中包含的 Microsoft Stream 功能的相關資訊，請參閱[資料流授權概觀](https://stream.microsoft.com/en-us/documentation/stream-license-overview/)。 
+> <sup>1</sup> Office 365 does not provide support for any operating system that is not supported by its manufacturer.<br/> 
+<sup>2</sup>若使用目錄同步處理與本機的 Active Directory，您必須刪除帳戶或藉由在本機 Active Directory，而不是在 Office 365 入口網站或使用 Windows PowerShell 的 Azure Active Directory 模組來變更密碼。 <br/> 
+<sup>3</sup>若要了解如何為使用者設定自助式密碼管理原則，請參閱[在 Azure AD 中管理密碼](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)。 <br/> 
+<sup>4</sup>減少以折扣條件購買的基座可能需支付提前終止訂閱的費用。 This is not applicable for subscriptions paid on a monthly basis. <br/> 
+<sup>5</sup>可使用在[https://securescore.office.com](https://securescore.office.com/)（連結需要系統管理員權限）。 如需詳細資訊，請參閱[介紹 Office 365 安全分數](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)。<br/> 
+<sup>6</sup> Microsoft Sway 不是目前適用於特定地區的客戶。 自 2015 年 8 月起就不再販售的一些舊版 Office 365 方案也可能無法存取 Microsoft Sway。 <br/> 
+<sup>7</sup>進階電子文件是在美國及支援西歐 （荷蘭） 區域中。 （從加拿大和亞太地區的客戶資料匯出至美國境內。 歐洲、 中東和非洲地區的客戶資料匯出至西歐 [荷蘭]。） <br>
+<sup>8</sup>的每個方案中包含的 Microsoft Stream 功能的相關資訊，請參閱[資料流授權概觀](https://stream.microsoft.com/documentation/stream-license-overview/)。 
   
 ## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 安全性&amp;合規性中心功能
 <a name="SCC"> </a>
 
-[Office 365 安全性&amp;合規性中心](https://go.microsoft.com/fwlink/?LinkID=824876)設計來協助您管理 Office 365 組織符合性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
+[Office 365 安全性&amp;合規性中心](https://docs.microsoft.com/office365/securitycompliance/?redirectSourcePath=%252fen-us%252farticle%252fSecurity-and-Compliance-in-Office-365-for-business-Admin-Help-7fe448f7-49bd-4d3e-919d-0a6d1cf675bb)設計來協助您管理 Office 365 組織符合性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
@@ -189,24 +200,28 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如�
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[存取安全性&amp;合規性中心](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[進階安全性管理](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |否  <br/> |是  <br/> |是  <br/> |
-|[威脅管理](https://go.microsoft.com/fwlink/?linkid=845550)，例如郵件篩選和反惡意程式碼  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[進階威脅管理，](https://go.microsoft.com/fwlink/?linkid=846673)例如網路釣魚活動<sup>5</sup>的客戶加密箱和威脅總管 <br/> |否  <br/> |否  <br/> |是  <br/> |
-|[行動裝置管理](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[資料遺失防護](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[資料控管](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[進階資料控管](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[存取安全性&amp;合規性中心](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center?redirectSourcePath=%252fen-us%252farticle%252f7e696a40-b86b-4a20-afcc-559218b7b1b8) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[進階安全性管理](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |否  <br/> |是  <br/> |是  <br/> |
+|[威脅管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)，例如郵件篩選和反惡意程式碼  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[進階威脅管理，](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)例如網路釣魚活動<sup>5</sup>的客戶加密箱和威脅總管 <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[行動裝置管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[資料遺失防護](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[資料控管](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[進階資料控管](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
 |[搜尋和調查]<br/> |是  <br/> |是  <br/> |是  <br/> |
-|[eDiscovery 搜尋](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[eDiscovery 匯出](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[進階 eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>4</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[eDiscovery 搜尋](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases?redirectSourcePath=%252farticle%252feDiscovery-in-Office-365-143b3ab8-8cb0-4036-a5fc-6536d837bfce) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[eDiscovery 匯出](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases?redirectSourcePath=%252farticle%252feDiscovery-in-Office-365-143b3ab8-8cb0-4036-a5fc-6536d837bfce) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[進階 eDiscovery](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery?redirectSourcePath=%252farticle%252ffd53438a-a760-45f6-9df4-861b50161ae4)<sup>4</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
 |eDiscovery 保留 （包括查詢為基礎的 eDiscovery 保留）  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[封存](https://go.microsoft.com/fwlink/?linkid=844060)<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[封存](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery?redirectSourcePath=%252farticle%252ffd53438a-a760-45f6-9df4-861b50161ae4)<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |手動保留/刪除原則  <br/> |是  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>資料控管可讓使用者建立、 發佈及以手動方式將標籤套用至文件;使用磁碟機運送或透過網路; 匯入資料建立並套用保留/刪除原則工作負載、 使用者和群組。 套用至信箱的保留原則需要 Office 365 企業版 E3 或 E5。 > <sup>2</sup>進階的資料控管可讓您保留重要的資訊，並刪除不重要的資訊來分類保留或刪除原則或兩者為基礎的資訊。 它包含智慧型/自動化動作，例如建議政策;自動將標籤套用至資料;套用標籤根據敏感資料類型或查詢;並使用智慧匯入篩選器。 此外，它還會包含用於檢閱員工通訊安全性與合規性的用途，「 監督 」 功能。 > <sup>3</sup>不受限制。 > <sup>4</sup>進階電子文件是在美國及支援西歐 （荷蘭） 區域中。 （從加拿大和亞太地區的客戶資料匯出至美國境內。 歐洲、 中東和非洲地區的客戶資料匯出至西歐 [荷蘭]。）> <sup>5</sup>進階威脅防護是可在 Office 365 A5 中和 Office 365 A1 和 Office 365 A3 屬於獨立服務。 
+> <sup>1</sup>資料控管可讓使用者建立、 發佈及以手動方式將標籤套用至文件;使用磁碟機運送或透過網路; 匯入資料建立並套用保留/刪除原則工作負載、 使用者和群組。 套用至信箱的保留原則需要 Office 365 企業版 E3 或 E5。 <br/> 
+<sup>2</sup>進階的資料控管可讓您保留重要的資訊，並刪除不重要的資訊來分類保留或刪除原則或兩者為基礎的資訊。 它包含智慧型/自動化動作，例如建議政策;自動將標籤套用至資料;套用標籤根據敏感資料類型或查詢;並使用智慧匯入篩選器。 此外，它還會包含用於檢閱員工通訊安全性與合規性的用途，「 監督 」 功能。 <br/> 
+<sup>3</sup>不受限制。 <br/> 
+<sup>4</sup>進階電子文件是在美國及支援西歐 （荷蘭） 區域中。 （從加拿大和亞太地區的客戶資料匯出至美國境內。 歐洲、 中東和非洲地區的客戶資料匯出至西歐 [荷蘭]。） <br/> 
+<sup>5</sup>進階威脅防護是可在 Office 365 A5 中和 Office 365 A1 和 Office 365 A3 屬於獨立服務。 
   
 ## <a name="office-application-features"></a>Office 應用程式功能
 <a name="SCC"> </a>
@@ -265,7 +280,10 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如�
 |大量啟用 (KMS/MAK)  <br/> |否  <br/> |否  <br/> |否  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Windows Server AD RMS 是內部部署伺服器，必須是採購並管理，以便啟用支援的 IRM 功能。 > <sup>2</sup>商務基本 Skype 是供所有客戶使用。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Office 365 專業增強版 和 Office 365 Enterprise E3 包含完整的 Skype 應用程式，其包含額外的功能，例如：進階電話語音支援、封存和法規遵循功能。 必須為每個使用者指派 商務用 Skype Online 授權。 For more information on Lync Basic features, see [Clients for Skype for Business Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). > <sup>3</sup>部分學校便符合資格 Education Plus，其中包含 Office 365 專業增強版，並允許學生與教職員上最多五部 PC 或 Mac 電腦及其他行動裝置，包括 Windows 平板電腦上安裝最新版的 Office 和iPad。 當學校透過註冊教育版解決方案、Open Value Subscription 教育版解決方案或學校合約，為全機構的教職人員授權 Office 時，學校即符合 Office 365 教育增強版的資格。 請注意，Access 和 Publisher 僅在 PC 上可供使用。 Mac 版 OneNote 可分別從 Mac App Store 下載。 > <sup>4</sup> office 線上版本不包含在內。 如需詳細資訊，請參閱[Office Online 功能](office-365-education.md#office-online-features)
+> <sup>1</sup> Windows Server AD RMS 是內部部署伺服器，必須是採購並管理，以便啟用支援的 IRM 功能。 <br/> 
+<sup>2</sup>商務基本 Skype 是供所有客戶使用。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Office 365 專業增強版 和 Office 365 Enterprise E3 包含完整的 Skype 應用程式，其包含額外的功能，例如：進階電話語音支援、封存和法規遵循功能。 必須為每個使用者指派 商務用 Skype Online 授權。 如需 Lync Basic 功能的詳細資訊，請參閱 <<c0>桌面用戶端比較表。 <br/> 
+<sup>3</sup>部分學校便符合資格 Education Plus，其中包含 Office 365 專業增強版，並允許學生與教職員上最多五部 PC 或 Mac 電腦及其他行動裝置，包括 Windows 平板電腦上安裝最新版的 Office 和iPad。 當學校透過註冊教育版解決方案、Open Value Subscription 教育版解決方案或學校合約，為全機構的教職人員授權 Office 時，學校即符合 Office 365 教育增強版的資格。 請注意，Access 和 Publisher 僅在 PC 上可供使用。 Mac 版 OneNote 可分別從 Mac App Store 下載。 <br/> 
+<sup>4</sup> office 線上版本不包含在內。 如需詳細資訊，請參閱[Office Online 功能](office-365-education.md#office-online-features)
   
 ## <a name="office-online-features"></a>Office Online 功能
 <a name="OfcOnline"> </a>
@@ -273,11 +291,14 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如�
 下表提供的 Office Online 功能和具備豐富功能的 Microsoft Office 桌面應用程式的 Office 365 教育版方案中可用的比較的連結。 使用此比較表以在 Office Online 中的功能可用，然後按一下功能名稱，即可閱讀有關該功能如何運作的簡短描述。 您會發現組織中有些人可能需要使用 Excel 桌面應用程式的進階圖表功能，然而，有些人只需要透過 Office Online 來檢視和局部編輯 Word 文件與 PowerPoint 簡報。
   
 > [!NOTE]
->  Office 桌面套件涵蓋了 Office 的有限精選功能，提供進階功能讓您運用。 表未完整列出 Microsoft Office 的功能。 >  Microsoft Office 365 ProPlus 是最新版 Office 桌面套件推出的每月訂閱產品項目。 > Microsoft Office Online 伺服器內部部署客戶取得 Office Online 的編輯授權，如果已購買 Office 桌面套件授權 （例如： Office Professional Plus、 Office Standard 或 Office 365 ProPlus 授權）。 
+> - Office 桌面套件涵蓋了 Office 的有限精選功能，提供進階功能讓您運用。 <br/>
+> - 表未完整列出 Microsoft Office 的功能。 <br/> 
+> - Microsoft Office 365 ProPlus 是最新版 Office 桌面套件推出的每月訂閱產品項目。 <br/>
+> - Microsoft Office Online 伺服器內部部署客戶可取得 Office Online 編輯授權，如果已購買 Office 桌面套件授權 （例如： Office Professional Plus、 Office Standard 或 Office 365 ProPlus 授權）。 
   
 ||||
 |:-----|:-----|:-----|
-|**應用程式** <br/> |**Office Online** <br/> |**連結至詳細的功能比較** <br/> |
+|**Application** <br/> |**Office Online** <br/> |**連結至詳細的功能比較** <br/> |
 |Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -397,15 +418,28 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。 如�
 |Outlook 增益集和 Outlook MAPI  <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Windows Server AD RMS 是內部部署伺服器，必須是採購並管理，以便啟用支援的 IRM 功能。 > <sup>2</sup>傳輸規則所組成的彈性準則，可讓您定義條件和例外狀況和動作，才會根據準則。 可用的準則和動作各不相同 Exchange Online 和 Microsoft Exchange Server 2013。 如需可用準則和動作的清單，請參閱每一個產品對應的準則和動作主題。 > <sup>3</sup> Exchange Server 2013 使用僅限 Microsoft 反惡意程式碼引擎。 Exchange Online 則使用多個反惡意程式碼引擎，來掃描輸入、輸出和內部訊息中是否有惡意程式碼。 > <sup>4</sup> SharePoint Online 必須包含在 Office 365 訂閱計劃。 > <sup>5</sup>已連線的帳戶支援 POP 和 IMAP 帳戶，但對 Outlook.com (Hotmail) 停用。 > <sup>6</sup>不支援使用 cmdlet 來使用通訊清單及全域通訊清單。 > <sup>7</sup>某些協力廠商的 web 組件和增益集可能無法使用。 > <sup>8</sup>電子文件探索，您需要內部部署與雲端比較不同的查詢。 > <sup>9</sup>表格會指出是否在用戶端的運作方式與相關聯的計劃。 其並不代表這些計劃的採購中必須包含用戶端。 
+> <sup>1</sup> Windows Server AD RMS 是內部部署伺服器，必須是採購並管理，以便啟用支援的 IRM 功能。 <br/>
+<sup>2</sup>傳輸規則所組成的彈性準則，可讓您定義條件和例外狀況和動作，才會根據準則。 可用的準則和動作各不相同 Exchange Online 和 Microsoft Exchange Server 2013。 如需可用準則和動作的清單，請參閱每一個產品對應的準則和動作主題。 <br/> 
+<sup>3</sup> Exchange Server 2013 使用僅限 Microsoft 反惡意程式碼引擎。 Exchange Online 則使用多個反惡意程式碼引擎，來掃描輸入、輸出和內部訊息中是否有惡意程式碼。 <br/> 
+<sup>4</sup> SharePoint Online 必須包含在 Office 365 訂閱計劃。 <br/> 
+<sup>5</sup>已連線的帳戶支援 POP 和 IMAP 帳戶，但對 Outlook.com (Hotmail) 停用。 <br/> <sup>6</sup>不支援使用 cmdlet 來使用通訊清單及全域通訊清單。 <br/> 
+<sup>7</sup>某些協力廠商的 web 組件和增益集可能無法使用。 <br/> 
+<sup>8</sup>電子文件探索，您需要內部部署與雲端比較不同的查詢。 <br/> 
+<sup>9</sup>表格會指出是否在用戶端的運作方式與相關聯的計劃。 其並不代表這些計劃的採購中必須包含用戶端。 
   
 ### <a name="exchange-online-limits"></a>Exchange Online 限制
 
 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
   
 > [!NOTE]
->  如果您需要某項工作的協助，或是要針對某個問題進行疑難排解，您可能會發現下列文章很實用： > [電子郵件](https://support.office.com/en-us/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US)，提供建立和傳送電子郵件的說明。 > [商務用 Office 365 的電子郵件 - 系統管理說明](https://go.microsoft.com/fwlink/?linkid=529722)> [郵件大小限制](https://go.microsoft.com/fwlink/?linkid=312152)> [使用 Microsoft Office 365 支援及修復小幫手來修正 Outlook 與 Office 365 的問題](https://diagnostics.office.com/)> [Office 365 中的電子郵件未傳遞回報](https://go.microsoft.com/fwlink/?linkid=526653)> [Exchange Online 說明](https://go.microsoft.com/fwlink/?linkid=825607)
-  
+> 如果您需要某項工作的協助，或是要針對某個問題進行疑難排解，您可能會發現下列文章很實用：<br/> 
+> - 如需說明建立和傳送電子郵件的[電子郵件](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US)。 
+>- [商務用 Office 365 的電子郵件 - 系統管理說明](https://docs.microsoft.com/office365/admin/email/email?redirectSourcePath=%252farticle%252f5ff63bc1-308b-46de-a39b-cdc43ac117de&view=o365-worldwide)
+>- [郵件大小限制](https://docs.microsoft.com/exchange/message-size-limits-exchange-2013-help)
+>- [修正 Office 365 的 Outlook 和 Office 365 問題 Microsoft 支援及修復小幫手](https://diagnostics.office.com/)
+>- [Office 365 中的電子郵件未傳遞回報](https://docs.microsoft.com/exchange/message-size-limits-exchange-2013-help)
+>- [Exchange Online 說明](https://docs.microsoft.com/exchange/exchange-online)<br/>
+
 Microsoft Exchange Online 中的限制屬於下列其中一個類別：
   
 - [Address book limits](office-365-education.md#address-book-limits)
@@ -433,7 +467,11 @@ Microsoft Exchange Online 中的限制屬於下列其中一個類別：
 - [Exchange ActiveSync 限制](office-365-education.md#exchange-activesync-limits)
     
 > [!IMPORTANT]
->  適用於 Microsoft Office 365 組織的限制可能會因為組織在服務中註冊的時間長短而有所不同。如果在 Microsoft 資料中心內變更了某項限制，可能需要一些時間才能將變更套用至所有現有的客戶。 >  雖然您無法修改大部分的這些限制，不過您和使用者都應該注意這些限制。 >  這些限制同時適用於內部和外部收件者。 >  Exchange Online Protection (EOP) 預設會保護 Exchange Online 信箱。若要了解適用於 Exchange Online 中 EOP 功能的限制，請參閱 [Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。 >  如需有關 Office 365 群組限制的資訊，請參閱 [深入了解 Office 365 群組](https://go.microsoft.com/fwlink/?linkid=846714) 中的「如何管理我的群組？」。 
+>  - 適用於 Microsoft Office 365 組織的限制可能會因為組織在服務中註冊的時間長短而有所不同。 如果在 Microsoft 資料中心內變更了某項限制，可能需要一些時間才能將變更套用至所有現有的客戶。 
+>  - 雖然您無法修改大部分的這些限制，不過您和使用者都應該知悉這些限制。 
+> - 這些限制同時適用於內部和外部收件者。 
+> - 根據預設，Exchange Online Protection (EOP) 會保護 Exchange Online 信箱。 若要了解適用於 Exchange Online中 EOP 功能的限制，請參閱 [Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。 
+>  - 如需有關 Office 365 群組限制的詳細資訊，請參閱 「 如何管理我的群組？ 」 [深入瞭解 Office 365 群組](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)中的「如何管理我的群組？」。 
   
 #### <a name="address-book-limits"></a>通訊錄限制
 <a name="abl"> </a>
@@ -474,7 +512,13 @@ Microsoft Exchange Online 中的限制屬於下列其中一個類別：
 |群組信箱  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 每位使用者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 在 Office 365 中的無限制封存的概觀。 如需可用性的詳細資訊，請參閱 Office 365 藍圖。 > <sup>2</sup> 若要存取共用信箱，使用者必須擁有 Exchange Online 授權。 共用信箱不需要個別授權。 不過，如果您想要在共用信箱上啟用就地封存、就地保留或訴訟資料暫留，則需要 Exchange Online Plan 2 授權或 Exchange Online Plan 1 與 Exchange Online 封存授權。 如果您對共用信箱啟用就地封存與自動展開封存，當封存信箱達到 100 GB 的儲存容量時，會自動加入額外的儲存空間。 > <sup>3</sup> 資源信箱不需要授權。 > <sup>4</sup>站台信箱建立和管理 SharePoint Online 中。 如需詳細資訊，請參閱為在 Office 365 中使用網站信箱作準備。 > <sup>5</sup>您可以有 1000 個公用資料夾信箱，而且所有公用資料夾信箱的總大小上限為 50 TB。 > <sup>6</sup>就地封存僅可用來封存郵件之單一使用者或實體 （例如共用信箱） 的授權已套用。 禁止使用「就地封存」來儲存多個使用者或實體的郵件。 例如，IT 系統管理員不能建立共用信箱，再由使用者純粹為了封存的目的來複製它 (透過 [副本] 或 [密件副本] 欄位，或透過傳輸規則)。 請注意，多人使用的共用信箱不會實際儲存個別使用者的電子郵件。 多個使用者可以存取，且傳送電子郵件做為共用信箱。 因此，只有電子郵件會儲存在共用信箱是指來傳送或接收自，做為共用信箱。 > <sup>7</sup>如果您有 Exchange Online 中建立的保留原則，郵件將會自動移至使用者的封存信箱只有當使用者的主要信箱是大於 10 MB。 若信箱小於 10 MB，則保留原則不會不該信箱自動執行。 
+> <sup>1</sup> 每位使用者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 在 Office 365 中的無限制封存的概觀。 如需可用性的詳細資訊，請參閱 Office 365 藍圖。 <br/> 
+<sup>2</sup> 若要存取共用信箱，使用者必須擁有 Exchange Online 授權。 共用信箱不需要個別授權。 不過，如果您想要在共用信箱上啟用就地封存、就地保留或訴訟資料暫留，則需要 Exchange Online Plan 2 授權或 Exchange Online Plan 1 與 Exchange Online 封存授權。 如果您對共用信箱啟用就地封存與自動展開封存，當封存信箱達到 100 GB 的儲存容量時，會自動加入額外的儲存空間。 <br/> 
+<sup>3</sup> 資源信箱不需要授權。<br/> 
+<sup>4</sup>站台信箱建立和管理 SharePoint Online 中。 如需詳細資訊，請參閱為在 Office 365 中使用網站信箱作準備。<br/> 
+<sup>5</sup>您可以有 1000 個公用資料夾信箱，而且所有公用資料夾信箱的總大小上限為 50 TB。<br/> 
+<sup>6</sup>就地封存僅可用來封存郵件之單一使用者或實體 （例如共用信箱） 的授權已套用。 禁止使用「就地封存」來儲存多個使用者或實體的郵件。 例如，IT 系統管理員不能建立共用信箱，再由使用者純粹為了封存的目的來複製它 (透過 [副本] 或 [密件副本] 欄位，或透過傳輸規則)。 請注意，多人使用的共用信箱不會實際儲存個別使用者的電子郵件。 多個使用者可以存取，且傳送電子郵件做為共用信箱。 因此，只有電子郵件會儲存在共用信箱是指來傳送或接收自，做為共用信箱。<br/> 
+<sup>7</sup>如果您有 Exchange Online 中建立的保留原則，郵件將會自動移至使用者的封存信箱只有當使用者的主要信箱是大於 10 MB。 若信箱小於 10 MB，則保留原則不會不該信箱自動執行。 
   
 #### <a name="capacity-alerts"></a>容量警示
 <a name="CapacityAlerts"> </a>
@@ -548,7 +592,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 - **郵件大小限制** 為避免大型郵件封鎖其他郵件的遞送，以及影響所有使用者的服務效能，需要設定郵件大小限制。這些限制包含附件，且適用於整個組織內的所有郵件 (內送、外寄和內部)。大於此上限的郵件將不會傳遞，而寄件者將收到未傳遞回報 (NDR)。雖然郵件大小上限無法上調、下調或依各使用者為基準設定，管理員仍可建立傳輸規則來限制任何個別附件的最高大小上限。若要深入了解，請參閱 [Office 365 現在可支援較大的電子郵件訊息](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。
     
-    > [!NOTE]
+   > [!NOTE]
     > 某些電子郵件用戶端可能會有較低的郵件大小限制，或可能會限制為小於 Exchange Online 的郵件大小限制的值個別檔案附件的大小。 
   
 - **主旨長度限制** 電子郵件主旨行中允許的文字字元數目上限。 
@@ -557,7 +601,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
     
 - **檔案附件大小限制** 單一附件的檔案大小上限。 
     
-    > [!NOTE]
+    > [!NOTE] 
     > 這是單一附件的檔案大小上限。個別用戶端方案 (包括 Outlook Web App) 可能會規定附件大小需低於此上限。Exchange ActiveSync 未針對個別附件實作附件大小限制。Exchange ActiveSync 郵件的所有附件大小總和必須小於郵件大小限制。 
   
 - **Multipart 郵件限制** MIME Multipart 郵件中允許的郵件內文部分數目上限。此限制也會控制郵件允許的檔案附件數目上限。 
@@ -575,14 +619,18 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |加密郵件的大小限制 （適用於使用舊版 Office 365 郵件加密的訂閱者）  <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |
 |主旨長度限制  <br/> |255 個字元  <br/> |255 個字元  <br/> |255 個字元  <br/> |
 |檔案附件限制  <br/> |250 個附件  <br/> |250 個附件  <br/> |250 個附件  <br/> |
-|檔案附件大小限制 - Outlook  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
+|檔案附件大小限制 - Outlook  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |檔案附件大小限制 - OWA  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
-|檔案附件大小限制 - Outlook for Mac  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
+|檔案附件大小限制 - Outlook for Mac  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |Multipart 郵件限制  <br/> |250 個部分  <br/> |250 個部分  <br/> |250 個部分  <br/> |
 |內嵌郵件深度限制  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |30 封內嵌郵件  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 系統管理員可以指定 1 MB 到 150 MB 之間的自訂限制。 不過，您可以傳送或接收的郵件大小也取決於您的電子郵件用戶端或解決方案支援的項目。 如需自訂您的組織允許的最大郵件大小的詳細資訊，請參閱 [Office 365 現在支援較大的電子郵件訊息](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。 > <sup>2</sup> 您可以在 Office 365 使用者之間 (郵件永遠不會離開 Office 365 資料中心) 傳送和接收最多 150 MB 的郵件。 Office 365 資料中心外路由傳送的郵件都會受限於額外 33% 轉譯編碼增加，如此一來，郵件大小上限是 112 MB。 > <sup>3</sup> OWA 會計算您的訊息可能受限於編碼增加 33% 的可能性，並且會將您可以傳送的郵件大小限制為小於已配置的設定 25%。 例如，如果您自訂的設定是 100 MB 的郵件大小上限，您可以傳送的郵件不超過 75 MB。 > <sup>4</sup> Exchange Online 會計算要移動至 Exchange Online 的郵件大小。 Exchange Server 2013 之前的 Exchange 版本可能會報告較小的項目大小。 此限制適用於使用任何支援的 Exchange 信箱複寫服務來移動基本遷移。 其他移轉方法 （轉換、 分段、 IMAP、 PST） 和其他協力廠商工具都受限於一般訊息大小限制。 > <sup>5</sup> 如需 OME 與新功能的相關資訊，請參閱 [設定以 Azure 資訊保護為基礎所建置的全新 Office 365 郵件加密功能](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)。 
+> <sup>1</sup> Office 365 系統管理員可以指定 1 MB 到 150 MB 之間的自訂限制。 不過，您可以傳送或接收的郵件大小也取決於您的電子郵件用戶端或解決方案支援的項目。 如需自訂您的組織允許的最大郵件大小的詳細資訊，請參閱 [Office 365 現在支援較大的電子郵件訊息](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。<br/> 
+<sup>2</sup> 您可以在 Office 365 使用者之間 (郵件永遠不會離開 Office 365 資料中心) 傳送和接收最多 150 MB 的郵件。 Office 365 資料中心外路由傳送的郵件都會受限於額外 33% 轉譯編碼增加，如此一來，郵件大小上限是 112 MB。 <br/> 
+<sup>3</sup> OWA 會計算您的訊息可能受限於編碼增加 33% 的可能性，並且會將您可以傳送的郵件大小限制為小於已配置的設定 25%。 例如，如果您自訂的設定是 100 MB 的郵件大小上限，您可以傳送的郵件不超過 75 MB。 <br/> 
+<sup>4</sup> Exchange Online 會計算要移動至 Exchange Online 的郵件大小。 Exchange Server 2013 之前的 Exchange 版本可能會報告較小的項目大小。 此限制適用於使用任何支援的 Exchange 信箱複寫服務來移動基本遷移。 其他移轉方法 （轉換、 分段、 IMAP、 PST） 和其他協力廠商工具都受限於一般訊息大小限制。 <br/> 
+<sup>5</sup> 如需 OME 與新功能的相關資訊，請參閱 [設定以 Azure 資訊保護為基礎所建置的全新 Office 365 郵件加密功能](https://support.office.com/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)。 
   
 #### <a name="receiving-and-sending-limits"></a>接收及傳送限制
 <a name="RecipientLimits"> </a>
@@ -628,7 +676,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 #### <a name="reporting-and-message-trace-limits"></a>報告和郵件追蹤限制
 <a name="bkmk_Reporting_Message_Trace_Limits"> </a>
 
-如需報告和郵件追蹤限制，請參閱 [Exchange Online Protection 的報告和郵件追蹤](http://go.microsoft.com/fwlink/p/?LinkId=394248)中的「報告和郵件追蹤資料可用性和延遲」一節。
+如需報告和郵件追蹤限制，請參閱 [Exchange Online Protection 的報告和郵件追蹤](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection)中的「報告和郵件追蹤資料可用性和延遲」一節。
   
 #### <a name="retention-limits"></a>保留限制
 <a name="RetentionLimits"> </a>
@@ -672,8 +720,8 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |使用者可以建立的群組數目上限  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 如果您是使用 Azure Active Directory DirSync，則您可以從內部部署 Active Directory 同步到 Azure Active Directory 的通訊群組成員最大數量為 15,000。如果您使用的是 Azure AD Connect，則該數量為 50,000。 > <sup>2</sup> 這項限制也適用於系統管理員。 
-  
+> <sup>1</sup> 如果您是使用 Azure Active Directory DirSync，則您可以從內部部署 Active Directory 同步到 Azure Active Directory 的通訊群組成員最大數量為 15,000。 如果您使用的是 Azure AD Connect，則該數量為 50,000。 <br/> 
+<sup>2</sup> 這項限制也適用於系統管理員。 
 #### <a name="journal-transport-and-inbox-rule-limits"></a>日誌、傳輸和收件匣規則限制
 <a name="TransportRuleLimits"> </a>
 
@@ -753,7 +801,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 OneDrive (前身為 SkyDrive Pro) 是在雲端中的個人線上儲存空間。 您可以使用它來儲存多項裝置上的工作檔案，輕鬆並安全。 與同事共用您的檔案，如有需要並編輯 Office 文件即時與 Office Online 在一起。 使用 OneDrive for Business 同步處理應用程式的本機電腦的檔案同步處理。
   
-商務用 OneDrive 隨附於 SharePoint Online，但也可以作為獨立計劃另外購買。 商務用 OneDrive 獨立選項包括 Office Online。 若要深入了解，請參閱[什麼是商務用 OneDrive？](https://go.microsoft.com/fwlink/p/?LinkID=271073)
+商務用 OneDrive 隨附於 SharePoint Online，但也可以作為獨立計劃另外購買。 商務用 OneDrive 獨立選項包括 Office Online。 若要深入了解，請參閱[什麼是商務用 OneDrive？](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US)
   
 ### <a name="system-requirements"></a>系統需求
 
@@ -775,7 +823,7 @@ OneDrive for Business 方案 1 提供 1 TB 的每位使用者的儲存空間。
   
 如需不可新增至商務用 OneDrive 的檔案類型的資訊，請參閱 <<c0>的無法新增至清單或文件庫的檔案類型。
   
-商務用 OneDrive 隨附於 SharePoint Online。 若要了解其他限制在 SharePoint Online 中，例如網站集合配額、 檔案上傳限制和儲存限制，請參閱[SharePoint Online 的軟體界限及限制](https://go.microsoft.com/fwlink/p/?LinkId=271273)。 
+商務用 OneDrive 隨附於 SharePoint Online。 若要了解其他限制在 SharePoint Online 中，例如網站集合配額、 檔案上傳限制和儲存限制，請參閱[SharePoint Online 的軟體界限及限制](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectSourcePath=%252fArticle%252f8f34ff47-b749-408b-abc0-b605e1f6d498)。 
   
 ### <a name="subscription-plans"></a>訂閱方案
 
@@ -791,9 +839,6 @@ OneDrive for Business 方案 1 提供 1 TB 的每位使用者的儲存空間。
 |||||
 |:-----|:-----|:-----|:-----|
 |**開發人員功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Access Services](../sharepoint-online-service-description/developer.md#access-services) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[存取服務](../sharepoint-online-service-description/developer.md#access-services) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[存取服務](../sharepoint-online-service-description/developer.md#access-services) <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[應用程式目錄 (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[應用程式部署：雲端託管的應用程式](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[應用程式部署：SharePoint 託管的應用程式](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -820,7 +865,6 @@ OneDrive for Business 方案 1 提供 1 TB 的每位使用者的儲存空間。
 |List and Library APIs <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[遠端事件接收器](../sharepoint-online-service-description/developer.md#remote-event-receiver) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[REST Api](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[沙箱化方案](../sharepoint-online-service-description/developer.md#sandboxed-solutions) <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |
 |[SharePoint 設計管理員](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |SharePoint Store <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -1030,7 +1074,17 @@ OneDrive for Business 方案 1 提供 1 TB 的每位使用者的儲存空間。
 |[Azure 佈建的應用程式：Azure 輕量型網路角色 (LWR) 中的自訂程式碼](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |是  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 若要使用資料夾同步處理，您必須擁有 Office 2013 或更新版本 (標準版或專業版)，或是包含 Office 應用程式的 Office 365 訂閱。 Office 365 商務基本版、 Office 365 企業版 E1、 Office 365 教育版方案並未包含 Office 桌面應用程式的訂閱。 不過，如果您已安裝 Office 2013 或更新版本，並訂閱上述其中一個方案，就可以使用資料夾同步處理。 > <sup>2</sup>因為 Kiosk 使用者不能是系統管理員、 有 Kiosk 使用者的租用戶必須至少一個 Enterprise 使用者，以便存取系統管理中心。 > <sup>3</sup> SharePoint Online 客戶必須下載並安裝免費的排名模型調整應用程式才能建立及自訂排名模型。 > <sup>4</sup>當您使用 eDiscovery 功能時，允許此功能的計劃授權要求會套用至所有屬於 eDiscovery 動作 （搜尋、 保留、 匯出） 的使用者。 > <sup>5</sup>某些提供者可能被封鎖您的國家/地區。 > <sup>6</sup>共用文件、 文件庫或網站透過電子郵件與組織外部人員。 系統管理員還是能夠將它開啟，但會得到警告訊息，指出，它無法進行檔案共用存取您的國家/地區外。 Users who attempt to share with someone outside of the organization will receive the same warning message. > <sup>7</sup>您可以在任何行動瀏覽器中檢視文件。 You need to install the Office Mobile app to edit documents. Office Mobile 目前可供 Windows Phone 和平板電腦、Android 手機和平板電腦、iPhone 和 iPad 使用。 > <sup>8</sup>是只適用於簡體中文和英文版說明。 > <sup>9</sup>無法新增部落格的註解。 > <sup>10</sup>組織社群網站可用，但公用社群提供的說明無法使用。 > <sup>11</sup>不支援 access 2010。 > <sup>12</sup>沙箱化解決方案無法包含使用者程式碼。 它們可能只包含定義 (.xml) 檔案，以及伺服器在啟動方案時所處理的資源。 > <sup>13</sup>包含使用者程式碼 （沙箱） 的 InfoPath 表單可以只供 InfoPath 豐富型用戶端。 > <sup>14</sup>已驗證的 SharePoint Online 使用者可以存取使用多面向導覽的私用網站集合。 
+> <sup>1</sup> 若要使用資料夾同步處理，您必須擁有 Office 2013 或更新版本 (標準版或專業版)，或是包含 Office 應用程式的 Office 365 訂閱。 Office 365 商務基本版、 Office 365 企業版 E1、 Office 365 教育版方案並未包含 Office 桌面應用程式的訂閱。 不過，如果您已安裝 Office 2013 或更新版本，並訂閱上述其中一個方案，就可以使用資料夾同步處理。 <br/> 
+<sup>2</sup>因為 Kiosk 使用者不能是系統管理員、 有 Kiosk 使用者的租用戶必須至少一個 Enterprise 使用者，以便存取系統管理中心。 <br/> 
+<sup>3</sup> SharePoint Online 客戶必須下載並安裝免費的排名模型調整應用程式才能建立及自訂排名模型。 <br/> 
+<sup>4</sup>當您使用 eDiscovery 功能時，允許此功能的計劃授權要求會套用至所有屬於 eDiscovery 動作 （搜尋、 保留、 匯出） 的使用者。 <br/> 
+<sup>5</sup>某些提供者可能被封鎖您的國家/地區。 <br/> 
+<sup>6</sup>共用文件、 文件庫或網站透過電子郵件與組織外部人員。 系統管理員還是能夠將它開啟，但會得到警告訊息，指出，它無法進行檔案共用存取您的國家/地區外。 Users who attempt to share with someone outside of the organization will receive the same warning message. <br/> 
+<sup>7</sup>您可以在任何行動瀏覽器中檢視文件。 You need to install the Office Mobile app to edit documents. Office Mobile 目前可供 Windows Phone 和平板電腦、Android 手機和平板電腦、iPhone 和 iPad 使用。 <br/> <sup>8</sup>是只適用於簡體中文和英文版說明。 <br/> 
+<sup>9</sup>無法新增部落格的註解。<br/> 
+<sup>10</sup>組織社群網站可用，但公用社群提供的說明無法使用。 <br/> <sup>11</sup>不支援 access 2010。 <br/> 
+<sup>12</sup>沙箱化解決方案無法包含使用者程式碼。 它們可能只包含定義 (.xml) 檔案，以及伺服器在啟動方案時所處理的資源。 <br/> <sup>13</sup>包含使用者程式碼 （沙箱） 的 InfoPath 表單可以只供 InfoPath 豐富型用戶端。 <br/> 
+<sup>14</sup>已驗證的 SharePoint Online 使用者可以存取使用多面向導覽的私用網站集合。 
   
 ### <a name="sharepoint-online-limits"></a>SharePoint Online 限制
 
@@ -1047,7 +1101,11 @@ OneDrive for Business 方案 1 提供 1 TB 的每位使用者的儲存空間。
 |使用者數目  <br/> |1- 500,000<sup>6</sup> <br/> |1- 500,000<sup>6</sup> <br/> |1- 500,000<sup>6</sup> <br/> |
    
 > [!NOTE]
-> > <sup>1</sup> 您可以無限制地購買額外的 SharePoint Online 儲存體。請參閱＜ [變更您訂閱的儲存空間](https://support.office.com/en-us/article/Change-storage-space-for-your-subscription-96EA3533-DE64-4B01-839A-C560875A662C?ui=en-US&amp;rs=en-US&amp;ad=US)＞。 > <sup>2</sup> 我們建議您監控並定期清空「資源回收筒」。其使用的儲存空間也是組織中所有檔案儲存上限的一部份。 > <sup>3</sup> 當您有 Office 365 訂閱和 SharePoint Online 獨立方案時，儲存體數量會增加。 > <sup>4</sup> SharePoint Online 系統管理員可以設定網站集合與網站的儲存體使用限制。 > <sup>5</sup> 不包括為每個授權使用者建立的商務用 OneDrive 網站集合。 > <sup>6</sup> 如果您有 500,000 位以上的使用者，請連絡 Microsoft 代表。 
+> <sup>1</sup> 您可以無限制地購買額外的 SharePoint Online 儲存體。 請參閱＜ [變更您訂閱的儲存空間](https://support.office.com/article/Change-storage-space-for-your-subscription-96EA3533-DE64-4B01-839A-C560875A662C?ui=en-US&amp;rs=en-US&amp;ad=US)＞。 <br/> <sup>2</sup> 我們建議您監控並定期清空「資源回收筒」。 其使用的儲存空間也是組織中所有檔案儲存上限的一部份。<br/> 
+<sup>3</sup> 當您有 Office 365 訂閱和 SharePoint Online 獨立方案時，儲存體數量會增加。<br/> 
+<sup>4</sup> SharePoint Online 系統管理員可以設定網站集合與網站的儲存體使用限制。<br/> 
+<sup>5</sup> 不包括為每個授權使用者建立的商務用 OneDrive 網站集合。<br/> 
+<sup>6</sup> 如果您有 500,000 位以上的使用者，請連絡 Microsoft 代表。 
   
 ## <a name="skype-for-business-online-features"></a>商務用 Skype Online 功能
 <a name="OfcOnline"> </a>
@@ -1055,7 +1113,7 @@ OneDrive for Business 方案 1 提供 1 TB 的每位使用者的儲存空間。
 下表列出用 Skype 線上商務功能可供每個 Office 365 教育版方案。
   
 > [!NOTE]
-> 此表格指出不同 Office 365 教育版選項的用戶端和服務可用性。 如果您想要用於企業桌面用戶端、 網頁用戶端和行動用戶端比較各種用 Skype 之間的個別功能，請參閱[Skype for Business Online 用戶端比較表](https://go.microsoft.com/fwlink/?LinkId=278876)和[Mobile Client comparison tables 〉](https://go.microsoft.com/fwlink/?LinkID=278874)。 
+> 此表格指出不同 Office 365 教育版選項的用戶端和服務可用性。 如果您想要用於企業桌面用戶端、 網頁用戶端和行動用戶端比較各種用 Skype 之間的個別功能，請參閱[Skype for Business Online 用戶端比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)和[Mobile Client comparison tables 〉](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables)。 
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -1158,7 +1216,7 @@ OneDrive for Business 方案 1 提供 1 TB 的每位使用者的儲存空間。
 |語音信箱  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |[Office 365 通話方案](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (國內通話方案，含有必要的附加元件購買)  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |
 |[Office 365 通話方案](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (國際通話方案，含有必要的附加元件購買)  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |
-|[消耗信用額度](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[消耗信用額度](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |否  <br/> |否  <br/> |是  <br/> |
 |商務用 Skype 語音  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[安全性和封存](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |IM 與媒體加密  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -1187,7 +1245,8 @@ OneDrive for Business 方案 1 提供 1 TB 的每位使用者的儲存空間。
 |Skype 商務 Online 報告在 Microsoft 365 系統管理中心  <br/> |是  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. 所有客戶皆可使用 Lync 2013 Basic。 Lync Basic 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Office 365 專業增強版和 Office 365 A3 包含商務 (Lync) 應用程式，其包含額外的功能，例如進階電話語音支援、 封存和規範功能完整的 Skype。 A Skype for Business Online license must be assigned for each user. 如需 Lync Basic 功能的詳細資訊，請參閱[Clients for Skype for Business Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)> <sup>2</sup>您必須將 Exchange Online (方案 2) 計劃指派給您想要有語音信箱的使用者。 An Exchange Online (Plan 1) plan can't be used for voice mail. 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. 所有客戶皆可使用 Lync 2013 Basic。 Lync Basic 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Office 365 專業增強版和 Office 365 A3 包含商務 (Lync) 應用程式，其包含額外的功能，例如進階電話語音支援、 封存和規範功能完整的 Skype。 A Skype for Business Online license must be assigned for each user. 如需 Lync Basic 功能的詳細資訊，請參閱[桌面用戶端基元表格](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
+<sup>2</sup>您必須將 Exchange Online (方案 2) 計劃指派給您想要有語音信箱的使用者。 An Exchange Online (Plan 1) plan can't be used for voice mail. 
   
 ### <a name="skype-for-business-online-limits"></a>Skype 商務 Online 限制
 
@@ -1206,7 +1265,7 @@ Skype 商務 Online 中的限制可分為下列類別：
   
 #### <a name="peer-to-peer-limits"></a>對等限制
 
-- **檔案傳輸限制**商務用 Skype Online IM 交談中可傳輸的檔案大小上限。若要了解哪些檔案類型不能進行檔案傳輸，請參閱有關[在商務用 Skype Online 中傳送和接收檔案或附件](https://go.microsoft.com/fwlink/?LinkId=398280)的 Microsoft 支援文章。
+- **檔案傳輸限制**商務用 Skype Online IM 交談中可傳輸的檔案大小上限。若要了解哪些檔案類型不能進行檔案傳輸，請參閱有關[在商務用 Skype Online 中傳送和接收檔案或附件](https://support.microsoft.com/help/2799505/you-can-t-send-or-receive-files-or-attachments-in-skype-for-business-o)的 Microsoft 支援文章。
     
 - **開啟的分頁交談限制** 商務用 Skype 使用者可同時開啟的交談索引標籤數目上限。 
     
@@ -1265,6 +1324,6 @@ Skype 商務 Online 中的限制可分為下列類別：
    
 #### <a name="minute-limits"></a>分鐘限制
 
-Skype 商務 Online 國內和國際通話方案的分鐘限制的相關資訊，請參閱[商務用 Skype 商務 Online PSTN 服務使用字詞](https://support.office.com/en-us/article/Skype-for-Business-Online-PSTN-services-use-terms-dc6e95cd-51e8-49ca-bcd3-78dc9dae486a?ui=en-US&amp;rs=en-US&amp;ad=US)。
+Skype 商務 Online 國內和國際通話方案的分鐘限制的相關資訊，請參閱[商務用 Skype 商務 Online PSTN 服務使用字詞](https://docs.microsoft.com/microsoftteams/complimentary-dial-out-period#skype-for-business-pstn-services)。
   
 

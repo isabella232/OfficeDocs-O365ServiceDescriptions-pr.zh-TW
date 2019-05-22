@@ -3,19 +3,19 @@ title: Microsoft 365 教育版
 ms.author: sharik
 author: skjerland
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 是提供各種可滿足您組織需求的最佳方案。 如果您正在尋找 Microsoft 365 和 Office 365 教育版方案之間的差異，則本文將告訴您在每個包含哪些功能。
-ms.openlocfilehash: 25338e9572f765ffc09127d4deb7e3ff0cf56a76
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 56ee77efbde70e5dd526083835525404fc5698bb
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247249"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343602"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -38,7 +38,7 @@ Microsoft 365 提供的完整的系統，包括 Office 365、 Windows 10 和 Ent
 |商務用 OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Teams  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |商務用 Skype Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft Project Online  <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |
+|Project Online  <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |沒有<sup>5</sup> <br/> |
 |Yammer Academic  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**教室工具** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |在 [Microsoft Teams 教室體驗  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -94,7 +94,7 @@ Microsoft 365 提供的完整的系統，包括 Office 365、 Windows 10 和 Ent
 |Skype 商務版<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
 |Windows Server CAL  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |System Center Configuration Manager  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|System Center 端點保護  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|System Center Endpoint Protection  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
 > <sup>1</sup>包含 Exchange Online Plan 1 加上附加功能。 <br/>

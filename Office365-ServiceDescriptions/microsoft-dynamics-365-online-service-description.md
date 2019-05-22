@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - microsoft-dynamics-crm-online-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: 年 12 月 2016 更新 Dynamics 365 (線上和內部部署)，Dynamics CRM 功能現在是包含 Dynamics 365，是套裝的智慧型商務應用程式的一部分。 Dynamic 365 透過新的應用程式，協助您管理特定商務功能，藉此統整客戶關係管理 (CRM) 和企業資源規劃 (ERP) 功能。
-ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 953ed920abbeec655fbe04ef68f48a7ec386e182
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246519"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342962"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365 (Online) 服務說明
 
@@ -88,7 +88,7 @@ Dynamics 365 有兩種版本： 企業版和商務版。 這些兩種版本，�
 |**設定系統報告、 系統圖表、 系統儀表板** <br/> |無  <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |
 |**時會導致，機會、 目標、 合約、 報價、 訂單、 發票、 競爭者** <br/> |唯讀  <br/> |Full  <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |
 |**銷售 campaigns、 快速行銷活動、 行銷清單、 價目表、 產品清單** <br/> |唯讀  <br/> |Full  <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |
-|**整合的服務台** <br/> |唯讀  <br/> |Full  <br/> |Full  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |
+|**Unified Service Desk** <br/> |唯讀  <br/> |Full  <br/> |Full  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |
 |**完整的專案管理、 服務、 (不 bookable) 的資源、 工作時數、 設施、 設備、 文章** <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |
 |**工單、 排程及排程面板、 與服務合約、 欄位服務發票購買訂單 」，客戶資產，發送清查、 修復並傳回** <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |唯讀  <br/> |Full  <br/> |
 |**專案、 project 費用和估計值，資源可用性] 檢視和排程管理、 專案價格清單/合約/發票、 核准專案交易，Microsoft Project Online 進階版** <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |唯讀  <br/> |Full  <br/> |Full  <br/> |

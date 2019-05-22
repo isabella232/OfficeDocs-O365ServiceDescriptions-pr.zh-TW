@@ -3,7 +3,7 @@ title: 開發人員
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,36 +15,31 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
 description: SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列功能可支援開發人員建立應用程式和解決方案來延伸 SharePoint 功能。
-ms.openlocfilehash: 055f669be2703a562aae56f6a7bcda6f708c4de8
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: c1b9bd6e86b14d8328edabc0ebf1d81fb592fb21
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246719"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342512"
 ---
 # <a name="developer"></a>開發人員
 
 SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列功能可支援開發人員建立應用程式和解決方案來延伸 SharePoint 功能。
   
-## <a name="access-services"></a>存取服務
-<a name="bkmk_AccessServices"> </a>
-
-建立 Web 資料庫並發佈到 SharePoint 網站。藉由使用 SharePoint 權限來決定誰可以看到什麼內容，SharePoint 訪客可以在網頁瀏覽器中使用您的資料庫應用程式。而且您還可以使用範本，讓您立即開始進行共同作業。深入了解如何[建立 Access 資料庫並發佈到 SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=393754)。
-  
 ## <a name="app-catalog-sharepoint"></a>App Catalog (SharePoint)
 <a name="bkmk_AppCatalogSharePoint"> </a>
 
-將您的應用程式發佈到 SharePoint 部署上託管的內部公司目錄，提供給可以存取該 SharePoint 部署的使用者使用。進一步了解如何[發佈 Office 和 SharePoint 相關應用程式](https://go.microsoft.com/fwlink/?LinkId=271276)。
+將您的應用程式發佈到 SharePoint 部署上託管的內部公司目錄，提供給可以存取該 SharePoint 部署的使用者使用。進一步了解如何[發佈 Office 和 SharePoint 相關應用程式](https://docs.microsoft.com/office/dev/store/submit-to-the-office-store)。
   
 ## <a name="app-deployment-cloud-hosted-apps"></a>App Deployment: Cloud-Hosted Apps
 <a name="bkmk_AppDeploymentCloudHostedApps"> </a>
 
-SharePoint 的雲端託管應用程式包含至少一個遠端元件，而且也可包含 SharePoint 託管的元件。進一步了解 [SharePoint 相關應用程式的託管選項](https://go.microsoft.com/fwlink/?LinkId=271277)。 
+SharePoint 的雲端託管應用程式包含至少一個遠端元件，而且也可包含 SharePoint 託管的元件。進一步了解 [SharePoint 相關應用程式的託管選項](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/choose-patterns-for-developing-and-hosting-your-sharepoint-add-in)。 
   
 ## <a name="app-deployment-sharepoint-hosted-apps"></a>App Deployment: SharePoint-Hosted Apps
 <a name="bkmk_AppDeploymentSharePointHostedApps"> </a>
 
-SharePoint 託管的應用程式可讓您重複使用一般 SharePoint 成品，例如清單和網頁組件。當您採取這種方法時，只能使用 JavaScript，而且不能使用任何伺服器端程式碼。進一步了解 [SharePoint 相關應用程式的託管選項](https://go.microsoft.com/fwlink/?LinkId=271277)。
+SharePoint 託管的應用程式可讓您重複使用一般 SharePoint 成品，例如清單和網頁組件。當您採取這種方法時，只能使用 JavaScript，而且不能使用任何伺服器端程式碼。進一步了解 [SharePoint 相關應用程式的託管選項](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/choose-patterns-for-developing-and-hosting-your-sharepoint-add-in)。
   
 ## <a name="app-management-services"></a>App Management Services
 <a name="bkmk_AppManagementServices"> </a>
@@ -54,7 +49,7 @@ SharePoint 託管的應用程式可讓您重複使用一般 SharePoint 成品，
 ## <a name="bcs-app-scoped-external-content-types-ects"></a>BCS: App Scoped External Content Types (ECTs)
 <a name="bkmk_AppScopedExternalContentTypes"> </a>
 
-搭配 SharePoint 中新的應用程式模型，Business Connectivity Services (BCS) 現在可以範圍在應用程式層級而不是在伺服器陣列層級的外部內容類型。 這可讓使用者使用其應用程式內的外部資料讓應用程式開發人員的絕佳的彈性。 進一步了解[應用程式範圍外部內容類型](https://go.microsoft.com/fwlink/?LinkId=271279)。
+搭配 SharePoint 中新的應用程式模型，Business Connectivity Services (BCS) 現在可以範圍在應用程式層級而不是在伺服器陣列層級的外部內容類型。 這可讓使用者使用其應用程式內的外部資料讓應用程式開發人員的絕佳的彈性。 進一步了解[應用程式範圍外部內容類型](https://docs.microsoft.com/sharepoint/dev/general-development/add-in-scoped-external-content-types-in-sharepoint)。
   
 ## <a name="bcs-business-data-web-parts"></a>BCS： 商務資料網頁組件
 <a name="bkmk_BCSBusinessDataWebparts"> </a>
@@ -64,7 +59,7 @@ SharePoint 託管的應用程式可讓您重複使用一般 SharePoint 成品，
 ## <a name="bcs-external-list"></a>BCS: External List
 <a name="bkmk_BCSExternalList"> </a>
 
-外部清單是特殊類型的 SharePoint 清單，可顯示來自外部資料來源的資料。它是以描述資料來源的外部內容類型為基礎，可讓使用者在熟悉的 SharePoint 介面中處理資料。進一步了解[外部內容類型](https://go.microsoft.com/fwlink/p/?LinkId=290806)。 
+外部清單是特殊類型的 SharePoint 清單，可顯示來自外部資料來源的資料。它是以描述資料來源的外部內容類型為基礎，可讓使用者在熟悉的 SharePoint 介面中處理資料。進一步了解[外部內容類型](https://docs.microsoft.com/SharePoint/administration/deploy-an-on-premises-solution)。 
   
 ## <a name="bcs-odata-connector"></a>BCS: OData connector
 <a name="bkmk_OdataConnector"> </a>
@@ -74,12 +69,12 @@ OData 連接器是 SharePoint 的新功能。它可讓 Business Connectivity Ser
 ## <a name="bcs-rich-client-integration"></a>BCS: Rich Client Integration
 <a name="bkmk_BCSRichClientIntegration"> </a>
 
-SharePoint Online 客戶無法使用此功能。Business Connectivity Services (BCS) 使用免費的用戶端和伺服器端架構，可讓 Office 用戶端 (如 Outlook 和 Excel) 直接使用透過外部內容類型公開到 SharePoint 的外部資料。進一步了解 [Business Connectivity Services 用戶端執行階段](https://go.microsoft.com/fwlink/?LinkId=271280)。
+SharePoint Online 客戶無法使用此功能。Business Connectivity Services (BCS) 使用免費的用戶端和伺服器端架構，可讓 Office 用戶端 (如 Outlook 和 Excel) 直接使用透過外部內容類型公開到 SharePoint 的外部資料。進一步了解 [Business Connectivity Services 用戶端執行階段](https://docs.microsoft.com/previous-versions/office/developer/sharepoint-2010/ee559310(v=office.14))。
   
 ## <a name="client-object-model-om"></a>Client Object Model (OM)
 <a name="bkmk_ClientObjectModel"> </a>
 
-SharePoint 2013 針對 Managed 程式碼提供三種用戶端物件模型：.NET、Silverlight 和行動。此外，SharePoint 還包含 JavaScript 用戶端物件模型。進一步了解[如何在 SharePoint 2013 中選擇正確的 API 集](https://go.microsoft.com/fwlink/?LinkId=271282)。
+SharePoint 2013 針對 Managed 程式碼提供三種用戶端物件模型：.NET、Silverlight 和行動。此外，SharePoint 還包含 JavaScript 用戶端物件模型。進一步了解[如何在 SharePoint 2013 中選擇正確的 API 集](https://docs.microsoft.com/sharepoint/dev/general-development/choose-the-right-api-set-in-sharepoint)。
   
 ## <a name="custom-site-provisioning-page"></a>自訂網站佈建頁面
 <a name="bkmk_CustomSiteProvisioning"> </a>
@@ -89,47 +84,42 @@ SharePoint 2013 針對 Managed 程式碼提供三種用戶端物件模型：.NET
 ## <a name="developer-site"></a>開發人員網站
 <a name="bkmk_DeveloperSite"> </a>
 
-使用 Office 365 開發人員網站作為開發和測試環境，讓您縮短設定時間並開始建立、測試和部署 SharePoint 相關應用程式。進一步了解如何[註冊加入 Office 365 開發人員網站](https://go.microsoft.com/fwlink/?LinkId=271286)。
+使用 Office 365 開發人員網站作為開發和測試環境，讓您縮短設定時間並開始建立、測試和部署 SharePoint 相關應用程式。進一步了解如何[註冊加入 Office 365 開發人員網站](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/create-a-developer-site-on-an-existing-office-365-subscription)。
   
 ## <a name="forms-based-applications"></a>Forms Based Applications
 <a name="bkmk_FormsBasedApplications"> </a>
 
-表單檢視基本上是包含控制項的檢視。表單型應用程式可讓使用者在應用程式內建立和使用一或多個表單。進一步了解[表單型應用程式](https://go.microsoft.com/fwlink/?LinkId=271572)。
+表單檢視基本上是包含控制項的檢視。表單型應用程式可讓使用者在應用程式內建立和使用一或多個表單。進一步了解[表單型應用程式](https://docs.microsoft.com/previous-versions/visualstudio/visual-studio-6.0/aa733955(v=vs.60))。
   
 ## <a name="full-trust-solutions"></a>Full-Trust Solutions
 <a name="bkmk_FullTrustSolutions"> </a>
 
-不適用於 SharePoint Online 客戶。SharePoint Server 2013 客戶可以建立完全信任解決方案，也稱為陣列方案。有別於 SharePoint 相關應用程式，陣列方案包含部署到 SharePoint 伺服器並呼叫 SharePoint 的伺服器物件模型的程式碼。這些組件一律以完全信任方式執行。陣列方案應用於 SharePoint 系統管理功能的自訂，例如自訂計時器工作、自訂 Windows PowerShell 指令程式以及管理中心擴充程式。進一步了解如何[在 SharePoint 2013 中建立陣列方案](https://go.microsoft.com/fwlink/?LinkId=271287)。
+不適用於 SharePoint Online 客戶。SharePoint Server 2013 客戶可以建立完全信任解決方案，也稱為陣列方案。有別於 SharePoint 相關應用程式，陣列方案包含部署到 SharePoint 伺服器並呼叫 SharePoint 的伺服器物件模型的程式碼。這些組件一律以完全信任方式執行。陣列方案應用於 SharePoint 系統管理功能的自訂，例如自訂計時器工作、自訂 Windows PowerShell 指令程式以及管理中心擴充程式。進一步了解如何[在 SharePoint 2013 中建立陣列方案](https://docs.microsoft.com/sharepoint/dev/general-development/build-farm-solutions-in-sharepoint)。
   
 ## <a name="infopath-forms-services"></a>InfoPath Forms Services
 <a name="bkmk_InfoPathFormsServices"> </a>
 
-表單服務可根據 InfoPath 中設計的表單範本，透過網頁瀏覽器填寫 SharePoint 中的表單。進一步了解 [InfoPath Forms Services。](https://go.microsoft.com/fwlink/?LinkId=271288)
+表單服務可根據 InfoPath 中設計的表單範本，透過網頁瀏覽器填寫 SharePoint 中的表單。進一步了解 [InfoPath Forms Services。](https://docs.microsoft.com/previous-versions/office/developer/sharepoint-2007/ms540731(v=office.12))
   
 ## <a name="javascript-object-model"></a>JavaScript Object Model
 <a name="bkmk_JavaScriptObjectModel"> </a>
 
-SharePoint 提供 JavaScript 物件模型，可用於內嵌指令碼或獨立 .js 檔案。它包含與 .NET Framework 和 Silverlight 用戶端物件模型相同的所有功能。JavaScript 物件模型是將自訂 SharePoint 程式碼加入應用程式的有用方法。此外也可讓網頁開發人員利用既有的 JavaScript 技能建立 SharePoint 應用程式，將學習曲線減至最少。進一步了解 [SharePoint 2013 的 JavaScript API 參照](https://go.microsoft.com/fwlink/?LinkId=271289)。
+SharePoint 提供 JavaScript 物件模型，可用於內嵌指令碼或獨立 .js 檔案。它包含與 .NET Framework 和 Silverlight 用戶端物件模型相同的所有功能。JavaScript 物件模型是將自訂 SharePoint 程式碼加入應用程式的有用方法。此外也可讓網頁開發人員利用既有的 JavaScript 技能建立 SharePoint 應用程式，將學習曲線減至最少。進一步了解 [SharePoint 2013 的 JavaScript API 參照](https://docs.microsoft.com/previous-versions/office/sharepoint-visio/jj193034(v=office.15))。
   
 ## <a name="remote-event-receiver"></a>Remote Event Receiver
 <a name="bkmk_RemoteEventReceiver"> </a>
 
-若要處理 SharePoint 相關應用程式中的事件，開發人員可以建立遠端事件接收器和應用程式事件接收器。遠端事件接收器會處理應用程式中項目 (例如清單、清單項目或 Web) 發生的事件。進一步了解[如何處理 SharePoint 相關應用程式中的事件](https://go.microsoft.com/fwlink/?LinkId=271735)。 
+若要處理 SharePoint 相關應用程式中的事件，開發人員可以建立遠端事件接收器和應用程式事件接收器。遠端事件接收器會處理應用程式中項目 (例如清單、清單項目或 Web) 發生的事件。進一步了解[如何處理 SharePoint 相關應用程式中的事件](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/handle-events-in-sharepoint-add-ins)。 
   
 ## <a name="rest-apis"></a>REST Api
 <a name="bkmk_RESTAPI"> </a>
 
-SharePoint 2013 提供呈現狀態轉移 (Representational State Transfer，REST) Web 服務的實作，可使用 OData 通訊協定在 SharePoint 清單資料上執行 CRUD 作業。當您必須從不使用 JavaScript 以及不是建立在 .NET Framework 或 Microsoft Silverlight 平台上的用戶端技術存取 SharePoint 資料，就可以使用此功能。進一步了解[如何使用 SharePoint 2013 REST 服務進行程式設計](https://go.microsoft.com/fwlink/?LinkId=271290)。
-  
-## <a name="sandboxed-solutions"></a>Sandboxed Solutions
-<a name="bkmk_SandboxedSolutions"> </a>
-
-相較於陣列方案，沙箱化解決方案可讓網站集合管理員在 SharePoint Foundation 2013 中安裝自訂解決方案，無需更高階的系統管理員介入處理。進一步了解 [SharePoint 中的沙箱化解決方案](https://go.microsoft.com/fwlink/?LinkId=271291)。
+SharePoint 2013 提供呈現狀態轉移 (Representational State Transfer，REST) Web 服務的實作，可使用 OData 通訊協定在 SharePoint 清單資料上執行 CRUD 作業。當您必須從不使用 JavaScript 以及不是建立在 .NET Framework 或 Microsoft Silverlight 平台上的用戶端技術存取 SharePoint 資料，就可以使用此功能。進一步了解[如何使用 SharePoint 2013 REST 服務進行程式設計](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/use-odata-query-operations-in-sharepoint-rest-requests)。
   
 ## <a name="sharepoint-design-manager"></a>SharePoint Design Manager
 <a name="bkmk_SharePointDesignerManager"> </a>
 
-設計管理員提供逐步方法來建立設計資產，以用來建立網站的品牌形象。請上傳設計資產，包括影像、HTML、CSS 等，接著您就可以建立主版頁面和版面配置。進一步了解 [SharePoint 2013 網站開發](https://go.microsoft.com/fwlink/?LinkId=271293)。
+設計管理員提供逐步方法來建立設計資產，以用來建立網站的品牌形象。請上傳設計資產，包括影像、HTML、CSS 等，接著您就可以建立主版頁面和版面配置。進一步了解 [SharePoint 2013 網站開發](https://docs.microsoft.com/sharepoint/dev/general-development/what-s-new-with-sharepoint-site-development)。
   
 ## <a name="sharepoint-designer-2013"></a>SharePoint Designer 2013
 <a name="bkmk_SharePointDesigner"> </a>
@@ -139,7 +129,7 @@ SharePoint 2013 提供呈現狀態轉移 (Representational State Transfer，REST
 ## <a name="sharepoint-framework"></a>SharePoint 架構
 <a name="bkmk_SharePointFramework"> </a>
 
-SharePoint 架構 (SPFx) 是頁面和網頁組件模型，可提供完整支援的用戶端的 SharePoint 開發、 的簡易整合 SharePoint 資料，以及支援的開放原始碼工具。 深入了解[SharePoint 架構](https://go.microsoft.com/fwlink/?linkid=869276)。
+SharePoint 架構 (SPFx) 是頁面和網頁組件模型，可提供完整支援的用戶端的 SharePoint 開發、 的簡易整合 SharePoint 資料，以及支援的開放原始碼工具。 深入了解[SharePoint 架構](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview)。
   
 ## <a name="sharepoint-2010-workflows-out-of-the-box"></a>SharePoint 2010 工作流程 (現成可用)
 <a name="bkmk_Worflow2010outofthebox"> </a>
@@ -149,7 +139,7 @@ SharePoint 架構 (SPFx) 是頁面和網頁組件模型，可提供完整支援�
 ## <a name="sharepoint-2013-and-sharepoint-2016-workflows"></a>SharePoint 2013 和 SharePoint 2016 工作流程
 <a name="bkmk_Workflow2013"> </a>
 
-SharePoint 2013 和 SharePoint 2016 工作流程供電由 Windows Workflow Foundation 4 (WF)，其中已重新設計從舊的版本。 可能是新的工作流程基礎結構的重要功能是 Azure 的簡介作為工作流程執行主機。 深入了解[what's new in sharepoint 工作流程](https://go.microsoft.com/fwlink/?LinkId=271297)。
+SharePoint 2013 和 SharePoint 2016 工作流程供電由 Windows Workflow Foundation 4 (WF)，其中已重新設計從舊的版本。 可能是新的工作流程基礎結構的重要功能是 Azure 的簡介作為工作流程執行主機。 深入了解[what's new in sharepoint 工作流程](https://docs.microsoft.com/sharepoint/dev/general-development/what-s-new-in-workflows-for-sharepoint)。
   
 ## <a name="feature-availability"></a>功能可用性
 <a name="bkmk_Workflow2013"> </a>
