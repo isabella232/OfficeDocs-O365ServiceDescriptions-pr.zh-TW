@@ -3,7 +3,7 @@ title: Microsoft 365 商務版服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/13/2019
+ms.date: 05/29/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全性與裝置管理功能，協助保護您的業務與整合式的解決方案。 . 此服務描述中說明的計劃選項和功能。 如需有關 Office 365 的詳細資訊，請參閱 Office 365 服務說明。
-ms.openlocfilehash: c6f982adb14dc332e4e31d448ca58e0356cbbd06
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0a68bd3b014d391e61542aeb789ff50f112b991f
+ms.sourcegitcommit: e5151508a1587c73d20588b87304cc277330ace3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342972"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34493491"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務說明
 
@@ -119,7 +119,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |||||
 |:-----|:-----|:-----|:-----|
 |**身分識別與存取管理功能** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |**Enterprise Mobility + Security E5** <br/> |
-|Office 365 的多重要素驗證 (MFA)  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Azure 多重要素驗證 (MFA)  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |系統管理單位  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |雲端應用程式探索  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |動態群組  <br/> |否  <br/> |否  <br/> |是  <br/> |
@@ -133,6 +133,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |Connect Health  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |SLA 高達 99.9年 %  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |進階威脅分析  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|條件式存取  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |**裝置和應用程式的管理功能** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |**企業行動力 + 安全性版 E3** <br/> |
 |行動裝置管理 (MDM)<sup>15</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |行動裝置管理 (MDM) 自動註冊  <br/> |否  <br/> |是  <br/> |是  <br/> |
@@ -169,14 +170,14 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 <br/><sup>4</sup> azure 資訊保護 (AIP) 啟用支援的資訊版權管理 (IRM) 功能。 AIP 計劃 1 隨附於 Microsoft 365 商務版。 
 <br/><sup>5</sup> Microsoft Teams 可用於 Microsoft 365 商務版、 Office 365 商務基本版、 Office 365 商務進階版和 Office 365 企業版 E1、 E3、 E5 （f1 鍵）。 It is not yet available for Office 365 Education plans. 
 <br/><sup>6</sup> azure 資訊保護 (AIP) 啟用支援的資訊版權管理 (IRM) 功能。 AIP 計劃 1 隨附於 Microsoft 365 商務版。 
-<br/>啟用目錄同步處理的 azure AD Connect 工具在 Office 365 商務進階版，也就是 Microsoft 365 商務版的元件支援<sup>7</sup> 。 不過，當 Windows 管理元件已啟用 Microsoft 365 商務版，Azure AD 加入為必要。 如果您有內部部署 Active Directory 環境，而且您想要在已加入網域的裝置加入 Azure AD，您可以[設定混合式 Azure AD 加入裝置](https://docs.microsoft.com/en-us/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup)可以完成。 
+<br/>啟用目錄同步處理的 azure AD Connect 工具在 Office 365 商務進階版，也就是 Microsoft 365 商務版的元件支援<sup>7</sup> 。 不過，當 Windows 管理元件已啟用 Microsoft 365 商務版，Azure AD 加入為必要。 如果您有內部部署 Active Directory 環境，而且您想要在已加入網域的裝置加入 Azure AD，您可以[設定混合式 Azure AD 加入裝置](https://docs.microsoft.com/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup)可以完成。 
 <br/><sup>8</sup>如果搭配本機的 Active Directory 使用目錄同步處理，您必須刪除帳戶或藉由在本機 Active Directory，而不是在 Office 365 入口網站或使用 Windows PowerShell 的 Azure Active Directory 模組來變更密碼。 
-<br/><sup>9</sup>雲端身分識別僅。 請參閱[讓使用者重設自己的密碼，在 Office 365 中](https://go.microsoft.com/fwlink/?linkid=852917)。 
+<br/><sup>9</sup>雲端身分識別僅。 請參閱[讓使用者重設自己的密碼，在 Office 365 中](https://docs.microsoft.com/office365/admin/add-users/let-users-reset-passwords)。 
 <br/><sup>10</sup>減少以折扣條件購買的基座可能需支付提前終止訂閱的費用。 This is not applicable for subscriptions paid on a monthly basis. 
-<br/><sup>11</sup> Microsoft 365 商務版包含 Exchange Online Archiving 訂閱。 每位 Exchange Online Archiving 訂閱者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://go.microsoft.com/fwlink/?linkid=863320)。 
-<br/><sup>12</sup>如需詳細資訊，請參閱[控制使用客戶金鑰的 Office 365 中的資料](https://go.microsoft.com/fwlink/?linkid=863349)。 
+<br/><sup>11</sup> Microsoft 365 商務版包含 Exchange Online Archiving 訂閱。 每位 Exchange Online Archiving 訂閱者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)。 
+<br/><sup>12</sup>如需詳細資訊，請參閱[控制使用客戶金鑰的 Office 365 中的資料](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)。 
 <br/><sup>13</sup>進階電子文件是在美國及支援西歐 （荷蘭） 區域中。 （從加拿大和亞太地區的客戶資料匯出至美國境內。 歐洲、 中東和非洲地區的客戶資料匯出至西歐 [荷蘭]。）
-<br/><sup>14</sup>可在[https://securescore.office.com](https://securescore.office.com)。 需要系統管理員權限。 如需詳細資訊，請參閱[介紹 Office 365 安全分數](https://go.microsoft.com/fwlink/?linkid=863490)。
+<br/><sup>14</sup>可在[https://securescore.office.com](https://securescore.office.com)。 需要系統管理員權限。 如需詳細資訊，請參閱[介紹 Office 365 安全分數](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)。
 <br/>在 Microsoft 365 系統管理中心內建<sup>15</sup>簡化 Windows 10 裝置管理。 Intune 管理的 iOS、 Android、 macOS 和內建於裝置管理系統管理中心中，也用於 Microsoft 365 商務版授權其他跨平台裝置管理的功能。 協力廠商應用程式及設定之類的 WiFi 設定檔和 VPN 憑證也可以管理裝置管理系統管理中心。 
 <br/>此計劃隨附 Microsoft Stream 計劃 2 包含影片入口網站中，語音文字轉譯、 深入搜尋，以及偵測<sup>16</sup> 。
 <br/><sup>17</sup>簡化 Windows 10 裝置管理和 Microsoft 365 系統管理中心內建的 Intune 應用程式保護原則。
