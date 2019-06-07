@@ -3,7 +3,7 @@ title: Microsoft 365 商務版服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/29/2019
+ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全性與裝置管理功能，協助保護您的業務與整合式的解決方案。 . 此服務描述中說明的計劃選項和功能。 如需有關 Office 365 的詳細資訊，請參閱 Office 365 服務說明。
-ms.openlocfilehash: 0a68bd3b014d391e61542aeb789ff50f112b991f
-ms.sourcegitcommit: e5151508a1587c73d20588b87304cc277330ace3
+ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
+ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34493491"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "34742102"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務說明
 
@@ -26,8 +26,8 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 
 下表列出 Office 365 商務進階版和 Microsoft 365 商務版方案的平台功能。
   
-若要檢視跨 Office 365 計劃的功能可用性，請參閱[Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md)。
-  
+若要檢視跨 Office 365 計劃的功能可用性，請參閱[Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md)。<br/>
+
 ||||
 |:-----|:-----|:-----|
 |**計劃選項** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
@@ -149,7 +149,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
    
 |||
 |:-----|:-----|
-|**Windows 10 管理功能**-Microsoft 365 商務版可讓您輕鬆地管理裝置。 當您設定您的 Microsoft 365 商務版租用戶您選取 [應用程式防護和裝置組態設定。 這些設定可決定會自動套用至裝置時他們加入 Azure Active Directory 的原則。 Windows 10 專業版管理功能包括：  <br/> |**Microsoft 365 商務版** <br/> |
+|**Windows 10 管理功能**-Microsoft 365 商務版可讓您輕鬆地管理裝置。 當您設定您的 Microsoft 365 商務版租用戶您選取 [應用程式防護和裝置組態設定。 這些設定可決定會自動套用至裝置時他們加入 Azure Active Directory 的原則。 Windows 10 專業版管理功能包括： <br/>|**Microsoft 365 商務版** <br/> |
 |透過 Windows AutoPilot 簡化的部署  <br/> |是  <br/> |
 |訂閱啟用  <br/> |是  <br/> |
 |受組織控制的裝置] 畫面上閒置  <br/> |是  <br/> |
@@ -162,9 +162,9 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |保護電腦預防網頁威脅 Microsoft Edge 中  <br/> |是  <br/> |
 |使用能減少裝置受攻擊面的規則 <br/> |是  <br/> |
 |保護資料夾來抵擋勒索軟體等威脅 <br/> |是  <br/> |
-|協助保護檔案和資料夾的電腦使用 Bitlocker 未經授權的存取 <br/> |是  <br/> |
-   
-> <sup>1</sup>包含 Exchange Online Plan 1。
+|協助保護檔案和資料夾的電腦使用 Bitlocker 未經授權的存取 <br/> |是  <br/> |   
+
+<sup>1</sup>包含 Exchange Online Plan 1。
 <br/><sup>2</sup>包含商務用 Skype 商務 Online Plan 2 與基本用戶端限制。
 <br/><sup>3</sup> project Online 並不包含在內，但可以以個別的附加元件購買，或新增免費的 Office 教育版方案。 
 <br/><sup>4</sup> azure 資訊保護 (AIP) 啟用支援的資訊版權管理 (IRM) 功能。 AIP 計劃 1 隨附於 Microsoft 365 商務版。 
