@@ -3,7 +3,6 @@ title: SharePoint Online 服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online 在 Office 365 中讓其他人共用和共同作業，可以通知，並邀請其他人公司，轉換商務程序，並充分發揮集體知識。 此外，SharePoint 會提供組織的功能來保護和管理資料，以及建置自訂解決方案。 如需快速的概觀，請參閱什麼是 SharePoint？
-ms.openlocfilehash: cb5fece44554d57ee019b298fcf2aa9938cd6c48
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 11c2f264ec8cdbc3b67fd109558e259c595d18e2
+ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341832"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780702"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 服務說明
 
 Microsoft SharePoint Online 在 Office 365 中讓其他人共用和共同作業，可以通知，並邀請其他人公司，轉換商務程序，並充分發揮集體知識。 此外，SharePoint 會提供組織的功能來保護和管理資料，以及建置自訂解決方案。 如需快速的概觀，請參閱[什麼是 SharePoint？](https://support.office.com/article/what-is-sharepoint-97b915e6-651b-43b2-827d-fb25777f446f?ocmsassetID=HA010378184&CTT=1&CorrelationId=30ae3fd1-2af8-4f5c-a1f6-150e338b43da&ui=en-US&rs=en-US&ad=US)
   
-若要跨方案比較功能，請參閱[比較 Office 365 for Business 方案](http://go.microsoft.com/fwlink/?LinkID=799177&clcid=0x409)。
+若要跨方案比較功能，請參閱[比較 Office 365 for Business 方案](https://products.office.com/business/compare-more-office-365-for-business-plans)。
   
 ## <a name="whats-new"></a>新功能
 
@@ -147,7 +146,7 @@ Microsoft SharePoint Online 在 Office 365 中讓其他人共用和共同作業�
 |[Office Online (檢視)](content.md#office-online-view) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 專業增強版  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[Office Web Apps Server 整合](content.md#office-web-apps-server-integration) <br/> |包含  <br/> |包含  <br/> |包含  <br/> |包含  <br/> |包含  <br/> |包含  <br/> |包含  <br/> |是  <br/> |是  <br/> |
-|[保存保留庫](content.md#preservation-hold-library) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[保存保留庫](content.md#preservation-hold-library) <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |[發佈的分析](content.md#publishing-analytics) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[快速編輯](content.md#quick-edit) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |[記錄管理](content.md#records-management) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -234,23 +233,23 @@ Microsoft SharePoint Online 在 Office 365 中讓其他人共用和共同作業�
 |[額外儲存空間](add-ons.md#additional-storage) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Azure 佈建的應用程式：存取服務](add-ons.md#azure-provisioned-apps-access-services) <br/> |Yes<sup>14</sup> <br/> |Yes<sup>14</sup> <br/> |Yes<sup>14</sup> <br/> |Yes<sup>14</sup> <br/> |Yes<sup>14</sup> <br/> |Yes<sup>14</sup> <br/> |Yes<sup>14</sup> <br/> |否  <br/> |否  <br/> |
 |[Azure 佈建的應用程式：Azure 輕量型網路角色 (LWR) 中的自訂程式碼](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
-> [!NOTE]
-> <sup>1</sup> To use folder sync, you must have Office 2013 or later (Standard or Professional edition) or an Office 365 subscription that includes Office applications. Office 365 商務基本版、Office 365 Enterprise E1 以及 Office 365 教育版 方案並未包含 Office 桌面應用程式訂閱。 不過，如果您已安裝 Office 2013 或更新版本，並訂閱上述其中一個方案，就可以使用資料夾同步處理。 
-<br/><sup>2</sup> Firstline 工作者有限 OneDrive 商務功能。 Firstline 工作者收到 2 GB 儲存空間，且沒有桌面同步功能。 Firstline 帳戶並未包含 OneDrive for Business 個人網站，因此無法享有 OneDrive for Business 的 1 TB 或 5 TB 線上儲存空間的個人文件庫。
-<br/> <sup>3</sup> azure 資訊保護未包含在內，但能以個別的附加元件形式購買，會啟用支援的資訊版權管理 (IRM) 功能。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. 
-<br/><sup>4</sup>因為 Firstline 工作者不能是系統管理員、 有 Firstline 工作者承租人必須至少一個 Enterprise 使用者，以便存取系統管理中心。 
-<br/><sup>5</sup> SharePoint Online 客戶必須下載並安裝免費的排名模型調整應用程式才能建立及自訂排名模型。 
-<br/> <sup>6</sup> 當您使用 eDiscovery 功能時，允許此功能的計劃授權要求會套用至所有屬於 eDiscovery 動作 (搜尋、保留、匯出) 的使用者。 
-<br/><sup>7</sup> 已驗證的 SharePoint Online 使用者可以使用多面向導覽存取私用網站集合。 
-<br/><sup>8</sup> 在您的國家/地區中，某些提供者可能被封鎖。 
-<br/> <sup>9</sup> 使用電子郵件與組織外的任何人共用文件、程式庫或網站。 Administrators do have the ability to turn it on, but will get a warning message indicating that it could make files shared accessible outside of your country. Users who attempt to share with someone outside of the organization will receive the same warning message. 
-<br/><sup>10</sup> 您可以在任何行動瀏覽器中檢視文件。 You need to install the Office Mobile app to edit documents. Office Mobile 目前可供 Windows Phone 和平板電腦、Android 手機和平板電腦、iPhone 和 iPad 使用。 
-<br/><sup>11</sup> 只有簡體中文和英文版說明。 
-<br/> <sup>12</sup> 無法新增部落格的註解。 
-<br/> <sup>13</sup> 組織社群網站可以使用，但公用社群提供的說明無法使用。 
-<br/><sup>14</sup> 不支援 Access 2010。 
-<br/> <sup>15</sup> Office Online 的 F1 使用者應該可以存取 Office Online (動態磚) 來進行內容建立。 不過，它們有一些與核心商業行動應用程式相關聯的限制。 包括下列項目：Yammer、StaffHub、Microsoft Teams、商務用 Skype、SharePoint 和 Groups。 以下是**未**包含這個功能： Outlook、 Word、 Excel、 PowerPoint 和 OneNote。<br/> 
-<sup>16</sup>的 InfoPath 表單都包含使用者程式碼 （沙箱） 只能 InfoPath 豐富型用戶端取用。 
-<br/><sup>17</sup> Visio Online 可以 （檢視功能） 有免費。 Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md).  <br/><sup>18</sup> F1 的使用者可以存取 SharePoint Server 中混合式安裝程式，但 Office 365 F1 不包含 CAL 權限來存取伺服器;這些權限必須另外購買。 
-<br/><sup>19</sup>客戶金鑰可用於 Office 365 企業版 E5。 客戶金鑰可讓您控制貴組織的加密金鑰，然後設定 Office 365 使用這些金鑰來加密存放在 Microsoft 資料中心中存放的資料。 存放的資料包括 Exchange Online 資料和儲存在信箱的商務用 Skype 資料，以及儲存在 SharePoint Online 中和商務用 OneDrive 中的檔案。 客戶金鑰可協助您符合規範，因為您可以控制加密金鑰，Office 365 會使用該金鑰來解密資料。 如需相關資訊，請參閱 [使用客戶金鑰控制 Office 365 中的資料](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697)。 
-<br/><sup>20</sup>即將推出。 
+
+<sup>1</sup> To use folder sync, you must have Office 2013 or later (Standard or Professional edition) or an Office 365 subscription that includes Office applications. Office 365 商務基本版、Office 365 Enterprise E1 以及 Office 365 教育版 方案並未包含 Office 桌面應用程式訂閱。 不過，如果您已安裝 Office 2013 或更新版本，並訂閱上述其中一個方案，就可以使用資料夾同步處理。 <br/>
+<sup>2</sup> Firstline 工作者有限 OneDrive 商務功能。 Firstline 工作者收到 2 GB 儲存空間，且沒有桌面同步功能。 Firstline 帳戶並未包含 OneDrive for Business 個人網站，因此無法享有 OneDrive for Business 的 1 TB 或 5 TB 線上儲存空間的個人文件庫。<br/> 
+<sup>3</sup> azure 資訊保護未包含在內，但能以個別的附加元件形式購買，會啟用支援的資訊版權管理 (IRM) 功能。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. <br/>
+<sup>4</sup>因為 Firstline 工作者不能是系統管理員、 有 Firstline 工作者承租人必須至少一個 Enterprise 使用者，以便存取系統管理中心。 <br/>
+<sup>5</sup> SharePoint Online 客戶必須下載並安裝免費的排名模型調整應用程式才能建立及自訂排名模型。 <br/> 
+<sup>6</sup> 當您使用 eDiscovery 功能時，允許此功能的計劃授權要求會套用至所有屬於 eDiscovery 動作 (搜尋、保留、匯出) 的使用者。 <br/>
+<sup>7</sup> 已驗證的 SharePoint Online 使用者可以使用多面向導覽存取私用網站集合。 <br/>
+<sup>8</sup> 在您的國家/地區中，某些提供者可能被封鎖。 <br/> 
+<sup>9</sup> 使用電子郵件與組織外的任何人共用文件、程式庫或網站。 Administrators do have the ability to turn it on, but will get a warning message indicating that it could make files shared accessible outside of your country. Users who attempt to share with someone outside of the organization will receive the same warning message. <br/>
+<sup>10</sup> 您可以在任何行動瀏覽器中檢視文件。 You need to install the Office Mobile app to edit documents. Office Mobile 目前可供 Windows Phone 和平板電腦、Android 手機和平板電腦、iPhone 和 iPad 使用。 <br/>
+<sup>11</sup> 只有簡體中文和英文版說明。 <br/> <sup>12</sup> 無法新增部落格的註解。 <br/> 
+<sup>13</sup> 組織社群網站可以使用，但公用社群提供的說明無法使用。 <br/>
+<sup>14</sup> 不支援 Access 2010。 <br/> 
+<sup>15</sup> Office Online 的 F1 使用者應該可以存取 Office Online (動態磚) 來進行內容建立。 不過，它們有一些與核心商業行動應用程式相關聯的限制。 包括下列項目：Yammer、StaffHub、Microsoft Teams、商務用 Skype、SharePoint 和 Groups。 以下是**未**包含這個功能： Outlook、 Word、 Excel、 PowerPoint 和 OneNote。<br/> 
+<sup>16</sup>的 InfoPath 表單都包含使用者程式碼 （沙箱） 只能 InfoPath 豐富型用戶端取用。 <br/>
+<sup>17</sup> Visio Online 可以 （檢視功能） 有免費。 Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md).  <br/>
+<sup>18</sup> F1 的使用者可以存取 SharePoint Server 中混合式安裝程式，但 Office 365 F1 不包含 CAL 權限來存取伺服器;這些權限必須另外購買。 <br/>
+<sup>19</sup>客戶金鑰可用於 Office 365 企業版 E5。 客戶金鑰可讓您控制貴組織的加密金鑰，然後設定 Office 365 使用這些金鑰來加密存放在 Microsoft 資料中心中存放的資料。 存放的資料包括 Exchange Online 資料和儲存在信箱的商務用 Skype 資料，以及儲存在 SharePoint Online 中和商務用 OneDrive 中的檔案。 客戶金鑰可協助您符合規範，因為您可以控制加密金鑰，Office 365 會使用該金鑰來解密資料。 如需相關資訊，請參閱 [使用客戶金鑰控制 Office 365 中的資料](https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
+<sup>20</sup>即將推出。 
