@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 尋找適用於 Office 365 企業版方案及獨立方案的 SharePoint Online 限制。
-ms.openlocfilehash: af58f2d68562ef57ede7496b604d7603e0a062fe
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: dffe3f3ddbc68e286ce03d79e72e56e4fd3322b2
+ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742152"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780662"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 限制 
 
@@ -30,15 +30,13 @@ ms.locfileid: "34742152"
 |每個組織的網站集合  <br/> |1 百萬<sup>6</sup> <br/> |1 百萬<sup>6</sup> <br/> |1 百萬<br/> |
 |使用者數目  <br/> |最多 300 個  <br/> |1- 500,000<sup>7</sup> <br/> |1- 500,000<sup>7</sup> <br/> |
    
-<sup>1</sup> 您可以無限制地購買額外的 SharePoint 儲存體。 請參閱[變更您訂閱的儲存空間](/office365/admin/subscriptions-and-billing/add-storage-space)。 
-<br/><sup>2</sup> 我們建議您監控並定期清空「資源回收筒」。 其使用的儲存空間也是組織中所有儲存上限的一部份。 
-<br/> <sup>3</sup> 當您有 Office 365 訂閱和 SharePoint Online 獨立方案時，儲存體數量會增加。 
-<br/> <sup>4</sup> 這是單一網站集合的儲存體限制，而非每個網站集合所提供的儲存體。 這項限制適用於所有類型的網站集合，包括 Office 365 群組連結的小組網站和 OneDrive。 SharePoint 系統管理員可以[手動設定降低儲存體限制](/sharepoint/manage-site-collection-storage-limits)。 
+<sup>1</sup> 您可以無限制地購買額外的 SharePoint 儲存體。 請參閱[變更您訂閱的儲存空間](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space)。 
+<br/><sup>2</sup> 我們建議您監控並定期清空「資源回收筒」。 其使用的儲存空間也會計入組織的儲存空間上限總額。 
+<br/> <sup>3</sup> 如果您有訂閱 Office 365 和 Office 365 額外檔案儲存空間附加元件，儲存空間容量會累加。 
+<br/> <sup>4</sup> 這是單一網站集合的儲存空間限制，而非每個網站集合所提供的儲存限制。 這項限制適用於所有類型的網站集合，包括 Office 365 群組連結的小組網站和 OneDrive。 SharePoint 系統管理員可以[手動設定降低儲存體限制](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)。 
 <br/> <sup>5</sup> Kiosk 人員無法管理 SharePoint 網站集合。 
 <br/> <sup>6</sup> 不包括為每個授權使用者建立的 OneDrive 網站集合。 
 <br/> <sup>7</sup> 如果您有 500,000 位以上的使用者，請連絡 Microsoft 代表。 
-  
-
   
 ## <a name="service-limits-for-all-plans"></a>所有方案的服務限制
 
@@ -68,8 +66,8 @@ ms.locfileid: "34742152"
 - **使用者** - 每個網站集合最多 200 萬個使用者。
 
 > [!NOTE]
-> 邀請參加 SharePoint 網站集合的的訪客數量沒有限制。 如需外部共用的詳細資訊，請參閱[外部共用概觀](/sharepoint/external-sharing-overview)。
+> 邀請參加 SharePoint 網站集合的的訪客數量沒有限制。 如需外部共用的詳細資訊，請參閱[外部共用概觀](https://docs.microsoft.com/sharepoint/external-sharing-overview)。
 
 ## <a name="see-also"></a>另請參閱
 
-[SharePoint Online 的搜尋限制](/sharepoint/search-limits)
+[SharePoint Online 的搜尋限制](https://docs.microsoft.com/sharepoint/search-limits)
