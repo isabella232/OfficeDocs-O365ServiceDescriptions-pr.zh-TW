@@ -3,31 +3,7 @@
 
 
 
-## <a name="week-of-april-29-2019"></a>2019 年 4 月 29 日當週
-
-
-| 發佈時間 |主題標題 | 變更 |
-|------|------------|--------|
-| 5/1/2019 | [Exchange Online 限制](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 修改時間 |
-| 5/1/2019 | [Office 365 教育版](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-education) | 修改時間 |
-| 5/1/2019 | [Office 365 Germany](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | 修改時間 |
-| 5/1/2019 | [由 21Vianet 運作的 Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 修改時間 |
-| 5/1/2019 | [Office 應用程式](/Office365/ServiceDescriptions/office-applications-service-description/office-applications) | 修改時間 |
-| 5/1/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | 修改時間 |
-| 5/1/2019 | [Office Online 服務說明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 修改時間 |
-| 5/1/2019 | [Office 應用程式服務說明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 修改時間 |
-| 5/2/2019 | [Exchange Online 限制](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 修改時間 |
-| 5/3/2019 | [Exchange Online 限制](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 修改時間 |
-| 5/3/2019 | [Office 365 教育版](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-education) | 修改時間 |
-| 5/3/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | 修改時間 |
-| 5/3/2019 | [郵件原則及合規性](/Office365/ServiceDescriptions/exchange-online-service-description/message-policy-and-compliance) | 修改時間 |
-| 5/3/2019 | [Office Online 服務說明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 修改時間 |
-| 5/3/2019 | [組合管理](/Office365/ServiceDescriptions/project-online-service-description/portfolio-management) | 修改時間 |
-| 5/3/2019 | [專案管理](/Office365/ServiceDescriptions/project-online-service-description/project-management) | 修改時間 |
-| 5/3/2019 | [Project Online 服務說明](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | 修改時間 |
-
-
-## <a name="week-of-may-06-2019"></a>2019 年 06 日當週
+## <a name="week-of-may-06-2019"></a>2019年5月6日當周
 
 
 | 發佈時間 |主題標題 | 變更 |
@@ -39,7 +15,7 @@
 | 5/7/2019 | [Office Online 服務說明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 修改時間 |
 
 
-## <a name="week-of-may-13-2019"></a>2019 5 月 13 日當週
+## <a name="week-of-may-13-2019"></a>2019年5月13日當周
 
 
 | 發佈時間 |主題標題 | 變更 |
@@ -51,7 +27,7 @@
 | 5/17/2019 | [Office 應用程式服務說明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 修改時間 |
 
 
-## <a name="week-of-may-20-2019"></a>2019 月 20 日當週
+## <a name="week-of-may-20-2019"></a>2019年5月20日當周
 
 
 | 發佈時間 |主題標題 | 變更 |
@@ -59,9 +35,9 @@
 | 5/21/2019 | [Office 365 工程直接服務說明](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | 修改時間 |
 | 5/21/2019 | [Exchange Online 封存中的封存功能](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | 修改時間 |
 | 5/21/2019 | [Exchange Online 封存中的用戶端功能](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/client-features) | 修改時間 |
-| 5/21/2019 | [遵循與安全性功能在 Exchange Online 封存](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/compliance-and-security-features) | 修改時間 |
+| 5/21/2019 | [Exchange Online 封存中的合規性和安全性功能](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/compliance-and-security-features) | 修改時間 |
 | 5/21/2019 | [Exchange Online 封存服務說明](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) | 修改時間 |
-| 5/21/2019 | [系統管理與管理 [EOP]](/Office365/ServiceDescriptions/exchange-online-protection-service-description/administration-and-management-eop) | 修改時間 |
+| 5/21/2019 | [管理與管理 [EOP]](/Office365/ServiceDescriptions/exchange-online-protection-service-description/administration-and-management-eop) | 修改時間 |
 | 5/21/2019 | [反垃圾郵件和反惡意程式碼保護 [EOP]](/Office365/ServiceDescriptions/exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop) | 修改時間 |
 | 5/21/2019 | [Exchange Online Protection 限制](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-limits) | 修改時間 |
 | 5/21/2019 | [Exchange Online Protection 服務說明](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | 修改時間 |
@@ -104,7 +80,7 @@
 | 5/21/2019 | [Office 365 系統需求](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-system-requirements) | 修改時間 |
 | 5/21/2019 | [Office 365 GCC 高和 DoD](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) | 修改時間 |
 | 5/21/2019 | [Office 365 GCC](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc) | 修改時間 |
-| 5/21/2019 | [Microsoft 365 政府版如何購買](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy) | 修改時間 |
+| 5/21/2019 | [Microsoft 365 政府如何購買](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy) | 修改時間 |
 | 5/21/2019 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 修改時間 |
 | 5/21/2019 | [合作夥伴](/Office365/ServiceDescriptions/office-365-platform-service-description/partners) | 修改時間 |
 | 5/21/2019 | [隱私權、安全性和透明化](/Office365/ServiceDescriptions/office-365-platform-service-description/privacy-security-and-transparency) | 修改時間 |
@@ -166,10 +142,29 @@
 | 5/21/2019 | [Yammer 服務說明](/Office365/ServiceDescriptions/yammer-service-description/yammer-service-description) | 修改時間 |
 
 
-## <a name="week-of-may-27-2019"></a>2019 月 27 日當週
+## <a name="week-of-may-27-2019"></a>2019年5月27日當周
 
 
 | 發佈時間 |主題標題 | 變更 |
 |------|------------|--------|
 | 5/28/2019 | [Microsoft 365 商務版服務說明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 修改時間 |
 | 5/31/2019 | [SharePoint Online 限制](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 修改時間 |
+
+
+## <a name="week-of-june-03-2019"></a>2019年6月1日當周
+
+
+| 發佈時間 |主題標題 | 變更 |
+|------|------------|--------|
+| 6/6/2019 | [Microsoft 365 商務版服務說明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 修改時間 |
+| 6/6/2019 | [由 21Vianet 運作的 Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 修改時間 |
+| 6/6/2019 | [搜尋](/Office365/ServiceDescriptions/sharepoint-online-service-description/search) | 修改時間 |
+| 6/6/2019 | [SharePoint Online 限制](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 修改時間 |
+| 6/7/2019 | [Microsoft 365 商務版服務說明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 修改時間 |
+| 6/7/2019 | [Exchange Online 封存中的封存功能](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | 修改時間 |
+| 6/7/2019 | [Exchange Online 封存服務說明](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) | 修改時間 |
+| 6/7/2019 | [Exchange Online Protection 服務說明](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | 修改時間 |
+| 6/7/2019 | [Exchange Online 服務說明](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | 修改時間 |
+| 6/7/2019 | [Office 365 安全性與合規性中心](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 修改時間 |
+| 6/7/2019 | [SharePoint Online 限制](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 修改時間 |
+| 6/7/2019 | [SharePoint Online 服務說明](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | 修改時間 |
