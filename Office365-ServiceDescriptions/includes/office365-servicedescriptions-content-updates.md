@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-may-06-2019"></a>2019年5月6日當周
-
-
-| 發佈時間 |主題標題 | 變更 |
-|------|------------|--------|
-| 5/6/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | 修改時間 |
-| 5/6/2019 | [Office Online 服務說明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 修改時間 |
-| 5/7/2019 | [Exchange Online 服務說明](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | 修改時間 |
-| 5/7/2019 | [支援](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | 修改時間 |
-| 5/7/2019 | [Office Online 服務說明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 修改時間 |
-
-
 ## <a name="week-of-may-13-2019"></a>2019年5月13日當周
 
 
@@ -168,3 +156,12 @@
 | 6/7/2019 | [Office 365 安全性與合規性中心](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 修改時間 |
 | 6/7/2019 | [SharePoint Online 限制](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 修改時間 |
 | 6/7/2019 | [SharePoint Online 服務說明](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | 修改時間 |
+
+
+## <a name="week-of-june-10-2019"></a>2019年6月10日當周
+
+
+| 發佈時間 |主題標題 | 變更 |
+|------|------------|--------|
+| 6/13/2019 | [Office 應用程式服務說明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 修改時間 |
+| 6/13/2019 | [SharePoint Online 服務說明](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | 修改時間 |
