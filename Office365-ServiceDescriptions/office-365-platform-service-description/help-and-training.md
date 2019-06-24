@@ -3,7 +3,6 @@ title: 說明和訓練
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,24 +12,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 提供下列說明和訓練資源。
-ms.openlocfilehash: 6a7dacef8f970de86c5199d2217e957a10da59ea
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 7d9769074cea9d9c26eb176183aff6e85ad57000
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343572"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130897"
 ---
 # <a name="help-and-training"></a>說明和訓練
 
 Microsoft Office 365 提供下列說明和訓練資源。
   
 ## <a name="online-help"></a>線上說明
-<a name="BKMK_Online_Help"> </a>
 
-說明文章和影片可從任何內嵌說明中連結的服務，包括 Office 365 入口網站和 Microsoft 365 系統管理中心的上方導覽列中的 [說明] 圖示。 您也可以前往 [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) 搜尋所有 Office 365 說明。 
+您可以從服務中的任何內嵌說明連結取得說明文章和影片, 包括 Office 365 入口網站和 Microsoft 365 系統管理中心的上方導覽列中的 [說明] 圖示。 您也可以前往 [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) 搜尋所有 Office 365 說明。 
   
 ## <a name="training"></a>訓練
-<a name="BKMK_Online_Help"> </a>
 
 訓練的提供形式包括影片、網路研討會，以及以通過認證為目標的訓練班。如需詳細資訊，請參閱：
   
@@ -47,7 +44,6 @@ Microsoft Office 365 提供下列說明和訓練資源。
 - [Office 365 系統管理員支援技術：核心概念](https://www.microsoftvirtualacademy.com/training-courses/office-365-admin-support-skills-core-concepts?Prid=fusion-www)
     
 ## <a name="community"></a>社群
-<a name="BKMK_Community"> </a>
 
 > [!NOTE]
 > 社群資源套用至全球版本 Office 365。如果您使用 21Vianet 運作的 Office 365，您可以使用 WeChat。請參閱[取得 21Vianet 運作的 Office 365 的技術、帳單及訂閱支援](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)並捲動到 QR 代碼頁面底部。 
@@ -95,14 +91,12 @@ Office 365 社群是提供自助支援資訊的單一目的地平台。社群透
 如需詳細資訊，請瀏覽 [Office 365 社群](https://go.microsoft.com/fwlink/?LinkId=272057)。
   
 ## <a name="office-365-techcenter"></a>Office 365 TechCenter
-<a name="BKMK_O365TechCenter"> </a>
 
 大型組織的 IT 專業人員可以瀏覽 Office 365 TechNet 上的 TechCenter。Office 365 TechCenter 旨在為大型組織提供複雜的部署指南。
   
 如需詳細資訊，請瀏覽 [Office 365 TechCenter](https://go.microsoft.com/fwlink/?LinkId=272058)。
   
 ## <a name="other-self-help-resources"></a>其他自助資源
-<a name="BKMK_OtherSelfHelpResources"> </a>
 
 除了 Office 365 社群和線上說明之外，Office 365 也包含下列自助資源：
   
@@ -115,7 +109,6 @@ Office 365 社群是提供自助支援資訊的單一目的地平台。社群透
     如果您使用 21Vianet 運作的 Office 365，您可以使用 WeChat。請參閱[取得 21Vianet 運作的 Office 365 的技術、帳單及訂閱支援](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)並捲動到 QR 代碼頁面底部。 
     
 ## <a name="languages"></a>語言
-<a name="BKMK_OtherSelfHelpResources"> </a>
 
 我們提供下列語言版本的說明和訓練資源。
   
@@ -155,7 +148,6 @@ Office 365 社群是提供自助支援資訊的單一目的地平台。社群透
 |烏克蘭文  <br/> |是  <br/> | 否  <br/> |否  <br/> |否  <br/> |否  <br/> |
    
 ## <a name="feature-availability"></a>功能可用性
-<a name="BKMK_OtherSelfHelpResources"> </a>
 
 若要檢視跨 Office 365 計劃、獨立選項和內部部署方案的功能可用性，請參閱 [Office 365 平台服務說明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)。
   

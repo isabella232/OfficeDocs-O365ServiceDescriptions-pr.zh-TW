@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
-description: 是 Yammer 中提供下列郵件和對話功能。
-ms.openlocfilehash: cb3ae35b113fff2906c5aea8fc3cea7c73d8a08f
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: Yammer 中提供下列郵件和交談功能。
+ms.openlocfilehash: 78a89c44d6b6a29fad42656ec87311b7887ecf04
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342192"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130997"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer 中的訊息與交談
 
-是 Yammer 中提供下列郵件和對話功能。
+Yammer 中提供下列郵件和交談功能。
   
 ## <a name="publisher"></a>Publisher
 <a name="bkmk_Publisher"> </a>
@@ -49,10 +49,10 @@ ms.locfileid: "34342192"
 
 在另一個群組的摘要中或透過私人郵件分享對話，以轉送資訊和重要訊息。
   
-## <a name="office-online-support"></a>Office Online support
+## <a name="office-for-the-web-support"></a>適用于 web 的 Office 支援
 <a name="bkmk_ShareConversations"> </a>
 
-有了 Yammer 中的 Office Online 支援，就可以使用 Office Online，直接在 Yammer 中檢視與編輯上傳至 Yammer 的文件。使用 Office Online 能將文件漂亮地轉譯、由不同使用者共同撰寫文件，並在瀏覽器中顯示相關的 Yammer 交談。
+透過使用 Office 來支援 Yammer 中的 web 支援, 上傳至 Yammer 的檔, 可以透過 Office 網頁版, 直接在 Yammer 中查看和編輯。 這可讓檔以 Office 網頁呈現 beautifully, 讓不同的使用者同時進行共同撰寫, 以及在您的瀏覽器中顯示相關的 Yammer 交談。
   
 ## <a name="events"></a>事件
 <a name="bkmk_Events"> </a>

@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
-description: 為了符合唯一且不斷美國聯邦、 狀態、 本機，以及部落政府，以及承包商保留，或代表美國政府處理資料的需求，Microsoft 會提供 Office 365 美國政府社群 (GCC) 服務。 可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 試用版目前僅供美國政府實體使用。
-ms.openlocfilehash: d4eb499f71dd39b99a2359ae9a10d7a8c6973e78
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: 為了符合美國聯邦、州、當地和部落政府的獨特和不斷演變的需求, 以及代表美國政府持有或處理資料的合同工, Microsoft 提供 Office 365 美國政府社區 (GCC) 服務。 可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 試用版目前僅供美國政府實體使用。
+ms.openlocfilehash: 3519ad9d34180b82bf32761cf3d1188ffff2b7d6
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343242"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131097"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
-為了符合唯一且不斷美國聯邦、 狀態、 本機，以及部落政府，以及承包商保留，或代表美國政府處理資料的需求，Microsoft 會提供 Office 365 美國政府社群 (GCC) 服務。 可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 試用版目前僅供美國政府實體使用。 
+為了符合美國聯邦、州、當地和部落政府的獨特和不斷演變的需求, 以及代表美國政府持有或處理資料的合同工, Microsoft 提供 Office 365 美國政府社區 (GCC) 服務。 可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 試用版目前僅供美國政府實體使用。 
   
 請洽詢您的客戶團隊或偏好的夥伴以瞭解詳細資訊，或啟動驗證程序。可在[比較 Office 365 政府版方案](https://products.office.com/en-us/government/compare-office-365-government-plans)頁面上找到其他資訊。 
   
@@ -34,7 +34,7 @@ Office 365 US Government 支援中度影響等級的「聯邦風險與授權管�
   
 Office 365 US Government 也支援美國國防部的雲端運算安全性需求指南層級 2 (未受控管的未分類資訊) 系統。 
   
-Exchange Online、SharePoint Online、Exchange Online Archiving、商務用 Skype 及 Office Online 具有針對執法機構支援客戶 CJIS 要求的功能，和處理 FTI 之客戶的 IRS-1075 需求。
+Exchange Online、SharePoint Online、Exchange Online 封存、商務用 Skype 和 Office for web 都具有支援執法機構的客戶 CJIS 需求的功能, 以及處理 FTI 之客戶的 IRS-1075 需求。
   
 ## <a name="office-365-us-government-community-screened-personnel"></a>Office 365 US Government 社群雲端過濾的人員
 
@@ -42,7 +42,7 @@ Office 365 人員沒有 Office 365 美國政府社群 中所裝載的客戶內�
   
 |||
 |:-----|:-----|
-|**Microsoft 人員檢測和背景檢查**<sup>1</sup> <br/> |**描述** <br/> |
+|**Microsoft 人員篩選和背景檢查**<sup>1</sup> <br/> |**描述** <br/> |
 |美國公民權  <br/> |美國公民權驗證  <br/> |
 |工作經驗檢查  <br/> |七 (7) 年工作經驗的驗證  <br/> |
 |教育驗證  <br/> |取得之最高學位驗證  <br/> |
@@ -54,7 +54,7 @@ Office 365 人員沒有 Office 365 美國政府社群 中所裝載的客戶內�
 |指紋檢查  <br/> |FBI 資料庫指紋背景檢查  <br/> |
 |CJIS 背景檢測  <br/> |每個已簽署 Microsoft CJIS IA 計劃的州內由州 CSA 所任命之授權單位州裁定的聯邦與州刑事案件記錄審查  <br/> |
 
-<sup>1</sup>只適用於人員暫時性或站裝載在 Office 365 美國政府社群雲端 (GCC) 的客戶內容存取  
+<sup>1</sup>僅適用于擁有 OFFICE 365 美國政府版雲端 (GCC) 中的客戶內容的暫時或員工存取權  
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 US Government 社群雲端與 Yammer
 
 Yammer Enterprise 不是 Office 365 US Government 的元件，但每位獲得 Office 365 US Government 方案 E1 和 E3 授權的使用者都可以免費取得，做為獨立優惠。這項優惠目前僅限於透過 Enterprise 合約及 Enterprise Subscription 合約購買 Office 365 US Government 的客戶享有。 
@@ -67,9 +67,9 @@ Yammer Enterprise 不是 Office 365 US Government 的元件，但每位獲得 Of
 
 MyAnalytics 係根據 Office 365 服務的 FedRAMP 控制實作所設計及運作，但尚未在 Office 365 年度 FedRAMP 稽核程序中由 3PAO 檢閱。如有必要，請洽詢相容性辦公室，才能啟用您組織中使用者的 MyAnalytics 服務。 
   
-## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 美國政府社群雲端 (GCC) 客戶支援
+## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 美國政府社區雲端 (GCC) 客戶支援
 
-提供 office 365 GCC 客戶支援在相同的字詞及至[全球版本 Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
-)提供的條件，包括不支援代理程式實體位置或公民保證。 Azure 公用雲端，支援下列之下搭配運作的 office 365 GCC[條款和條件。](https://azure.microsoft.com/en-us/support/plans/)
+Office 365 GCC 客戶支援是以與[全球版本的 Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
+)相同的條款及條件提供, 包括不支援代理程式實體位置或公民保證。 Office 365 GCC 會與 Azure 公用雲端搭配運作, 這是在下列[條款及條件](https://azure.microsoft.com/en-us/support/plans/)下支援的。
 
-Microsoft 會提醒您不共用任何受控制、 敏感或機密資訊與支援人員，一部分您 Office 365 GCC 相關支援事件，直到您確認他們的授權，才能檢視或存取這類資料。 Microsoft 致力於[保護您的隱私權。](https://privacy.microsoft.com/en-US/privacystatement ) Office 365 GCC 客戶支援服務 」 資格鑑定界限中未包含和不提供 FedRAMP、 SRG、 ITAR、 IRS 1075 或 CJIS 資料處理和/或規範保證。
+Microsoft 會提醒您不要將任何受控制、敏感或機密資訊與支援人員共用, 作為 Office 365 與 GCC 相關的支援事件的一部分, 直到您確認他們的授權可以查看或存取這類資料為止。 Microsoft 致力於[保護您的隱私權。](https://privacy.microsoft.com/en-US/privacystatement ) Office 365 GCC 客戶支援不包含在服務資格鑒定界限內, 而且不提供 FedRAMP、SRG、ITAR、IRS 1075 或 CJIS 資料處理和/或合規性保證。

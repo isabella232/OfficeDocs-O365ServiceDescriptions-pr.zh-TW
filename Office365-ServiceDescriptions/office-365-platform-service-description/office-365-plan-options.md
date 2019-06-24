@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
-ms.openlocfilehash: 9e36f9ac8145590e35dbbf543fff0f628eb004ec
-ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
+ms.openlocfilehash: 6aacf27114876564707f44ee310ae3bc3d9b1fb3
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35018275"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131257"
 ---
 # <a name="office-365-plan-options"></a>Office 365 方案選項
 
@@ -56,7 +56,7 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
 |SharePoint Online  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |商務用 OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>5</sup> <br/> |
 |商務用 Skype Online <sup>15</sup> <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>11</sup> <br/> |是<sup>13</sup> <br/> |是<sup>14</sup> <br/> |
-|Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Web 版 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 應用程式  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Project Online  <br/> |沒有<sup>1</sup> <br/> |否  <br/> |沒有<sup>1</sup> <br/> |沒有<sup>1</sup> <br/> |沒有<sup>1</sup> <br/> |沒有<sup>1</sup> <br/> |沒有<sup>1</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |

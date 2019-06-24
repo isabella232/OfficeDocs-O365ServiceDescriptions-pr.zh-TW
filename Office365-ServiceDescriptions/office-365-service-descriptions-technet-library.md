@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft Office 365 是雲端式服務，旨在協助達成您的組織對於健全安全性、 可靠性和使用者生產力需求。
-ms.openlocfilehash: 54a678c962115d0c13cd96d3aa3e3f469cc33274
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: Microsoft Office 365 是雲端式服務, 其設計目的是為了協助符合貴組織對強健的安全性、可靠性和使用者生產力的需求。
+ms.openlocfilehash: af529770b0c9a28f55f149d498cfeffeb3f4b934
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343012"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130907"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 服務描述 
 
-Microsoft Office 365 是雲端式服務，旨在協助達成您的組織對於健全安全性、 可靠性和使用者生產力需求。 
+Microsoft Office 365 是雲端式服務, 其設計目的是為了協助符合貴組織對強健的安全性、可靠性和使用者生產力的需求。 
   
 本文件庫中的主題提供 Office 365 隨附服務和功能的詳細說明。若要跨方案比較功能，請參閱[比較商務用 Office 365 方案](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，或請參閱下列清單中的相關服務描述。 
   
@@ -33,7 +33,7 @@ Microsoft Office 365 是雲端式服務，旨在協助達成您的組織對於�
 > [!NOTE]
 > 如果您要尋找服務描述的比較試算表，其已經淘汰了。每個服務描述頁面上的產品功能可用性表已更新，以進一步協助您選擇符合需求的 Office 365 版本。 
   
-Microsoft 為的合格服務的 Office 365 的 FastTrack Center 權益提供合格方案中。 權益可讓您可以遠端與 Microsoft 專家以取得 Office 365 環境準備就緒。 如需詳細資訊，請參閱 [適用於 Office 365 的 FastTrack 中心權益](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
+Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTrack Center 權益。 該權益可讓您與 Microsoft 專家遠端合作, 讓您的 Office 365 環境可供使用。 如需詳細資訊，請參閱 [適用於 Office 365 的 FastTrack 中心權益](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
 若要開始進行，請參閱下列服務說明：
   
@@ -41,7 +41,7 @@ Microsoft 為的合格服務的 Office 365 的 FastTrack Center 權益提供合�
     
 - [Office 應用程式服務說明](office-applications-service-description/office-applications-service-description.md)
     
-- [Office Online 服務說明](office-online-service-description/office-online-service-description.md)
+- [Web 服務說明的 Office](office-online-service-description/office-online-service-description.md)
     
 - [Exchange Online 服務說明](exchange-online-service-description/exchange-online-service-description.md)
     

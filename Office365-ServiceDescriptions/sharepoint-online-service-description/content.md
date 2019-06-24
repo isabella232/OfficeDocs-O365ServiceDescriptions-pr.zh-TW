@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
-description: SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列的「內容」功能可方便每個人使用 Enterprise Content Management (ECM)。 本產品集傳統內容管理、社交功能與強大搜尋功能於一身。
-ms.openlocfilehash: 67b7af09bc6a4abc8ec42750588079145f9f4719
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: SharePoint Online 是一組 Web 工具和技術, 可協助您的組織儲存、共用及管理數位資訊。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列的「內容」功能可方便每個人使用 Enterprise Content Management (ECM)。 本產品集傳統內容管理、社交功能與強大搜尋功能於一身。
+ms.openlocfilehash: 0d9cf2388a0c6907708fba2318f8b6ca97a35b12
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342552"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130950"
 ---
 # <a name="content"></a>內容
 
-SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列的「內容」功能可方便每個人使用 Enterprise Content Management (ECM)。 本產品集傳統內容管理、社交功能與強大搜尋功能於一身。
+SharePoint Online 是一組 Web 工具和技術, 可協助您的組織儲存、共用及管理數位資訊。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列的「內容」功能可方便每個人使用 Enterprise Content Management (ECM)。 本產品集傳統內容管理、社交功能與強大搜尋功能於一身。
   
 ## <a name="accessibility-standards-support"></a>Accessibility Standards Support
 <a name="bkmk_AccessibilitySS"> </a>
@@ -39,7 +39,7 @@ SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 �
 ## <a name="auditing"></a>稽核
 <a name="bkmk_Auditing"> </a>
 
-SharePoint Online 網站集合管理員可以使用哪些使用者必須採取哪些動作的網站、 內容類型、 清單、 文件庫、 清單項目和文件庫檔案的網站集合的稽核功能來追蹤。 深入了解[為網站集合設定音訊設定](https://go.microsoft.com/fwlink/?LinkId=270950)。
+SharePoint Online 網站集合管理員可以使用「審核」功能追蹤網站集合的網站、內容類型、清單、文件庫、清單專案及文件庫檔案中採取的動作。 深入了解[為網站集合設定音訊設定](https://go.microsoft.com/fwlink/?LinkId=270950)。
   
 ## <a name="auditing-amp-reporting-eg-doc-edits-policy-edits-deletes"></a>Auditing &amp; Reporting (e.g., doc edits, policy edits, deletes)
 <a name="bkmk_AuditingReporting"> </a>
@@ -51,7 +51,7 @@ SharePoint Online 網站集合管理員可使用稽核功能來追蹤哪些使�
 
 僅適用於私用網站集合。目錄是一種在其他不同網站及網站集合中共用的文件庫或清單。深入了解如何[啟用文件庫或清單做為目錄](https://go.microsoft.com/fwlink/p/?LinkId=330809)。
   
-## <a name="category-page-and-catalog-item-page"></a>類別頁面和目錄項目頁面
+## <a name="category-page-and-catalog-item-page"></a>類別頁面和目錄專案頁面
 <a name="bkmk_WCMCategorypageandcatalogitempage"> </a>
 
 僅適用於私用網站集合。類別頁面和目錄項目頁面都是頁面配置，可用於在整個網站中一致顯示您想要顯示的目錄內容。深入了解[如何自訂目錄型網站的頁面配置](https://go.microsoft.com/fwlink/p/?LinkId=330808)。
@@ -76,10 +76,10 @@ SharePoint Online 網站集合管理員可使用稽核功能來追蹤哪些使�
 
 文件組能讓使用者以單一實體的身分將描述內容儲存、處理、匯出並新增至多個檔案。原則、標記與範本均可套用至任何已建立的文件。深入了解[文件組](https://go.microsoft.com/fwlink/?LinkId=270954)。
   
-## <a name="document-translation-in-word-online"></a>Document Translation in Word Online
+## <a name="document-translation-in-word-for-the-web"></a>網頁版 Word 中的檔翻譯
 <a name="bkmk_DocumentTranslationWordWebApp"> </a>
 
-在 [閱讀檢視] 中，Word Online 現在包含可讓組織直接在瀏覽器上翻譯他們文件的選項。甚至翻譯文件註釋。
+在 [閱讀檢視] 中, web 的 Word 現在提供一個選項, 可讓組織直接在瀏覽器中翻譯其檔。 甚至翻譯文件註釋。
   
 ## <a name="ediscovery-search"></a>eDiscovery Search
 <a name="bkmk_eDiscovery_Search"> </a>
@@ -124,7 +124,7 @@ eDiscovery 搜尋允許使用者搜尋可用做法務遵循和訴訟支援證據
 ## <a name="information-rights-management-irm"></a>資訊版權管理 (IRM)
 <a name="bkmk_InformationRightsManagement"> </a>
 
-SharePoint Online IRM 使用 Azure 資訊保護，是在 Office 365 中的資訊保護技術。 IRM 保護已套用到 SharePoint 清單及文件庫層級中的檔案。 深入了解[在 SharePoint Online 中的 IRM](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)。
+SharePoint Online IRM 使用 Azure 資訊保護 (Office 365 中的資訊保護技術)。 IRM 保護已套用到 SharePoint 清單及文件庫層級中的檔案。 深入了解[在 SharePoint Online 中的 IRM](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)。
   
 ## <a name="managed-metadata-service"></a>Managed Metadata Service
 <a name="bkmk_ManagedMetadataService"> </a>
@@ -141,15 +141,15 @@ SharePoint Online IRM 使用 Azure 資訊保護，是在 Office 365 中的資訊
 
 保留原則可以有多個階段，讓您將整個文件周期指定為一項原則。例如，每年審查合約，並於七年後刪除。深入了解[儲存和管理記錄](https://go.microsoft.com/fwlink/?LinkId=270968)。
   
-## <a name="office-online-createedit"></a>Office Online (建立/編輯)
+## <a name="office-for-the-web-createedit"></a>適用于 web 的 Office (建立/編輯)
 <a name="bkmk_OfficeWebAppsEdi"> </a>
 
-如果您是 Office 365 客戶，就可以自動透過網際網路瀏覽器使用 Office Online 來建立和編輯 Office 檔案。若要了解 Office Online 中提供哪些功能，請參閱 [Office Online 服務說明](../office-online-service-description/office-online-service-description.md)。
+如果您是 Office 365 客戶, 您可以使用網際網路瀏覽器中的 Office 來自動建立和編輯 Office 檔案。 若要瞭解哪些功能可在 Office for web 中使用, 請參閱[Web 服務說明的 office](../office-online-service-description/office-online-service-description.md)。
   
-## <a name="office-online-view"></a>Office Online (檢視)
+## <a name="office-for-the-web-view"></a>網頁版 Office (view)
 <a name="bkmk_OfficeWebAppsView"> </a>
 
-Office Online 預設為僅限檢視。僅限檢視的功能是免費提供的。深入了解[使用您組織 SharePoint 網站上的 Office Online](https://go.microsoft.com/fwlink/?LinkId=392609)。
+根據預設, Office 網頁版僅供查看。 僅供檢視功能為免費提供。 若要深入瞭解, 請參閱[在組織的 SharePoint 網站中使用網頁版 Office](https://go.microsoft.com/fwlink/?LinkId=392609)。
   
 ## <a name="office-web-apps-server-integration"></a>Office Web Apps Server integration
 <a name="bkmk_OfficeWebAppsServerIntegration"> </a>
@@ -161,7 +161,7 @@ SharePoint Online 客戶無法使用此功能。在 SharePoint Server 2010 中�
 
 在保留狀態的內容已獲得保存，但使用者仍可以變更。在保存時內容的狀態會被記錄。如果使用者變更內容或者甚至刪除之，則會於刪除時保留該項，並且原始保存的版本仍然可用。深入了解[將內容來源設為保留狀態](https://go.microsoft.com/fwlink/?LinkId=270971)。
   
-## <a name="publishing-analytics"></a>發佈的分析
+## <a name="publishing-analytics"></a>發佈分析
 <a name="bkmk_WCMAnalytics"> </a>
 
 分析處理元件能幫助系統管理員識別並呈現使用者認為最有用且最相關的資訊。此元件同時分析內容本身(搜尋分析) 以及使用者與其互動的方式 (流量分析)。分析結果會被新增至搜尋索引中的項目，如此，搜尋相關性會隨著時間自動改良。而且，此類結果也會用於報告中，藉以協助搜尋系統管理員查看可採取手動方式改良搜尋系統的步驟。深入了解 [SharePoint Server 2013 中的分析處理](https://go.microsoft.com/fwlink/?LinkId=270916)。
@@ -206,7 +206,7 @@ SharePoint 使用者擁有資源回收筒，其中儲存已刪除的內容。必
   
 若要深入了解，請參閱[管理 SharePoint 網站集合的資源回收筒](http://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409)。
   
-## <a name="search-web-parts"></a>搜尋網頁組件
+## <a name="search-web-parts"></a>搜尋網頁元件
 <a name="BKMK_WCMContentSearchWebPart"> </a>
 
 僅適用於私用網站集合。搜尋網頁組件協助您在 SharePoint 網頁上呈現搜尋結果。有數個搜尋驅動的網頁組件 (包括「內容搜尋」、「目錄項目重複使用」、「標籤相符的項目」、「頁面」、「圖片」、「熱門項目」、「最近變更的項目」、「建議項目」、「視訊」、「網頁」和 Wiki 頁面)。內容搜尋網頁組件 (CSWP) 會使用搜尋技術來顯示內容。當訪客瀏覽至包含 CSWP 的頁面時，網頁組件會自動發出查詢，而搜尋結果會顯示在 CSWP 中。在大部分情況下，訪客甚至不知道已使用搜尋技術來顯示他們所檢視的內容。對訪客而言，其外觀和風格就像其他任何網頁一樣。深入了解如何[設定內容搜尋網頁組件](https://go.microsoft.com/fwlink/p/?LinkId=330813)。

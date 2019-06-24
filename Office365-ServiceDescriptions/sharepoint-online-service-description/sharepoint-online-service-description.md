@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Office 365 中的 Microsoft SharePoint Online 可讓人員共用和共同作業、通知和接洽公司內的其他人、轉換商務程式, 以及充分利用集體知識。 此外, SharePoint 還提供組織的功能, 以保護及管理資料, 以及建立自訂解決方案。 若要快速瞭解, 請參閱何謂 SharePoint？
-ms.openlocfilehash: b2ad0ab9f45e91bed7f28dccecfddd58cee308bb
-ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
+ms.openlocfilehash: de95fb81b159ac3186b9710159a3fca716ee466f
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34931125"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131007"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 服務說明
 
@@ -52,7 +52,7 @@ Microsoft 所管理的 SharePoint Online 服務有一些限制, 例如網站集�
   
 ## <a name="onedrive-for-business"></a>商務用 OneDrive
 
-商務用 OneDrive (先前稱為 SkyDrive Pro) 適用於公司員工的個人線上儲存空間。在這裡，使用者可以輕鬆並安全地跨多個裝置來儲存、同步及分享工作檔案。商務用 OneDrive 隨附於 SharePoint Online，但也可以作為獨立計劃另外購買。商務用 OneDrive 獨立選項包括 Office Online。若要查看搭配 Office Online 之 商務用 OneDrive 所含的功能，請參閱 [商務用 OneDrive 服務說明](../onedrive-for-business-service-description.md)。
+商務用 OneDrive (先前稱為 SkyDrive Pro) 適用於公司員工的個人線上儲存空間。 在這裡，使用者可以輕鬆並安全地跨多個裝置來儲存、同步及分享工作檔案。 商務用 OneDrive 隨附於 SharePoint Online，但也可以作為獨立計劃另外購買。 商務用 OneDrive 獨立選項包括適用于 web 的 Office。 若要查看商務用 OneDrive 與 Office 網頁版中包含的功能, 請參閱[商務用 Onedrive 服務說明](../onedrive-for-business-service-description.md)。
   
 ## <a name="sharepoint-online-enterprise-external-users"></a>SharePoint Online Enterprise 外部使用者
 
@@ -130,7 +130,7 @@ Microsoft 所管理的 SharePoint Online 服務有一些限制, 例如網站集�
 |[跨網站發佈](content.md#cross-site-publishing) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |[設計管理員](content.md#design-manager) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[文件組](content.md#document-sets) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Word Online 中的文件翻譯](content.md#document-translation-in-word-online) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[網頁版 Word 中的檔翻譯](content.md#document-translation-in-word-for-the-web) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[eDiscovery 搜尋](content.md#ediscovery-search) <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是  <br/> |是  <br/> |
 |[eDiscovery 保留](content.md#ediscovery-hold) <br/> |無<sup>6</sup> <br/> |無<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |無<sup>6</sup> <br/> |是<sup>6</sup> <br/> |無<sup>6</sup> <br/> |否  <br/> |是  <br/> |
 |[eDiscovery 匯出](content.md#ediscovery-export) <br/> |無<sup>6</sup> <br/> |無<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |無<sup>6</sup> <br/> |是<sup>6</sup> <br/> |無<sup>6</sup> <br/> |否  <br/> |是  <br/> |
@@ -145,8 +145,8 @@ Microsoft 所管理的 SharePoint Online 服務有一些限制, 例如網站集�
 |[受管理的中繼資料服務](content.md#managed-metadata-service) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[中繼資料驅動的導覽](content.md#metadata-driven-navigation) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[多階段處理](content.md#multi-stage-disposition) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office Online (建立/編輯)](content.md#office-online-createedit) <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是<sup>15</sup> <br/> |是  <br/> |是  <br/> |
-|[Office Online (檢視)](content.md#office-online-view) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[適用于 web 的 Office (建立/編輯)](content.md#office-for-the-web-createedit) <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是<sup>15</sup> <br/> |是  <br/> |是  <br/> |
+|[網頁版 Office (view)](content.md#office-for-the-web-view) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 專業增強版  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[Office Web Apps Server 整合](content.md#office-web-apps-server-integration) <br/> |包含  <br/> |包含  <br/> |包含  <br/> |包含  <br/> |包含  <br/> |包含  <br/> |包含  <br/> |是  <br/> |是  <br/> |
 |[保存保留庫](content.md#preservation-hold-library) <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |
@@ -250,7 +250,7 @@ Microsoft 所管理的 SharePoint Online 服務有一些限制, 例如網站集�
 <sup>11</sup> 只有簡體中文和英文版說明。 <br/> <sup>12</sup> 無法新增部落格的註解。 <br/> 
 <sup>13</sup> 組織社群網站可以使用，但公用社群提供的說明無法使用。 <br/>
 <sup>14</sup> 不支援 Access 2010。 <br/> 
-<sup>15</sup> Office Online 的 F1 使用者應該可以存取 Office Online (動態磚) 來進行內容建立。 不過，它們有一些與核心商業行動應用程式相關聯的限制。 包括下列項目：Yammer、StaffHub、Microsoft Teams、商務用 Skype、SharePoint 和 Groups。 **不**包含下列專案: Outlook、Word、Excel、PowerPoint 及 OneNote。<br/> 
+<sup>15</sup>對於網頁版 Office, F1 使用者應該能夠存取網頁版 office (活磚) 來建立內容。 不過，它們有一些與核心商業行動應用程式相關聯的限制。 包括下列項目：Yammer、StaffHub、Microsoft Teams、商務用 Skype、SharePoint 和 Groups。 **不**包含下列專案: Outlook、Word、Excel、PowerPoint 及 OneNote。<br/> 
 <sup>16</sup>包含使用者程式碼的 InfoPath 表單 (沙箱) 只能在 infopath 豐富型用戶端中使用。 <br/>
 <sup>17</sup> Visio Online 耗用 (view 功能) 免費提供。 Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md).  <br/>
 <sup>18</sup> F1 使用者可以在混合式設定中存取 SharePoint Server, 但 Office 365 F1 不包含可存取伺服器的 CAL 許可權;這些權利必須另外購買。 <br/>

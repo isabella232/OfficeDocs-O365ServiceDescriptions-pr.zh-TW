@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: 412cb8cb53d6bea409488b2e6af8a60953813c67
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: 02ac59da3fc447cd123335cdc87aec78736b02d1
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742142"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131317"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -47,7 +47,7 @@ Microsoft 不直接營運此項服務。由 21Vianet 營運、提供並管理服
 |SharePoint Online  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |商務用 OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> |
 |商務用 Skype Online  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|網頁版 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 專業增強版  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |線上專案<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Power BI  <br/> |否 <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |否 <br/> |否 <br/> |
@@ -210,7 +210,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <sup>12</sup> 部分 TechNet 內容可能不適用於由 21Vianet 運作的 Office 365。<br/>
 <sup>13</sup> 體驗品質下降。 If your organization is dependent upon Internet Explorer 8 or Internet Explorer 9 to access older web apps and services, you may want to consider upgrading to Internet Explorer 11 and evaluating Enterprise Mode for Internet Explorer 11. This update helps provide better backward compatibility for legacy web apps. <br/>
 <sup>14</sup> Outlook 行動裝置 (IOS 和 Android) 中目前不支援多重要素驗證。 <br/>
-<sup>15</sup> OneNote 課程筆記本是透過 21Vianet 提供，但 Windows 10 應用程式、iPad 或 OneNote e Online 則不提供 OneNote 課程筆記本工具列。
+<sup>15</sup> OneNote 課程筆記本是透過 21Vianet 提供，但 Windows 10 應用程式、iPad 或網頁版 OneNote e 則不提供 OneNote 課程筆記本工具列。
   
 ## <a name="office-365-application-features"></a>Office 365 應用程式功能
 <a name="BM3_OfficeApp"> </a>
@@ -285,26 +285,26 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>9</sup> 如果您在目前通道或目標發行的順延通道上，則目前即可使用 Access。 如果您在順延通道上，則可在 2017 年 6 月存取 Access。 如需詳細資訊，請參閱 [Access 隨附在 Office 365 商務版和商務進階版中](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)。
 <br/><sup>10</sup> Visio Online 目前正由 21Vianet 運作的 Office 365 進行預覽。 如需 Visio Online 的詳細資訊，請參閱[Visio Online 服務說明 (翻譯說明)](../visio-online-service-description/visio-online-service-description.md)。 
 <br/><sup>11</sup> 由 21Vianet 營運的 Office 365 即將推出。 
-<br/><sup>15</sup> 無法在中國取得 Google 服務 (包括 Play 商店)。 使用著可以從幾個由主要電話製造商或搜尋引擎公司維護的網路程式商店，安裝行動應用程式。
+<br/><sup>15</sup> 無法在中國取得 Google 服務 (包括 Play 商店)。 使用者可以從幾個由主要電話製造商或搜尋引擎公司維護的網路程式商店，安裝行動應用程式。
   
-## <a name="office-online-features"></a>Office Online 功能
+## <a name="office-for-the-web-features"></a>網頁版 Office 的功能
 <a name="BM4_OfficeOnline"> </a>
 > [!NOTE]
-> 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。<br/>
+> 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。 <br/>
   
-下表提供了 Office Online 功能和具備豐富功能的 Microsoft Office 桌面應用程式比較的連結。使用此比較表以了解 Office Online 提供的可用功能，然後按一下功能名稱，即可參閱該功能的簡介。
+下表提供網頁版 Office Online 功能和具備豐富功能的 Microsoft Office 桌面應用程式比較的連結。 使用此比較表了解網頁版 Office 提供的功能，然後按一下功能名稱，即可閱讀該功能的簡短描述。
 > [!NOTE]
 >- Office 桌面套件涵蓋了 Office 的有限精選功能，提供進階功能讓您運用。此比較表未完整列出 Microsoft Office 的功能。 
 >- Microsoft Office 365 ProPlus 是最新版 Office 桌面套件推出的每月訂閱產品項目。 
->- 如果 Microsoft Office Web Apps Server 2013 內部部署客戶已購買 Office 桌面套件授權 (例如：Office Professional Plus、Office Standard 或 Office 365 ProPlus 授權)，則可取得 Office Online 的編輯授權。<br/>
+>- 如果 Microsoft Office Web Apps Server 2013 內部部署客戶已購買 Office 桌面套件授權 (例如：Office Professional Plus、Office Standard 或 Office 365 ProPlus 授權)，則可取得網頁版 Office 的編輯授權。<br/>
 
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**由 21Vianet 運作的Office Online** <br/> |**連結至詳細的功能比較** <br/> |
-|Word  <br/> |由 21Vianet 運作的 Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |由 21Vianet 運作的 Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |由 21Vianet 運作的 OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |由 21Vianet 運作的 PowerPoint Online  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
+|**應用程式** <br/> |**由 21Vianet 所提供的網頁版 Office** <br/> |**連結至詳細的功能比較** <br/> |
+|Word  <br/> |由 21vianet 所提供的網頁版 Word  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |由 21Vianet 所提供的網頁版 Excel  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |由 21Vianet 所提供的網頁版 OneNote  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |由 21Vianet 所提供的網頁版 PowerPoint  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
    
 ## <a name="exchange-online-features"></a>Exchange Online 功能
 <a name="BM5_ExchangeOnline"> </a>
@@ -657,7 +657,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Content Organizer](../sharepoint-online-service-description/content.md#content-organizer) <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Design Manager](../sharepoint-online-service-description/content.md#design-manager) <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Document Sets](../sharepoint-online-service-description/content.md#document-sets) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Document Translation in Word Online](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|[網頁版 Word 的文件翻譯](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[eDiscovery Search](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |是<sup>6</sup> <br/> |是  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |
 |[eDiscovery Hold](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |否<sup>6</sup> <br/> |否  <br/> |否<sup>6</sup> <br/> |否<sup>6</sup> <br/> |否<sup>6</sup> <br/> |是<sup>6</sup> <br/> |否<sup>6</sup> <br/> |
 |[eDiscovery Export](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |否<sup>6</sup> <br/> |否  <br/> |否<sup>6</sup> <br/> |否  <br/> |否<sup>6</sup> <br/> |是<sup>6</sup> <br/> |否<sup>6</sup> <br/> |
@@ -672,8 +672,8 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[受管理的中繼資料服務](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Metadata-driven Navigation](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Multi-stage Disposition](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office Online (建立/編輯)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>8</sup> <br/> |
-|[Office Online (view)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[網頁版 Office (建立/編輯)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>8</sup> <br/> |
+|[網頁版 Office (檢視)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office ProPlus (Osub)  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |[Office Web Apps Server integration](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |PowerPoint Automation Services <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
@@ -737,7 +737,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Manage search schema](../sharepoint-online-service-description/search.md#manage-search-schema) <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |內部部署的搜尋索引 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[Phonetic name matching](../sharepoint-online-service-description/search.md#phonetic-name-matching) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[查詢規則增加升級的查詢結果](../sharepoint-online-service-description/search.md#query-rulesadd-promoted-results) <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[查詢規則增加升級的查詢結果](../sharepoint-online-service-description/search.md#query-rulesadd-promoted-results) <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Query rules—advanced actions](../sharepoint-online-service-description/search.md#query-rulesadvanced-actions) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |[Query spelling correction](../sharepoint-online-service-description/search.md#query-spelling-correction) <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Query suggestions](../sharepoint-online-service-description/search.md#query-suggestions) <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |

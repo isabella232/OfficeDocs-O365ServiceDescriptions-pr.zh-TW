@@ -1,5 +1,5 @@
 ---
-title: Office Online 服務說明
+title: Web 服務說明的 Office
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,37 +11,37 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office Online (先前稱為 Office Web Apps) 會在您的網頁瀏覽器中開啟 Word、Excel、OneNote 和 PowerPoint 檔。 Office Online 讓您輕鬆藉由網際網路連線，從任何地點透過幾乎任何裝置來使用和共用 Office 檔案。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客戶可以在旅途中查看、建立及編輯檔案。
-ms.openlocfilehash: 0065dddd87d366692ab4e7727653017e2636a786
-ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
+description: 網頁版 office (先前稱為 Office Web Apps) 會在網頁瀏覽器中開啟 Word、Excel、OneNote 和 PowerPoint 檔。 Office for web 可讓您從幾乎任何的裝置都能輕鬆地從任何地方使用網際網路連線來進行 Office 檔案。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客戶可以在旅途中查看、建立及編輯檔案。
+ms.openlocfilehash: 014e0544fb6095e9ddfa0009fe94759ffd09da60
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35018305"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131237"
 ---
-# <a name="office-online-service-description"></a>Office Online 服務說明
+# <a name="office-for-the-web-service-description"></a>Web 服務說明的 Office
 
-Office Online (先前稱為 Office Web Apps) 會在您的網頁瀏覽器中開啟 Word、Excel、OneNote 和 PowerPoint 檔。 Office Online 讓您輕鬆藉由網際網路連線，從任何地點透過幾乎任何裝置來使用和共用 Office 檔案。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客戶可以在旅途中查看、建立及編輯檔案。 
+網頁版 office (先前稱為 Office Web Apps) 會在網頁瀏覽器中開啟 Word、Excel、OneNote 和 PowerPoint 檔。 Office for web 可讓您從幾乎任何的裝置都能輕鬆地從任何地方使用網際網路連線來進行 Office 檔案。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客戶可以在旅途中查看、建立及編輯檔案。 
   
 若要跨方案比較功能，請參閱[比較 Office 365 for Business 方案](https://products.office.com/business/compare-more-office-365-for-business-plans)。
   
-## <a name="feature-availability-across-office-online-plans"></a>各 Office Online 計劃中可用的功能
+## <a name="feature-availability-across-office-for-the-web-plans"></a>不同 Office for web 方案的功能可用性
 <a name="bkmk_FeatureavailabilityO365"> </a>
 
-需要協助找出最適合組織需求的 Office 解決方案嗎？ 下表將 Office Online 功能與功能豐富的 Microsoft Office 桌面應用程式進行比較。 使用表格來探索 Office Online 中提供的功能, 然後按一下功能名稱, 即可閱讀該功能的簡短說明。 您可能會發現, 您組織中的某些人員需要 Excel 桌面應用程式的高級圖表功能, 而其他人只需要使用 Office Online 來觀看和輕輕輕編輯 Word 檔和 PowerPoint 簡報。 
+需要協助找出最適合組織需求的 Office 解決方案嗎？ 下表將 web 功能的 Office 與功能豐富的 Microsoft Office 桌面應用程式進行比較。 使用表格來探索適用于網頁的 Office 功能, 然後按一下功能名稱, 即可閱讀有關該功能如何運作的簡短說明。 您可能會發現, 您組織中的某些人員需要 Excel 桌面應用程式的高級圖表功能, 而其他人只需要使用 Office 網頁版來查看和輕輕編輯 Word 檔和 PowerPoint 簡報。 
   
 > [!NOTE]
->  Office 桌面套件涵蓋了 Office 的有限精選功能，提供進階功能讓您運用。 這些表格並不是 Microsoft Office 功能的完整清單。 <br/>  Microsoft Office 365 ProPlus 是最新版 Office 桌面套件推出的每月訂閱產品項目。 <br/>  如果 Microsoft Office Online Server 內部部署客戶已購買 Office 桌面套件授權 (例如: Office Professional Plus、Office Standard 或 Office 365 專業增強版授權), 則會取得 Office Online 的編輯授權。 
+>  Office 桌面套件涵蓋了 Office 的有限精選功能，提供進階功能讓您運用。 這些表格並不是 Microsoft Office 功能的完整清單。 <br/>  Microsoft Office 365 ProPlus 是最新版 Office 桌面套件推出的每月訂閱產品項目。 <br/>  如果 Microsoft Office Online Server 內部部署客戶已購買 Office 桌面套件授權 (例如: Office Professional Plus、Office Standard 或 Office 365 專業增強版授權), 則會取得適用于 web 編輯授權的 Office。 
   
 > [!NOTE]
-> 當您開啟 Office 文件時，無論其為 Outlook 電子郵件的附件或來自 SharePoint 文件庫，該文件都會在 Office Online 中啟動，且為唯讀模式。若要在 Office Online (編輯模式) 中編輯文件，您需要 Office 365 套件授權 (如 Office 365 企業版 E1)。若要在桌面應用程式中編輯文件，您需要 Office 桌面套件授權 (如 Office 365 ProPlus 訂閱) 或 Office Professional Plus 2010 的安裝版本。 
+> 當您以 Outlook 電子郵件附件或從 SharePoint 文件庫開啟 Office 檔時, 檔會在 Office 中啟動, 而且將會是唯讀的。 若要編輯網頁版 Office 中的檔 (編輯模式), 您需要 Office 365 套件授權, 例如 Office 365 企業版 E1。 若要在桌面應用程式中編輯文件，您需要 Office 桌面套件授權 (如 Office 365 ProPlus 訂閱) 或 Office Professional Plus 2010 的安裝版本。 
   
 ### <a name="word"></a>Word
 <a name="BKMK_WordFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
-|**應用程式功能** <br/> |**Word Online** <br/> |**Word 桌面應用程式** <br/> |
+|**應用程式功能** <br/> |**Word for web** <br/> |**Word 桌面應用程式** <br/> |
 |[對齊方式指南和即時配置](word-online.md#alignment-guides-and-live-layout) <br/> |否  <br/> |是  <br/> |
 |[套用樣式](word-online.md#apply-styles) <br/> |是  <br/> |是  <br/> |
 |[自動儲存](word-online.md#autosave) <br/> |是  <br/> |是  <br/> |
@@ -110,7 +110,7 @@ Office Online (先前稱為 Office Web Apps) 會在您的網頁瀏覽器中開�
 |[縮放](word-online.md#zoom) <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>在 viewer 中呈現, 但是您無法在 Office Online 中建立或編輯這些轉譯。 <br/>
+> <sup>1</sup>在 viewer 中呈現, 但是您無法在網頁版 Office 中建立或編輯這些轉譯。 <br/>
 > <sup>2</sup>可使用部分但非全部的 Office 增益集。 <br/>
   
 ### <a name="excel"></a>Excel
@@ -118,7 +118,7 @@ Office Online (先前稱為 Office Web Apps) 會在您的網頁瀏覽器中開�
 
 ||||
 |:-----|:-----|:-----|
-|**應用程式功能** <br/> |**Excel Online** <br/> |**Excel 桌面應用程式** <br/> |
+|**應用程式功能** <br/> |**Web 的 Excel** <br/> |**Excel 桌面應用程式** <br/> |
 |[協助工具檢查程式](excel-online.md#add-hyperlinks) <br/> |是  <br/> |是  <br/> |
 |[新增背景色彩至工作表索引標籤](excel-online.md#add-background-color-to-sheet-tabs) <br/> |是  <br/> |是  <br/> |
 |[新增超連結](excel-online.md#add-hyperlinks) <br/> |是  <br/> |是  <br/> |
@@ -194,9 +194,9 @@ Office Online (先前稱為 Office Web Apps) 會在您的網頁瀏覽器中開�
 
 > [!NOTE] 
 > <sup>1</sup>無法建立樞紐分析圖, 僅限視圖。
- <br/><sup>2</sup>根據您的環境設定方式而定, Excel Online 中所顯示的活頁簿支援某些類型的資料連線。 如需詳細資訊，請參閱 在瀏覽器視窗中重新整理活頁簿的資料。 
- <br/><sup>3</sup>您無法在 Excel Online 中使用 VBA 建立宏, 但是您可以開啟和編輯已啟用 vba 的試算表, 而不會移除 (或損毀) 檔案中包含的 vba。
- <br/><sup>4</sup>在 Excel Online 中, 最後一個已知的參考值會顯示在瀏覽器視窗中;不過, 它必須使用 Excel 桌面應用程式進行更新。 
+ <br/><sup>2</sup>根據您的環境設定方式而定, 網頁版 Excel 中所顯示的活頁簿支援某些資料連線類型。 如需詳細資訊，請參閱 在瀏覽器視窗中重新整理活頁簿的資料。 
+ <br/><sup>3</sup>您無法在 Excel 的 Excel 中建立含有 vba 的宏, 但是您可以開啟和編輯已啟用 vba 的試算表, 而不會移除 (或損毀) 檔案中包含的 vba。
+ <br/><sup>4</sup>在 Excel 網頁版中, 最後一個已知的參考值會顯示在瀏覽器視窗中。不過, 它必須使用 Excel 桌面應用程式進行更新。 
  <br/><sup>5</sup> 可使用部份但非全部的 Office 增益集。 
   
 ### <a name="onenote"></a>OneNote
@@ -204,7 +204,7 @@ Office Online (先前稱為 Office Web Apps) 會在您的網頁瀏覽器中開�
 
 ||||
 |:-----|:-----|:-----|
-|**應用程式功能** <br/> |**OneNote Online** <br/> |**OneNote 桌面應用程式** <br/> |
+|**應用程式功能** <br/> |**Web 版 OneNote** <br/> |**OneNote 桌面應用程式** <br/> |
 |[進階的共同作業：將新內容顯示為未讀取、顯示狀態](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |否  <br/> |是  <br/> |
 |[套用標籤](onenote-online.md#apply-tags) <br/> |是  <br/> |是  <br/> |
 |[項目符號和編號](onenote-online.md#bullets-and-numbering) <br/> |是  <br/> |是  <br/> |
@@ -244,7 +244,7 @@ Office Online (先前稱為 Office Web Apps) 會在您的網頁瀏覽器中開�
 |[檢視先前的頁面版本](onenote-online.md#view-previous-page-versions) <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>在 OneNote Online 中, 您可以移動筆記本中的區段, 並將頁面從一個區段複製並貼到另一個區段。 
+> <sup>1</sup>在 OneNote 網頁版中, 您可以移動筆記本中的區段, 並將頁面從一個區段複製並貼到另一個區段。 
  <br/> <sup>2</sup>可使用部分但非全部的 Office 增益集。 
  <br/><sup>3</sup>您可以搜尋頁面或區段, 但不是整個筆記本或跨筆記本 (您可以在桌上出版本中進行)。 
  <br/><sup>4</sup>在桌上出版本中, 沒有「下載」選項, 但您可以另存為其他位置。 
@@ -254,7 +254,7 @@ Office Online (先前稱為 Office Web Apps) 會在您的網頁瀏覽器中開�
 
 ||||
 |:-----|:-----|:-----|
-|**應用程式功能** <br/> |**PowerPoint Online** <br/> |**PowerPoint 桌面應用程式** <br/> |
+|**應用程式功能** <br/> |**Web 版 PowerPoint** <br/> |**PowerPoint 桌面應用程式** <br/> |
 |[對齊方式、項目符號、編號](powerpoint-online.md#alignment-bullets-numbers) <br/> |是  <br/> |是  <br/> |
 |[套用基本切換和動畫效果](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |是<sup>1</sup> <br/> |是  <br/> |
 |[將豐富格式套用至文字、形狀和圖片](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |否  <br/> |是  <br/> |
@@ -300,13 +300,13 @@ Office Online (先前稱為 Office Web Apps) 會在您的網頁瀏覽器中開�
 |[WYSIWYG 的檢視](powerpoint-online.md#wysiwyg-viewing) <br/> |是  <br/> |是  <br/> |
 
 > [!NOTE]   
-><sup>1</sup> PowerPoint Online 支援8個轉換和37動畫的圖庫。 若要進行較大的選擇或建立自訂動畫, 請使用 PowerPoint 桌面應用程式。 
+><sup>1</sup>個適用于 web 的 PowerPoint 支援具有八個轉換和37動畫的圖庫。 若要進行較大的選擇或建立自訂動畫, 請使用 PowerPoint 桌面應用程式。 
  <br/>
 <sup>2</sup>您正在處理的裝置必須支援筆跡。 <br/> 
 <sup>3</sup>部分但非全部的 Office 增益集可供使用。 <br/>
 <sup>4</sup>您無法建立樞紐分析圖或樞紐分析表, 但是您可以在檢視器中看到它們。 
   
-## <a name="supported-file-types-for-office-online"></a>Office Online 支援的檔案類型
+## <a name="supported-file-types-for-office-for-the-web"></a>適用于 web 的 Office 支援的檔案類型
 <a name="bkmk_SupportedFileTypes"> </a>
 
 ||||

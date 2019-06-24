@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
-description: Microsoft SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列的網站功能提供了一整套的工具，讓您的組織可以用來建立各種類形的網站，還有一個能簡化網站管理的單一基礎架構。 如需詳細資訊，請參閱尋找有關 SharePoint Online 的內容。
-ms.openlocfilehash: 752213c8b17cfefdbcbecbf661f2545ba298afb7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: Microsoft SharePoint Online 是一組 Web 工具和技術, 可協助您的組織儲存、共用及管理數位資訊。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列的網站功能提供了一整套的工具，讓您的組織可以用來建立各種類形的網站，還有一個能簡化網站管理的單一基礎架構。 如需詳細資訊，請參閱尋找有關 SharePoint Online 的內容。
+ms.openlocfilehash: a3d4ac4bab7755f1e01c942e18318a6f9bfd8266
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342482"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130867"
 ---
 # <a name="sites"></a>網站
 
-Microsoft SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列的網站功能提供了一整套的工具，讓您的組織可以用來建立各種類形的網站，還有一個能簡化網站管理的單一基礎架構。 如需詳細資訊，請參閱[尋找有關 SharePoint Online 的內容](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7)。
+Microsoft SharePoint Online 是一組 Web 工具和技術, 可協助您的組織儲存、共用及管理數位資訊。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列的網站功能提供了一整套的工具，讓您的組織可以用來建立各種類形的網站，還有一個能簡化網站管理的單一基礎架構。 如需詳細資訊，請參閱[尋找有關 SharePoint Online 的內容](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7)。
   
 ## <a name="cross-browser-support"></a>Cross Browser Support
 <a name="bkmk_CrossBrowserSupport"> </a>
@@ -86,12 +86,12 @@ SharePoint 的權限非常有彈性，其設定彈性相當充足，足以讓組
 
 選取網站範本以作為網站基調，是您在 SharePoint 建立新網站的第一步。網站範本包含清單、文件庫、網頁和其他支援組織需求的元件或功能。深入了解[自訂您的小組網站](https://go.microsoft.com/fwlink/?LinkId=271058)。
   
-## <a name="site-themes-change-the-look"></a>網站佈景主題 （變更外觀）
+## <a name="site-themes-change-the-look"></a>網站主題 (變更外觀)
 <a name="bkmk_Themes"> </a>
 
 您可以快速地自訂您的小組網站，使其更容易使用，並能顯示您的專業風格和品牌特徵。主題是可以對網站快速套用顏色和字型的方式。
   
-## <a name="site-usage-page"></a>網站使用狀況] 頁面上
+## <a name="site-usage-page"></a>網站使用狀況頁面
 <a name="bkmk_UsageAnalytics"> </a>
 
 Web Analytics 報表是 SharePoint 中的內建報表功能，它使用流量資料來分析網站與網站集合的各個層面。 
@@ -104,7 +104,7 @@ Web Analytics 報表是 SharePoint 中的內建報表功能，它使用流量資
 ## <a name="team-notebook"></a>小組筆記本
 <a name="bkmk_TeamSiteNotebook"> </a>
 
-當您建立小組網站時，系統會自動產生一個 OneNote 2013 共用的筆記本，以作為網站的一部分。您可以利用此筆記本來擷取、編譯和共用資訊。(只有當您註冊一套包含 Office Online 支援的 Office 365 套件時，才可以使用這項功能。 )
+當您建立小組網站時, 會自動將 OneNote 2013 共用筆記本建立為網站的一部分。 您可以使用此筆記本來捕獲、編譯及共用資訊。 (只有在您註冊的 Office 365 套件包含 web 支援的 Office 時, 才可使用此功能。)
   
 ## <a name="variations"></a>Variations
 <a name="bkmk_Variations"> </a>
