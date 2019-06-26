@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 尋找適用於 Office 365 企業版方案及獨立方案的 SharePoint Online 限制。
-ms.openlocfilehash: dffe3f3ddbc68e286ce03d79e72e56e4fd3322b2
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: 2e99bcd4ed05f345757323359350a00161780b03
+ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780662"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35233530"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 限制 
 
@@ -53,9 +53,10 @@ ms.locfileid: "34780662"
 
 - **版本** - 50,000 個主要版本和 511 個次要版本。
 
-- **SharePoint 群組** - 使用者可屬於 5,000 個群組，每個群組最多可有 5,000 個使用者。 每個小組集合最多考包含 10,000 個群組。
-
-- **受管理的中繼資料**-200,000 字詞庫中的字詞、1000 全域字詞組，以及 1000 個群組。
+- **SharePoint 群組** - 使用者可屬於 5,000 個群組，每個群組最多可有 5,000 個使用者。 每個網站集合最多可以有 10,000 個群組。
+    > [!NOTE]
+    > 針對 Azure AD 群組限制，請參閱 [Azure AD 服務限制](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-service-limits-restrictions)，因為這類限制可能會影響公用和私人群組網站成員資格管理。 
+- **受管理的中繼資料** - 字詞庫中 200,000 個字詞、1000 個全域字詞組，以及 1000 個群組。
 
 - **子網站** - 每個網站集合 2,000 個。
 
@@ -64,10 +65,8 @@ ms.locfileid: "34780662"
 - **每個清單或文件庫唯一的安全性範圍** - 5,000。 針對大型清單，請設計儘可能最少的唯一權限數。
 
 - **使用者** - 每個網站集合最多 200 萬個使用者。
-
-> [!NOTE]
-> 邀請參加 SharePoint 網站集合的的訪客數量沒有限制。 如需外部共用的詳細資訊，請參閱[外部共用概觀](https://docs.microsoft.com/sharepoint/external-sharing-overview)。
-
+    > [!NOTE]
+    > 邀請參加 SharePoint 網站集合的的訪客數量沒有限制。 如需外部共用的詳細資訊，請參閱[外部共用概觀](https://docs.microsoft.com/sharepoint/external-sharing-overview)。
 ## <a name="see-also"></a>另請參閱
 
 [SharePoint Online 的搜尋限制](https://docs.microsoft.com/sharepoint/search-limits)
