@@ -3,7 +3,6 @@ title: 支援
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/07/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,21 +13,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: 針對所有 Microsoft Office 365 Enterprise、Business、Education 和 Government 訂閱，Microsoft 支援團隊均提供全球技術、售前、帳單和訂閱支援。 支援可同時上線打電話付費或試用版訂閱與透過 Office 365 入口網站。 如需詳細資訊，請參閱〈Office 365 支援選項〉。
-ms.openlocfilehash: 42fd0a816f55f988cab77c2e1b883b4c8902dbae
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: 針對所有 Microsoft Office 365 Enterprise、Business、Education 和 Government 訂閱，Microsoft 支援團隊均提供全球技術、售前、帳單和訂閱支援。 線上透過 Office 365 入口網站和電話提供付費和試用版訂閱的支援。 如需詳細資訊，請參閱〈Office 365 支援選項〉。
+ms.openlocfilehash: b8b58896d4b4ea935e94c6cc019f937a51b56cd0
+ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343132"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35233510"
 ---
 # <a name="support"></a>支援
 
-針對所有 Microsoft Office 365 Enterprise、Business、Education 和 Government 訂閱，Microsoft 支援團隊均提供全球技術、售前、帳單和訂閱支援。 支援可同時上線打電話付費或試用版訂閱與透過 Office 365 入口網站。 如需詳細資訊，請參閱〈[Office 365 支援選項](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)〉。
+針對所有 Microsoft Office 365 Enterprise、Business、Education 和 Government 訂閱，Microsoft 支援團隊均提供全球技術、售前、帳單和訂閱支援。 線上透過 Office 365 入口網站和電話提供付費和試用版訂閱的支援。 如需詳細資訊，請參閱〈[Office 365 支援選項](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)〉。
   
 授權的管理員可使用 Office 365 入口網站來線上提交服務要求、存取支援電話號碼，以及檢視所有未處理和最近已結案的服務要求。在 Office 365 入口網站中提交的服務要求，可在要求結案後重新開啟最長達 14 天之久。如需相關指示，請參閱〈[連絡商務用 Office 365 支援人員](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)〉。
   
-O365 技術支援小組僅疑難排解與 Office 365 相關的問題。來自客戶網路的問題不在 Office 365 支援範圍內，在這些情況下，客戶必須與其網路小組協同作業或參與 [Microsoft 網路小組](https://support.microsoft.com/en-us/gp/contactus81?Audience=Commercial)以取得協助。
+O365 技術支援小組僅疑難排解與 Office 365 相關的問題。來自客戶網路的問題不在 Office 365 支援範圍內，在這些情況下，客戶必須與其網路小組協同作業或參與 [Microsoft 網路小組](https://support.microsoft.com/gp/contactus81?Audience=Commercial)以取得協助。
   
 ## <a name="community-and-self-service-support-options"></a>社群和自助支援選項
 
@@ -66,9 +65,9 @@ Office 365 訂閱的技術支援提供基本安裝、設定和一般技術使用
 |組態  <br/> | 服務設定失敗問題  <br/>  佈建問題  <br/>  網域設定和重新委派  <br/>  服務設定問題  <br/>  單一登入 (SSO)  <br/>  Active Directory 同步處理  <br/> |
 
 > [!NOTE]
-> 您可以了解如何連絡技術支援以下：[連絡商務用 Office 365 支援](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)。
+> 您可以在這裡瞭解如何聯繫技術支援:[聯繫商務用 Office 365 支援](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)人員。
 >
-> Office 365 的技術支援不包括疑難排解協力廠商服務或新增寫了解如何在[Microsoft 社群](https://go.microsoft.com/fwlink/p/?LinkID=617897)中尋找其他客戶的答案。
+> Office 365 的技術支援不包括協力廠商服務或增益集的疑難排解。瞭解如何從[Microsoft 社區](https://answers.microsoft.com)中的其他客戶尋找答案。
   
 ### <a name="technical-support-case-handling"></a>技術支援案例的處理
 
@@ -86,16 +85,16 @@ Office 365 訂閱的技術支援提供基本安裝、設定和一般技術使用
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**嚴重層級** <br/> |**Office 365 商務基本版<sup>1</sup>** <br/> **Office 365 商務版<sup>1</sup>** <br/> **Office 365 商務進階版<sup>1</sup>** <br/> **Office 365 教育版<sup>1</sup>** <br/> |**Office 365 企業版 E1<sup>2</sup>** <br/> **Office 365 企業版 E3<sup>2</sup>** <br/> **Office 365 政府 G2<sup>2</sup>** <br/> **Office 365 美國政府版 E3<sup>2</sup>** <br/> |**Office 365 企業版 F1<sup>2</sup>** <br/> **Office 365 美國政府版 K1<sup>2</sup>** <br/> |**較高的支援選項<sup>3</sup>** <br/> |
+|**嚴重層級** <br/> |**Office 365 商務基本版<sup>1</sup>** <br/> **Office 365 商務版<sup>1</sup>** <br/> **Office 365 商務版 Premium<sup>1</sup>** <br/> |**Office 365 企業版 E1<sup>2</sup>** <br/> **Office 365 企業版 E3<sup>2</sup>** <br/> **Office 365 政府 G2<sup>2</sup>** <br/> **Office 365 美國政府版 E3<sup>2</sup>** <br/> **Office 365 教育版<sup>2</sup>** <br/> |**Office 365 企業版 F1<sup>2</sup>** <br/> **Office 365 美國政府 K1<sup>2</sup>** <br/> |**較高的支援選項<sup>3</sup>** <br/> |
 | 嚴重度 A (重大)  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：1 小時  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：1 小時  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：1 小時  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：1 小時  <br/> |
 |嚴重度 B (高)  <br/> |可用：上班時間  <br/> 回應時間：未承諾  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：明天  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：明天  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：2 小時  <br/> |
 |嚴重度 C (中)  <br/> |可用：上班時間  <br/> 回應時間：未承諾  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：未承諾  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：未承諾  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：4 小時  <br/> |
 
 > [!NOTE]
-> <sup>1</sup>商務計畫包含上班時間支援所有非重大問題和 24/7 電話支援從 Microsoft。<br/>
-> <sup>2</sup>企業計劃包含 Microsoft 的所有問題皆適用的 24/7 電話支援。<br/>
-> <sup>3</sup>如需提升權限的說明支援選項，請參閱[其他支援選項](support.md#additional-support-options)。<br/>
-> <sup>4</sup>全天候接聽電話和服務要求在大部分的國家和地區中的每週 7 天，每天 24 小時。
+> <sup>1</sup>商務方案包含 Microsoft 的所有非重大問題和24/7 電話支援的上班時間支援。<br/>
+> <sup>2</sup>企業版方案包含 Microsoft 的24/7 電話支援, 以解決所有問題。<br/>
+> <sup>3</sup>如需更高支援選項的描述, 請參閱[其他支援選項](support.md#additional-support-options)。<br/>
+> <sup>4</sup>在大部分的國家和地區中, 每天24小時就會處理電話和服務要求。
   
 ### <a name="support-for-standalone-plans"></a>獨立計劃支援
 
@@ -103,7 +102,7 @@ Office 365 訂閱的技術支援提供基本安裝、設定和一般技術使用
   
 ### <a name="technical-support-languages"></a>技術支援語言
 
-依地點和語言而定，大部分區域的營業時間內，支援工程師均可提供支援，某些情況下 24 小時待命。如需詳細資訊，請參閱〈[國際電話號碼](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)〉和〈[Office 365 支援選項](https://go.microsoft.com/fwlink/p/?LinkID=279810)〉。如需另外的翻譯協助，支援工程師可直接在線上為您安排翻譯人員加入通話。
+依地點和語言而定，大部分區域的營業時間內，支援工程師均可提供支援，某些情況下 24 小時待命。如需詳細資訊，請參閱〈[國際電話號碼](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)〉和〈[Office 365 支援選項](https://products.office.com/business/office-365-for-business-support-options)〉。如需另外的翻譯協助，支援工程師可直接在線上為您安排翻譯人員加入通話。
   
 ## <a name="shared-support-responsibilities"></a>共用支援責任
 
@@ -113,7 +112,7 @@ Microsoft 了解即時提供合格專業人員的技術支援是雲端服務的�
 
 People with Office 365 administrator roles are the only ones in the customer's organization authorized to access the **Admin** section of the Office 365 portal and to communicate directly with Microsoft about Office 365 service requests.
   
-透過 Office 365 Enterprise 和 Office 365 商務版方案，您可以指派負責不同職責的不同類型管理員。此服務說明採用一般標題「管理員」來統稱所有類別的管理員。如需有關管理員角色類型的詳細資訊，請參閱〈[指派管理員角色](https://docs.microsoft.com/en-us/office365/admin/add-users/assign-admin-roles)〉。
+透過 Office 365 Enterprise 和 Office 365 商務版方案，您可以指派負責不同職責的不同類型管理員。此服務說明採用一般標題「管理員」來統稱所有類別的管理員。如需有關管理員角色類型的詳細資訊，請參閱〈[指派管理員角色](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)〉。
   
 管理員：
   
@@ -171,19 +170,19 @@ People with Office 365 administrator roles are the only ones in the customer's o
 
 提供了以下多種類型其他支援服務：
   
-- 如需尋找完整生命週期服務以支援大型企業客戶移轉至 Office 365 的適用選項，請參閱〈[Microsoft 的 Office 365 服務](https://go.microsoft.com/fwlink/p/?LinkID=279813)〉。
+- 如需尋找完整生命週期服務以支援大型企業客戶移轉至 Office 365 的適用選項，請參閱〈[Microsoft 的 Office 365 服務](https://www.microsoft.com/microsoftservices/cloud-productivity.aspx)〉。
 
-- 如需尋找涵蓋 Office 365 和內部部署技術的受管支援服務以存取線上服務的大型企業客戶的適用選項，請參閱 [Premier Support](http://go.microsoft.com/fwlink/?LinkID=279816&amp;clcid=0x409)。
+- 如需尋找涵蓋 Office 365 和內部部署技術的受管支援服務以存取線上服務的大型企業客戶的適用選項，請參閱 [Premier Support](https://www.microsoft.com/enterprise/services/support)。
 
-- 如需美國、加拿大及英國地區的較小型企業客戶的適用選項，請參閱〈[專業人員直接支援](https://go.microsoft.com/fwlink/?LinkId=398569)〉。
+- 如需美國、加拿大及英國地區的較小型企業客戶的適用選項，請參閱〈[專業人員直接支援](https://support.microsoft.com/help/4341255/support-for-business)〉。
 
 ### <a name="partners"></a>協力程式
 
-您可以選取 Microsoft 合作夥伴，並委派系統管理職責，包括建立服務要求票證。如需詳細資訊，請參閱[協力程式](partners.md)服務說明和〈[新增、變更或刪除訂閱顧問合作夥伴](https://docs.microsoft.com/en-us/office365/admin/misc/add-partner?view=o365-worldwide)〉。
+您可以選取 Microsoft 合作夥伴，並委派系統管理職責，包括建立服務要求票證。如需詳細資訊，請參閱[協力程式](partners.md)服務說明和〈[新增、變更或刪除訂閱顧問合作夥伴](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide)〉。
   
 ### <a name="developers"></a>開發人員
 
-開發人員可於 [MSDN Microsoft Developer Network](https://go.microsoft.com/fwlink/p/?LinkID=279814) 網站上進一步了解開發 Office 365 的 Office 和 SharePoint 應用程式。您可透過開發人員社群的線上部落格和論壇、頂級支援或合作夥伴支援資源，或直接連絡 Microsoft 來取得開發人員支援。如需開發人員支援選項的連結，請參閱〈 [支援資源](https://go.microsoft.com/fwlink/p/?LinkID=279819)〉。
+開發人員可於 [MSDN Microsoft Developer Network](https://developer.microsoft.com/office/docs) 網站上進一步了解開發 Office 365 的 Office 和 SharePoint 應用程式。您可透過開發人員社群的線上部落格和論壇、頂級支援或合作夥伴支援資源，或直接連絡 Microsoft 來取得開發人員支援。如需開發人員支援選項的連結，請參閱〈 [支援資源](https://developer.microsoft.com/office/docs)〉。
   
 > [!NOTE]
 > Office 365 小組不支援指令碼。如果您需要使用指令碼的協助，請連絡 [Microsoft 支援](https://support.microsoft.com/)。
@@ -192,14 +191,14 @@ People with Office 365 administrator roles are the only ones in the customer's o
 
 若您已從 Microsoft 購買了大量授權方案，請前往下列位置取得支援：
   
-- 如需授權和金鑰位置的相關支援，請前往〈[大量授權服務中心](https://go.microsoft.com/fwlink/p/?LinkID=282016)〉。
+- 如需授權和金鑰位置的相關支援，請前往〈[大量授權服務中心](https://www.microsoft.com/licensing/servicecenter/default.aspx)〉。
 
 - 如需技術支援，請參閱[技術支援](support.md#technical-support)。
 
 - 如有帳務問題，請參閱[帳務和訂閱管理支援](support.md#billing-and-subscription-management-support)。
 
-- 如需有關大量授權的一般資訊，請前往〈[大量授權](https://go.microsoft.com/fwlink/p/?LinkID=282015)〉。
+- 如需有關大量授權的一般資訊，請前往〈[大量授權](https://www.microsoft.com/licensing/default)〉。
 
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 規劃的功能可用性，請參閱 [Office 365 平台服務說明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)。
+若要檢視跨 Office 365 規劃的功能可用性，請參閱 [Office 365 平台服務說明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。
