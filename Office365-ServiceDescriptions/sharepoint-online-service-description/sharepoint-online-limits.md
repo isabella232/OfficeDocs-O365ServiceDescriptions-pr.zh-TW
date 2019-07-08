@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 尋找適用於 Office 365 企業版方案及獨立方案的 SharePoint Online 限制。
-ms.openlocfilehash: 2e99bcd4ed05f345757323359350a00161780b03
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: 30b31ab7ee10958791a2593f2f6f578a39837fa5
+ms.sourcegitcommit: 5ca550879a6bba16133a6103dc2b1ac19befa473
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233530"
+ms.lasthandoff: 07/07/2019
+ms.locfileid: "35581312"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 限制 
 
@@ -40,9 +40,9 @@ ms.locfileid: "35233530"
   
 ## <a name="service-limits-for-all-plans"></a>所有方案的服務限制
 
-- **清單和文件庫中的項目** - 一份清單最多可有 3 千萬個項目，而一個文件庫最多可有 3 千萬個檔案和資料夾。 100,000 個的項目新增至清單、文件庫或資料夾後，清單、文件庫或資料夾的權限繼承就無法變更。 若要深入了解檢視大型清單的其他限制，請參閱[管理 Office 365 中的大型清單和文件庫 (機器翻譯)](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)。 如需有關不能在檔案名稱中使用之字元的資訊，請參閱[檔案和資料夾名稱中的無效字元](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+- **清單和文件庫中的項目** - 一份清單最多可有 3 千萬個項目，而一個文件庫最多可有 3 千萬個檔案和資料夾。 100,000 個的項目新增至清單、文件庫或資料夾後，清單、文件庫或資料夾的權限繼承就無法變更。 若要深入了解檢視大型清單的其他限制，請參閱 [管理 Office 365 中的大型清單和文件庫](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)。 
 
-- **檔案大小及檔案路徑長度** - 15 GB。 如需使用新 OneDrive 同步處理用戶端限制的詳細資訊，請參閱 [OneDrive、商務用 OneDrive 和 SharePoint 中無效的檔案名稱和檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+- **檔案大小及檔案路徑長度** - 15 GB。 附加至清單項目的檔案大小上限為 250 MB。 若要深入了解使用新版 OneDrive 同步處理用戶端 (OneDrive.exe) 的限制之詳細資訊，請參閱 [無效的檔案名稱和檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
 
 - **移動和複製整個網站集合** - 每個作業 100 GB。 網頁瀏覽器必須保持開啟狀態。
 
