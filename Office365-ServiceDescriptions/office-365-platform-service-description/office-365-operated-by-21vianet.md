@@ -3,7 +3,6 @@ title: 由 21Vianet 運作的 Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: 02ac59da3fc447cd123335cdc87aec78736b02d1
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 3b3a7f925d4d2740d0f7ce8d3643f400c5dc506a
+ms.sourcegitcommit: 209e05c2b058cd64d9b84de95ede0b81477b8c7f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131317"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35753842"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -358,13 +357,13 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |容量提醒  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |雜亂資料  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |MailTips  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |
-|委派存取  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|委派存取  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |收件匣規則  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |連線的帳戶  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |
 |非使用中的信箱  <br/> |否<sup>6</sup> <br/> |--  <br/> |否<sup>6</sup> <br/> |是  <br/> |否<sup>6</sup> <br/> |是  <br/> |否 <sup>6</sup> <br/> |
 |離線通訊錄  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |通訊錄原則  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|階層式通訊錄  <br/> |是  <br/> |--  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|階層式通訊錄  <br/> |是  <br/> |--  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |通訊錄和全域通訊錄  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>14</sup> <br/> |是<sup>14</sup> <br/> |是<sup>14</sup> <br/> |是<sup>14</sup> <br/> |
 |Office 365 群組  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |通訊群組  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -678,7 +677,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Office Web Apps Server integration](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |PowerPoint Automation Services <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[Preservation hold library](../sharepoint-online-service-description/content.md#preservation-hold-library) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|[Quick Edit](../sharepoint-online-service-description/content.md#quick-edit) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|[Quick Edit](../sharepoint-online-service-description/content.md#quick-edit) <br/> |[是]  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[Records management](../sharepoint-online-service-description/content.md#records-management) <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Recycle Bin (SharePoint admin center)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[Recycle Bin (site collection)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
