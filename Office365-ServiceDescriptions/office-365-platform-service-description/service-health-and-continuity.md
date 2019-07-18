@@ -3,7 +3,6 @@ title: 服務健康狀況和持續性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/25/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 系統管理員可以檢視服務的狀態，並找出維護排定的時間。 服務健康狀況資訊，請在任何時間登入 Office 365。
-ms.openlocfilehash: 6dfafb853035636326266cf2bd4fba97bdc499ee
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: ffa55d304f5fbf7a9f97aef83207a923ea4dcce2
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343152"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776444"
 ---
 # <a name="service-health-and-continuity"></a>服務健康狀況和持續性
 

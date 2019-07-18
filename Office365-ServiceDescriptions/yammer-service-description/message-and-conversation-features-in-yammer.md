@@ -3,7 +3,6 @@ title: Yammer 中的訊息與交談
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
-description: Yammer 中提供下列郵件和交談功能。
-ms.openlocfilehash: 78a89c44d6b6a29fad42656ec87311b7887ecf04
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+description: 是 Yammer 中提供下列郵件和對話功能。
+ms.openlocfilehash: 23bef908e50cf68cfb9866e0f11031e1f808b16f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130997"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777924"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer 中的訊息與交談
 
-Yammer 中提供下列郵件和交談功能。
+是 Yammer 中提供下列郵件和對話功能。
   
 ## <a name="publisher"></a>Publisher
 <a name="bkmk_Publisher"> </a>
@@ -49,10 +48,10 @@ Yammer 中提供下列郵件和交談功能。
 
 在另一個群組的摘要中或透過私人郵件分享對話，以轉送資訊和重要訊息。
   
-## <a name="office-for-the-web-support"></a>適用于 web 的 Office 支援
+## <a name="office-for-the-web-support"></a>Office web 支援
 <a name="bkmk_ShareConversations"> </a>
 
-透過使用 Office 來支援 Yammer 中的 web 支援, 上傳至 Yammer 的檔, 可以透過 Office 網頁版, 直接在 Yammer 中查看和編輯。 這可讓檔以 Office 網頁呈現 beautifully, 讓不同的使用者同時進行共同撰寫, 以及在您的瀏覽器中顯示相關的 Yammer 交談。
+Yammer 中的 web 支援的 office，可檢視及網頁，直接在 Yammer 中編輯 office 文件上傳至 Yammer。 這可讓文件漂亮地轉譯與 Office web、 啟用共同撰寫由不同使用者同時，並在瀏覽器中顯示相關的 Yammer 交談。
   
 ## <a name="events"></a>事件
 <a name="bkmk_Events"> </a>

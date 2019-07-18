@@ -3,7 +3,6 @@ title: Power BI 服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -13,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI 是雲端架構的業務分析工具套件，任何人都能夠以更快的速度與效率進行連線、視覺化及分析資料，並且能輕易瞭解。該服務透過方便使用的儀表板將使用者連結到廣泛的即時資料、提供互動式報表與無可比擬的的視覺化效果，讓資料栩栩如生。
-ms.openlocfilehash: d78e4caf3eea387582cb37da80f95a4c4d22b7e1
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 92d2037bb818a43b23d4c377c3fc93fd20290a51
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342662"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777674"
 ---
 # <a name="power-bi-service-description"></a>Power BI 服務說明
 

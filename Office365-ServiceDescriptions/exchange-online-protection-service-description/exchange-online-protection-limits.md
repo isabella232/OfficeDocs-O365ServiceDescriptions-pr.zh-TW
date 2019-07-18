@@ -3,7 +3,6 @@ title: Exchange Online Protection 限制
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Exchange Online protection 目前有下列限制。 這些限制會無法加以設定，除非另有指定。
-ms.openlocfilehash: 0a391a4b11241ff9c502de334a10425e4edff60a
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: badfa1684b9843cfa2aec41d42ccd742f0184c00
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342022"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776704"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 限制
 

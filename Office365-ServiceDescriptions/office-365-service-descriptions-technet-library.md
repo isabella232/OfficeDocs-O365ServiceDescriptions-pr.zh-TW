@@ -3,7 +3,6 @@ title: 'Office 365 服務描述 '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/14/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft Office 365 是雲端式服務, 其設計目的是為了協助符合貴組織對強健的安全性、可靠性和使用者生產力的需求。
-ms.openlocfilehash: af529770b0c9a28f55f149d498cfeffeb3f4b934
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+description: Microsoft Office 365 是雲端式服務，旨在協助達成您的組織對於健全安全性、 可靠性和使用者生產力需求。
+ms.openlocfilehash: 9ab233dba35f89bb9aa15c0525e76b5ae36c2fcc
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130907"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777474"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 服務描述 
 
-Microsoft Office 365 是雲端式服務, 其設計目的是為了協助符合貴組織對強健的安全性、可靠性和使用者生產力的需求。 
+Microsoft Office 365 是雲端式服務，旨在協助達成您的組織對於健全安全性、 可靠性和使用者生產力需求。 
   
 本文件庫中的主題提供 Office 365 隨附服務和功能的詳細說明。若要跨方案比較功能，請參閱[比較商務用 Office 365 方案](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，或請參閱下列清單中的相關服務描述。 
   
@@ -33,7 +32,7 @@ Microsoft Office 365 是雲端式服務, 其設計目的是為了協助符合貴
 > [!NOTE]
 > 如果您要尋找服務描述的比較試算表，其已經淘汰了。每個服務描述頁面上的產品功能可用性表已更新，以進一步協助您選擇符合需求的 Office 365 版本。 
   
-Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTrack Center 權益。 該權益可讓您與 Microsoft 專家遠端合作, 讓您的 Office 365 環境可供使用。 如需詳細資訊，請參閱 [適用於 Office 365 的 FastTrack 中心權益](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
+Microsoft 為的合格服務的 Office 365 的 FastTrack Center 權益提供合格方案中。 權益可讓您可以遠端與 Microsoft 專家以取得 Office 365 環境準備就緒。 如需詳細資訊，請參閱 [適用於 Office 365 的 FastTrack 中心權益](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
 若要開始進行，請參閱下列服務說明：
   
@@ -41,7 +40,7 @@ Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTr
     
 - [Office 應用程式服務說明](office-applications-service-description/office-applications-service-description.md)
     
-- [Web 服務說明的 Office](office-online-service-description/office-online-service-description.md)
+- [Office web 服務描述](office-online-service-description/office-online-service-description.md)
     
 - [Exchange Online 服務說明](exchange-online-service-description/exchange-online-service-description.md)
     
@@ -65,9 +64,13 @@ Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTr
     
 - [Project Online 服務說明](project-online-service-description/project-online-service-description.md)
     
-- [Visio Online 服務說明](visio-online-service-description/visio-online-service-description.md)
+- [Visio web 服務描述](visio-online-service-description/visio-online-service-description.md)
     
 - [Yammer 服務說明](yammer-service-description/yammer-service-description.md)
+
+- [Microsoft 365 商務版服務說明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+
+- [Microsoft 365 租用戶層級服務授權的指導方針](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
 - [Microsoft Dynamics 365 (Online) 服務說明](microsoft-dynamics-365-online-service-description.md)
     

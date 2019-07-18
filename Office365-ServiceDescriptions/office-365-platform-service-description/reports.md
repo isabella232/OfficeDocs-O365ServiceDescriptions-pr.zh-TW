@@ -3,7 +3,6 @@ title: 報告
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Microsoft Office 365 的系統管理員可以檢視顯示貴組織要如何使用 Office 365 服務的報告。 您能使用這些報告來發出小組網站問題、篩選資料並下載資料至 Microsoft Excel。 您也可以使用 Office 365 報告 Web 服務建立專屬報告。 Exchange Online 和 Exchange Online Protection (EOP) 系統管理員可以使用 Office 365 的郵件保護報告以檢視有關惡意程式碼、垃圾郵件和規則偵測的資訊。
-ms.openlocfilehash: a291d9f7b457a2cf4da254c3bfd21cd671cdc42b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 4d0592c9e232d4bdb5fd86904a8ca0d8c3ef7a74
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343162"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777354"
 ---
 # <a name="reports"></a>報表
 

@@ -3,7 +3,6 @@ title: 工作管理
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: 下列工作管理功能是 Project Online 中提供。
-ms.openlocfilehash: e21d7871dbcde7b6684aef1cc3e80b5a2525cef0
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: e2aab9c7b0c84f2f544dcff18ee54faae33fc32b
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343665"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776974"
 ---
 # <a name="task-management"></a>工作管理
 

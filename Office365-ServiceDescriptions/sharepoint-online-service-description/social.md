@@ -3,7 +3,6 @@ title: 社交
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 207c5829-0ba9-440a-a602-1222458fb479
 description: Microsoft SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列的社交網路功能讓人們以最具效率的方式一起合作。 怎麼做？ 藉由提供大型的協同作業工具，任何人都可共用新構想、尋找人與專門知識及商業資訊。
-ms.openlocfilehash: 9d3988bd0c2b33855bdf8e2aa283faead5a9a61c
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: ec35d692a265328d07607ae0d2adf56d42da0b1a
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342442"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777774"
 ---
 # <a name="social"></a>社交
 

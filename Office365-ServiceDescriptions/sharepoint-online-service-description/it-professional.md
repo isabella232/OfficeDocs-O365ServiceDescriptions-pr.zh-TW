@@ -3,7 +3,6 @@ title: IT 專業人員
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
-description: SharePoint Online 是一組 Web 工具和技術, 可協助您的組織儲存、共用及管理數位資訊。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 以下 SharePoint 功能支援 IT 專業人員於其組織的 SharePoint 環境進行保護與管理工作。
-ms.openlocfilehash: 70868f9c00c42318013d1fdc8449668a2461f34a
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+description: SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 以下 SharePoint 功能支援 IT 專業人員於其組織的 SharePoint 環境進行保護與管理工作。
+ms.openlocfilehash: c89f782970ca066a94bd351ff73c7b0785464187
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131307"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776424"
 ---
 # <a name="it-professional"></a>IT 專業人員
 
-SharePoint Online 是一組 Web 工具和技術, 可協助您的組織儲存、共用及管理數位資訊。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 以下 SharePoint 功能支援 IT 專業人員於其組織的 SharePoint 環境進行保護與管理工作。 
+SharePoint Online 是 Web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 以下 SharePoint 功能支援 IT 專業人員於其組織的 SharePoint 環境進行保護與管理工作。 
   
 ## <a name="active-directory-synchronization"></a>Active Directory 同步處理
 <a name="bkmk_ActiveDirectorySynchronization"> </a>
@@ -102,7 +101,7 @@ SharePoint Online 客戶無法使用此功能。資源節流為 SharePoint Serve
 ## <a name="service-application-platform"></a>Service Application Platform
 <a name="bkmk_ServiceApplicationPlatform"> </a>
 
-SharePoint 服務可以從任何 Web 應用程式中個別使用。 此平台提供依應用程式需求使用服務所需的彈性。 Web Analytics 不再是一個服務應用程式。 分析和報告處理會併入「搜尋」服務應用程式。 網頁版 Office 不再是服務應用程式。 Office Web Apps Server 現在是一個獨立伺服器產品。 根據您的組織訂閱的 Office 365 方案而定, SharePoint Online 客戶可以使用網頁版 Office。 深入了解 [SharePoint 服務應用程式](https://go.microsoft.com/fwlink/p/?LinkId=270989)。
+SharePoint 服務可以從任何 Web 應用程式中個別使用。 此平台提供依應用程式需求使用服務所需的彈性。 Web Analytics 不再是一個服務應用程式。 分析和報告處理會併入「搜尋」服務應用程式。 Office web 不再是服務應用程式。 Office Web Apps Server 現在是一個獨立伺服器產品。 根據您組織訂閱的 Office 365 方案，Office web 可能適用於 SharePoint Online 客戶。 深入了解 [SharePoint 服務應用程式](https://go.microsoft.com/fwlink/p/?LinkId=270989)。
   
 ## <a name="sharepoint-health-analyzer"></a>SharePoint Health Analyzer
 <a name="bkmk_SharePointHealthAnalyzer"> </a>
