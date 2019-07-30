@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Exchange Online protection 目前有下列限制。 這些限制會無法加以設定，除非另有指定。
-ms.openlocfilehash: badfa1684b9843cfa2aec41d42ccd742f0184c00
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 4b0e02af0ac1587ffa040a91fda28cbb207f1b95
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776704"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928402"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 限制
 
@@ -38,7 +38,7 @@ Exchange Online protection 目前有下列限制。 這些限制會無法加以�
     
 - **郵件延期限制** 延期的郵件會保留在我們的佇列中 2 天。郵件重試次數是以從收件者的郵件系統收到的錯誤類型為基礎。郵件會每隔 15 分鐘重試一次。 
     
-- **垃圾郵件隔離保留期限** 根據預設，傳送至隔離區的垃圾郵件會保留 15 天。系統管理員可以透過內容篩選原則降低這個值。 
+- **垃圾郵件隔離保留期限**根據預設，傳送至隔離區的垃圾郵件會保留 30 天。 系統管理員可以透過內容篩選原則降低這個值。 
     
 - **使用者垃圾郵件隔離通知** 如果啟用，預設會每隔 3 天傳送一次使用者垃圾郵件隔離通知。可以將它們設定為每隔 1 到 15 天傳送一次。 
     
@@ -55,7 +55,7 @@ Exchange Online protection 目前有下列限制。 這些限制會無法加以�
 |封鎖的寄件者限制  <br/> |1024 個項目  <br/> |1024 個項目  <br/> ||
 |IP 允許或 IP 封鎖清單限制  <br/> |1273 個項目  <br/> |1273 個項目  <br/> |1273 個項目  <br/> |
 |郵件延期限制  <br/> |2 天，每隔 15 分鐘重試一次  <br/> |2 天，每隔 15 分鐘重試一次  <br/> |2 天，每隔 15 分鐘重試一次  <br/> |
-|垃圾郵件隔離保留期限  <br/> |預設為 15 天但是可以降低  <br/> |預設為 15 天但是可以降低  <br/> |預設為 15 天但是可以降低  <br/> |
+|垃圾郵件隔離保留期限  <br/> |預設值為 30 天但是可以降低  <br/> |預設值為 30 天但是可以降低  <br/> |預設值為 30 天但是可以降低  <br/> |
 |使用者垃圾郵件隔離通知  <br/> |預設為 3 天，可設定為 1 到 15 天  <br/> |預設為 3 天，可設定為 1 到 15 天  <br/> |預設為 3 天，可設定為 1 到 15 天  <br/> |
    
 

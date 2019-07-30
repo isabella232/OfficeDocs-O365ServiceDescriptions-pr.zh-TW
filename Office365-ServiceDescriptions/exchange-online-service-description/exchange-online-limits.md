@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
-ms.openlocfilehash: 8e76ab8e0c3391d77923f2b66f4d4842ae86a759
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 1ff56504abb770c2c3ac7851c65b2f10acf20ff2
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776744"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928894"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -240,7 +240,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 - **郵件大小限制**： 郵件大小限制，都是為了避免大型郵件封鎖其他郵件的遞送，以及影響所有使用者的服務效能。 這些限制包含附件，且適用於整個組織內的所有郵件 (內送、外寄和內部)。 大於此上限的郵件將不會傳遞，而寄件者將收到未傳遞回報 (NDR)。 雖然郵件大小上限無法上調、下調或依各使用者為基準設定，管理員仍可建立傳輸規則來限制任何個別附件的最高大小上限。 若要深入了解，請參閱 [Office 365 現在可支援較大的電子郵件訊息](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。
 
     > [!NOTE]
-    > 特定電子郵件用戶端可擁有較低的郵件大小或可限制個別檔案附件的大小為小於 Exchange Online 郵件大小上限的值。
+    > 某些電子郵件用戶端可能會有較低的郵件大小限制，或可能會限制為小於 Exchange Online 的郵件大小限制的值個別檔案附件的大小。
 
 - **郵件標頭大小上限**： 指定郵件中的所有郵件標頭欄位的大小上限。 目前的限制為 256 KB。 如果所有郵件標頭的大小總計超過 256 KB，Exchange Online 就會拒絕該郵件，出現錯誤「552 5.3.4 標頭大小超過固定大小上限」。 郵件內文或附件的大小不考慮在內。 因為標頭欄位是純文字，所以標頭大小是由每個標頭欄位中的字元數以及標頭欄位的總數來決定。 每個文字字元都佔用 1 個位元組。
 
@@ -333,7 +333,9 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
     > [!NOTE]
     > 基於收件者流量限制和收件者限制的用意，組織共用通訊錄中所儲存的通訊群組會算為一位收件者。在個人通訊群組清單中，每位收件者皆分開計算。
 
-- **郵件速率限制**： 郵件流量限制會決定郵件數量使用者可以從 Exchange Online 帳戶傳送一段指定時間內。 此限制可協助防止單一寄件者的系統資源使用量過高。 如果使用者提交郵件的速率超過透過 SMTP 用戶端提交的限制，則會拒絕郵件，用戶端必須重試。
+- **收件者 proxy 位址限制**： 收件者的 proxy 位址限制是收件者的信箱可以有的別名 （電子郵件地址） 的最大數目。 
+
+- **郵件速率限制**： 郵件流量限制會決定郵件數量使用者可以從 Exchange Online 帳戶傳送一段指定時間內。 此限制有助於防止透過單一寄件者的系統資源的使用率。 如果使用者提交郵件的速率超過透過 SMTP 用戶端提交的限制，則會拒絕郵件，用戶端必須重試。
 
 #### <a name="sending-limits-across-office-365-options"></a>不同 Office 365 選項的傳送限制
 
@@ -353,17 +355,16 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |收件者流量限制|沒有限制<sup>1</sup>|每天 10,000 位收件者|每天 10,000 位收件者|每天 10,000 位收件者|
 |收件者限制|500 位收件者<sup>1</sup>|500 位收件者|500 位收件者|500 位收件者|
 |收件者 proxy 位址限制|400|400|400|400|
+|郵件速率限制|每分鐘 30 封郵件|每分鐘 30 封郵件|每分鐘 30 封郵件|每分鐘 30 封郵件|
 
 > [!NOTE]
 > <sup>1</sup> 這是 Exchange Server 2013 組織的預設限制。系統管理員可以為其組織變更此值。
 
 ## <a name="reporting-and-message-trace-limits"></a>報告和郵件追蹤限制
-<a name="bkmk_Reporting_Message_Trace_Limits"> </a>
 
 如需報告和郵件追蹤限制，請參閱 [Exchange Online Protection 的報告和郵件追蹤](http://go.microsoft.com/fwlink/p/?LinkId=394248)中的「報告和郵件追蹤資料可用性和延遲」一節。
 
 ## <a name="retention-limits"></a>保留限制
-<a name="RetentionLimits"> </a>
 
 這些限制會控制可存取 [收件匣] 內特定資料夾中項目的時間長度。
 
@@ -487,7 +488,6 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |傳輸規則是重新導向郵件的次數|無限制|1 次重新導向|1 次重新導向|1 次重新導向|
 
 ## <a name="moderation-limits"></a>仲裁限制
-<a name="ModerationLimits"> </a>
 
 這些限制會控制在通訊群組和傳輸規則套用之郵件核准所採用的仲裁設定。
 
@@ -525,15 +525,12 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 > <sup>1</sup> 這是 Exchange Server 2013 組織的預設限制。系統管理員可以為其組織變更此值。
 
 ## <a name="exchange-activesync-limits"></a>Exchange ActiveSync 限制
-<a name="BKMK_ExchangeActiveSync_Limits"> </a>
 
 下列限制適用於 Microsoft Exchange ActiveSync，這是一種用戶端通訊協定，可以同步處理行動裝置與 Exchange 之間的信箱資料。
 
 - **Exchange ActiveSync 裝置限制**： 每個信箱的 Exchange ActiveSync 裝置數目上限。
 
 - **Exchange ActiveSync 裝置刪除限制**： Exchange 系統管理員可以在一個月中刪除的 Exchange ActiveSync 裝置數目上限。
-
-- **Exchange ActiveSync 檔案附件限制**： 可以傳送或接收的 Exchange ActiveSync 裝置的郵件檔案附件大小上限。
 
 ### <a name="exchange-activesync-limits-across-office-365-options"></a>不同 Office 365 選項的 Exchange ActiveSync 限制
 
@@ -542,7 +539,6 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |**功能**|**Office 365 商務基本版**|**Office 365 商務進階版**|**Office 365 企業版 E1**|**Office 365 企業版 E3**|**Office 365 企業版 E5**|**Office 365 企業版 F1**|
 |Exchange ActiveSync 裝置限制|100|100|100|100|100|100|
 |Exchange ActiveSync 裝置刪除限制|20|20|20|20|20|20|
-|Exchange ActiveSync 檔案附件限制|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>不同獨立選項的 Exchange ActiveSync 限制
 
@@ -551,4 +547,3 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |**功能**|**Exchange Server 2013**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
 |Exchange ActiveSync 裝置限制|100|100|100|100|
 |Exchange ActiveSync 裝置刪除限制|20|20|20|20|
-|Exchange ActiveSync 檔案附件限制|25 MB|25 MB|25 MB|25 MB|
