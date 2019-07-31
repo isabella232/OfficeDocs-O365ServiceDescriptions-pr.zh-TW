@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
-ms.openlocfilehash: 1ff56504abb770c2c3ac7851c65b2f10acf20ff2
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 1baf4b3f10378d5bb5c939694b25dec0916351b4
+ms.sourcegitcommit: fb79397a520e98f0a3571cc45d5e2332dedd39d9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928894"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35940531"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -266,6 +266,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |郵件大小限制 - OWA|112 MB<sup>1、3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|
 |郵件大小限制 - Outlook for Mac|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
 |郵件大小限制 - 移轉|150 MB <sup>1、4</sup>|150 MB <sup>1、4</sup>|150 MB <sup>1、4</sup>|150 MB <sup>1、4</sup>|150 MB <sup>1、4</sup>|150 MB <sup>1、4</sup>|
+|郵件大小限制-Outlook for iOS 和 Android | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
 |加密郵件的大小限制 (適用於使用 Office 365 郵件加密與新功能的訂閱者)<sup>5</sup>|150 MB |150 MB|150 MB|150 MB|150 MB|150 MB|
 |加密郵件的大小限制 (適用於使用舊版 Office 365 郵件加密的訂閱者)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |主旨長度限制|255 個字元|255 個字元|255 個字元|255 個字元|255 個字元|255 個字元|
@@ -273,6 +274,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |檔案附件大小限制 - Outlook|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB|
 |檔案附件大小限制 - OWA <sup>6</sup>|35 MB|35 MB|35 MB|35 MB|35 MB|35 MB|
 |檔案附件大小限制 - Outlook for Mac|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB|
+|檔案附件大小限制-Outlook for iOS 和 Android|33 MB |33 MB |33 MB |33 MB |33 MB |33 MB |
 |Multipart 郵件限制|250 個部分|250 個部分|250 個部分|250 個部分|250 個部分|250 個部分|
 |內嵌郵件深度限制|30 封內嵌郵件|30 封內嵌郵件|30 封內嵌郵件|30 封內嵌郵件|30 封內嵌郵件|30 封內嵌郵件|
 
@@ -289,6 +291,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |郵件大小限制 - OWA|10 MB<sup>4</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|150 MB<sup>1, 2</sup>|
 |郵件大小限制 - Outlook for Mac|10 MB<sup>4</sup>|150 MB|150 MB||
 |郵件大小限制 - 移轉|不適用|150 MB <sup>5</sup>|150 MB <sup>5</sup>|150 MB <sup>5</sup>|
+|郵件大小限制-Outlook for iOS 和 Android |25 MB |33 MB |33 MB |33 MB |
 |加密郵件的大小限制 (適用於使用 Office 365 郵件加密與新功能的訂閱者)<sup>6</sup>|150 MB|150 MB |150 MB |150 MB|
 |加密郵件的大小限制 (適用於使用舊版 Office 365 郵件加密的訂閱者)<sup>6</sup>|25 MB|25 MB|25 MB|25 MB|
 |主旨長度限制|255 個字元|255 個字元|255 個字元|255 個字元|
@@ -296,6 +299,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |檔案附件大小限制 - Outlook|35 MB<sup>4</sup>|150 MB|150 MB |150 MB|
 |檔案附件大小限制 - OWA|35 MB<sup>4</sup>|35 MB|35 MB|35 MB|
 |檔案附件大小限制 - Outlook for Mac|35 MB<sup>4</sup>|150 MB|150 MB|35 MB|
+|檔案附件大小限制-Outlook for iOS 和 Android|25 MB |33 MB|33 MB|33 MB|
 |Multipart 郵件限制|250 個部分|250 個部分|250 個部分|250 個部分|
 |內嵌郵件深度限制|30 封內嵌郵件|30 封內嵌郵件|30 封內嵌郵件|30 封內嵌郵件|
 
