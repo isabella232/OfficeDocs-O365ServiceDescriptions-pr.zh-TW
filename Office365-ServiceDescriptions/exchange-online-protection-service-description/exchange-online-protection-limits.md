@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Exchange Online protection 目前有下列限制。 這些限制會無法加以設定，除非另有指定。
-ms.openlocfilehash: 4b0e02af0ac1587ffa040a91fda28cbb207f1b95
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 02a83ca4a6729edd301827cef1bc7ce04a331398
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928402"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051604"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 限制
 
@@ -52,7 +52,7 @@ Exchange Online protection 目前有下列限制。 這些限制會無法加以�
 |郵件大小限制 (包括附件)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |收件者限制  <br/> |請參閱上方的「收件者限制」  <br/> |從裝載的信箱中傳送時的 500 個收件者；請參閱上方的「收件者限制」以取得其他案例  <br/> |請參閱上方的「收件者限制」  <br/> |
 |安全寄件者限制  <br/> |1024 個項目  <br/> |1024 個項目  <br/> ||
-|封鎖的寄件者限制  <br/> |1024 個項目  <br/> |1024 個項目  <br/> ||
+|封鎖的寄件者限制每個原則  <br/> |1024 個項目  <br/> |1024 個項目  <br/> ||
 |IP 允許或 IP 封鎖清單限制  <br/> |1273 個項目  <br/> |1273 個項目  <br/> |1273 個項目  <br/> |
 |郵件延期限制  <br/> |2 天，每隔 15 分鐘重試一次  <br/> |2 天，每隔 15 分鐘重試一次  <br/> |2 天，每隔 15 分鐘重試一次  <br/> |
 |垃圾郵件隔離保留期限  <br/> |預設值為 30 天但是可以降低  <br/> |預設值為 30 天但是可以降低  <br/> |預設值為 30 天但是可以降低  <br/> |
