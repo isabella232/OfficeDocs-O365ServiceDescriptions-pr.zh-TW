@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
-ms.openlocfilehash: 1baf4b3f10378d5bb5c939694b25dec0916351b4
-ms.sourcegitcommit: fb79397a520e98f0a3571cc45d5e2332dedd39d9
+ms.openlocfilehash: 965b88a18dd8475381d963a63b542ab15702fd99
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "35940531"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206843"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -410,7 +410,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 - **限制傳送郵件給大型通訊群組**： 通訊群組包含這項限制所指定的成員數目必須有傳遞管理或郵件核准選項設定。 傳遞管理會指定一份寄件者清單，只有這些寄件者才能傳送郵件至此通訊群組。 郵件核准會指定一位或多位仲裁者，郵件必須通過他們的核准才能傳送至此通訊群組。
 
-- **大型通訊群組的郵件大小上限**： 如果郵件傳送給 5000 位以上的收件者，郵件大小不可超過此限制。 如果郵件大小超過限制，郵件不會傳遞出去，而且寄件者會收到未傳遞回報 (NDR)。 收件者總數是在通訊群組擴充之後決定的。
+- **大型通訊群組的郵件大小上限**： 如果郵件傳送給 5000 位以上的收件者，郵件大小不可超過此限制。 如果郵件大小超過限制，郵件不會傳遞出去，而且寄件者會收到未傳遞回報 (NDR)。
 
 ### <a name="distribution-group-limits-across-office-365-options"></a>不同 Office 365 選項的通訊群組限制
 

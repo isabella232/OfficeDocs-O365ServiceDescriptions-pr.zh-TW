@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全性與裝置管理功能，協助保護您的業務與整合式的解決方案。 . 此服務描述中說明的計劃選項和功能。 如需有關 Office 365 的詳細資訊，請參閱 Office 365 服務說明。
-ms.openlocfilehash: afe6a1950601147c99d26e25e31087129439dec2
-ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
+ms.openlocfilehash: 4f8e732514109ee5d7f137907d333829a7b5075a
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35908730"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206853"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務說明
 
@@ -90,7 +90,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |[隱私權、安全性和透明化](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |內建的反垃圾郵件保護  <br/> |是  <br/> |是  <br/> |
 |內建反惡意程式碼保護  <br/> |是  <br/> |是  <br/> |
-|Office 365 進階威脅防護  <br/> |否  <br/> |是 <br/> |
+|Office 365 進階威脅防護  <br/> |否  <br/> |是<sup>19</sup> <br/> |
 |進階安全性管理  <br/> |否  <br/> |否  <br/> |
 |Customer Lockbox  <br/> |否  <br/> |否  <br/> |
 |客戶金鑰 for Office 365<sup>12</sup> <br/> |否  <br/> |否  <br/> |
@@ -180,3 +180,4 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 <br/>此計劃隨附 Microsoft Stream 計劃 2 包含影片入口網站中，語音文字轉譯、 深入搜尋，以及偵測<sup>16</sup> 。
 <br/><sup>17</sup>簡化 Windows 10 裝置管理和 Microsoft 365 系統管理中心內建的 Intune 應用程式保護原則。
 <br/><sup>18</sup>從開始 2019 年，現有合格 Sku 的 Office 365 和 Microsoft 365 會使用 Kaizala Pro 回填。 2019 年 6 月 1 日，從 Kaizala Pro 將會包含所有適用的 Office 365 和 Microsoft 365 Sku 中。 
+<br>Microsoft 365 隨附 Office 365 進階威脅防護計劃 1 <sup>19</sup> 。 如需詳細資訊，請參閱[Microsoft 365 商務版安全性與合規性功能](https://docs.microsoft.com/microsoft-365/business/security-features)。
