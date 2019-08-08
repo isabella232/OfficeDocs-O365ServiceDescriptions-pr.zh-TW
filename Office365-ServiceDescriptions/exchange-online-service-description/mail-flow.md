@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。 這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。 不過，某些組織需要更複雜的郵件流程設定，以確保它們遵守特定法規或業務需求。 您可以在此找到這些選項。
-ms.openlocfilehash: d21a5742ccbd032abbad822d4a686174ce5b8baf
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: a50c85fff3ba023706932f227db1df3915923545
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776784"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231411"
 ---
 # <a name="mail-flow"></a>郵件流程
 
@@ -29,16 +29,16 @@ ms.locfileid: "35776784"
 
 Microsoft Exchange Online 可以透過內部部署伺服器或託管服務 (有時稱為「智慧型託管」) 路由來自組織的郵件流程。這可以讓組織使用資料遺失防護 (DLP) 應用裝置、執行自訂的外寄電子郵件後續處理，以及透過私人網路將電子郵件傳送給業務合作夥伴。Exchange Online 也支援地址修正功能，透過會修改位址的功能，外寄電子郵件將會透過內部部署閘道進行路由。此功能可讓您隱藏子網域，使來自多網域組織的電子郵件顯示為單一網域，或是使合作夥伴轉送的電子郵件顯示為寄自組織內部。管理員可以在 Exchange 系統管理中心 (EAC) 內設定自訂電子郵件路由。
   
-如需詳細資訊，請參閱＜[Set up connectors to route mail between Office 365 and your own email servers](http://technet.microsoft.com/library/2e93fd60-a5ef-4e64-8e62-2b862b2d1033.aspx)＞。
+如需詳細資訊，請參閱＜[Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)＞。
   
 > [!IMPORTANT]
-> Exchange Online 可以傳送在您的組織中進出的郵件。 
+> Exchange Online 可以傳送在您的組織中進出的郵件。 如果收件者網域託管於 Exchange Online 與 DNS MX 記錄指向 Exchange Online Protection，請從您的租用戶收件者的郵件流程將不會透過網際網路傳送。
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>與信任的合作夥伴間的安全傳訊
 
-Exchange Online 客戶可以使用 Office 365 連接器，設定與信任合作夥伴間的安全郵件流程。Office 365 支援透過傳輸層安全性 (TLS) 進行安全通訊，而您可以透過 TLS 建立連接器來強制執行加密。[TLS](https://technet.microsoft.com/en-us/library/mt163898.aspx) 這個密碼編譯通訊協定能提供網路通訊的安全性。您可以使用連接器，同時設定使用自我簽署或經過憑證授權單位 (CA) 驗證之憑證的強制內送和外寄 TLS。您也可以套用其他安全性限制 (像是指定合作夥伴組織傳送郵件所用的網域名稱或 IP 位址範圍)。 
+Exchange Online 客戶可以使用 Office 365 連接器，設定與信任合作夥伴間的安全郵件流程。Office 365 支援透過傳輸層安全性 (TLS) 進行安全通訊，而您可以透過 TLS 建立連接器來強制執行加密。[TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) 這個密碼編譯通訊協定能提供網路通訊的安全性。您可以使用連接器，同時設定使用自我簽署或經過憑證授權單位 (CA) 驗證之憑證的強制內送和外寄 TLS。您也可以套用其他安全性限制 (像是指定合作夥伴組織傳送郵件所用的網域名稱或 IP 位址範圍)。 
   
-如需詳細資訊，請參閱＜[Set up connectors for secure mail flow with a partner organization](http://technet.microsoft.com/library/1ce4d6a4-41ba-4d1e-9ca9-e826252c1041.aspx)＞。
+如需詳細資訊，請參閱＜[Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)＞。
   
 > [!IMPORTANT]
 > 可能需要經過 CA 驗證的憑證。 
@@ -47,13 +47,13 @@ Exchange Online 客戶可以使用 Office 365 連接器，設定與信任合作�
 
 您可以使用連接器和傳輸規則直接傳送郵件到特定網站。透過條件式路由，您可以根據特定條件選擇要使用的連接器。
   
-如需詳細資訊，請參閱＜[Scenario: Conditional mail routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx)＞。
+如需詳細資訊，請參閱＜[Scenario: Conditional mail routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing)＞。
   
 ## <a name="incoming-mail-safe-list"></a>內送郵件安全清單
 
 您可以將受信任夥伴的 IP 位址新增到安全清單中，以確保傳送給您的郵件不會被防垃圾郵件篩選功能限制。若要這麼做，您可以使用連線篩選器的 IP 允許清單。
   
-如需詳細資訊，請參閱＜[Configure the connection filter policy](http://technet.microsoft.com/library/6ae78c12-7bbe-44fa-ab13-c3768387d0e3.aspx)＞。
+如需詳細資訊，請參閱＜[Configure the connection filter policy](https://docs.microsoft.com/office365/SecurityCompliance/configure-the-connection-filter-policy)＞。
   
 ## <a name="hybrid-email-routing"></a>混合電子郵件路由
 
@@ -98,4 +98,3 @@ Exchange Online 客戶可以使用 Office 365 連接器，設定與信任合作�
 
 若要檢視 Office 365 方案、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Exchange Online 服務說明](exchange-online-service-description.md)。
   
-
