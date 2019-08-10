@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 深入了解每個訂閱方案所提供的 OneDrive 儲存空間。
-ms.openlocfilehash: 9dfb0911bfeba72960a09a4eb49d194c7b77d644
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: e8fd3ae3e60856f0de99382ea2cecf37c6cd0517
+ms.sourcegitcommit: 26895f0f8f9aa7192335c6028361155beaec03a1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131247"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "36286010"
 ---
 # <a name="onedrive-for-business-service-description"></a>商務用 OneDrive 服務描述
 
@@ -38,7 +38,7 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
   
 ## <a name="about-sync"></a>關於同步處理
 
-若要安裝最新的同步處理用戶端，請移至 [OneDrive 下載頁面](https://onedrive.live.com/about/download/)。 
+方案中包含 OneDrive 的任何人都可以使用 OneDrive 同步處理用戶端，除非他們的 IT 部門明確停用它。 若要安裝最新的同步處理用戶端，請移至 [OneDrive 下載頁面](https://onedrive.live.com/about/download/)。 若要深入了解同步處理用戶端，請參閱[在 Windows 中使用 OneDrive 同步處理用戶端同步處理檔案](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)。
   
 ## <a name="storage-space-per-user"></a>每個使用者的儲存空間
 
