@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 系統管理員可以檢視服務的狀態，並找出維護排定的時間。 服務健康狀況資訊，請在任何時間登入 Office 365。
-ms.openlocfilehash: ffa55d304f5fbf7a9f97aef83207a923ea4dcce2
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 0438efacfddec1dd00b0cd7c5dfb821dc17c3c37
+ms.sourcegitcommit: ddc6aeec746e2f71cd06242a9e3866326810c34b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776444"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36298033"
 ---
 # <a name="service-health-and-continuity"></a>服務健康狀況和持續性
 
@@ -49,7 +49,7 @@ Office 365 的服務健康區段顯示服務和相關服務干擾及中斷的詳
 |**2019** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
-| 99.97% <br/> |  <br/> |  <br/> |  <br/> |
+| 99.97% <br/> | 99.97% <br/> |  <br/> |  <br/> |
 
 <br/>
 
