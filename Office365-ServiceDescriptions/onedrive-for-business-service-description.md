@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 深入了解每個訂閱方案所提供的 OneDrive 儲存空間。
-ms.openlocfilehash: e8fd3ae3e60856f0de99382ea2cecf37c6cd0517
-ms.sourcegitcommit: 26895f0f8f9aa7192335c6028361155beaec03a1
+ms.openlocfilehash: 180afa60864ebce2d911f5532c407482876bafbb
+ms.sourcegitcommit: 04f69dc7faa48ab048524ffcc4455ea584cae30b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "36286010"
+ms.lasthandoff: 08/15/2019
+ms.locfileid: "36407717"
 ---
 # <a name="onedrive-for-business-service-description"></a>商務用 OneDrive 服務描述
 
@@ -59,15 +59,12 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
 - Office 365 非營利組織版 E1
 - 商務用 OneDrive 方案 1
 - SharePoint Online 方案 1
+- Microsoft 365 商務版
 
-**不只 1 TB，到無限制**
+**1 TB 起，到無限**
  
-具有少於 5 個使用者的每個訂閱為每個使用者 1 TB。 對於具有 5 個或更多使用者的訂閱，Microsoft 一開始將為每個使用者提供 1 TB，系統管理員可以增加到每個使用者最多 5 TB。 ([了解作法](/onedrive/set-default-storage-space)) 若要要求額外的儲存空間，系統管理員必須連絡 Microsoft 支援服務。 
+具有少於 5 個使用者的每個訂閱為每個使用者 1 TB。 對於具有 5 個或更多使用者的訂閱 (可以是合格方案的任何組合)，Microsoft 一開始將為每個使用者提供 1 TB，系統管理員可以增加到每個使用者最多 5 TB。 (若要深入了解，請參閱[設定 OneDrive 使用者的預設儲存空間](/onedrive/set-default-storage-space)。) 若要要求額外的儲存空間，系統管理員必須連絡 Microsoft 支援。
 
-- Office 365 Enterprise E3
-- Office 365 企業版 E5
-- 商務用 OneDrive 方案 2
-- SharePoint Online 方案 2
 - Office 365 Enterprise E3
 - Office 365 企業版 E5
 - Office 365 A1
@@ -75,8 +72,10 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
 - Office 365 A5
 - Office 365 美國政府版 G3
 - Office 365 美國政府版 G5
-- Office 365 非營利組織版 E3 
-- OOffice 365 非營利組織版 E5 
+- Office 365 非營利組織版 E3
+- OOffice 365 非營利組織版 E5
+- 商務用 OneDrive 方案 2
+- SharePoint Online 方案 2
 - Microsoft 365 企業版 E3
 - Microsoft 365 企業版 E5
 - Microsoft 365 A3
@@ -86,7 +85,6 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
 - 非營利組織版 Microsoft 365 E3
 - 非營利組織版 Microsoft 365 E5
 
-  
 > [!NOTE]
 > 您必須將至少一個授權指派給使用者，才能增加預設 OneDrive 儲存空間。 
   
