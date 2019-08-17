@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 若要特殊且不斷變化的需求的美國國防部，以及承包商保留或處理 DoD 控制的未分類的資訊 (CUI) 或受到國際流量中武器法規 (ITAR)，Microsoft 提供了GCC 高和 DoD 環境。 可透過大量授權提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 這次恕不提供試用版。
-ms.openlocfilehash: c35f75875aac2c4187324f13365a3ac69827ce93
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 27d66352cebe96da3c0ca914d394f4d0090c1e99
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928412"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450287"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC 高和 DoD
 
@@ -84,7 +84,7 @@ GCC 高和 DoD 環境中的 office 365 訂閱包含核心 Exchange Online、 Sha
   
 - GCC 高租用戶的可以共用與 GCC High 租用戶 B，以及 B 使用者登入使用 Azure AD 使用者名稱和密碼。
     
-- B 使用者登入使用一次性密碼或非 GCC 租用戶 C 可以共用與 GCC High 租用戶的或 B 和 A。
+- B 使用者登入使用一次性密碼或非 GCC High 租用戶 C 可以共用與 GCC High 租用戶的或 B 和 A。
     
 - GCC 高租用戶的或 B 可以共用與非 GCC High 租用戶 C 及 C 使用者登入使用一次性密碼。
     

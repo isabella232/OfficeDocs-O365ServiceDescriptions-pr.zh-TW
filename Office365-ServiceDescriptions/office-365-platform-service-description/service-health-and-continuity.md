@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 系統管理員可以檢視服務的狀態，並找出維護排定的時間。 服務健康狀況資訊，請在任何時間登入 Office 365。
-ms.openlocfilehash: 0438efacfddec1dd00b0cd7c5dfb821dc17c3c37
-ms.sourcegitcommit: ddc6aeec746e2f71cd06242a9e3866326810c34b
+ms.openlocfilehash: 9cb4438eb0879c0e873aebc16c625c991c20c196
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36298033"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450277"
 ---
 # <a name="service-health-and-continuity"></a>服務健康狀況和持續性
 
@@ -79,7 +79,7 @@ Office 365 租用戶系統管理員系統管理應用程式可讓您能夠隨時
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2 的 Office 365 管理組件
 
-Microsoft System Center 是可協助您管理資料中心、用戶端裝置和混合雲端 IT 環境的整合式管理平台。 Office 365 系統管理員現在使用 System Center 已匯入 Office 365 管理組件，可讓他們能夠檢視在 System Center Operations Manager 內的所有服務通訊選項。 使用此工具可讓您存取您已訂閱服務的狀態、作用中及已解決服務事件及訊息中心通訊。 若需詳細資訊，請瀏覽[新的 Office 365 系統管理工具](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/) 部落格文章。 
+Microsoft System Center 是可協助您管理資料中心、用戶端裝置和混合雲端 IT 環境的整合式管理平台。 Office 365 系統管理員現在使用 System Center 已匯入 Office 365 管理組件，可讓他們能夠檢視在 System Center Operations Manager 內的所有服務通訊選項。 使用此工具可讓您存取您已訂閱服務的狀態、作用中及已解決服務事件及訊息中心通訊。 若需詳細資訊，請瀏覽[新的 Office 365 系統管理工具](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/) 部落格文章。 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 服務通訊 API
 
@@ -91,7 +91,7 @@ Office 365 服務通訊 API 可讓您以您想要的方式存取 Office 365 服�
     
 - 規劃的維護通知
     
-若需詳細資訊，請瀏覽[新的 Office 365 系統管理工具](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/) 部落格文章。 
+若需詳細資訊，請瀏覽[新的 Office 365 系統管理工具](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/) 部落格文章。 
   
 ## <a name="post-incident-reviews"></a>事件後續檢閱
 
@@ -115,7 +115,7 @@ Microsoft 對於持續改善服務的承諾包括針對對客戶產生影響的�
 
 Microsoft Office 365 方案會以高度彈性的系統傳遞，以維持最佳服務效能。服務持續性佈建為 Office 365 系統設計中的一部份。這些佈建可讓 Office 365 快速自未預期的事件中復原，例如硬體或應用程式故障、資料中斷或者其他影響使用者的事件。這些服務持續性解決方法同時應用於災難性的中斷期間 (例如天災或者 Microsoft 資料中心中發生的意外事件，造成整個資料中心無法運作)。
   
-請注意，從重大中斷事件回復後，可能需要經過一段時間，服務的完整資料中心備援才會恢復運作。例如：如果資料中心 1 故障，則可由資料中心 2 的資源回復服務；不過，可能需要等待一段時間，資料中心 2 才可獲得資料中心 1 中已回復之資源或資料中心 3 中新資源的服務持續性支援。在此期間，可適用 Office 365 [服務等級協定](https://technet.microsoft.com/en-us/library/office-365-service-level-agreement.aspx) (SLA)。21Vianet 運作的 Office 365 有不同的 SLA。如需詳細資訊，請參閱 [21Vianet 網站](http://www.21vbluecloud.com/office365/O365-SLA/)。 
+請注意，從重大中斷事件回復後，可能需要經過一段時間，服務的完整資料中心備援才會恢復運作。例如：如果資料中心 1 故障，則可由資料中心 2 的資源回復服務；不過，可能需要等待一段時間，資料中心 2 才可獲得資料中心 1 中已回復之資源或資料中心 3 中新資源的服務持續性支援。在此期間，可適用 Office 365 [服務等級協定](service-level-agreement.md) (SLA)。21Vianet 運作的 Office 365 有不同的 SLA。如需詳細資訊，請參閱 [21Vianet 網站](http://www.21vbluecloud.com/office365/O365-SLA/)。 
   
 ## <a name="ensuring-data-availability"></a>確保資料可用性
 
@@ -149,9 +149,9 @@ Office 365 研發與營運團隊將由專用的 Office 365 支援組織來完整
     
 在客戶輸入服務請求前，可先進入知識庫文章以及問答集來查看常見問題的即刻協助。這些資源將持續更新最新資訊，為已知問題提供解決方案以避免問題造成的延誤。但是，當提出的問題需要支援專家的幫助時，工作人員可透過電話或行政入口網站提供全年無休的立即協助。
   
-如需詳細資訊，請參閱[支援](https://technet.microsoft.com/en-us/library/office-365-support.aspx) 主題。 
+如需詳細資訊，請參閱[支援](support.md) 主題。 
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 規劃的功能可用性，請參閱 [Office 365 平台服務說明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)。
+若要檢視跨 Office 365 計劃的功能可用性，請參閱[Office 365 平台服務說明](office-365-platform-service-description.md)。
   
