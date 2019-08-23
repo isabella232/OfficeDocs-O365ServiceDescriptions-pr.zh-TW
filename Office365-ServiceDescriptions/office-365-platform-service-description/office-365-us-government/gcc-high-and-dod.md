@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 若要特殊且不斷變化的需求的美國國防部，以及承包商保留或處理 DoD 控制的未分類的資訊 (CUI) 或受到國際流量中武器法規 (ITAR)，Microsoft 提供了GCC 高和 DoD 環境。 可透過大量授權提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 這次恕不提供試用版。
-ms.openlocfilehash: 27d66352cebe96da3c0ca914d394f4d0090c1e99
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: 65a8362ba02fe000c2f0f6a4c172b3067a5663e6
+ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450287"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36568116"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC 高和 DoD
 
@@ -108,4 +108,8 @@ GCC 高和 DoD 環境中的 office 365 訂閱包含核心 Exchange Online、 Sha
 
 Yammer Enterprise 不提供 GCC 高和 DoD 環境中。
   
+## <a name="customer-support"></a>客戶支援
 
+Microsoft 會提醒您在不共用任何受控制，敏感性]，或與客戶支援人員時，至少使用 Office 365 GCC High/DOD，直到您您支援事件的一部分的機密資訊確認支援代理程式的授權，以檢視或存取這類資料。
+
+Microsoft 致力於保護您的[隱私權](https://privacy.microsoft.com/privacystatement)）。 不過，Office 365 GCC High/DoD 支援未包含這個功能中的服務 」 資格鑑定界限，而不提供 FedRAMP、 DOD SRG、 ITAR、 IRS 1075 或 CJIS 資料處理規範保證。
