@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online 封存是 Microsoft Office 365 雲端式企業級封存解決方案適用於 Microsoft Exchange Server 2019，Microsoft Exchange Server 2016、 Microsoft Exchange Server 2013，Microsoft 已部署的組織Exchange Server 2010 (SP2 及更新版本)，或特定 Exchange Online 或 Office 365 計劃訂閱。 Exchange Online Archiving可為這些組織在封存、符合性、法規及 eDiscovery 挑戰等方面提供協助，同時可簡化內部部署基礎結構，進而降低成本和減輕 IT 重擔。
-ms.openlocfilehash: 257904ba751b23cb5e04f923994449cf3794488f
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 3ed5e99767863e79a5aac41c03ea728b79560b44
+ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231381"
+ms.lasthandoff: 08/28/2019
+ms.locfileid: "36656287"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online 封存服務說明
 
@@ -42,7 +42,7 @@ Microsoft Exchange Online 封存是 Microsoft Office 365 雲端式企業級封�
 |:-----|:-----|
 |**Exchange Server 適用的 Exchange Online 封存** <br/> |雲端式封存的使用者使用 Exchange Server 2019、 Exchange Server 2016、 Exchange Server 2013 或 Exchange 2010 中的主要信箱 (SP2 或更新版本)。  <br/> 如果您想要將雲端型封存新增至位於內部部署 Exchange 伺服器的主要信箱，您需要設定混合部署。如需有關混合部署的詳細資訊，請參閱 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。  <br/> |
 |**Exchange Server 適用的 Exchange Online 封存 (透過企業 CAL 套件)** <br/> |雲端式封存的使用者使用 Exchange Server 2019、 Exchange Server 2016、 Exchange Server 2013 或 Exchange 2010 中的主要信箱 (SP2 或更新版本)。 如需詳細資訊，請參閱[授權簡介 - 獲得核心 CAL 套件和企業 CAL 套件的授權](https://www.microsoft.com/licensing/product-licensing/client-access-license)。  <br/> |
-|**Exchange Online 適用的 Exchange Online 封存** <br/> | 雲端型封存和就地保留，做為下列計劃<sup>1、 2</sup>的附加元件：<br/>  Exchange Online Plan 1  <br/>  Exchange Online Kiosk  <br/>  Office 365 商務基本版  <br/>  Office 365 商務進階版  <br/>  Office 365 企業版 E1  <br/>  Office 365 企業版 F1  <br/>  <b>附註：</b>下列計劃已包含封存，且不需要 Exchange Online Archiving 做為附加元件：<br/> Office 365 教育版 A1 <br/>Office 365 Education A3 <br/>  Office 365 教育版 A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 企業版 E5 <br/>  Exchange Online Plan 2 <br/>  如需 Exchange Online 信箱封存功能的詳細資料，請參閱[在 Exchange Online 中封存信箱](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)。           |
+|**Exchange Online 適用的 Exchange Online 封存** <br/> | 雲端型封存和就地保留，做為下列計劃<sup>1、 2</sup>的附加元件：<br/>  Exchange Online Plan 1  <br/>  Exchange Online Kiosk  <br/>  Office 365 商務基本版  <br/>  Office 365 商務進階版  <br/>  Office 365 企業版 E1  <br/>  Office 365 企業版 F1  <br/> Microsoft 365 商務版 <br/> Microsoft 365 企業版 F1<br/> <b>附註：</b>下列計劃已包含封存，且不需要 Exchange Online Archiving 做為附加元件：<br/> Office 365 教育版 A1 <br/>Office 365 Education A3 <br/>  Office 365 教育版 A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 企業版 E5 <br/>  Exchange Online Plan 2 <br/> Microsoft 365 企業版 E3 <br/> Microsoft 365 企業版 E5 <br/>如需 Exchange Online 信箱封存功能的詳細資料，請參閱[在 Exchange Online 中封存信箱](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)。           |
    
 >[!NOTE]
 ><sup>1</sup> 組織只採用雲端 (即組織中沒有信箱位於內部部署 Exchange 伺服器) 時不一定要採用混合部署。 不過，如果內部部署信箱已存在，則需要混合部署。
