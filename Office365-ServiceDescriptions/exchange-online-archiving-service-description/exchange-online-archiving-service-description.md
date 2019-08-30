@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online 封存是 Microsoft Office 365 雲端式企業級封存解決方案適用於 Microsoft Exchange Server 2019，Microsoft Exchange Server 2016、 Microsoft Exchange Server 2013，Microsoft 已部署的組織Exchange Server 2010 (SP2 及更新版本)，或特定 Exchange Online 或 Office 365 計劃訂閱。 Exchange Online Archiving可為這些組織在封存、符合性、法規及 eDiscovery 挑戰等方面提供協助，同時可簡化內部部署基礎結構，進而降低成本和減輕 IT 重擔。
-ms.openlocfilehash: 3ed5e99767863e79a5aac41c03ea728b79560b44
-ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
+ms.openlocfilehash: edf8ee24b2d89d3425085ab41360c5f659c16caf
+ms.sourcegitcommit: 9a20f05a53c5b906dea21ae9e3f65653b2c01967
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/28/2019
-ms.locfileid: "36656287"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672577"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online 封存服務說明
 
@@ -65,7 +65,7 @@ Microsoft Exchange Online 封存是 Microsoft Office 365 雲端式企業級封�
   
 ## <a name="unlimited-archive-storage-quota"></a>無限制封存儲存配額
 
- Office 365 （稱為自動展開封存） 中的無限制封存功能提供無限制的封存信箱中的儲存量在 Exchange Online。 每位 Exchange Online Archiving 訂閱者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 在 Exchange 混合式部署中，自動展開封存時，才支援雲端式封存信箱的內部部署使用者的信箱位於 Exchange Server 2019、 Exchange Server 2016 或 Exchange Server 2013 (SP1 或更新版本)。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)。 如需可用性的詳細資訊，請參閱 [Office 365 藍圖](https://www.microsoft.com/microsoft-365/roadmap?rtc=1&filters=)。
+ Office 365 （稱為*自動展開封存*） 中的無限制封存功能提供最多 1 TB 的儲存在封存信箱在 Exchange Online。 每位 Exchange Online Archiving 訂閱者初始會獲得 100 GB 的封存信箱儲存空間。 自動展開封存開啟時，達到 100 GB 的儲存容量時，會自動會新增額外的儲存空間。 在 Exchange 混合式部署中，自動展開封存時，才支援雲端式封存信箱的內部部署使用者的信箱位於 Exchange Server 2019、 Exchange Server 2016 或 Exchange Server 2013 (SP1 或更新版本)。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)。
   
 > [!IMPORTANT]
 > 系統管理員無法調整儲存空間配額。<br/>
