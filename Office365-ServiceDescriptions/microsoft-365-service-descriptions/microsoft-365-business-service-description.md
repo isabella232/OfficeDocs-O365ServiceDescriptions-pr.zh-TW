@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全性與裝置管理功能，協助保護您的業務與整合式的解決方案。 . 此服務描述中說明的計劃選項和功能。 如需有關 Office 365 的詳細資訊，請參閱 Office 365 服務說明。
-ms.openlocfilehash: 4f8e732514109ee5d7f137907d333829a7b5075a
-ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
+ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
+ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36206853"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36717541"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務說明
 
@@ -133,9 +133,9 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |SLA 高達 99.9年 %  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |進階威脅分析  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |**裝置和應用程式的管理功能** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |**企業行動力 + 安全性版 E3** <br/> |
-|行動裝置管理 (MDM)<sup>15</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Pc、 Mac、 及行動裝置的<sup>15</sup> ，Intune 行動裝置管理 (MDM) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |行動裝置管理 (MDM) 自動註冊  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|行動應用程式管理 (MAM) 的 Office 應用程式和 LOB 應用程式<sup>17</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Intune 行動應用程式管理 (MAM) 的 Office 應用程式和 LOB 應用程式<sup>17</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
 |Windows 更新管理、 Defender，防火牆原則<sup>15</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
 |資料保護-選擇性清除  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |目標原則的安全群組 （個儲存）  <br/> |否  <br/> |是  <br/> |是  <br/> |
