@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 是一項訂閱服務，提供您已熟悉，例如 Word、 Excel 及 PowerPoint 的 Office 桌面應用程式的最新版本。
-ms.openlocfilehash: f33fc698420f511ce1fdf6b14f51565e71d9cd3f
-ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
+ms.openlocfilehash: 3ba5510ab24f2f7f5cd2aed8aa7e9800ce07e39f
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/28/2019
-ms.locfileid: "36656307"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998515"
 ---
 # <a name="office-applications-service-description"></a>Office 應用程式服務說明
 
@@ -74,7 +74,7 @@ Office 應用程式有 32 位元和 64 位元版本可供使用。
 |Office 雲端原則支援  <br/> |否  <br/> |否  <br/> |否  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否 <br/> |
 |使用 Azure 資訊保護的資訊版權管理  <br/> |否  <br/> |否  <br/> |否  <br/>|沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |是  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |
 |使用 Windows Server AD RMS 的 Information Rights Management  <br/> |是<sup>3</sup> <br/> |是  <br/> |是 <br/>| 是<sup>3</sup> <br/>|是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |
-|Office 增益集、ActiveX 與 BHO 支援  <br/> |是  <br/> |是  <br/> |[是]<sup>+++<sup> <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否 <br/> |
+|Office 增益集、ActiveX 與 BHO 支援  <br/> |是  <br/> |是  <br/> |[是]<sup>+++<sup> <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是 <br/> |
 |SharePoint Server、SharePoint Online、商務用 OneDrive 和 Office 365 上筆記本的 OneNote 用戶端存取  <br/> |是  <br/> |是  <br/> |[是]<sup>++</sup> <br/> |是 <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/>|是  <br/> |否  <br/> |是 <br/> |
 |Office 遙測  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否 <br/> |
 |用戶端應用程式的離線支援  <br/> |是  <br/> |是  <br/>|是  <br/>  |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是 <br/> |

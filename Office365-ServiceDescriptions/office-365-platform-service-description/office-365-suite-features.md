@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主題中列出的功能是一群 web 式工具，可協助您進行共同作業並安全地跨多種裝置與多個 Office 365 服務進行通訊。 這些功能會協助在您的組織內進行新的連線，方法是整合數位內容建立、儲存及管理與用於在使用者之間探索及分享資訊的社交工具。
-ms.openlocfilehash: 65d497c213716b28cff0b8d34dea2a3a29bf3a54
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: ade0eb80e1161d9dc70baba7496bc2ecc48699aa
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776904"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998455"
 ---
 # <a name="office-365-suite-features"></a>Office 365 套件功能
 
@@ -48,7 +48,7 @@ Microsoft Forms 是 Office 365 教育版，可讓您快速且輕鬆地建立自�
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 <a name="BKMK_MyAnalytics"> </a>
 
-MyAnalytics 提供統計資料，協助您了解您如何消磨上班時間。MyAnalytics 會仔細觀察您日常工作的活動，找出您花費心思後可改善的領域，並提供工具讓您可更加善用自己的時間。若要深入了解 MyAnalytics，請移至[深入了解使用 MyAnalytics 的方式](https://support.office.com/en-us/article/Learn-more-about-the-way-you-work-with-Microsoft-MyAnalytics-23462129-e512-40ee-acad-d968916c31b8?ui=en-US&amp;rs=en-US&amp;ad=US) 和 [適用於 Office 365 系統管理員的 Microsoft MyAnalytics](https://support.office.com/en-us/article/Microsoft-MyAnalytics-for-Office-365-admins-77590915-6eb0-47a6-a72f-8116cfcfc2c7)。
+MyAnalytics 提供深入了解兩個的關鍵因素，在您的個人生產力： 如何消磨上班時間及由誰所花費它與。 MyAnalytics 看看您日常工作的模式，找到區域可受惠於注意，且您提供的工具，可達到更完善規劃使用的時間。 瞭解更多[Microsoft MyAnalytics](https://products.office.com/business/myanalytics-personal-analytics)和[Office 365 系統管理員適用的 Microsoft MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/mya-for-admins)。
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 <a name="BKMK_Planner"> </a>

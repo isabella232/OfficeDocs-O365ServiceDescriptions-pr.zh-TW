@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 為了符合唯一且不斷美國聯邦、 狀態、 本機，以及部落政府，以及承包商保留，或代表美國政府處理資料的需求，Microsoft 會提供 Office 365 美國政府社群 (GCC) 服務。 可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 試用版目前僅供美國政府實體使用。
-ms.openlocfilehash: 5a89a930b11f92e1b5278885839304cc4e5982f6
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 74cffc4b50c15b1aa5cfd32f65d70d6ce6f006e0
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776894"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998505"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -64,7 +64,7 @@ Yammer Enterprise 不是 Office 365 US Government 的元件，但每位獲得 Of
   
 ## <a name="office-365-us-government-community-and-myanalytics"></a>Office 365 US Government 社群雲端與 MyAnalytics
 
-MyAnalytics 係根據 Office 365 服務的 FedRAMP 控制實作所設計及運作，但尚未在 Office 365 年度 FedRAMP 稽核程序中由 3PAO 檢閱。如有必要，請洽詢相容性辦公室，才能啟用您組織中使用者的 MyAnalytics 服務。 
+MyAnalytics 係根據 Office 365 服務的 FedRAMP 控制實作所設計及運作，但尚未在 Office 365 年度 FedRAMP 稽核程序中由 3PAO 檢閱。如有必要，請洽詢相容性辦公室，才能啟用您組織中使用者的 MyAnalytics 服務。
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 美國政府社群雲端 (GCC) 客戶支援
 
