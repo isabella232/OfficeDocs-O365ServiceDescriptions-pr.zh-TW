@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 尋找適用於 Office 365 企業版方案及獨立方案的 SharePoint Online 限制。
-ms.openlocfilehash: 30b31ab7ee10958791a2593f2f6f578a39837fa5
-ms.sourcegitcommit: 5ca550879a6bba16133a6103dc2b1ac19befa473
+ms.openlocfilehash: 4ec162de7b5e005a177d0eb2f2122ba46422519c
+ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2019
-ms.locfileid: "35581312"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035099"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 限制 
 
@@ -46,10 +46,14 @@ ms.locfileid: "35581312"
 
 - **移動和複製整個網站集合** - 每個作業 100 GB。 網頁瀏覽器必須保持開啟狀態。
 
-- **同步處理** - 為獲得最佳效能，我們建議您在所有的同步處理文件庫中儲存最多 300,000 個檔案，即使您正使用視需要檔案，或僅在文件庫中選擇部分資料夾同步處理。如果您使用舊版商務用 OneDrive 同步處理用戶端 (Groove.exe)，每個文件庫的同步處理限制為 20,000 個項目 (包括每個小組網站 5000 項目)。
+- **同步處理** - 為了獲得最佳效能，我們建議您在所有同步處理文件庫中儲存的檔案不要超過 300,000 個，即使您使用的是檔案隨選只選擇同步處理文件庫中的部分資料夾。
+
+    如果您使用之前的商務用 OneDrive同步處理用戶端 (Groove.exe)，則可以在所有同步文件庫中同步處理最多 20,000 個項目。 其中包括商務用 OneDrive 文件庫、小組網站文件庫，或兩者。 除了整體同步處理限制之外，每個文件庫類型可同步處理的項目數量也會有所限制：
+    - 您可以在商務用 OneDrive 文件庫中同步處理最多 20,000 個項目。 包括資料夾和檔案。 
+    - 您可以在 SharePoint 文件庫中同步處理最多 5,000 個項目。 包括資料夾和檔案。 這些是您在不同 SharePoint 網站上找到的文件庫，例如小組網站和社群網站、其他人建立的文件庫或您從 [網站] 頁面建立的文件庫。 您可以同步處理多個 SharePoint 文件庫。 任何您同步處理的小組網站也會計算在所有同步處理文件庫的整體20,000 個項目數限制內。
 
     > [!NOTE]
-    > 如果使用者需要同步處理擁有成千數百檔案文件庫中的資料夾，可以使用設定資料夾層級至「限制讀取」，從同步處理用戶端來「隱藏」資料夾。 
+    > 如果使用者需要同步處理的文件庫內擁有成千上百的檔案，可以將資料夾的權限層級設定為「限制讀取」，讓同步處理用戶端無法處理資料夾。 
 
 - **版本** - 50,000 個主要版本和 511 個次要版本。
 
