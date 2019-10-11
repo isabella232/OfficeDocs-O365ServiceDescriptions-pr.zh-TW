@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全性與裝置管理功能，協助保護您的業務與整合式的解決方案。 . 此服務描述中說明的計劃選項和功能。 如需有關 Office 365 的詳細資訊，請參閱 Office 365 服務說明。
-ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
-ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
+ms.openlocfilehash: c0027b3c1200ff3408935096a269b7c651a02475
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36717541"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442548"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務說明
 
@@ -37,7 +37,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |商務用 Skype Online  <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |
 |Web 版 office  <br/> |是  <br/> |是  <br/> |
 |[Office 應用程式](../office-applications-service-description/office-applications-service-description.md)  <br/> |是  <br/> |是  <br/> |
-|Project Online  <br/> |沒有<sup>3</sup> <br/> |沒有<sup>3</sup> <br/> |
+|Microsoft Project Online  <br/> |沒有<sup>3</sup> <br/> |沒有<sup>3</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |
 |Yammer Enterprise  <br/> |是  <br/> |是  <br/> |
 |Azure 資訊保護  <br/> |否  <br/> |是<sup>4</sup> <br/> |
@@ -58,7 +58,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |Office 365 影片  <br/> |否  <br/> |否  <br/> |
 |OneNote 課程筆記本  <br/> |否  <br/> |否  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |是  <br/> |是  <br/> |
-|[Office 365 系統管理功能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
+|[Microsoft 365 系統管理中心功能](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |使用 Microsoft 365 系統管理中心或 Windows PowerShell 來管理 Office 365  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 資訊保護 來保護內容  <br/> |沒有<sup>6</sup> <br/> |是  <br/> |
 |共用電腦啟用 <br/> |否 <br/> |是  <br/> |

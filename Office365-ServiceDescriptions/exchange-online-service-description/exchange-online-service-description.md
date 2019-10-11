@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之 Office 365 訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
-ms.openlocfilehash: 2038f53408d3c7e924e90f8b9f7a898a52d36530
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 25f490e953c3d3e865e02eeb19de06e05b4ce6df
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776594"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442648"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -35,7 +35,7 @@ ms.locfileid: "35776594"
   
 Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsoft Exchange Server 功能作為雲端式服務。它可讓使用者從個人電腦、Web 和行動裝置存取電子郵件、行事曆、連絡人與工作。它與 Active Directory 完全整合，可讓系統管理員使用群組原則以及其他管理工具，進而在其整個環境中管理 Exchange Online 功能。
   
-訂閱 Exchange Online 的組織可控制其提供給使用者的訊息服務，而不需要負擔內部部署伺服器軟體的運作責任。透過本文件所述的 Exchange Online 託管計劃，電子郵件會託管於伺服器上，這些伺服器可同時支援多個客戶。這些伺服器位於 Microsoft 資料中心，使用者可使用各種裝置從企業網路內，或透過網際網路來存取。
+訂閱 Exchange Online 的組織可控制其提供給使用者的訊息服務，而不需要負擔內部部署伺服器軟體的運作責任。 透過本文件所述的 Exchange Online 託管計劃，電子郵件會託管於伺服器上，這些伺服器可同時支援多個客戶。 這些伺服器位於的 Microsoft 資料中心，在各種裝置從企業網路內，或透過網際網路上的使用者都可以存取。
   
 若要跨方案比較功能，請參閱[比較 Office 365 for Business 方案](https://products.office.com/business/compare-more-office-365-for-business-plans)。若要比較 Office 365 Germany 的方案，請參閱 [Office 365 Germany 訂閱方案](https://go.microsoft.com/fwlink/?linkid=839016)。
   
@@ -171,7 +171,7 @@ Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsof
 |遠端 Windows PowerShell 存取|是|是|是|是|是|是|是|是|
 |用於行動裝置的 ActiveSync 原則|是|是|是|是|是|是|是|是|
 |使用報告|是|是|是|是|是|是|是|是|
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商務基本版**|**Office 365 商務進階版**|**Office 365 企業版 E1**|**Office 365 企業版 E3**|**Office 365 企業版 E5**|**Office 365 企業版 F1**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商務基本版**|**Office 365 商務進階版**|**Office 365 企業版 E1**|**Office 365 企業版 E3**|**Office 365 企業版 E5**|**Office 365 企業版 F1**|
 |Outlook 增益集和 Outlook MAPI|是<sup>19</sup>|是|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|否|
 
 <sup>1</sup>每一個具有雲端式封存的內部部署信箱使用者需有 Exchange Online Archiving 訂閱。 <br/>
@@ -196,7 +196,7 @@ Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsof
 <sup>20</sup>電子文件探索，您需要內部部署與雲端比較不同的查詢。 <br/>
 <sup>21</sup>表格會指出在用戶端的運作方式與相關聯的計劃。 其並不代表這些計劃的採購中必須包含用戶端。 <br/>
 <sup>22</sup>如需詳細資訊，請參閱[控制使用客戶金鑰的 Office 365 中的資料](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
-<sup>23</sup> Exchange Online UM 支援透過直接連線從客戶運作 Sbc 協力廠商 PBX 系統便會在 April 2019 結束。 請 Exchange 小組部落格[主題的 Exchange Online 整合通訊中的工作階段邊界控制器支援](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/)如需詳細資訊，參閱。 <br/>
+<sup>23</sup> Exchange Online UM 支援透過直接連線從客戶運作 Sbc 協力廠商 PBX 系統便會在 April 2019 結束。 請 Exchange 小組部落格[主題的 Exchange Online 整合通訊中的工作階段邊界控制器支援](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)如需詳細資訊，參閱。 <br/>
 <sup>24</sup> F1 使用者不能將委派新增至他們自己的信箱，但他們可以存取另一個信箱 （包括共用的信箱），並執行任何已指派給他們的動作。
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>各 Exchange Online 獨立方案中可用的功能
@@ -301,7 +301,7 @@ Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsof
 |遠端 Windows PowerShell 存取|是|是|是|是|是|
 |用於行動裝置的 ActiveSync 原則|是|是|是|是|是|
 |使用報告|是|是|是|是|是|
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
 |Outlook Web App Web 組件|是|是|是|是|是|
 |Outlook 增益集和 Outlook MAPI|是|是|Yes<sup>21</sup>|Yes<sup>21</sup>|否|
 

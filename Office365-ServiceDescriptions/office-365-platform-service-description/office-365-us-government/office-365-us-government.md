@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 回應美國公共部門特殊且不斷變化需求，Microsoft 已建立 Office 365 US Government 計劃 （或 Office 365 政府版）。 本節提供 Office 365 政府美國環境特有的功能的概觀。 我們建議您先閱讀本補充章節配合 Office 365 服務說明。
-ms.openlocfilehash: f13bcd40d707f582355d76676212f10b04973bfb
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 4765344c128f53057c75b55e9d79120b03d63942
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998495"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442738"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -156,8 +156,8 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |Skype for Business (Instant Messaging &amp; Presence)  <br/> |Yes<sup>1</sup> <br/> |是  <br/> |是  <br/> |Yes<sup>1</sup> <br/> |
 | 語音-電話系統、 音訊會議  <br/> |否<sup>2, 3</sup> <br/> |否<sup>2, 3</sup> <br/> |是<sup>3，5</sup> <br/> |否  <br/> |
 |Power BI Pro  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |沒有<sup>2</sup> <br/> |
-|Project Online  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |
-|Visio 網頁  <br/> |沒有<sup>6</sup> <br/> |沒有<sup>6</sup> <br/> |沒有<sup>6</sup> <br/> |沒有<sup>6</sup> <br/> |
+|Microsoft Project Online  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |
+|Visio 網頁版  <br/> |沒有<sup>6</sup> <br/> |沒有<sup>6</sup> <br/> |沒有<sup>6</sup> <br/> |沒有<sup>6</sup> <br/> |
 |Yammer Enterprise  <br/> |沒有<sup>4</sup> <br/> |沒有<sup>4</sup> <br/> |沒有<sup>4</sup> <br/> |沒有<sup>4</sup> <br/> |
    
 > <sup>1</sup>商務用 Skype 商務基本是供所有客戶使用。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Office 365 專業增強版、 G3 和 G5 包含完整的 Skype 應用程式，其包含額外的功能，例如進階電話語音支援、 封存和規範功能。 A Skype for Business Online license must be assigned for each user.
@@ -354,7 +354,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |Power Pivot for Excel  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |Excel 的 Power Query  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |Power View for Excel  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
-|漫遊設定  <br/> |否  <br/> |[是]<sup></sup> <br/> |是<sup></sup> <br/> |否  <br/> |
+|漫遊設定  <br/> |否  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |否  <br/> |
 |共用電腦啟用  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |支援對雲端架構檔案儲存進行封鎖  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |版本升級  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
@@ -362,7 +362,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
    
 > <sup>1</sup> azure 資訊保護未包含在內，但能以個別的附加元件形式購買，並將會啟用支援的資訊版權管理 (IRM) 功能。 部分 Azure 資訊保護功能需要訂閱 Office 365 專業增強版，而不含 Office 365 政府版 G1 或 Office 365 政府版 F1。 
 <br/><sup>2</sup> Windows Server AD RMS 是內部部署伺服器，必須是採購並管理，才能啟用支援的 IRM 功能。 
-<br/><sup>3</sup>商務基本 Skype 是供所有客戶使用。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Office 365 專業增強版和 Office 365 Enterprise E3 包含完整的 Skype 應用程式，其包含額外的功能，例如進階電話語音支援、 封存和規範功能。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/library/gg425836%28v=ocs.15%29.aspx). 
+<br/><sup>3</sup>商務基本 Skype 是供所有客戶使用。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Office 365 專業增強版和 Office 365 Enterprise E3 包含完整的 Skype 應用程式，其包含額外的功能，例如進階電話語音支援、 封存和規範功能。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
 <br/><sup>4</sup>尚未提供，不在 GCC High 或 DoD 環境中，但即將推出。
 <br/><sup>5</sup>如需詳細資訊，請參閱[使用 Outlook for iOS 和 Android 中 「 政府社群雲端](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)。
   <br/><sup>6</sup>尚未不適用於 Office 365 DoD 環境中，但即將推出。

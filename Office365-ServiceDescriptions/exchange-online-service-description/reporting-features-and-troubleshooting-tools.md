@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online 提供各種報告功能在 Exchange 系統管理中心 (EAC)。
-ms.openlocfilehash: 2926a667e6a886f128de4234e7dfc911b486c474
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 709f354335875f08902a6ab09933de3558d165e7
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776864"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442638"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>報告功能和疑難排解工具
 
@@ -25,7 +25,7 @@ Microsoft Exchange Online 提供各種報告功能在 Exchange 系統管理中�
   
 ## <a name="reporting-features"></a>報告功能
 
-Exchange Online 客戶可以存取 Microsoft 365 系統管理中心內的報告，透過下載 Excel 報告活頁簿，或使用 Web 服務。
+Exchange Online 客戶可以存取 Microsoft 365 系統管理中心內的報告，透過下載 Excel 報告活頁簿，或使用 web 服務。
   
 ### <a name="reporting-in-the-microsoft-365-admin-center"></a>在 Microsoft 365 系統管理中心報告
 
@@ -39,9 +39,9 @@ Exchange Online 客戶可以存取 Microsoft 365 系統管理中心內的報告�
 
 您也可以使用 Excel 2013 報告活頁簿，來檢視具有深入探查功能的摘要報告。 不過，我們建議您改為使用增強的 Microsoft 365 系統管理中心報告。 Excel 2013 報告活頁簿預計將在未來被取代。 如需更多概觀資訊，以及下載和安裝活頁簿的連結，請參閱下列[下載頁面](https://go.microsoft.com/fwlink/p/?LinkId=271776)。 如需有關如何使用活頁簿的資訊，請參閱[使用 Excel 報告活頁簿的郵件保護報告](https://go.microsoft.com/fwlink/p/?LinkId=285211)。 
   
-### <a name="reporting-using-web-services"></a>使用 Web 服務報告
+### <a name="reporting-using-web-services"></a>Reporting using web services
 
-透過使用 REST/OData Tenant Reporting Web 服務 (可讓您建立自訂報告的程式設計介面) 可同時存取信箱、群組和訊息資料的摘要報告和詳細資料報告。如需詳細資訊，請參閱 [Office 365 報告 Web 服務](https://go.microsoft.com/fwlink/p/?LinkId=287041)。
+存取信箱、 群組及郵件資料的相關的摘要和詳細報告，請使用 REST/OData 租用戶報告 web 服務，也就是可讓您建立自訂報告的程式設計介面。 如需詳細資訊，請參閱[Office 365 報告 web 服務](https://go.microsoft.com/fwlink/p/?LinkId=287041)。
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>EAC 中的報告功能和疑難排解工具
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 本主題說明包含與 Microsoft Exchange Online 的收件者相關功能。 其中包括電子郵件、連絡人、通訊群組，以及行事曆與排程功能。
-ms.openlocfilehash: c4bac85f6a3610152cd8cb0767c7344c2e88d1f2
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 6bbbd34e080a88f0936d612aba834f854985af19
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776884"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442618"
 ---
 # <a name="recipients"></a>收件者
 
@@ -155,7 +155,7 @@ Ad管理員需透過遠端 Windows PowerShell 來定義並管理 RBA 設定。
   
 - **共用同盟行事曆** 同盟指的是支援同盟共用的基礎信任基礎結構，對 Exchange 使用者而言，這是與其他外部同盟組織中的收件者共用空閒/忙碌行事曆資料和連絡人資訊的簡易方法。其中包括 Exchange Online 組織或在內部部署執行 Exchange Server 2010 或 Exchange Server 2013 組織。Exchange Online 管理員不需要建立與 Microsoft Federation Gateway 之間的信任，因為此信任在 Office 365 租用戶服務建立時即已預先為所有 Exchange Online 客戶設定完成。預設共享原則允許使用者自 Outlook Web App 或 Outlook 2010 傳送行事曆共享邀請。管理員使用遠端 Windows PowerShell 來停用此原則或設定使用者可共享的空閒／忙碌行事曆資料層級。管理員也可與其他同盟組織建立組織對組織的關係，允許每個使用者的空閒／忙碌資訊層級顯示於跨組織平台上，而無需讓個別使用者建立共享邀請。在管理員定義的共享原則及／或組織對組織關係的範圍內，使用者可進一步個別限制其共享詳情。 
     
-- **共用網際網路行事曆** Exchange Online 允許使用者使用 iCal 格式由組織內或組織外的使用者進行匿名存取以發佈行事曆。收件者可使用 Exchange、其他平台或單純使用網路瀏覽器。Exchange Online 使用者也可訂閱其他人透過 iCal 發布至網際網路位置的行事曆。此個人行事曆共享與由管理員設定同盟行事曆共享不同，並提供組織對組織的空閒／忙碌共享。在管理員設定並套用允許發布的共享原則前，使用者無法以 iCal 格式發布行事曆資料。管理員可使用 Windows PowerShell 為組織中的使用者停用 iCal 發布與 iCal 訂閱。 
+- **共用網際網路行事曆** Exchange Online 允許使用者使用 iCal 格式由組織內或組織外的使用者進行匿名存取以發佈行事曆。 收件者可使用 Exchange、其他平台或單純使用網路瀏覽器。 Exchange Online 使用者也可訂閱其他已發佈至網際網路位置，透過 iCal 行事曆。 此個人行事曆共享與由管理員設定同盟行事曆共享不同，並提供組織對組織的空閒／忙碌共享。 在管理員設定並套用允許發布的共享原則前，使用者無法以 iCal 格式發布行事曆資料。 管理員可使用 Windows PowerShell 為組織中的使用者停用 iCal 發布與 iCal 訂閱。 
     
 如需有關同盟共用的詳細資訊，請參閱[在 Exchange Online 中共用](https://go.microsoft.com/fwlink/p/?LinkId=271774)。
   

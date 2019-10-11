@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
-ms.openlocfilehash: 6d598df31d01345e1049b29ec193baf08edc165c
-ms.sourcegitcommit: 9a20f05a53c5b906dea21ae9e3f65653b2c01967
+ms.openlocfilehash: 5e804bdb93ac7f2e001879e6f0555330f7425ff3
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36672597"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442688"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -207,7 +207,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |每一公用資料夾的子資料夾數目警告|9000|9000|9000|9000|9000|無法使用|
 
 > [!NOTE]
-> <sup>1</sup> 這是 [可復原的項目] 資料夾的儲存配額，而非整個封存信箱的配額。 對於使用 Exchange Online 方案 2 授權的使用者或同時擁有 Exchange Online 方案 1 和 Exchange Online 封存授權的使用者，封存信箱的儲存配額是無限制的。 如需增加可復原的項目配額的詳細資訊，請參閱[為保留中信箱增加可復原的項目配額](http://technet.microsoft.com/library/a8bdcbdd-9298-462f-b889-df26037a990c.aspx)。 <br/> <sup>2</sup> 封存信箱中 [可復原的項目] 資料夾的初始儲存配額是 100 GB。 開啟自動展開封存時，當 [可復原項目] 資料夾達到儲存容量時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://go.microsoft.com/fwlink/?linkid=844060)。 如需自動展開封存的可用性詳細資訊，請參閱 [Office 365 藍圖](http://go.microsoft.com/fwlink/?LinkId=509914)。
+> <sup>1</sup> 這是 [可復原的項目] 資料夾的儲存配額，而非整個封存信箱的配額。 對於使用 Exchange Online 方案 2 授權的使用者或同時擁有 Exchange Online 方案 1 和 Exchange Online 封存授權的使用者，封存信箱的儲存配額是無限制的。 如需增加可復原的項目配額的詳細資訊，請參閱[為保留中信箱增加可復原的項目配額](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)。 <br/> <sup>2</sup> 封存信箱中 [可復原的項目] 資料夾的初始儲存配額是 100 GB。 開啟自動展開封存時，當 [可復原項目] 資料夾達到儲存容量時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://go.microsoft.com/fwlink/?linkid=844060)。 如需自動展開封存的可用性詳細資訊，請參閱 [Office 365 藍圖](http://go.microsoft.com/fwlink/?LinkId=509914)。
 
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>不同獨立方案的信箱資料夾限制
 
@@ -231,7 +231,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |每一公用資料夾的子資料夾數目警告|不適用|900|900|無|
 
 > [!NOTE]
-> <sup>1</sup> Microsoft 建議每個信箱資料夾的郵件數不要超過 1,000,000 封。 > <br/> <sup>2</sup> 這是 [可復原的項目] 資料夾的儲存配額，而非整個封存信箱的配額。 對於使用 Exchange Online 方案 2 授權的使用者或同時擁有 Exchange Online 方案 1 和 Exchange Online 封存授權的使用者，封存信箱的儲存配額是無限制的。 如需增加可復原的項目配額的詳細資訊，請參閱[為保留中信箱增加可復原的項目配額](http://technet.microsoft.com/library/a8bdcbdd-9298-462f-b889-df26037a990c.aspx)。 <br/> <sup>3</sup> 封存信箱中 [可復原的項目] 資料夾的初始儲存配額是 100 GB。 開啟自動展開封存時，當 [可復原項目] 資料夾達到儲存容量時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://go.microsoft.com/fwlink/?linkid=844060)。 如需自動展開封存的可用性詳細資訊，請參閱 [Office 365 藍圖](http://go.microsoft.com/fwlink/?LinkId=509914)。
+> <sup>1</sup> Microsoft 建議每個信箱資料夾的郵件數不要超過 1,000,000 封。 > <br/> <sup>2</sup> 這是 [可復原的項目] 資料夾的儲存配額，而非整個封存信箱的配額。 對於使用 Exchange Online 方案 2 授權的使用者或同時擁有 Exchange Online 方案 1 和 Exchange Online 封存授權的使用者，封存信箱的儲存配額是無限制的。 如需增加可復原的項目配額的詳細資訊，請參閱[為保留中信箱增加可復原的項目配額](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)。 <br/> <sup>3</sup> 封存信箱中 [可復原的項目] 資料夾的初始儲存配額是 100 GB。 開啟自動展開封存時，當 [可復原項目] 資料夾達到儲存容量時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://go.microsoft.com/fwlink/?linkid=844060)。 如需自動展開封存的可用性詳細資訊，請參閱 [Office 365 藍圖](http://go.microsoft.com/fwlink/?LinkId=509914)。
 
 ## <a name="message-limits"></a>郵件限制
 
@@ -313,7 +313,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 ### <a name="receiving-limits"></a>接收限制
 
-接受限制會套用至使用者、群組或公用資料夾每小時能接收的訊息數量。這會同時套用至從網際網路和內部部署伺服器接收的訊息。當超過接收限制時，任何傳送到該信箱的電子郵件將會收到未傳遞報告，指出信箱已超過最大傳遞臨界值。一個小時之後，將會重新整理限制，而信箱就能夠再度接收郵件。
+接受限制會套用至使用者、群組或公用資料夾每小時能接收的訊息數量。 這適用於這兩個接收的郵件從網際網路和內部部署伺服器。 當超過接收限制時，任何傳送到該信箱的電子郵件將會收到未傳遞報告，指出信箱已超過最大傳遞臨界值。 一個小時之後，將會重新整理限制，而信箱就能夠再度接收郵件。
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|

@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 114812240efb18573ed7defaa88010bebfdac0bd
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 2bb90afe0011d1799a9faf71ea025261d586692d
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776914"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442538"
 ---
 # <a name="sharing-and-collaboration"></a>共用和協同
 
 ## <a name="federated-sharing"></a>同盟共用
 
-同盟指的是支援同盟共用的基礎信任基礎結構，對 Microsoft Exchange Online 使用者而言，這是與其他外部同盟組織中的收件者或與可存取網際網路的使用者有空/忙碌共用行事曆資料和連絡人資訊的方法。這些包括使用 Exchange Online 託管的組織，或外部 Microsoft Exchange Server 2010 或 Exchange Server 2013 組織。Exchange Online 系統管理員可使用組織關係和共用原則，允許使用者從 Microsoft Outlook Web App 或 Microsoft Outlook 2010 或更新版本傳送行事曆共用邀請。
+同盟指的是基礎信任基礎結構支援同盟共用，Microsoft Exchange Online 使用者共用空閒/忙碌行事曆資料和連絡人與其他外部同盟組織中收件者的相關資訊的方法或要能存取網際網路的使用者。 這些包括使用 Exchange Online 託管的組織，或外部 Microsoft Exchange Server 2010 或 Exchange Server 2013 組織。 Exchange Online 系統管理員可使用組織關係和共用原則，允許使用者從 Microsoft Outlook Web App 或 Microsoft Outlook 2010 或更新版本傳送行事曆共用邀請。
   
 > [!IMPORTANT]
 >  外部 Exchange 2010 和 Exchange 2013 組織必須在設定同盟共用的過程中，設定與 Microsoft Federation Gateway 之間的同盟信任。Exchange Online 組織不需要設定同盟信任，因為與 Microsoft Federation Gateway 之間的同盟信任會在建立 Office 365 租用戶時自動建立。 >  Exchange Online 組織必須設定組織關係或共用原則，才能啟用同盟共用。 >  同盟共用不支援共用全域存取清單 (GAL)，或在不同 Office 365 租用戶中於 Exchange Online 組織之間移動使用者信箱。 

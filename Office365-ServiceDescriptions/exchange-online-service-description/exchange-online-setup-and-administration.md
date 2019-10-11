@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: 本節說明的管理控制和可自訂 Exchange Online 設定，並跟組織的 Exchange Online 環境，在執行，且目前的支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
-ms.openlocfilehash: eae4fc583661025fdc509d4b36cf0cb46353bed6
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: ba7d1aa31aba19f43d3318687daf76f50f60d08f
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776484"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442628"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 的安裝和管理
 
@@ -40,24 +40,20 @@ ms.locfileid: "35776484"
 - [Exchange Online 的遠端 Windows PowerShell](exchange-online-setup-and-administration.md#remote-windows-powershell-for-exchange-online)
     
 ### <a name="microsoft-office-365-portal"></a>Microsoft Office 365 入口網站
-<a name="BKMK_MicrosoftOnlineServicesPortal"> </a>
 
 位於 [https://portal.office.com](https://portal.office.com) 的 Microsoft Office 365 入口網站，可供系統管理員與合作夥伴購買和管理 Office 365 服務，並讓使用者存取及使用 Office 365 共同作業工具。
   
 ### <a name="microsoft-365-admin-center"></a>Microsoft 365 系統管理中心
-<a name="BKMK_Office365admincenterl"> </a>
 
 在 Microsoft 365 系統管理中心是從中每個公司的服務管理員可以管理使用者帳戶的入口網站及訂閱的每個 Office 365 服務的設定。 從內 Microsoft 365 系統管理中心中，系統管理員可以遵循連結至 Exchange 系統管理中心 (EAC) 中，他們可以在其中管理 Exchange Online 專屬的設定。 如需有關取得及執行使用 Microsoft 365 系統管理中心，請參閱下列影片：[介紹 Office 365 企業版](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
   
 ### <a name="exchange-admin-center"></a>Exchange 系統管理中心
-<a name="BKMK_ExchangeAdministrationCenter"> </a>
 
 Exchange Online 提供單一整合的管理主控台，讓使用者更方便使用且最佳化內部部署、線上或混合部署的管理。Exchange 系統管理中心 (EAC) 是管理員管理 Exchange 專屬設定的地方。
   
 如需有關如何使用 EAC 管理 Exchange Online 的詳細資訊，請參閱 [Exchange 系統管理中心](https://go.microsoft.com/fwlink/p/?LinkId=271807)。
   
 ### <a name="remote-windows-powershell-for-exchange-online"></a>Exchange Online 的遠端 Windows PowerShell
-<a name="BKMK_RemoteWindowsPowerShell"> </a>
 
 管理員可以使用遠端 Windows PowerShell 連線至 Exchange Online，以執行使用 EAC 無法提供或無法實際執行的管理工作。這些包括能夠自動執行重複性工作、擷取用於自訂報告的資料、自訂原則，以及連線 Exchange Online 至現有基礎結構和程序。如需詳細資訊，請參閱[使用遠端 PowerShell 連線到 Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=308994)。
   

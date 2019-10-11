@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 7f01e3e013ea714735af300a8ecf36dd26984757
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 7087de4dbcc4955d8c66ce4b4a9c4c12e763aa38
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776924"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442558"
 ---
 # <a name="voice-message-services"></a>語音訊息服務
 
@@ -66,7 +66,7 @@ Microsoft Exchange Online 提供託管語音信箱服務，可提供：
 協力廠商的內部部署語音信箱解決方案只要能透過 SMTP 轉送語音訊息，或是支援 Microsoft Exchange Web 服務，即可與 Exchange Online 互通。如果語音信箱系統原本就不支援透過 SMTP 轉送語音訊息，則電子郵件伺服器可以保持為內部部署，以接收來自語音信箱系統的訊息，再使用 SMTP 將訊息轉寄到雲端。由於許多協力廠商語音郵件系統均使用 MAPI/CDO 與 Exchange Server 互通以便使用進階 UM 功能，因此，當使用 SMTP 以便與 Exchange Online 互通時，這些系統的完整功能可能無法提供。
   
 > [!NOTE]
-> Exchange Online UM 支援透過直接連線從客戶運作 Sbc 協力廠商 PBX 系統將在 2018 年 7 月結束。 請如需詳細資訊，參閱[主題的 Exchange Online 整合通訊中的工作階段邊界控制器的支援](https://blogs.technet.microsoft.com/exchange/2017/07/18/discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/)。 
+> Exchange Online UM 支援透過直接連線從客戶運作 Sbc 協力廠商 PBX 系統將在 2018 年 7 月結束。 請如需詳細資訊，參閱[主題的 Exchange Online 整合通訊中的工作階段邊界控制器的支援](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Discontinuation-of-support-for-Session-Border-Controllers-in/ba-p/607117)。 
   
 ## <a name="skype-for-business-integration"></a>商務用 Skype 整合
 
