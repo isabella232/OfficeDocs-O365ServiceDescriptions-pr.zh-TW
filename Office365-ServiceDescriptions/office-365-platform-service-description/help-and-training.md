@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 提供下列說明和訓練資源。
-ms.openlocfilehash: 7d9769074cea9d9c26eb176183aff6e85ad57000
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 8bd0fbb57d7555514f6aa58c8e1b95740d852f79
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130897"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523411"
 ---
 # <a name="help-and-training"></a>說明和訓練
 
@@ -25,7 +25,7 @@ Microsoft Office 365 提供下列說明和訓練資源。
   
 ## <a name="online-help"></a>線上說明
 
-您可以從服務中的任何內嵌說明連結取得說明文章和影片, 包括 Office 365 入口網站和 Microsoft 365 系統管理中心的上方導覽列中的 [說明] 圖示。 您也可以前往 [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) 搜尋所有 Office 365 說明。 
+說明文章和影片可從任何內嵌說明中連結的服務，包括 Office 365 入口網站和 Microsoft 365 系統管理中心的上方導覽列中的 [說明] 圖示。 您也可以前往 [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) 搜尋所有 Office 365 說明。 
   
 ## <a name="training"></a>訓練
 
@@ -88,17 +88,17 @@ Office 365 社群是提供自助支援資訊的單一目的地平台。社群透
     
 - **部落格** Office 365 技術部落格是取得 Office 365 線上服務最新資訊的一個很好的來源，並可藉此了解 Office 365 功能的優點。主題包含產品資訊、新產品公告、客戶訪談以及一系列的來賓部落格。 
     
-如需詳細資訊，請瀏覽 [Office 365 社群](https://go.microsoft.com/fwlink/?LinkId=272057)。
+如需詳細資訊，請瀏覽 [Office 365 社群](https://techcommunity.microsoft.com/)。
   
-## <a name="office-365-techcenter"></a>Office 365 TechCenter
+## <a name="manage-office-365-guidance"></a>管理 Office 365 指導方針
 
-大型組織的 IT 專業人員可以瀏覽 Office 365 TechNet 上的 TechCenter。Office 365 TechCenter 旨在為大型組織提供複雜的部署指南。
+大型組織的 IT 專業人員可以瀏覽管理 Office 365 文件首頁。 本頁面提供複雜的部署指南旨在為大型組織的連結。
   
-如需詳細資訊，請瀏覽 [Office 365 TechCenter](https://go.microsoft.com/fwlink/?LinkId=272058)。
+如需詳細資訊，請瀏覽[管理 Office 365](https://docs.microsoft.com/Office365/)。
   
 ## <a name="other-self-help-resources"></a>其他自助資源
 
-除了 Office 365 社群和線上說明之外，Office 365 也包含下列自助資源：
+除了 Office 365 社群和線上說明，Office 365 也包含下列自助資源：
   
 - **Office 365 的疑難排解工具** 針對您的問題提供一系列簡答後，Office 365 的疑難排解工具會根據您的回答推薦一些實用的工具和資訊。若要使用該工具，請移至 Office 365 社群的 [Office 365 的疑難排解工具](https://go.microsoft.com/fwlink/?LinkId=272113)頁面。 
     
@@ -149,6 +149,4 @@ Office 365 社群是提供自助支援資訊的單一目的地平台。社群透
    
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、獨立選項和內部部署方案的功能可用性，請參閱 [Office 365 平台服務說明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)。
-  
-
+若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Office 365 平台服務說明](office-365-platform-service-description.md)。

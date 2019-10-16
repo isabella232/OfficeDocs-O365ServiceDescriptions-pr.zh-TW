@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry® 智慧型手機可以存取 Office 365 中的電子郵件和文件。
-ms.openlocfilehash: 0af0e0f1615c45c468b05d66e274c158dba673e0
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 45271840070ede0ce00cbb85fe2d5fdca0429555
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776944"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523468"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -53,6 +53,5 @@ BlackBerry 10 智慧型手機可以使用 Microsoft Exchange ActiveSync 直接�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 規劃的功能可用性，請參閱 [Office 365 平台服務說明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)。
+若要檢視跨 Office 365 規劃的功能可用性，請參閱 [Office 365 平台服務說明](office-365-platform-service-description.md)。
   
-
