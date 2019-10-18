@@ -27,7 +27,7 @@ OneDrive 是為組織中個別授權使用者在雲端提供的線上儲存空�
   
 OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方案中，也可以獨立方案形式個別購買。 
     
-若要比較方案，請參閱 [比較商務用 Office 365 方案](https://go.microsoft.com/fwlink/?linkid=799177) 和 [比較商務用 OneDrive 方案](https://products.office.com/zh-TW/onedrive-for-business/compare-onedrive-for-business-plans)。 
+若要比較方案，請參閱 [比較商務用 Office 365 方案](https://go.microsoft.com/fwlink/?linkid=799177) 和 [比較商務用 OneDrive 方案](https://products.office.com/en-us/onedrive-for-business/compare-onedrive-for-business-plans)。 
   
 > [!NOTE]
 > 商務用 OneDrive 獨立方案包含 Office Online。 
