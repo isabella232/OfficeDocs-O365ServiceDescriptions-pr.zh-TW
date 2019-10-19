@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 為了符合唯一且不斷美國聯邦、 狀態、 本機，以及部落政府，以及承包商保留，或代表美國政府處理資料的需求，Microsoft 會提供 Office 365 美國政府社群 (GCC) 服務。 可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 試用版目前僅供美國政府實體使用。
-ms.openlocfilehash: 74cffc4b50c15b1aa5cfd32f65d70d6ce6f006e0
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 263c73acae70d8fd0a8aeb6ab0de20a36c28b023
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998505"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595281"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -37,15 +37,15 @@ Exchange Online、 SharePoint Online、 Exchange Online 封存、 商務用 Skyp
   
 ## <a name="office-365-us-government-community-screened-personnel"></a>Office 365 US Government 社群雲端過濾的人員
 
-Office 365 人員沒有 Office 365 美國政府社群 中所裝載的客戶內容常設存取權。任何人員若想要求臨時權限提高以獲授客戶內容存取權，必須先經過下列背景檢查︰ 
+Office 365 人員沒有 Office 365 美國政府社群 中所裝載的客戶內容常設存取權。 任何人員若想要求臨時權限提高以獲授客戶內容存取權必須先經過下列背景檢查。 
   
 |||
 |:-----|:-----|
-|**Microsoft 人員檢測和背景檢查**<sup>1</sup> <br/> |**描述** <br/> |
-|美國公民權  <br/> |美國公民權驗證  <br/> |
+|**Microsoft 人員檢測和背景檢查** <sup>1</sup> <br/> |**描述** <br/> |
+|美國公民  <br/> |美國公民權驗證  <br/> |
 |工作經驗檢查  <br/> |七 (7) 年工作經驗的驗證  <br/> |
 |教育驗證  <br/> |取得之最高學位驗證  <br/> |
-|美國社會安全編號 (SSN) 搜尋  <br/> |所提供之 SSN 為有效的驗證  <br/> |
+|社會安全號碼 (SSN) 搜尋  <br/> |所提供之 SSN 為有效的驗證  <br/> |
 |刑事案件記錄檢查  <br/> |州、郡及地方層級和聯邦層級之重刑和民事案件的七 (7) 年刑事案件記錄  <br/> |
 |海外資產控制辦公室 (OFAC)  <br/> |美國人民不允許參與貿易或財務交易之財政部團體清單驗證  <br/> |
 |工業和安全局清單 (BIS)  <br/> |商務部禁止從事出口活動之個人與實體清單驗證  <br/> |
@@ -53,7 +53,8 @@ Office 365 人員沒有 Office 365 美國政府社群 中所裝載的客戶內�
 |指紋檢查  <br/> |FBI 資料庫指紋背景檢查  <br/> |
 |CJIS 背景檢測  <br/> |每個已簽署 Microsoft CJIS IA 計劃的州內由州 CSA 所任命之授權單位州裁定的聯邦與州刑事案件記錄審查  <br/> |
 
-<sup>1</sup>只適用於人員暫時性或站裝載在 Office 365 美國政府社群雲端 (GCC) 的客戶內容存取  
+<sup>1</sup>只適用於人員暫時性或站裝載在 Office 365 美國政府社群雲端 (GCC) 的客戶內容存取。
+  
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 US Government 社群雲端與 Yammer
 
 Yammer Enterprise 不是 Office 365 US Government 的元件，但每位獲得 Office 365 US Government 方案 E1 和 E3 授權的使用者都可以免費取得，做為獨立優惠。這項優惠目前僅限於透過 Enterprise 合約及 Enterprise Subscription 合約購買 Office 365 US Government 的客戶享有。 

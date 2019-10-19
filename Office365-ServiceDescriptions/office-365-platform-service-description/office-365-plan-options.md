@@ -16,21 +16,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
-ms.openlocfilehash: 6aacf27114876564707f44ee310ae3bc3d9b1fb3
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 18fb079e0d6353595841d02c274ba5bbab35935b
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131257"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582059"
 ---
 # <a name="office-365-plan-options"></a>Office 365 方案選項
 
 Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
   
 ## <a name="office-365-service-families-and-plans"></a>Office 365 服務系列與方案
-<a name="bkmk_O365Service_Families_and_Plans"> </a>
 
-下表列出 Office 365 中各種不同服務系列與方案。如需功能和定價資訊的進階概觀，或是與線上服務代表洽談，請按一下方案欄中的任何連結。
+下表列出 Office 365 中各種不同服務系列與方案。 高階概觀的功能和定價的詳細資訊，或是與線上服務代表洽談，選取 [計劃] 欄中的任何連結。
   
 |**Office 365 服務系列**|**方案**|
 |:-----|:-----|
@@ -50,24 +49,24 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**服務** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 企業版 F1** <br/> |
+|**服務** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5<sup>4</sup>，<sup>16</sup>** <br/> |**Office 365 企業版 F1** <br/> |
 |Office 365 平台  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Exchange Online  <br/> |是<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |是<sup>9</sup> <br/> |
+|Exchange Online  <br/> |是<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |商務用 OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>5</sup> <br/> |
-|商務用 Skype Online <sup>15</sup> <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>11</sup> <br/> |是<sup>13</sup> <br/> |是<sup>14</sup> <br/> |
-|Web 版 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Skype 商務 Online <sup>15</sup> <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>13</sup> <br/> |Yes<sup>14</sup> <br/> |
+|Web 版 office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 應用程式  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Project Online  <br/> |沒有<sup>1</sup> <br/> |否  <br/> |沒有<sup>1</sup> <br/> |沒有<sup>1</sup> <br/> |沒有<sup>1</sup> <br/> |沒有<sup>1</sup> <br/> |沒有<sup>1</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |Yammer Enterprise  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Azure 資訊保護<sup>3</sup> <br/> |無<sup>2</sup> <br/> |否  <br/> |無<sup>2</sup> <br/> |無<sup>2</sup> <br/> |是  <br/> |是  <br/> |無<sup>2</sup> <br/> |
+|Azure 資訊保護<sup>3</sup> <br/> |沒有<sup>2</sup> <br/> |否  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |是  <br/> |沒有<sup>2</sup> <br/> |
 |Microsoft Kaizala<sup>17</sup> <br/> |是 <br/> |否  <br/> |是 <br/> |是 <br/> |是  <br/> |是  <br/> |是 <br/> |
    
 <sup>1</sup> Project Online 並不包含在內，但可以當作附加服務來單獨購買，若是 Office 365 教育版 方案，則可免費新增此功能。<br/>
-<sup>2</sup> Azure 資訊保護不包含在內, 但能以個別的附加元件形式購買, 並且會啟用支援的資訊版權管理 (IRM) 功能。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1.<br/>
+<sup>2</sup> azure 資訊保護未包含在內，但能以個別的附加元件形式購買，並將會啟用支援的資訊版權管理 (IRM) 功能。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1.<br/>
 <sup>3</sup> 若要深入了解哪些 Azure 資訊保護 功能隨附於 Office 365 方案中，請參閱 [Azure 資訊保護](https://azure.microsoft.com/services/information-protection/)。<br/>
-<sup>4</sup> Office 365 企業版 E5 包含電話系統、音訊會議和通話方案功能。 若要實作通話方案需要購買額外的方案 (國內或國際)。<br/>
+<sup>4</sup> office 365 企業版 E5 包含電話系統、 音訊會議和通話方案的功能。 若要實作通話方案需要購買額外的方案 (國內或國際)。<br/>
 <sup>5</sup> 包含 2 GB 儲存空間。 不包含桌面同步功能。 <br/>
 <sup>6</sup> 包含 Exchange Online Plan 1。 <br/>
 <sup>7</sup> 包含 Exchange Online Plan 2。 <br/>
@@ -78,9 +77,9 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
 <sup>12</sup> 包含商務用 Skype Online Plan 1 加上附加功能。 <br/>
 <sup>13</sup> 包含商務用 Skype Online Plan 2 與語音支援，且沒有任何用戶端限制。  <br/>
 <sup>14</sup> 包含商務用 Skype Online Plan 1。<br>
-<sup>15</sup> Microsoft 團隊現在是在 Office 365 中進行通訊、會議和通話的主要用戶端。 啟動 Oct. 1, 2018, 新的 Office 365 客戶 (含 500) 將會架至 Microsoft 團隊, 而且將無法存取商務用 Skype Online。 已使用商務用 Skype Online 的租使用者將能夠繼續進行 (包括布建新使用者), 直到他們完成對 Microsoft 小組的轉換。<br>
-<sup>16</sup>包含先進的規範, 可提供先進的資料控管、高級 EDiscovery、客戶加密箱、客戶金鑰、許可權存取管理, 以及長期的審計記錄保留功能。<br>
-<sup>17</sup>從5月2019開始, Office 365 的現有合格 Sku 和 Microsoft 365 將會與 Kaizala Pro backfilled。 從2019年6月1日, Kaizala Pro 將會包含在所有合格的 Office 365 和 Microsoft 365 Sku 中。 
+<sup>15</sup> Microsoft Teams 現在是主要的用戶端的訊息、 會議和 Office 365 中呼叫。 啟動 2018 年 10 月 1 日，新的 Office 365 客戶與 500 基座或更少將會對 Microsoft Teams 上的架，並將無法存取 skype for Business Online。 已經在使用 Skype for Business Online 能夠繼續這麼做的租用戶的話 （包括佈建的新使用者） 直到他們完成他們轉移至 Microsoft Teams。<br>
+<sup>16</sup>包含進階合規性，提供進階資料控管、 進階電子文件、 客戶加密箱、 客戶金鑰、 特殊權限存取管理，以及長期稽核記錄保留功能。<br>
+2019 年從開始<sup>17</sup> ，現有合格 Sku 的 Office 365 和 Microsoft 365 會使用 Kaizala Pro 回填。 2019 年 6 月 1 日，從 Kaizala Pro 將會包含所有適用的 Office 365 和 Microsoft 365 Sku 中。 
   
 #### <a name="basic-client-limitations"></a>基本用戶端限制
 
@@ -108,7 +107,7 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
 ## <a name="standalone-services"></a>獨立服務
 <a name="bkmk_standaloneservices"> </a>
 
-下列線上服務是以獨立方案的形式單獨提供：您也可以將它們加入到尚不包含它們的 Business 和 Enterprise 服務系列方案中。如需定價資訊，或是與線上服務代表洽談，請按下表中所列的任何方案。
+下列的線上服務可以使用其本身為獨立計劃。 他們也可以加入至商務和企業不已包含的服務系列計劃。 定價的詳細資訊，或與線上服務代表洽談，選取任何如下表所列的計劃。
   
 |**服務**|**方案**|
 |:-----|:-----|
@@ -128,4 +127,4 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
 ## <a name="feature-availability"></a>功能可用性
 <a name="bkmk_standaloneservices"> </a>
 
-若要檢視跨 Office 365 規劃的功能可用性，請參閱 [Office 365 平台服務說明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。
+若要檢視跨 Office 365 規劃的功能可用性，請參閱 [Office 365 平台服務說明](office-365-platform-service-description.md)。

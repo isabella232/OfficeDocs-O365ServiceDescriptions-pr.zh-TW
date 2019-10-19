@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: 7f4f1d184915c7098ed00e94e8eb8bf47b38deea
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9dfa0f5b1e7ade5a957d8acb83dc0658077c5cdd
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777464"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581359"
 ---
 # <a name="service-level-agreement"></a>服務等級協定
 
@@ -26,7 +26,7 @@ ms.locfileid: "35777464"
 
 我們提供財務支援，以落實我們對達成並維持各項服務之服務等級的承諾。如果我們未能達成和維護每個服務的服務等級 (如服務等級協定中所述)，那麼您可能有資格獲得每月服務費用的一部分折扣。若要進一步了解我們各項服務的服務等級協定，請下載 [Microsoft Online Service 服務等級協定](https://go.microsoft.com/fwlink/?linkid=272026)。如需系統執行時間的概觀資訊，以及安全性、隱私權和相容性資訊，請參閱 [Office 365 的透明化作業](https://go.microsoft.com/fwlink/?linkid=845427)。
   
-## <a name="office-365-operated-by-21vianet"></a>21Vianet 運作的 Office 365
+## <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
 請參閱 [21Vianet 服務等級協定](https://go.microsoft.com/fwlink/?linkid=846729) 和由 21Vianet 運作的 Office 365 的 [線上服務標準協定](https://go.microsoft.com/fwlink/?linkid=846730)。 
   
@@ -35,5 +35,5 @@ ms.locfileid: "35777464"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 規劃的功能可用性，請參閱 [Office 365 平台服務說明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)。
+若要檢視跨 Office 365 規劃的功能可用性，請參閱 [Office 365 平台服務說明](office-365-platform-service-description.md)。
   

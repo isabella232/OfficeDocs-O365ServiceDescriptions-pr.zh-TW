@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: a88ccb9ec0280b43d58c290210b569fb17e7f7a0
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 815800d14ab4eacf43ef966218117db5ad3c90f4
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776474"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581879"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>在 Exchange Online 封存的遵循與安全性功能
 
@@ -25,18 +25,16 @@ ms.locfileid: "35776474"
 下列幾節說明 Microsoft Exchange Online Archiving 的符合性功能。
   
 ### <a name="retention-policies"></a>保留原則
-<a name="BKMK_Retentionpolicies"> </a>
 
-Exchange Online Archiving 提供保留原則，可協助組織減少電子郵件與其他通訊的相關責任。透過這些原則，系統管理員可以將保留設定套用到使用者收件匣中的特定資料夾。系統管理員也可以將保留原則的功能表提供給使用者，讓他們使用 Outlook 2010 或更新版本或 Outlook Web App 將原則套用到特定項目、對話或資料夾。在 Exchange Online Archiving 中，系統管理員會從內部部署基礎結構來管理保留原則。
+Exchange Online Archiving 提供保留原則，可協助組織減少電子郵件與其他通訊的相關責任。 透過這些原則，系統管理員可以將保留設定套用到使用者收件匣中的特定資料夾。 系統管理員也可以授與使用者的保留原則] 功能表，並讓他們將原則套用到特定項目、 對話或資料夾使用 Outlook 2010 或更新版本或網頁型 Outlook。 在 Exchange Online Archiving 中，系統管理員會從內部部署基礎結構來管理保留原則。
   
 Exchange Online Archiving 提供兩種類型的原則：封存原則和刪除原則。您可以在同一個項目或資料夾上同時套用這兩種類型。例如，使用者可以標記電子郵件，使其在指定天數後自動移至個人封存，並在又過了指定天數後刪除。
   
-在 Outlook 2010 及更新版本和 Outlook Web App，使用者可將保留原則套用至資料夾、交談或個別郵件，並且可以檢視套用的保留原則及郵件的預期刪除日期。其他電子郵件用戶端的使用者可根據系統管理員所佈建的伺服器端保留原則來刪除或封存電子郵件，但是沒有相同程度的檢視和控制能力。
+Outlook 2010 和更新版本及 outlook 網頁版，使用者可以將保留原則套用至資料夾、 對話或個別郵件，並可以對郵件也檢視套用的保留原則和預定的刪除日期。 其他電子郵件用戶端的使用者可根據系統管理員所佈建的伺服器端保留原則來刪除或封存電子郵件，但是沒有相同程度的檢視和控制能力。
   
 Exchange Online Archiving 提供的保留原則功能與 Exchange Server 2010 Service Pack 2 (SP2) 及更新版本所提供的相同。系統管理員可以從內部部署 Exchange Server 2010 及更新版本的環境管理保留原則。受管理的資料夾是 Exchange 2007 中引進的舊式郵件記錄管理方法，無法在 Exchange Online 封存中使用且不相容。如需詳細資訊，請參閱[保留標記和保留原則](https://go.microsoft.com/fwlink/p/?LinkID=314153)。
   
 ### <a name="in-place-hold-and-litigation-hold"></a>就地保留與訴訟暫止
-<a name="BKMK_In_placehold"> </a>
 
 如果合理預期到訴訟的可能性，組織就需要保留與案件相關的電子儲存資訊 (ESI)，包括電子郵件。此預期心理會在了解案件的特定資料之前出現，而且需要保留的資料範圍通常很廣。組織可以保留所有與特定主題相關的電子郵件，或是有關特定個人的所有電子郵件。
   
@@ -72,7 +70,6 @@ Exchange Online Archiving 提供的保留原則功能與 Exchange Server 2010 Se
 > 對於 Exchange Online Archiving使用者而言，[可復原的項目] 資料夾的預設配額為 100 GB。 
   
 ### <a name="in-place-ediscovery"></a>就地 eDiscovery
-<a name="BKMK_In_placehold"> </a>
 
 Exchange Online Archiving 支援就地 eDiscovery，可供搜尋組織中的信箱內容。系統管理員或經過授權的 Discovery 管理員可以從內部部署 Exchange 2013 伺服器，使用 Exchange 系統管理中心或遠端 Windows PowerShell 來搜尋各種信箱項目，包括電子郵件、附件、行事曆約會、工作及連絡人。就地 eDiscovery 可以同時搜尋主要信箱和封存。功能齊備的篩選功能包括寄件者、收件者、郵件類型、傳送日期、接收日期、副本及密件副本，另外還包括關鍵字查詢語法 (KQL) 語法。如需詳細資訊，請參閱[就地 eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169)。
   
@@ -100,7 +97,7 @@ TLS 用來加密電子郵件伺服器之間的連線，以防止詐騙並為傳�
 
 與 Exchange Online Archiving的用戶端連線使用下列加密方法來加強安全性：
   
-- 使用 SSL 來保護使用 TCP 連接埠 443 的 Outlook、Outlook Web App 及 Exchange Web 服務流量。
+- 使用 SSL 來保護 Outlook、 Outlook web] 中，與 Exchange Web 服務流量使用 TCP 連接埠 443。
     
 - 與內部部署伺服器的用戶端連線不會因為 Exchange Online Archiving的出現而改變。
     
@@ -114,13 +111,13 @@ Exchange Online Archiving 會儲存安全多用途網際網路郵件延伸 (S/MI
 
 Exchange Online Archiving不提供託管的資訊版權管理 (IRM) 服務，但管理員可以使用內部部署的 Active Directory 版權管理服務 (AD RMS)。若部署了 AD RMS 伺服器，則 Outlook 可以直接與該伺服器通訊，讓使用者能夠撰寫和讀取受到 IRM 保護的郵件。若設定了 AD RMS 伺服器與內部部署 Exchange 環境之間的交互操作性，則使用者可以撰寫和讀取受到 IRM 保護的郵件。
   
-#### <a name="support-for-irm-in-outlook-web-app"></a>Outlook Web App 中的 IRM 支援
+#### <a name="support-for-irm-in-outlook-on-the-web"></a>Outlook 網頁版中的 IRM 支援
 
-一如使用 Outlook，使用者原本就可以在 Outlook Web App 中讀取及建立受到 IRM 保護的郵件。您可以透過 Internet Explorer、Firefox、Safari, 和 Chrome (不需要外掛程式) 在 Outlook Web App 中存取受到 IRM 保護的郵件。這些郵件包含全文檢索搜尋、交談檢視和預覽窗格。必須設定 Active Directory Rights Management Services 伺服器與內部部署 Exchange 環境之間的交互操作性，才能啟用此功能。
+使用者可以讀取和建立受 IRM 保護的郵件原生網頁型 Outlook 中一樣，它們可以在 Outlook 中。 網頁型 Outlook 中的 IRM 保護的郵件可透過 Internet Explorer、 Firefox、 Safari 和 Chrome (不需要外掛程式)。 這些郵件包含全文檢索搜尋、交談檢視和預覽窗格。 必須設定 Active Directory Rights Management Services 伺服器與內部部署 Exchange 環境之間的交互操作性，才能啟用此功能。
   
 #### <a name="irm-search"></a>IRM 搜尋
 
-受 IRM 保護的郵件因為已有編製索引，所以可以加以搜尋，包括標題、主旨、內文及附件。使用者可以在 Outlook 和 Outlook Web App 中搜尋受 IRM 保護的項目，而系統管理員可以使用 [就地 eDiscovery] 功能或 **Search-Mailbox** Cmdlet 來搜尋受 IRM 保護的項目。 
+受 IRM 保護的郵件因為已有編製索引，所以可以加以搜尋，包括標題、主旨、內文及附件。 使用者可以在 Outlook 和網頁型 Outlook 中搜尋受 IRM 保護的項目和系統管理員可以使用就地 eDiscovery 或**Search-mailbox** cmdlet 來搜尋受 IRM 保護的項目。
   
 ### <a name="auditing"></a>稽核
 

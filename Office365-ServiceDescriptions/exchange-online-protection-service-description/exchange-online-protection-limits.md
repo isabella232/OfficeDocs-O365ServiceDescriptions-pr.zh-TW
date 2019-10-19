@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: Exchange Online protection 目前有下列限制。 這些限制會無法加以設定，除非另有指定。
-ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+description: Exchange Online protection 目前有下列限制。 這些限制不加以設定，除非另有指定。
+ms.openlocfilehash: 8d2d51a158376eb6a2f72bcdaa2ae6e351865d7e
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231391"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581460"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 限制
 
-Exchange Online protection 目前有下列限制。 這些限制會無法加以設定，除非另有指定。 
+Exchange Online protection 目前有下列限制。 這些限制不加以設定，除非另有指定。 
   
 > [!TIP]
 > 如需關於 Exchange Online 中之權限的詳細資訊，請參閱 [Exchange Online 限制](../exchange-online-service-description/exchange-online-limits.md)。傳輸規則限制也適用於獨立式 EOP 客戶。Exchange Online 的收件者流量和郵件流量限制不適用於獨立式 EOP 客戶。 

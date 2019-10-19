@@ -1,5 +1,5 @@
 ---
-title: 互通性、連線性和相容性
+title: 互通性、 連線性和相容性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 38ab8f7baf16c5bf837bca9310a0d34a5e25469f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9ee023c3af3e2141e44df3f69ace1c6b897653f6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776794"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581829"
 ---
-# <a name="interoperability-connectivity-and-compatibility"></a>互通性、連線性和相容性
+# <a name="interoperability-connectivity-and-compatibility"></a>互通性、 連線性和相容性
 
 ## <a name="interoperability-with-other-microsoft-products"></a>與其他 Microsoft 產品互通性
 
@@ -28,7 +28,7 @@ ms.locfileid: "35776794"
   
 內部部署的 Lync Server 2010 和 Lync Server 2013 可以使用另外兩種方式與 Exchange Online 交互操作：
   
-- Outlook Web App 的 IM 和顯示狀態的互通性
+- 網頁型 Outlook 中的 IM 和目前狀態互通性
     
 - 語音信箱互通性
     
@@ -50,7 +50,7 @@ ms.locfileid: "35776794"
     
 ### <a name="exchange-web-services"></a>Exchange Web 服務
 
-Exchange Web Services (EWS) 是適合用於 Exchange Server 和 Exchange Online 開發的 API。系統管理員可以使用 EWS 或 EWS 管理的 API，從內部部署、Azure 或其他託管服務中執行的應用程式，存取以 Exchange Online 儲存的資料。EWS 可支援管理員執行特殊的動作，例如查詢信箱內容、張貼行事曆活動、建立工作，或是依據電子郵件訊息內容觸發特定動作。Exchange Online 可藉由將應用程式權限授予客戶帳號以啟用 EWS 功能。這些權限允許客戶的應用程式存取應用程式信箱並新增內容。Exchange 模擬 是一種用來授予應用程式權限的方式。關於如何以 Exchange Online 使用 Exchange Web Services 的細節，請參閱 Exchange Online 開發人員中心的技術文章。
+Exchange Web Services (EWS) 是適合用於 Exchange Server 和 Exchange Online 開發的 API。 系統管理員可以使用 EWS 或 EWS 管理的 API，從內部部署、Azure 或其他託管服務中執行的應用程式，存取以 Exchange Online 儲存的資料。 EWS 可讓管理員執行特定的動作，例如查詢信箱的內容、 張貼在行事曆事件、 建立工作，或觸發電子郵件訊息的內容為基礎的特定動作。 Exchange Online 可藉由將應用程式權限授予客戶帳號以啟用 EWS 功能。 這些權限允許客戶的應用程式存取應用程式信箱並新增內容。 Exchange 模擬 是一種用來授予應用程式權限的方式。 關於如何以 Exchange Online 使用 Exchange Web Services 的細節，請參閱 Exchange Online 開發人員中心的技術文章。
   
 ### <a name="smtp-relay"></a>SMTP 轉送
 
@@ -58,6 +58,6 @@ Exchange Online 可以當作 SMTP 傳遞服務使用，用以轉送從傳真閘�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視 Office 365 計劃、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Exchange Online 服務說明](exchange-online-service-description.md)。
+若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
   
 

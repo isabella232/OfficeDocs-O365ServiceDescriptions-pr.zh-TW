@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 7087de4dbcc4955d8c66ce4b4a9c4c12e763aa38
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 34a1d6a4cbadfb17054aa606a0ae9f25d80b53ac
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442558"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581429"
 ---
 # <a name="voice-message-services"></a>語音訊息服務
 
@@ -44,11 +44,11 @@ Microsoft Exchange Online 提供託管語音信箱服務，可提供：
     
 - 郵件等待指示器 (如需詳細資訊，請參閱 [Exchange Online 中的 MWI](https://go.microsoft.com/fwlink/p/?LinkId=271794))。 
     
-- 自動答錄規則 (如需詳細資訊，請參閱[允許語音信箱使用者轉接通話](https://go.microsoft.com/fwlink/p/?LinkId=271795))。 
+- 自動答錄規則 （如需詳細資訊，請參閱[允許語音信箱使用者轉接通話](https://go.microsoft.com/fwlink/p/?LinkId=271795)）。
     
-- Exchange Online 中受保護的語音信箱 (如需詳細資訊，請參閱 [Exchange Online 中受保護的語音信箱](https://go.microsoft.com/fwlink/p/?LinkId=271796))。 
+- 受保護的語音信箱在 Exchange Online （請參閱[保護語音信箱在 Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271796)的詳細資訊）。
     
-- 語音郵件預覽 (如需支援的語言清單，請參閱[允許使用者查看語音郵件文字記錄](https://go.microsoft.com/fwlink/p/?LinkId=271797))。 
+- 語音郵件預覽 （如需支援的語言的清單，請參閱[允許使用者查看語音郵件文字記錄](https://go.microsoft.com/fwlink/p/?LinkId=271797)）。
     
 - 對電子郵件、語音信箱、行事曆、個人連絡人及個人連絡群組進行語音存取。
     
@@ -56,10 +56,16 @@ Microsoft Exchange Online 提供託管語音信箱服務，可提供：
     
 - 管理員可使用 Exchange 系統管理中心 (EAC) 設定和管理語音訊息服務的互通性。
     
-如需有關語音信箱功能的詳細資訊，請參閱 [Exchange Online 中的語音信箱](https://go.microsoft.com/fwlink/p/?LinkId=271798)。
+如需語音信箱功能的詳細資訊，請參閱[語音郵件在 Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798)。
   
 > [!IMPORTANT]
-> Outlook 語音存取使用者或自動語音應答來電者使用語音命令進行功能表導覽或目錄搜尋時，無法使用自動語音辨識 (ASR) 功能。 > 客戶必須使用 VoIP 閘道和 PBX、IP PBX, 或 商務用 Skype Server 2015，從公用交換電話網路 (PSTN) 提供電話連線。 > 客戶必須提供內部部署 SBC 硬體裝置，並確認 SBC 已正確設定為連線至線上語音信箱服務。這包括使用憑證和公開與私人 IP 介面，以及透過內部部署防火牆啟用正確 TCP 連接埠，設定適當的安全性等級。 > 裝載的語音信箱僅適用於 Exchange Online 方案 2 和 Office 365 Enterprise E3訂閱者。 
+> Outlook 語音存取使用者或自動語音應答來電者使用語音命令進行功能表導覽或目錄搜尋時，無法使用自動語音辨識 (ASR) 功能。 
+>
+> 客戶必須提供電話連線從公用交換的電話網路 (PSTN) 使用 VoIP 閘道和 PBX、 IP PBX 或用 Skype Server 2015。 
+>
+> 客戶必須提供內部部署 SBC 硬體裝置，並確認 Sbc 已正確設定為連線至線上語音信箱服務。 這包括使用憑證和公開與私人 IP 介面，以及透過內部部署防火牆啟用正確 TCP 連接埠，設定適當的安全性等級。 
+>
+> 裝載的語音信箱是僅適用於 Exchange Online 方案 2 和 Office 365 企業版 E3 訂閱者。 
   
 ## <a name="third-party-voice-mail-interoperability"></a>協力廠商語音信箱互通性
 
@@ -74,6 +80,6 @@ Microsoft Exchange Online 提供託管語音信箱服務，可提供：
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視 Office 365 計劃、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Exchange Online 服務說明](exchange-online-service-description.md)。
+若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
   
 

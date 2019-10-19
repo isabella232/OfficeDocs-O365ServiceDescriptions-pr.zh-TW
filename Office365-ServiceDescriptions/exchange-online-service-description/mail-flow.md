@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。 這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。 不過，某些組織需要更複雜的郵件流程設定，以確保它們遵守特定法規或業務需求。 您可以在此找到這些選項。
-ms.openlocfilehash: bf16ff4034333a2bd85ba798e9c02c621b4d7cfc
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 774ad3239f9e8e8dc0751ca23a8f99a436b09126
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442598"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581449"
 ---
 # <a name="mail-flow"></a>郵件流程
 
@@ -27,7 +27,7 @@ ms.locfileid: "37442598"
   
 ## <a name="custom-routing-of-outbound-email"></a>自訂輸出電子郵件的路由傳送
 
-Microsoft Exchange Online 可以透過內部部署伺服器或託管服務 (有時稱為「智慧型託管」) 路由來自組織的郵件流程。這可以讓組織使用資料遺失防護 (DLP) 應用裝置、執行自訂的外寄電子郵件後續處理，以及透過私人網路將電子郵件傳送給業務合作夥伴。Exchange Online 也支援地址修正功能，透過會修改位址的功能，外寄電子郵件將會透過內部部署閘道進行路由。此功能可讓您隱藏子網域，使來自多網域組織的電子郵件顯示為單一網域，或是使合作夥伴轉送的電子郵件顯示為寄自組織內部。管理員可以在 Exchange 系統管理中心 (EAC) 內設定自訂電子郵件路由。
+Microsoft Exchange Online 可以透過內部部署伺服器或託管服務 (有時稱為「智慧型託管」) 路由來自組織的郵件流程。 這可讓您的組織使用資料遺失防護 (DLP) 應用裝置、 執行自訂的後續處理的外寄電子郵件，以及將電子郵件傳送給商業夥伴，透過私人網路。 Exchange Online 也支援地址修正功能，透過會修改位址的功能，外寄電子郵件將會透過內部部署閘道進行路由。 這項功能可讓您隱藏子網域，請從多重網域組織電子郵件顯示為單一網域，或使出現好像它已從傳送您的組織內的協力廠商轉送電子郵件。 管理員可以在 Exchange 系統管理中心 (EAC) 內設定自訂電子郵件路由。
   
 如需詳細資訊，請參閱＜[Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)＞。
   
@@ -96,5 +96,5 @@ Microsoft Exchange Online 可以透過內部部署伺服器或託管服務 (有�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視 Office 365 方案、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Exchange Online 服務說明](exchange-online-service-description.md)。
+若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
   

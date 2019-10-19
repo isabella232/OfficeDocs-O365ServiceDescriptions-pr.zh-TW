@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
-ms.openlocfilehash: efab17a6513dac571abfd314549d0f90017564da
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 9485753dca545eda8e1407e69bedf58c3e113cc5
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523448"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581929"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -48,7 +48,7 @@ Microsoft Exchange Online 中的限制屬於下列其中一個類別：
 
 - [Distribution group limits](#distribution-group-limits)
 
-- [日誌、傳輸和收件匣規則限制](#journal-transport-and-inbox-rule-limits)
+- [日誌、 傳輸和收件匣規則限制](#journal-transport-and-inbox-rule-limits)
 
 - [Moderation limits](#moderation-limits)
 
@@ -251,7 +251,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 - **檔案附件大小限制**： 單一附件的大小上限。
 
     > [!NOTE]
-    > 這是單一附件的檔案大小上限。個別用戶端方案 (包括 Outlook Web App) 可能會規定附件大小需低於此上限。Exchange ActiveSync 未針對個別附件實作附件大小限制。Exchange ActiveSync 郵件的所有附件大小總和必須小於郵件大小限制。
+    > 這是單一附件的檔案大小上限。 個別用戶端程式，包括網頁型 Outlook 可能會限制低於此上限的附件的大小。 Exchange ActiveSync 未針對個別附件實作附件大小限制。 Exchange ActiveSync 郵件的所有附件大小總和必須小於郵件大小限制。
 
 - **Multipart 郵件限制**： MIME multipart 郵件中允許的郵件內文部分數目上限。 此限制也會控制郵件允許的檔案附件數目上限。
 
@@ -446,7 +446,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 ## <a name="journal-transport-and-inbox-rule-limits"></a>日誌、傳輸和收件匣規則限制
 
-下列清單包括套用至日誌規則、傳輸規則 (也稱為組織規則) 的限制，以及套用至「收件匣」規則的限制。「收件匣」規則是由個別使用者所設定，並且套用至由個別使用者的信箱所傳送和接收的郵件。
+下列清單包括套用至日誌規則、 傳輸規則 （也稱為全組織規則），並套用至收件匣規則限制的限制。 「收件匣」規則是由個別使用者所設定，並且套用至由個別使用者的信箱所傳送和接收的郵件。
 
 - **規則數目上限** 組織中可以存在的日誌規則數目上限。
 
@@ -456,7 +456,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 - **所有傳輸規則中使用之所有規則運算式的字元限制** 在組織中的所有傳輸規則條件及例外狀況中，所有規則運算式所使用的字元總數。您可以有幾條規則使用又長又複雜的規則運算式，也可以有許多規則使用簡單的規則運算式。
 
-- **附件內容的掃描限制** 傳輸規則條件可讓您檢查郵件附件的內容，但只會檢查從附件擷取的第 1 MB 文字。 此 1 MB 限制是指從附件擷取的文字，而不是附件的檔案大小。 例如，2 MB 檔案可能包含小於 1 MB 的文字，，因此會檢查所有的文字。
+- **掃描附件內容的限制**傳輸規則條件可讓您檢查郵件附件的內容，但檢查只有第一個 1 MB 的從附件擷取的文字。 此 1 MB 限制是指從附件擷取的文字，而不是附件的檔案大小。 例如，2 MB 檔案可能包含小於 1 MB 的文字，，因此會檢查所有的文字。
 
 - **所有傳輸規則新增到郵件的收件者人數上限** 當郵件由不同的傳輸規則進行處理時，可新增到郵件中的收件者人數是有限制的。達到此上限之後，就不再將任何其餘的收件者新增到郵件中。此外，傳輸規則也不能將通訊群組新增到郵件中。
 
@@ -466,7 +466,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 - **郵件由傳輸規則重新導向次數**郵件會重新導向的次數根據傳輸規則。 例如，Exchange 組織 Tailspin Toys 具有傳輸規則，以重新導向已傳送給使用者 B 位於 Exchange 組織 Contoso 使用者的每一封郵件。 在 Exchange 組織中準備就緒可以重新導向的每一封郵件沒有傳輸規則的 Contoso 傳送給使用者 B 給使用者 C，也就是在 Exchange 位於組織 A.材料 Corporation。 在此情況下，會捨棄郵件和未傳遞回報 (NDR) 與狀態碼，並拒絕郵件*550 5.7.128 傳輸。此規則。RejectMessage;傳輸規則迴圈計數超過上限和拒絕的郵件*是傳送給使用者 a。我們將使用 X-MS-Exchange-Transport-Rules-Loop 標頭可以決定的郵件重新導向由傳輸規則的次數。 此標頭仍會保留也整個 Exchange 組織界限。
 
-### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>不同 Office 365 選項的日誌、傳輸和收件匣規則限制
+### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>不同 Office 365 選項的日誌、 傳輸和收件匣規則限制
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -481,7 +481,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |重新導向郵件的次數|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|
 |傳輸規則是重新導向郵件的次數|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|
 
-### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>不同獨立選項的日誌、傳輸和收件匣規則限制
+### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>不同獨立選項的日誌、 傳輸和收件匣規則限制
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|

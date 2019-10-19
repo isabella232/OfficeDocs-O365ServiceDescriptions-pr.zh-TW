@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 商務版服務說明
+title: Microsoft 365 商務版服務描述
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全性與裝置管理功能，協助保護您的業務與整合式的解決方案。 . 此服務描述中說明的計劃選項和功能。 如需有關 Office 365 的詳細資訊，請參閱 Office 365 服務說明。
-ms.openlocfilehash: c0027b3c1200ff3408935096a269b7c651a02475
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 05e2da6ede768120c0cde61eb28ca1deb7c2cbf5
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442548"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582039"
 ---
-# <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務說明
+# <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務描述
 
 Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全性與裝置管理功能，協助保護您的業務與整合式的解決方案。 此服務描述中說明的計劃選項和功能。 如需有關 Office 365 的詳細資訊，請參閱[Office 365 服務說明](../office-365-service-descriptions-technet-library.md)。
   
@@ -77,7 +77,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
    
 ||||
 |:-----|:-----|:-----|
-|[郵件原則及合規性](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
+|[郵件原則及符合性](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |封存 Exchange Online 式信箱  <br/> |是  <br/> |Yes<sup>11</sup> <br/> |
 |通訊記錄管理 (MRM) 保留標記和保留原則  <br/> |是  <br/> |是  <br/> |
 |靜態資料的加密 (BitLocker)  <br/> |是  <br/> |是  <br/> |
@@ -87,7 +87,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |就地 eDiscovery  <br/> |是  <br/> |是  <br/> |
 |傳輸規則  <br/> |是  <br/> |是  <br/> |
 |資料遺失防護  <br/> |否  <br/> |是 <br/> |
-|[隱私權、安全性和透明化](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
+|[隱私權、 安全性和透明化](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |內建的反垃圾郵件保護  <br/> |是  <br/> |是  <br/> |
 |內建反惡意程式碼保護  <br/> |是  <br/> |是  <br/> |
 |Office 365 進階威脅防護  <br/> |否  <br/> |是<sup>19</sup> <br/> |
@@ -97,7 +97,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |Office 365 進階電子文件<sup>13</sup> <br/> |否  <br/> |否  <br/> |
 |安全分數<sup>14</sup> <br/> |是  <br/> |是  <br/> |
 |威脅情報  <br/> |否  <br/> |否  <br/> |
-|[合規性[ServiceDesc]](../office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
+|[合規性](../office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |SAS 70 / SSAE16 評估  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 認證  <br/> |是  <br/> |是  <br/> |
 |歐盟示範條款  <br/> |是  <br/> |是  <br/> |
@@ -153,7 +153,7 @@ Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全�
 |受組織控制的裝置] 畫面上閒置  <br/> |是  <br/> |
 |受組織控制的應用程式的 「 使用者 」 存取權，從 Microsoft Store  <br/> |是  <br/> |
 |受組織控制的使用者存取 Cortana  <br/> |是  <br/> |
-|組織控制的 Windows 祕訣和廣告從 Microsoft  <br/> |是  <br/> |
+|Windows 祕訣和廣告從 Microsoft 組織控制  <br/> |是  <br/> |
 |自動維持最新的 Windows 10 裝置  <br/> |是  <br/> |
 |**Windows 10 安全性功能** <br/> |**Microsoft 365 商務版** <br/> |
 |保護電腦免於病毒與其他使用 Windows Defender 防毒軟體的威脅  <br/> |是  <br/> |

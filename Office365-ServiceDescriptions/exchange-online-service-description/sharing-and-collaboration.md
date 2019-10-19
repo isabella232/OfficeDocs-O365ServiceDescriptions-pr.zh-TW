@@ -1,5 +1,5 @@
 ---
-title: 共用和協同
+title: 共用和協同合作
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,21 +11,25 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 2bb90afe0011d1799a9faf71ea025261d586692d
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: b544ebc38b4a1f79477b773bc91b40f051a41346
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442538"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582009"
 ---
-# <a name="sharing-and-collaboration"></a>共用和協同
+# <a name="sharing-and-collaboration"></a>共用和協同合作
 
 ## <a name="federated-sharing"></a>同盟共用
 
-同盟指的是基礎信任基礎結構支援同盟共用，Microsoft Exchange Online 使用者共用空閒/忙碌行事曆資料和連絡人與其他外部同盟組織中收件者的相關資訊的方法或要能存取網際網路的使用者。 這些包括使用 Exchange Online 託管的組織，或外部 Microsoft Exchange Server 2010 或 Exchange Server 2013 組織。 Exchange Online 系統管理員可使用組織關係和共用原則，允許使用者從 Microsoft Outlook Web App 或 Microsoft Outlook 2010 或更新版本傳送行事曆共用邀請。
+同盟指的是基礎信任基礎結構支援同盟共用，Microsoft Exchange Online 使用者共用空閒/忙碌行事曆資料和連絡人與其他外部同盟組織中收件者的相關資訊的方法或要能存取網際網路的使用者。 這些包括使用 Exchange Online 託管的組織，或外部 Microsoft Exchange Server 2010 或 Exchange Server 2013 組織。 使用組織關係和共用原則，Exchange Online 系統管理員可以讓使用者將行事曆共用邀請傳送來自上的網站或 Microsoft Outlook 的 Microsoft Outlook 2010 或更新版本。
   
 > [!IMPORTANT]
->  外部 Exchange 2010 和 Exchange 2013 組織必須在設定同盟共用的過程中，設定與 Microsoft Federation Gateway 之間的同盟信任。Exchange Online 組織不需要設定同盟信任，因為與 Microsoft Federation Gateway 之間的同盟信任會在建立 Office 365 租用戶時自動建立。 >  Exchange Online 組織必須設定組織關係或共用原則，才能啟用同盟共用。 >  同盟共用不支援共用全域存取清單 (GAL)，或在不同 Office 365 租用戶中於 Exchange Online 組織之間移動使用者信箱。 
+>  外部 Exchange 2010 和 Exchange 2013 組織必須在設定同盟共用的過程中，設定與 Microsoft Federation Gateway 之間的同盟信任。 Exchange Online 組織不需要設定同盟信任，因為與 Microsoft Federation Gateway 之間的同盟信任會在建立 Office 365 租用戶時自動建立。 
+>
+>  Exchange Online 組織必須設定組織關係或共用原則，才能啟用同盟共用。 
+>
+>  共用全域存取清單 (Gal)，或在不同 Office 365 租用戶中的 Exchange Online 組織之間移動使用者信箱中的同盟共用不支援。 
   
 如需有關同盟共用的詳細資訊，請參閱[在 Exchange Online 中共用](https://go.microsoft.com/fwlink/p/?LinkId=271774)。
   
@@ -46,16 +50,16 @@ Exchange Online 中的公用資料夾已經過強化，可善用信箱資料庫�
   
 如需有關公用資料夾的詳細資訊，請參閱[公用資料夾](https://go.microsoft.com/fwlink/p/?LinkId=271790)。
   
-## <a name="group-and-shared-mailboxes"></a>群組及共用信箱
+## <a name="group-and-shared-mailboxes"></a>群組及共用的信箱
 
-群組及共用信箱可方便一組特定的人員監視及傳送共用帳戶 (例如 info@contoso.com 或 contact@contoso.com 這類的公用電子郵件地址) 的電子郵件。當這組人員中有人回覆傳送到共用信箱的郵件時，電子郵件會顯示為由共用信箱寄出，而不是由個別使用者寄出。
+群組及共用的信箱輕鬆特定群組的人員監視及傳送電子郵件的常見的帳戶，例如公用電子郵件地址 （例如 info@contoso.com 或 contact@contoso.com）。 當群組中的人員回覆傳送到共用信箱的郵件時，將電子郵件會顯示為由共用信箱，而不是由個別使用者。
   
-通常，群組或共用信箱不需要個別的使用者授權。但是，若要啟用群組或共用信箱的就地封存，您必須為它指派 Exchange Online Plan 1 或 Exchange Online Plan 2 授權。指派授權後，信箱大小增加為授權計劃的大小。若要「就地保留」共用信箱，您必須為它指派 Exchange Online Plan 2 授權。請注意，目前無法指派群組信箱，但應該列入您的授權總計。
+通常，群組或共用的信箱不需要個別的使用者授權。 不過，若要啟用群組或共用的信箱的就地封存，您必須為它指派 Exchange Online Plan 1 或 Exchange Online Plan 2 授權。 指派授權後，信箱大小增加為授權計劃的大小。 若要將共用的信箱放在原有範圍暫止，您必須為它指派 Exchange Online Plan 2 授權。 請注意該群組信箱無法指派這一次，但應該列入您的授權總計中。
   
-「就地封存」僅可用來封存已套用授權之單一使用者或實體 (例如共用信箱) 的郵件。禁止使用「就地封存」來儲存多個使用者或實體的郵件。例如，IT 系統管理員不能建立共用信箱，再由使用者純粹為了封存的目的來複製它 (透過 [副本] 或 [密件副本] 欄位，或透過傳輸規則)。請注意，多人使用的共用信箱不會實際儲存個別使用者的電子郵件。多個使用者可以存取，且傳送電子郵件做為共用信箱。因此，只有傳送至共用信箱或從共用信箱寄出的電子郵件會儲存在共用信箱中，做為共用信箱。
+「就地封存」僅可用來封存已套用授權之單一使用者或實體 (例如共用信箱) 的郵件。 禁止使用「就地封存」來儲存多個使用者或實體的郵件。 例如，IT 系統管理員不能建立共用信箱，再由使用者純粹為了封存的目的來複製它 (透過 [副本] 或 [密件副本] 欄位，或透過傳輸規則)。 請注意，多人使用的共用信箱不會實際儲存個別使用者的電子郵件。 多個使用者可以存取，且傳送電子郵件做為共用信箱。 因此，只有電子郵件會儲存在共用信箱是指來傳送或接收自，做為共用信箱。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視 Office 365 計劃、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Exchange Online 服務說明](exchange-online-service-description.md)。
+若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
   
 

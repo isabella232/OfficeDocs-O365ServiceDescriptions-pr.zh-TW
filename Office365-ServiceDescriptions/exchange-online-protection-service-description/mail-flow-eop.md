@@ -1,5 +1,5 @@
 ---
-title: 郵件流程[EOP]
+title: 郵件流程 [EOP]
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: 對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。 這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。 不過，某些組織基於業務需求而需要將所有信箱保留在內部。 Exchange Online Protection (EOP) 可提供您這個功能，並在雲端提供防毒和反垃圾郵件處理。 如需詳細資訊並購買 EOP，請移至 Exchange Online Protection。
-ms.openlocfilehash: 5a581c8004bcdc001160a2499cd623c6eee772f2
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+description: 對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。 這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。 不過，某些組織基於業務需求而需要將所有信箱保留在內部。 Exchange Online Protection (EOP) 可讓您執行這項作業，並提供防毒及反垃圾郵件處理定域機組中的郵件。
+ms.openlocfilehash: 9fac8159a7fba6757ec28d7a45248bd06dba3fb7
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442728"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581849"
 ---
-# <a name="mail-floweop"></a>郵件流程[EOP]
+# <a name="mail-floweop"></a>郵件流程 [EOP]
 
-對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。 這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。 不過，某些組織基於業務需求而需要將所有信箱保留在內部。 Exchange Online Protection (EOP) 可提供您這個功能，並在雲端提供防毒和反垃圾郵件處理。 如需詳細資訊並購買 EOP，請移至 [Exchange Online Protection](https://products.office.com/en-us/exchange/exchange-email-security-spam-protection)。
+對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。 這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。 不過，某些組織基於業務需求而需要將所有信箱保留在內部。 Exchange Online Protection (EOP) 可讓您執行這項作業，並提供防毒及反垃圾郵件處理定域機組中的郵件。 如需詳細資訊並購買 EOP，請移至 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)。
   
-尋找網域管理還是目錄架構邊緣封鎖 (DBEB) 的詳細資訊？請參閱[收件者、網域和公司管理](recipient-domain-and-company-management.md)。若要深入了解所有 EOP 功能，請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
+尋找網域管理還是目錄架構邊緣封鎖 (DBEB) 的詳細資訊？ 請參閱[收件者、 網域和公司管理](recipient-domain-and-company-management.md)。 若要深入了解所有 EOP 功能，請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
   
 ## <a name="routing-email-between-office-365-and-your-own-email-servers"></a>在 Office 365 和您自己的電子郵件伺服器之間路由電子郵件
 
@@ -53,4 +53,4 @@ EOP 客戶可以使用 Office 365 連接器，設定與信任合作夥伴間的�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視 Office 365 計劃、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
+若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。

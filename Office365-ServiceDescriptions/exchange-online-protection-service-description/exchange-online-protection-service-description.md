@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
-description: 取得功能和需求，Exchange Online Protection 的相關資訊。 包含提供 Exchange Online Protection 的計劃清單，和不同計劃的功能比較。
-ms.openlocfilehash: bc95415e4f348c326b36f300b39df3fe87f7e282
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+description: 取得功能和需求，Exchange Online Protection 的相關資訊。 包含會提供 Exchange Online Protection 的計劃的清單，以及的功能比較不同計劃。
+ms.openlocfilehash: 462e1f100382ffddd9f456f38525158826720f53
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334143"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581909"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服務說明
 
-取得功能和需求，Exchange Online Protection 的相關資訊。 包含提供 Exchange Online Protection 的計劃清單，和不同計劃的功能比較。
+取得功能和需求，Exchange Online Protection 的相關資訊。 包含會提供 Exchange Online Protection 的計劃的清單，以及的功能比較不同計劃。
 
 Microsoft Exchange Online Protection (EOP) 是雲端式的電子郵件篩選服務，它能協助組織抵禦垃圾郵件和惡意軟體，同時也包括預防組織發生訊息原則違規的功能。EOP 能簡化訊息環境的管理，減輕維護內部部署硬體和軟體所衍生的繁重負擔。
 
@@ -100,7 +100,7 @@ EOP 可搭配任何 SMTP 郵件傳輸代理程式，例如 Microsoft Exchange Se
 |[隔離](anti-spam-and-anti-malware-protection-eop.md#quarantine)：系統管理員管理|是|是|是|
 |[隔離](anti-spam-and-anti-malware-protection-eop.md#quarantine)：使用者自我管理|是|是|是|
 |[報告訊息增益集以進行 Outlook](anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|是|是|是|
-|[網頁型 Outlook 中的垃圾郵件回報](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|是|是|是|
+|[垃圾郵件回報網頁型 Outlook 中](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|是|是|是|
 |[在 Office 365 和您自己的電子郵件伺服器之間路由電子郵件](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers)|是|是|是|
 |[與信任的合作夥伴間的安全傳訊](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|是|是|是|
 |[安全列出夥伴的 IP 位址](mail-flow-eop.md#safe-listing-a-partners-ip-address)|是|是|是|

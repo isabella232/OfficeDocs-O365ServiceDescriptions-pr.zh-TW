@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 是一項訂閱服務，提供您已熟悉，例如 Word、 Excel 及 PowerPoint 的 Office 桌面應用程式的最新版本。
-ms.openlocfilehash: 3ba5510ab24f2f7f5cd2aed8aa7e9800ce07e39f
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 3b01b4481b2f50ecaa2ff2928e53d6f5cbf25a29
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998515"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595232"
 ---
 # <a name="office-applications-service-description"></a>Office 應用程式服務說明
 
@@ -66,7 +66,7 @@ Office 應用程式有 32 位元和 64 位元版本可供使用。
 |內部部署 SharePoint 的用戶端支援  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |軟體更新的控制  <br/> |是  <br/> |是  <br/>|是  <br/>  |是  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |資料庫比較  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否 <br> |
-|桌上型電腦虛擬化  <br/> |是  <br/> |是  <br/> |是  <br/>|是<sup>8</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否 <br/> |
+|桌上型電腦虛擬化  <br/> |是  <br/> |是  <br/> |是  <br/>|是<sup>8</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是 <br/> |
 |Excel 試算表比較  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否 <br/> |
 |Excel 試算表查詢  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否 <br/>
 |Exchange Online 和 SharePoint Online 封存與規範  <br/> |Yes<sup>1</sup> <br/> |是  <br/> |是  <br/>|Yes<sup>1</sup> <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |

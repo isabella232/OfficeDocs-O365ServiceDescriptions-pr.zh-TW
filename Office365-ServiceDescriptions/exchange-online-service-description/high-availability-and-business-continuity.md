@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online 提供廣泛的保留和復原支援組織的電子郵件基礎結構。 其中包括在資料中心複寫信箱，以及還原已刪除信箱和已刪除郵件的能力。
-ms.openlocfilehash: 17c53172e9b49661118c6e33754246c627e08540
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 08b4e7e6fc0adcb278a2ed4d74564455250a8855
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776824"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581969"
 ---
 # <a name="high-availability-and-business-continuity"></a>高可用性和業務連續性
 
@@ -35,9 +35,9 @@ Exchange Online 信箱在各 Microsoft 資料中心內持續複寫至多重資�
   
 ## <a name="deleted-item-recovery"></a>復原已刪除的項目
 
-Exchange Online 可讓使用者還原已從任何電子郵件資料夾刪除的郵件，包括 [刪除的郵件] 資料夾。郵件被刪除後，會保留在使用者的 [刪除的郵件] 資料夾中。在使用者將它手動移除或保留原則將它自動移除之前，它會一直保留在該處。系統管理員可以在 EAC 中或使用遠端 Windows PowerShell 自訂保留原則。
+Exchange Online 可讓使用者還原他們已從任何電子郵件] 資料夾，包括 [刪除的項目] 資料夾刪除的項目。 郵件被刪除後，會保留在使用者的 [刪除的郵件] 資料夾中。 在使用者將它手動移除或保留原則將它自動移除之前，它會一直保留在該處。 系統管理員可以在 EAC 中或使用遠端 Windows PowerShell 自訂保留原則。
   
-郵件從 [刪除的郵件] 資料夾中被移除後，會在 [可復原的項目] 資料夾中額外保留 14 天，然後才會永久移除，但是系統管理員可使用遠端 Windows PowerShell 將此天數增加，最多可達 30 天。這段時間內，使用者可使用 Outlook Web App 或 Outlook 中的 [復原刪除的郵件] 功能復原這些郵件。了解如何[變更已刪除郵件的保留期間](https://go.microsoft.com/fwlink/p/?LinkId=286940)。
+郵件從 [刪除的郵件] 資料夾中被移除後，會在 [可復原的項目] 資料夾中額外保留 14 天，然後才會永久移除，但是系統管理員可使用遠端 Windows PowerShell 將此天數增加，最多可達 30 天。 使用者可復原項目這段時間在網頁或 Outlook 上的 Outlook 中使用 [復原刪除的郵件功能。 了解如何[變更已刪除郵件的保留期間](https://go.microsoft.com/fwlink/p/?LinkId=286940)。
   
 如果使用者已從 [可復原的項目] 資料夾中手動清除郵件，則系統管理員可以透過遠端 Windows PowerShell 使用「單一項目復原」功能，在一樣的保留期間內復原郵件。建立信箱時，預設會啟用「單一項目復原」。若要深入了解，請參閱[啟用或停用信箱的單一項目復原](https://go.microsoft.com/fwlink/p/?LinkID=286941)。
   
@@ -45,6 +45,5 @@ Exchange Online 可讓使用者還原已從任何電子郵件資料夾刪除的�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視 Office 365 計劃、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Exchange Online 服務說明](exchange-online-service-description.md)。
+若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
   
-

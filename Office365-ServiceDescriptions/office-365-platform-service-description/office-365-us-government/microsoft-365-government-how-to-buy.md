@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: cf5a7fb51c8716aa7e797d471a5fbc4a93750336
-ms.sourcegitcommit: 59ee39da4bf37e59924b8ae6c5c232f070cf5ee8
+ms.openlocfilehash: da052db62c562ba4e56eca5ab312363cc4383dcf
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36839864"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595262"
 ---
 ---
 
@@ -117,10 +117,12 @@ GCC 和 GCC High 供應項目可使用任何 Microsoft 政府雲端，符合資�
 ## <a name="how-do-i-buy-microsoft-365-government"></a>如何購買 Microsoft 365 政府版？
 
 請遵循這些步驟以購買 Microsoft 365 政府版授權：
+
 1. [完成並提交表單](https://products.office.com/government/eligibility-validation)來驗證貴組織的資格。
 2. 搭配 Microsoft 客戶團隊或完整的夥伴以放置順序。 客戶可以購買 Microsoft 365 美國政府版授權只能透過選取協力廠商。
 
 **Lsp GCC 和 GCC High （+ 500 基座）**
+
 - CDW
 - 連線 （先前稱為電腦連線）
 - Dell
@@ -145,7 +147,7 @@ GCC 和 GCC High 供應項目可使用任何 Microsoft 政府雲端，符合資�
 
 **附註：** 所有 Microsoft 授權解決方案提供者 (Lsp) 上述清單中的可以都 transact 同時 GCC 與 GCC 高透過 Enterprise Agreement (EA) 來建立客戶價格工作表 (CPS)。 EA 不符合資格的組織可以購買 GCC 透過列出的 AOS-G 合作夥伴或雲端解決方案提供者協力程式的授權。
 
-**如果您是使用 CSP 合作夥伴請連絡這些或[找到 CSP。](https://www.microsoft.com/solution-providers/home)**
+**如果您是使用 CSP 合作夥伴請連絡他們或[找到 CSP](https://www.microsoft.com/solution-providers/home)。**
 
 ## <a name="what-trials-are-available"></a>查看 trials 可供使用？
 

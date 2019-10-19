@@ -1,5 +1,5 @@
 ---
-title: 系統管理與管理[EOP]
+title: 系統管理與管理 [EOP]
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: 本章節說明 Microsoft Exchange Online Protection (EOP) 系統管理員可用的管理介面。
-ms.openlocfilehash: 6a9e97d1c6ca59535ee76c1e8436b35899fba941
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: df2588dd9ea9f3cb13fe70aae93a17cbeecb343d
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442478"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581463"
 ---
-# <a name="administration-and-managementeop"></a>系統管理與管理[EOP]
+# <a name="administration-and-managementeop"></a>系統管理與管理 [EOP]
 
 本章節說明 Microsoft Exchange Online Protection (EOP) 系統管理員可用的管理介面。
   
@@ -39,5 +39,5 @@ Exchange 系統管理中心 (EAC) 是單一整合的管理主控台，不但易�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視 Office 365 計劃、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
+若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
   

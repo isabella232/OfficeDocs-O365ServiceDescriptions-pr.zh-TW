@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: 本節說明的管理控制和可自訂 Exchange Online 設定，並跟組織的 Exchange Online 環境，在執行，且目前的支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
-ms.openlocfilehash: ba7d1aa31aba19f43d3318687daf76f50f60d08f
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+description: 本文說明的管理控制和可自訂 Exchange Online 設定，並跟組織的 Exchange Online 環境，在執行，且目前的支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
+ms.openlocfilehash: 2cb5dc23c744e37089e75aec7e7e911775c179b6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442628"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581979"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 的安裝和管理
 
-本節說明的管理控制和可自訂 Exchange Online 設定，並跟組織的 Exchange Online 環境，在執行，且目前的支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
+本文說明的管理控制和可自訂 Exchange Online 設定，並跟組織的 Exchange Online 環境，在執行，且目前的支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
   
 ## <a name="self-service-administration-tools"></a>自助系統管理工具
 
@@ -102,6 +102,5 @@ Exchange Online 客戶享有定期升級至最新 Exchange 技術的權益，包
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視 Office 365 計劃、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Exchange Online 服務說明](exchange-online-service-description.md)。
+若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
   
-
