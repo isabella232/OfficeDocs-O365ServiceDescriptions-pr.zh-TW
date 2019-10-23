@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 支援下列方法來建立、 管理，並驗證使用者。
-ms.openlocfilehash: f51e06e64722b5db8820a4f164beca0997796a4b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd6e701c8ff4c699d305bfcde8a68e1867dd0bb2
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582169"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631652"
 ---
 # <a name="user-account-management"></a>使用者帳戶管理
 
@@ -104,7 +104,7 @@ With Multi-Factor Authentication for Office 365, users are required to acknowled
 |Outlook 2010 或 Office Outlook 2007 在 Windows Vista  <br/> |登入每個工作階段 <sup>1</sup> <br/> |登入每個工作階段 <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |登入每個工作階段 <sup>1</sup> <br/> |登入每個工作階段 <sup>2</sup> <br/> |
 |POP、IMAP、Outlook for Mac  <br/> |登入每個工作階段 <sup>1</sup> <br/> |登入每個工作階段 <sup>2</sup> <br/> |
-|Web 體驗： Office 365 入口網站 / Outlook Web App / SharePoint Online / Office 網頁  <br/> |登入每個瀏覽器工作階段<sup>4</sup> <br/> |登入每個工作階段 <sup>3</sup> <br/> |
+|Web 體驗： Office 365 入口網站 / 網頁型 Outlook / SharePoint Online / Office 網頁  <br/> |登入每個瀏覽器工作階段<sup>4</sup> <br/> |登入每個工作階段 <sup>3</sup> <br/> |
 |Office 2010 或 Office 2007 使用 SharePoint Online  <br/> |登入每個 SharePoint Online 工作階段 <sup>4</sup> <br/> |登入每個 SharePoint Online 工作階段<sup>3</sup> <br/> |
 |商務用 Skype Online  <br/> |登入每個工作階段 <sup>1</sup> <br/> |無提示  <br/> |
 |Mac 版 Outlook  <br/> |登入每個工作階段 <sup>1</sup> <br/> |登入每個工作階段 <sup>2</sup> <br/> |
@@ -149,7 +149,7 @@ With Multi-Factor Authentication for Office 365, users are required to acknowled
     
     用於企業方案，如果系統管理員會遺失或忘記密碼，則不同的系統管理員，以全域系統管理員角色可以重設在 Microsoft 365 系統管理中心或使用 Windows PowerShell 的系統管理員的密碼。 有關詳細資訊，請參閱[重置管理員密碼](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)。 如果您在中國使用 21Vianet 運作的 Office 365，請參閱[在 21Vianet 運作的 Office 365 中建立或重設密碼](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)。
     
-- **使用者透過 Outlook Web App 變更密碼**Outlook Web App 選項頁面有 **[變更密碼]** 超連結，其可將使用者重新導向至 [變更密碼] 頁面。使用者必須知道他們先前的密碼。如需詳細資訊，請參閱 [ 變更密碼 ](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c)。如果您在中國使用 21Vianet 運作的 Office 365，請參閱[在 21Vianet 運作的 Office 365 中建立或重設密碼](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)。
+- **網頁型 Outlook 使用者變更密碼**在 [web 選項] 頁面上，Outlook 會包含變更密碼] 超連結，可將使用者重新導向至 [**變更密碼**] 頁面上。 使用者必須知道他們先前的密碼。 如需詳細資訊，請參閱 [ 變更密碼 ](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c)。 如果您在中國使用 21Vianet 運作的 Office 365，請參閱[在 21Vianet 運作的 Office 365 中建立或重設密碼](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)。
     
 - **Role-based reset password rights** For Enterprise plans, authorized users such as helpdesk staff can be assigned the **Reset Password** user right and the right to change passwords by using the Office 365 predefined or custom roles without becoming full services administrators. By default in Enterprise plans, admins with the Global Administrator, Password Administrator, or User Management Administrator role can change passwords. For more information, see [Assigning admin roles](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
     
@@ -157,11 +157,11 @@ With Multi-Factor Authentication for Office 365, users are required to acknowled
     
  **同盟身分識別密碼管理：**
   
-使用同盟身分時，密碼會在 Active Directory 中管理。 內部部署安全性權杖服務交涉與 Office 365 同盟閘道的驗證，而不將使用者的本機 Active Directory 密碼透過網際網路傳遞至 Office 365。 使用本機密碼原則，或如果是網頁用戶端則使用雙因素驗證。 Outlook Web App 不包含 [變更密碼] 超連結。 使用者變更密碼，使用標準的內部部署工具，或經由桌面 PC 登入選項。
+使用同盟身分時，密碼會在 Active Directory 中管理。 內部部署安全性權杖服務交涉與 Office 365 同盟閘道的驗證，而不將使用者的本機 Active Directory 密碼透過網際網路傳遞至 Office 365。 使用本機密碼原則，或如果是網頁用戶端則使用雙因素驗證。 網頁型 outlook 不會納入變更密碼] 超連結。 使用者變更密碼，使用標準的內部部署工具，或經由桌面 PC 登入選項。
   
 如果您已在 Office 365 環境中啟用[搭配單一登入的目錄同步作業案例](https://docs.microsoft.com/previous-versions/azure/azure-services/dn441213(v=azure.100))，而且發生的中斷影響同盟識別提供者，則同盟登入的密碼同步備份會提供將網域手動切換至密碼同步的選項。使用 密碼 同步處理，可讓您的使用者在修正中斷時存取 Office 365。了解[如何從單一登入切換至密碼同步](https://go.microsoft.com/fwlink/p/?LinkId=509832)。
   
-## <a name="license-management"></a>授權條款管理
+## <a name="license-management"></a>授權管理
 
 Office 365 授權給予使用者對於一組 Office 365 服務的存取權。針對使用者需要存取之服務，管理員會指派一個授權給每位使用者。例如，您可以指派使用者商務用 Skype Online 而非 SharePoint Online 的存取權。
   

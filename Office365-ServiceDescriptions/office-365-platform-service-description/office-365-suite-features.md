@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主題中列出的功能是一群 web 式工具，可協助您進行共同作業並安全地跨多種裝置與多個 Office 365 服務進行通訊。 這些功能會協助在您的組織內進行新的連線，方法是整合數位內容建立、儲存及管理與用於在使用者之間探索及分享資訊的社交工具。
-ms.openlocfilehash: 801079a5a6b26872acb34ad2b21aad4aff875430
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 8e91644898b688237a12715ef457a66589e5406e
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582119"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633422"
 ---
 # <a name="office-365-suite-features"></a>Office 365 套件功能
 
@@ -67,11 +67,11 @@ Microsoft Sway 是可協助您的商務專業數位 storytelling 應用程式與
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-Microsoft Teams 是 Office 365 中以聊天為中心的工作區，可以協助小組成員一起達成目標。Microsoft Teams 可作為團隊工作的中樞，壤成員從單一工作區立即存取整個 Office 365 的聊天室對話、內容和工具。內建 SharePoint 和 OneNote，且小組成員可以在應用程式中使用 Office 文件權限。除了聊天室之外，Microsoft Teams 也支援視訊呼叫及會議，讓小組可以即時線上會談 (不論是隨選或是排程均可)。小組成員可以輕鬆地與多個小組共同作業，並隨時搜尋人員、聊天室及檔案。Microsoft Teams 的運作範圍遍及 Windows、Mac、Web、Android 和 iOS 平台。若要瞭解詳細資訊，請參閱〈[Microsoft Teams 線上說明](https://go.microsoft.com/fwlink/?linkid=834413)〉。[Office 365 Germany](office-365-germany.md) 中尚未提供 Teams。
+Microsoft Teams 是協助達成更多在一起的小組成員的 Office 365 中的聊天置中對齊工作區。 Microsoft Teams 可做為團隊合作，中樞提供立即存取聊天交談、 內容及工具從 Office 365 到單一的工作區。 SharePoint 和 OneNote 內建的以及小組成員可以使用的應用程式內的 Office 文件權限。 除了聊天室、 Microsoft Teams 也支援視訊通話及會議，讓小組符合 live，是否依需求，或排程。 小組成員可以輕易地與多個小組共同作業和隨時隨地搜尋人員、 聊天以及檔案。 Microsoft Teams 適用於 Windows、 Mac、 web、 Android 和 iOS 的平台不同。 若要深入了解，請參閱[Microsoft Teams 線上說明](https://go.microsoft.com/fwlink/?linkid=834413)。 小組尚未提供[Office 365 Germany](office-365-germany.md)中。
   
 ## <a name="office-delve"></a>Office Delve
 
-Office Delve 可讓使用者根據個人化觀點來搜尋和探索 Office 365 的內容。Delve 是 Office Graph 提供的第一個體驗。若要深入了解 Office Delve，請前往 [Office Delve 是什麼？](https://go.microsoft.com/fwlink/?LinkId=511463)。 
+Office Delve 可讓使用者搜尋和探索 Office 365 內容根據個人化觀點。 Delve 是 Office Graph 提供的第一個體驗。 若要深入了解 Office Delve，請前往 [Office Delve 是什麼？](https://go.microsoft.com/fwlink/?LinkId=511463)。 
   
 ## <a name="office-365-groups"></a>Office 365 群組
 
@@ -87,7 +87,7 @@ Office 365 影片是您可以在裝置上傳、共用與探索視訊的安全全
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-Microsoft Kaizala 是簡單且安全的行動裝置工作管理應用程式，其能夠連線及吸引人內部和外部組織的目錄 – 包括合約工作者，廠商，以將唯一的功能帶到 Microsoft 365，協力廠商、 供應商、 客戶和公民 – 使用大型和[彈性的群組類型](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)。 Kaizala 的開啟目錄模型可讓電話號碼式身分識別的簡單的上架和簡單的使用者體驗的通訊和工作管理。 Kaizala 行動應用程式可讓使用者傳送立即訊息和附件，例如圖片、 文件、 視訊、 60, 等等，以及使用巨集指令卡問卷調查、 投票、 工作分派、 宣告、 訓練及其他。 [Kaizala 是隨附於 Office 365](https://products.office.com/en/business/microsoft-kaizala) ，並可在 iPhone 和 Android。 若要深入了解，移至[Kaizala 網站](https://products.office.com/en/business/microsoft-kaizala)。 
+Microsoft Kaizala 是簡單且安全的行動裝置工作管理應用程式，其能夠連線及吸引人內部和外部組織的目錄 – 包括合約工作者，廠商，以將唯一的功能帶到 Microsoft 365，協力廠商、 供應商、 客戶和公民 – 使用大型和[彈性的群組類型](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)。 Kaizala 的開啟目錄模型可讓電話號碼式身分識別的簡單的上架和簡單的使用者體驗的通訊和工作管理。 Kaizala 行動應用程式可讓使用者可以傳送立即訊息和附件，例如圖片、 文件、 視訊、 60, 等等，以及使用巨集指令卡問卷調查、 投票、 工作分派、 宣告、 訓練及其他。 [Kaizala 是隨附於 Office 365](https://products.office.com/en/business/microsoft-kaizala) ，並可在 iPhone 和 Android。 若要深入了解，移至[Kaizala 網站](https://products.office.com/en/business/microsoft-kaizala)。 
   
 ## <a name="feature-availability"></a>功能可用性
 

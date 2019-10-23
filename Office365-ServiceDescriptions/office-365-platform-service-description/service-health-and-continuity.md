@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 系統管理員可以檢視服務的狀態，並找出維護排定的時間。 服務健康狀況資訊，請在任何時間登入 Office 365。
-ms.openlocfilehash: 9cb4438eb0879c0e873aebc16c625c991c20c196
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: 8dc657dfb9101d6d193b3ea20ebef7b8ef47600f
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450277"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633434"
 ---
 # <a name="service-health-and-continuity"></a>服務健康狀況和持續性
 
@@ -79,11 +79,11 @@ Office 365 租用戶系統管理員系統管理應用程式可讓您能夠隨時
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2 的 Office 365 管理組件
 
-Microsoft System Center 是可協助您管理資料中心、用戶端裝置和混合雲端 IT 環境的整合式管理平台。 Office 365 系統管理員現在使用 System Center 已匯入 Office 365 管理組件，可讓他們能夠檢視在 System Center Operations Manager 內的所有服務通訊選項。 使用此工具可讓您存取您已訂閱服務的狀態、作用中及已解決服務事件及訊息中心通訊。 若需詳細資訊，請瀏覽[新的 Office 365 系統管理工具](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/) 部落格文章。 
+Microsoft System Center 是可協助您管理資料中心、用戶端裝置和混合雲端 IT 環境的整合式管理平台。 Office 365 系統管理員現在使用 System Center 已匯入 Office 365 管理組件，可讓他們檢視在 System Center Operations Manager 內的所有服務通訊選項。 使用此工具可讓您存取您已訂閱服務的狀態、作用中及已解決服務事件及訊息中心通訊。 若需詳細資訊，請瀏覽[新的 Office 365 系統管理工具](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/) 部落格文章。 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 服務通訊 API
 
-Office 365 服務通訊 API 可讓您以您想要的方式存取 Office 365 服務通訊。有了這個新的系統管理工具，您現在可以建立您的工具或將其連線至 Office 365 服務通訊，也可能簡化監視環境的方式。服務通訊 API 可讓您監視環境中的下列項目：
+Office 365 服務通訊 API 可讓您想要的方式存取 Office 365 服務通訊。 有了這個新的系統管理工具，您現在可以建立您的工具或將其連線至 Office 365 服務通訊，也可能簡化監視環境的方式。 服務通訊 API 可讓您監視您的環境中的下列：
   
 - 即時服務健康狀況
     

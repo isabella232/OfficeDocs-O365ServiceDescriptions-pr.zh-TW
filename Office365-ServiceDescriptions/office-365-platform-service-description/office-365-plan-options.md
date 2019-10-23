@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
-ms.openlocfilehash: 18fb079e0d6353595841d02c274ba5bbab35935b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 089ce23a2dd086bd78c5401e67f6dcb722a40a76
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582059"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633498"
 ---
 # <a name="office-365-plan-options"></a>Office 365 方案選項
 
@@ -33,10 +33,10 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
   
 |**Office 365 服務系列**|**方案**|
 |:-----|:-----|
-|**商務版 (最多 300 位使用者)** <br/> |[Office 365 商務基本版](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 商務版](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 商務進階版](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
-|**企業 (使用者數目不受限制)** <br/> |[Office 365 企業版 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 企業版 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 企業版 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 企業版 F1](https://products.office.com/business/office-365-f1) <br/> |
-|**Education (使用者數目不受限制)** <br/> |[Office 365 教育版](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 教育版 E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
-|**Government (使用者數目不受限制)** <br/> |[參閱所有可用的商務方案](https://products.office.com/government/compare-office-365-government-plans) <br/> |
+|**商務版 （最多 300 位使用者）** <br/> |[Office 365 商務基本版](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 商務版](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 商務進階版](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**企業 （不限數量的使用者）** <br/> |[Office 365 企業版 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 企業版 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 企業版 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 企業版 F1](https://products.office.com/business/office-365-f1) <br/> |
+|**教育版 （不限數量的使用者）** <br/> |[Office 365 教育版](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 教育版 E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
+|**Government （不限數量的使用者）** <br/> |[參閱所有可用的商務方案](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**中國的 21Vianet 運作的 Office 365** <br/> |[請參閱所有可用的業務計劃](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Germany** <br/> |[參閱所有可用的商務方案](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview) <br/> |
    
@@ -84,6 +84,7 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
 #### <a name="basic-client-limitations"></a>基本用戶端限制
 
 下列功能會在完整用戶端中提供，但不會在基本用戶端中提供：
+
 - 管理小組通話設定
 - 管理代理人    
 - 代表其他連絡人撥打電話 (主管/代理人案例)    
@@ -97,7 +98,7 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
 
 隨著組織需求的變更，您可能也需要跟著變更您的 Office 365 方案。您可以從目前的 Office 365 訂閱切換至其他 Office 365 訂閱： 
   
-- **在相同的服務系列中：** 例如，您可以從 Office 365 商務基本版 移到 Office 365 商務進階版，或從 Office 365 Enterprise E1 移到 Office 365 Enterprise E3。     
+- **在相同的服務系列中：** 例如，您可以從 Office 365 商務基本版 移到 Office 365 商務進階版，或從 Office 365 Enterprise E1 移到 Office 365 Enterprise E3。
 - **從獨立計劃：** 例如，您可以從 Exchange Online Plan 1 移到 Office 365 Enterprise E1。     
 - **在相同的服務系列中：** 例如，您可以從 Office 365 商務基本版 移到 Office 365 Enterprise E3。     
 如需有關如何變更訂閱的詳細資訊，包括如何從試用版移到付費訂閱版，請參閱〈[切換為其他 Office 365 方案或訂閱](https://support.office.com/article/HA104031833)〉。
@@ -105,7 +106,6 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
 您可以合併單一帳戶中的企業、商務和獨立方案 (例如 Exchange Online Plan 1)。不過，每一方案基座數目的現有限制不變。例如，在 Office 365 商務基本版 和 Office 365 商務進階版 上每一方案最多可有 300 個基座，但 Exchange Online Plan 1 上的使用者數目不受限。
   
 ## <a name="standalone-services"></a>獨立服務
-<a name="bkmk_standaloneservices"> </a>
 
 下列的線上服務可以使用其本身為獨立計劃。 他們也可以加入至商務和企業不已包含的服務系列計劃。 定價的詳細資訊，或與線上服務代表洽談，選取任何如下表所列的計劃。
   
@@ -125,6 +125,5 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
 |Kaizala  <br/> |[Microsoft Kaizala Pro](https://signup.microsoft.com/Signup?OfferId=b03ad9b6-42e5-4899-9a84-f7666ded99a1&culture=en-US&ali=1) <br/> |
    
 ## <a name="feature-availability"></a>功能可用性
-<a name="bkmk_standaloneservices"> </a>
 
 若要檢視跨 Office 365 規劃的功能可用性，請參閱 [Office 365 平台服務說明](office-365-platform-service-description.md)。
