@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer 是同級產品最佳、安全且私密的企業社交網路。 Yammer 可讓員工輕鬆協同作業、更快做出決策，以及自行組成小組來迎接任何業務挑戰，進而使員工更具生產力且更為成功。 這是一種新的工作方式，可自然地促成業務契合度和靈活性、減少週期時間、凝聚員工，以及改善與客戶及合作夥伴的關係。
-ms.openlocfilehash: 4140f3cb779c6b444dfff9626f8fadb1686e2ddd
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: ee9aebc28f97756a5291ab8ad5f292d8b4659d18
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777884"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726450"
 ---
 # <a name="yammer-service-description"></a>Yammer 服務說明
 
@@ -46,7 +46,7 @@ Yammer 可透過下列計劃取得：
 > [!NOTE]
 > [Office 365 平台服務說明](../office-365-platform-service-description/office-365-platform-service-description.md) 中描述的功能和原則不適用於 Yammer 服務。 
   
-## <a name="yammer-enterprise-service-communications-policy"></a>Yammer Enterprise 服務通訊原則
+## <a name="yammer-enterprise-service-communications-policy"></a>Yammer enterprise 服務通訊原則
 <a name="YammerCommsPolicy"> </a>
 
 Yammer 是 Office 365 的一部分，會遵循[Office 365 變更管理原則](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/)，但不會使用已設定目標發行來部署更新。 
@@ -59,19 +59,18 @@ Yammer 是 Office 365 的一部分，會遵循[Office 365 變更管理原則](ht
   
 |||
 |:-----|:-----|
-|**需要因應的變更 (為變更訂計劃)**         需要系統管理員進行變更好讓服務維持運作，可能會對組織的法務遵循造成影響的更新  <br/> |Office 365 訊息中心 電子郵件導向至 Yammer 已驗證的系統管理員 Office 365 導覽圖Yammer 服務更新外部群組對於只會影響到特定一組使用者的變更，我們也可以直接通知這些使用者。 |
-|**需要知悉的變更 (持續留意)**         不需要系統管理員採取動作的變更，視覺設計變更  <br/> |Office 365 訊息中心 Office 365 導覽圖Yammer 服務更新外部群組對於只會影響到特定一組使用者的變更，我們也可以直接通知這些使用者。 |
-|**非重大**         非重大且不需要採取動作或知悉的變更，即使這些變更可能會被一些使用者察覺到  <br/> |不會廣泛通知 |
+|**需要的動作 （計劃變更） 的變更** <br/>需要系統管理員進行變更好讓服務執行中，可能會影響您的組織符合性的更新  <br/> |-Office 365 訊息中心電子郵件導向至 Yammer 已驗證的系統管理員 <br/>-Office 365 藍圖<br/>-Yammer 服務更新<br/>-外部群組<br/>對於只會影響到特定一組使用者的變更，我們也可以直接通知這些使用者。 |
+|**需要知悉的變更 （持續留意） 的變更**<br/>不需要系統管理員採取動作，視覺設計變更的變更  <br/> |-Office 365 訊息中心<br/>-Office 365 藍圖<br/>-Yammer 服務更新<br/>-外部群組<br/>對於只會影響到特定一組使用者的變更，我們也可以直接通知這些使用者。 |
+|**非要徑** <br/>非重大且不需要採取動作或知悉的變更，即使他們可能會被一些使用者察覺到的變更  <br/> |不會廣泛通知 |
    
 ## <a name="feature-availability-across-yammer-plans"></a>各 Yammer 計劃中可用的功能
-<a name="YammerCommsPolicy"> </a>
 
-需要協助找出最適合組織需求的 Yammer 計劃嗎？請使用下表來查看各個計劃中提供哪些功能。按一下功能名稱，即可閱讀有關該功能如何在 Yammer 中運作的簡短摘要。
+需要協助找出最適合組織需求的 Yammer 計劃嗎？ 請使用下表來查看各個計劃中提供哪些功能。 選取功能名稱，即可參閱該功能如何在 Yammer 中運作的簡短摘要。
   
 |**功能**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
 |[群組](group-features-in-yammer.md#groups) <br/> | 是  <br/> |是  <br/> |
-|[相關群組](group-features-in-yammer.md#related-groups) <br/> |是  <br/> |是  <br/> |
+|[相關的群組](group-features-in-yammer.md#related-groups) <br/> |是  <br/> |是  <br/> |
 |[公告](group-features-in-yammer.md#announcements) <br/> |否  <br/> |是  <br/> |
 |[使用者設定檔](profile-features-in-yammer.md#user-profiles) <br/> |是  <br/> |是  <br/> |
 |[專業能力](profile-features-in-yammer.md#expertise) <br/> |是  <br/> |是  <br/> |
@@ -83,7 +82,6 @@ Yammer 是 Office 365 的一部分，會遵循[Office 365 變更管理原則](ht
 |[@提及](message-and-conversation-features-in-yammer.md#section) <br/> |是  <br/> |是  <br/> |
 |[目前上線](message-and-conversation-features-in-yammer.md#online-now) <br/> |是  <br/> |是  <br/> |
 |[私人郵件](message-and-conversation-features-in-yammer.md#private-messages) <br/> |是  <br/> |是  <br/> |
-|[分享對話](message-and-conversation-features-in-yammer.md#share-conversations) <br/> |是  <br/> |是  <br/> |
 |[分享對話](message-and-conversation-features-in-yammer.md#share-conversations) <br/> |是  <br/> |是  <br/> |
 |[事件](message-and-conversation-features-in-yammer.md#events) <br/> |是  <br/> |是  <br/> |
 |[投票](message-and-conversation-features-in-yammer.md#polls) <br/> |是  <br/> |是  <br/> |
@@ -111,7 +109,7 @@ Yammer 是 Office 365 的一部分，會遵循[Office 365 變更管理原則](ht
 |[資料匯出](administration-and-security-features-in-yammer.md#data-export) <br/> |否  <br/> |是  <br/> |
 |[關鍵字監控](administration-and-security-features-in-yammer.md#keyword-monitoring) <br/> |否  <br/> |是  <br/> |
 |[分析](administration-and-security-features-in-yammer.md#analytics) <br/> |否  <br/> |是  <br/> |
-|[公司資源](administration-and-security-features-in-yammer.md#company-resources) <br/> |是  <br/> |是  <br/> |
+|[組織的資源](administration-and-security-features-in-yammer.md#organization-resources) <br/> |是  <br/> |是  <br/> |
 |[密碼原則](administration-and-security-features-in-yammer.md#password-policies) <br/> |否  <br/> |是  <br/> |
 |[工作階段管理](administration-and-security-features-in-yammer.md#session-management) <br/> |否  <br/> |是  <br/> |
 |[邏輯防火牆](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |否  <br/> |是  <br/> |
@@ -120,5 +118,3 @@ Yammer 是 Office 365 的一部分，會遵循[Office 365 變更管理原則](ht
 |[客戶支援](support-features-in-yammer.md#customer-support) <br/> |是  <br/> |是  <br/> |
 |[系統管理員支援](support-features-in-yammer.md#administrator-support) <br/> |否  <br/> |是  <br/> |
 |[管理私人內容模式](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |否  <br/> |是  <br/> |
-   
-

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是適用於專案組合管理 (PPM) 和日常工作彈性線上解決方案。 Project Online 是透過 Office 365 所交付，提供功能強大的專案管理功能，以規劃、設定優先順序以及管理專案和專案組合投資 (幾乎可以從任何位置在任何裝置上使用)。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: e580a6ae92655c39be38f7eb0a6bf48b74b31bf5
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: f061f7fb43d9f6283d64cb14672da8af7945ca4f
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523253"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700245"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -50,7 +50,18 @@ Project Online 是適用於專案組合管理 (PPM) 和日常工作彈性線上�
 
 Project Online 做為基礎的 SharePoint 平台，它將資料儲存在 SharePoint 資料存放區。
 
-Project Online 有兩個訂閱透過： Project Online 專業版和 Project Online 進階版。 Project online 的小組成員功能是透過[Project Online 基本版](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3)訂閱。 [Project Online 功能](#project-online-features)] 區段中列出的功能僅與 Project Online 的 SharePoint 資料儲存區內的資料互動。
+Project Online 有兩個訂閱透過： Project Online 專業版和 Project Online 進階版。 [Project Online 功能](#project-online-features)] 區段中列出的功能僅與 Project Online 的 SharePoint 資料儲存區內的資料互動。
+
+Project online 的小組成員功能是透過[Project Online 基本版](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3)訂閱。 Project Online 基本版是小組成員*的附加元件*訂閱的 Project Online 專業版的客戶或 Project Online 進階版訂閱。 它可讓小組成員來執行 Project Online 中受管理的專案任務和時間更新的 web 介面。 
+
+Project Online 基本版與小組成員可以執行下列 Project Online 功能：
+
+- 使用 web 式介面
+- 更新工作、問題及風險
+- 提交時程表
+- 共用文件及共同作業與 Microsoft Teams 或 Skype 商務使用者
+
+Project Online 基本版不包括 web 專案。
 
 ### <a name="project-online-desktop-client"></a>Project Online 桌面用戶端
 
@@ -231,7 +242,7 @@ Microsoft Teams 整合 | 在 Microsoft Teams 中的專案上共同作業。<sup>
 |排序和群組 | 若要取得您的專案、 任務和資源的焦點的檢視使用自訂的排序及群組。|
 |**自訂及整合**||
 |自訂欄位 | 在專案、 工作及資源層級，以追蹤重要資料至您的組織和專案新增自訂欄位。 |
-|Forms | 建立及部署自訂表單來擷取重要的專案資料。 |
+|表單 | 建立及部署自訂表單來擷取重要的專案資料。 |
 |公式 | 計算並擷取使用公式跨越多個工作和專案的重要資料。 |
 |範本 | 建立一般包括專案計劃、 小組及工作分派的專案的範本。 |
 |.mpp 匯入/匯出 | 從現有的.mpp 檔案建立新專案或建立現有專案的.mpp 檔案。 |
@@ -247,7 +258,15 @@ Microsoft Teams 整合 | 在 Microsoft Teams 中的專案上共同作業。<sup>
 
 ### <a name="use-of-sharepoint-online"></a>SharePoint Online 的使用
 
-Project Online 需要 SharePoint online，其提供給您的 Project Online 一部分使用。 提供與 Project Online 專業版或進階版的 SharePoint Online 功能的權限僅限於儲存及存取資料以支援 Project Online。
+Project Online 需要 SharePoint Online 中，這佈建 Project Online 的一部分使用。 提供與 Project Online 專業版或進階版的 SharePoint Online 功能的權限僅限於儲存及存取資料以支援 Project Online。
+
+### <a name="project-roadmap-and-microsoft-flow"></a>Project Roadmap 和 Microsoft Flow
+
+Project Roadmap 需要 Microsoft 流程，這佈建為專案訂閱的一部分使用。 Microsoft Flow 的功能權限僅限於所需的 Project Roadmap 這些 Microsoft Flow 功能。 Microsoft Flow 功能所需的 Project Roadmap 會顯示為 Microsoft 365 系統管理中心的 [**應用程式**] 區段中的**流程與專案的資料整合**服務方案。
+
+### <a name="project-for-the-web-and-common-data-service"></a>用於 web 與通用資料服務的專案
+
+Web 專案需要使用的一般資料服務 (CD) 用來儲存其資料。 CD 是佈建為專案訂閱的一部分。 CD 功能的權限僅限於儲存及存取以支援 web 專案的資料。 CD 功能所需的專案會顯示為 Microsoft 365 系統管理中心的 [**應用程式**] 區段中的**專案的一般資料服務**服務方案。
 
 ### <a name="data-backup-and-retention"></a>資料備份及保留
 

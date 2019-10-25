@@ -12,30 +12,27 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: 下列的收件匣功能是 Yammer 中提供。
-ms.openlocfilehash: 8e259ece1629b536b3782df5b523acf5bb747eea
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: b9f74486b923ca062bf47e3daceb199816726fa6
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777944"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726336"
 ---
 # <a name="inbox-features-in-yammer"></a>Yammer 中的收件匣功能
 
 下列的收件匣功能是 Yammer 中提供。
   
 ## <a name="inbox"></a>收件匣
-<a name="bkmk_Inbox"> </a>
 
-收件匣可自動彙總您的 @mention、群組公告、對話及私人郵件，因此您可以輕易地區分回應的優先順序。
+收件匣可自動彙總 @mentions、 群組公告、 對話及私人郵件，您可以輕鬆地回應的優先順序。
   
-## <a name="inbox-search"></a>Inbox Search
-<a name="bkmk_InboxSearch"> </a>
+## <a name="inbox-search"></a>收件匣搜尋
 
-搜尋整個收件匣，以快速找到對話、私人郵件及公告。
+搜尋整個收件匣快速找到對話、 私人郵件和宣告。
   
 ## <a name="feature-availability"></a>功能可用性
-<a name="bkmk_InboxSearch"> </a>
 
-若要檢視 Office 365 計劃、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Yammer 服務說明](yammer-service-description.md)。
+若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer Service Description](yammer-service-description.md)。
   
 

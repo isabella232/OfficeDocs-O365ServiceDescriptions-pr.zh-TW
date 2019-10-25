@@ -13,13 +13,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: Skype 商務 Online 中的限制可分為下列類別：
-ms.openlocfilehash: 93a104be708fceae8664447cd1d61ef914dd7fba
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: Skype 商務 Online 中的限制可分為下列類別。
+ms.openlocfilehash: 4d0c804e8d0d4c8b8b9780bcea762c0253cdabe9
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777804"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726062"
 ---
 # <a name="skype-for-business-online-limits"></a>商務用 Skype Online 限制
 
@@ -68,7 +68,6 @@ Skype 商務 Online 中的限制可分為下列類別：
 > <sup>1</sup>用戶端可以啟動聊天與最多 99 使用者以手動方式新增他們，或傳送立即訊息從群組或通訊群組清單的快顯功能表。 如需商務用 Skype 在立即訊息的詳細資訊，請參閱[傳送 IM skype for Business](https://go.microsoft.com/fwlink/?linkid=533412)。 
   
 ## <a name="meeting-limits"></a>會議限制
-<a name="bkmk_Meeting_LyncOnlineLimits"> </a>
 
 - **檔案上傳限制** 可上傳到商務用 Skype 會議的檔案大小上限 (包括講義和 PowerPoint 簡報)。 
     
@@ -112,7 +111,6 @@ Skype 商務 Online 中的限制可分為下列類別：
 |小組呼叫群組中的個人  <br/> |25  <br/> |不適用  <br/> |25  <br/> |
    
 ## <a name="meeting-retention-limits"></a>會議保留限制
-<a name="bkmk_MeetingRetention_LyncOnlineLimits"> </a>
 
 - **會議內容保留期間**：最後一個人離開將任何上傳的會議內容保留在商務用 Skype 中的會議之後，但在永久刪除會議內容之前的時間量。 
     
@@ -131,10 +129,7 @@ Skype 商務 Online 中的限制可分為下列類別：
 |沒有結束日期的週期性會議| 會議所提供有新的會議聯結 （啟用），或至少一次每年更新排程，就能存取
 |[立即開會]|至少 8 小時會存取會議。
 
-
-  
 ## <a name="minute-limits"></a>分鐘限制
-<a name="bkmk_Minute_LyncOnlineLimits"> </a>
 
-如需 Office 365 國內通話方案或 Office 365 國際通話方案中的分鐘限制相關資訊，請按一下[這裡](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)。
+在 Office 365 國內通話方案或 Office 365 國際通話計劃中分鐘限制的相關資訊，請移至[音訊會議和通話方案的國家/地區與區域可用性](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)。
   

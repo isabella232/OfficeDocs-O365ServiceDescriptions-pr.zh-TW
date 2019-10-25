@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 取得功能和需求，Exchange Online Protection 的相關資訊。 包含會提供 Exchange Online Protection 的計劃的清單，以及的功能比較不同計劃。
-ms.openlocfilehash: 462e1f100382ffddd9f456f38525158826720f53
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 92363cebf6478f87f553792d449f0b9b0784fa5b
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581909"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700225"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服務說明
 
@@ -25,9 +25,9 @@ ms.locfileid: "37581909"
 
 Microsoft Exchange Online Protection (EOP) 是雲端式的電子郵件篩選服務，它能協助組織抵禦垃圾郵件和惡意軟體，同時也包括預防組織發生訊息原則違規的功能。EOP 能簡化訊息環境的管理，減輕維護內部部署硬體和軟體所衍生的繁重負擔。
 
-下列是您可以使用 EOP 來保護郵件的主要方法：
+下列清單說明您可以使用 EOP 來保護郵件的主要方法：
 
-- **在獨立案例中**： EOP 提供雲端式電子郵件保護您的內部部署 Exchange Server 2013 或更新版本的環境、 舊式 Exchange Server 版本，或任何其他內部部署 SMTP 電子郵件解決方案。
+- **在獨立案例中**： EOP 提供雲端式電子郵件保護，如內部電子郵件環境 （Exchange Server 或其他內部部署 SMTP 電子郵件解決方案）。
 
 - **作為 Microsoft Exchange Online 的一部分**： 根據預設，EOP 會保護 Exchange Online 雲端託管信箱。 若要深入了解 Exchange Online，請參閱 [Exchange Online 服務說明](../exchange-online-service-description/exchange-online-service-description.md)。
 
@@ -50,21 +50,21 @@ EOP 可透過下列訂閱計劃取得：
 
 |**計劃**|**描述**|
 |:-----|:-----|
-|[獨立式 EOP](https://products.office.com/exchange/exchange-email-security-spam-protection)|EOP 會保護您的內部部署信箱。|
-|[Exchange Online 中的 EOP 功能](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|EOP 會保護您的 Exchange Online 雲端託管信箱。|
-|[Exchange Enterprise CAL with Services](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|EOP 會像獨立式 EOP 一樣保護您的內部部署信箱，並包含資料遺失防護 (DLP) 以及使用 Web 服務進行的報告。|
+|[獨立式 EOP](https://products.office.com/exchange/exchange-email-security-spam-protection)|個別雲端式服務會保護您的內部部署電子郵件組織。|
+|[Exchange Online 中的 EOP 功能](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|適用於 Exchange Online 雲端託管信箱內建的保護。|
+|[Exchange Enterprise CAL with Services](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|在內部部署 Exchange 組織，包括 EOP 和其他雲端式的功能 （請參閱下一節以取得詳細資料） 購買附加元件授權。|
 
 ### <a name="exchange-enterprise-cal-with-services-features"></a>Exchange Enterprise CAL with Services 功能
 
-Microsoft Exchange Enterprise CAL with Services 提供適用於內部部署郵件環境的 EOP 電子郵件保護功能，以及下列功能：
+Microsoft Exchange Enterprise CAL with Services 提供 EOP 的電子郵件保護功能與下列額外項雲端架構的功能：
 
 - [資料外洩防護 (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
 
 - [使用 Web 服務報告](reporting-and-message-trace.md#reporting-using-web-services)
 
-如需更多關於 Exchange Enterprise CAL with Services 授權的詳細資訊，請參閱[Exchange Server 授權](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)。
+如需 Exchange Enterprise CAL with Services 授權的詳細資訊，請參閱[Exchange Server 授權](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)。
 
-如果您有 Exchange Enterprise CAL with Services 授權，而且您想要佈建服務，請遵循[設定 EOP 服務](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service)中的指示。 其設定步驟與獨立式 EOP 的設定步驟相同。
+如果您有 Exchange Enterprise CAL with Services 授權，而且您想要佈建 EOP，請遵循[設定 EOP 服務](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service)中的指示。 其設定步驟與獨立式 EOP 的設定步驟相同。
 
 > [!NOTE]
 > Exchange Enterprise CAL with Services 的新功能會與 Exchange Online (而非獨立式 EOP) 同時部署。請注意，獨立式 EOP 和 Exchange Online/Exchange Enterprise CAL with Service 的部署排程可能稍有不同。
