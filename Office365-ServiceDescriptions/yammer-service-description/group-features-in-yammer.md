@@ -12,35 +12,30 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: Yammer 中提供下列群組功能。
-ms.openlocfilehash: a036e1ad8f491b915c78171226c3a2bbe1db4952
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: f8b7d31dfee3b56f5bbf3edf3eda64f01fe7c2a6
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777974"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726346"
 ---
-# <a name="group-features-in-yammer"></a><span data-ttu-id="6c03c-103">Yammer 中的群組功能</span><span class="sxs-lookup"><span data-stu-id="6c03c-103">Group Features in Yammer</span></span>
+# <a name="group-features-in-yammer"></a><span data-ttu-id="fa57c-103">Yammer 中的群組功能</span><span class="sxs-lookup"><span data-stu-id="fa57c-103">Group features in Yammer</span></span>
 
-<span data-ttu-id="6c03c-104">Yammer 中提供下列群組功能。</span><span class="sxs-lookup"><span data-stu-id="6c03c-104">The following group features are available in Yammer.</span></span>
+<span data-ttu-id="fa57c-104">Yammer 中提供下列群組功能。</span><span class="sxs-lookup"><span data-stu-id="fa57c-104">The following group features are available in Yammer.</span></span>
   
-## <a name="groups"></a><span data-ttu-id="6c03c-105">群組</span><span class="sxs-lookup"><span data-stu-id="6c03c-105">Groups</span></span>
-<span data-ttu-id="6c03c-106"><a name="bkmk_Groups"> </a></span><span class="sxs-lookup"><span data-stu-id="6c03c-106"></span></span>
+## <a name="announcements"></a><span data-ttu-id="fa57c-105">Announcements</span><span class="sxs-lookup"><span data-stu-id="fa57c-105">Announcements</span></span>
 
-<span data-ttu-id="6c03c-107">從部門通訊以至您下一次的活動推出或公司事件，在數秒內針對任何團隊、專案或利益創建一個群組。</span><span class="sxs-lookup"><span data-stu-id="6c03c-107">From departmental communications to your next campaign launch or company event, set up a Group in seconds for any team, project or interest.</span></span>
+<span data-ttu-id="fa57c-106">與群組分享公告，以便立即向成員通知重要更新。</span><span class="sxs-lookup"><span data-stu-id="fa57c-106">Share an announcement with a group to instantly notify members of important updates.</span></span> <span data-ttu-id="fa57c-107">系統管理員可釘選至群組，以便輕鬆探索的宣告。</span><span class="sxs-lookup"><span data-stu-id="fa57c-107">Administrators can pin announcements to a group for easy discovery.</span></span>
   
-## <a name="related-groups"></a><span data-ttu-id="6c03c-108">相關群組</span><span class="sxs-lookup"><span data-stu-id="6c03c-108">Related Groups</span></span>
-<span data-ttu-id="6c03c-109"><a name="bkmk_RelatedGroups"> </a></span><span class="sxs-lookup"><span data-stu-id="6c03c-109"></span></span>
+## <a name="groups"></a><span data-ttu-id="fa57c-108">群組</span><span class="sxs-lookup"><span data-stu-id="fa57c-108">Groups</span></span>
 
-<span data-ttu-id="6c03c-110">您可以新增與您已加入之群組相關的群組並設定其優先順序，以便同事探索更為相關的人員、內容和對話。</span><span class="sxs-lookup"><span data-stu-id="6c03c-110">You can add and prioritize groups related to the ones you've already joined so coworkers can discover even more relevant people, content, and conversations.</span></span>
+<span data-ttu-id="fa57c-109">從部門通訊以至您下一步活動啟動或組織事件，設定群組中的任何小組、 專案或感興趣的秒數。</span><span class="sxs-lookup"><span data-stu-id="fa57c-109">From departmental communications to your next campaign launch or organization event, set up a group in seconds for any team, project, or interest.</span></span>
   
-## <a name="announcements"></a><span data-ttu-id="6c03c-111">Announcements</span><span class="sxs-lookup"><span data-stu-id="6c03c-111">Announcements</span></span>
-<span data-ttu-id="6c03c-112"><a name="bkmk_Announcements"> </a></span><span class="sxs-lookup"><span data-stu-id="6c03c-112"></span></span>
+## <a name="related-groups"></a><span data-ttu-id="fa57c-110">相關的群組</span><span class="sxs-lookup"><span data-stu-id="fa57c-110">Related groups</span></span>
 
-<span data-ttu-id="6c03c-p101">與群組分享公告，以便立即向成員通知重要更新。系統管理員可以將「公告」釘選至群組，以便輕鬆探索。</span><span class="sxs-lookup"><span data-stu-id="6c03c-p101">Share an announcement with a group to instantly notify members of important updates. Administrators can pin Announcements to a group for easy discovery.</span></span>
+<span data-ttu-id="fa57c-111">新增並設定優先順序相關您已加入以便同事探索更為相關的人員、 內容和交談的群組。</span><span class="sxs-lookup"><span data-stu-id="fa57c-111">Add and prioritize groups related to the ones you've already joined so coworkers can discover even more relevant people, content, and conversations.</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="6c03c-115">功能可用性</span><span class="sxs-lookup"><span data-stu-id="6c03c-115">Feature Availability</span></span>
-<span data-ttu-id="6c03c-116"><a name="bkmk_Announcements"> </a></span><span class="sxs-lookup"><span data-stu-id="6c03c-116"></span></span>
+## <a name="feature-availability"></a><span data-ttu-id="fa57c-112">功能可用性</span><span class="sxs-lookup"><span data-stu-id="fa57c-112">Feature availability</span></span>
 
-<span data-ttu-id="6c03c-117">若要檢視 Office 365 計劃、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Yammer 服務說明](yammer-service-description.md)。</span><span class="sxs-lookup"><span data-stu-id="6c03c-117">To view feature availability across Office 365 plans, standalone options, and on-premise solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
+<span data-ttu-id="fa57c-113">若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer Service Description](yammer-service-description.md)。</span><span class="sxs-lookup"><span data-stu-id="fa57c-113">To view feature availability across Office 365 plans, standalone options, and on-premises solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
   
-
