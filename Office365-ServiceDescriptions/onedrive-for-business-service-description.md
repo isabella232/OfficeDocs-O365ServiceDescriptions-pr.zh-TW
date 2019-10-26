@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 深入了解每個訂閱方案所提供的 OneDrive 儲存空間。
-ms.openlocfilehash: 8eefabe547db81d758a98e5799729790340724a7
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 34ed849f989c4711b40b469539b48ac091b297b0
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582199"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734000"
 ---
 # <a name="onedrive-for-business-service-description"></a>商務用 OneDrive 服務描述
 
-OneDrive 是為組織中個別授權使用者在雲端提供的線上儲存空間。 您可以使用它來協助保護工作檔案，並跨多個裝置加以存取。 OneDrive 可讓您共用檔案並在文件上共同作業，以及將檔案同步處理到您的電腦。 [深入了解 OneDrive 的特性、功能及價格](https://go.microsoft.com/fwlink/?linkid=850345) 
+OneDrive 是為組織中個別授權使用者在雲端提供的線上儲存空間。 您可以使用它來協助保護工作檔案，並跨多個裝置加以存取。 OneDrive 可讓您共用檔案並在文件上共同作業，以及將檔案同步處理到您的電腦。 [深入了解 OneDrive 的特性、功能及價格](https://go.microsoft.com/fwlink/?linkid=850345)。
   
 OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方案中，也可以獨立方案形式個別購買。 
     
@@ -108,4 +108,3 @@ OneDrive 是以每個使用者為基礎進行佈建，而且是設計來為個�
   
 針對包含無限個別使用者雲端儲存空間的方案，請注意，限制可能會套用到非儲存空間功能。 
   
-
