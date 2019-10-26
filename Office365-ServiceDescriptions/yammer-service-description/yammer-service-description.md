@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer 是同級產品最佳、安全且私密的企業社交網路。 Yammer 可讓員工輕鬆協同作業、更快做出決策，以及自行組成小組來迎接任何業務挑戰，進而使員工更具生產力且更為成功。 這是一種新的工作方式，可自然地促成業務契合度和靈活性、減少週期時間、凝聚員工，以及改善與客戶及合作夥伴的關係。
-ms.openlocfilehash: ee9aebc28f97756a5291ab8ad5f292d8b4659d18
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 37fa62a9a4538da8fe37e0b3a6daedd29db5c27c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726450"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733574"
 ---
 # <a name="yammer-service-description"></a>Yammer 服務說明
 
@@ -25,7 +25,7 @@ Yammer 是同級產品最佳、安全且私密的企業社交網路。 Yammer �
   
 如需包含 Yammer 的 Office 365 方案清單，請參閱 [Office 365 服務系列與方案](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)。
   
-若要跨方案比較功能，請參閱[比較 Office 365 for Business 方案](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
+若要跨方案比較功能，請參閱[比較 Office 365 for Business 方案](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
   
 > [!TIP]
 > 您可以在「Office 365 服務說明」中匯出、儲存和列印頁面。了解如何[匯出多個頁面](https://go.microsoft.com/fwlink/?LinkId=403349)。 
@@ -114,7 +114,7 @@ Yammer 是 Office 365 的一部分，會遵循[Office 365 變更管理原則](ht
 |[工作階段管理](administration-and-security-features-in-yammer.md#session-management) <br/> |否  <br/> |是  <br/> |
 |[邏輯防火牆](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |否  <br/> |是  <br/> |
 |[使用原則](administration-and-security-features-in-yammer.md#usage-policy) <br/> |否  <br/> |是  <br/> |
-|[FastTrack 中心](http://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |否  <br/> |是  <br/> |
+|[FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |否  <br/> |是  <br/> |
 |[客戶支援](support-features-in-yammer.md#customer-support) <br/> |是  <br/> |是  <br/> |
 |[系統管理員支援](support-features-in-yammer.md#administrator-support) <br/> |否  <br/> |是  <br/> |
 |[管理私人內容模式](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |否  <br/> |是  <br/> |

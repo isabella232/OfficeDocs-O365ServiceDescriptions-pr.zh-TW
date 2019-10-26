@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 本主題說明包含與 Microsoft Exchange Online 的收件者相關功能。 其中包括電子郵件、連絡人、通訊群組，以及行事曆與排程功能。
-ms.openlocfilehash: c8f08e6d189c643e455c46c6703f9ea9b1038879
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 775d47e9a8db4e516f60bc98e9763f61becf5b70
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582129"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734201"
 ---
 # <a name="recipients"></a>收件者
 
@@ -50,19 +50,19 @@ Exchange Online 支援委任存取－允許他人管理使用者電子郵件與�
     
 - **代表傳送權限** 代理人可以信箱擁有者身分自他人的信箱傳送郵件。此情況常見於有共用信箱以及不自 Exchange Online 而自該共用信箱傳送電子郵件的員工。 
     
-如需委派存取權的詳細資訊，請參閱[管理收件者的權限](https://technet.microsoft.com/en-us/library/jj919240%28v=exchg.160%29.aspx)。
+如需委派存取權的詳細資訊，請參閱[管理收件者的權限](https://technet.microsoft.com/library/jj919240%28v=exchg.160%29.aspx)。
   
 ### <a name="inbox-rules"></a>收件匣規則
 
 Exchange Online 允許使用者建立收到電子郵件時的收件匣規則，自動執行特定、以標準為基礎的動作。 舉例來說，若郵件發送給特定通訊群組，即可建立規則以自動移動所有郵件至特定資料夾。 使用者可以從 Outlook 或 Outlook web 上的管理收件匣規則。 管理員可藉停用伺服器端轉寄及/或伺服器端自動回覆來封鎖特定收件匣規則類型。 例如，停用伺服器端轉寄可防止使用者自動轉寄電子郵件至個人帳戶。 相同地，停用伺服器端的自動回覆可防止外部人士使用這些回覆來辨識有效的電子郵件地址。 這些變更將透過 Windows PowerShell 完成。
   
-### <a name="clutter"></a>雜亂資料
+### <a name="clutter"></a>待過濾郵件
 
 雜亂資料設計來協助您專注於收件匣中的最重要郵件。它會使用電腦學習，透過移出低優先順序的郵件並將它放入新的 [雜亂資料] 資料夾，來去除收件匣的雜亂資料。雜亂資料會使用現有電子郵件規則，因此，如果您已經建立規則來組織電子郵件，則會繼續套用那些規則，而且雜亂資料不會處理那些郵件。預設會停用收件匣的雜亂資料。若要深入了解，請參閱[在 Office 365 中去除收件匣的雜亂資料]( https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/)。
   
 ### <a name="connected-accounts"></a>連線的帳戶
 
-連線的帳戶 」 功能可讓 Exchange Online 使用者連線至在 Exchange Online 中，其內部的電子郵件帳戶的外部電子郵件帳戶 （例如個人帳戶），然後使用網頁型 Outlook 在一個位置的其所有郵件都互動。 已連線的帳戶會自動同步處理時登入 Outlook 網頁;使用者可以手動同步處理來自 web 上 Outlook 的帳戶。 管理員可透過 [Exchange 系統管理中心](http://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409)為特定使用者或所有使用者啟用或停用此功能。
+連線的帳戶 」 功能可讓 Exchange Online 使用者連線至在 Exchange Online 中，其內部的電子郵件帳戶的外部電子郵件帳戶 （例如個人帳戶），然後使用網頁型 Outlook 在一個位置的其所有郵件都互動。 已連線的帳戶會自動同步處理時登入 Outlook 網頁;使用者可以手動同步處理來自 web 上 Outlook 的帳戶。 管理員可透過 [Exchange 系統管理中心](https://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409)為特定使用者或所有使用者啟用或停用此功能。
   
 ### <a name="inactive-mailboxes"></a>非使用中的信箱
 
@@ -79,7 +79,7 @@ Exchange Online 可供使用者無限期保留已刪除信箱的內容。此功�
     
 - [就地保留和訴訟資料暫留](https://go.microsoft.com/fwlink/p/?LinkId=271746)
     
-- [就地 eDiscovery](http://go.microsoft.com/fwlink/p/?LinkId=271747)
+- [就地 eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=271747)
     
 ## <a name="contacts-and-distribution-groups"></a>連絡人與通訊群組
 
@@ -103,14 +103,14 @@ Exchange Online 支援通訊清單和 Gal 的自訂。 GAL 是所有擁有郵件
 
 通訊群組（或通訊清單）為使用者、連絡人與其他通訊群組的組合，可為公司中的所有使用者使用。 使用者寄送電子郵件給通訊群組別名以傳送郵件給所有群組中的人。 通訊群組與個人於 Outlook 中建立的個人通訊群組相似，除通訊群組的成員清單可提供給公司中所有人使用。 管理員可在 Exchange 系統管理中心中建立通訊群組。 群組可自內部部署的 Active Directory 與 Exchange Online 同步。 它們會出現在 Outlook 中的 GAL 中。 Exchange Online 支援進階通訊群組能力，包括以下所述：
   
-- **受限的通訊群組** 根據預設，任何人都可以傳送電子郵件給任何通訊群組。管理員可變更僅允許特定個人傳送電子郵件給特定群組的權限－例如，減少大量通訊清單的不當使用。管理員同時可阻止外部來源傳送電子郵件給通訊群組，以阻擋垃圾郵件。對於使用 Directory Synchronization 工具自內部部署 Active Directory 同步的通訊群組來說，限制的屬性將自動同步至雲端。如需詳細資訊，請參閱 [管理通訊群組](https://technet.microsoft.com/EN-US/library/mt577270%28v=exchg.160%29.aspx)。
+- **受限的通訊群組** 根據預設，任何人都可以傳送電子郵件給任何通訊群組。管理員可變更僅允許特定個人傳送電子郵件給特定群組的權限－例如，減少大量通訊清單的不當使用。管理員同時可阻止外部來源傳送電子郵件給通訊群組，以阻擋垃圾郵件。對於使用 Directory Synchronization 工具自內部部署 Active Directory 同步的通訊群組來說，限制的屬性將自動同步至雲端。如需詳細資訊，請參閱 [管理通訊群組](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx)。
     
-- **動態通訊群組** 動態通訊群組的成員清單 (也稱為動態通訊群組清單或以查詢為基礎的通訊群組清單) 將在每次傳送郵件給群組時執行計算。此計算係根據管理員定義的篩選器與條件而定。這些設定可透過遠端 Windows PowerShell 於 Exchange Online 中管理。如需動態通訊群組的詳細資訊，請參閱 [管理動態通訊群組](https://technet.microsoft.com/EN-US/library/bb123722%28v=exchg.160%29.aspx)。
+- **動態通訊群組** 動態通訊群組的成員清單 (也稱為動態通訊群組清單或以查詢為基礎的通訊群組清單) 將在每次傳送郵件給群組時執行計算。此計算係根據管理員定義的篩選器與條件而定。這些設定可透過遠端 Windows PowerShell 於 Exchange Online 中管理。如需動態通訊群組的詳細資訊，請參閱 [管理動態通訊群組](https://technet.microsoft.com/library/bb123722%28v=exchg.160%29.aspx)。
     
     > [!IMPORTANT]
     > Office 365 目錄同步處理工具會忽略內部部署 Active Directory 中的動態通訊群組，且不會將這些群組與 Exchange Online 同步處理。使用 Directory Synchronization 工具的組織應使用命名慣例以避免受內部部署管理的一般通訊群組與在 Exchange Online 中管理的動態通訊群組間發生衝突。 
   
-- **仲裁通訊群組** 管理員可選取仲裁者來控管傳送給通訊群組的郵件流量。透過仲裁通訊群組，任何人皆可傳送電子郵件給通訊群組別名，但在郵件傳送給群組成員前，仲裁者須檢視並核准該郵件。如需仲裁的詳細資訊，請參閱 [管理通訊群組](https://technet.microsoft.com/EN-US/library/mt577270%28v=exchg.160%29.aspx)中的「訊息核准」一節。
+- **仲裁通訊群組** 管理員可選取仲裁者來控管傳送給通訊群組的郵件流量。透過仲裁通訊群組，任何人皆可傳送電子郵件給通訊群組別名，但在郵件傳送給群組成員前，仲裁者須檢視並核准該郵件。如需仲裁的詳細資訊，請參閱 [管理通訊群組](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx)中的「訊息核准」一節。
     
 - **自助通訊群組** 管理員可授予權限讓使用者從網路架構介面管理自己的通訊群組成員。使用者將獲得建立、刪除、加入或離開通訊群組的權限。這些功能根據預設將為所有 Exchange Online 使用者啟用。若需要，管理者可停用這些功能以限制僅讓 IT 部門可管理通訊群組。也可建立命名原則來標準化並管理使用者建立的通訊群組名稱。例如，建立名稱時可新增特定前置詞或尾碼至通訊群組名稱，或阻止特定字詞用於群組名稱。 
     
@@ -121,7 +121,7 @@ Exchange Online 支援通訊清單和 Gal 的自訂。 GAL 是所有擁有郵件
 
 外部連絡人為其中包含在特定組織外作業的個人資訊的紀錄。 外部連絡人與個人於 Outlook 中建立的個人連絡人相似，除外部連絡人可提供給公司中所有人使用。 管理員可使用 Exchange 系統管理中心或遠端 Windows PowerShell 建立外部連絡人。 這些連絡人可自內部部署的 Active Directory 與 Exchange Online 同步。 它們會出現在 Outlook 中的 GAL 中。
   
-如需外部連絡人的詳細資訊，請參閱[在 Exchange Online 中建立組織關係](https://technet.microsoft.com/EN-US/library/jj916671%28v=exchg.150%29.aspx)。
+如需外部連絡人的詳細資訊，請參閱[在 Exchange Online 中建立組織關係](https://technet.microsoft.com/library/jj916671%28v=exchg.150%29.aspx)。
   
 ## <a name="calendar-and-scheduling"></a>日曆與排程
 
@@ -133,7 +133,7 @@ Exchange Online 支援通訊清單和 Gal 的自訂。 GAL 是所有擁有郵件
   
 如需資源信箱的相關資訊，請參閱：
   
-- [建立及管理會議室信箱](http://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
+- [建立及管理會議室信箱](https://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
     
 - [管理設備信箱](https://go.microsoft.com/fwlink/?LinkId=717534)
     

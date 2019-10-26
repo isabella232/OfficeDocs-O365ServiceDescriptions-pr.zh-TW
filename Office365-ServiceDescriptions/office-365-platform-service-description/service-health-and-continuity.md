@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 系統管理員可以檢視服務的狀態，並找出維護排定的時間。 服務健康狀況資訊，請在任何時間登入 Office 365。
-ms.openlocfilehash: 8dc657dfb9101d6d193b3ea20ebef7b8ef47600f
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 76e202056145aca9c4a1bbe390728e6a4e062753
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633434"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734050"
 ---
 # <a name="service-health-and-continuity"></a>服務健康狀況和持續性
 
 Microsoft Office 365 系統管理員可以檢視服務的狀態，並找出維護排定的時間。 服務健康狀況資訊，請在任何時間登入 Office 365。
   
 > [!NOTE]
-> 如果您使用 21Vianet 所操作的 Office 365，以下的部分資訊可能不適用。 相反地，請參閱 [21Vianet 服務層次協議](http://www.21vbluecloud.com/office365/O365-SLA/)。 
+> 如果您使用 21Vianet 所操作的 Office 365，以下的部分資訊可能不適用。 相反地，請參閱 [21Vianet 服務層次協議](https://www.21vbluecloud.com/office365/O365-SLA/)。 
   
 ## <a name="view-status-of-services"></a>檢視服務狀態
 
@@ -75,7 +75,7 @@ Office 365 的服務健康區段顯示服務和相關服務干擾及中斷的詳
 
 ### <a name="office-365-admin-app"></a>Office 365 系統管理應用程式
 
-Office 365 租用戶系統管理員系統管理應用程式可讓您能夠隨時隨地貴組織的 Office 365 服務狀態連線。 Office 365 租用戶系統管理員必須能夠檢視服務健康情況資訊及維護狀態更新，從行動裝置。 如需詳細資訊，請瀏覽[系統管理應用程式常見問題集](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)。
+Office 365 租用戶系統管理員系統管理應用程式可讓您能夠隨時隨地貴組織的 Office 365 服務狀態連線。 Office 365 租用戶系統管理員必須能夠檢視服務健康情況資訊及維護狀態更新，從行動裝置。 如需詳細資訊，請瀏覽[系統管理應用程式常見問題集](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)。
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2 的 Office 365 管理組件
 
@@ -115,7 +115,7 @@ Microsoft 對於持續改善服務的承諾包括針對對客戶產生影響的�
 
 Microsoft Office 365 方案會以高度彈性的系統傳遞，以維持最佳服務效能。服務持續性佈建為 Office 365 系統設計中的一部份。這些佈建可讓 Office 365 快速自未預期的事件中復原，例如硬體或應用程式故障、資料中斷或者其他影響使用者的事件。這些服務持續性解決方法同時應用於災難性的中斷期間 (例如天災或者 Microsoft 資料中心中發生的意外事件，造成整個資料中心無法運作)。
   
-請注意，從重大中斷事件回復後，可能需要經過一段時間，服務的完整資料中心備援才會恢復運作。例如：如果資料中心 1 故障，則可由資料中心 2 的資源回復服務；不過，可能需要等待一段時間，資料中心 2 才可獲得資料中心 1 中已回復之資源或資料中心 3 中新資源的服務持續性支援。在此期間，可適用 Office 365 [服務等級協定](service-level-agreement.md) (SLA)。21Vianet 運作的 Office 365 有不同的 SLA。如需詳細資訊，請參閱 [21Vianet 網站](http://www.21vbluecloud.com/office365/O365-SLA/)。 
+請注意，從重大中斷事件回復後，可能需要經過一段時間，服務的完整資料中心備援才會恢復運作。例如：如果資料中心 1 故障，則可由資料中心 2 的資源回復服務；不過，可能需要等待一段時間，資料中心 2 才可獲得資料中心 1 中已回復之資源或資料中心 3 中新資源的服務持續性支援。在此期間，可適用 Office 365 [服務等級協定](service-level-agreement.md) (SLA)。21Vianet 運作的 Office 365 有不同的 SLA。如需詳細資訊，請參閱 [21Vianet 網站](https://www.21vbluecloud.com/office365/O365-SLA/)。 
   
 ## <a name="ensuring-data-availability"></a>確保資料可用性
 

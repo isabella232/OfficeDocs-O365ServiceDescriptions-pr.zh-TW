@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 是一項訂閱服務，提供您已熟悉，例如 Word、 Excel 及 PowerPoint 的 Office 桌面應用程式的最新版本。
-ms.openlocfilehash: 3b01b4481b2f50ecaa2ff2928e53d6f5cbf25a29
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: f8655860d2741bbb84e19b8d42b64f791ab7f5bc
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595232"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734020"
 ---
 # <a name="office-applications-service-description"></a>Office 應用程式服務說明
 
@@ -29,7 +29,7 @@ Microsoft Office 365 是一項訂閱服務，提供您已熟悉，例如 Word、
   
 Office 應用程式有 32 位元和 64 位元版本可供使用。
   
-若要跨方案比較功能，請參閱 [比較 Office 365 for Business 方案](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
+若要跨方案比較功能，請參閱 [比較 Office 365 for Business 方案](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
   
 ## <a name="feature-availability-across-office-365-plans"></a>各 Office 365 計劃中可用的功能
 <a name="bkmk_Officefeaturesolutions"> </a>
@@ -96,7 +96,7 @@ Office 應用程式有 32 位元和 64 位元版本可供使用。
 ><sup>1</sup> 此版本的 Office 支援封存和相容性功能，但不包含 Exchange Online 和 SharePoint Online 方案，且必須另外購買或搭配支援的同等內部部署伺服器使用。<br/>
 <sup>2</sup> azure 資訊保護未包含在內，但能以個別的附加元件形式購買，並將會啟用支援的資訊版權管理 (IRM) 功能。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1.<br/>
 <sup>3</sup> Windows Server AD RMS 是內部部署伺服器，必須個別採購並管理，以便啟用支援的 IRM 功能。<br/>
-<sup>4</sup> 如果您有 Office Professional Plus 2013 或獨立版本的 Excel 2013，則可以下載 [Power Map Preview for Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) 並將之做為不受支援的增益集。<br/> 
+<sup>4</sup> 如果您有 Office Professional Plus 2013 或獨立版本的 Excel 2013，則可以下載 [Power Map Preview for Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) 並將之做為不受支援的增益集。<br/> 
 <sup>5</sup>商務基本 Skype 是供所有客戶使用。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Office 365 專業增強版 和 Office 365 Enterprise E3 包含完整的 Skype 應用程式，其包含額外的功能，例如：進階電話語音支援、封存和法規遵循功能。 必須為每個使用者指派 商務用 Skype Online 授權。 特性與功能的比較，請參閱[Lync Server 2013 的桌面用戶端比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。<br/> 
 <sup>6</sup> 部分學校符合 Education Plus 的資格，其包含 Office 365 專業增強版，可讓學生和教職員在最多五部 PC 或 Mac 電腦及其他行動裝置 (包含 Windows 平版電腦及 iPad) 上安裝最新版的 Office。 當學校透過註冊教育版解決方案、Open Value 訂閱教育版解決方案或學校合約為全機構的教職人員授權 Office 時，學校即符合 Office 365 Education Plus 的資格。 請注意，Access 和 Publisher 僅在 PC 上可供使用。 Mac 版 OneNote 可分別從 Mac App Store 下載。 <br/>
 <sup>7</sup>的 office for Mac 2011 可以可安裝，但不可啟用。 <br/>

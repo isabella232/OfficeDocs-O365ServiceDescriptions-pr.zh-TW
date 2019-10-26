@@ -14,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 是雲端式服務，旨在協助達成您的組織對於健全安全性、 可靠性和使用者生產力需求。
-ms.openlocfilehash: 9ab233dba35f89bb9aa15c0525e76b5ae36c2fcc
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 488e16d7647d34db00559a32df1d8bb5c7117eab
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777474"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734030"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 服務描述 
 
 Microsoft Office 365 是雲端式服務，旨在協助達成您的組織對於健全安全性、 可靠性和使用者生產力需求。 
   
-本文件庫中的主題提供 Office 365 隨附服務和功能的詳細說明。若要跨方案比較功能，請參閱[比較商務用 Office 365 方案](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，或請參閱下列清單中的相關服務描述。 
+本文件庫中的主題提供 Office 365 隨附服務和功能的詳細說明。若要跨方案比較功能，請參閱[比較商務用 Office 365 方案](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，或請參閱下列清單中的相關服務描述。 
   
 若要搜尋技術支援文章和資訊，請參閱 [Office 支援](https://support.office.com/)。
   
@@ -40,7 +40,7 @@ Microsoft 為的合格服務的 Office 365 的 FastTrack Center 權益提供合�
     
 - [Office 應用程式服務說明](office-applications-service-description/office-applications-service-description.md)
     
-- [Office web 服務描述](office-online-service-description/office-online-service-description.md)
+- [網頁版 Office 服務描述](office-online-service-description/office-online-service-description.md)
     
 - [Exchange Online 服務說明](exchange-online-service-description/exchange-online-service-description.md)
     
@@ -64,18 +64,18 @@ Microsoft 為的合格服務的 Office 365 的 FastTrack Center 權益提供合�
     
 - [Project Online 服務說明](project-online-service-description/project-online-service-description.md)
     
-- [Visio web 服務描述](visio-online-service-description/visio-online-service-description.md)
+- [網頁版 Visio 服務描述](visio-online-service-description/visio-online-service-description.md)
     
 - [Yammer 服務說明](yammer-service-description/yammer-service-description.md)
 
-- [Microsoft 365 商務版服務說明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Microsoft 365 商務版服務描述](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Microsoft 365 租用戶層級服務授權的指導方針](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
+- [Microsoft 365 租用戶層級服務授權指導方針](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
 - [Microsoft Dynamics 365 (Online) 服務說明](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
-> <sup>1</sup> 包含 [套件功能](https://technet.microsoft.com/EN-US/library/office-365-suite-features.aspx)的可用性，例如 Office Delve、Microsoft MyAnalytics、Microsoft Sway 和 Microsoft Teams。 
+> <sup>1</sup> 包含 [套件功能](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features)的可用性，例如 Office Delve、Microsoft MyAnalytics、Microsoft Sway 和 Microsoft Teams。
   
 ## <a name="disclaimer"></a>免責聲明
 

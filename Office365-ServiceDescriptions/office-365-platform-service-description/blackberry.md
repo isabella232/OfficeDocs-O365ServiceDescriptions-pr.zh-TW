@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry® 智慧型手機可以存取 Office 365 中的電子郵件和文件。
-ms.openlocfilehash: 45271840070ede0ce00cbb85fe2d5fdca0429555
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: dd744fb5e90240c3f5c01f53ffe895e69c7b2d4e
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523468"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734161"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -38,11 +38,11 @@ BlackBerry 10 智慧型手機可以使用 Microsoft Exchange ActiveSync 直接�
   
 大部分的行動電信業已設定 BIS。 使用者必須使用下列知識庫文章中的指示設定電子郵件、 行事曆和連絡人同步處理：
   
-- [KB31310 - BlackBerry Internet Service 和 Microsoft Office 365 服務](http://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
+- [KB31310 - BlackBerry Internet Service 和 Microsoft Office 365 服務](https://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
     
-- [KB00561 - 如何在 BlackBerry Smartphone 上設定無線行事曆同步處理](http://go.microsoft.com/fwlink/?LinkID=826160&amp;clcid=0x409)
+- [KB00561 - 如何在 BlackBerry Smartphone 上設定無線行事曆同步處理](https://go.microsoft.com/fwlink/?LinkID=826160&amp;clcid=0x409)
     
-- [KB22430 - 如何以 BlackBerry Internet Service 來啟用或停用無線連絡人同步處理](http://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
+- [KB22430 - 如何以 BlackBerry Internet Service 來啟用或停用無線連絡人同步處理](https://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
     
 > [!NOTE]
 > 來使用 IMAP 或 POP 連線連接帳戶的使用者可以將他們的電子郵件同步處理只能透過使用無線連線。 如需如何 BIS 使用者可以使用有線的連線來同步處理其 BlackBerry 智慧型手機和其帳戶之間的行事曆與連絡人資訊，請連絡 BlackBerry 支援。 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 回應美國公共部門特殊且不斷變化需求，Microsoft 已建立 Office 365 US Government 計劃 （或 Office 365 政府版）。 本節提供 Office 365 政府美國環境特有的功能的概觀。 我們建議您先閱讀本補充章節配合 Office 365 服務說明。
-ms.openlocfilehash: 05b8ccadd5fcd78b61c5fa1428c3370cff4e0e0b
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: e8256206cef71a58d0d2824f4cab0ec07ee2bb62
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595239"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734231"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -124,15 +124,15 @@ FastTrack Center 程序上的特定資訊，請參閱[以下](https://aka.ms/wha
 
 Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務私下連線到支援的 Office 365 服務，而不透過公用的網際網路連線。
   
-如需了解支援提供者、價格模型及相關資訊的詳細資料，請檢閱 [Azure ExpressRoute 資訊](http://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409)。
+如需了解支援提供者、價格模型及相關資訊的詳細資料，請檢閱 [Azure ExpressRoute 資訊](https://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409)。
   
-如需 Office 365 Azure ExpressRoute 支援的詳細資訊，請參閱 [Azure ExpressRoute for Office 365](http://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409)。
+如需 Office 365 Azure ExpressRoute 支援的詳細資訊，請參閱 [Azure ExpressRoute for Office 365](https://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409)。
   
 [如何使用此服務描述 」 一節](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="system-requirements"></a>系統需求
 
-如需適用於 Office 365 US Government 方案的系統需求，請參閱 [office.com](http://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 產品網站上的 [Office 的系統需求](http://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)。 
+如需適用於 Office 365 US Government 方案的系統需求，請參閱 [office.com](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 產品網站上的 [Office 的系統需求](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)。 
   
 [如何使用此服務描述 」 一節](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -181,7 +181,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |**[Office 365 套件功能](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府版 F1** <br/> |
 |Microsoft Bookings  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft Flow  <br/> |是<sup>9、 15</sup> <br/> |是<sup>9、 15</sup> <br/> |是<sup>9、 15</sup> <br/> |是<sup>9、 15</sup> <br/> |
-|Microsoft Forms  <br/> |是 <br/> |是 <br/> |是<br/> |是</sup> <br/> |
+|Microsoft Forms  <br/> |是 <br/> |是 <br/> |是<br/> |[是]</sup> <br/> |
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft MyAnalytics  <br/> |否 <br/> |否 <br/> |Yes<sup>17</sup> <br/> |否 <br/> |
 |Microsoft Planner  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
@@ -323,10 +323,10 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[商務用 Skype](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |是<sup>3</sup> <br/> |是  <br/> |是  <br/> |是<sup>3</sup> <br/> |
 |[Office 365 的 Mac 版 Office](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57) <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
-|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |是  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
+|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是  <br/> |[是]<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
+|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |是  <br/> |[是]<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
 |[適用於 Windows Phone 手機的 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |是  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是  <br/> |
-|Office Mobile for Windows 10 tablets <br/> |是  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
+|Office Mobile for Windows 10 tablets <br/> |是  <br/> |[是]<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
 |Outlook for iOS 和 Android<sup>5、 4</sup>  <br/> |是 <br/> |是 <br/> |是 <br/> |是 <br/> |
 |**企業價值** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府版 F1** <br/> |
 |每個使用者可同時在 5 部 PC 或 Mac 上安裝  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
@@ -354,7 +354,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |Power Pivot for Excel  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |Excel 的 Power Query  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |Power View for Excel  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
-|漫遊設定  <br/> |否  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |否  <br/> |
+|漫遊設定  <br/> |否  <br/> |[是]<sup></sup> <br/> |是<sup></sup> <br/> |否  <br/> |
 |共用電腦啟用  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |支援對雲端架構檔案儲存進行封鎖  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |版本升級  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |

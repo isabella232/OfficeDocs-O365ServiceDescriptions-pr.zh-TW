@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
 description: 下列報告和商業智慧功能可在 Project Online 中。
-ms.openlocfilehash: 184c0781d48c5fcbbaae17b41075e3eb83cbaf18
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: dc3c5939bbdfc08cafc6bf6b7d4bb65d90e675c7
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633594"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733854"
 ---
 # <a name="reporting-and-business-intelligence"></a>報告和商業智慧
 
@@ -23,7 +23,7 @@ ms.locfileid: "37633594"
   
 ## <a name="odata-feeds"></a>OData 摘要
 
-OData 摘要可啟用 REST 查詢以及各種不同的 OData 用戶端程式庫，以從 Project Web 應用程式執行個體，進行報告資料的查詢。例如，您可以直接在網頁瀏覽器中使用 REST 查詢，或使用 JavaScript 以建置 Web 應用程式和用戶端應用程式，用於行動裝置、平板、PC 和Mac 電腦。如需詳細資訊，請參閱[Project 2013 OData 服務參考](http://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409)。
+OData 摘要可啟用 REST 查詢以及各種不同的 OData 用戶端程式庫，以從 Project Web 應用程式執行個體，進行報告資料的查詢。例如，您可以直接在網頁瀏覽器中使用 REST 查詢，或使用 JavaScript 以建置 Web 應用程式和用戶端應用程式，用於行動裝置、平板、PC 和Mac 電腦。如需詳細資訊，請參閱[Project 2013 OData 服務參考](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409)。
   
 ## <a name="out-of-the-box-portfolio-dashboards"></a>現成可用的組合儀表板
 
@@ -31,5 +31,5 @@ OData 摘要可啟用 REST 查詢以及各種不同的 OData 用戶端程式庫�
   
 ## <a name="project-desktop-reporting"></a>Project 桌面報告
 
-無論您想要的何種專案，Project 桌面報告都可讓您建立和自訂醒目的圖形報表，而不需依賴任何其他軟體。如需詳細資訊，請參閱[建立專案報表](http://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409)。
+無論您想要的何種專案，Project 桌面報告都可讓您建立和自訂醒目的圖形報表，而不需依賴任何其他軟體。如需詳細資訊，請參閱[建立專案報表](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409)。
   

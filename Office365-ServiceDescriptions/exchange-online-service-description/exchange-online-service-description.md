@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之 Office 365 訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
-ms.openlocfilehash: 4c58ddd7349860aa038d949dbed9034b934ef000
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581939"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701360"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -196,7 +196,7 @@ Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsof
 <sup>20</sup>電子文件探索，您需要內部部署與雲端比較不同的查詢。 <br/>
 <sup>21</sup>表格會指出在用戶端的運作方式與相關聯的計劃。 其並不代表這些計劃的採購中必須包含用戶端。 <br/>
 <sup>22</sup>如需詳細資訊，請參閱[控制使用客戶金鑰的 Office 365 中的資料](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
-<sup>23</sup> Exchange Online UM 支援透過直接連線從客戶運作 Sbc 協力廠商 PBX 系統便會在 April 2019 結束。 請 Exchange 小組部落格[主題的 Exchange Online 整合通訊中的工作階段邊界控制器支援](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)如需詳細資訊，參閱。 <br/>
+<sup>23</sup> Exchange Online UM 支援透過直接連線從客戶運作 Sbc 協力廠商 PBX 系統便會在 April 2019 結束。 如需詳細資訊，請參閱 Exchange 小組部落格[停止 Exchange Online 整合通訊中的工作階段邊界控制器支援](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)。 <br/>
 <sup>24</sup> F1 使用者不能將委派新增至他們自己的信箱，但他們可以存取另一個信箱 （包括共用的信箱），並執行任何已指派給他們的動作。
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>各 Exchange Online 獨立方案中可用的功能
@@ -245,7 +245,7 @@ Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsof
 |雜亂資料|否|否|是|是|是|
 |MailTips|是|是|是|是|是|
 |委派存取|是|是|是\|是|否|
-|收件匣規則|是|是|是|是|否|
+|收件匣規則|是|是|是|是|是|
 |已連線的帳戶|是|是|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|
 |非使用中的信箱|否|否|否 <sup>6</sup>|是|否 <sup>6</sup>|
 |離線通訊錄|是|是|是|是|是|

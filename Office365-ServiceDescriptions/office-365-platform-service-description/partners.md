@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 身為 Microsoft 授權合作夥伴，Microsoft Office 365 可提供機會讓您擴展客群，並與客戶建立長久的關係。您的客戶只要付月費或年費給您，就能夠使用雲端式服務，而不需要管理資料備份、伺服器硬體和伺服器更新。您可用的服務取決於您有權提供的服務類型。
-ms.openlocfilehash: b6c3ae1f3701b4f44c51db138dde2d348d008f38
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 91efedcb7af728f3b93d80c937ab1a98d009a4db
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582109"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734080"
 ---
 # <a name="partners"></a>協力程式
 
@@ -27,7 +27,7 @@ ms.locfileid: "37582109"
 身為 Microsoft 授權合作夥伴，Microsoft Office 365 可提供機會讓您擴展客群，並與客戶建立長久的關係。您的客戶只要付月費或年費給您，就能夠使用雲端式服務，而不需要管理資料備份、伺服器硬體和伺服器更新。您可用的服務取決於您有權提供的服務類型。
   
 > [!NOTE]
-> 如需如何使用合作夥伴功能的詳細資訊，請參閱[建置您的業務，並管理您的 Office 365 合作夥伴訂閱](http://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409) 並檢閱合作夥伴功能簡報。若要存取合作夥伴功能，您可以簽署 [Microsoft Online Services 合作夥伴合約](https://go.microsoft.com/fwlink/p/?LinkId=285473) 以加入 Cloud Essentials。 
+> 如需如何使用合作夥伴功能的詳細資訊，請參閱[建置您的業務，並管理您的 Office 365 合作夥伴訂閱](https://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409) 並檢閱合作夥伴功能簡報。若要存取合作夥伴功能，您可以簽署 [Microsoft Online Services 合作夥伴合約](https://go.microsoft.com/fwlink/p/?LinkId=285473) 以加入 Cloud Essentials。 
   
 ## <a name="create-trial-invitations-and-purchase-orders"></a>建立試用邀請和採購單
 
@@ -47,9 +47,9 @@ You can create and send trial invitations to your customers so they can try Offi
   
 ## <a name="connect-with-customers-and-other-partners-in-the-office-365-marketplace"></a>透過 Office 365 Marketplace 接觸客戶和其他合作夥伴
 
-Office 365 Marketplace 提供客戶機會尋找合作夥伴服務和專業能力。如需詳細資訊，請參閱[如何列於 Marketplace 中](http://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409)。
+Office 365 Marketplace 提供客戶機會尋找合作夥伴服務和專業能力。如需詳細資訊，請參閱[如何列於 Marketplace 中](https://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409)。
   
-Microsoft Partner Network 致力於滿足合作夥伴的需求。若要加入網路並瞭解 Microsoft 如何為合作夥伴提供服務，請參閱 [Microsoft Partner Network](http://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409)。
+Microsoft Partner Network 致力於滿足合作夥伴的需求。若要加入網路並瞭解 Microsoft 如何為合作夥伴提供服務，請參閱 [Microsoft Partner Network](https://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409)。
   
 ## <a name="feature-availability"></a>功能可用性
 

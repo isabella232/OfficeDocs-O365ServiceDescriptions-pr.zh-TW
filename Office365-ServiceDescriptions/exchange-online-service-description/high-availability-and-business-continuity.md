@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online 提供廣泛的保留和復原支援組織的電子郵件基礎結構。 其中包括在資料中心複寫信箱，以及還原已刪除信箱和已刪除郵件的能力。
-ms.openlocfilehash: 08b4e7e6fc0adcb278a2ed4d74564455250a8855
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: aad8576e35af04eb819d9f5809f1862613298651
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581969"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734241"
 ---
 # <a name="high-availability-and-business-continuity"></a>高可用性和業務連續性
 
@@ -27,7 +27,7 @@ Microsoft Exchange Online 提供廣泛的保留和復原支援組織的電子郵
 
 Exchange Online 信箱在各 Microsoft 資料中心內持續複寫至多重資料庫複本，藉此在本機訊息基礎結構故障時提供資料還原功能。若是大規模的失敗，則會啟動服務連續性管理程序。
   
-如需有關 Microsoft 如何保護資料的詳細資訊，請參閱 [Office 365 信任中心r](https://go.microsoft.com/fwlink/p/?LinkId=299135)。如果您使用 21Vianet 運作的 Office 365，請參閱 [21Vianet 信任中心](http://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl)。
+如需有關 Microsoft 如何保護資料的詳細資訊，請參閱 [Office 365 信任中心r](https://go.microsoft.com/fwlink/p/?LinkId=299135)。如果您使用 21Vianet 運作的 Office 365，請參閱 [21Vianet 信任中心](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl)。
   
 ## <a name="deleted-mailbox-recovery"></a>復原已刪除的信箱
 
