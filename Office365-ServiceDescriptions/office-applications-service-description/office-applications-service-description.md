@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 是一項訂閱服務，提供您已熟悉，例如 Word、 Excel 及 PowerPoint 的 Office 桌面應用程式的最新版本。
-ms.openlocfilehash: f8655860d2741bbb84e19b8d42b64f791ab7f5bc
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 619b8704f0c7e55f3a18adf33c9ef056bad13926
+ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734020"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37765624"
 ---
 # <a name="office-applications-service-description"></a>Office 應用程式服務說明
 
@@ -32,11 +32,10 @@ Office 應用程式有 32 位元和 64 位元版本可供使用。
 若要跨方案比較功能，請參閱 [比較 Office 365 for Business 方案](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
   
 ## <a name="feature-availability-across-office-365-plans"></a>各 Office 365 計劃中可用的功能
-<a name="bkmk_Officefeaturesolutions"> </a>
 
 使用下表來比較各種 Office 365 計劃與 Microsoft Office 2013 和 Office 2016大量授權版本的可用功能。
   
-數個適用於企業方案的 Office 365 提供可針對您的訂閱購買的附加元件。 附加元件可為訂閱提供額外的功能。 如需詳細資訊，請參閱 [購買或編輯商務用 Office 365 附加元件](https://support.office.com/en-us/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6)。
+數個適用於企業方案的 Office 365 提供可針對您的訂閱購買的附加元件。 附加元件可為訂閱提供額外的功能。 如需詳細資訊，請參閱 [購買或編輯商務用 Office 365 附加元件](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)。
 
 |||||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -80,7 +79,7 @@ Office 應用程式有 32 位元和 64 位元版本可供使用。
 |用戶端應用程式的離線支援  <br/> |是  <br/> |是  <br/>|是  <br/>  |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是 <br/> |
 |Excel 的 Power Map  <br/> |沒有<sup>4</sup> <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否 <br/> |
 |Power Pivot for Excel  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是 <br/> |
-|Excel 的 Power Query  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否 <br/> |
+|Excel 的 Power Query  <br/> |沒有<sup>15</sup>  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否 <br/> |
 |Power View for Excel  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否 <br/> |
 |漫遊設定  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |否 <br/> |
 |共用電腦啟用  <br/> |否  <br/> |否  <br/> |否  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是 <br/> |
@@ -90,7 +89,7 @@ Office 應用程式有 32 位元和 64 位元版本可供使用。
 |大量啟用 (KMS/MAK)  <br/> |是  <br/> |是  <br/> |是  <br/>|沒有<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br> |
    
 > [!NOTE]
-><sup>+</sup>當您安裝 Office 365 或 Office 2019 時，您會收到 OneNote 適用於 Windows 10 的預設值。 如需詳細資訊，請參閱[關於 Office 2019 中的 OneNote 常見問題](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)。<br/>
+><sup>+</sup>當您安裝 Office 365 或 Office 2019 時，您會收到 OneNote 適用於 Windows 10 的預設值。 如需詳細資訊，請參閱[關於 Office 2019 中的 OneNote 常見問題](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)。<br/>
 ><sup>++</sup>OneNote 應用程式上筆記本存取 SharePoint Server、 SharePoint Online、 OneDrive for Business 和 Office 365。 <br/>
 ><sup>+++</sup>BHO 支援是 Internet Explorer 延伸技術。 <br/>
 ><sup>1</sup> 此版本的 Office 支援封存和相容性功能，但不包含 Exchange Online 和 SharePoint Online 方案，且必須另外購買或搭配支援的同等內部部署伺服器使用。<br/>
@@ -107,8 +106,9 @@ Office 應用程式有 32 位元和 64 位元版本可供使用。
 <sup>12</sup> Infopath 2013 仍然支援並有 Office Professional Plus 2016 安裝，但是沒有適用於 Office 2016 的新版本。<br/> 
 <sup>13</sup>支援僅基本編輯功能。<br/> 
 <sup>14</sup>限制為裝置與整合式的畫面測量 10.1 英吋或更少對角線。<br/> 
+<sup>15</sup> power Query 是免費增益集可以在這裡下載：[下載 Power Query 增益集](https://www.microsoft.com/download/details.aspx?id=39379)。 啟用之後，Power Query 功能是可從功能區上的 Power Query] 索引標籤。
+
 ## <a name="office-application-availability-in-office-for-mac-in-office-365-plans"></a>Office 365 計劃中 Office for Mac 中可使用的 Office 應用程式
-<a name="bkmk_Officefeaturesolutions"> </a>
 
 ||||
 |:-----|:-----|:-----|
@@ -123,6 +123,6 @@ Office 應用程式有 32 位元和 64 位元版本可供使用。
 |[商務用 Skype](office-applications.md#skype-for-business) <br/> |是  <br/> |是  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |否  <br/> |否  <br/> |
    
-> <sup>1</sup> office 2016 for Mac 需要 Mac OS X 10.10 或更新版本。 透過 Outlook for Mac 連線至 Exchange 的客戶，必須連線至 Microsoft Exchange Server 2010 Service Pack 2 或更新版本。 若要深入了解，請參閱[Office 的系統需求](https://products.office.com/en-US/office-system-requirements)。<br/> 
-<sup>2</sup> 可分別從 App Store 下載。 如需詳細資訊，請參閱 [OneNote for Mac](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/)。<br/> 
-<sup>3</sup> office for Mac 2011 可以可安裝，但不可啟用。 
+> <sup>1</sup> office 2016 for Mac 需要 Mac OS X 10.10 或更新版本。 透過 Outlook for Mac 連線至 Exchange 的客戶，必須連線至 Microsoft Exchange Server 2010 Service Pack 2 或更新版本。 若要深入了解，請參閱[Office 的系統需求](https://products.office.com/en-US/office-system-requirements)。<br/>
+<sup>2</sup> 可分別從 App Store 下載。 如需詳細資訊，請參閱 [OneNote for Mac](https://www.microsoft.com/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/)。<br/> 
+<sup>3</sup> office for Mac 2011 可以可安裝，但不可啟用。

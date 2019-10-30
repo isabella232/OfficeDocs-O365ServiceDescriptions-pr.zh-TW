@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是適用於專案組合管理 (PPM) 和日常工作彈性線上解決方案。 Project Online 是透過 Office 365 所交付，提供功能強大的專案管理功能，以規劃、設定優先順序以及管理專案和專案組合投資 (幾乎可以從任何位置在任何裝置上使用)。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: f061f7fb43d9f6283d64cb14672da8af7945ca4f
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: d5c66b7567a47675480030a308dd280ee44a0fef
+ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700245"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37765634"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -33,16 +33,13 @@ Microsoft Project 提供可協助符合您的組織需求的專案和工作管�
 
 本文可協助您了解哪些應用程式所提供每個專案訂閱以及每個應用程式提供的功能。
 
-> [!NOTE]
-> 在 2019 年 10 月 29 日 Project Online 專業版和 Project Online 進階版訂閱會重新命名為專案計劃 3 和專案計劃 5，分別。
-
 ### <a name="project-for-the-web"></a>Web 專案
 
 網頁的專案是 Microsoft 最新的雲端型的工作和專案管理提供。 Web 專案所提供的簡單、 強大的工作管理功能，以符合大部分的需求和角色。 專案經理與小組成員可以使用 web 的專案計劃及管理任何大小的工作。
 
 Microsoft Power 平台上建置的 web 專案。 電源平台是由 PowerApps、 Microsoft Flow、 Power BI 和一般資料服務 (CD) 所組成。 專案 web 資料會儲存在 CD。 
 
-Project web 是兩個訂閱中可用： Project Online 專業版和 Project Online 進階版。 [專案網站功能](#project-for-the-web-features)] 區段中列出的功能僅互動 web 資料存放區的專案中的資料。
+Project web 是可透過三個訂用帳戶： 專案計劃 1、 專案計劃 3 和專案計劃 5。 [專案網站功能](#project-for-the-web-features)] 區段中列出的功能僅互動 web 資料存放區的專案中的資料。
 
 ### <a name="project-online"></a>Microsoft Project Online
  
@@ -50,9 +47,9 @@ Project Online 是適用於專案組合管理 (PPM) 和日常工作彈性線上�
 
 Project Online 做為基礎的 SharePoint 平台，它將資料儲存在 SharePoint 資料存放區。
 
-Project Online 有兩個訂閱透過： Project Online 專業版和 Project Online 進階版。 [Project Online 功能](#project-online-features)] 區段中列出的功能僅與 Project Online 的 SharePoint 資料儲存區內的資料互動。
+Project Online 有兩個訂閱透過： 專案計劃 3 和專案計劃 5。 [Project Online 功能](#project-online-features)] 區段中列出的功能僅與 Project Online 的 SharePoint 資料儲存區內的資料互動。
 
-Project online 的小組成員功能是透過[Project Online 基本版](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3)訂閱。 Project Online 基本版是小組成員*的附加元件*訂閱的 Project Online 專業版的客戶或 Project Online 進階版訂閱。 它可讓小組成員來執行 Project Online 中受管理的專案任務和時間更新的 web 介面。 
+Project online 的小組成員功能是透過 Project Online 基本版訂閱。 Project Online 基本版是小組成員 *的附加元件* 的專案計劃 3 或專案計劃 5 訂閱的客戶訂閱。 它可讓小組成員來執行 Project Online 中受管理的專案任務和時間更新的 web 介面。
 
 Project Online 基本版與小組成員可以執行下列 Project Online 功能：
 
@@ -65,7 +62,7 @@ Project Online 基本版不包括 web 專案。
 
 ### <a name="project-online-desktop-client"></a>Project Online 桌面用戶端
 
-Microsoft Project Online 桌面用戶端是功能自動排程的專案管理方案、 專案資源管理及內建的報告。 它可以連線到 Project Online 或 project Online 桌面用戶端可使用成獨立應用程式。 Project Online 桌面用戶端是 Project Online 桌面用戶端的訂閱版本，並且是在 Project Online 專業版和 Project Online 進階版訂閱中提供。
+Microsoft Project Online 桌面用戶端是功能自動排程的專案管理方案、 專案資源管理及內建的報告。 它可以連線到 Project Online 或 project Online 桌面用戶端可使用成獨立應用程式。 Project Online 桌面用戶端是 Project Online 桌面用戶端的訂閱版本，並且是在專案計劃 3 和專案計劃 5 訂閱中提供。
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>使用 Project web 和 Project Online 一起
 
@@ -79,21 +76,21 @@ Microsoft Project Online 桌面用戶端是功能自動排程的專案管理方�
 
 ## <a name="microsoft-project-subscriptions"></a>Microsoft Project 的訂閱
 
-Microsoft Project 是透過兩個不同的訂閱，以符合組織的需求。 若要比較各訂閱的功能，請參閱[應用程式和訂閱的功能可用性](#feature-availability-across-applications-and-subscriptions)。
+Microsoft Project 可透過三種不同的訂閱，以符合組織的需求。 這些訂閱是專案計劃 1、 專案計劃 3 和專案計劃 5。 若要比較各訂閱的功能，請參閱[應用程式和訂閱的功能可用性](#feature-availability-across-applications-and-subscriptions)。
 
-|Product | Microsoft Project Online 專業版 | Microsoft Project Online 進階版 |
-|--------|-----------------------------|------------------------|
-|Web 專案 |**x** |**x**|
-|Microsoft Project Online |**x**|**x x**|
-|Project Online 桌面用戶端 |**x**|**x**|
+|Product | 方案 1 | 計劃 3 | 規劃 5 |
+|--------|-----------------------------|------------------------|------------------------|
+|Web 專案 |**x**  | **x** | **x** |
+|Microsoft Project Online | |**x**| **x x** |
+|Project Online 桌面用戶端 | |**x**|**x**|
 
-在上述表格中，檢查 (**x**) 的數目會指出計劃所提供的功能的一般層級。 例如，對於 Project Online，Project Online 進階版提供更多的功能則 Project Online 專業版。
+在上述表格中，檢查 (**x**) 的數目會指出計劃所提供的功能的一般層級。 例如，對於 Project Online，規劃 5 提供更多的功能則方案 3。
 
 ## <a name="feature-availability-across-applications-and-subscriptions"></a>跨應用程式和訂閱的功能可用性
 
 ### <a name="project-for-the-web-features"></a>Project web 功能
 
-本節中所列的功能僅互動 web 資料存放區的專案中的資料。 Project Online 專業版和 Project Online 進階版中這些功能的所有可用。
+本節中所列的功能僅互動 web 資料存放區的專案中的資料。 Microsoft Project 的所有訂閱中的所有這些功能可用： 專案計劃 1、 專案計劃 3 和專案計劃 5。
 
 |功能 | 描述 |
 |--------|-------------|
@@ -110,7 +107,7 @@ Microsoft Project 是透過兩個不同的訂閱，以符合組織的需求。 �
 |Microsoft Teams 整合 | 在 Microsoft Teams 中的專案上共同作業。<sup>1</sup>|
 |**資源和計劃管理**||
 |專案小組安裝程式 | 管理專案小組新增及移除成員和設定工作行事曆。|
-|藍圖 | 建立視覺、 互動式藍圖跨專案從 Microsoft Project Online、 Microsoft Project web，和 Azure 版的專案。<sup>2</sup>|
+|藍圖 | 建立視覺、 互動式藍圖跨專案從 Microsoft Project Online、 Microsoft Project web，和 Azure 版的專案。<sup>2</sup>與專案計劃 1 取得藍圖的唯讀存取。 使用專案計劃 3 或專案計劃 5 您也可以建立藍圖。 |
 |**報告**<sup>3</sup>||
 |現成可用的報告 | 使用預先內建的報告來了解專案、 程式、 公事包及資源的資料。|
 |自訂報告 | 藉由建立自訂報告，根據現成可用的報告或從頭，了解您的組織很重要的資料。|
@@ -122,7 +119,7 @@ Microsoft Project 是透過兩個不同的訂閱，以符合組織的需求。 �
 |行動應用程式 | 建立自訂的行動應用程式與 PowerApps。<sup>4</sup> |
 |**自訂及整合**||
 |PowerApps | 建立和使用 web 和行動裝置與 PowerApps 的解決方案。<sup>4</sup> |
-|工作流程 | 自動化，並與 Microsoft Flow 整合的商務程序。<sup>5</sup> |
+|Workflows | 自動化，並與 Microsoft Flow 整合的商務程序。<sup>5</sup> |
 |Microsoft Office 365 整合 | 共同作業、 管理文件，以及更多使用熟悉的 Office 365 工具和應用程式。<sup>1</sup> |
 |**安全性及使用者管理**||
 |Office 新式群組 | 建立專案小組與共同作業並輕鬆地設定適用於小組成員共用資源的集合。|
@@ -131,7 +128,7 @@ Microsoft Project 是透過兩個不同的訂閱，以符合組織的需求。 �
 
 本節中所列的功能僅與 Project Online 的 SharePoint 資料儲存區內的資料互動。
 
-|功能 | 描述 | Microsoft Project Online 專業版 | Microsoft Project Online 進階版 |
+|功能 | 描述 | 專案計劃 3 | 專案計劃 5 |
 |--------|-------------|-----------------------------|------------------------|
 |**專案、 工作及時間管理**||||
 |警告與提醒 | 留在排程重要即將來臨的工作和專案事件中 Outlook 及 Microsoft Teams 的提醒。<sup>1</sup>| 是 | 是 |
@@ -183,7 +180,7 @@ Microsoft Teams 整合 | 在 Microsoft Teams 中的專案上共同作業。<sup>
 |Custom fields | 在專案、 工作及資源層級，以追蹤重要資料至您的組織和專案新增自訂欄位。 | 是 | 是 |
 |公式 | 計算並擷取使用公式跨越多個工作和專案的重要資料。 | 是 | 是 |
 |PowerApps | 建立和使用 web 和行動裝置 （透過 OData) 與 PowerApps 的解決方案。<sup>4</sup> | 是 | 是 |
-|工作流程 | 自動化，並與 Microsoft Flow 整合 （透過 OData) 的商務程序。<sup>5</sup> | 是 | 是 |
+|Workflows | 自動化，並與 Microsoft Flow 整合 （透過 OData) 的商務程序。<sup>5</sup> | 是 | 是 |
 |Microsoft Office 365 整合 | 共同作業、 管理文件，以及更多使用熟悉的 Office 365 工具和應用程式。<sup>1</sup> | 是 | 是 |
 |Microsoft Planner 整合 | 連線至 Planner 計劃專案工作，並追蹤詳細的規劃中的工作。<sup>1</sup> | 是 | 是 |
 |**安全性、 使用者和服務管理**||||
@@ -196,11 +193,11 @@ Microsoft Teams 整合 | 在 Microsoft Teams 中的專案上共同作業。<sup>
 <sup>1</sup>需要 Office 或 Microsoft 365 商業訂用帳戶。</br>
 <sup>2</sup> azure 面板取得分開。</br>
 <sup>3</sup>是可使用 Power BI 網頁 Project 和 Project Online 的報告。 檢視、 編輯和建立報告需要 Power BI 專業版的訂用帳戶。 Microsoft 提供一組預先建置的 Power BI 報表。 使用者可以自訂這些報告，或建立其他使用 Power BI 的報告。</br> 
-<sup>4</sup>建置自訂 PowerApps 行動應用程式存取 Project web 資料需要 PowerApps 訂閱和 Project Online 專業版或 Project Online 進階版訂閱。</br>
-<sup>5</sup>自動化，整合的商務程序與專案的 Microsoft Flow 網站資料需要 Microsoft Flow 訂閱和 Project Online 專業版或 Project Online 進階版訂閱。</br>
-<sup>6</sup> project Online 授權的外部使用者遵循為，供內部使用者相同的原則。 Project Online 網站上的任何互動需要 Project Online 訂閱。</br>
-<sup>7</sup>與 Project Online 專業版訂閱的使用者可以提交資源參與要求。 他們無法檢閱、 滿足，或核准的資源參與要求。</br>
-<sup>8</sup>與 Project Online 進階版訂閱的使用者可以檢閱、 滿足，並核准的資源參與要求。</br>
+<sup>4</sup>建置自訂 PowerApps 行動應用程式存取 Project web 資料需要 PowerApps 訂閱和專案計劃 3 或專案計劃 5 訂閱。</br>
+<sup>5</sup>自動化，整合的商務程序與專案的 Microsoft Flow 網站資料需要 Microsoft Flow 訂閱和專案計劃 3 或專案計劃 5 訂閱。</br>
+<sup>6</sup> project Online 授權的外部使用者遵循為，供內部使用者相同的原則。 Project Online 網站上的任何互動需要專案計劃 3 或專案計劃 5 訂閱。</br>
+<sup>7</sup>與專案計劃 3 或專案計劃 5 訂閱的使用者可以提交資源參與要求。 他們無法檢閱、 滿足，或核准的資源參與要求。</br>
+<sup>8</sup>使用專案計劃 5 訂用帳戶的使用者可以檢閱、 滿足，並核准的資源參與要求。</br>
 <sup>9</sup> active Directory 需要個別的訂閱。 </br>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online 桌面用戶端功能
@@ -230,7 +227,7 @@ Microsoft Teams 整合 | 在 Microsoft Teams 中的專案上共同作業。<sup>
 |工作資源、一般資源和材料資源 | 將資源新增至專案，例如工時資源，如人員、 木工、 一般資源和電腦和水泥等材料資源。 |
 |專案成本和預算 | 比較計劃的進度以及實際的時間和成本預算。 |
 |成本資源 | 追蹤並管理您的專案資源成本。|
-|**報告** ||
+|**Reporting** ||
 |自訂報告 | 建立自訂報告專案、 程式、 組合和資源。 |
 |現成可用的報告 | 使用預先內建的報告來了解專案、 程式、 公事包及資源的資料。 |
 |PDF 和 XPS 輸出 | 專案檔案儲存為 PDF 或 XPS 檔案。 |
@@ -252,13 +249,14 @@ Microsoft Teams 整合 | 在 Microsoft Teams 中的專案上共同作業。<sup>
 
 ### <a name="licensing-considerations"></a>授權考量
 
-- Project Online 網站上的任何互動需要 Project Online 訂閱。
-- 當您最後的 Project Online 專業版或 Project Online 進階版訂閱到期時，您用於 web 與 Project Online 的執行個體的專案將被刪除之後 120 天的時間。
+- Project Online 網站上的任何互動需要專案計劃 3 或專案計劃 5 訂閱。
+- 當您過去的專案計劃 1、 專案計劃 3 或專案計劃 5 訂閱到期時，您的專案網站執行個體將被刪除之後 120 天的時間。
+- 當您過去的專案計劃 3 或專案計劃 5 訂閱到期時，Project Online 的執行個體將被刪除之後 120 天的時間。
 - 專案網頁和 Project Online 的試用訂閱，您試用版的執行個體將會刪除您的試用期結束之後的 30 天。
 
 ### <a name="use-of-sharepoint-online"></a>SharePoint Online 的使用
 
-Project Online 需要 SharePoint Online 中，這佈建 Project Online 的一部分使用。 提供與 Project Online 專業版或進階版的 SharePoint Online 功能的權限僅限於儲存及存取資料以支援 Project Online。
+Project Online 需要 SharePoint Online 中，這佈建 Project Online 的一部分使用。 與專案計劃 3 或專案計劃 5 的訂閱所提供的 SharePoint Online 功能的權限僅限於儲存及存取資料以支援 Project Online。
 
 ### <a name="project-roadmap-and-microsoft-flow"></a>Project Roadmap 和 Microsoft Flow
 
