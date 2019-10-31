@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 是雲端式服務，旨在協助達成您的組織對於健全安全性、 可靠性和使用者生產力需求。
-ms.openlocfilehash: 488e16d7647d34db00559a32df1d8bb5c7117eab
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 0c7c14e53014af4bde6ba058b06f88e68cb97d73
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734030"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890449"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 服務描述 
 
@@ -70,7 +70,7 @@ Microsoft 為的合格服務的 Office 365 的 FastTrack Center 權益提供合�
 
 - [Microsoft 365 商務版服務描述](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Microsoft 365 租用戶層級服務授權指導方針](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
+- [Microsoft 365 租用戶層級服務授權指導方針](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
 - [Microsoft Dynamics 365 (Online) 服務說明](microsoft-dynamics-365-online-service-description.md)
     
