@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主題中列出的功能是一群 web 式工具，可協助您進行共同作業並安全地跨多種裝置與多個 Office 365 服務進行通訊。 這些功能會協助在您的組織內進行新的連線，方法是整合數位內容建立、儲存及管理與用於在使用者之間探索及分享資訊的社交工具。
-ms.openlocfilehash: b1bde5cfb39ed5c01251fdb7646402c0a01bef4b
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: f0d006b485792b70f58305cb5d2b0d84ee8c5e0f
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734111"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911706"
 ---
 # <a name="office-365-suite-features"></a>Office 365 套件功能
 
@@ -55,7 +55,7 @@ Microsoft PowerApps 是一種企業服務，可協助您快速建置、整合及
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
-Microsoft StaffHub 是雲端式應用程式，可讓工作者和其管理者使用他們的行動裝置，來管理排程及保持聯繫。員工可使用 StaffHub 來要求休假、交換輪班，以及與其他員工溝通。此外，員工也可以在直接向彼此或整個團隊傳送訊息。管理者可以使用 StaffHub 來傳送訊息、建立排程，以及傳送消息或公司公告給小組。若要深入了解 StaffHub，請前往 Microsoft [StaffHub 網站](https://staffhub.office.com/) 和 [Office 365 團隊部落格](https://blogs.office.com/2017/01/12/microsoft-staffhub-is-here/)。
+Microsoft StaffHub 是雲端式應用程式，可讓工作者和其管理者使用他們的行動裝置，來管理排程及保持聯繫。員工可使用 StaffHub 來要求休假、交換輪班，以及與其他員工溝通。此外，員工也可以在直接向彼此或整個團隊傳送訊息。管理者可以使用 StaffHub 來傳送訊息、建立排程，以及傳送消息或公司公告給小組。若要深入了解 StaffHub，請前往 Microsoft [StaffHub 網站](https://staffhub.office.com/) 和 [Office 365 團隊部落格](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/)。
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -79,7 +79,7 @@ Office 365 中的群組讓使用者與他們所需的同事、資訊和應用程
   
 ## <a name="office-365-video"></a>Office 365 影片
 
-Office 365 影片是您可以在裝置上傳、共用與探索視訊的安全全公司目的地，由 Microsoft Azure 媒體服務提供。Office 365 影片可讓觀看者投入並掌握資訊、廣泛交換想法，並且讓組織維持一致。若要深入了解，請參閱[介紹 Office 365 影片](https://blogs.office.com/2014/11/18/introducing-office-365-video/)。
+Office 365 影片是您可以在裝置上傳、共用與探索視訊的安全全公司目的地，由 Microsoft Azure 媒體服務提供。Office 365 影片可讓觀看者投入並掌握資訊、廣泛交換想法，並且讓組織維持一致。若要深入了解，請參閱[介紹 Office 365 影片](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/)。
   
 ## <a name="onenote-class-notebook"></a>OneNote 課程筆記本
 

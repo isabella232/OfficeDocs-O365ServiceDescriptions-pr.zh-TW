@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 本主題說明包含與 Microsoft Exchange Online 的收件者相關功能。 其中包括電子郵件、連絡人、通訊群組，以及行事曆與排程功能。
-ms.openlocfilehash: 775d47e9a8db4e516f60bc98e9763f61becf5b70
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 8a2813e2e5a86ca284f530ae0d83770b5dcaeb9d
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734201"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911716"
 ---
 # <a name="recipients"></a>收件者
 
@@ -58,7 +58,7 @@ Exchange Online 允許使用者建立收到電子郵件時的收件匣規則，�
   
 ### <a name="clutter"></a>待過濾郵件
 
-雜亂資料設計來協助您專注於收件匣中的最重要郵件。它會使用電腦學習，透過移出低優先順序的郵件並將它放入新的 [雜亂資料] 資料夾，來去除收件匣的雜亂資料。雜亂資料會使用現有電子郵件規則，因此，如果您已經建立規則來組織電子郵件，則會繼續套用那些規則，而且雜亂資料不會處理那些郵件。預設會停用收件匣的雜亂資料。若要深入了解，請參閱[在 Office 365 中去除收件匣的雜亂資料]( https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/)。
+雜亂資料設計來協助您專注於收件匣中的最重要郵件。它會使用電腦學習，透過移出低優先順序的郵件並將它放入新的 [雜亂資料] 資料夾，來去除收件匣的雜亂資料。雜亂資料會使用現有電子郵件規則，因此，如果您已經建立規則來組織電子郵件，則會繼續套用那些規則，而且雜亂資料不會處理那些郵件。預設會停用收件匣的雜亂資料。若要深入了解，請參閱[在 Office 365 中去除收件匣的雜亂資料](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/)。
   
 ### <a name="connected-accounts"></a>連線的帳戶
 

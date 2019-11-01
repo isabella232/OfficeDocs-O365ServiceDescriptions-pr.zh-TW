@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 是一項訂閱服務，提供您已熟悉，例如 Word、 Excel 及 PowerPoint 的 Office 桌面應用程式的最新版本。
-ms.openlocfilehash: 619b8704f0c7e55f3a18adf33c9ef056bad13926
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 75e30d76c2d5d8017af3785039849b1770a937fc
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765624"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911816"
 ---
 # <a name="office-applications-service-description"></a>Office 應用程式服務說明
 
@@ -124,5 +124,5 @@ Office 應用程式有 32 位元和 64 位元版本可供使用。
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |否  <br/> |否  <br/> |
    
 > <sup>1</sup> office 2016 for Mac 需要 Mac OS X 10.10 或更新版本。 透過 Outlook for Mac 連線至 Exchange 的客戶，必須連線至 Microsoft Exchange Server 2010 Service Pack 2 或更新版本。 若要深入了解，請參閱[Office 的系統需求](https://products.office.com/en-US/office-system-requirements)。<br/>
-<sup>2</sup> 可分別從 App Store 下載。 如需詳細資訊，請參閱 [OneNote for Mac](https://www.microsoft.com/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/)。<br/> 
+<sup>2</sup> 可分別從 App Store 下載。 如需詳細資訊，請參閱 [OneNote for Mac](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/)。<br/> 
 <sup>3</sup> office for Mac 2011 可以可安裝，但不可啟用。
