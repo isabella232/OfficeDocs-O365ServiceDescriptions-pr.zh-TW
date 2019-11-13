@@ -1,5 +1,5 @@
 ---
-title: 適用於小型和中型企業授權的 Microsoft 365
+title: 中小型企業的 Microsoft 365 授權
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商務版是小型和中型企業客戶的 Microsoft 最佳中類別供應項目。 Microsoft 365 商務版是整合式的解決方案，聚集所有同等級進階安全性和裝置管理的 Office 365 生產力。
-ms.openlocfilehash: 0c7d91293b65604183d67e24ab2490ca8032da3a
-ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
+ms.openlocfilehash: a02c6de6a1ffc46d5f1ea2b96ce864adfda56c11
+ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38020449"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289783"
 ---
-# <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>適用於小型和中型企業授權的 Microsoft 365
+# <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>中小型企業的 Microsoft 365 授權
 
 Microsoft 365 商務版是小型和中型企業 (SMB) 的客戶 Microsoft 最佳中類別供應項目。 Microsoft 365 商務版是整合式的解決方案，聚集所有同等級**進階的安全性**與**裝置管理**Office 365**的生產力**。
 
@@ -146,8 +146,8 @@ Microsoft 365 商務版是小型和中型企業 (SMB) 的客戶 Microsoft 最佳
 |   | Azure 資訊保護計劃 2、 Microsoft Cloud App Security，Office 365 雲端 App 安全性 | 否 | 否 | 否 | 是 |
 |**在內部 CAL 權限** | ECAL 套件 （Exchange、 SharePoint、 Skype、 Windows、 SCCM、 Windows Rights Management） | 否 | 否 | 是 | 是 |
 |**合規性** | 無限制的電子郵件封存<sup>2</sup> | 否 | 是 | 是 | 是 |
-|   | 進階電子文件，客戶加密箱進階資料控管 | 否 | 否 | 否 | 是 |
-|**Analytics** | Power BI 專業人員 MyAnalytics | 否 | 否 | 否 | 是 |
+|   | 進階電子文件探索、客戶加密箱、進階資料控管 | 否 | 否 | 否 | 是 |
+|**Analytics** | Power BI Pro、MyAnalytics | 否 | 否 | 否 | 是 |
 |**語音** | PSTN 會議，雲端 PBX | 否 | 否 | 否 | 是 |
 
 **Notes**
@@ -202,7 +202,7 @@ Microsoft 365 商務版包含 Office 365 企業版用戶端上，有一些差異
 
 <sup>1</sup>允許組織的 Office 推特定組態設定 （安全性設定、 應用程式設定、 Active Directory 漫遊時，等等） 的電腦上登入公司網路。
 
-<sup>2</sup>與 Office 標準版 2016年和 Office Professional Plus 2016，IT 具有完全控制權的使用 MSI 模型的更新。 Office 365 專業增強版，安裝和更新管理透過按一下 [-隨選即用。
+<sup>2</sup>與 Office 標準版 2016年和 Office Professional Plus 2016，IT 具有完全控制權的使用 MSI 模型的更新。 Office 365 專業增強版和**Office 365 商務版**，安裝和更新管理透過按一下 [-隨選即用。
 
 <sup>3</sup>套件提供不同等級的商業生產力伺服器整合。
 
