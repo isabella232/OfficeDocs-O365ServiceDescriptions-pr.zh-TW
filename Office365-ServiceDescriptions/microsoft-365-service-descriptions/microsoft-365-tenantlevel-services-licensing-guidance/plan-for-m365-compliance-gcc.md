@@ -8,14 +8,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ROBOTS: NOINDEX, NOFOLLOW
 description: 本指南適用於 IT 專業人員所主導部署的 Office 365 美國聯邦、 狀態、 本機、 部落，或就政府實體或其他處理政府法規和需求，受限於的資料的實體位置 Microsoft 使用365 government-GCC 會適用於符合這些需求。
-ms.openlocfilehash: 50649287df37afe20b58f98333a10bc7885b417d
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: ed9625972b6a12c17527fadf35413806fedd4015
+ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890475"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38319491"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>規劃 Microsoft 365 合規性 – GCC
 
@@ -62,14 +61,14 @@ Microsoft 365 政府版-GCC 環境遵守美國政府雲端服務需求的包括 
 
 **決策點**：*決定是否將修改任何預設的 Microsoft 365 政府 GCC 安全性設定，先了解影響的任何變更您解決可能會使。*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc"></a>步驟 4。 了解哪些功能是目前無法使用或預設會在 Microsoft 365 政府版 – GCC 中停用
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>步驟 4。 了解哪些功能是目前無法使用或預設會在 Microsoft 365 政府版 – GCC<sup>1</sup>中已停用
 
 若要容納我們政府雲端客戶的需求，有一些差異 Microsoft 365 Government-GCC 和企業版計劃。 請參閱下表以查看哪些功能可用。
 
 |                                         | **功能**                                     | **GCC 狀態**         |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **資訊保護 & 控管** | 封存                                       | 可以使用              |
-|                                         | 手動標籤和原則                      | 可以使用              |
+|                                         | 手動標籤和原則<sup>2</sup>          | 可以使用              |
 |                                         | 自動應用程式的標籤                      | 在 [工程待處理項目 |
 |                                         | 根據敏感資訊類型的標籤            | 在 [工程待處理項目 |
 |                                         | 標籤和相關聯的查詢為基礎的原則 | 在 [工程待處理項目 |
@@ -80,15 +79,15 @@ Microsoft 365 政府版-GCC 環境遵守美國政府雲端服務需求的包括 
 |                                         | 處置檢閱                              | 在 [工程待處理項目 |
 |                                         | 資訊屏障                            | 可以使用              |
 |                                         | 資料外洩防護 (DLP) 檔案和電子郵件  | 可以使用              |
-|                                         | 小組聊天和通道交談的 DLP    | 可以使用              |
+|                                         | 小組聊天和通道交談的 DLP    | 在 [工程待處理項目 |
 | **測試人員風險管理**             | 進階的郵件加密                     | 可以使用              |
 |                                         | 通訊合規性                        | 在 [工程待處理項目 |
-|                                         | 客戶加密箱                                | 可以使用              |
+|                                         | Customer Lockbox                                | 可以使用              |
 |                                         | 客戶金鑰                                    | 可以使用              |
 |                                         | 特殊權限存取管理                    | 在 [工程待處理項目 |
 | **探索 & 回應**                  | 就地保留項目                            | 可以使用              |
 |                                         | 專案管理                                 | 可以使用              |
-|                                         | 搜尋                                          | 可以使用              |
+|                                         | Search                                          | 可以使用              |
 |                                         | 匯出                                          | 可以使用              |
 |                                         | RMS 解密                                  | 可以使用              |
 |                                         | 原生匯出                                   | 可以使用              |
@@ -109,5 +108,9 @@ Microsoft 365 政府版-GCC 環境遵守美國政府雲端服務需求的包括 
 |                                         | 檢閱並加上註解                             | 在 [工程待處理項目 |
 |                                         | 非 Office 365 擷取                        | 在 [工程待處理項目 |
 |                                         | 搜尋字詞報告                              | 在 [工程待處理項目 |
+
+<sup>1</sup> Identified 狀態是主體變更為專案計劃和優先順序會重新評估。<br/>
+<sup>2</sup>標籤的手動應用程式需要[Azure 資訊保護 (AIP) 用戶端版本 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)。
+
 
 **決策點**：*決定的符合性功能是否符合貴組織的需求。*
