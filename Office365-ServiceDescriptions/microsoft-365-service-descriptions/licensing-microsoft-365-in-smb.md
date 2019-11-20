@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商務版是小型和中型企業客戶的 Microsoft 最佳中類別供應項目。 Microsoft 365 商務版是整合式的解決方案，聚集所有同等級進階安全性和裝置管理的 Office 365 生產力。
-ms.openlocfilehash: a02c6de6a1ffc46d5f1ea2b96ce864adfda56c11
-ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
+ms.openlocfilehash: 4b07cf8b823f0fa73fb13650bb108ff4c43a334b
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289783"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724661"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>中小型企業的 Microsoft 365 授權
 
@@ -148,6 +148,7 @@ Microsoft 365 商務版是小型和中型企業 (SMB) 的客戶 Microsoft 最佳
 |**合規性** | 無限制的電子郵件封存<sup>2</sup> | 否 | 是 | 是 | 是 |
 |   | 進階電子文件探索、客戶加密箱、進階資料控管 | 否 | 否 | 否 | 是 |
 |**Analytics** | Power BI Pro、MyAnalytics | 否 | 否 | 否 | 是 |
+|**Assistance** | 簡報電子郵件 | 是 | 是 | 是 | 是 |
 |**語音** | PSTN 會議，雲端 PBX | 否 | 否 | 否 | 是 |
 
 **Notes**
