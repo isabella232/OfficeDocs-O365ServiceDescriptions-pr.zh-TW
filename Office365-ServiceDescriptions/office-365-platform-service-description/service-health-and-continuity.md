@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 系統管理員可以檢視服務的狀態，並找出維護排定的時間。 服務健康狀況資訊，請在任何時間登入 Office 365。
-ms.openlocfilehash: 6265dd28d03099281a9ee2540c5a775daa32108f
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: d9f70d69be201d3ccd7724751eec614173ce7b2d
+ms.sourcegitcommit: 8c906991cf9180fee9ac55f5ac182ade69607d3c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911790"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38752712"
 ---
 # <a name="service-health-and-continuity"></a>服務健康狀況和持續性
 
@@ -49,7 +49,7 @@ Office 365 的服務健康區段顯示服務和相關服務干擾及中斷的詳
 |**2019** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
-| 99.97% <br/> | 99.97% <br/> |  <br/> |  <br/> |
+| 99.97% <br/> | 99.97% <br/> | 99.98% <br/> |  <br/> |
 
 <br/>
 
@@ -75,7 +75,7 @@ Office 365 的服務健康區段顯示服務和相關服務干擾及中斷的詳
 
 ### <a name="office-365-admin-app"></a>Office 365 系統管理應用程式
 
-Office 365 租用戶系統管理員系統管理應用程式可讓您能夠隨時隨地貴組織的 Office 365 服務狀態連線。 Office 365 租用戶系統管理員必須能夠檢視服務健康情況資訊及維護狀態更新，從行動裝置。 如需詳細資訊，請瀏覽[系統管理應用程式常見問題集](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)。
+Office 365 租用戶系統管理員系統管理應用程式可讓您能夠隨時隨地貴組織的 Office 365 服務狀態連線。 Office 365 租用戶系統管理員必須能夠檢視服務健康情況資訊及維護狀態更新，從行動裝置。 如需詳細資訊，請造訪[系統管理 App 常見問題集](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)。
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2 的 Office 365 管理組件
 

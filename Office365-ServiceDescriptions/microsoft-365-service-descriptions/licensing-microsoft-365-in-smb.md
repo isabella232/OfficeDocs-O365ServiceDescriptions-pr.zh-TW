@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商務版是小型和中型企業客戶的 Microsoft 最佳中類別供應項目。 Microsoft 365 商務版是整合式的解決方案，聚集所有同等級進階安全性和裝置管理的 Office 365 生產力。
-ms.openlocfilehash: 4b07cf8b823f0fa73fb13650bb108ff4c43a334b
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: ea6c46c83d00db1bebe17b8dbeae0ea7457d115b
+ms.sourcegitcommit: 28be53d2579d91cd76b9f047f13a309a3c0b9dd4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724661"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38755471"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>中小型企業的 Microsoft 365 授權
 
@@ -148,6 +148,7 @@ Microsoft 365 商務版是小型和中型企業 (SMB) 的客戶 Microsoft 最佳
 |**合規性** | 無限制的電子郵件封存<sup>2</sup> | 否 | 是 | 是 | 是 |
 |   | 進階電子文件探索、客戶加密箱、進階資料控管 | 否 | 否 | 否 | 是 |
 |**Analytics** | Power BI Pro、MyAnalytics | 否 | 否 | 否 | 是 |
+| | 深入了解由 MyAnalytics | 是 | 是 | 是 | 是 |
 |**Assistance** | 簡報電子郵件 | 是 | 是 | 是 | 是 |
 |**語音** | PSTN 會議，雲端 PBX | 否 | 否 | 否 | 是 |
 
@@ -190,9 +191,9 @@ Microsoft 365 商務版是小型和中型企業 (SMB) 的客戶 Microsoft 最佳
 | **授權**                                   | **Office 365 商務版** | **Office 365 專業增強版** |
 | 授權模型                                 | 每位使用者                | 每位使用者               |
 | 授權類型                                    | 訂閱            | 訂閱           |
-| 電腦/Mac 安裝<sup>6</sup>                     | 5                       | 5                      |
-| iOS/Android 智慧型手機安裝<sup>6</sup>     | 5                       | 5                      |
-| 平板電腦安裝<sup>6</sup>                     | 5                       | 5                      |
+| 電腦/Mac 安裝<sup>6</sup>                     | 5                        | 5                       |
+| iOS/Android 智慧型手機安裝<sup>6</sup>     | 5                        | 5                       |
+| 平板電腦安裝<sup>6</sup>                     | 5                        | 5                       |
 | Office RT 商業權限                     | 是                     | 是                    |
 | Office Online/web 應用程式                          | 是                     | 是                    |
 | 商業使用權限                           | 是                     | 是                    |
