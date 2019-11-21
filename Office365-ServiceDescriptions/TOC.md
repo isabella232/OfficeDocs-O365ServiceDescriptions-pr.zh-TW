@@ -79,6 +79,7 @@
 ## [商務用 Skype Online 服務說明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [商務用 Skype Online 功能](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [商務用 Skype Online 限制](skype-for-business-online-service-description/skype-for-business-online-limits.md)
+## [簡報電子郵件服務描述](briefing-service-description.md)
 ## [工作場所分析服務描述](workplace-analytics-service-description.md)
 ## [MyAnalytics 服務描述](mya-service-description.md)
 ## [Power BI 服務說明](power-bi-service-description.md)
