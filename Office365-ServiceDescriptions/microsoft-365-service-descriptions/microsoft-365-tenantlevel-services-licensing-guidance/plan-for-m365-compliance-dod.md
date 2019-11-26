@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 合規性-DoD 部署規劃
+title: 規劃 Microsoft 365 合規性 - DoD 部署
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用於 IT 專業人員所主導部署的 Office 365 中美國聯邦政府實體或其他處理受限於政府法規的資料和需求，適用於 Microsoft 365 政府版 – DoD 運用所在的實體符合這些需求。
-ms.openlocfilehash: 5356c019351108478c6fd27af3fa451dd2ec036a
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: c45306738fcda2e3a7431cd15e5ac39d6373bd8a
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319481"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262836"
 ---
-# <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 合規性-DoD 部署規劃
+# <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>規劃 Microsoft 365 合規性 - DoD 部署
 
 本指南適用於 IT 專業人員所主導部署的 Office 365 中美國聯邦政府實體或其他處理受限於政府法規的資料和需求，適用於 Microsoft 365 政府版 – DoD 運用所在的實體符合這些需求。
 
@@ -78,14 +78,19 @@ Microsoft 365 Government-DoD 環境遵守美國政府雲端服務需求的。
 |                                        |資訊屏障                            | 可以使用              |
 |                                        |資料外洩防護 (DLP) 檔案和電子郵件  | 可以使用              |
 |                                        |小組聊天和通道交談的 DLP    | 在 [工程待處理項目 |
+|                                        |DLP 精確資料相符項目                            | 在 [工程待處理項目 |
+|                                        |標籤活動總管                         | 在 [工程待處理項目 |
+|                                        |Trainable 相關性                           | 在 [工程待處理項目 |
+|                                        |整合的設定標籤和敏感度標籤         | 在 [工程待處理項目 |
 |**測試人員風險管理**             |進階的郵件加密                     | 可以使用              |
+|                                        |測試人員風險管理                         | 在 [工程待處理項目 |
 |                                        |通訊合規性                        | 在 [工程待處理項目 |
-|                                        |Customer Lockbox                                | 可以使用              |
+|                                        |客戶加密箱                                | 可以使用              |
 |                                        |客戶金鑰                                    | 可以使用              |
-|                                        |特殊權限存取管理                    | 在 [工程待處理項目 |
+|                                        |特許存取管理                    | 在 [工程待處理項目 |
 |**探索 & 回應**                  |就地保留項目                            | 可以使用              |
 |                                        |專案管理                                 | 可以使用              |
-|                                        |Search                                          | 可以使用              |
+|                                        |搜尋                                          | 可以使用              |
 |                                        |匯出                                          | 可以使用              |
 |                                        |RMS 解密                                  | 可以使用              |
 |                                        |原生匯出                                   | 可以使用              |

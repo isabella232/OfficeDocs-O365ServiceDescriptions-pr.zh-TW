@@ -1,5 +1,5 @@
 ---
-title: 'Office 365 服務描述 '
+title: 'Office 365 服務說明 '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 是雲端式服務，旨在協助達成您的組織對於健全安全性、 可靠性和使用者生產力需求。
-ms.openlocfilehash: d714677a9881713bb137a53ffad435a334eafa81
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 45f666b7b3cf741bc101bf8dbfeef2a50dd85206
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38726081"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262034"
 ---
-# <a name="office-365-service-descriptions"></a>Office 365 服務描述 
+# <a name="office-365-service-descriptions"></a>Office 365 服務說明 
 
 Microsoft Office 365 是雲端式服務，旨在協助達成您的組織對於健全安全性、 可靠性和使用者生產力需求。 
   
@@ -30,7 +30,7 @@ Microsoft Office 365 是雲端式服務，旨在協助達成您的組織對於�
 若要搜尋技術支援文章和資訊，請參閱 [Office 支援](https://support.office.com/)。
   
 > [!NOTE]
-> 如果您要尋找服務描述的比較試算表，其已經淘汰了。每個服務描述頁面上的產品功能可用性表已更新，以進一步協助您選擇符合需求的 Office 365 版本。 
+> 如果您正在尋找服務描述比較試算表，它已遭淘汰。 已更新每個服務描述 」 頁面上的產品功能可用性表格，以進一步協助您選擇符合您需求的 Office 365 的版本。 
   
 Microsoft 為的合格服務的 Office 365 的 FastTrack Center 權益提供合格方案中。 權益可讓您可以遠端與 Microsoft 專家以取得 Office 365 環境準備就緒。 如需詳細資訊，請參閱 [適用於 Office 365 的 FastTrack 中心權益](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
@@ -40,7 +40,7 @@ Microsoft 為的合格服務的 Office 365 的 FastTrack Center 權益提供合�
     
 - [Office 應用程式服務說明](office-applications-service-description/office-applications-service-description.md)
     
-- [網頁版 Office 服務描述](office-online-service-description/office-online-service-description.md)
+- [Office web 服務說明](office-online-service-description/office-online-service-description.md)
     
 - [Exchange Online 服務說明](exchange-online-service-description/exchange-online-service-description.md)
     
@@ -54,27 +54,27 @@ Microsoft 為的合格服務的 Office 365 的 FastTrack Center 權益提供合�
     
 - [SharePoint Online 服務說明](sharepoint-online-service-description/sharepoint-online-service-description.md)
     
-- [商務用 Skype Online 服務說明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
+- [Skype 商務 Online 服務說明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
 - [簡報電子郵件服務說明](briefing-service-description.md)
 
-- [工作場所分析服務描述](workplace-analytics-service-description.md)
+- [工作場所分析服務說明](workplace-analytics-service-description.md)
 
-- [MyAnalytics 服務描述](mya-service-description.md)
+- [MyAnalytics 服務說明](mya-service-description.md)
     
 - [Power BI 服務說明](power-bi-service-description.md)
     
 - [Project Online 服務說明](project-online-service-description/project-online-service-description.md)
     
-- [網頁版 Visio 服務描述](visio-online-service-description/visio-online-service-description.md)
+- [Visio web 服務說明](visio-online-service-description/visio-online-service-description.md)
     
 - [Yammer 服務說明](yammer-service-description/yammer-service-description.md)
 
-- [Microsoft 365 商務版服務描述](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Microsoft 365 商務版服務說明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Microsoft 365 租用戶層級服務授權指導方針](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
+- [Microsoft 365 租用戶層級服務授權的指導方針](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
-- [Microsoft Dynamics 365 (Online) 服務說明](microsoft-dynamics-365-online-service-description.md)
+- [Microsoft Dynamics 365 （線上） 服務說明](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
 > <sup>1</sup> 包含 [套件功能](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features)的可用性，例如 Office Delve、Microsoft MyAnalytics、Microsoft Sway 和 Microsoft Teams。

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 若要特殊且不斷變化的需求的美國國防部，以及承包商保留或處理 DoD 控制的未分類的資訊 (CUI) 或受到國際流量中武器法規 (ITAR)，Microsoft 提供了GCC 高和 DoD 環境。 可透過大量授權提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 這次恕不提供試用版。
-ms.openlocfilehash: 65a8362ba02fe000c2f0f6a4c172b3067a5663e6
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+ms.openlocfilehash: 4d539df25546255feae5d33369b678833b2d967f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568116"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262544"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC 高和 DoD
 
@@ -23,9 +23,9 @@ ms.locfileid: "36568116"
   
 請洽詢您的客戶團隊或偏好的夥伴以瞭解詳細資訊，或啟動驗證程序。 如需有關如何購買的詳細資訊，請參閱[Microsoft 365 Government-如何購買](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)。
   
-## <a name="how-to-use-this-service-description-section"></a>如何使用此「服務說明」一節
+## <a name="how-to-use-this-service-description-section"></a>如何使用此服務描述一節
 
-Office 365 US Government 服務說明的設計目的在於與一般 Office 365 服務說明之間互相對照，定義了與 Office 365 企業版產品之間特色和差異的比較。
+Office 365 US Government 服務描述被設計來做為一般的 Office 365 服務描述重疊。 它會定義唯一的承諾和差異相較於 Office 365 企業版供應項目。
   
 ## <a name="compliance"></a>合規性
 
@@ -110,6 +110,6 @@ Yammer Enterprise 不提供 GCC 高和 DoD 環境中。
   
 ## <a name="customer-support"></a>客戶支援
 
-Microsoft 會提醒您在不共用任何受控制，敏感性]，或與客戶支援人員時，至少使用 Office 365 GCC High/DOD，直到您您支援事件的一部分的機密資訊確認支援代理程式的授權，以檢視或存取這類資料。
+Microsoft 會提醒您在不共用任何受控制、 機密或機密資訊與客戶支援人員支援事件的一部分時，至少使用 Office 365 GCC High/DOD，直到您確認支援代理程式的授權，以檢視或存取這類資料。
 
 Microsoft 致力於保護您的[隱私權](https://privacy.microsoft.com/privacystatement)）。 不過，Office 365 GCC High/DoD 支援未包含這個功能中的服務 」 資格鑑定界限，而不提供 FedRAMP、 DOD SRG、 ITAR、 IRS 1075 或 CJIS 資料處理規範保證。

@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
 description: SharePoint Online 是 web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列功能可支援開發人員建立應用程式和解決方案來延伸 SharePoint 功能。
-ms.openlocfilehash: 52b1b15dd098b6dd40a531cb5b462a7fff8b69f7
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 56ea1e5a083c4dd35eab8da537b77e802551ce32
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726250"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263114"
 ---
-# <a name="developer"></a>開發人員
+# <a name="developer"></a>Developer
 
 SharePoint Online 是 web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列功能可支援開發人員建立應用程式和解決方案來延伸 SharePoint 功能。
   
@@ -29,11 +29,11 @@ SharePoint Online 是 web 式工具和技術，可協助您的組織儲存、 �
 
 將您的應用程式發佈到 SharePoint 部署上託管的內部公司目錄，提供給可以存取該 SharePoint 部署的使用者使用。進一步了解如何[發佈 Office 和 SharePoint 相關應用程式](https://docs.microsoft.com/office/dev/store/submit-to-the-office-store)。
   
-## <a name="app-deployment-cloud-hosted-apps"></a>應用程式部署： 雲端託管的應用程式
+## <a name="app-deployment-cloud-hosted-apps"></a>應用程式部署：雲端託管的應用程式
 
 SharePoint 的雲端託管應用程式包含至少一個遠端元件，而且也可包含 SharePoint 託管的元件。進一步了解 [SharePoint 相關應用程式的託管選項](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/choose-patterns-for-developing-and-hosting-your-sharepoint-add-in)。 
   
-## <a name="app-deployment-sharepoint-hosted-apps"></a>應用程式部署： SharePoint 託管的應用程式
+## <a name="app-deployment-sharepoint-hosted-apps"></a>應用程式部署：SharePoint 託管的應用程式
 
 SharePoint 託管的應用程式可讓您重複使用一般 SharePoint 成品，例如清單和網頁組件。 當您採取這種方法時，只能使用 JavaScript，而且不能使用任何伺服器端程式碼。 進一步了解 [SharePoint 相關應用程式的託管選項](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/choose-patterns-for-developing-and-hosting-your-sharepoint-add-in)。
   
@@ -41,15 +41,15 @@ SharePoint 託管的應用程式可讓您重複使用一般 SharePoint 成品，
 
 應用程式管理服務資料庫儲存所有 SharePoint 相關應用程式的授權資訊。 
   
-## <a name="bcs-app-scoped-external-content-types-ects"></a>BCS： 應用程式範圍外部內容類型 (Ect)
+## <a name="bcs-app-scoped-external-content-types-ects"></a>BCS：應用程式範圍外部內容類型 (ECTs)
 
 搭配 SharePoint 中新的應用程式模型，Business Connectivity Services (BCS) 現在可以範圍在應用程式層級而不是在伺服器陣列層級的外部內容類型。 這可讓使用者使用其應用程式內的外部資料讓應用程式開發人員的絕佳的彈性。 深入了解[應用程式範圍外部內容類型](https://docs.microsoft.com/sharepoint/dev/general-development/add-in-scoped-external-content-types-in-sharepoint)。
   
-## <a name="bcs-business-data-web-parts"></a>BCS： 商務資料網頁組件
+## <a name="bcs-business-data-web-parts"></a>BCS：商務資料網頁組件
 
 商務資料網頁組件會使用外部資料的特殊網頁組件。 它們的使用方式如同標準 SharePoint 網頁組件，但以外部內容類型 (即外部資料連線的 XML 描述) 為基礎。 
   
-## <a name="bcs-external-list"></a>BCS： 外部清單
+## <a name="bcs-external-list"></a>BCS：外部清單
 
 外部清單是特殊類型的 SharePoint 清單，可顯示來自外部資料來源的資料。它是以描述資料來源的外部內容類型為基礎，可讓使用者在熟悉的 SharePoint 介面中處理資料。進一步了解[外部內容類型](https://docs.microsoft.com/SharePoint/administration/deploy-an-on-premises-solution)。 
   
@@ -57,7 +57,7 @@ SharePoint 託管的應用程式可讓您重複使用一般 SharePoint 成品，
 
 OData 連接器是 SharePoint 的新功能。 它允許的 Business Connectivity Services (BCS) 使用 RESTful OData 端點作為資料來源的外部清單、 商務資料網頁組件，以及自訂使用者介面。
   
-## <a name="bcs-rich-client-integration"></a>BCS： 豐富型用戶端整合
+## <a name="bcs-rich-client-integration"></a>BCS：豐富型用戶端整合
 
 SharePoint Online 客戶無法使用此功能。Business Connectivity Services (BCS) 使用免費的用戶端和伺服器端架構，可讓 Office 用戶端 (如 Outlook 和 Excel) 直接使用透過外部內容類型公開到 SharePoint 的外部資料。進一步了解 [Business Connectivity Services 用戶端執行階段](https://docs.microsoft.com/previous-versions/office/developer/sharepoint-2010/ee559310(v=office.14))。
   
@@ -93,7 +93,7 @@ SharePoint 提供 JavaScript 物件模型，可用於內嵌指令碼或獨立 .j
 
 若要處理 SharePoint 相關應用程式中的事件，開發人員可以建立遠端事件接收器和應用程式事件接收器。遠端事件接收器會處理應用程式中項目 (例如清單、清單項目或 Web) 發生的事件。進一步了解[如何處理 SharePoint 相關應用程式中的事件](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/handle-events-in-sharepoint-add-ins)。 
   
-## <a name="rest-apis"></a>REST Api
+## <a name="rest-apis"></a>REST API
 
 SharePoint 2013 提供呈現狀態轉移 (Representational State Transfer，REST) Web 服務的實作，可使用 OData 通訊協定在 SharePoint 清單資料上執行 CRUD 作業。當您必須從不使用 JavaScript 以及不是建立在 .NET Framework 或 Microsoft Silverlight 平台上的用戶端技術存取 SharePoint 資料，就可以使用此功能。進一步了解[如何使用 SharePoint 2013 REST 服務進行程式設計](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/use-odata-query-operations-in-sharepoint-rest-requests)。
   

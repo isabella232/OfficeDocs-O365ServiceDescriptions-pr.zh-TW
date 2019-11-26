@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: 本文說明的管理控制和可自訂 Exchange Online 設定，並跟組織的 Exchange Online 環境，在執行，且目前的支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
-ms.openlocfilehash: 2cb5dc23c744e37089e75aec7e7e911775c179b6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 1665afcc165f1dee8e5efbfdfa2e2f4f15f167a5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581979"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262606"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 的安裝和管理
 
@@ -74,7 +74,7 @@ Exchange Online 針對行動裝置所支援的 ActiveSync 原則與 Exchange Ser
   
 ### <a name="message-tracking-for-exchange-online"></a>Exchange Online 的郵件追蹤
 
-下列主題說明透過「傳遞回報」功能進行的郵件追蹤：[報告功能和疑難排解工具](reporting-features-and-troubleshooting-tools.md).
+下列主題將說明透過 「 傳遞回報 」 功能的郵件追蹤：[報告功能和疑難排解工具](reporting-features-and-troubleshooting-tools.md)。
   
 ### <a name="usage-reporting-for-exchange-online"></a>Exchange Online 的使用報告
 
@@ -92,7 +92,7 @@ Exchange Online 針對行動裝置所支援的 ActiveSync 原則與 Exchange Ser
   
 ### <a name="auditing-for-exchange-online"></a>Exchange Online 的稽核
 
-下列主題將說明稽核記錄功能：[報告功能和疑難排解工具](reporting-features-and-troubleshooting-tools.md).
+下列主題將說明稽核記錄功能：[報告功能和疑難排解工具](reporting-features-and-troubleshooting-tools.md)。
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Exchange Online 的服務和產品升級
 

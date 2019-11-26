@@ -15,17 +15,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
-description: Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
-ms.openlocfilehash: 089ce23a2dd086bd78c5401e67f6dcb722a40a76
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
+ms.openlocfilehash: 61e1f1243e3b8d175f6b4ed58fd9faa06ff3ff8f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633498"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263044"
 ---
 # <a name="office-365-plan-options"></a>Office 365 方案選項
 
-Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
+Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
   
 ## <a name="office-365-service-families-and-plans"></a>Office 365 服務系列與方案
 
@@ -54,13 +54,13 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
 |Exchange Online  <br/> |是<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |商務用 OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>5</sup> <br/> |
-|Skype 商務 Online <sup>15</sup> <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |Yes<sup>11</sup> <br/> |Yes<sup>13</sup> <br/> |Yes<sup>14</sup> <br/> |
-|Web 版 office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Skype 商務 Online <sup>15</sup> <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>11</sup> <br/> |是<sup>13</sup> <br/> |是<sup>14</sup> <br/> |
+|網頁版 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 應用程式  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|Project Online  <br/> |沒有<sup>1</sup> <br/> |否  <br/> |沒有<sup>1</sup> <br/> |沒有<sup>1</sup> <br/> |沒有<sup>1</sup> <br/> |沒有<sup>1</sup> <br/> |沒有<sup>1</sup> <br/> |
+|Microsoft Project Online  <br/> |是<sup>1</sup> <br/> |否  <br/> |是<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |Yammer Enterprise  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Azure 資訊保護<sup>3</sup> <br/> |沒有<sup>2</sup> <br/> |否  <br/> |沒有<sup>2</sup> <br/> |沒有<sup>2</sup> <br/> |是  <br/> |是  <br/> |沒有<sup>2</sup> <br/> |
+|Azure 資訊保護<sup>3</sup> <br/> |否<sup>2</sup> <br/> |否  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |是  <br/> |是  <br/> |否<sup>2</sup> <br/> |
 |Microsoft Kaizala<sup>17</sup> <br/> |是 <br/> |否  <br/> |是 <br/> |是 <br/> |是  <br/> |是  <br/> |是 <br/> |
    
 <sup>1</sup> Project Online 並不包含在內，但可以當作附加服務來單獨購買，若是 Office 365 教育版 方案，則可免費新增此功能。<br/>
@@ -126,4 +126,4 @@ Microsoft Office 365 提供各種可滿足您組織需求的最佳計劃。
    
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 規劃的功能可用性，請參閱 [Office 365 平台服務說明](office-365-platform-service-description.md)。
+若要檢視跨 Office 365 計劃的功能可用性，請參閱[Office 365 平台服務說明](office-365-platform-service-description.md)。

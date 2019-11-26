@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 為了符合唯一且不斷美國聯邦、 狀態、 本機，以及部落政府，以及承包商保留，或代表美國政府處理資料的需求，Microsoft 會提供 Office 365 美國政府社群 (GCC) 服務。 可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 試用版目前僅供美國政府實體使用。
-ms.openlocfilehash: ca481bdb6deb4d686dc713418a412b2085bb3127
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: 5baa9f8d1042ef8470b983d2a38a8a1130b55f34
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890419"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262534"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -23,9 +23,9 @@ ms.locfileid: "37890419"
   
 請洽詢您的客戶團隊或偏好的夥伴以瞭解詳細資訊，或啟動驗證程序。可在[比較 Office 365 政府版方案](https://products.office.com/government/compare-office-365-government-plans)頁面上找到其他資訊。 
   
-## <a name="how-to-use-this-service-description-section"></a>如何使用此「服務說明」一節
+## <a name="how-to-use-this-service-description-section"></a>如何使用此服務描述一節
 
-Office 365 US Government 服務說明的設計目的在於與一般 Office 365 服務說明之間互相對照，定義了與 Office 365 企業版產品之間特色和差異的比較。
+Office 365 US Government 服務描述被設計來做為一般的 Office 365 服務描述重疊。 它會定義唯一的承諾和差異相較於 Office 365 企業版供應項目。
   
 ## <a name="us-government-community-compliance"></a>美國政府社群符合性
 
@@ -59,7 +59,7 @@ Office 365 人員沒有 Office 365 美國政府社群 中所裝載的客戶內�
 
 Yammer Enterprise 不是 Office 365 US Government 的元件，但每位獲得 Office 365 US Government 方案 E1 和 E3 授權的使用者都可以免費取得，做為獨立優惠。這項優惠目前僅限於透過 Enterprise 合約及 Enterprise Subscription 合約購買 Office 365 US Government 的客戶享有。 
   
-現階段 Yammar 在應用程式層以邏輯方式分隔客戶資料。然而，Yammar 不提供與 Office 365 US Government 相同的資料位置和資料存取功能、不支援 FedRAMP 資格鑑定，且需遵守 Office 365 服務的不同合約條款。建議您檢閱 [Yammer 服務說明](../../yammer-service-description/yammer-service-description.md) 和隱私權條款，以評估適合貴組織的 Yammer使用方式。若要了解包括 Yammer 的 Office 365 政府方案，請參閱 [Office 365 US Government](office-365-us-government.md)。
+現階段 Yammar 在應用程式層以邏輯方式分隔客戶資料。 然而，Yammar 不提供與 Office 365 US Government 相同的資料位置和資料存取功能、不支援 FedRAMP 資格鑑定，且需遵守 Office 365 服務的不同合約條款。 我們建議您檢閱[Yammer 服務說明](../../yammer-service-description/yammer-service-description.md)和隱私權條款時評估貴組織的 Yammer 適當使用。 若要了解包括 Yammer 的 Office 365 政府方案，請參閱 [Office 365 US Government](office-365-us-government.md)。
   
 如果您認為 Yammer 適合您組織的 Office 365 US Government 訂閱來使用，且您已依據企業註冊購買上述內含 Yammar 的其中一個方案，您可以要求修正合約，以啟用 Yammar 企業訂閱。
   

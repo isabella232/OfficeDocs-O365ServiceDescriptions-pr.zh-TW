@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Yammer 中提供下列設定檔功能。
-ms.openlocfilehash: 5c6acde9c620eb0f51263b121574266d67740b57
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 0f85007ec52bee13557f831c9f72029cc7fe93f5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726494"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263154"
 ---
 # <a name="profile-features-in-yammer"></a>Yammer 中的設定檔功能
 
@@ -49,6 +49,6 @@ Yammer 中提供下列設定檔功能。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer Service Description](yammer-service-description.md)。
+若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer 服務說明](yammer-service-description.md)。
   
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 取得功能和需求，Exchange Online Protection 的相關資訊。 包含會提供 Exchange Online Protection 的計劃的清單，以及的功能比較不同計劃。
-ms.openlocfilehash: 92363cebf6478f87f553792d449f0b9b0784fa5b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c385ef02d7d3c28a37b71162daace04a0cee800c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700225"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260918"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服務說明
 
@@ -29,7 +29,7 @@ Microsoft Exchange Online Protection (EOP) 是雲端式的電子郵件篩選服�
 
 - **在獨立案例中**： EOP 提供雲端式電子郵件保護，如內部電子郵件環境 （Exchange Server 或其他內部部署 SMTP 電子郵件解決方案）。
 
-- **作為 Microsoft Exchange Online 的一部分**： 根據預設，EOP 會保護 Exchange Online 雲端託管信箱。 若要深入了解 Exchange Online，請參閱 [Exchange Online 服務說明](../exchange-online-service-description/exchange-online-service-description.md)。
+- **作為 Microsoft Exchange Online 的一部分**： 根據預設，EOP 會保護 Exchange Online 雲端託管信箱。 若要深入了解關於 Exchange Online 的詳細資訊，請參閱[Exchange Online 服務說明](../exchange-online-service-description/exchange-online-service-description.md)。
 
 - **在混合式部署**： EOP 可以設定為保護您的郵件環境，並控制郵件路由傳送您混合使用內部部署及雲端信箱時。
 
@@ -75,7 +75,7 @@ EOP 可搭配任何 SMTP 郵件傳輸代理程式，例如 Microsoft Exchange Se
 
 ## <a name="limits"></a>限制
 
-如需了解 EOP 中的限制，請參閱 [Exchange Online Protection 限制](exchange-online-protection-limits.md)。
+如需 EOP 中的限制，請參閱[Exchange Online Protection 限制](exchange-online-protection-limits.md)。
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>各 Exchange Online Protection (EOP) 計劃中可用的功能
 
@@ -84,7 +84,7 @@ EOP 可搭配任何 SMTP 郵件傳輸代理程式，例如 Microsoft Exchange Se
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能**|**獨立式 EOP**|**中的 EOP 功能<br/>Exchange Online**|**Exchange Enterprise <br/> CAL with Services**|
-|[收件者](recipient-domain-and-company-management.md#mail-recipients)|Yes<sup>1</sup>|Yes<sup>1</sup>|是|
+|[收件者](recipient-domain-and-company-management.md#mail-recipients)|是<sup>1</sup>|是<sup>1</sup>|是|
 |[系統管理角色群組權限](recipient-domain-and-company-management.md#admin-role-group-permissions)|是<sup>2</sup>|是|是|
 |[網域管理](recipient-domain-and-company-management.md#domain-management)|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|
 |[符合子網域](recipient-domain-and-company-management.md#match-subdomains)|是|是|否|
@@ -95,7 +95,7 @@ EOP 可搭配任何 SMTP 郵件傳輸代理程式，例如 Microsoft Exchange Se
 |[Office 365 郵件加密](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|是<sup>12</sup>|是|是<sup>12</sup>|
 |[反垃圾郵件保護](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (內建)|是|是|是|
 |[自訂反垃圾郵件原則](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies)|是<sup>7</sup>|是|是|
-|[反惡意程式碼保護](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (內建)|Yes<sup>13</sup>|是|是|
+|[反惡意程式碼保護](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (內建)|是<sup>13</sup>|是|是|
 |[自訂反惡意程式碼原則](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|是|是|是|
 |[隔離](anti-spam-and-anti-malware-protection-eop.md#quarantine)：系統管理員管理|是|是|是|
 |[隔離](anti-spam-and-anti-malware-protection-eop.md#quarantine)：使用者自我管理|是|是|是|

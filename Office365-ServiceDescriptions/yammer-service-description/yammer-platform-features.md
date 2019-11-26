@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a7d8a60e-a80d-429b-b4eb-d188cbf15371
 description: 是 Yammer 中提供下列 Yammer 平台功能。
-ms.openlocfilehash: 80918999bd9f6e42aa1b966b900b70d4410731d2
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: bbae95e2284cac39e8e4bbfbb08faeac5c4b3fad
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726467"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263144"
 ---
 # <a name="yammer-platform-features"></a>Yammer 平台功能
 
@@ -45,6 +45,6 @@ ms.locfileid: "37726467"
 
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer Service Description](yammer-service-description.md)。
+若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer 服務說明](yammer-service-description.md)。
   
 

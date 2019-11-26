@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: 是 Project Online 中提供下列核心功能。
-ms.openlocfilehash: 14081671a3539e9fa73f049eae0ced9f80568c21
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 172aabf2a2cdf4891db556b38f1415edf6389610
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633865"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263447"
 ---
 # <a name="core-services-functionality"></a>核心服務功能
 
 是 Project Online 中提供下列核心功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務說明](project-online-service-description.md)。
   
 ## <a name="active-directory-integration"></a>Active Directory 整合
 
@@ -53,7 +53,7 @@ Microsoft PPM 方案受到上千家 Microsoft 合作夥伴的支援，這些合�
   
 ## <a name="service-updates"></a>服務更新
 
-我們會定期更新 Office 365 服務的新功能。 請參閱 [服務更新](../office-365-platform-service-description/service-updates.md)。
+我們會定期更新 Office 365 服務的新功能。 請參閱[服務更新](../office-365-platform-service-description/service-updates.md)。
   
 ## <a name="team-member-collaboration"></a>小組成員協同合作
 

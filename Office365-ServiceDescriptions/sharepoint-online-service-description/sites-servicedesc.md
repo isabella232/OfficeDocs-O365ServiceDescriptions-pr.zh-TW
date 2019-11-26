@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online 是 web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。
-ms.openlocfilehash: 024abb7de73afba50f79146bf296ebdf9cf32949
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5e882d4adca6b5f373f6bf5ed11b684725f37ecc
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726155"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263297"
 ---
 # <a name="sites"></a>網站
 
@@ -29,7 +29,7 @@ Microsoft SharePoint Online 是 web 式工具和技術，可協助您的組織�
 
 SharePoint Online 支援幾種常用的網頁瀏覽器，包含三個最新版本的 Internet Explorer、最新版的 Google Chrome、Mozilla Firefox 以及 Apple Safari。深入了解[規劃瀏覽器支援](https://go.microsoft.com/fwlink/?LinkId=271048)。
   
-## <a name="custom-managed-paths"></a>自訂的受管理的路徑
+## <a name="custom-managed-paths"></a>自訂管理路徑
 
 藉由定義受管理的路徑，您可以指定 web 應用程式的 URL 命名空間中哪些路徑要用於網站集合。 您可以指定在特定路徑上存在一個或多個網站集合。 對不同部門的使用者來說，這是一種方便整合多個網站存取的方法。 深入了解[管理的路徑](https://go.microsoft.com/fwlink/?LinkId=271049)。
   
@@ -77,7 +77,7 @@ SharePoint 的權限非常有彈性，其設定彈性相當充足，足以讓組
 
 您可以快速地自訂您的小組網站，使其更容易使用，並能顯示您的專業風格和品牌特徵。主題是可以對網站快速套用顏色和字型的方式。
   
-## <a name="site-usage-page"></a>網站使用狀況] 頁面上
+## <a name="site-usage-page"></a>網站使用頁面
 
 Web analytics 報告是預先建立 SharePoint 中採用流量資料來析網站與網站集合的各個層面的報告。 
   

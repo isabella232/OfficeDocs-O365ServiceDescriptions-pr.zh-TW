@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online 提供各種報告功能在 Exchange 系統管理中心 (EAC)。
-ms.openlocfilehash: 48e3618e6fe5d0271bc10a356f81266f74e188f6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: d7560a95d127731bc8354c8be73aa016ee0aecfd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581989"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262706"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>報告功能和疑難排解工具
 
@@ -33,7 +33,7 @@ Exchange Online 客戶可以存取 Microsoft 365 系統管理中心內的報告�
   
 此外，在 Microsoft 365 系統管理中心 [報告] 頁面包含郵件的資料報告，提供有關郵件流量、 垃圾郵件和惡意程式碼偵測和郵件受到 Exchange 傳輸規則] 或 [資料外洩防護 (DLP) 的資訊原則。 保護、規則和 DLP 的增強型報告可讓 Exchange Online 系統管理員享有互動報告體驗。 這些報告提供摘要資料，而且可供人向下切入至個別郵件的詳細資料。
   
-如需每個 Office 365 訂閱可用報告的詳細資訊，請參閱[報告](../office-365-platform-service-description/reports.md)。 如 Microsoft 365 系統管理中心中，[報告] 頁面的詳細的資訊，請參閱[檢視並下載有關 Office 365 中服務使用情況報告](https://go.microsoft.com/fwlink/p/?LinkId=401187)和[使用的郵件保護報告在 Office 365 中以檢視有關惡意程式碼、 垃圾郵件和規則偵測的資訊](https://go.microsoft.com/fwlink/p/?LinkID=401102).
+如需每個 Office 365 訂閱可用報告的詳細資訊，請參閱[報告](../office-365-platform-service-description/reports.md)。 如需在 Microsoft 365 系統管理中心 [報告] 頁面的詳細資訊，請參閱[檢視並下載有關 Office 365 中服務使用情況報告](https://go.microsoft.com/fwlink/p/?LinkId=401187)和[使用郵件保護報告以檢視有關惡意程式碼、 垃圾郵件和規則偵測的 Office 365 中](https://go.microsoft.com/fwlink/p/?LinkID=401102)。
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>使用 Excel 報告活頁簿執行報告
 

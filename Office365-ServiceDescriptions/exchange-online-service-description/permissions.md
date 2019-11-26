@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online 使用角色型存取控制 (RBAC) 模式，讓組織管理員可以準確地控制哪些使用者與 IT 員工可在服務中作業。例如，如果法務人員負責信箱搜尋要求，系統管理員可以透過 RBAC 將管理功能委派給法務人員。Exchange Online 使用相同的 RBAC 框架作為 Microsoft Exchange Server 2013。
-ms.openlocfilehash: d6b0add4925524fd024ebea2ff044afd96cde698
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 365bf87eb0b81364f3268b6e9defdb6f289ae609
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581949"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262746"
 ---
 # <a name="permissions"></a>權限
 
@@ -27,7 +27,7 @@ Microsoft Exchange Online 使用角色型存取控制 (RBAC) 模式，讓組織�
   
 如需有關用於 Exchange Online 的 RBAC 權限模型的詳細資訊，請參閱[權限](https://go.microsoft.com/fwlink/p/?LinkId=271935)。
   
-## <a name="role-based-permissions"></a>以角色為基礎的權限
+## <a name="role-based-permissions"></a>角色型權限
 
 在 Exchange Online 中，您授與系統管理員和使用者的權限都是以管理角色為基礎。角色定義了系統管理員或使用者所能執行的一組工作。例如，名為  `Mail Recipients` 的管理角色定義某個人可以對一組信箱、連絡人和通訊群組執行的工作。將角色指派給系統管理員或使用者後，該名人員便會獲得此角色所提供的權限。 
   

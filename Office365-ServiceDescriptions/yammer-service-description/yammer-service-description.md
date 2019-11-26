@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer 是同級產品最佳、安全且私密的企業社交網路。 Yammer 可讓員工輕鬆協同作業、更快做出決策，以及自行組成小組來迎接任何業務挑戰，進而使員工更具生產力且更為成功。 這是一種新的工作方式，可自然地促成業務契合度和靈活性、減少週期時間、凝聚員工，以及改善與客戶及合作夥伴的關係。
-ms.openlocfilehash: b6d6d5edad8a0136ef285ffe87b89addfdbc20b6
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: a7f918f7bca754596f18e926e03d282b43fe84d0
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911826"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263134"
 ---
 # <a name="yammer-service-description"></a>Yammer 服務說明
 
@@ -28,7 +28,7 @@ Yammer 是同級產品最佳、安全且私密的企業社交網路。 Yammer �
 若要跨方案比較功能，請參閱[比較 Office 365 for Business 方案](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
   
 > [!TIP]
-> 您可以在「Office 365 服務說明」中匯出、儲存和列印頁面。了解如何[匯出多個頁面](https://go.microsoft.com/fwlink/?LinkId=403349)。 
+> 您可以匯出、 儲存及列印頁面中的 Office 365 服務說明。 了解如何[匯出多個頁面](https://go.microsoft.com/fwlink/?LinkId=403349)。 
   
 ## <a name="system-requirements"></a>系統需求
 
@@ -44,7 +44,7 @@ Yammer 可透過下列計劃取得：
 |[Yammer Enterprise](https://go.microsoft.com/fwlink/?LinkId=691122) <br/> |具備進階安全性、系統管理和整合功能的企業社交網路。  <br/> |
    
 > [!NOTE]
-> [Office 365 平台服務說明](../office-365-platform-service-description/office-365-platform-service-description.md) 中描述的功能和原則不適用於 Yammer 服務。 
+> 功能和[Office 365 平台服務說明](../office-365-platform-service-description/office-365-platform-service-description.md)中的原則不適用於 Yammer 服務。 
   
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer enterprise 服務通訊原則
 <a name="YammerCommsPolicy"> </a>
@@ -108,7 +108,7 @@ Yammer 是 Office 365 的一部分，會遵循[Office 365 變更管理原則](ht
 |[目錄同步處理](administration-and-security-features-in-yammer.md#directory-synchronization) <br/> |否  <br/> |是  <br/> |
 |[資料匯出](administration-and-security-features-in-yammer.md#data-export) <br/> |否  <br/> |是  <br/> |
 |[關鍵字監控](administration-and-security-features-in-yammer.md#keyword-monitoring) <br/> |否  <br/> |是  <br/> |
-|[分析](administration-and-security-features-in-yammer.md#analytics) <br/> |否  <br/> |是  <br/> |
+|[Analytics](administration-and-security-features-in-yammer.md#analytics) <br/> |否  <br/> |是  <br/> |
 |[組織的資源](administration-and-security-features-in-yammer.md#organization-resources) <br/> |是  <br/> |是  <br/> |
 |[密碼原則](administration-and-security-features-in-yammer.md#password-policies) <br/> |否  <br/> |是  <br/> |
 |[工作階段管理](administration-and-security-features-in-yammer.md#session-management) <br/> |否  <br/> |是  <br/> |

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: 是 Yammer 中提供下列探索功能。
-ms.openlocfilehash: 9ed949e6a1b90145369807638f3c0b6c272ec85a
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 7207f3c6317d7a8479692bcbf06ff2b242eb5ce1
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726376"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263094"
 ---
 # <a name="discovery-features-in-yammer"></a>Yammer 中的探索功能
 
@@ -45,6 +45,6 @@ ms.locfileid: "37726376"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer Service Description](yammer-service-description.md)。
+若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer 服務說明](yammer-service-description.md)。
   
   

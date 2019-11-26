@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: 下列的收件匣功能是 Yammer 中提供。
-ms.openlocfilehash: b9f74486b923ca062bf47e3daceb199816726fa6
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 11bf4f2d8eb46e3b18b22720c584fbf7f748bc60
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726336"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263164"
 ---
 # <a name="inbox-features-in-yammer"></a>Yammer 中的收件匣功能
 
@@ -33,6 +33,6 @@ ms.locfileid: "37726336"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer Service Description](yammer-service-description.md)。
+若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer 服務說明](yammer-service-description.md)。
   
 

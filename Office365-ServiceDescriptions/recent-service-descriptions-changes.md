@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: 下表列出最近已對服務描述內容的變更。
-ms.openlocfilehash: 0a4d4e6f8b44320bc78a4309ff93c2e101b98c06
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 5a8acdce7c4d3a1beeb3ea38401bf5255860904e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777524"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263367"
 ---
 # <a name="recent-service-descriptions-changes"></a>最近的服務描述變更
 
@@ -52,7 +52,7 @@ ms.locfileid: "35777524"
 ||[Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |新增的 Microsoft 365 商務版。  <br/> |
 ||[Office 365 安全性&amp;合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |變更封存限制項目為 「 是 」 的 Office 365 商務基本版和 Office 365 商務進階版。  <br/> |
 ||[Office 365 安全性&amp;合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |變更 「 進階安全性管理 」 至 「 Office 365 雲端 App 安全性 」。  <br/> |
-|Web 版 office  <br/> |[Web 版 Excel](office-online-service-description/excel-online.md) <br/> |變更為 「 超過 30 mb (MB) 的活頁簿無法讓您檢視在 Excel 中的內 Microsoft SharePoint Online 從網頁。 」 主題中的第一個附註 先前的附註所說 10 MB。  <br/> |
+|網頁版 Office  <br/> |[Excel 網頁版](office-online-service-description/excel-online.md) <br/> |變更為 「 超過 30 mb (MB) 的活頁簿無法讓您檢視在 Excel 中的內 Microsoft SharePoint Online 從網頁。 」 主題中的第一個附註 先前的附註所說 10 MB。  <br/> |
 |商務用 OneDrive  <br/> |[商務用 OneDrive 服務說明](onedrive-for-business-service-description.md) <br/> |主要更新 OneDrive for Business Service Description。  <br/> |
    
 ## <a name="march-2018"></a>2018 年 3 月
@@ -62,7 +62,7 @@ ms.locfileid: "35777524"
 |**服務描述** <br/> |**主題** <br/> |**變更** <br/> |
 |Exchange Online  <br/> |[Exchange Online 服務說明](exchange-online-service-description/exchange-online-service-description.md) <br/> |靜態資料中心裡的資料加密和 Office 365 郵件加密 (OME) 的更新。  <br/> |
 ||[郵件原則及合規性](exchange-online-service-description/message-policy-and-compliance.md) <br/> |靜態資料中心裡的資料加密和 Office 365 郵件加密 (OME) 的更新。  <br/> |
-|Web 版 office  <br/> |[Web 版 Excel](office-online-service-description/excel-online.md) <br/> |更新凍結窗格支援在 Excel 中的網頁。  <br/> |
+|網頁版 Office  <br/> |[Excel 網頁版](office-online-service-description/excel-online.md) <br/> |更新凍結窗格支援在 Excel 中的網頁。  <br/> |
 |SharePoint Online  <br/> |[SharePoint Online 服務說明](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |多個更新並重建。  <br/> |
 ||[SharePoint Online 限制](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |多項更新。  <br/> |
 |Yammer  <br/> |[Yammer 中的系統管理與安全性功能](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |已移除的附註和活動串流要點。  <br/> |
@@ -181,7 +181,7 @@ ms.locfileid: "35777524"
 ||[由 21Vianet 運作的 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |更新資訊版權管理 (IRM) 使用 Windows Server AD RMS。  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |新增 「 建立 app 密碼 」 資料列在 「 使用者帳戶管理 」。  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |新增的安全性指標&amp;合規性中心功能描述。 (安全性&amp;合規性中心是適用於 Office 365 Germany。)  <br/> |
-|Web 版 office  <br/> |[Office web 服務描述](office-online-service-description/office-online-service-description.md) <br/> |新增的 Visio。  <br/> |
+|網頁版 Office  <br/> |[網頁版 Office 服務描述](office-online-service-description/office-online-service-description.md) <br/> |新增的 Visio。  <br/> |
 |Exchange Online  <br/> |[Exchange Online 服務說明](exchange-online-service-description/exchange-online-service-description.md) <br/> |變更 「 保留標記和保留原則 」 至 「 通訊記錄管理 (MRM) 保留標記和保留原則 」。  <br/> |
 ||[語音訊息服務](exchange-online-service-description/voice-message-services.md) <br/> |更新加入週期結束宣告 Exchange Online 的整合通訊透過 SBC。  <br/> |
 | 工作場所分析  <br/> |[工作場所分析服務描述](workplace-analytics-service-description.md) <br/> |新增新的服務描述  <br/> |

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: 9dfa0f5b1e7ade5a957d8acb83dc0658077c5cdd
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: cd9b8aad786cb23a4b6ad4dfdae64e2be5c28dc7
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581359"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262414"
 ---
 # <a name="service-level-agreement"></a>服務等級協定
 
@@ -35,5 +35,5 @@ ms.locfileid: "37581359"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 規劃的功能可用性，請參閱 [Office 365 平台服務說明](office-365-platform-service-description.md)。
+若要檢視跨 Office 365 計劃的功能可用性，請參閱[Office 365 平台服務說明](office-365-platform-service-description.md)。
   

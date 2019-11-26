@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 合規性-GCC 的計劃
+title: 規劃 Microsoft 365 合規性 - GCC
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用於 IT 專業人員所主導部署的 Office 365 美國聯邦、 狀態、 本機、 部落，或就政府實體或其他處理政府法規和需求，受限於的資料的實體位置 Microsoft 使用365 government-GCC 會適用於符合這些需求。
-ms.openlocfilehash: ed9625972b6a12c17527fadf35413806fedd4015
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: 2047310d2c0cae95b4908edc17f84d481575bddd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319491"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262816"
 ---
-# <a name="plan-for-microsoft-365-compliance--gcc"></a>規劃 Microsoft 365 合規性 – GCC
+# <a name="plan-for-microsoft-365-compliance--gcc"></a>Microsoft 365 合規性 – GCC 的計劃
 
 本指南適用於 IT 專業人員所主導部署的 Office 365 美國聯邦、 狀態、 本機、 部落，或就政府實體或其他處理政府法規和需求，受限於的資料的實體位置 Microsoft 使用365 government-GCC 會適用於符合這些需求。
 
@@ -69,25 +69,30 @@ Microsoft 365 政府版-GCC 環境遵守美國政府雲端服務需求的包括 
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **資訊保護 & 控管** | 封存                                       | 可以使用              |
 |                                         | 手動標籤和原則<sup>2</sup>          | 可以使用              |
-|                                         | 自動應用程式的標籤                      | 在 [工程待處理項目 |
+|                                         | 自動應用程式的標籤                      | 可以使用              |
 |                                         | 根據敏感資訊類型的標籤            | 在 [工程待處理項目 |
-|                                         | 標籤和相關聯的查詢為基礎的原則 | 在 [工程待處理項目 |
-|                                         | 檔案計畫                                       | 在 [工程待處理項目 |
+|                                         | 標籤和相關聯的查詢為基礎的原則 | 可以使用              |
+|                                         | 檔案計畫                                       | 可以使用              |
 |                                         | 建議的原則                            | 在 [工程待處理項目 |
 |                                         | 智慧匯入篩選器                            | 在 [工程待處理項目 |
-|                                         | 事件型保留                           | 在 [工程待處理項目 |
-|                                         | 處置檢閱                              | 在 [工程待處理項目 |
+|                                         | 事件型保留                           | 可以使用              |
+|                                         | 處置檢閱                              | 可以使用              |
 |                                         | 資訊屏障                            | 可以使用              |
 |                                         | 資料外洩防護 (DLP) 檔案和電子郵件  | 可以使用              |
 |                                         | 小組聊天和通道交談的 DLP    | 在 [工程待處理項目 |
+|                                         | DLP 精確資料相符項目                            | 在 [工程待處理項目 |
+|                                         | 標籤活動總管                         | 在 [工程待處理項目 |
+|                                         | Trainable 相關性                           | 在 [工程待處理項目 |
+|                                         | 整合的設定標籤和敏感度標籤         | 在 [工程待處理項目 |
 | **測試人員風險管理**             | 進階的郵件加密                     | 可以使用              |
+|                                         | 測試人員風險管理                         | 在 [工程待處理項目 |
 |                                         | 通訊合規性                        | 在 [工程待處理項目 |
-|                                         | Customer Lockbox                                | 可以使用              |
+|                                         | 客戶加密箱                                | 可以使用              |
 |                                         | 客戶金鑰                                    | 可以使用              |
-|                                         | 特殊權限存取管理                    | 在 [工程待處理項目 |
+|                                         | 特許存取管理                    | 在 [工程待處理項目 |
 | **探索 & 回應**                  | 就地保留項目                            | 可以使用              |
 |                                         | 專案管理                                 | 可以使用              |
-|                                         | Search                                          | 可以使用              |
+|                                         | 搜尋                                          | 可以使用              |
 |                                         | 匯出                                          | 可以使用              |
 |                                         | RMS 解密                                  | 可以使用              |
 |                                         | 原生匯出                                   | 可以使用              |

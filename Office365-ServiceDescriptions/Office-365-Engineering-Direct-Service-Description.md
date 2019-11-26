@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 直接工程是針對 Microsoft Premier Support 合約的企業級支援服務新增。 Office 365 工程直接服務說明包含與提供的功能和實作需求相關的其他資訊。
-ms.openlocfilehash: 57274511660f36e7948bc42e9fd6214cf2c0ec52
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: d03e642126e3c617c5d44701391a892d259a79a4
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733884"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260698"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Office 365 工程直接服務說明
 

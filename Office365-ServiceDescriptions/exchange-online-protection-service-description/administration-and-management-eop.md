@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: 本章節說明 Microsoft Exchange Online Protection (EOP) 系統管理員可用的管理介面。
-ms.openlocfilehash: df2588dd9ea9f3cb13fe70aae93a17cbeecb343d
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: a0489e781238dd5e52fada58897bafd35e3bd7b4
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581463"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260718"
 ---
 # <a name="administration-and-managementeop"></a>系統管理與管理 [EOP]
 
 本章節說明 Microsoft Exchange Online Protection (EOP) 系統管理員可用的管理介面。
   
-尋找所有 EOP 功能的相關資訊嗎？ 請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
+尋找所有 EOP 功能的相關資訊嗎？ 請參閱[Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
   
 ## <a name="access-to-the-microsoft-365-admin-center"></a>Microsoft 365 系統管理中心存取
 

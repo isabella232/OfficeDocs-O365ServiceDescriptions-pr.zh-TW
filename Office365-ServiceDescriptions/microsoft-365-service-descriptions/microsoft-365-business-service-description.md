@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 商務版服務描述
+title: Microsoft 365 商務版服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全性與裝置管理功能，協助保護您的業務與整合式的解決方案。 此服務描述中說明的計劃選項和功能。
-ms.openlocfilehash: 05f1aada1626d55c76aac73c9c49d3585e385dea
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 5da58f1000468d25d4e62a40b2cd602165ad899e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765614"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262846"
 ---
-# <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務描述
+# <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務說明
 
 Microsoft 365 商務版是將一起最佳-生產力的 Office 365 具有進階安全性與裝置管理可協助保護您的企業從進階威脅] [整合式的解決方案。 此服務描述中說明的計劃選項和功能。 如需有關 Office 365 的詳細資訊，請參閱[Office 365 服務說明](../office-365-service-descriptions-technet-library.md)。
   
@@ -29,11 +29,11 @@ Microsoft 365 商務版基本上是包含所有 Office 365 商務進階版中額
 |:-----|:-----|:-----|
 |**計劃選項** <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |Office 365 平台  <br/> |是  <br/> |是  <br/> |
-|Exchange Online  <br/> |Yes<sup>1</sup> <br/> |Yes<sup>1</sup> <br/> |
+|Exchange Online  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |是  <br/> |是  <br/> |
 |商務用 OneDrive  <br/> |是  <br/> |是  <br/> |
 |Microsoft Teams <br/> |是 <br/> |是 <br/> |
-|Web 版 office  <br/> |是  <br/> |是  <br/> |
+|網頁版 Office  <br/> |是  <br/> |是  <br/> |
 |[Office 應用程式](../office-applications-service-description/office-applications-service-description.md)  <br/> |是  <br/> |是  <br/> |
 |Yammer Enterprise  <br/> |是  <br/> |是  <br/> |
 |Microsoft Bookings  <br/> |是  <br/> |是  <br/> |
@@ -46,16 +46,16 @@ Microsoft 365 商務版基本上是包含所有 Office 365 商務進階版中額
 |[Office 365 管理](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |Azure AD Connect 同步作業工具<br/> |是  <br/> |是  <br/> |
 |共用電腦啟用 <br/> |否 <br/> |是  <br/> |
-|[郵件原則及符合性](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
+|[郵件原則及合規性](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |長期封存 Exchange Online 式信箱  <br/> |否  <br/> |是<sup>3</sup> <br/> |
 |Azure 資訊保護計劃 1 |否 <br/>|是<sup>2</sup> </br>|
 |Office 365 郵件加密  <br/> |否  <br/> |是<sup>2</sup> <br/> |
 |就地保留與訴訟暫止  <br/> |否  <br/> |是<sup>3</sup>  <br/> |
 |就地 eDiscovery  <br/> |是  <br/> |是  <br/> |
 |Transport rules  <br/> |是  <br/> |是  <br/> |
-|資料遺失防護  <br/> |否  <br/> |是 <br/> |
+|資料外洩防護  <br/> |否  <br/> |是 <br/> |
 |[隱私權、 安全性和透明化](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
-|內建的反垃圾郵件保護  <br/> |是  <br/> |是  <br/> |
+|內建反垃圾郵件保護  <br/> |是  <br/> |是  <br/> |
 |內建反惡意程式碼保護  <br/> |是  <br/> |是  <br/> |
 |Office 365 進階的威脅保護計劃 1 <br/> |否  <br/> |是<sup>7</sup> <br/> |
 |安全分數<sup>4</sup> <br/> |是  <br/> |是  <br/> |
@@ -110,10 +110,10 @@ Microsoft 365 商務版基本上是包含所有 Office 365 商務進階版中額
 <sup>1</sup>包含 Exchange Online Plan 1。<br/>
 <sup>2</sup> azure 資訊保護 (AIP) 啟用支援的資訊版權管理 (IRM) 功能。 AIP 計劃 1 隨附於 Microsoft 365 商務版。 <br/>
 <sup>3</sup> Microsoft 365 商務版包含 Exchange Online Archiving 訂閱。 每位 Exchange Online Archiving 訂閱者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)。 <br/>
-<sup>4</sup>可在[https://securescore.office.com](https://securescore.office.com)。 需要系統管理員權限。 如需詳細資訊，請參閱[介紹 Office 365 安全分數](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)。<br/>
+<sup>4</sup>可在[https://securescore.office.com](https://securescore.office.com)。 需要系統管理員權限。 如需詳細資訊，請參閱 [Office 365 安全分數簡介](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)。<br/>
 在 Microsoft 365 系統管理中心內建<sup>5</sup>簡化 Windows 10 裝置管理。 Intune 管理的 iOS、 Android、 macOS 和內建於裝置管理系統管理中心中，也用於 Microsoft 365 商務版授權其他跨平台裝置管理的功能。 協力廠商應用程式及設定之類的 WiFi 設定檔和 VPN 憑證也可以管理裝置管理系統管理中心。 <br/>
 此計劃隨附 Microsoft Stream 計劃 2，其中包含影片入口網站中，語音文字轉譯、 深入搜尋，以及偵測<sup>6</sup> 。<br/>
 Microsoft 365 隨附 Office 365 進階威脅防護計劃 1 <sup>7</sup> 。 如需詳細資訊，請參閱[Microsoft 365 商務版安全性與合規性功能](https://docs.microsoft.com/microsoft-365/business/security-features)。<br/>
-<sup>8</sup> Microsoft 365 商務版包含選取的 Azure AD Premium P1 功能，例如自助密碼重設 AD 回寫、 Azure 多重要素驗證 (MFA) 與條件式存取。 它不包含 Azure AD Premium P1 全部的內容。</br>
+<sup>8</sup> Microsoft 365 商務版包含下列 Azure AD Premium P1 功能： 自助密碼重設 AD 回寫、 與 Azure 多重要素驗證 (MFA)、 條件式存取。 它不包含 Azure AD Premium P1 全部的內容。</br>
 <sup>9</sup> Microsoft 365 商務版訂閱者已授權給 for iOS、 Android、 MacOS 和其他跨平台裝置管理使用完整的 Intune 功能。 功能不適用於系統管理員中心 Microsoft 365 商務版中，例如協力廠商應用程式管理和設定 WiFi 設定檔、 VPN 憑證等等，可以管理在完整的 Intune 主控台。</br>
-<sup>10</sup>如果您有授權的 Windows 7 和 8.1 專業版的裝置，Microsoft 365 商務版提供升級到 Windows 10 專業版。 使用 Microsoft 365 商務版您不僅取得[Microsoft Defender 安全性功能在 Windows 專業版中啟用該到](https://go.microsoft.com/fwlink/p/?linkid=2089903)，就也得到進階功能，例如網路保護存取的 web 式威脅與主應用程式侵入防護規則，以減輕勒索軟體。 當您設定好您的 Microsoft 365 商務版租用戶時，您可以選取應用程式防護和裝置組態設定。 這些設定可決定會自動套用至裝置時他們加入 Azure Active Directory 的原則。
+<sup>10</sup>如果您有授權的 Windows 7 和 8.1 專業版的裝置，Microsoft 365 商務版提供升級到 Windows 10 專業版。 使用 Microsoft 365 商務版您不僅取得[Microsoft Defender 安全性功能在 Windows 專業版中啟用該到](https://go.microsoft.com/fwlink/p/?linkid=2089903)，就也得到進階功能，例如網路保護存取的 web 式威脅與主應用程式侵入為了減輕勒索軟體防護規則。 當您設定好您的 Microsoft 365 商務版租用戶時，您可以選取應用程式防護和裝置組態設定。 這些設定可決定會自動套用至裝置時他們加入 Azure Active Directory 的原則。

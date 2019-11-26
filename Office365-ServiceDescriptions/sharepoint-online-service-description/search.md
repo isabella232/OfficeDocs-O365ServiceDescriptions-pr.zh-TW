@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
 description: SharePoint Online 是 web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 下列的搜尋功能協助人們找到他們工作所需的資訊。 搜尋包含相關性、精簡搜尋和人員搜尋等功能。
-ms.openlocfilehash: 39fdeaac67d1c7261e93dd45c4181613910d5ed0
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5e91de48b374109f570168a2c85ae3c1a606ea5f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726199"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263317"
 ---
 # <a name="search"></a>搜尋
 
@@ -51,7 +51,7 @@ SharePoint Online 是 web 式工具和技術，可協助您的組織儲存、 �
 
 當使用者在您的 SharePoint 網站上搜尋內容時，您搜尋索引中的項目會決定他們能夠找到的結果。搜尋索引包含網站上所有文件和頁面的資訊，該索引是藉由編目 SharePoint 網站上的內容而建立的。搜尋結構描述可協助編目程式決定要揀選哪些內容和中繼資料，以及如何編製索引。您可以藉由變更搜尋結構描述，為使用者建立自訂的搜尋體驗。深入了解[在 SharePoint Online 中管理搜尋結構描述](https://docs.microsoft.com/sharepoint/manage-search-schema)。
   
-## <a name="on-hover-preview"></a>在動態顯示預覽
+## <a name="on-hover-preview"></a>游標暫留預覽
 
 使用者可以將指標停留在搜尋結果上，並預覽搜尋結果右側暫留面板上的文件或網站內容，並與其互動。預覽顯示出豐富形中繼資料，並且有連至文件或網站主要區塊的深層連結。進一步了解[搜尋祕訣](https://support.office.com/article/Not-getting-the-search-results-you-re-looking-for-in-SharePoint-D80687F7-1010-4E6D-ADD9-584B423289D9)。
   
@@ -59,7 +59,7 @@ SharePoint Online 是 web 式工具和技術，可協助您的組織儲存、 �
 
 改良的姓名發音匹配功能找到搜尋結果的類似發音名稱 （為它 John 或 Jon？）。 進一步了解[管理結果來源](https://docs.microsoft.com/sharepoint/manage-result-sources)。
   
-## <a name="query-rulesadd-promoted-results"></a>查詢規則增加升級的查詢結果
+## <a name="query-rulesadd-promoted-results"></a>查詢規則增加升級的查詢結果
 
 在查詢規則中指定條件與相關的指令。當查詢符合查詢規則中的條件時，搜尋系統就會執行規則中所指定的動作。「新增升級的查詢結果」動作讓您可以升級個別查詢結果，並將其擺放在搜尋結果的前端。進一步了解[管理查詢規則](https://docs.microsoft.com/SharePoint/search/manage-query-rules)。
   

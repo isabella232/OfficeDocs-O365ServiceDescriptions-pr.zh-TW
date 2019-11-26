@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: 是 Yammer 中提供下列郵件和對話功能。
-ms.openlocfilehash: c6f913a31250ce9291cf949f2a9098757afeaa21
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 407de14f6dfd58b5079c44cc5658192451dfc4e4
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726504"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263084"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer 中的郵件和對話功能
 
@@ -57,5 +57,5 @@ Yammer 中的 web 支援的 office，可檢視及網頁，直接在 Yammer 中�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer Service Description](yammer-service-description.md)。
+若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer 服務說明](yammer-service-description.md)。
   

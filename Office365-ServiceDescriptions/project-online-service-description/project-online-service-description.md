@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是適用於專案組合管理 (PPM) 和日常工作彈性線上解決方案。 Project Online 是透過 Office 365 所交付，提供功能強大的專案管理功能，以規劃、設定優先順序以及管理專案和專案組合投資 (幾乎可以從任何位置在任何裝置上使用)。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: d5c66b7567a47675480030a308dd280ee44a0fef
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 4a5d95c24fb67012ace390a79fa32ea26543907b
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765634"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263417"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -78,7 +78,7 @@ Microsoft Project Online 桌面用戶端是功能自動排程的專案管理方�
 
 Microsoft Project 可透過三種不同的訂閱，以符合組織的需求。 這些訂閱是專案計劃 1、 專案計劃 3 和專案計劃 5。 若要比較各訂閱的功能，請參閱[應用程式和訂閱的功能可用性](#feature-availability-across-applications-and-subscriptions)。
 
-|Product | 方案 1 | 計劃 3 | 規劃 5 |
+|產品 | 方案 1 | 計劃 3 | 規劃 5 |
 |--------|-----------------------------|------------------------|------------------------|
 |Web 專案 |**x**  | **x** | **x** |
 |Microsoft Project Online | |**x**| **x x** |
@@ -119,7 +119,7 @@ Microsoft Project 可透過三種不同的訂閱，以符合組織的需求。 �
 |行動應用程式 | 建立自訂的行動應用程式與 PowerApps。<sup>4</sup> |
 |**自訂及整合**||
 |PowerApps | 建立和使用 web 和行動裝置與 PowerApps 的解決方案。<sup>4</sup> |
-|Workflows | 自動化，並與 Microsoft Flow 整合的商務程序。<sup>5</sup> |
+|工作流程 | 自動化，並與 Microsoft Flow 整合的商務程序。<sup>5</sup> |
 |Microsoft Office 365 整合 | 共同作業、 管理文件，以及更多使用熟悉的 Office 365 工具和應用程式。<sup>1</sup> |
 |**安全性及使用者管理**||
 |Office 新式群組 | 建立專案小組與共同作業並輕鬆地設定適用於小組成員共用資源的集合。|
@@ -180,7 +180,7 @@ Microsoft Teams 整合 | 在 Microsoft Teams 中的專案上共同作業。<sup>
 |Custom fields | 在專案、 工作及資源層級，以追蹤重要資料至您的組織和專案新增自訂欄位。 | 是 | 是 |
 |公式 | 計算並擷取使用公式跨越多個工作和專案的重要資料。 | 是 | 是 |
 |PowerApps | 建立和使用 web 和行動裝置 （透過 OData) 與 PowerApps 的解決方案。<sup>4</sup> | 是 | 是 |
-|Workflows | 自動化，並與 Microsoft Flow 整合 （透過 OData) 的商務程序。<sup>5</sup> | 是 | 是 |
+|工作流程 | 自動化，並與 Microsoft Flow 整合 （透過 OData) 的商務程序。<sup>5</sup> | 是 | 是 |
 |Microsoft Office 365 整合 | 共同作業、 管理文件，以及更多使用熟悉的 Office 365 工具和應用程式。<sup>1</sup> | 是 | 是 |
 |Microsoft Planner 整合 | 連線至 Planner 計劃專案工作，並追蹤詳細的規劃中的工作。<sup>1</sup> | 是 | 是 |
 |**安全性、 使用者和服務管理**||||
@@ -227,7 +227,7 @@ Microsoft Teams 整合 | 在 Microsoft Teams 中的專案上共同作業。<sup>
 |工作資源、一般資源和材料資源 | 將資源新增至專案，例如工時資源，如人員、 木工、 一般資源和電腦和水泥等材料資源。 |
 |專案成本和預算 | 比較計劃的進度以及實際的時間和成本預算。 |
 |成本資源 | 追蹤並管理您的專案資源成本。|
-|**Reporting** ||
+|**報表** ||
 |自訂報告 | 建立自訂報告專案、 程式、 組合和資源。 |
 |現成可用的報告 | 使用預先內建的報告來了解專案、 程式、 公事包及資源的資料。 |
 |PDF 和 XPS 輸出 | 專案檔案儲存為 PDF 或 XPS 檔案。 |

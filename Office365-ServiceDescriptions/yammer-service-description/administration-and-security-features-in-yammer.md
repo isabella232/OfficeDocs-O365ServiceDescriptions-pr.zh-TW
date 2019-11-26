@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: 下列系統管理和安全性功能是 Yammer 中提供。
-ms.openlocfilehash: 41b1eb6bae399a4d08758076f03f7d220688ac6a
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: e1d9b86c96665398931261d258bd14a7e7687b95
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726521"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263195"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Yammer 中的系統管理和安全性功能
 
@@ -86,6 +86,6 @@ ms.locfileid: "37726521"
 
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer Service Description](yammer-service-description.md)。
+若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer 服務說明](yammer-service-description.md)。
   
 

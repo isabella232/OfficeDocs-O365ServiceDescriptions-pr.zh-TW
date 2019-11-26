@@ -1,5 +1,5 @@
 ---
-title: 網頁版 Office 服務描述
+title: Office web 服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: 網頁 (先前稱為 Office Web Apps) office 會在網頁瀏覽器中開啟 Word、 Excel、 OneNote 和 PowerPoint 文件。 Office web 讓您更容易使用和共用 Office 無所不在檔案從具有網際網路連線，從幾乎任何裝置。 以 Word、 Excel、 OneNote、 或 PowerPoint 的 Microsoft Office 365 客戶可以檢視、 建立及編輯檔案隨時隨地。
-ms.openlocfilehash: df6a4d09a970968a8c83cb5864b96af0f3e6f5db
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: b706c6e45b965768babc04c588d65b305a690fde
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633879"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263517"
 ---
-# <a name="office-for-the-web-service-description"></a>網頁版 Office 服務描述
+# <a name="office-for-the-web-service-description"></a>Office web 服務說明
 
 網頁 (先前稱為 Office Web Apps) office 會在網頁瀏覽器中開啟 Word、 Excel、 OneNote 和 PowerPoint 文件。 Office web 讓您更容易使用和共用 Office 無所不在檔案從具有網際網路連線，從幾乎任何裝置。 以 Word、 Excel、 OneNote、 或 PowerPoint 的 Microsoft Office 365 客戶可以檢視、 建立及編輯檔案隨時隨地。 
   
-若要跨方案比較功能，請參閱[比較 Office 365 for Business 方案](https://products.office.com/business/compare-more-office-365-for-business-plans)。
+若要跨方案比較功能，請參閱[比較商務用 Office 365 方案 ](https://products.office.com/business/compare-more-office-365-for-business-plans)。
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Office web 計劃的功能可用性
 
 需要協助找出最適合組織需求的 Office 解決方案嗎？ 下表比較 Office for web 功能和具備豐富功能的 Microsoft Office 桌面應用程式。 使用表格，以探索可提供什麼功能在 Office 中的網頁，，然後選取 [功能名稱，即可閱讀有關該功能如何運作的簡短描述。 您可能會發現您的組織中有些人員需要 Excel 桌面應用程式的進階圖表功能，而其他使用者只需要檢視和局部編輯 Word 文件與 PowerPoint 簡報與 Office web。 
   
 > [!NOTE]
->  Office 桌面套件涵蓋了 Office 的有限精選功能，提供進階功能讓您運用。 表未完整列出 Microsoft Office 的功能。 <br/>  Microsoft Office 365 ProPlus 是最新版 Office 桌面套件推出的每月訂閱產品項目。 <br/>  Microsoft Office Online Server 內部部署客戶可取得 Office 網頁編輯授權，如果已購買 Office 桌面套件授權 （例如： Office Professional Plus、 Office Standard 或 Office 365 ProPlus 授權）。 
+>  Office 桌面套件涵蓋了 Office 的有限精選功能，提供進階功能讓您運用。 此資料表未完整列出 Microsoft Office 的功能。 <br/>  Microsoft Office 365 專業增強版是最新版 Office 桌面套件推出的每月訂閱產品項目。<br/>  如果 Microsoft Office Online Server 內部部署客戶已購買 Office 桌面套件授權 (例如：Office 專業增強版、Office 標準版或 Office 365 專業增強版授權)，則可取得網頁版 Office 的編輯授權。 
   
 > [!NOTE]
 > 當您開啟 Office 文件中，Outlook 電子郵件附件，或是從 SharePoint 文件庫時，文件會啟動 Office 中的網頁，而且會是唯讀屬性。 若要編輯 office 文件以供 web （編輯模式），您需要 Office 365 套件授權，例如： Office 365 Enterprise E1。 若要在桌面應用程式中編輯文件，您需要 Office 桌面套件授權 (如 Office 365 ProPlus 訂閱) 或 Office Professional Plus 2010 的安裝版本。 
@@ -51,11 +51,11 @@ ms.locfileid: "37633879"
 |[剪貼簿](word-online.md#clipboard) <br/> |是  <br/> |是  <br/> |
 |[共同作業、 進階](word-online.md#collaboration-advanced) <br/> |否  <br/> |是  <br/> |
 |[內容控制項](word-online.md#content-controls) <br/> |是  <br/> |是  <br/> |
-|[封面頁](word-online.md#cover-pages) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
+|[封面頁](word-online.md#cover-pages) <br/> |否<sup>1</sup> <br/> |是  <br/> |
 |[建立進階的文件元素](word-online.md#creation-of-advanced-document-elements) <br/> |否  <br/> |是  <br/> |
 |[文件組件庫和佈景主題](word-online.md#document-parts-and-themes) <br/> |否  <br/> |是  <br/> |
 |[Dropbox](word-online.md#dropbox) <br/> |是  <br/> |是  <br/> |
-|[方程式](word-online.md#equations) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
+|[方程式](word-online.md#equations) <br/> |否<sup>1</sup> <br/> |是  <br/> |
 |[尋找和取代](word-online.md#find-and-replace) <br/> |是  <br/> |是  <br/> |
 |[字體格式化](word-online.md#font-formatting) <br/> |是  <br/> |是  <br/> |
 |[註腳和章節附註](word-online.md#footnotes-and-endnotes) <br/> |是  <br/> |是  <br/> |
@@ -63,7 +63,7 @@ ms.locfileid: "37633879"
 |[圖形效果預設設定](word-online.md#graphic-effect-presets) <br/> |是  <br/> |是  <br/> |
 |[頁首和頁尾](word-online.md#headers-and-footers) <br/> |是  <br/> |是  <br/> |
 |[超連結](word-online.md#hyperlinks) <br/> |是  <br/> |是  <br/> |
-|[索引](word-online.md#index) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
+|[索引](word-online.md#index) <br/> |否<sup>1</sup> <br/> |是  <br/> |
 |[筆跡編輯器](word-online.md#ink-editor) <br/> |否  <br/> |是  <br/> |
 |[插入線上圖片](word-online.md#insert-online-pictures) <br/> |是  <br/> |是  <br/> |
 |[IRM 和密碼保護](word-online.md#irm-and-password-protection) <br/> |否  <br/> |是  <br/> |
@@ -94,16 +94,16 @@ ms.locfileid: "37633879"
 |[另存為 PDF](word-online.md#save-as-pdf) <br/> |是  <br/> |是  <br/> |
 |[共用](word-online.md#share) <br/> |是  <br/> |是  <br/> |
 |[簡單的表格建立功能](word-online.md#simple-table-creation) <br/> |是  <br/> |是  <br/> |
-|[SmartArt](powerpoint-online.md#smartart) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
-|[引用的文獻](word-online.md#table-of-authority) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
-|[目錄](word-online.md#table-of-contents) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
+|[SmartArt](powerpoint-online.md#smartart) <br/> |否<sup>1</sup> <br/> |是  <br/> |
+|[引用的文獻](word-online.md#table-of-authority) <br/> |否<sup>1</sup> <br/> |是  <br/> |
+|[目錄](word-online.md#table-of-contents) <br/> |否<sup>1</sup> <br/> |是  <br/> |
 |[點選 [](word-online.md#tap) <br/> |否  <br/> |是  <br/> |
 |[操作說明搜尋](word-online.md#tell-me) <br/> |是  <br/> |是  <br/> |
 |[轉譯服務](word-online.md#translation-service) <br/> |是  <br/> |是  <br/> |
 |[復原和取消復原](word-online.md#undo-and-redo) <br/> |是  <br/> |是  <br/> |
 |[VBA 和表單指令碼](word-online.md#vba-and-forms-scripts) <br/> |否  <br/> |是  <br/> |
 |[檢視和新增注釋](word-online.md#view-and-add-comments) <br/> |是  <br/> |是  <br/> |
-|[浮水印](word-online.md#watermarks) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
+|[浮水印](word-online.md#watermarks) <br/> |否<sup>1</sup> <br/> |是  <br/> |
 |[字數統計](word-online.md#word-count) <br/> |是  <br/> |是  <br/> |
 |[縮放](word-online.md#zoom) <br/> |是  <br/> |是  <br/> |
    
@@ -130,7 +130,7 @@ ms.locfileid: "37633879"
 |[在公式中的儲存格參照](excel-online.md#cell-references-in-formulas) <br/> |是  <br/> |是  <br/> |
 |[建立註解](excel-online.md#comment-creation) <br/> |是  <br/> |是  <br/> |
 |[複製和貼上](excel-online.md#copy-and-paste) <br/> |是  <br/> |是  <br/> |
-|[建立外部資料連線<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |沒有<sup>3</sup> <br/> |是  <br/> |
+|[建立外部資料連線<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |否<sup>3</sup> <br/> |是  <br/> |
 |[建立表格](excel-online.md#create-tables) <br/> |是  <br/> |是  <br/> |
 |[建立進階分析檢視 (Power View、Power Pivot、交叉分析篩選器)](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |否  <br/> |是  <br/> |
 |[資料驗證](excel-online.md#data-validation) <br/> |是 <br/> |是  <br/> |
@@ -138,7 +138,7 @@ ms.locfileid: "37633879"
 |[Dropbox](excel-online.md#dropbox) <br/> |是  <br/> |是  <br/>|
 |[Duplicate （複製） 工作表](excel-online.md#duplicate-copy-worksheets) <br/> |是  <br/> |是  <br/>|
 |[嵌入網頁或部落格頁面 (OneDrive) 上的活頁簿](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |是  <br/> |否  <br/> |
-|[外部參考](excel-online.md#external-references-links) <br/> |沒有<sup>4</sup> <br/> |是  <br/> |
+|[外部參考](excel-online.md#external-references-links) <br/> |否<sup>4</sup> <br/> |是  <br/> |
 |[填滿控點](excel-online.md#fill-handle) <br/> |是  <br/> |是  <br/> |
 |[尋找](excel-online.md#find) <br/> |是  <br/> |是  <br/> |
 |[字體和儲存格格式化](excel-online.md#font-and-cell-formatting) <br/> |是  <br/> |是  <br/> |
@@ -159,7 +159,7 @@ ms.locfileid: "37633879"
 |[數字格式化](excel-online.md#number-formatting) <br/> |是  <br/> |是  <br/> |
 |[Office 增益集](excel-online.md#office-add-ins) <br/> |是<sup>5</sup>  <br/> |是  <br/> |
 |[離線檢視和撰寫](excel-online.md#offline-viewing-and-authoring) <br/> |否  <br/> |是  <br/> |
-|[樞紐分析圖](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Yes<sup>1</sup>  <br/> |是  <br/> |
+|[樞紐分析圖](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |是<sup>1</sup>  <br/> |是  <br/> |
 |[PivotTables](excel-online.md#pivottables) <br/> |是  <br/> |是  <br/> |
 |[發佈到社交網路並於線上呈現](excel-online.md#post-to-social-network-and-present-online) <br/> |否  <br/> |是  <br/> |
 |[Power Pivot 檢視](excel-online.md#power-pivot-viewing) <br/> |是  <br/> |是  <br/> |
@@ -220,7 +220,7 @@ ms.locfileid: "37633879"
 |[筆跡：筆跡成為文字和數學、可自訂的畫筆、繪畫工具](onenote-online.md#inking-ink-to-text-and-math-customizable-pens-drawing-tools) <br/> |否  <br/> |是  <br/> |
 |[筆跡檢視](onenote-online.md#ink-viewing) <br/> |是  <br/> |是  <br/> |
 |[瀏覽](onenote-online.md#navigation) <br/> |是  <br/> |是  <br/> |
-|[筆記本管理：跨章節/筆記本頁面歸檔、重新排序章節、建立/刪除章節群組](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |Yes<sup>1</sup> <br/> |是  <br/> |
+|[筆記本管理：跨章節/筆記本頁面歸檔、重新排序章節、建立/刪除章節群組](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |是<sup>1</sup> <br/> |是  <br/> |
 |[Office 增益集](onenote-online.md#office-add-ins) <br/> |是<sup>2</sup> <br/> |是  <br/> |
 |[Outlook 整合 (工作)](onenote-online.md#outlook-integration-tasks) <br/> |否  <br/> |是  <br/> |
 |[段落格式化](onenote-online.md#paragraph-formatting) <br/> |是  <br/> |是  <br/> |
@@ -251,20 +251,20 @@ ms.locfileid: "37633879"
 |:-----|:-----|:-----|
 |**應用程式功能** <br/> |**PowerPoint 網頁版** <br/> |**PowerPoint 桌面應用程式** <br/> |
 |[對齊方式、項目符號、編號](powerpoint-online.md#alignment-bullets-numbers) <br/> |是  <br/> |是  <br/> |
-|[套用基本切換和動畫效果](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |Yes<sup>1</sup> <br/> |是  <br/> |
+|[套用基本切換和動畫效果](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |是<sup>1</sup> <br/> |是  <br/> |
 |[將豐富格式套用至文字、形狀和圖片](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |否  <br/> |是  <br/> |
 |[套用佈景主題和佈景主題變化](powerpoint-online.md#apply-themes-and-theme-variants) <br/> |是  <br/> |是  <br/> |
 |[排列物件](powerpoint-online.md#arrange-objects) <br/> |是  <br/> |是  <br/> |
 |[廣播投影片放映](powerpoint-online.md#broadcast-slide-show) <br/> |否  <br/> |是  <br/> |
 |[剪貼簿](powerpoint-online.md#clipboard) <br/> |是  <br/> |是  <br/> |
 |[建立和管理投影片](powerpoint-online.md#create-and-manage-slides) <br/> |是  <br/> |是  <br/> |
-|[建立自訂動畫](powerpoint-online.md#create-custom-animation) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
+|[建立自訂動畫](powerpoint-online.md#create-custom-animation) <br/> |否<sup>1</sup> <br/> |是  <br/> |
 |[設計工具] 進階](powerpoint-online.md#design-tools-advanced) <br/> |否  <br/> |是  <br/> |
 |[在網頁或部落格頁面上嵌入簡報](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |是  <br/> |否  <br/> |
 |[字體格式化](powerpoint-online.md#font-formatting) <br/> |是  <br/> |是  <br/> |
 |[高逼真讀取檢視](powerpoint-online.md#full-fidelity-reading-view) <br/> |是  <br/> |是  <br/> |
 |[完整的筆跡支援](powerpoint-online.md#full-ink-support) <br/> |否  <br/> |是<sup>2</sup> <br/> |
-|[完整的動畫和切換效果選項](powerpoint-online.md#full-selection-of-animations-and-transitions) <br/> |沒有<sup>1</sup> <br/> |是  <br/> |
+|[完整的動畫和切換效果選項](powerpoint-online.md#full-selection-of-animations-and-transitions) <br/> |否<sup>1</sup> <br/> |是  <br/> |
 |[頁首和頁尾](powerpoint-online.md#headers-and-footers) <br/> |否  <br/> |是  <br/> |
 |[超連結](powerpoint-online.md#hyperlinks) <br/> |是  <br/> |是  <br/> |
 |[插入線上影片](powerpoint-online.md#insert-online-video) <br/> |是  <br/> |是  <br/> |
@@ -308,7 +308,7 @@ ms.locfileid: "37633879"
 |**以 Word 2.0 或更新版本建立的 Word 文件** <br/> |**檢視模式** <br/> |**編輯模式** <br/> |
 |Open XML (.docx)  <br/> |是  <br/> |是  <br/> |
 |二進位 (.doc)  <br/> |是  <br/> |轉換為 .docx  <br/> |
-|巨集 (.docm)  <br/> |Yes<sup>1</sup> <br/> |Yes<sup>1</sup> <br/> |
+|巨集 (.docm)  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
 |其他 (.dotm, .dotx)  <br/> |是  <br/> |否  <br/> |
 |OpenDocument (.odt)  <br/> |是  <br/> |是  <br/> |
 |可攜式文件格式 (.pdf)  <br/> |否  <br/> |否  <br/> |
@@ -316,7 +316,7 @@ ms.locfileid: "37633879"
 |Open XML (.xlsx, .xlsb)  <br/> |是  <br/> |是  <br/> |
 |二進位 (.xls)  <br/> |是  <br/> |轉換為 .xlsx  <br/> |
 |範本 (.xlt, .xltx)  <br/> |否  <br/> |否  <br/> |
-|巨集 (.xlsm)  <br/> |Yes<sup>1</sup> <br/> |是<sup>2</sup> <br/> |
+|巨集 (.xlsm)  <br/> |是<sup>1</sup> <br/> |是<sup>2</sup> <br/> |
 |OpenDocument (.ods)  <br/> |是  <br/> |是  <br/> |
 |**以 OneNote 2010 或更新版本建立的 OneNote 筆記本** <br/> |**檢視模式** <br/> |**編輯模式** <br/> |
 |Open XML (.one)  <br/> |是  <br/> |是  <br/> |
@@ -324,7 +324,7 @@ ms.locfileid: "37633879"
 |Open XML (.pptx, .ppsx)  <br/> |是  <br/> |是  <br/> |
 |二進位 (.ppt, .pps)  <br/> |是  <br/> |轉換為.pptx 或 .ppsx  <br/> |
 |範本 (.pot, .potx)  <br/> |是  <br/> |否  <br/> |
-|巨集 (.pptm, .potm, .ppam, .potx, .ppsm)  <br/> |Yes<sup>1</sup> <br/> |否  <br/> |
+|巨集 (.pptm, .potm, .ppam, .potx, .ppsm)  <br/> |是<sup>1</sup> <br/> |否  <br/> |
 |增益集 (.ppa, .ppam)  <br/> |否  <br/> |否  <br/> |
 |OpenDocument (.odp)  <br/> |是  <br/> |是  <br/> |
    

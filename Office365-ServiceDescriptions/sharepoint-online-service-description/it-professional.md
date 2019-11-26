@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online 是 web 式工具和技術，可協助您的組織儲存、 共用及管理數位資訊的集合。 建置於 Microsoft SharePoint Server 2013 的主控服務，在執行專案、將資料與文件儲存於中心位置，以及和他人分享資訊等方面，都相當理想。 以下 SharePoint 功能支援 IT 專業人員於其組織的 SharePoint 環境進行保護與管理工作。
-ms.openlocfilehash: 33769abd6c9a6a765d0b15e00050dee0818521f1
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c8a6f6075ed6b184be7d7deefde74d2bde13d750
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726216"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263327"
 ---
 # <a name="it-professional"></a>IT 專業人員
 
@@ -121,11 +121,11 @@ SharePoint 系統管理中心中，供特定 SharePoint Online 客戶只可讓�
     
 深入了解 [SharePoint 系統管理中心](https://go.microsoft.com/fwlink/p/?LinkId=270990)。
   
-## <a name="site-collection-compliance-policies"></a>網站集合規範遵守原則
+## <a name="site-collection-compliance-policies"></a>網站集合合規性原則
 
 您可以針對網站集合中的頂層網站，於網站集合原則清單建立網站集合原則。 建立網站集合原則後，可以將其匯出，讓其他網站集合的網站管理員可接著匯入至其網站集合原則清單。 建立可匯出的網站集合原則可讓 SharePoint 系統管理員的資訊管理原則標準化組織中的網站。
   
-## <a name="usage-reporting-and-logging"></a>使用情況報告和記錄
+## <a name="usage-reporting-and-logging"></a>使用報告和記錄
 
 不適用於 SharePoint Online 客戶。SharePoint Server 2013 系統管理員可使用稽核記錄報告，來檢視網站集合稽核記錄中的資料。深入了解[網站集合稽核記錄](https://go.microsoft.com/fwlink/p/?LinkId=270992)。
   
