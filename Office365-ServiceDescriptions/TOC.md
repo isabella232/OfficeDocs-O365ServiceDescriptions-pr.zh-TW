@@ -108,7 +108,7 @@
 ### [Yammer 中的系統管理與安全性功能](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Yammer 中的支援功能](yammer-service-description/support-features-in-yammer.md)
 ## Microsoft 365 服務描述
-### [Microsoft 365 Business Voice 服務描述](microsoft-365-business-voice-service-description.md)
+### [Microsoft 365 商務版語音服務描述](microsoft-365-business-voice-service-description.md)
 ### [Microsoft 365 商務版服務描述](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 ### [中小型企業的 Microsoft 365 授權](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md) 
