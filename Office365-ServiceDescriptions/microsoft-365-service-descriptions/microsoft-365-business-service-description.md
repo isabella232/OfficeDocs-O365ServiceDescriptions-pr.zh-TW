@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 商務版服務說明
+title: Microsoft 365 商務版服務描述
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,20 +10,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全性與裝置管理功能，協助保護您的業務與整合式的解決方案。 此服務描述中說明的計劃選項和功能。
-ms.openlocfilehash: 5da58f1000468d25d4e62a40b2cd602165ad899e
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9cdc5b8bc366b5f646aff6866b19dd63a3de8daa
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262846"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810802"
 ---
-# <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務說明
+# <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務描述
 
 Microsoft 365 商務版是將一起最佳-生產力的 Office 365 具有進階安全性與裝置管理可協助保護您的企業從進階威脅] [整合式的解決方案。 此服務描述中說明的計劃選項和功能。 如需有關 Office 365 的詳細資訊，請參閱[Office 365 服務說明](../office-365-service-descriptions-technet-library.md)。
   
 ## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>不同 Office 365 商務進階版和 Microsoft 365 商務版計劃中可用的功能
 
-Microsoft 365 商務版基本上是包含所有 Office 365 商務進階版中額外的 Office 365 安全性功能，以及可用的功能。
+Microsoft 365 商務版包含本質上所有可用的功能在 Office 365 商務進階版中以及其他 Office 365 安全性功能。
+
+Microsoft 365 商務版包含下列 Azure AD Premium P1 功能： 自助密碼重設 AD 回寫、 與 Azure 多重要素驗證 (MFA)、 條件式存取。 它不包含 Azure AD Premium P1 全部的內容。
 
 ||||
 |:-----|:-----|:-----|
@@ -54,7 +56,7 @@ Microsoft 365 商務版基本上是包含所有 Office 365 商務進階版中額
 |就地 eDiscovery  <br/> |是  <br/> |是  <br/> |
 |Transport rules  <br/> |是  <br/> |是  <br/> |
 |資料外洩防護  <br/> |否  <br/> |是 <br/> |
-|[隱私權、 安全性和透明化](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
+|[隱私權、安全性和透明化](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |
 |內建反垃圾郵件保護  <br/> |是  <br/> |是  <br/> |
 |內建反惡意程式碼保護  <br/> |是  <br/> |是  <br/> |
 |Office 365 進階的威脅保護計劃 1 <br/> |否  <br/> |是<sup>7</sup> <br/> |
@@ -76,9 +78,9 @@ Microsoft 365 商務版基本上是包含所有 Office 365 商務進階版中額
 |SLA 高達 99.9年 %  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |進階威脅分析  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |[裝置和應用程式管理](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 商務版包括 iOS、 Android、 Mac OS 和其他跨平台裝置管理的完整 Intune 功能。<sup>9</sup> <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |**企業行動力 + 安全性版 E3** <br/> |
-|Intune 行動裝置管理 (MDM) 的電腦、 Mac、 和行動裝置<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Intune 行動裝置管理 (MDM) 的電腦、 Mac、 和行動裝置<sup>5</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
 |行動裝置管理 (MDM) 自動註冊  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Intune 行動應用程式管理 (MAM) 的 Office 應用程式和 LOB 應用程式<sup>17</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Intune 行動應用程式管理 (MAM) 的 Office 應用程式和 LOB 應用程式<sup>9</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
 |Windows 更新管理、 Defender，防火牆原則<sup>5</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
 |資料保護-選擇性清除  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |目標原則的安全群組 （個儲存）  <br/> |否  <br/> |是  <br/> |是  <br/> |

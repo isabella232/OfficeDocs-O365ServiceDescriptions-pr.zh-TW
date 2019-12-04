@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
-ms.openlocfilehash: 61e1f1243e3b8d175f6b4ed58fd9faa06ff3ff8f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 15af043bbce11ba9c4672a6aad0cd524b9159091
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263044"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810812"
 ---
 # <a name="office-365-plan-options"></a>Office 365 方案選項
 
@@ -67,7 +67,7 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
 <sup>2</sup> azure 資訊保護未包含在內，但能以個別的附加元件形式購買，並將會啟用支援的資訊版權管理 (IRM) 功能。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1.<br/>
 <sup>3</sup> 若要深入了解哪些 Azure 資訊保護 功能隨附於 Office 365 方案中，請參閱 [Azure 資訊保護](https://azure.microsoft.com/services/information-protection/)。<br/>
 <sup>4</sup> office 365 企業版 E5 包含電話系統、 音訊會議和通話方案的功能。 若要實作通話方案需要購買額外的方案 (國內或國際)。<br/>
-<sup>5</sup> 包含 2 GB 儲存空間。 不包含桌面同步功能。 <br/>
+<sup>5</sup> 包含 2 GB 儲存空間。 <br/>
 <sup>6</sup> 包含 Exchange Online Plan 1。 <br/>
 <sup>7</sup> 包含 Exchange Online Plan 2。 <br/>
 <sup>8</sup> 包含 Exchange Online Plan 1 加上附加功能。 <br/>
