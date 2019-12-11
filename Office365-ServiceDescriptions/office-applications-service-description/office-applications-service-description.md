@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 是一項訂閱服務，提供您已熟悉，例如 Word、 Excel 及 PowerPoint 的 Office 桌面應用程式的最新版本。
-ms.openlocfilehash: a53fd2b7786ca3f8c48cc3fa2a731f0be6edaef7
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: dd792241b7e2030c80fb9d79b9bcf51e9f8dea7f
+ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261954"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39969950"
 ---
 # <a name="office-applications-service-description"></a>Office 應用程式服務說明
 
@@ -71,8 +71,8 @@ Office 應用程式有 32 位元和 64 位元版本可供使用。
 |Exchange Online 和 SharePoint Online 封存與規範  <br/> |是<sup>1</sup> <br/> |是  <br/> |是  <br/>|是<sup>1</sup> <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |群組原則支援  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否 <br/> |
 |Office 雲端原則支援  <br/> |否  <br/> |否  <br/> |否  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否 <br/> |
-|使用 Azure 資訊保護的資訊版權管理  <br/> |否  <br/> |否  <br/> |否  <br/>|否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |是  <br/> |是  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |
-|使用 Windows Server AD RMS 的 Information Rights Management  <br/> |是<sup>3</sup> <br/> |是  <br/> |是 <br/>| 是<sup>3</sup> <br/>|是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |
+|使用 Azure 資訊保護的資訊版權管理  <br/> |否  <br/> |否  <br/> |否  <br/>|否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |是  <br/> |是  <br/> |否<sup>2</sup> <br/> |是 <br/> |
+|使用 Windows Server AD RMS 的資訊版權管理  <br/> |是<sup>3</sup> <br/> |是  <br/> |是 <br/>| 是<sup>3</sup> <br/>|是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |
 |Office 增益集、ActiveX 與 BHO 支援  <br/> |是  <br/> |是  <br/> |[是]<sup>+++<sup> <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是 <br/> |
 |SharePoint Server、SharePoint Online、商務用 OneDrive 和 Office 365 上筆記本的 OneNote 用戶端存取  <br/> |是  <br/> |是  <br/> |[是]<sup>++</sup> <br/> |是 <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/>|是  <br/> |否  <br/> |是 <br/> |
 |Office 遙測  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否 <br/> |
@@ -169,7 +169,7 @@ Office 應用程式有 32 位元和 64 位元版本可供使用。
 |智慧查閱 | 否 | 否 | 否 |
 |Office 聲音 （部分） | 否 | 否 | 否 |
 |3D 模型和 3D 內嵌動畫 | 否 | 否 | 否 |
-圖表： 對應 | 否 | 否 | 否 |
+|圖表： 對應 | 否 | 否 | 否 |
 |智慧型數位筆跡 | 否 | 否 | 否 |
 |在 PowerPoint 中即時標題 & 字幕 | 否 | 否 | 否 |
 |簡報者指導 | 否 | 否 | 否 |
@@ -179,6 +179,7 @@ Office 應用程式有 32 位元和 64 位元版本可供使用。
 |Office 365 群組 | 否 | 否 | 否 |
 |即時共同作業平台服務、 一般共同撰寫 （中的文件聊天室） | 否 | 否 | 否 |
 |聽寫 | 否<sup>1</sup> | 否<sup>1</sup> | 否<sup>1</sup> |
+|重複使用的投影片 | 否 | 否 | 否 |
 |政府定域機組中的**Microsoft 白板**只有目前在中樞用戶端，而不是在桌面。 | 是<sup>2</sup> | 是<sup>2</sup> | 是<sup>2</sup> |
 |插入自黏便箋、 文字和影像 |是<sup>2</sup> |是<sup>2</sup> |是<sup>2</sup> |
 |筆跡圖形和筆跡成表格 |是<sup>2</sup> |是<sup>2</sup> |是<sup>2</sup> |
