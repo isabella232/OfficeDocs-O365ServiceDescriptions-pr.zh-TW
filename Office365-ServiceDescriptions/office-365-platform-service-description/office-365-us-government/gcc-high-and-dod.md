@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 若要特殊且不斷變化的需求的美國國防部，以及承包商保留或處理 DoD 控制的未分類的資訊 (CUI) 或受到國際流量中武器法規 (ITAR)，Microsoft 提供了GCC 高和 DoD 環境。 可透過大量授權提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 這次恕不提供試用版。
-ms.openlocfilehash: 4d539df25546255feae5d33369b678833b2d967f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e98f95ea51a402bd31ddf59a49d2bf77a931eb4a
+ms.sourcegitcommit: 462c41ef3d98c4e1ad8f0bec26c4a212650175ad
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262544"
+ms.lasthandoff: 12/13/2019
+ms.locfileid: "40003958"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC 高和 DoD
 
@@ -98,8 +98,15 @@ GCC 高和 DoD 環境中的 office 365 訂閱包含核心 Exchange Online、 Sha
   
 ### <a name="skype-for-business-online"></a>商務用 Skype Online
 
- **PSTN 通話&amp;PSTN 會議**-由於使用公用交換電話網路 (PSTN) 電話語音導向的服務，PSTN 通話需求&amp;PSTN 會議服務都目前無法使用 GCC 高和 DoD 中。 
-  
+ **PSTN 通話&amp;PSTN 會議**-由於使用公用交換電話網路 (PSTN) 電話語音導向的服務，PSTN 通話需求&amp;PSTN 會議服務都目前無法使用 GCC 高和 DoD 中。
+
+### <a name="microsoft-teams"></a>Microsoft Teams
+
+**電話系統和音訊會議 （透過直接路由）**： 透過直接路由傳送郵件會傳遞電話系統和音訊會議 GCC 高和 DoD 環境。 如需詳細資訊，請參閱服務層級文件這裡：
+
+- [透過直接路由傳送的電話系統](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
+- [音訊會議與直接路由 GCC 高和 DoD](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
+
 ### <a name="identity"></a>身分識別
 
 由於使用了多重要素驗證的同盟識別身分模型，因此可支援 PIV 和 CAC 卡的使用。
