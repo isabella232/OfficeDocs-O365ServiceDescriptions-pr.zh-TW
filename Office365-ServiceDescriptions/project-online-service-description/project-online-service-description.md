@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是適用於專案組合管理 (PPM) 和日常工作彈性線上解決方案。 Project Online 是透過 Office 365 所交付，提供功能強大的專案管理功能，以規劃、設定優先順序以及管理專案和專案組合投資 (幾乎可以從任何位置在任何裝置上使用)。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: 4a5d95c24fb67012ace390a79fa32ea26543907b
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f1e1818a98dbd8bff69e7ff1b7e566876af941a0
+ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263417"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40614822"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -28,7 +28,7 @@ ms.locfileid: "39263417"
 Microsoft Project 提供可協助符合您的組織需求的專案和工作管理下列應用程式：
 
 - Web 專案
-- Microsoft Project Online 
+- Project Online 
 - Project Online 桌面用戶端
 
 本文可協助您了解哪些應用程式所提供每個專案訂閱以及每個應用程式提供的功能。
@@ -41,7 +41,7 @@ Microsoft Power 平台上建置的 web 專案。 電源平台是由 PowerApps、
 
 Project web 是可透過三個訂用帳戶： 專案計劃 1、 專案計劃 3 和專案計劃 5。 [專案網站功能](#project-for-the-web-features)] 區段中列出的功能僅互動 web 資料存放區的專案中的資料。
 
-### <a name="project-online"></a>Microsoft Project Online
+### <a name="project-online"></a>Project Online
  
 Project Online 是適用於專案組合管理 (PPM) 和日常工作彈性線上解決方案。 Project Online 提供功能強大的專案管理功能，以規劃、 設定優先順序，以及管理專案和專案組合投資&mdash;從幾乎任何地方幾乎任何裝置上。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
 
@@ -81,7 +81,7 @@ Microsoft Project 可透過三種不同的訂閱，以符合組織的需求。 �
 |產品 | 方案 1 | 計劃 3 | 規劃 5 |
 |--------|-----------------------------|------------------------|------------------------|
 |Web 專案 |**x**  | **x** | **x** |
-|Microsoft Project Online | |**x**| **x x** |
+|Project Online | |**x**| **x x** |
 |Project Online 桌面用戶端 | |**x**|**x**|
 
 在上述表格中，檢查 (**x**) 的數目會指出計劃所提供的功能的一般層級。 例如，對於 Project Online，規劃 5 提供更多的功能則方案 3。
@@ -246,6 +246,11 @@ Microsoft Teams 整合 | 在 Microsoft Teams 中的專案上共同作業。<sup>
 |Excel 匯入/匯出 | 從 Excel 檔案建立新專案，或建立現有專案的 Excel 檔案。 |
 
 ## <a name="service-considerations"></a>服務的注意事項
+
+> [!NOTE]
+> - 法國和南韓&ndash;Project web 是目前無法使用。 我們正在傳遞至您區域的 web 專案，並會通知您的通訊通道透過其可用性下列指示。
+> - 教育版&ndash;Project 的網站即將推出教育版客戶。 確切的時間範圍暫止。
+> - GCC，GCC High DoD&ndash;目前，Project web 是 GCC、 GCC 高和 DoD 無法使用。 我們正在將 Project web 傳遞給您，但目前無法共用公司的時間範圍結束時。
 
 ### <a name="licensing-considerations"></a>授權考量
 
