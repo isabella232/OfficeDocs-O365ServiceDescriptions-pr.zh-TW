@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 下列各節說明 Microsoft Exchange Online Archiving 的封存功能。
-ms.openlocfilehash: 9cf2084f947e20f02c40c1bd5e7485d10bcb6416
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: aa3a43a0af668f84adaf14c69ad5b38d7c5cb1eb
+ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260498"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40987575"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online 封存中的封存功能
 
@@ -33,7 +33,7 @@ Exchange Online Archiving 以封存信箱功能的形式，為使用者提供進
   
 > [!IMPORTANT]
 >  禁止透過日誌記錄、傳輸規則或自動轉寄規則，將郵件複製到 Exchange Online Archiving信箱中進行封存。 <br/>
->  使用者的封存信箱僅供該使用者使用。 Microsoft 保留在使用者封存信箱中用來儲存其他使用者之封存資料的執行個體中拒絕不受限封存的權限。 
+>  使用者的封存信箱僅供該使用者使用。 Microsoft 保留拒絕使用者的封存信箱用於儲存其他使用者的封存資料的執行個體中或在另一些情況的不當使用無限制封存的權限。
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>將郵件移至 Exchange Online 封存
 
