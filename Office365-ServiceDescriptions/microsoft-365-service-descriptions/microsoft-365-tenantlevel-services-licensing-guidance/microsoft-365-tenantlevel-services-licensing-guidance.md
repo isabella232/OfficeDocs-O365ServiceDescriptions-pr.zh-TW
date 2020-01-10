@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 租用戶層級服務的授權指導方針，以協助避免由於未授權的存取造成潛在的服務中斷。
-ms.openlocfilehash: b0ff01a92ed1d3c3a5284fd3eba45241a65c0a6a
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
-ms.translationtype: HT
+ms.openlocfilehash: c0d02c56241a000b48306619b3e96b0ef97a33ee
+ms.sourcegitcommit: 262c4a84be6c09ce5e56495506a1e599159efcdc
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890477"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "41000863"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 租用戶層級服務授權指導方針
 
@@ -39,7 +39,7 @@ Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，AADIP 功能會在租用戶層級針對租用戶內的所有使用者啟用。 如需設定 AADIP 的相關資訊，請參閱[啟用 Azure Active Directory Identity Protection](https://docs.microsoft.com/azure/active-directory/identity-protection/enable)。
+根據預設，AADIP 功能會在租用戶層級針對租用戶內的所有使用者啟用。 如需 AADIP 資訊，請參閱[什麼是 Azure Active Directory 身分識別保護？](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
@@ -362,7 +362,6 @@ Office 365 E3/A3/G3、Microsoft 365 E3/A3/G3 和 Azure 資訊保護方案 1 的�
 
 系統管理員應僅將 Office 365 郵件加密的郵件流程規則套用至授權使用者。 如需定義郵件流程規則的詳細資訊，請參閱[定義郵件流規則以加密 Office 365 中的電子郵件](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)。
 
-
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 進階郵件加密
 
 進階郵件加密可協助客戶滿足需要對外部收件者更靈活控制，以及其對加密電子郵件存取的合規性義務。 有了進階郵件加密，系統管理員可以使用能偵測敏感性資訊類型的自動原則 (例如，個人識別資訊或是財務或健康身分編號) 控制在組織外部共用的敏感性電子郵件，或者他們可以透過安全網頁入口網站對加密的電子郵件套用自訂電子郵件範本和會到期的存取，以使用關鍵字來加強保護。 此外，系統管理員可隨時撤銷存取，進一步控制透過安全網頁入口網站存取的加密電子郵件。
@@ -402,3 +401,23 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
 系統管理員會選擇要包含在監管原則的特定使用者或群組。 選擇群組時，他們也可以選取群組中的特定使用者，以從監管原則中排除。 如需監管原則的詳細資訊，請參閱 [Office 365 中的監督原則](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies)。
+
+## <a name="conditional-access-policies"></a>條件式存取原則
+
+條件式存取是由 Azure Active Directory，以在一起訊號，做出決策，並強制執行組織的原則的工具。 條件式存取位於導向控制項平面底板的身分識別的核心。 在其最簡單的條件式存取原則是如果 then 陳述式。 如果使用者想要存取資源，他們必須完成動作。 範例： 薪資管理員想要存取的薪資應用程式，也不需要執行對其進行存取的多重要素驗證。
+
+### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
+
+企業行動力 + 安全性 E3/A3/G3、 Microsoft 365 F1/E3/A3/G3 和 Azure Active Directory 進階版方案 1 的授權的使用者可以受益於條件式存取原則。 取得授權的使用者的 Enterprise Mobility + Security E5/A5/G5、 Microsoft 365 E5/A5/G5、 Microsoft E5 安全性和 Azure Active Directory 進階版計劃 2 有益 Identity Protection （風險型條件式存取原則）。
+
+### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
+
+安全性作業分析師和安全性專業人員特地列出的可讓您以強制執行組織的原則，在 [使用者] 需要它們之前授與存取權公司的內容符合特定準則。 使用者特地列出由可供選擇，同時保護公司資產時，隨時隨地存取他們的工作。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
+
+根據預設，在租用戶中的所有使用者的租用戶層級啟用條件式存取功能。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
+
+身分識別保護和條件式存取具體而言，使用者必須包含在群組或加入至條件式存取原則。 使用者和群組的條件是必要欄位中的條件式存取原則。 在您的原則，您可以選取**所有的使用者**或特定使用者和群組。 您應選取 [只有適當授權的使用者和群組。 如需詳細資訊，請參閱[什麼是 Azure Active Directory 條件式存取中的條件？](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions)。
