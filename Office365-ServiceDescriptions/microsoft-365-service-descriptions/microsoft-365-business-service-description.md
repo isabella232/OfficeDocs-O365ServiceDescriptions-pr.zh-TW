@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務版是將同時適合-生產力的 Office 365 進階安全性與裝置管理功能，協助保護您的業務與整合式的解決方案。 此服務描述中說明的計劃選項和功能。
-ms.openlocfilehash: 9cdc5b8bc366b5f646aff6866b19dd63a3de8daa
-ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
+ms.openlocfilehash: 3ef3e018d8768fe63239a83c9aeb20d0b4fb3098
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810802"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216632"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務描述
 
@@ -39,7 +39,7 @@ Microsoft 365 商務版包含下列 Azure AD Premium P1 功能： 自助密碼�
 |[Office 應用程式](../office-applications-service-description/office-applications-service-description.md)  <br/> |是  <br/> |是  <br/> |
 |Yammer Enterprise  <br/> |是  <br/> |是  <br/> |
 |Microsoft Bookings  <br/> |是  <br/> |是  <br/> |
-|Microsoft Flow  <br/> |是  <br/> |是  <br/> |
+|Microsoft Power 自動化  <br/> |是  <br/> |是  <br/> |
 |Microsoft Forms  <br/> |是  <br/> |是  <br/> |
 |Microsoft Planner  <br/> |是  <br/> |是  <br/> |
 |Microsoft PowerApps  <br/> |是  <br/> |是  <br/> |
@@ -62,7 +62,7 @@ Microsoft 365 商務版包含下列 Azure AD Premium P1 功能： 自助密碼�
 |Office 365 進階的威脅保護計劃 1 <br/> |否  <br/> |是<sup>7</sup> <br/> |
 |安全分數<sup>4</sup> <br/> |是  <br/> |是  <br/> |
 |Office 365 進階威脅防護方案 2 <br/> |否  <br/> |否 <br/> |
-|[身分識別和存取管理](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Microsoft 365 商務版包含選取 Azure AD Premium P1 (AADP P1) 功能。 不會納入 AADP1 的全部內容。<sup>8</sup> <br/>|**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |**企業行動力 + 安全性版 E3** <br/> |
+|[身分識別與存取管理](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Microsoft 365 商務版包含選取 Azure AD Premium P1 (AADP P1) 功能。 不會納入 AADP1 的全部內容。<sup>8</sup> <br/>|**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |**企業行動力 + 安全性版 E3** <br/> |
 |Azure Multi-Factor Authentication (MFA)  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |系統管理單位  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |雲端應用程式探索  <br/> |否  <br/> |否  <br/> |是  <br/> |

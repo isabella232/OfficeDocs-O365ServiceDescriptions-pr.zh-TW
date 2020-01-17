@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如果您想要知道 Office 365 和 Microsoft 365 教育版方案有何差異，本文將說明各方案中包含的功能。
-ms.openlocfilehash: 2a6413f2dff6255b10cb11cf596f05303ca358f2
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 356d8e35d4872d50a4de1baf89b11b412ead6fdd
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263024"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216532"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -92,7 +92,7 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 |SharePoint<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
 |商務用 Skype<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
 |Windows Server CAL  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|System Center Configuration Manager  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Microsoft 端點 Configuration Manager  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |System Center Endpoint Protection  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]

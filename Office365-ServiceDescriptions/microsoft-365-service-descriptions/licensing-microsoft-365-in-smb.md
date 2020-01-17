@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商務版是小型和中型企業客戶的 Microsoft 最佳中類別供應項目。 Microsoft 365 商務版是整合式的解決方案，聚集所有同等級進階安全性和裝置管理的 Office 365 生產力。
-ms.openlocfilehash: ea6c46c83d00db1bebe17b8dbeae0ea7457d115b
-ms.sourcegitcommit: 28be53d2579d91cd76b9f047f13a309a3c0b9dd4
+ms.openlocfilehash: 70e649c0aa66390e3e84da2ff517bfef9a5dbc8f
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38755471"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216462"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>中小型企業的 Microsoft 365 授權
 
@@ -31,7 +31,7 @@ Microsoft 365 商務版是小型和中型企業 (SMB) 的客戶 Microsoft 最佳
 |**電子郵件 & 行事曆** | Outlook、 Exchange Online| 50 GB | 50 GB |
 |**中樞團隊合作** | 交談形式的工作區、 線上會議，以及更多在 Microsoft Teams | 是 |是 |
 |**檔案存放區** | 商務用 OneDrive  | 每個使用者 1 TB | 每個使用者 1 TB |
-|**社交視訊，網站** | 資料流、 Yammer、 規劃、 SharePoint Online、 PowerApps、 Microsoft Flow | 是 | 是 |
+|**社交視訊，網站** | 資料流、 Yammer、 規劃、 SharePoint Online、 PowerApps、 電源自動化 | 是 | 是 |
 |**商務應用程式** | 排程應用程式&ndash;Bookings<sup>1</sup> | 是 | 是 |
 |   | 商務應用程式&ndash;MileIQ<sup>1</sup> | 是 | 是 |
 |**威脅防護** | Office 365 進階威脅防護 | 否 | 是 |
@@ -62,7 +62,7 @@ Microsoft 365 商務版是小型和中型企業 (SMB) 的客戶 Microsoft 最佳
 |**電子郵件 & 行事曆** | Outlook、 Exchange Online | 100 GB | 50 GB |
 |**中樞團隊合作** | 交談形式的工作區、 線上會議，以及更多在 Microsoft Teams | 是 | 是 |
 |**檔案存放區** | 商務用 OneDrive | 無限制 | 每個使用者 1 TB |
-|**社交視訊，網站** | 資料流、 Yammer、 規劃、 SharePoint Online<sup>1</sup>、 PowerApps<sup>1</sup>、 Microsoft Flow<sup>1</sup> | 是 | 是 |
+|**社交視訊，網站** | 資料流、 Yammer、 規劃、 SharePoint Online<sup>1</sup>、 PowerApps<sup>1</sup>、 電源自動化<sup>1</sup> | 是 | 是 |
 |**商務應用程式** | 排程應用程式&ndash;Bookings<sup>2</sup> | 是 | 是 |
 |   | 商務應用程式&ndash;MileIQ<sup>2</sup> | 否 | 是 |
 |**威脅防護** | Office 365 進階威脅防護 | 否 | 是 |
@@ -95,7 +95,7 @@ Microsoft 365 商務版是小型和中型企業 (SMB) 的客戶 Microsoft 最佳
 |**電子郵件 & 行事曆** | Outlook、 Exchange Online  | 50 GB | 50 GB | 100 GB |
 |**中樞團隊合作** | 交談形式的工作區、 線上會議，以及更多在 Microsoft Teams | 是 | 是 | 是 |
 |**檔案存放區** | 商務用 OneDrive | 每個使用者 1 TB | 每個使用者 1 TB | 無限制 |
-|**社交視訊，網站** | 資料流、 Yammer、 規劃、 SharePoint Online<sup>1</sup>、 PowerApps<sup>1</sup>、 Microsoft Flow<sup>1</sup> | 是 | 是 | 是 |
+|**社交視訊，網站** | 資料流、 Yammer、 規劃、 SharePoint Online<sup>1</sup>、 PowerApps<sup>1</sup>、 電源自動化<sup>1</sup> | 是 | 是 | 是 |
 |**商務應用程式** | 排程應用程式&ndash;Bookings<sup>2</sup> | 是 | 是 | 是 |
 |   | 商務應用程式&ndash;MileIQ<sup>2</sup> | 是 | 是 | 否 |
 |**威脅防護** | Office 365 進階威脅防護 | 否 | 是 | 否 |
@@ -129,7 +129,7 @@ Microsoft 365 商務版是小型和中型企業 (SMB) 的客戶 Microsoft 最佳
 |**中樞團隊合作** | 交談形式的工作區、 線上會議，以及更多在 Microsoft Teams | 是 | 是 | 是 | 是 |
 |**檔案存放區** | 商務用 OneDrive | 每個使用者 1 TB | 每個使用者 1 TB | 無限制 | 無限制 |
 |**社交視訊，網站** | Yammer，SharePoint Online 規劃 | 是 | 是 | 是 | 是 |
-|   | 串流 | | 是 | 是 | 是 |
+|   | Stream | | 是 | 是 | 是 |
 |**商務應用程式** | 排程應用程式&ndash;Bookings<sup>1</sup> | 是 | 是 | 是 | 是 |
 |   | 商務應用程式&ndash;MileIQ<sup>1</sup> | 是 | 是 | 否 | 否 |
 |**威脅防護** | Microsoft Advanced Threat Analytics、 裝置 Guard、 Credential Guard、 AppLocker、 企業資料保護 | 否 | 否 | 是 | 是 |
@@ -144,7 +144,7 @@ Microsoft 365 商務版是小型和中型企業 (SMB) 的客戶 Microsoft 最佳
 |   | Microsoft 桌面最佳化組件 VDA | 否 | 否 | 是 | 是 |
 | **資訊保護** | Office 365 資料外洩防護，Azure 資訊保護方案 1 | 否 | 是 | 是 | 是 |
 |   | Azure 資訊保護計劃 2、 Microsoft Cloud App Security，Office 365 雲端 App 安全性 | 否 | 否 | 否 | 是 |
-|**在內部 CAL 權限** | ECAL 套件 （Exchange、 SharePoint、 Skype、 Windows、 SCCM、 Windows Rights Management） | 否 | 否 | 是 | 是 |
+|**在內部 CAL 權限** | ECAL 套件 （Exchange、 SharePoint、 Skype、 Windows、 Microsoft 端點 Configuration Manager、 Windows Rights Management） | 否 | 否 | 是 | 是 |
 |**合規性** | 無限制的電子郵件封存<sup>2</sup> | 否 | 是 | 是 | 是 |
 |   | 進階電子文件探索、客戶加密箱、進階資料控管 | 否 | 否 | 否 | 是 |
 |**Analytics** | Power BI Pro、MyAnalytics | 否 | 否 | 否 | 是 |

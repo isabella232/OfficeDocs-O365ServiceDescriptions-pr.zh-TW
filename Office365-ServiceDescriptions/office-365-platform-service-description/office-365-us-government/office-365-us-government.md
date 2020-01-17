@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 回應美國公共部門特殊且不斷變化需求，Microsoft 已建立 Office 365 US Government 計劃 （或 Office 365 政府版）。 本節提供 Office 365 政府美國環境特有的功能的概觀。 我們建議您先閱讀本補充章節配合 Office 365 服務說明。
-ms.openlocfilehash: d305fa31fa63d24b0f42f91f2f82085b0ea375eb
-ms.sourcegitcommit: e80ced3148cb7d281d7270f36380578a8dc21f42
+ms.openlocfilehash: be73b616012d37c2bd58df63587201675962ae11
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40884328"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216738"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -182,8 +182,8 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |**[Office 365 套件功能](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府版 F1** <br/> |
 |Microsoft Bookings  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft 簡報電子郵件  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Microsoft Flow  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
-|Microsoft Forms  <br/> |是 <br/> |是 <br/> |是<br/> |[是]</sup> <br/> |
+|Microsoft Power 自動化  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
+|Microsoft Forms  <br/> |是 <br/> |是 <br/> |是<br/> |是</sup> <br/> |
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft MyAnalytics  <br/> |否 <br/> |否 <br/> |Yes<sup>17</sup> <br/> |否 <br/> |
 |Microsoft Planner  <br/> |是 <br/> |是 <br/> |是 <br/> |是 <br/> |
@@ -328,10 +328,10 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[商務用 Skype](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |是<sup>3</sup> <br/> |是  <br/> |是  <br/> |是<sup>3</sup> <br/> |
 |[Office 365 的 Mac 版 Office](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57) <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是  <br/> |[是]<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
-|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |是  <br/> |[是]<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
+|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
+|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |是  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
 |[Office Mobile for Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |是  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是  <br/> |
-|Office Mobile for Windows 10 tablets <br/> |是  <br/> |[是]<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
+|Office Mobile for Windows 10 tablets <br/> |是  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
 |Outlook for iOS 和 Android<sup>5、 4</sup>  <br/> |是 <br/> |是 <br/> |是 <br/> |是 <br/> |
 |**企業價值** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府版 F1** <br/> |
 |每個使用者可同時在 5 部 PC 或 Mac 上安裝  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
@@ -359,7 +359,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |Power Pivot for Excel  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |Excel 的 Power Query  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |Power View for Excel  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
-|漫遊設定  <br/> |否  <br/> |[是]<sup></sup> <br/> |是<sup></sup> <br/> |否  <br/> |
+|漫遊設定  <br/> |否  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |否  <br/> |
 |共用電腦啟用  <br/> |否  <br/> |是 <br/> |是 <br/> |否  <br/> |
 |支援對雲端架構檔案儲存進行封鎖  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |版本升級  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是適用於專案組合管理 (PPM) 和日常工作彈性線上解決方案。 Project Online 是透過 Office 365 所交付，提供功能強大的專案管理功能，以規劃、設定優先順序以及管理專案和專案組合投資 (幾乎可以從任何位置在任何裝置上使用)。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: f1e1818a98dbd8bff69e7ff1b7e566876af941a0
-ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
+ms.openlocfilehash: 13c4432f63ed1f73c6ce617ddd436bdb5c0cfab4
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40614822"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216662"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -27,17 +27,17 @@ ms.locfileid: "40614822"
 
 Microsoft Project 提供可協助符合您的組織需求的專案和工作管理下列應用程式：
 
-- Web 專案
+- Project 網頁版
 - Project Online 
 - Project Online 桌面用戶端
 
 本文可協助您了解哪些應用程式所提供每個專案訂閱以及每個應用程式提供的功能。
 
-### <a name="project-for-the-web"></a>Web 專案
+### <a name="project-for-the-web"></a>Project 網頁版
 
 網頁的專案是 Microsoft 最新的雲端型的工作和專案管理提供。 Web 專案所提供的簡單、 強大的工作管理功能，以符合大部分的需求和角色。 專案經理與小組成員可以使用 web 的專案計劃及管理任何大小的工作。
 
-Microsoft Power 平台上建置的 web 專案。 電源平台是由 PowerApps、 Microsoft Flow、 Power BI 和一般資料服務 (CD) 所組成。 專案 web 資料會儲存在 CD。 
+Microsoft Power 平台上建置的 web 專案。 電源平台是由 PowerApps、 電源自動化、 Power BI 及通用資料服務 (CD) 所組成。 專案 web 資料會儲存在 CD。 
 
 Project web 是可透過三個訂用帳戶： 專案計劃 1、 專案計劃 3 和專案計劃 5。 [專案網站功能](#project-for-the-web-features)] 區段中列出的功能僅互動 web 資料存放區的專案中的資料。
 
@@ -80,7 +80,7 @@ Microsoft Project 可透過三種不同的訂閱，以符合組織的需求。 �
 
 |產品 | 方案 1 | 計劃 3 | 規劃 5 |
 |--------|-----------------------------|------------------------|------------------------|
-|Web 專案 |**x**  | **x** | **x** |
+|Project 網頁版 |**x**  | **x** | **x** |
 |Project Online | |**x**| **x x** |
 |Project Online 桌面用戶端 | |**x**|**x**|
 
@@ -119,7 +119,7 @@ Microsoft Project 可透過三種不同的訂閱，以符合組織的需求。 �
 |行動應用程式 | 建立自訂的行動應用程式與 PowerApps。<sup>4</sup> |
 |**自訂及整合**||
 |PowerApps | 建立和使用 web 和行動裝置與 PowerApps 的解決方案。<sup>4</sup> |
-|工作流程 | 自動化，並與 Microsoft Flow 整合的商務程序。<sup>5</sup> |
+|工作流程 | 自動化，並與 Power 自動化整合的商務程序。<sup>5</sup> |
 |Microsoft Office 365 整合 | 共同作業、 管理文件，以及更多使用熟悉的 Office 365 工具和應用程式。<sup>1</sup> |
 |**安全性及使用者管理**||
 |Office 新式群組 | 建立專案小組與共同作業並輕鬆地設定適用於小組成員共用資源的集合。|
@@ -180,7 +180,7 @@ Microsoft Teams 整合 | 在 Microsoft Teams 中的專案上共同作業。<sup>
 |Custom fields | 在專案、 工作及資源層級，以追蹤重要資料至您的組織和專案新增自訂欄位。 | 是 | 是 |
 |公式 | 計算並擷取使用公式跨越多個工作和專案的重要資料。 | 是 | 是 |
 |PowerApps | 建立和使用 web 和行動裝置 （透過 OData) 與 PowerApps 的解決方案。<sup>4</sup> | 是 | 是 |
-|工作流程 | 自動化，並與 Microsoft Flow 整合 （透過 OData) 的商務程序。<sup>5</sup> | 是 | 是 |
+|工作流程 | 自動化，並與 Power 自動化整合 （透過 OData) 的商務程序。<sup>5</sup> | 是 | 是 |
 |Microsoft Office 365 整合 | 共同作業、 管理文件，以及更多使用熟悉的 Office 365 工具和應用程式。<sup>1</sup> | 是 | 是 |
 |Microsoft Planner 整合 | 連線至 Planner 計劃專案工作，並追蹤詳細的規劃中的工作。<sup>1</sup> | 是 | 是 |
 |**安全性、 使用者和服務管理**||||
@@ -194,7 +194,7 @@ Microsoft Teams 整合 | 在 Microsoft Teams 中的專案上共同作業。<sup>
 <sup>2</sup> azure 面板取得分開。</br>
 <sup>3</sup>是可使用 Power BI 網頁 Project 和 Project Online 的報告。 檢視、 編輯和建立報告需要 Power BI 專業版的訂用帳戶。 Microsoft 提供一組預先建置的 Power BI 報表。 使用者可以自訂這些報告，或建立其他使用 Power BI 的報告。</br> 
 <sup>4</sup>建置自訂 PowerApps 行動應用程式存取 Project web 資料需要 PowerApps 訂閱和專案計劃 3 或專案計劃 5 訂閱。</br>
-<sup>5</sup>自動化，整合的商務程序與專案的 Microsoft Flow 網站資料需要 Microsoft Flow 訂閱和專案計劃 3 或專案計劃 5 訂閱。</br>
+<sup>5</sup>自動化及整合的商務程序與 Power 自動化 project web 資料需要 Power 自動化訂閱和專案計劃 3 或專案計劃 5 的訂閱。</br>
 <sup>6</sup> project Online 授權的外部使用者遵循為，供內部使用者相同的原則。 Project Online 網站上的任何互動需要專案計劃 3 或專案計劃 5 訂閱。</br>
 <sup>7</sup>與專案計劃 3 或專案計劃 5 訂閱的使用者可以提交資源參與要求。 他們無法檢閱、 滿足，或核准的資源參與要求。</br>
 <sup>8</sup>使用專案計劃 5 訂用帳戶的使用者可以檢閱、 滿足，並核准的資源參與要求。</br>
@@ -263,9 +263,9 @@ Microsoft Teams 整合 | 在 Microsoft Teams 中的專案上共同作業。<sup>
 
 Project Online 需要 SharePoint Online 中，這佈建 Project Online 的一部分使用。 與專案計劃 3 或專案計劃 5 的訂閱所提供的 SharePoint Online 功能的權限僅限於儲存及存取資料以支援 Project Online。
 
-### <a name="project-roadmap-and-microsoft-flow"></a>Project Roadmap 和 Microsoft Flow
+### <a name="project-roadmap-and-power-automate"></a>Project Roadmap 和電源自動化
 
-Project Roadmap 需要 Microsoft 流程，這佈建為專案訂閱的一部分使用。 Microsoft Flow 的功能權限僅限於所需的 Project Roadmap 這些 Microsoft Flow 功能。 Microsoft Flow 功能所需的 Project Roadmap 會顯示為 Microsoft 365 系統管理中心的 [**應用程式**] 區段中的**流程與專案的資料整合**服務方案。
+Project Roadmap 需要使用自動化電源，這佈建為專案訂閱的一部分。 電源自動化功能的權限僅限於所需的 Project Roadmap 這些 Power 自動化功能。 電源自動化功能所需的 Project Roadmap 會顯示為 Microsoft 365 系統管理中心的 [**應用程式**] 區段中的**流程與專案的資料整合**服務方案。
 
 ### <a name="project-for-the-web-and-common-data-service"></a>用於 web 與通用資料服務的專案
 
