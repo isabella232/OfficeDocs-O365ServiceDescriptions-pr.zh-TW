@@ -9,21 +9,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
-description: 回應美國公共部門特殊且不斷變化需求，Microsoft 已建立 Office 365 US Government 計劃 （或 Office 365 政府版）。 本節提供 Office 365 政府美國環境特有的功能的概觀。 我們建議您先閱讀本補充章節配合 Office 365 服務說明。
-ms.openlocfilehash: be73b616012d37c2bd58df63587201675962ae11
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+description: 回應美國公共部門特殊且不斷變化需求，Microsoft 已建立 Office 365 US Government 計劃 （或 Office 365 政府版）。 本文提供 Office 365 政府美國環境特有的功能的概觀。
+ms.openlocfilehash: 7fdf83fc7cd4ededf28826861ef0202aca6185bf
+ms.sourcegitcommit: 66e0fa8f265fe5cdb0d94c340fef5cb5431fc600
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216738"
+ms.lasthandoff: 01/18/2020
+ms.locfileid: "41233356"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
 回應美國公共部門特殊且不斷變化需求，Microsoft 已建立 Office 365 US Government 計劃 （或 Office 365 政府版）。 本節提供 Office 365 政府美國環境特有的功能的概觀。 我們建議您先閱讀本補充章節配合[Office 365 服務說明](../../office-365-service-descriptions-technet-library.md)。
   
-## <a name="how-to-use-this-service-description-section"></a>如何使用此「服務說明」一節
+## <a name="how-to-use-this-service-description"></a>如何使用此服務描述
 
-Office 365 US Government 服務說明的設計目的在於與一般 Office 365 服務說明之間互相對照，定義了與 Office 365 企業版產品之間特色和差異的比較。
+Office 365 US Government 服務描述被設計來做為一般的 Office 365 服務描述重疊。 它會定義唯一的承諾和差異相較於 Office 365 企業版供應項目。
   
 ## <a name="about-office-365-us-government-environments"></a>關於 Office 365 US Government 環境
 
@@ -42,8 +42,6 @@ Office 365 US Government 方案為每月訂閱，並且可授權給不限數量�
 - 只有經過篩選的 Microsoft 人員可以存取組織的客戶內容。
     
 - Office 365 US Government 符合美國公共部門客戶所要求的認證和資格鑑定。
-    
-[如何使用此服務描述 」 一節](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="customer-eligibility"></a>客戶資格
 
@@ -54,8 +52,6 @@ Office 365 US Government 的可 （1） 美國聯邦，狀態，本機、 部落
 若有關於 Office 365 US Government 資格問題的機構應諮詢其客戶團隊。
   
 在更新客戶的 Office 365 US Government 合約時，必須重新驗證資格。
-  
-[如何使用此服務描述 」 一節](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="customer-content-located-within-the-united-states"></a>美國境內的客戶內容
 
@@ -74,13 +70,9 @@ Office 365 US Government 服務是由美國境內的實體資料中心所提供�
   
 2.0 和設定原則，以協助確保您的使用者如果您的使用者是位在美國境內的網頁 （先前稱為 Office Web Apps） 使用 Office 時，或採用的 Active Directory Federation Services (AD FS) 使用連線至透過單一 si 服務1&sd 入暫時快取 Office 中網頁的任何客戶內容會位於美國境內的
   
-[如何使用此服務描述 」 一節](office-365-us-government.md#how-to-use-this-service-description-section)
-  
 ## <a name="office-365-us-government-and-third-party-services"></a>Office 365 US Government 與協力廠商服務
 
 Office 365 可將協力廠商的應用程式整合至 SharePoint Online 站台、商務用 Skype、Office 365 ProPlus 中的 Office 應用程式 (如 Word、Excel、PowerPoint 和 Outlook) 以及 Outlook Web App。此外，Office 365 還支援與服務提供者協力廠商整合。這些協力廠商應用程式和服務可能會在 Office 365 基礎結構外的協力廠商系統上儲存、傳輸和處理組織的客戶資料，因此不在 Office 365 規範和資料保護承諾的保證範圍內。建議您檢閱協力廠商提供的隱私權和規範聲明，來評估適合組織的服務使用方式。
-  
-[如何使用此服務描述 」 一節](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="restricted-data-access-by-administrators"></a>受限制的系統管理員資料存取
 
@@ -96,45 +88,38 @@ Office 365<sup>1</sup>FastTrack Center 權益，您可以使用遠端與 FastTra
 - 核心上架-這些是視租用戶組態和與 Azure Active Directory (Azure AD) 整合所需的工作。 核心上架也能成為將其他合格之服務上架的基準。
     
 - 服務上架和移轉-服務上架工作會啟用租用戶中的案例。 [資料移轉](https://aka.ms/whatcanmigrate)中涵蓋資料移轉 （包括電子郵件和檔案）。<sup>2</sup>
-    
-使用者採用服務由數項工作所組成，提供您指引以確保您的使用者知道適合的服務，並用來促進商業價值。
+
+使用者採用服務是由提供的指引，以確保您的使用者知道合格的服務，可以利用這些磁碟機商業價值的工作所組成。 上架活動的同時，就會發生此尋求協助。
   
 FastTrack Center 程序上的特定資訊，請參閱[以下](https://aka.ms/whatistheprocess)。 如參與角色和責任的明細，請參閱[FastTrack 責任](https://aka.ms/whatdoesftcdo)，以及[您的責任](https://aka.ms/whatdowedo)。
   
-<sup>1</sup>您必須購買至少 50 個授權，從清單中的[合格方案](https://aka.ms/whocanbenefit)收到 FastTrack 服務 
-  
-<sup>2</sup>資料移轉服務可用於 Office 365 租用戶 500 個以上的授權。 
+> <sup>1</sup>您必須購買至少 50 個授權從收到 FastTrack 服務[合格方案](https://aka.ms/whocanbenefit)清單。
+<br/><sup>2</sup>資料移轉服務可用於 Office 365 租用戶 500 個以上的授權。
   
 ## <a name="data-migrations-performed-by-fasttrack"></a>FastTrack 所執行的資料移轉
 
-選擇 [ [FastTrack](https://fasttrack.microsoft.com/)移轉優惠的客戶必須授與存取管理其資料移轉小組。 這些人員美國公民且經過下列背景檢查前的客戶的 Office 365 US Government 服務執行移轉。 
+選擇 [ [FastTrack](https://fasttrack.microsoft.com/)移轉優惠的客戶必須授與存取管理其資料移轉小組。 這些人員美國公民且經過下列背景檢查前的客戶的 Office 365 US Government 服務執行移轉。
   
 ||||
 |:-----|:-----|:-----|
 |**背景檢測** <br/> |**GCC** <br/> |**GCC High 和 DoD** <br/> |
-|美國公民權驗證  <br/> |是  <br/> |是  <br/> |
+|美國公民權  <br/> |是  <br/> |是  <br/> |
 |工作經驗檢查  <br/> |是  <br/> |是  <br/> |
 |教育驗證  <br/> |是  <br/> |是  <br/> |
 |社會安全號碼 (SSN) 搜尋  <br/> |是  <br/> |是  <br/> |
-|刑事案件記錄檢查 (7 年)  <br/> |是  <br/> |是  <br/> |
-   
-[如何使用此服務描述 」 一節](office-365-us-government.md#how-to-use-this-service-description-section)
-  
+|刑事案件記錄檢查 （7 年）  <br/> |是  <br/> |是  <br/> |
+     
 ## <a name="office-365-us-government-and-azure-government-expressroute"></a>Office 365 US Government 和 Azure 政府版 Express Route
 
 Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務私下連線到支援的 Office 365 服務，而不透過公用的網際網路連線。
   
-如需了解支援提供者、價格模型及相關資訊的詳細資料，請檢閱 [Azure ExpressRoute 資訊](https://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409)。
+如需詳細資訊，例如支援提供者、 價格模型及詳細資訊，請檢閱[Azure ExpressRoute 資訊](https://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409)。
   
-如需 Office 365 Azure ExpressRoute 支援的詳細資訊，請參閱 [Azure ExpressRoute for Office 365](https://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409)。
-  
-[如何使用此服務描述 」 一節](office-365-us-government.md#how-to-use-this-service-description-section)
+如需 Office 365 Azure ExpressRoute 支援的詳細資訊，請參閱[Azure ExpressRoute for Office 365](https://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409)
   
 ## <a name="system-requirements"></a>系統需求
 
 如需適用於 Office 365 US Government 方案的系統需求，請參閱 [office.com](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 產品網站上的 [Office 的系統需求](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)。 
-  
-[如何使用此服務描述 」 一節](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="security-amp-compliance-center"></a>安全性&amp;合規性中心
 
@@ -154,7 +139,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |SharePoint Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |商務用 OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Skype for Business (Instant Messaging &amp; Presence)  <br/> |是<sup>1</sup> <br/> |是  <br/> |是  <br/> |是<sup>1</sup> <br/> |
-| 語音-電話系統、 音訊會議  <br/> |否<sup>2, 3</sup> <br/> |否<sup>2, 3</sup> <br/> |是<sup>3，5</sup> <br/> |否  <br/> |
+| 語音-電話系統、 音訊會議  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |是 <sup>5</sup> <br/> |否  <br/> |
 |Power BI Pro  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |是  <br/> |否<sup>2</sup> <br/> |
 |Project Online  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |
 |Visio 網頁版  <br/> |否<sup>6</sup> <br/> |否<sup>6</sup> <br/> |否<sup>6</sup> <br/> |否<sup>6</sup> <br/> |
@@ -307,8 +292,6 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 <br/><sup>18</sup>反網路釣魚的使用者和網域模擬和詐騙智慧尚無法使用 GCC 高和 DoD 中。
 <br/><sup>19</sup>尚無法使用 GCC 環境中，但即將推出。
   
-[如何使用此服務描述 」 一節](office-365-us-government.md#how-to-use-this-service-description-section)
-  
 ## <a name="office-application-availability-and-enterprise-value"></a>Office 應用程式的可用性和企業值
 
 下表顯示可用於 Office 365 US Government 方案的 Office 應用程式功能。
@@ -372,7 +355,6 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 <br/><sup>5</sup>如需詳細資訊，請參閱[使用 Outlook for iOS 和 Android 中 「 政府社群雲端](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)。
 <br/><sup>6</sup>尚未不適用於 Office 365 DoD 環境中，但即將推出。
 <br/><sup>7</sup>應用程式可完整使用政府雲中，但無法在此階段的特定功能。 如需詳細資訊，請參閱[Office 應用程式的功能可用性](#office-application-and-feature-availability-in-government-plans)。
-<br/><br/>[如何使用此服務描述 」 一節](office-365-us-government.md#how-to-use-this-service-description-section)
 
 ## <a name="office-application-and-feature-availability-in-government-plans"></a>政府版計劃中的 office 應用程式和功能可用性
 
@@ -456,7 +438,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |使用共同撰寫作者的內容相關式交談： 與文件內的共同撰寫作者的聊天室 | 否 <br/> | 否 <br/> | 否 <br/> |
 |聽寫 | 否<sup>1</sup> <br/> | 否<sup>1</sup> <br/> | 否<sup>1</sup> <br/> |
 
-<sup>1</sup>可用性即將推出。<br/>
+> <sup>1</sup>可用性即將推出。<br/>
 <sup>2</sup> （未登入） 的本機 Surface Hub 上的可用性。<br/>
 <sup>3</sup>應用程式不適目前 DOD 定域機組中。<br/>
-<sup>4</sup>外部共用是用於 GCC 環境。 深入了解如何[關閉或開啟 Microsoft 表單上](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure)為您的組織。 GCC 高和 DOD 環境; 的已停用外部共用您的組織內的使用者可能會執行下列動作： 完成表單，並提交回應，[複製及共用做為範本的表單](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)，[共同撰寫作者或在表單上共同作業](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)，以及[存取表單的結果](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)。<br/>
+<sup>4</sup>外部共用是用於 GCC 環境。 深入了解如何[關閉或開啟 Microsoft 表單上](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure)為您的組織。 GCC 高和 DOD 環境; 的已停用外部共用您的組織內的使用者可能會執行下列動作： 完成表單，並提交回應，[複製及共用做為範本的表單](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)，[共同撰寫作者或在表單上共同作業](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)，以及[存取表單的結果](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)。
