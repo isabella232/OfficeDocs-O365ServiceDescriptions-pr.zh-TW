@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 深入了解每個訂閱方案所提供的 OneDrive 儲存空間。
-ms.openlocfilehash: 63ab72221fa009384baad0fd7367c676d84798b5
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: ff6cc32437b15075868f9d6a5f82bfc655a399f5
+ms.sourcegitcommit: 81ba764537d6bfb99fe6f96cdbd0c0ac1534cae1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263477"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "41519184"
 ---
 # <a name="onedrive-for-business-service-description"></a>商務用 OneDrive 服務說明
 
@@ -42,7 +42,7 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
   
 ## <a name="storage-space-per-user"></a>每個使用者的儲存空間
 
-**2 GB**
+**5 GB**
 
 - Office 365 企業版 F1
 
