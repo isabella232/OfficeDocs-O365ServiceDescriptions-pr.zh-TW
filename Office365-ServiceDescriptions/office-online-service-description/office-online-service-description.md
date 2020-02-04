@@ -1,5 +1,5 @@
 ---
-title: Office web 服務說明
+title: 網頁版 Office 服務描述
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: 網頁 (先前稱為 Office Web Apps) office 會在網頁瀏覽器中開啟 Word、 Excel、 OneNote 和 PowerPoint 文件。 Office web 讓您更容易使用和共用 Office 無所不在檔案從具有網際網路連線，從幾乎任何裝置。 以 Word、 Excel、 OneNote、 或 PowerPoint 的 Microsoft Office 365 客戶可以檢視、 建立及編輯檔案隨時隨地。
-ms.openlocfilehash: b706c6e45b965768babc04c588d65b305a690fde
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
+ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263517"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711903"
 ---
-# <a name="office-for-the-web-service-description"></a>Office web 服務說明
+# <a name="office-for-the-web-service-description"></a>網頁版 Office 服務描述
 
 網頁 (先前稱為 Office Web Apps) office 會在網頁瀏覽器中開啟 Word、 Excel、 OneNote 和 PowerPoint 文件。 Office web 讓您更容易使用和共用 Office 無所不在檔案從具有網際網路連線，從幾乎任何裝置。 以 Word、 Excel、 OneNote、 或 PowerPoint 的 Microsoft Office 365 客戶可以檢視、 建立及編輯檔案隨時隨地。 
   
@@ -192,7 +192,7 @@ ms.locfileid: "39263517"
 > [!NOTE] 
 > <sup>1</sup>無法建立樞紐分析圖時，僅供檢視。
  <br/><sup>2</sup>根據您的環境的設定方式，某些類型的資料連線支援在 Excel 中顯示網頁的活頁簿。 如需詳細資訊，請參閱 在瀏覽器視窗中重新整理活頁簿的資料。 
- <br/><sup>3</sup>您無法建立巨集在 Excel 中使用 VBA 網頁，但是您可以開啟和編輯已啟用 VBA 功能的試算表，而不移除 （或損毀） 此檔案所含的 VBA。
+ <br/><sup>3</sup>無法建立或執行巨集在 Excel 中使用 VBA 網頁，但您可以開啟和編輯已啟用 VBA 功能的試算表，而不移除 （或損毀） 此檔案所含的 VBA。
  <br/><sup>4</sup>在 Excel 中的網頁，最後一個已知的參考值會顯示在瀏覽器視窗;不過，它必須更新使用 Excel 桌面應用程式。 
  <br/><sup>5</sup> 可使用部份但非全部的 Office 增益集。 
   
