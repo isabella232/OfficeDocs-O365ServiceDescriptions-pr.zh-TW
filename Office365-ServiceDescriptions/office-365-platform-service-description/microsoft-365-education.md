@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如果您想要知道 Office 365 和 Microsoft 365 教育版方案有何差異，本文將說明各方案中包含的功能。
-ms.openlocfilehash: 356d8e35d4872d50a4de1baf89b11b412ead6fdd
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: 8cae1e6407ff99472d039872b82c220a338c03b4
+ms.sourcegitcommit: c7388a31056b4053ff094ff0e96f6ae891e069d7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216532"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41839766"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -86,13 +86,13 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 |Advanced Threat Protection  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |威脅情報  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |雲端 App 安全性  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|Windows Defender 進階威脅防護  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|Windows Defender 進階威脅防護  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>13</sup>  <br/> |
 |**伺服器和 CAL 的優點** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |Exchange<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
 |SharePoint<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
 |商務用 Skype<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
 |Windows Server CAL  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Microsoft 端點 Configuration Manager  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Microsoft Endpoint Configuration Manager  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |System Center Endpoint Protection  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
@@ -107,6 +107,6 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 > <sup>9</sup> Exchange、SharePoint 和商務用 Skype 中包含伺服器和 CAL。<br/>
 > <sup>10</sup> ECAL 或 Core CAL 需視購買的 A3 版本而定，A 5 則包含 ECAL 許可權。<br/>
 > <sup>11</sup> 如需有關 Azure Active Directory 的詳細資訊，請參閱[什麼是 Active Directory？](https://docs.microsoft.com/azure/active-directory/active-directory-whatis)。<br/>
-> <sup>12</sup> 需有 Office 專業增強版，才能在 Outlook 電腦版套用防護和傳送受保護的電子郵件。 
-  
+> <sup>12</sup> 需有 Office 專業增強版，才能在 Outlook 電腦版套用防護和傳送受保護的電子郵件。<br/> 
+> <sup>13</sup> Microsoft 365 教育版 A5 學生使用優惠不包含 Microsoft Defender 進階威脅防護。  
 
