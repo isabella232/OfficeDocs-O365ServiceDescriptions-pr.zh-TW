@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是適用於專案組合管理 (PPM) 和日常工作彈性線上解決方案。 Project Online 是透過 Office 365 所交付，提供功能強大的專案管理功能，以規劃、設定優先順序以及管理專案和專案組合投資 (幾乎可以從任何位置在任何裝置上使用)。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: 13c4432f63ed1f73c6ce617ddd436bdb5c0cfab4
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: 291d7dd4c9db1e8284095a57e0942006dd1dcaa2
+ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216662"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931939"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -62,7 +62,7 @@ Project Online 基本版不包括 web 專案。
 
 ### <a name="project-online-desktop-client"></a>Project Online 桌面用戶端
 
-Microsoft Project Online 桌面用戶端是功能自動排程的專案管理方案、 專案資源管理及內建的報告。 它可以連線到 Project Online 或 project Online 桌面用戶端可使用成獨立應用程式。 Project Online 桌面用戶端是 Project Online 桌面用戶端的訂閱版本，並且是在專案計劃 3 和專案計劃 5 訂閱中提供。
+Microsoft Project Online 桌面用戶端是功能自動排程的專案管理方案、 專案資源管理及內建的報告。 它可以連線到 Project Online 或 project Online 桌面用戶端可使用成獨立應用程式。 Project Online 桌面用戶端是 Project Professional 桌面用戶端的訂閱版本，並且是在專案計劃 3 和專案計劃 5 訂閱中提供。
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>使用 Project web 和 Project Online 一起
 
