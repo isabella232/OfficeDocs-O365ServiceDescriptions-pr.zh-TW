@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: 網頁 (先前稱為 Office Web Apps) office 會在網頁瀏覽器中開啟 Word、 Excel、 OneNote 和 PowerPoint 文件。 Office web 讓您更容易使用和共用 Office 無所不在檔案從具有網際網路連線，從幾乎任何裝置。 以 Word、 Excel、 OneNote、 或 PowerPoint 的 Microsoft Office 365 客戶可以檢視、 建立及編輯檔案隨時隨地。
 ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
-ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41711903"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545786"
 ---
 # <a name="office-for-the-web-service-description"></a>網頁版 Office 服務描述
 
@@ -87,7 +87,7 @@ ms.locfileid: "41711903"
 |[即時共同撰寫](word-online.md#real-time-co-authoring) <br/> |是  <br/> |是  <br/> |
 |[參考工具](word-online.md#reference-tools) <br/> |否  <br/> |是  <br/> |
 |[文字方塊/圖案的呈現](word-online.md#rendering-of-text-boxesshapes) <br/> |是  <br/> |是  <br/> |
-|[研究工具](word-online.md#researcher) <br/> |否  <br/> |是  <br/> |
+|[Researcher](word-online.md#researcher) <br/> |否  <br/> |是  <br/> |
 |[多媒體](word-online.md#rich-media) <br/> |否  <br/> |是  <br/> |
 |[豐富的表格格式化功能](word-online.md#rich-table-formatting) <br/> |是  <br/> |是  <br/> |
 |[另存新檔和下載副本](word-online.md#save-as-and-download-a-copy) <br/> |是  <br/> |是  <br/> |

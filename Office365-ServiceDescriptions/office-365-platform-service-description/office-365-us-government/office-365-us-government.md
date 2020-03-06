@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 回應美國公共部門特殊且不斷變化需求，Microsoft 已建立 Office 365 US Government 計劃 （或 Office 365 政府版）。 本文提供 Office 365 政府美國環境特有的功能的概觀。
-ms.openlocfilehash: 7fdf83fc7cd4ededf28826861ef0202aca6185bf
-ms.sourcegitcommit: 66e0fa8f265fe5cdb0d94c340fef5cb5431fc600
+ms.openlocfilehash: d94134443ffa106fa162690908825ab295d733e5
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/18/2020
-ms.locfileid: "41233356"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545716"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -167,14 +167,14 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |**[Office 365 套件功能](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府版 F1** <br/> |
 |Microsoft Bookings  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft 簡報電子郵件  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Microsoft Power 自動化  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
-|Microsoft Forms  <br/> |是 <br/> |是 <br/> |是<br/> |是</sup> <br/> |
+|Microsoft Power Automate  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
+|Microsoft Forms  <br/> |是 <br/> |是 <br/> |是<br/> |[是]</sup> <br/> |
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft MyAnalytics  <br/> |否 <br/> |否 <br/> |Yes<sup>17</sup> <br/> |否 <br/> |
 |Microsoft Planner  <br/> |是 <br/> |是 <br/> |是 <br/> |是 <br/> |
 |Microsoft PowerApps  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |Microsoft StaffHub  <br/> |否 <br/> |否 <br/> |否 <br/> |否<br/> |
-|Microsoft Stream  <br/> |是<sup>9、 15</sup> <br/> |是<sup>9、 15</sup> <br/> |是<sup>9、 15</sup> <br/> |否  <br/> |
+|Microsoft Stream  <br/> |是<sup>9、 15</sup> <br/> |是<sup>9、 15</sup> <br/> |是<sup>9、 15</sup> <br/> |是<sup>9，15，20</sup>  <br/> |
 |Microsoft Sway  <br/> |否 <br/> |否 <br/> |否 <br/> |否 <br/> |
 |Microsoft Teams  <br/> |是 <br/> |是 <br/> |是 <br/> |是 <br/> |
 |Office Delve  <br/> |Yes<sup>17</sup> <br/> |Yes<sup>17</sup> <br/> |是  <br/> |Yes<sup>17</sup> <br/> |
@@ -219,10 +219,10 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |郵件中排名最前面的惡意程式碼  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |郵件符合規則的數目  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |郵件排名最前面的相符規則  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
-|郵件排名最前面的相符 DLP 原則  <br/> |否  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
-|依重要性分組顯示郵件符合 DLP 原則的數目  <br/> |否  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
-|郵件的 DLP 原則比對、覆寫及誤判  <br/> |否  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
-|郵件排名最前面的相符 DLP 規則  <br/> |否  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
+|郵件排名最前面的相符 DLP 原則  <br/> |否  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |否 <br/> |
+|依重要性分組顯示郵件符合 DLP 原則的數目  <br/> |否  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |否 <br/> |
+|郵件的 DLP 原則比對、覆寫及誤判  <br/> |否  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |否 <br/> |
+|郵件排名最前面的相符 DLP 規則  <br/> |否  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |否 <br/> |
 |IM 和音訊工作階段  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |應用程式共用、Web 及電話撥入式會議  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |視訊、應用程式共用及檔案傳輸工作階段  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
@@ -246,7 +246,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |**信任** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府版 F1** <br/> |
 |**[隱私權、安全性及透明性](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |進階資料管理  <br/> |沒有<sup>12</sup> <br/> |沒有<sup>12</sup> <br/> |是 <br/> |沒有<sup>12</sup> <br/> |
-|Cloud App Security  <br/> |沒有<sup>12、 15、 19</sup> <br/> |沒有<sup>12、 15、 19</sup> <br/> |是<sup>15、 19</sup> <br/> |沒有<sup>12、 15、 19</sup> <br/> |
+|雲端 App 安全性  <br/> |沒有<sup>12、 15、 19</sup> <br/> |沒有<sup>12、 15、 19</sup> <br/> |是<sup>15、 19</sup> <br/> |沒有<sup>12、 15、 19</sup> <br/> |
 |進階威脅防護  <br/> |沒有<sup>12、 18</sup> <br/> |沒有<sup>12、 18</sup> <br/> |是<sup>18</sup>  <br/> |沒有<sup>12、 18</sup> <br/> |
 |客戶加密箱  <br/> |沒有<sup>12</sup> <br/> |沒有<sup>12</sup> <br/> |是 <br/> |沒有<sup>12</sup> <br/> |
 |Office 365 進階電子文件探索  <br/> |沒有<sup>12</sup> <br/> |沒有<sup>12</sup> <br/> |是  <br/> |沒有<sup>12</sup> <br/> |
@@ -285,12 +285,14 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 <br/><sup>11</sup>尚無法使用 Office 365 政府版方案，但即將推出。 
 <br/><sup>12</sup>不包含在內，但是能以 GCC 中的個別附加元件形式購買。 
 <br/><sup>13</sup>不支援 Office 365 政府版方案。 
-<br/><sup>14</sup>可在[https://securescore.office.com](https://securescore.office.com)。 需要系統管理員權限。 如需詳細資訊，請參閱 [Office 365 安全分數簡介](https://go.microsoft.com/fwlink/?linkid=836894)。 
+<br/><sup>14</sup>可在[https://securescore.office.com](https://securescore.office.com)。 需要系統管理員權限。 如需詳細資訊，請參閱 [Office 365 安全分數簡介](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)。
+). 
 <br/><sup>15</sup>尚無法使用 DoD 環境中，但即將推出。 
 <br/><sup>16</sup>系統管理中心不包含使用情況分析中的 DoD 或 GCC High 環境。
 <br/>GCC 高] 或 [DoD 環境不支援<sup>17</sup> 。
 <br/><sup>18</sup>反網路釣魚的使用者和網域模擬和詐騙智慧尚無法使用 GCC 高和 DoD 中。
 <br/><sup>19</sup>尚無法使用 GCC 環境中，但即將推出。
+<br/>僅適用於 Microsoft Stream <sup>20</sup>消耗量： 沒有發佈或共用。 
   
 ## <a name="office-application-availability-and-enterprise-value"></a>Office 應用程式的可用性和企業值
 
@@ -311,10 +313,10 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[商務用 Skype](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |是<sup>3</sup> <br/> |是  <br/> |是  <br/> |是<sup>3</sup> <br/> |
 |[Office 365 的 Mac 版 Office](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57) <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
-|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |是  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
+|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是  <br/> |[是]<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
+|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |是  <br/> |[是]<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
 |[Office Mobile for Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |是  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是  <br/> |
-|Office Mobile for Windows 10 tablets <br/> |是  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
+|Office Mobile for Windows 10 tablets <br/> |是  <br/> |[是]<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
 |Outlook for iOS 和 Android<sup>5、 4</sup>  <br/> |是 <br/> |是 <br/> |是 <br/> |是 <br/> |
 |**企業價值** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府版 F1** <br/> |
 |每個使用者可同時在 5 部 PC 或 Mac 上安裝  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
@@ -342,7 +344,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |Power Pivot for Excel  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |Excel 的 Power Query  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |Power View for Excel  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
-|漫遊設定  <br/> |否  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |否  <br/> |
+|漫遊設定  <br/> |否  <br/> |[是]<sup></sup> <br/> |是<sup></sup> <br/> |否  <br/> |
 |共用電腦啟用  <br/> |否  <br/> |是 <br/> |是 <br/> |否  <br/> |
 |支援對雲端架構檔案儲存進行封鎖  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |版本升級  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
@@ -378,14 +380,14 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |智慧查閱 | 否 <br/> | 否 <br/> | 否 <br/> |
 |圖表： 烈日樹狀圖、 瀑布圖、 長條圖、 對應、 時間表、 漏斗 | 否 <br/> | 否 <br/> | 否 <br/> |
 |版本歷程記錄 | 否 <br/> | 否 <br/> | 否 <br/> |
-|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c)是完全可用以外的下列功能，此時無法使用的政府定域機組中： | **GCC** <br/> | **GCC 高** <br/> | **DOD**<sup>3</sup> <br/> |
+|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c)是完全可用以外的下列功能，此時無法使用的政府定域機組中： | **GCC** <br/> | **GCC 高** <br/> | **DOD** <br/> |
 |電子郵件通知 | 否<sup>1</sup> <br/> | 否<sup>1</sup> <br/> | 否 <br/> | 
 |插入圖片 | 否<sup>1</sup> <br/> | 否<sup>1</sup> <br/> | 否 <br/> |
 |插入影片 | 否<sup>1</sup> <br/> | 否<sup>1</sup> <br/> | 否 <br/> |
 |數學 | 否<sup>1</sup> <br/> | 否<sup>1</sup> <br/> | 否 <br/> |
 |Office 整合 | 否<sup>1</sup> <br/> | 否<sup>1</sup> <br/> | 否 <br/> |
-|最新的群組表單 | 是 <br/> | 是 <br/> | 否 <br/> |
-|外部共用<sup>4</sup> | 是 <br/> | 否 <br/> | 否 <br/> |
+|最新的群組表單 | 否<sup>4</sup> <br/> | 是 <br/> | 是 <br/> |
+|外部共用<sup>3</sup> | 是 <br/> | 否 <br/> | 否 <br/> |
 |形成 Pro | 否 | 否 | 否 |
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote)是完全可用以外的下列功能，此時無法使用的政府定域機組中： | **GCC** <br/> | **GCC 高** <br/> | **DOD** <br/> |
 |研究工具 | 否 <br/> | 否 <br/> | 否 <br/> |
@@ -438,7 +440,7 @@ Office 365 US Government 客戶可以使用 Azure 政府版 ExpressRoute 服務�
 |使用共同撰寫作者的內容相關式交談： 與文件內的共同撰寫作者的聊天室 | 否 <br/> | 否 <br/> | 否 <br/> |
 |聽寫 | 否<sup>1</sup> <br/> | 否<sup>1</sup> <br/> | 否<sup>1</sup> <br/> |
 
-> <sup>1</sup>可用性即將推出。<br/>
-<sup>2</sup> （未登入） 的本機 Surface Hub 上的可用性。<br/>
-<sup>3</sup>應用程式不適目前 DOD 定域機組中。<br/>
-<sup>4</sup>外部共用是用於 GCC 環境。 深入了解如何[關閉或開啟 Microsoft 表單上](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure)為您的組織。 GCC 高和 DOD 環境; 的已停用外部共用您的組織內的使用者可能會執行下列動作： 完成表單，並提交回應，[複製及共用做為範本的表單](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)，[共同撰寫作者或在表單上共同作業](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)，以及[存取表單的結果](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)。
+><sup>1</sup>可用性即將推出。
+<br/><sup>2</sup> （未登入） 的本機 Surface Hub 上的可用性。
+<br/><sup>3</sup>外部共用是用於 GCC 環境。 深入了解如何[關閉或開啟 Microsoft 表單上](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure)為您的組織。 GCC 高和 DOD 環境; 的已停用外部共用您的組織內的使用者可能會執行下列動作： 完成表單，並提交回應，[複製及共用做為範本的表單](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)，[共同撰寫作者或在表單上共同作業](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)，以及[存取表單的結果](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)。
+<br/><sup>4</sup>最近使用的群組表單功能 GCC 環境已停用。 使用者，不過，仍可存取群組表單藉由選取群組表單] 索引標籤上的特定群組。

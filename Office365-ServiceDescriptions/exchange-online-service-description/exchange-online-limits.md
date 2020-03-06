@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
 ms.openlocfilehash: 88885d5837ae8acd070c9f61dd8ed49c577c5e67
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374180"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546106"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 

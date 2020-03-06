@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: 是 Project Online 中提供下列專案規劃功能。
 ms.openlocfilehash: e591d491f76a340da7e3260ece0210de3ac57637
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263407"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546026"
 ---
 # <a name="project-planning"></a>專案規劃
 
@@ -53,7 +53,7 @@ ms.locfileid: "39263407"
 
 將多個群組列套用至專案計劃。 深入了解[群組任務或資源](https://go.microsoft.com/fwlink/p/?LinkId=271326)。
   
-## <a name="reports"></a>報表
+## <a name="reports"></a>報告
 
 使用 Project 2016，您可以建立簡潔、繽紛的專業報告，而不必將資料匯出至其他程式。 新增圖片、 圖表、 動畫、 連結及更多&mdash;，您必須清楚且有效率地與專案關係人共用專案狀態資訊及小組成員的所有項目。 深入了解[建立專案報告](https://go.microsoft.com/fwlink/p/?LinkId=271349)。
   
