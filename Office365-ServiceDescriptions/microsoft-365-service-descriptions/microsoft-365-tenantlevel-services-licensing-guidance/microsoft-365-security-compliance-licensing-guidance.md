@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 授權的安全性 & 合規性的指導方針
+title: 安全性 & 合規性的 Microsoft 365 授權指南
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,15 +10,15 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: 本文提供可協助避免潛在的服務中斷，因為未經授權存取的 Microsoft 365 安全性 & 合規性的授權指導。
-ms.openlocfilehash: ead339254c57c4bd9f682159f54f235279f7c362
-ms.sourcegitcommit: 357f93c151a5302d5d3aa43f633b295c37e036a2
+description: 本文提供 Microsoft 365 安全性 & 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
+ms.openlocfilehash: 097ad158d7688050f8fe30fc06d8f35fd2125caf
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41787027"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609914"
 ---
-# <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365 授權的安全性 & 合規性的指導方針
+# <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
 針對此文章的目的，租用戶層級服務為一項線上服務，&mdash;為租用戶中的任何使用者購買 (獨立購買或隨著 Office 365 或 Microsoft 365 方案購買)&mdash; 時，會為租用戶中的部分或所有使用者啟用。 雖然部分未取得授權的使用者在技術上可能可存取服務，但想要從服務獲益的任何使用者都必須具備授權。
 
@@ -39,7 +39,7 @@ Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，AADIP 功能會在租用戶層級針對租用戶內的所有使用者啟用。 如需 AADIP 資訊，請參閱[什麼是 Azure Active Directory 身分識別保護？](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)。
+根據預設，AADIP 功能會在租用戶層級針對租用戶內的所有使用者啟用。 如需 AADIP 的相關資訊，請參閱[什麼是 Azure Active Directory Identity Protection？](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
@@ -71,7 +71,7 @@ Azure 資訊保護 (AIP) 可協助組織探索、分類、標記及保護機密�
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
 
-Microsoft 365 F1、Microsoft 365 商務版、Microsoft 365 E3/A3/G3 和 AIP 方案 1 的授權使用者可從 AIP 方案 1 獲益。 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance 和 AIP 方案 2 的授權使用者可從 AIP 方案 2 獲益。
+Microsoft 365 F3，microsoft 365 Business，Microsoft 365 E3/A3/G3 和 AIP Plan 1 的授權使用者可以從 AIP 方案1受益。 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance 和 AIP 方案 2 的授權使用者可從 AIP 方案 2 獲益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
@@ -189,9 +189,9 @@ ADG 可讓使用者將標籤套用至特定資料，以支持特定原則，自�
 
 透過自動分類，您可將 ADG 保留原則套用至特定位置的授權使用者 (小組網站、群組網站等)。 如需套用 ADG 保留原則的指示，請參閱[將保留原則套用到整個組織或特定位置](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)。
 
-## <a name="office-365-advanced-ediscovery"></a>Office 365 進階電子文件探索
+## <a name="advanced-ediscovery"></a>進階電子文件探索
 
-Office 365 進階電子文件探索可為公司內的 IT 和法律部門提供調查電子文件探索解決方案，以在從 Office 365 系統匯出之前，先行識別、收集、保留、縮減和檢閱與調查或訴訟相關的內容。
+Advanced eDiscovery 為 IT 和法律部門提供調查和 eDiscovery 解決方案，以在從 Office 365 出口之前識別、收集、保留、減少及檢查與調查或訴訟相關的內容。系統。
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
 
@@ -223,15 +223,15 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-針對所有資料都儲存在 Exchange Online 與 Skype for Business 信箱和 SharePoint Online、 OneDrive for Business 和 microsoft Teams 檔案，可以啟用 office 365 客戶金鑰加密金鑰。 如需設定 Office 365 客戶金鑰以加密您的待用資料的詳細資訊，請參閱[使用客戶金鑰控制 Office 365 中的資料](https://docs.microsoft.com/microsoft-365/compliance/controlling-your-data-using-customer-key)。
+您可以對儲存在 Exchange Online 和商務用 Skype 信箱中的所有資料啟用 Office 365 客戶金鑰加密金鑰，並 SharePoint 線上、商務用 OneDrive，以及小組檔案。 如需設定 Office 365 客戶金鑰以加密您的待用資料的詳細資訊，請參閱[使用客戶金鑰控制 Office 365 中的資料](https://docs.microsoft.com/microsoft-365/compliance/controlling-your-data-using-customer-key)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
 若要將加密金鑰指派給 Office 365 和/或 Microsoft 365 租用戶內的資料，請遵循客戶金鑰加密金鑰部署指示：
 
-- SharePoint Online 的 OneDrive for Business 和 microsoft Teams 檔案上一個, 檔案或多個網站可以所述這裡使用客戶金鑰來加密：[設定 SharePoint Online 和商務用 OneDrive 的客戶金鑰](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-sharepoint-online-and-onedrive-for-business)。
+- 如需 SharePoint 線上、商務 OneDrive 或小組檔案，一或多個網站上的檔案可使用下列所述的客戶機碼加密：[設定客戶機碼以 SharePoint 線上及 OneDrive For business](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-sharepoint-online-and-onedrive-for-business)。
 
-- Exchange Online 和商務用 Skype，信箱可以加密所述這裡使用客戶金鑰：[設定 Exchange Online 和商務用 Skype 的客戶金鑰](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-exchange-online-and-skype-for-business)
+- 針對 Exchange Online 和商務用 Skype，您可以使用下列所述的客戶金鑰加密信箱：[設定 Exchange Online 和商務用 skype 的客戶金鑰](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-exchange-online-and-skype-for-business)
 
 ## <a name="office-365-customer-lockbox"></a>Office 365 客戶加密箱
 
@@ -243,11 +243,11 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
-自客戶加密箱獲益的使用者，可確保在未經客戶明確同意的情況下，Microsoft 中沒有人能存取客戶內容來執行服務作業。 客戶加密箱會將客戶帶至要求存取其內容的核准工作流程。 有時候，Microsoft 工程師會於支援程序期間加入，以疑難排解並修正客戶報告的問題。 在大部分情況下，問題可透過 Microsoft 既有、用於其服務的廣泛遙測和偵錯工具修正。 不過，在某些情況下，可能會需要 Microsoft 工程師來存取客戶內容以判斷根本原因並修正問題。 客戶加密箱會要求工程師在核准工作流程的最後一個步驟向客戶要求存取。 這可讓組織可選擇核准或拒絕這些要求，讓他們直接控制 Microsoft 工程師是否能夠存取組織的使用者資料。
+使用者受益于客戶密碼箱，以確保 Microsoft 沒有人能夠存取其內容來執行服務作業，而不需要客戶進行明確核准。 客戶加密箱會將客戶帶至要求存取其內容的核准工作流程。 有時候，Microsoft 工程師會於支援程序期間加入，以疑難排解並修正客戶報告的問題。 在大部分情況下，問題可透過 Microsoft 既有、用於其服務的廣泛遙測和偵錯工具修正。 不過，在某些情況下，可能會需要 Microsoft 工程師來存取客戶內容以判斷根本原因並修正問題。 客戶加密箱會要求工程師在核准工作流程的最後一個步驟向客戶要求存取。 這為組織提供核准或拒絕這些要求的選項，可讓使用者直接控制 Microsoft 工程師是否可以存取組織的使用者資料。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-系統管理員可以在 Microsoft 365 系統管理中心開啟客戶加密箱控制。 如需詳細資訊，請參閱 [Office 365 中的客戶加密箱](https://docs.microsoft.com/Office365/Admin/manage/customer-lockbox-requests)。 當客戶加密箱開啟時，Microsoft 必須在存取組織的任何內容之前，先取得組織的核准。
+系統管理員可以在 Microsoft 365 系統管理中心開啟客戶加密箱控制。 如需詳細資訊，請參閱 [Office 365 中的客戶加密箱](https://docs.microsoft.com/Office365/Admin/manage/customer-lockbox-requests)。 當客戶加密箱開啟時，Microsoft 必須先取得組織的核准，再存取其任何內容。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
@@ -283,7 +283,7 @@ Office 365 E3/A3/G3、Microsoft 365 商務版、Microsoft 365 A1/E3/A3/G3 和 Of
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
-如同組織的 DLP 原則中所設定，當使用者的電子郵件檔案經過敏感性資訊檢查時，使用者可以從適用於 Exchange Online、SharePoint Online 和商務用 OneDrive 的 DLP 中獲益。
+當使用者的電子郵件和檔案檢查敏感資訊時（如組織的 DLP 原則中所設定），使用者可以從 DLP for Exchange Online、線上 SharePoint 和 OneDrive for Business 中受益。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -303,7 +303,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
-如同組織的 DLP 原則中所設定，寄件者可藉由讓其外寄聊天和頻道訊息中的敏感性資訊經過敏感性資訊檢查而獲益。
+當寄件者在其外送聊天和通道訊息中檢查敏感資訊（如組織的 DLP 原則中所設定）時，寄件者的益處。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -404,20 +404,40 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance
 
 ## <a name="conditional-access-policies"></a>條件式存取原則
 
-條件式存取是由 Azure Active Directory，以在一起訊號，做出決策，並強制執行組織的原則的工具。 條件式存取位於導向控制項平面底板的身分識別的核心。 在其最簡單的條件式存取原則是如果 then 陳述式。 如果使用者想要存取資源，他們必須完成動作。 範例： 薪資管理員想要存取的薪資應用程式，也不需要執行對其進行存取的多重要素驗證。
+條件式存取是 Azure Active Directory 用來將信號一起使用的工具，以作出決策，並強制執行組織原則。 條件式存取是在 identity 導向控制平面的核心。 條件式存取原則最簡單的情況是 if-之後的語句。 如果使用者想要存取資源，則必須完成動作。 範例：工資管理員想要存取工資單應用程式，並且需要執行多重要素驗證以存取該應用程式。
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
 
-企業行動力 + 安全性 E3/A3/G3、 Microsoft 365 F1/E3/A3/G3 和 Azure Active Directory 進階版方案 1 的授權的使用者可以受益於條件式存取原則。 取得授權的使用者的 Enterprise Mobility + Security E5/A5/G5、 Microsoft 365 E5/A5/G5、 Microsoft E5 安全性和 Azure Active Directory 進階版計劃 2 有益 Identity Protection （風險型條件式存取原則）。
+Enterprise 可移動性 + Security E3/A3/G3 的授權使用者，Microsoft 365 F3/E3/A3/G3 和 Azure Active Directory Premium 方案1可以從條件式存取原則中受益。 Enterprise 可移動性 + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft E5 Security 和 Azure Active Directory Premium 方案2的授權使用者可受益于身分識別保護（以風險為基礎的條件式存取原則）。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
-安全性作業分析師和安全性專業人員特地列出的可讓您以強制執行組織的原則，在 [使用者] 需要它們之前授與存取權公司的內容符合特定準則。 使用者特地列出由可供選擇，同時保護公司資產時，隨時隨地存取他們的工作。
+安全性作業分析員和安全性專業人員可讓您在使用者上強制執行組織原則，並在授與公司內容的存取權之前符合特定準則，以受益。 使用者可以隨時隨地存取他們的工作，並在任何時候存取他們的工作，同時保護組織的資產。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，在租用戶中的所有使用者的租用戶層級啟用條件式存取功能。
+根據預設，會在租使用者中的所有使用者的租使用者層級啟用條件式存取功能。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-身分識別保護和條件式存取具體而言，使用者必須包含在群組或加入至條件式存取原則。 使用者和群組的條件是必要欄位中的條件式存取原則。 在您的原則，您可以選取**所有的使用者**或特定使用者和群組。 您應選取 [只有適當授權的使用者和群組。 如需詳細資訊，請參閱[什麼是 Azure Active Directory 條件式存取中的條件？](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions)。
+針對身分識別保護和條件式存取，使用者必須包含在群組中或新增至條件式存取原則。 [使用者和群組] 條件是條件式存取原則中的強制性。 在您的原則中，您可以選取 [**所有使用者**] 或 [特定使用者和群組]。 您應該只選取適當授權的使用者和群組。 如需詳細資訊，請參閱[Azure Active Directory 條件式存取中的條件為何？](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions)。
+
+## <a name="advanced-audit"></a>高級審計
+
+Microsoft 365 中的「高級核查」為使用者和系統管理員活動提供一年的審計記錄檔保留，並提供建立自訂審核記錄保留原則的能力，以管理其他 Microsoft 365 服務的審計記錄保留。 此外，它也可讓您存取重要事件，以進行調查和對 Office 365 管理活動 API 的高頻寬存取。 如需詳細資訊，請參閱[Microsoft 365 中的「高級核查](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)」。
+
+### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
+
+Office 365 E5、Microsoft 365 E5 和 Microsoft 365 E5 規範的授權使用者可從高級審計中受益。
+
+### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
+
+因為 Microsoft 365 服務中使用者活動相關的審計記錄可保留最多一年，所以使用者可享受「高級審計」的好處。 此外，高值審核事件也會記錄下來，例如在存取或讀取使用者信箱中的專案時。 如需詳細資訊，請參閱[高價值審核事件](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events)。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
+
+根據預設，會在租使用者層級啟用 Office 365 或 Microsoft 365 E5 訂閱的「高級審核」，並自動為活動提供一年的審計記錄檔保留（由具有適當授權的使用者執行）。Azure Active Directory、Exchange 及 SharePoint。 此外，組織可使用審核記錄保留原則來管理其他 Microsoft 365 服務中的活動所產生的審計記錄保留期間。 如需詳細資訊，請參閱[管理稽核記錄保留原則](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
+
+只保留一年的審計記錄，而對重要的事件進行審核，只適用于具有適當授權的使用者。 此外，系統管理員可以使用審核記錄保留原則，為特定使用者的審計記錄檔指定較短的保留期間。

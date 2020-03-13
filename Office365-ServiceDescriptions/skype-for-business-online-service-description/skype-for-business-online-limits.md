@@ -13,13 +13,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: Skype 商務 Online 中的限制可分為下列類別。
-ms.openlocfilehash: bbe968670e8fcaf442422c8f835363f7dc5f0c66
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: 商務用 Skype Online 中的限制可分為下列類別。
+ms.openlocfilehash: 46ad0ef0095880ef91733e26b4666a6ba99940b3
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263277"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609954"
 ---
 # <a name="skype-for-business-online-limits"></a>商務用 Skype Online 限制
 
@@ -47,13 +47,13 @@ ms.locfileid: "39263277"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**商務用 Skype Server 2015** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 F1** <br/> |
+|**功能** <br/> |**商務用 Skype Server 2015** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 Enterprise F3** <br/> |
 |檔案傳輸限制  <br/> |無限制  <br/> |無限制  <br/> |無限制  <br/> |無限制  <br/> |無限制  <br/> |不適用  <br/> |
 |交談限制<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |開啟的分頁交談限制  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |不適用  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>用戶端可以啟動聊天與最多 99 使用者以手動方式新增他們，或傳送立即訊息從群組或通訊群組清單的快顯功能表。 如需商務用 Skype 在立即訊息的詳細資訊，請參閱[傳送 IM skype for Business](https://go.microsoft.com/fwlink/?linkid=533412)。 
+> <sup>1</sup>用戶端可以從群組或通訊群組清單的內容功能表手動新增或傳送立即訊息，以啟動最多99使用者的交談。 如需有關商務用 Skype Online 中立即訊息的詳細資訊，請參閱[在商務用 skype 中傳送 IM](https://go.microsoft.com/fwlink/?linkid=533412)。 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>不同獨立選項的對等限制
 
@@ -65,7 +65,7 @@ ms.locfileid: "39263277"
 |開啟的分頁交談限制  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>用戶端可以啟動聊天與最多 99 使用者以手動方式新增他們，或傳送立即訊息從群組或通訊群組清單的快顯功能表。 如需商務用 Skype 在立即訊息的詳細資訊，請參閱[傳送 IM skype for Business](https://go.microsoft.com/fwlink/?linkid=533412)。 
+> <sup>1</sup>用戶端可以從群組或通訊群組清單的內容功能表手動新增或傳送立即訊息，以啟動最多99使用者的交談。 如需有關商務用 Skype Online 中立即訊息的詳細資訊，請參閱[在商務用 skype 中傳送 IM](https://go.microsoft.com/fwlink/?linkid=533412)。 
   
 ## <a name="meeting-limits"></a>會議限制
 
@@ -85,14 +85,14 @@ ms.locfileid: "39263277"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**商務用 Skype Server 2015** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 F1** <br/> |
+|**功能** <br/> |**商務用 Skype Server 2015** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 Enterprise F3** <br/> |
 |檔案上傳限制  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |不適用  <br/> |
 |商務用 Skype會議<sup>1</sup> 中的參與者 <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |不適用  <br/> |
 |商務用 Skype 會議中的簡報者  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |不適用  <br/> |
 |商務用 Skype Web App 會議參與者  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |不適用  <br/> |
 |商務用 Skype Web App 匿名參與者  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |不適用  <br/> |
 |透過電話加入的來賓  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |不適用  <br/> |
-|小組呼叫群組中的個人  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |不適用  <br/> |
+|小組呼叫群組中的個人  <br/> |0.25  <br/> |0.25  <br/> |0.25  <br/> |0.25  <br/> |0.25  <br/> |不適用  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> 如果商務用 Skype 會議參與者超過 75，那麼，會議名單中的參與者清單 (簡報人員和出席者) 將會被截斷，個別出席者僅看見簡報人員與該出席者本身的名稱。而會議的簡報人員仍可看見完整的參與者清單。此外，會對出席者隱藏圖庫檢視和 IM 錯誤。 
@@ -108,7 +108,7 @@ ms.locfileid: "39263277"
 |商務用 Skype Web App 會議參與者  <br/> |250  <br/> |不適用  <br/> |250  <br/> |
 |商務用 Skype Web App 匿名參與者  <br/> |250  <br/> |不適用  <br/> |250  <br/> |
 |透過電話加入的來賓  <br/> |250  <br/> |不適用  <br/> |250  <br/> |
-|小組呼叫群組中的個人  <br/> |25  <br/> |不適用  <br/> |25  <br/> |
+|小組呼叫群組中的個人  <br/> |0.25  <br/> |不適用  <br/> |0.25  <br/> |
    
 ## <a name="meeting-retention-limits"></a>會議保留限制
 
@@ -116,7 +116,7 @@ ms.locfileid: "39263277"
     
 - **會議到期期間**：會議結束之後，使用者可以存取會議的時間量。 
     
-### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>跨 Office 365 選項和獨立計劃會議保留限制
+### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>跨 Office 365 選項和獨立方案的會議保留限制
 
 > [!NOTE]
 > 每個人員在資料庫中隨時最多可有 1000 個會議。 
@@ -124,12 +124,12 @@ ms.locfileid: "39263277"
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**會議類型** <br/> |**描述** <br/> 
-|一次性會議| 會議才會存取，至少有排定的時間，或上次會議啟用，或上次會議更新後的 14 天，無論是最新。
-|具有結束日期的週期性會議| 會議才會存取最少的最後一個的會議項目，或上次會議啟用，或上次會議更新之排定的結束時間後的 14 天，無論是最新。
-|沒有結束日期的週期性會議| 會議所提供有新的會議聯結 （啟用），或至少一次每年更新排程，就能存取
-|[立即開會]|至少 8 小時會存取會議。
+|一次性會議| 會議可供存取的時間至少是排定的時間、最後一個會議啟用的14天之後，或上次會議啟用（以最新的最近會議更新為准）。
+|具有結束日期的週期性會議| 會議的最近召開會議的結束時間、最後一筆會議或上一個會議啟用（或最後一個會議更新）為最新，至少要有14天之後。
+|沒有結束日期的週期性會議| 會議將永遠可供存取，但前提是新的會議加入（啟用）或每年至少排程一次更新
+|立即開會|會議可在至少8小時記憶體取。
 
 ## <a name="minute-limits"></a>分鐘限制
 
-在 Office 365 國內通話方案或 Office 365 國際通話計劃中分鐘限制的相關資訊，請移至[音訊會議和通話方案的國家/地區與區域可用性](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)。
+如需有關 Office 365 國內通話方案或 Office 365 國際通話方案中的分鐘限制的詳細資訊，請前往[語音會議和通話方案的國家/地區可用性](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)。
   

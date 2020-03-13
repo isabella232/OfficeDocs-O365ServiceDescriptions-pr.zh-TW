@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online 限制
+title: SharePoint 限制
 ms.author: sharik
 author: skjerland
 audience: ITPro
@@ -8,69 +8,103 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
-description: 尋找適用於 Office 365 企業版方案及獨立方案的 SharePoint Online 限制。
-ms.openlocfilehash: 4ec162de7b5e005a177d0eb2f2122ba46422519c
-ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
-ms.translationtype: HT
+description: 瞭解 Office 365 和獨立方案的 SharePoint 限制。
+ms.openlocfilehash: 0a94f4012b0757398e52236c44e0602b9876e05a
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37035099"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609974"
 ---
-# <a name="sharepoint-online-limits"></a>SharePoint Online 限制 
+# <a name="sharepoint-limits"></a>SharePoint 限制
 
-尋找適用於 Office 365 方案及 SharePoint Online 獨立方案的 SharePoint 限制。
+深入瞭解 Microsoft 365 SharePoint 中的服務限制。
   
-## <a name="limits-by-plan"></a>各方案的限制 
+## <a name="limits-by-plan"></a>依方案的限制 
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Office 365 商務基本版或商務進階版** <br/> |**Office 365 企業版 E1、E3 或 E5，或 SharePoint Online 方案 1 或 2** <br/> | **Office 365 企業版 F1** <br/> |
-|每個組織的儲存體總計<sup>1、2</sup> <br/> |每個購買授權 1 TB 加上 10 GB  <br/> |每個購買授權 1 TB 加上10 GB<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
-|每個網站集合的最大儲存體<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
-|每個組織的網站集合  <br/> |1 百萬<sup>6</sup> <br/> |1 百萬<sup>6</sup> <br/> |1 百萬<br/> |
+|**功能** <br/> |**Office 365 商務基本版或商務版** <br/> |**Office 365 Enterprise E1、E3 或 E5，或 SharePoint 方案1或2** <br/> | **Office 365 Enterprise F3** <br/> |
+|每個組織的總儲存量<sup>1，2，6</sup> <br/> |每個授權購買 1 TB 外加 10 GB  <br/> |每個授權購買 1 TB 外加 10 GB<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
+|每個網站最大儲存體（網站集合）<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
+|每個組織的網站（網站集合）  <br/> |2000000<sup>6</sup> <br/> |2000000<sup>6</sup> <br/> |2000000<br/> |
 |使用者數目  <br/> |最多 300 個  <br/> |1- 500,000<sup>7</sup> <br/> |1- 500,000<sup>7</sup> <br/> |
    
-<sup>1</sup> 您可以無限制地購買額外的 SharePoint 儲存體。 請參閱[變更您訂閱的儲存空間](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space)。 
-<br/><sup>2</sup> 我們建議您監控並定期清空「資源回收筒」。 其使用的儲存空間也會計入組織的儲存空間上限總額。 
-<br/> <sup>3</sup> 如果您有訂閱 Office 365 和 Office 365 額外檔案儲存空間附加元件，儲存空間容量會累加。 
-<br/> <sup>4</sup> 這是單一網站集合的儲存空間限制，而非每個網站集合所提供的儲存限制。 這項限制適用於所有類型的網站集合，包括 Office 365 群組連結的小組網站和 OneDrive。 SharePoint 系統管理員可以[手動設定降低儲存體限制](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)。 
-<br/> <sup>5</sup> Kiosk 人員無法管理 SharePoint 網站集合。 
-<br/> <sup>6</sup> 不包括為每個授權使用者建立的 OneDrive 網站集合。 
+<sup>1</sup> [瞭解如何尋找組織的總數和可用儲存體](/sharepoint/manage-site-collection-storage-limits)。 您可以購買無限的額外 SharePoint 儲存空間。 請參閱＜ [變更您訂閱的儲存空間](/office365/admin/subscriptions-and-billing/add-storage-space)＞。 
+<br/><sup>2</sup> 我們建議您監控並定期清空「資源回收筒」。 其使用的儲存空間為組織總儲存量限制的一部分。 
+<br/> <sup>3</sup>如果您有 office 365 訂閱和 Office 365 額外檔案儲存區，將會新增儲存量。 
+<br/> <sup>4</sup>這是單一網站（先前稱為「網站集合」）的儲存量*限制*，而非每個網站所*提供*的儲存量。 此限制適用于所有類型的網站，包括 Office 365 群組連線的小組網站和 OneDrive。 SharePoint 管理員可以[手動設定較低的儲存量限制](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)。 
+<br/> <sup>5</sup> Firstline 工作者無法管理 SharePoint 網站。 
+<br/> <sup>6</sup>不包括為每個授權使用者建立的 OneDrive。 
 <br/> <sup>7</sup> 如果您有 500,000 位以上的使用者，請連絡 Microsoft 代表。 
   
 ## <a name="service-limits-for-all-plans"></a>所有方案的服務限制
 
-- **清單和文件庫中的項目** - 一份清單最多可有 3 千萬個項目，而一個文件庫最多可有 3 千萬個檔案和資料夾。 100,000 個的項目新增至清單、文件庫或資料夾後，清單、文件庫或資料夾的權限繼承就無法變更。 若要深入了解檢視大型清單的其他限制，請參閱 [管理 Office 365 中的大型清單和文件庫](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)。 
+### <a name="items-in-lists-and-libraries"></a>清單和文件庫中的專案
 
-- **檔案大小及檔案路徑長度** - 15 GB。 附加至清單項目的檔案大小上限為 250 MB。 若要深入了解使用新版 OneDrive 同步處理用戶端 (OneDrive.exe) 的限制之詳細資訊，請參閱 [無效的檔案名稱和檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+清單最多可包含30000000個專案，而文件庫最多可以有30000000個檔案和資料夾。 當清單、文件庫或資料夾包含超過100000個專案時，您就無法中斷清單、文件庫或資料夾的許可權繼承。 您也不能重新繼承其上的許可權。 不過，您仍然可以中斷該清單、文件庫或資料夾中個別專案的繼承，直到清單或文件庫中的唯一許可權數目上限（請參閱下一節）。 若要深入瞭解查看大型清單的其他限制，請參閱[管理 Office 365 中的大型清單和文件庫](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)。 
 
-- **移動和複製整個網站集合** - 每個作業 100 GB。 網頁瀏覽器必須保持開啟狀態。
+> [!NOTE]
+> 網站上可以擁有的文件庫數目沒有限制。
 
-- **同步處理** - 為了獲得最佳效能，我們建議您在所有同步處理文件庫中儲存的檔案不要超過 300,000 個，即使您使用的是檔案隨選只選擇同步處理文件庫中的部分資料夾。
+### <a name="unique-permissions-for-items-in-a-list-or-library"></a>清單或文件庫中專案的特定權限
 
-    如果您使用之前的商務用 OneDrive同步處理用戶端 (Groove.exe)，則可以在所有同步文件庫中同步處理最多 20,000 個項目。 其中包括商務用 OneDrive 文件庫、小組網站文件庫，或兩者。 除了整體同步處理限制之外，每個文件庫類型可同步處理的項目數量也會有所限制：
-    - 您可以在商務用 OneDrive 文件庫中同步處理最多 20,000 個項目。 包括資料夾和檔案。 
-    - 您可以在 SharePoint 文件庫中同步處理最多 5,000 個項目。 包括資料夾和檔案。 這些是您在不同 SharePoint 網站上找到的文件庫，例如小組網站和社群網站、其他人建立的文件庫或您從 [網站] 頁面建立的文件庫。 您可以同步處理多個 SharePoint 文件庫。 任何您同步處理的小組網站也會計算在所有同步處理文件庫的整體20,000 個項目數限制內。
+支援的限制為50000，但建議的一般限制為5000。 若要變更超過5000的專案，請專屬許可權一次以上的專案。 針對大型清單，設計若盡可能具有少數獨特的許可權。
 
-    > [!NOTE]
-    > 如果使用者需要同步處理的文件庫內擁有成千上百的檔案，可以將資料夾的權限層級設定為「限制讀取」，讓同步處理用戶端無法處理資料夾。 
+### <a name="file-size-and-file-path-length"></a>檔案大小及檔案路徑長度
 
-- **版本** - 50,000 個主要版本和 511 個次要版本。
+15 GB。 附加至清單專案的檔案大小上限為 250 MB。 若要深入瞭解使用新的 OneDrive 同步處理應用程式（OneDrive.exe）時的限制和限制，請參閱[不正確檔案名和檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
 
-- **SharePoint 群組** - 使用者可屬於 5,000 個群組，每個群組最多可有 5,000 個使用者。 每個網站集合最多可以有 10,000 個群組。
-    > [!NOTE]
-    > 針對 Azure AD 群組限制，請參閱 [Azure AD 服務限制](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-service-limits-restrictions)，因為這類限制可能會影響公用和私人群組網站成員資格管理。 
-- **受管理的中繼資料** - 字詞庫中 200,000 個字詞、1000 個全域字詞組，以及 1000 個群組。
+### <a name="moving-and-copying-across-sites"></a>跨網站移動及複製
 
-- **子網站** - 每個網站集合 2,000 個。
+每個作業 100 GB。 網頁瀏覽器必須保持開啟狀態。
 
-- **SharePoint 託管的應用程式** - 每個組織 20,000 個執行個體。
+### <a name="sync"></a>同步處理
 
-- **每個清單或文件庫唯一的安全性範圍** - 5,000。 針對大型清單，請設計儘可能最少的唯一權限數。
+**新 OneDrive 同步處理應用**程式-為了獲得最佳效能，建議您在所有已同步處理的文件庫中儲存不超過300000的檔案，即使您是以要求進行，或是只選擇文件庫中的某些資料夾，也能進行同步處理。
 
-- **使用者** - 每個網站集合最多 200 萬個使用者。
-    > [!NOTE]
-    > 邀請參加 SharePoint 網站集合的的訪客數量沒有限制。 如需外部共用的詳細資訊，請參閱[外部共用概觀](https://docs.microsoft.com/sharepoint/external-sharing-overview)。
+**OneDrive 舊版 Business sync app （Groove）** -您最多可以同步處理所有同步處理的文件庫中的20000個專案。 這包括 OneDrive 文件庫、小組網站程式庫或兩者。 與整體同步處理限制分開時，每個文件庫類型可同步處理的專案數有限制：
+
+   - 您最多可以同步處理 OneDrive 程式庫中的20000個專案。 這包括資料夾及檔案。 
+   - 您最多可以同步處理 SharePoint 程式庫中的5000個專案。 這包括資料夾及檔案。 這些是您可以在各種 SharePoint 網站上找到的文件庫，例如小組網站和群組網站、其他人員建立或您從您的網站頁面建立的文件庫。 您可以同步處理多個 SharePoint 文件庫。 您同步處理的任何小組網站也會在所有同步處理的文件庫中，計算全部20000專案限制。
+
+> [!NOTE]
+> 如果使用者需要同步處理包含成百上千個檔案的文件庫中的檔案，您可以將資料夾的許可權層級設定為「限制讀取」，以從同步處理應用程式中「隱藏」資料夾。 
+
+### <a name="versions"></a>版本
+
+50000主要版本和511次要版本。
+
+### <a name="sharepoint-groups"></a>SharePoint 群組
+
+使用者可以隸屬于5000群組，每個群組可以有最多5000個使用者。 您最多可以有10000個群組的網站（網站集合）。
+
+> [!NOTE]
+> 針對 Azure AD 群組限制，請參閱[AZURE ad 服務限制和限制](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions)，因為這類限制可能會影響公用和私人群組網站成員資格管理。 
+
+### <a name="managed-metadata"></a>受管理的中繼資料
+
+200000術語存放區中的術語，1000全域字片語，1000群組。
+
+### <a name="subsites"></a>式 
+
+每個網站2000個（網站集合）。 我們建議您建立網站，並將其組織成中樞，而不是建立子網站。 如果您使用子網站，建議您限制其編號（特別是在大量 trafficked 網站上）。
+
+### <a name="sharepoint-hosted-applications"></a>主控應用程式 SharePoint
+
+每個組織的20000個實例。
+
+### <a name="people-editing-a-document-at-the-same-time"></a>使用者同時編輯檔
+
+99人員可以同時開啟檔以供編輯。 若超過10位使用者同時編輯檔，其編輯很可能會衝突，而且使用者體驗會逐漸降低。
+
+### <a name="users"></a>使用者
+
+每個網站2000000個（網站集合）。
+   
+> [!NOTE]
+> 您可以邀請 SharePoint 網站的客人數目沒有限制。 如需外部共用的詳細資訊，請參閱[外部共用一覽](/sharepoint/external-sharing-overview)。
+
 ## <a name="see-also"></a>另請參閱
 
-[SharePoint Online 的搜尋限制](https://docs.microsoft.com/sharepoint/search-limits)
+[SharePoint 的搜尋限制](/sharepoint/search-limits)
