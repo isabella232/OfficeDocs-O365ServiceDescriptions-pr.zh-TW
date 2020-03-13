@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看在哪些方案中可使用哪些 OneDrive 功能。
-ms.openlocfilehash: 78780b53d1d5901405ecf98839c2b1a2df851f1a
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 2919d32b3478e5cc5bb2207c300f6a0608f0dadd
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374170"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609874"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服務描述
 
@@ -40,7 +40,7 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
 
 **2 GB**
 
-- Office 365 企業版 F1
+- Office 365 企業版 F3
 
 **1 TB**
 
@@ -88,7 +88,7 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
   
 - 當使用者用盡 5 TB OneDrive 儲存空間的至少 90% 容量時，Microsoft 會將 OneDrive 中的預設儲存空間增加到每個使用者最多 25 TB (系統管理員也可以視意願設定較低的每位使用者限制)。 
     
-- 對於達到 25 TB OneDrive 儲存空間至少 90% 容量的使用者，可以以 25 TB SharePoint 小組網站的形式提供額外的雲端儲存空間給個別使用者。
+- 對於達到 25 TB OneDrive 儲存空間至少 90% 容量的使用者，可以以 25 TB SharePoint 小組網站的形式提供額外的雲端儲存空間給個別使用者。 如需資訊和協助，請連絡 Microsoft 技術支援人員。
     
 若要查看個別使用者的儲存空間和使用量，請在 OneDrive 同步處理應用程式中移至 [管理儲存空間][](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68)。 若要查看整個組織的使用者使用的儲存空間量，請移至 Microsoft 365 系統管理中心的 [OneDrive 使用量報告](/office365/admin/activity-reports/onedrive-for-business-usage)。 
    
@@ -184,5 +184,5 @@ OneDrive 是以每個使用者為基礎進行佈建，而且是設計來為個�
 
 ## <a name="it-admin-security-and-compliance-features"></a>IT 系統管理員、安全性與合規性功能
 
-如需有關這些功能的資訊，請參閱 [SharePoint 服務描述](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-descriptions#security-and-compliance-features)。
-  
+如需有關這些功能的資訊，請參閱 [SharePoint 服務描述](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description#security-and-compliance-features)。
+
