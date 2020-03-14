@@ -65,6 +65,7 @@
 ### [用戶端功能](exchange-online-archiving-service-description/client-features.md)
 ### [遵循與安全性功能](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [Office 365 進階威脅防護服務說明](office-365-advanced-threat-protection-service-description.md)
+## [Microsoft Teams 服務描述](teams-service-description.md)
 ## [OneDrive 服務描述](onedrive-for-business-service-description.md)
 ## [SharePoint 服務描述](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [SharePoint 限制](sharepoint-online-service-description/sharepoint-online-limits.md)
