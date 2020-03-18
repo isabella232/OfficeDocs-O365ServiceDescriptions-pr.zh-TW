@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
-ms.openlocfilehash: 243e43803c7b9932491da75e64173433fb831309
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 31042c0cb80a844502ab77208c9684f47835f4cf
+ms.sourcegitcommit: 346e5482d49a354a48fc69c57b55d21a31a70f51
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687929"
+ms.locfileid: "42707064"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -479,7 +479,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能**|**Office 365 商務基本版**|**Office 365 商務進階版**|**Office 365 企業版 E1**|**Office 365 企業版 E3**|**Office 365 企業版 E5**|**Office 365 企業版 F3**|
-|日誌規則數目上限|50 條規則|50 條規則|50 條規則|50 條規則|50 條規則|50 條規則|
+|日誌規則數目上限|300 條規則|300 條規則|300 條規則|300 條規則|300 條規則|300 條規則|
 |傳輸規則數目上限|300 條規則|300 條規則|300 條規則|300 條規則|300 條規則|300 條規則|
 |個別傳輸規則的大小上限|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
 |所有傳輸規則中使用之所有規則運算式的字元限制|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
