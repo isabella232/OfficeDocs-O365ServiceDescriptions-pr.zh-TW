@@ -11,17 +11,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
-description: 下列資源管理功能是 Project Online 中提供。
+description: Project Online 中提供下列資源管理功能。
 ms.openlocfilehash: 6141e5467b4ff85757ef85accf9098fb9b5ee9e8
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546056"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687942"
 ---
 # <a name="project-resource-management"></a>專案資源管理
 
-下列資源管理功能是 Project Online 中提供。
+Project Online 中提供下列資源管理功能。
   
 尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務說明](project-online-service-description.md)。
   
@@ -55,6 +55,6 @@ ms.locfileid: "42546056"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
+若要查看不同 Office 365 方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
   
 

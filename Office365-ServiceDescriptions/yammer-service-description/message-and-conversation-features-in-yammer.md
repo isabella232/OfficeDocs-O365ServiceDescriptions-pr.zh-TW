@@ -1,5 +1,5 @@
 ---
-title: Yammer 中的郵件和對話功能
+title: Yammer 中的訊息與交談
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,31 +11,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
-description: 是 Yammer 中提供下列郵件和對話功能。
+description: Yammer 中提供下列郵件和交談功能。
 ms.openlocfilehash: 407de14f6dfd58b5079c44cc5658192451dfc4e4
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263084"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687875"
 ---
-# <a name="message-and-conversation-features-in-yammer"></a>Yammer 中的郵件和對話功能
+# <a name="message-and-conversation-features-in-yammer"></a>Yammer 中的訊息與交談
 
-是 Yammer 中提供下列郵件和對話功能。
+Yammer 中提供下列郵件和交談功能。
   
 ## <a name="mention"></a>@Mention
 
 通知其他同事，並透過 @提及 他們的姓名讓他們加入對話。
 
-## <a name="events"></a>事件
+## <a name="events"></a>Events
 
-組織會議和活動、 共用與同事，並追蹤的出席者。 事件可以新增至 Outlook、 Google、 yahoo ！ 及 iCal 行事曆。
+組織會議和事件，與同事共用會議和事件，並保持出勤追蹤。 事件可以新增至 Outlook、Google、Yahoo！及 iCal 行事曆。
   
-## <a name="office-for-the-web-support"></a>Office web 支援
+## <a name="office-for-the-web-support"></a>Office for web 支援
 
-Yammer 中的 web 支援的 office，可檢視及網頁，直接在 Yammer 中編輯 office 文件上傳至 Yammer。 這可讓網頁漂亮地轉譯與 Office 文件、 啟用共同撰寫由不同使用者同時，並顯示相關的 Yammer 交談，在瀏覽器中的權限。
+借助 Yammer 中的 web 支援 Office，上傳至 Yammer 的檔，可在 Yammer 中透過 Office 直接查看及編輯。 這可讓您在 web 上使用 Office 來 beautifully 檔，並同時啟用不同使用者的共同撰寫，並在您的瀏覽器中顯示相關的 Yammer 交談。
 
-## <a name="online-now"></a>目前上線
+## <a name="online-now"></a>現在線上
 
 查看上線人員，並立即與一或多位同事展開私人討論。連絡人清單會自動依據您最常互動的人員順序進行排序。
 
@@ -49,13 +49,13 @@ Yammer 中的 web 支援的 office，可檢視及網頁，直接在 Yammer 中�
 
 ## <a name="publisher"></a>Publisher
 
-使用發行者來分享更新、 新增文件、 舉行投票、 稱讚某人，或發表活動。
+使用發行者來共用更新、新增檔、發佈投票、稱讚人員或張貼事件。
     
-## <a name="share-conversations"></a>分享對話
+## <a name="share-conversations"></a>共用交談
 
-分享對話中另一個群組的摘要中或透過私人郵件以轉送資訊和重要訊息。
+在另一個群組的摘要中或透過私人郵件共用對話，以轉送資訊和重要訊息。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer 服務說明](yammer-service-description.md)。
+若要查看不同 Office 365 方案、獨立選項和內部部署方案中的功能可用性，請參閱[Yammer 服務描述](yammer-service-description.md)。
   

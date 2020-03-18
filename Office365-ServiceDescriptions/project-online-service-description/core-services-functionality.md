@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
-description: 是 Project Online 中提供下列核心功能。
+description: Project Online 中提供下列核心服務功能功能。
 ms.openlocfilehash: 172aabf2a2cdf4891db556b38f1415edf6389610
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546006"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687962"
 ---
 # <a name="core-services-functionality"></a>核心服務功能
 
-是 Project Online 中提供下列核心功能。
+Project Online 中提供下列核心服務功能功能。
   
 尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務說明](project-online-service-description.md)。
   
@@ -27,13 +27,13 @@ ms.locfileid: "42546006"
 
 Active Directory 提供一個中央位置，讓系統管理員管理使用者認證和權限。Active Directory 與 Project 整合表示 Project Online 或 Project Server 2013 中已同步處理 Active Directory 中的使用者和群組。請參閱[在 Project Server 2013 中以 Active Directory 管理安全性群組同步作業](https://go.microsoft.com/fwlink/p/?LinkId=402631)。
   
-## <a name="administration-deployment-and-extensibility"></a>管理、 部署和擴充性
+## <a name="administration-deployment-and-extensibility"></a>管理、部署和擴充性
 
 Project Online 和 Project Server 2013 提供功能，讓系統管理員規劃、安裝以及設定、維護和擴充 Project。請參閱 [IT 專業人員適用的 Project Server 2013 新功能](https://go.microsoft.com/fwlink/p/?LinkId=272017)。
   
 ## <a name="getting-started"></a>快速入門
 
-快速入門內容適用於 Project Online。 請參閱 [Project Online 快速入門](https://support.office.com/en-us/article/Get-started-with-Project-Online-E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11?ui=en-US&amp;rs=en-US&amp;ad=US)。
+Project Online 的快速入門內容可供使用。 請參閱 [Project Online 快速入門](https://support.office.com/en-us/article/Get-started-with-Project-Online-E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11?ui=en-US&amp;rs=en-US&amp;ad=US)。
   
 ## <a name="issues-and-risk-management-for-team-members"></a>問題和風險管理 (適用於小組成員)
 
@@ -57,7 +57,7 @@ Microsoft PPM 方案受到上千家 Microsoft 合作夥伴的支援，這些合�
   
 ## <a name="team-member-collaboration"></a>小組成員協同合作
 
-小組共同作業支援並驅動整體專案成功和效率。 若要查看 Project Server 2013 如何讓組織在專案上共同作業，請參閱[影片： 與您的小組共同作業](https://go.microsoft.com/fwlink/?LinkId=402628)。
+小組共同作業支援並驅動整體專案成功和效率。 若要查看 Project Server 2013 如何讓組織在專案上共同作業，請參閱[影片：與您的小組共同](https://go.microsoft.com/fwlink/?LinkId=402628)作業。
   
 ## <a name="time-and-task-management-for-team-members"></a>時間和工作管理 (適用於小組成員)
 

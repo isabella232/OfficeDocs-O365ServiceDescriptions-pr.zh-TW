@@ -11,17 +11,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
-description: 是 Project Online 中提供下列專案規劃功能。
+description: Project Online 中提供下列專案規劃功能。
 ms.openlocfilehash: e591d491f76a340da7e3260ece0210de3ac57637
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546026"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687937"
 ---
 # <a name="project-planning"></a>專案規劃
 
-是 Project Online 中提供下列專案規劃功能。
+Project Online 中提供下列專案規劃功能。
   
 尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務說明](project-online-service-description.md)。
   
@@ -49,13 +49,13 @@ ms.locfileid: "42546026"
 
 將圖片新增至欄，以指示排程進度。 深入了解[新增指標](https://go.microsoft.com/fwlink/p/?LinkId=271340)。
   
-## <a name="group-and-sort-project-data"></a>群組和排序專案資料
+## <a name="group-and-sort-project-data"></a>分組和排序專案資料
 
 將多個群組列套用至專案計劃。 深入了解[群組任務或資源](https://go.microsoft.com/fwlink/p/?LinkId=271326)。
   
 ## <a name="reports"></a>報告
 
-使用 Project 2016，您可以建立簡潔、繽紛的專業報告，而不必將資料匯出至其他程式。 新增圖片、 圖表、 動畫、 連結及更多&mdash;，您必須清楚且有效率地與專案關係人共用專案狀態資訊及小組成員的所有項目。 深入了解[建立專案報告](https://go.microsoft.com/fwlink/p/?LinkId=271349)。
+使用 Project 2016，您可以建立簡潔、繽紛的專業報告，而不必將資料匯出至其他程式。 新增圖片、圖表、動畫、連結，以及更&mdash;多您必須清晰且有效地與專案關係人和小組成員共用專案狀態資訊的所有專案。 深入了解[建立專案報告](https://go.microsoft.com/fwlink/p/?LinkId=271349)。
   
 ## <a name="team-planner"></a>團隊規劃
 
@@ -63,5 +63,5 @@ ms.locfileid: "42546026"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
+若要查看不同 Office 365 方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
   

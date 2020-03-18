@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
-description: 下列報告和商業智慧功能可在 Project Online 中。
+description: Project Online 中提供下列報表和商務智慧功能。
 ms.openlocfilehash: dc3c5939bbdfc08cafc6bf6b7d4bb65d90e675c7
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546076"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687914"
 ---
 # <a name="reporting-and-business-intelligence"></a>報告和商業智慧
 
-下列報告和商業智慧功能可在 Project Online 中。
+Project Online 中提供下列報表和商務智慧功能。
   
 ## <a name="odata-feeds"></a>OData 摘要
 
@@ -27,7 +27,7 @@ OData 摘要可啟用 REST 查詢以及各種不同的 OData 用戶端程式庫�
   
 ## <a name="out-of-the-box-portfolio-dashboards"></a>現成可用的組合儀表板
 
-豐富且現成可用的報告經過設計，可讓許多客戶立即使用，而 Web 應用程式也可針對組合儀表板進行自訂，有助於滿足組織的特定需求。 有各種專案、任務和以資源為基礎的報表可供選擇，包括問題/風險/成果報告，以及數個篩選選項 (包括按自訂欄位篩選)。 報告可以輕易地自訂，而不需要離開應用程式。 
+豐富且現成可用的報告經過設計，可讓許多客戶立即使用，而 Web 應用程式也可針對組合儀表板進行自訂，有助於滿足組織的特定需求。 有各種專案、任務和以資源為基礎的報表可供選擇，包括問題/風險/成果報告，以及數個篩選選項 (包括按自訂欄位篩選)。 您可以輕鬆地自訂報告，而不需要離開應用程式。 
   
 ## <a name="project-desktop-reporting"></a>Project 桌面報告
 

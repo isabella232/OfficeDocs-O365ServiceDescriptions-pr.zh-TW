@@ -11,17 +11,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
-description: 下列的 SharePoint 與 Skype for Business 互通性功能可在 Project Online 中。
+description: Project Online 中提供下列 SharePoint 和商務用 Skype 互通性功能。
 ms.openlocfilehash: 3c81ee0250cf3cf27bb18c83ca823da5a02cac9a
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546046"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687955"
 ---
 # <a name="project-publishing"></a>專案發佈
 
-下列的 SharePoint 與 Skype for Business 互通性功能可在 Project Online 中。
+Project Online 中提供下列 SharePoint 和商務用 Skype 互通性功能。
   
 尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務說明](project-online-service-description.md)。
   
@@ -37,20 +37,20 @@ ms.locfileid: "42546046"
 
 使用傳訊功能與專案的小組成員溝通。 深入了解[專案中的 IM 對談](https://go.microsoft.com/fwlink/p/?LinkId=271351)。
   
-## <a name="publish-projects-on-project-server-or-project-online"></a>發佈專案在 Project Server 或 Project Online
+## <a name="publish-projects-on-project-server-or-project-online"></a>在 Project Server 或 Project Online 上發佈專案
 
 使用 Project Web App 發佈專案。 深入了解[儲存專案並將專案發佈到 Project Web App](https://go.microsoft.com/fwlink/p/?LinkId=271354)。
   
-## <a name="save-a-project-mpp-file-on-sharepoint"></a>在 SharePoint 上的將 Project MPP 檔案儲存
+## <a name="save-a-project-mpp-file-on-sharepoint"></a>將 Project MPP 檔案儲存在 SharePoint
 
-將專案儲存至 SharePoint 文件庫與沒有 Project Server 的小組成員共用。 深入了解[與 SharePoint 任務清單同步](https://go.microsoft.com/fwlink/p/?LinkId=271353)。
+將專案儲存在 SharePoint 文件庫中，以與不具備 Project Server 的小組成員共用。 深入了解[與 SharePoint 任務清單同步](https://go.microsoft.com/fwlink/p/?LinkId=271353)。
   
-## <a name="task-list-sync-to-sharepoint"></a>SharePoint 任務清單同步處理
+## <a name="task-list-sync-to-sharepoint"></a>工作清單同步處理至 SharePoint
 
 專案與 SharePoint 任務清單第一次配對之後，您可以在更新專案時繼續與任務清單進行同步處理。同步處理期間，會維持任務、里程碑和欄位對應 (包括附註) 之間的前置任務關係。您的小組成員不需要安裝 Project Professional 2013 即可存取其任務。深入了解[與 SharePoint 任務清單同步](https://go.microsoft.com/fwlink/p/?LinkId=271353)。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
+若要查看不同 Office 365 方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
   
 

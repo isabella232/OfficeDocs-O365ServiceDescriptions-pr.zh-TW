@@ -1,5 +1,5 @@
 ---
-title: 郵件原則及符合性
+title: 郵件原則及合規性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,77 +11,70 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Microsoft Exchange Online Protection (EOP) 提供郵件原則及符合性功能，可協助您管理電子郵件資料。
-ms.openlocfilehash: b40671291af806e68e608a8f4553ee05f24049d0
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: Microsoft Exchange Online Protection （EOP）提供郵件原則和符合性功能，可協助您管理電子郵件資料。
+ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776714"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687883"
 ---
-# <a name="messaging-policy-and-compliance"></a>郵件原則及符合性
+# <a name="messaging-policy-and-compliance"></a>郵件原則及合規性
 
-Microsoft Exchange Online Protection (EOP) 提供郵件原則及符合性功能，可協助您管理電子郵件資料。
-  
-尋找所有 EOP 功能的相關資訊嗎？ 請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
-  
-## <a name="transport-rules"></a>傳輸規則
-<a name="BKMK_transportrules"> </a>
+Microsoft Exchange Online Protection （EOP）提供郵件原則和符合性功能，可協助您管理電子郵件資料。
 
-傳輸規則可讓您彈性地將自己公司特有的原則套用至電子郵件。傳輸規則由彈性準則構成，可讓您定義條件和例外狀況，以及根據準則採取的動作。如需有關傳輸規則的詳細資訊，請參閱[傳輸規則](https://go.microsoft.com/fwlink/p/?LinkId=320399)。
-  
+尋找所有 EOP 功能的相關資訊嗎？ 請參閱[Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
+
+## <a name="mail-flow-rules"></a>郵件流程規則
+
+郵件流程規則（也稱為傳輸規則）為您提供彈性，可將您自己的公司特有原則套用至電子郵件。 郵件流程規則是由彈性準則所組成，可讓您根據準則定義要採取的條件、例外狀況和動作。 如需詳細資訊，請參閱 [Exchange Online Protection 中的郵件流程規則 (傳輸規則)](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)。
+
 ## <a name="audit-logging"></a>稽核記錄
-<a name="BKMK_auditlogging"> </a>
 
-稽核記錄可讓您追蹤系統管理員對您組織所做的特定變更。這些報告可協助您符合法規、規範和訴訟需求。如需詳細資訊，請參閱 [EOP 中的稽核報告](https://go.microsoft.com/fwlink/p/?LinkId=314258)。
-  
+稽核記錄可讓您追蹤系統管理員對您組織所做的特定變更。 這些報告可協助您符合法規、規範和訴訟需求。 如需詳細資訊，請參閱 [EOP 中的稽核報告](https://docs.microsoft.com/microsoft-365/security/office-365-security/auditing-reports-in-eop)。
+
 ## <a name="data-loss-prevention-dlp"></a>資料外洩防護 (DLP)
-<a name="BKMK_datalossprevention"> </a>
 
-獨立式 EOP 客戶無法使用此功能。透過深度內容分析，資料外洩防護 (DLP) 可協助您識別、監視和保護組織中的機密資訊。DLP 對於企業郵件系統越來越重要，因為業務關鍵電子郵件包含需要受到保護的機密資料。DLP 功能可讓您保護機密資料，同時又不影響工作者的生產力。
-  
+獨立式 EOP 客戶無法使用此功能。 透過深度內容分析，資料外洩防護 (DLP) 可協助您識別、監視和保護組織中的機密資訊。 DLP 對於企業郵件系統越來越重要，因為業務關鍵電子郵件包含需要受到保護的機密資料。 DLP 功能可讓您保護機密資料，而不會影響工作者的生產力。
+
 您可以在 EAC 中設定 DLP 原則，以便可以：
-  
+
 - 開始使用預先設定的原則範本，協助您偵測特定的敏感資訊類型，例如 PCI-DSS 資料、Gramm-Leach-Bliley 金融服務業現代化法案資料，或甚至是特定地區設定的個人識別資訊 (PII)。
-    
-- 運用現有傳輸規則準則和動作的完整功能，並新增傳輸規則。
-    
+
+- 使用現有郵件流程規則準則和動作的完整功能，並新增郵件流程規則。
+
 - 在完整執行 DLP 原則之前先測試其有效性。
-    
+
 - 加入您自己的自訂 DLP 原則範本和敏感資訊類型。
-    
+
 - 偵測郵件附件、本文或主旨行中的機密資訊，並調整服務採取動作的信賴等級。
-    
-- 使用「文件指紋」偵測敏感表單資料。「文件指紋」會協助您根據可用於定義傳輸規則和 DLP 原則的文字型表單，輕易地建立自訂敏感資訊類型。
-    
-- 新增原則提示，藉由對 Outlook 2013、Outlook Web App 及 OWA for Devices 使用者顯示通知來協助減少資料遺失，而且也能夠藉由允許誤判回報來改善原則的有效性。
-    
+
+- 使用「文件指紋」偵測敏感表單資料。 檔指紋可協助您根據您可以用來定義郵件流程規則和 DLP 原則的文字型表單，輕鬆建立自訂機密資訊類型。
+
+- 新增原則提示，可在您的 Outlook 2013、Outlook 網頁版和裝置使用者的 OWA 中顯示通知，以協助減少資料遺失，也可以允許誤報，以提升原則的效能。
+
 - 檢閱 DLP 報告中的事件資料，或使用產生事件報告動作來新增您自己的特定報告。
-    
+
 > [!NOTE]
-> DLP 原則只會套用至進出組織的郵件。組織內部 (內部) 郵件不會套用 DLP 原則，除非您在內部部署 DLP 的情況下執行 Exchange Server 2013。這項條件也適用於 DLP 原則提示，這些提示會在機密資料誤送至未授權收件者之前，通知使用者可能會發生的原則違規情形。 
-  
-若要深入了解 DLP，請參閱[資料外洩防護](https://go.microsoft.com/fwlink/p/?LinkId=320398)。
-  
+> DLP 原則只會套用至進出組織的郵件。組織內部 (內部) 郵件不會套用 DLP 原則，除非您在內部部署 DLP 的情況下執行 Exchange Server 2013。這項條件也適用於 DLP 原則提示，這些提示會在機密資料誤送至未授權收件者之前，通知使用者可能會發生的原則違規情形。
+
+若要深入瞭解 DLP，請參閱[資料遺失防護 In Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)。
+
 ## <a name="office-365-message-encryption"></a>Office 365 郵件加密
-<a name="BKMK_OME_in_EOP"> </a>
 
-Office 365 郵件加密的 Azure 資訊保護，組件是一種線上服務，可讓電子郵件使用者將加密的電子郵件傳送給任何人。 內部部署客戶可以購買 Azure 資訊保護，並且使用 Exchange Online Protection 設定郵件流程通過 Exchange Online 存取 Office 365 郵件加密。 若要進一步了解 Exchange Online 中的 Office 365 郵件加密，請參閱 Exchange Online 服務說明的＜[Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption)＞。 
-  
+Office 365 郵件加密是 Azure 資訊保護的一部分，是一項線上服務，可讓電子郵件使用者將加密的電子郵件傳送給任何人。 內部部署客戶可以透過購買 Azure 資訊保護和使用 Exchange Online Protection 來設定透過 Exchange Online 的郵件流程，來存取 Office 365 郵件加密。 若要深入瞭解 Exchange Online 中的 Office 365 郵件加密，請參閱 Exchange Online 服務說明中的[office 365 郵件加密](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption)。
+
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>EOP 選項的郵件原則和符合性功能
-<a name="BKMK_OME_in_EOP"> </a>
 
-|**功能**|**獨立式 EOP**|**Exchange Online 中的 EOP 功能**|**Exchange Enterprise CAL with Services**|
+|**功能**|**獨立式 EOP**|**Exchange Online 中<br/>的 EOP 功能**|**Exchange Enterprise <br/> CAL with Services**|
 |:-----|:-----|:-----|:-----|
-|傳輸規則  <br/> |Yes<sup>1</sup> <br/> |Yes<sup>1</sup> <br/> |是  <br/> |
-|稽核記錄  <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |
-|資料外洩防護 (DLP)  <br/> |否  <br/> |是  <br/> |是<sup>3</sup> <br/> |
-|Office 365 郵件加密  <br/> |是<sup>4</sup> <br/> |是  <br/> |是<sup>4</sup> <br/> |
-   
+|郵件流程規則|是<sup>1</sup>|是<sup>1</sup>|是<sup>1、3</sup>|
+|稽核記錄|是<sup>2</sup>|是|是|
+|資料外洩防護 (DLP)|否|是|是<sup>3</sup>|
+|Office 365 郵件加密|是<sup>4</sup>|是|是<sup>4</sup>|
+
 > [!NOTE]
-> <sup>1</sup> EOP 與 Exchange Online 可用的準則和動作各不相同。 如需 EOP 中可用的準則和動作清單，請參閱 [傳輸規則準則](https://go.microsoft.com/fwlink/p/?LinkId=320392) 和 [傳輸規則動作](https://go.microsoft.com/fwlink/p/?LinkId=320393)。 如需 Exchange Online 中可用的準則和動作清單，請參閱[傳輸規則準則](https://go.microsoft.com/fwlink/p/?LinkId=320394)和[傳輸規則動作](https://go.microsoft.com/fwlink/p/?LinkId=320395)。 <br/>
+> <sup>1</sup> EOP 與 Exchange Online 可用的郵件流程規則條件、例外狀況和動作稍有不同。 在 Exchange Online 中的[郵件流程規則條件和例外狀況（](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)述詞）和[exchange Online 中的郵件流程規則動作](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)都有這些差異。 <br/>
 > <sup>2</sup> EOP 稽核報告是 Exchange Online 稽核報告的子集，但不包括信箱的相關資訊。 <br/>
 > <sup>3</sup> DLP 原則祕訣不適用於 Exchange Enterprise CAL with Services 客戶。 <br/>
-> <sup>4</sup>對於購買 Azure 資訊保護附加元件，並使用 Exchange Online Protection 透過 Exchange Online 路由電子郵件的內部部署客戶支援。 為桌面體驗，除了 Azure 資訊保護的附加元件，Office 365 專業增強版需要購買。 <br/>
-  
-
+> <sup>4</sup>對於購買 Azure 資訊保護附加元件和使用 Exchange online Protection 透過 exchange online 路由電子郵件的內部部署客戶提供支援。 針對桌面體驗，除了 Azure 資訊保護附加元件之外，還需要購買 Office 365 ProPlus。 <br/>

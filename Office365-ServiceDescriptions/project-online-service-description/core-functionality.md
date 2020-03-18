@@ -11,17 +11,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: 是 Project Online 中提供下列核心功能。
+description: Project Online 中提供下列核心功能功能。
 ms.openlocfilehash: 2e0b026933c9fbe1da8f015251c93833822a8d71
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546016"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687959"
 ---
 # <a name="core-functionality"></a>核心功能
 
-是 Project Online 中提供下列核心功能。
+Project Online 中提供下列核心功能功能。
   
 尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務說明](project-online-service-description.md)。
   
@@ -31,11 +31,11 @@ ms.locfileid: "42546016"
   
 ## <a name="backstage"></a>Backstage
 
-選取**檔案**所使用的功能在 Backstage 中，您可以管理您的專案檔案和其相關的資料的所在位置。 Use the Backstage for everything that you do to a project file that you don't do in the file—creating, saving, inspecting for hidden metadata or personal information, and setting options. 
+選取 **[** 檔案] 以使用 Backstage 中的功能，您可以在其中管理專案檔案和相關資料。 Use the Backstage for everything that you do to a project file that you don't do in the file—creating, saving, inspecting for hidden metadata or personal information, and setting options. 
   
 ## <a name="click-to-run"></a>隨選即用
 
-快速安裝 Project Online 透過網際網路、 內部網路、 本機檔案系統，或從離線的媒體，以確定您已使用最新版 Project 桌面應用程式的最新狀態。 若要深入了解，請參閱[隨選即用](https://go.microsoft.com/fwlink/p/?LinkId=271596)。
+透過網際網路、內部網路、本機檔案系統或從離線媒體快速安裝 Project Online，以確定您使用的是最新版本的 Project 桌面應用程式。 若要深入了解，請參閱[隨選即用](https://go.microsoft.com/fwlink/p/?LinkId=271596)。
   
 ## <a name="contextual-right-click-menus"></a>按右鍵內容功能表
 
@@ -51,7 +51,7 @@ ms.locfileid: "42546016"
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>甘特圖、行事曆和任務工作表視圖
 
-呈現專案資訊以圖形方式使用甘特圖、 網狀圖、 圖形、 工作表、 用法及表單檢視。 請參閱[選擇合適的專案排程檢視](https://go.microsoft.com/fwlink/?LinkId=402905)。
+使用甘特圖、網狀圖、圖表、工作表、使用方式和表單檢視，以圖形方式呈現專案資訊。 請參閱[選擇合適的專案排程檢視](https://go.microsoft.com/fwlink/?LinkId=402905)。
   
 ## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft 流暢的使用者介面，功能區
 
@@ -59,23 +59,23 @@ ms.locfileid: "42546016"
   
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
-您可以使用 [復原] 功能表，一次復原多項變更。 
+您可以使用 [復原] 功能表同時復原多個變更。 
   
 ## <a name="network-diagram-view"></a>網狀圖檢視
 
 以 [網狀圖] 檢視，檢視專案的工作、依存性和關鍵路徑。 請參閱[建立網狀圖](https://go.microsoft.com/fwlink/p/?LinkId=271338)。
   
-## <a name="office-store"></a>Office 市集
+## <a name="office-store"></a>Office 存放區
 
-需要應用程式協助您使用 Project 嗎？ Office 市集中尋找新的應用程式的專案。 請參閱 [Project 增益集](https://go.microsoft.com/fwlink/?LinkId=273883)。
+需要應用程式協助您使用 Project 嗎？ 在 Office store 中尋找 Project 的新應用程式。 請參閱 [Project 增益集](https://go.microsoft.com/fwlink/?LinkId=273883)。
   
 ## <a name="online-help"></a>線上說明
 
-專案說明 」 可在 Office.com 或直接在專案快速入門輔助線 (選取**檔案** \> **新增**)。 [觀看這些影片以切換到 Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325)。
+專案說明可在 Office.com 中，或直接在 Project 中取得入門指南（**選取** \> [檔案] [**新增**]）。 [觀賞這些影片以切換至專案 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325)。
   
 ## <a name="pdf-and-xps-output"></a>PDF 和 XPS 輸出
 
-專案檔案儲存為 PDF 或 XPS 檔案。 請參閱[將專案檔案儲存為 PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350)。
+將專案檔案儲存為 PDF 或 XPS 檔案。 請參閱[將專案檔案儲存為 PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350)。
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
@@ -103,6 +103,6 @@ Project 2013 顯示一站式中心用於開始專案，而不是提供空白專�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
+若要查看不同 Office 365 方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
   
 

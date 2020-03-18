@@ -11,19 +11,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: 對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。 這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。 不過，某些組織基於業務需求而需要將所有信箱保留在內部。 Exchange Online Protection (EOP) 可讓您執行這項作業，並提供防毒及反垃圾郵件處理定域機組中的郵件。
-ms.openlocfilehash: 9fac8159a7fba6757ec28d7a45248bd06dba3fb7
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+description: 對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。 這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。 不過，某些組織基於業務需求而需要將所有信箱保留在內部。 Exchange Online Protection （EOP）可讓您執行這項作業，並在雲端中提供防病毒和反垃圾郵件的郵件處理。
+ms.openlocfilehash: c6a41df3e8b8c157d599f6a9d55be4b7f826e1d9
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581849"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687918"
 ---
 # <a name="mail-floweop"></a>郵件流程 [EOP]
 
-對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。 這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。 不過，某些組織基於業務需求而需要將所有信箱保留在內部。 Exchange Online Protection (EOP) 可讓您執行這項作業，並提供防毒及反垃圾郵件處理定域機組中的郵件。 如需詳細資訊並購買 EOP，請移至 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)。
+對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。 這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。 不過，某些組織基於業務需求而需要將所有信箱保留在內部。 Exchange Online Protection （EOP）可讓您執行這項作業，並在雲端中提供防病毒和反垃圾郵件的郵件處理。 如需詳細資訊並購買 EOP，請移至 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)。
   
-尋找網域管理還是目錄架構邊緣封鎖 (DBEB) 的詳細資訊？ 請參閱[收件者、 網域和公司管理](recipient-domain-and-company-management.md)。 若要深入了解所有 EOP 功能，請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
+尋找網域管理還是目錄架構邊緣封鎖 (DBEB) 的詳細資訊？ 請參閱[收件者、網域和公司管理](recipient-domain-and-company-management.md)。 若要深入瞭解所有 EOP 功能，請參閱[Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
   
 ## <a name="routing-email-between-office-365-and-your-own-email-servers"></a>在 Office 365 和您自己的電子郵件伺服器之間路由電子郵件
 
@@ -31,7 +31,7 @@ ms.locfileid: "37581849"
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>與信任的合作夥伴間的安全傳訊
 
-EOP 客戶可以使用 Office 365 連接器，設定與信任合作夥伴間的安全郵件流程。 Office 365 支援透過傳輸層安全性 (TLS) 進行安全通訊，而您可以透過 TLS 建立連接器來強制執行加密。 [TLS](https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections)是透過網際網路進行通訊提供安全性密碼編譯通訊協定。 您可以使用連接器，同時設定使用自我簽署或經過憑證授權單位 (CA) 驗證之憑證的強制內送和外寄 TLS。 您也可以套用其他安全性限制 (像是指定合作夥伴組織傳送郵件所用的網域名稱或 IP 位址範圍)。 
+EOP 客戶可以使用 Office 365 連接器，設定與信任合作夥伴間的安全郵件流程。 Office 365 支援透過傳輸層安全性 (TLS) 進行安全通訊，而您可以透過 TLS 建立連接器來強制執行加密。 [TLS](https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections)是一種加密通訊協定，可為透過網際網路的通訊提供安全性。 您可以使用連接器，同時設定使用自我簽署或經過憑證授權單位 (CA) 驗證之憑證的強制內送和外寄 TLS。 您也可以套用其他安全性限制 (像是指定合作夥伴組織傳送郵件所用的網域名稱或 IP 位址範圍)。 
   
 如需詳細資訊，請參閱[對合作夥伴組織設定安全郵件流程連接器](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)。
   
@@ -53,4 +53,4 @@ EOP 客戶可以使用 Office 365 連接器，設定與信任合作夥伴間的�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
+若要查看不同 Office 365 方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。

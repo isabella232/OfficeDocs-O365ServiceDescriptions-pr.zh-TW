@@ -13,20 +13,20 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Yammer 中提供下列支援功能。
 ms.openlocfilehash: 8d0a1ee35cc9c6629b256be5a7256ccb4a65a4b4
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726477"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687878"
 ---
 # <a name="support-features-in-yammer"></a>Yammer 中的支援功能
 
 Yammer 中提供下列支援功能。
   
 > [!IMPORTANT]
-> Yammer 不支援復原已刪除的內容&mdash;例如外部網路、 使用者、 郵件、 群組和檔案&mdash;包括網路管理員不小心刪除的內容。
+> Yammer 不支援復原已刪除的&mdash;內容（例如外部網路、使用者、郵件、群組和檔案&mdash;），包括網路系統管理員不小心刪除的內容。
 >
-> Microsoft 不會在 Yammer 中可用的分析功能之外提供自訂或臨機操作報表。 有時 Microsoft 可以提供自訂的報表過程支援要求，但大多數的情況下，他們無法容納資料的直接要求。
+> Microsoft 不會在 Yammer 中可用的分析功能之外提供自訂或臨機操作報表。 有些情況下，Microsoft 可以在支援要求的過程中提供自訂報告，但在大部分情況下，他們無法容納直接的資料要求。
 
 ## <a name="administrator-support"></a>Administrator support
 
@@ -34,11 +34,11 @@ Yammer Enterprise 系統管理員負責維護帳戶，並且有權直接與 Micr
 
 ## <a name="customer-support"></a>客戶支援
 
-我們有技術支援人員可以快速回答客戶問題及解決問題。 Yammer 客戶可以值班支援在公開的支援論壇，監視所支援專員尋求協助的每週 7 天，每天 24 小時。 如果您是需要支援的 Yammer 客戶，請參閱＜[Yammer 公用支援](https://go.microsoft.com/fwlink/p/?LinkId=330921)＞。
+我們有技術支援人員可以快速回答客戶問題及解決問題。 Yammer 客戶可以在公開支援論壇上進行發佈，它會以一天24小時、每週7天的技術支援代理程式來獲得支援。 如果您是需要支援的 Yammer 客戶，請參閱＜[Yammer 公用支援](https://go.microsoft.com/fwlink/p/?LinkId=330921)＞。
    
 ## <a name="fasttrack-center"></a>FastTrack Center
 
-Microsoft FastTrack 服務可以協助您藉由提供的方式每個步驟的說明移至 Microsoft 雲端的組織。 FastTrack 可讓您策略性計劃發行、 快速需要費時新的服務並上架新的使用者。 如需詳細資訊，請造訪 [FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)。 如需建立您的 Yammer 網路，包括預先啟動、 啟動和支援文件和活動，請移至[展望： 識別案例](https://fasttrack.microsoft.com/office/envision/identify-scenarios)] 頁面上，然後選取 [**您的組織在一起**。
+Microsoft FastTrack 服務可協助您的組織移至 Microsoft 雲端，方法是在每個步驟中提供協助。 FastTrack 可讓您以戰略計畫的部署方案，快速提升新服務，以及上架新使用者。 如需詳細資訊，請造訪 [FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)。 如需建立 Yammer 網路（包括預先啟動、啟動和支援檔及活動）的詳細資訊，請移至 [[構想：識別案例](https://fasttrack.microsoft.com/office/envision/identify-scenarios)] 頁面，然後選取 [**將組織移到一起**]。
 
 ## <a name="support-features-across-yammer-plans"></a>不同 Yammer 計劃中的支援功能
 
@@ -56,13 +56,13 @@ Microsoft FastTrack 服務可以協助您藉由提供的方式每個步驟的說
   
 |**嚴重層級**|**描述**|**範例**|
 |:-----|:-----|:-----|
-|嚴重度 A (重大)  <br/> |對於大部分使用者而言皆無法使用 Service。  <br/> |Yammer 平台不通。  <br/> |
+|嚴重度 A (重大)  <br/> |大多數使用者都無法使用服務。  <br/> |Yammer 平臺已停機。  <br/> |
 |嚴重度 B (高)  <br/> |服務可以使用，但是嚴重受損。  <br/> |張貼到摘要並未如預期般運作。  <br/> |
 |嚴重度 C (中)  <br/> |服務並未如預期般運作，但有因應措施可克服。  <br/> |檔案預覽未如預期般顯示。  <br/> |
 
 ## <a name="technical-support-initial-response-times"></a>技術支援的初始回應時間
 
-一開始的回應時間是依上述的嚴重層級和 Yammer 訂閱的類型而定。 下表顯示了目標回應時間。
+一開始的回應時間是依上述的嚴重層級和 Yammer 訂閱的類型而定。 目標回應時間如下表所示。
   
 |**嚴重層級**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
