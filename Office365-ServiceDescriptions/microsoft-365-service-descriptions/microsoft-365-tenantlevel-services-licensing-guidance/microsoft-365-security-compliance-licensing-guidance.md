@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 安全性 & 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 097ad158d7688050f8fe30fc06d8f35fd2125caf
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: da063525aaf7116aed5d85424b3249d2fb82cf15
+ms.sourcegitcommit: a3c2099eb691866f9e48d25f3f9009df3ef8ecd3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609914"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42926336"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -168,6 +168,29 @@ MCAS 會探索並評定影子 IT，提供第一方與第三方雲端應用程式
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
 系統管理員可以利用服務中提供的限定範圍部署功能，將 MCAS 部署限定於授權使用者的範圍。 如需詳細資訊，請參閱[限定範圍的部署](https://docs.microsoft.com/cloud-app-security/scoped-deployment)。
+
+
+## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
+Microsoft Defender ATP 是一個端點安全性解決方案，包含風險型弱點管理和評估;攻擊面降減功能;以行為為基礎和雲端電源的下一代保護;端點偵測和回應（EDR）;自動調查和修正;和受管理的搜尋服務。 請參閱[Microsoft DEFENDER ATP](https://www.microsoft.com/en-us/microsoft-365/windows/microsoft-defender-atp?rtc=1)頁面以深入瞭解。 
+
+
+### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
+
+Windows 10 企業版 E5 的授權使用者，Windows 10 教育版 A5，Microsoft 365 E5 （M365 E5）包含 Windows 10 企業版 E5，microsoft 365 E5 Security，Microsoft 365 A5 （M365 A5）可以從 Microsoft Defender ATP 受益。
+
+### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
+
+SecOps 分析員和安全性專業人員會受益于 Microsoft Defender ATP 的端點安全性功能，以執行預防性保護、入侵後偵測、自動調查，以及對高級威脅的回應。 使用者利用 Microsoft Defender ATP 所監控的惡意事件，使使用者受益。
+
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
+
+根據預設，會在承租人層級為租使用者內的所有使用者啟用 Microsoft Defender ATP 功能。 如需部署的詳細資訊，請參閱[部署指南](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases)。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
+
+Microsoft Defender ATP 系統管理員可以利用以[角色為基礎的存取控制（RBAC）](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) ，在安全性作業小組中建立角色和群組，以授與 Microsoft Defender 安全中心的適當存取權。
+
 
 ## <a name="office-365-advanced-data-governance"></a>Office 365 進階資料控管
 
