@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如果您想要知道 Office 365 和 Microsoft 365 教育版方案有何差異，本文將說明各方案中包含的功能。
-ms.openlocfilehash: 8cae1e6407ff99472d039872b82c220a338c03b4
-ms.sourcegitcommit: c7388a31056b4053ff094ff0e96f6ae891e069d7
+ms.openlocfilehash: fa3bf6e0795913861b3c4a4bc7a0a021c8ca05a1
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41839766"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959311"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
 Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如果您想要知道 Office 365 和 Microsoft 365 教育版方案有何差異，本文將說明各方案中包含的功能。 
   
-Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterprise Mobility 及 Security。 下表列出 Office 365 教育版 A1、A3 和 A5 的功能，以及對應的 Microsoft 365 教育版 A3 和 A5 功能。 若要比較 Office 365 功能跨商務和企業版計劃，請參閱[比較 Office 365 for Business 方案](https://go.microsoft.com/fwlink/?linkid=799177)，或者，如需更詳細的功能清單，請參閱[Office 365 服務說明](../office-365-service-descriptions-technet-library.md)相關服務描述。 若要搜尋技術支援文章和資訊，請參閱[Office 說明&amp;訓練](https://support.office.com/)。
+Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterprise Mobility 及 Security。 下表列出 Office 365 教育版 A1、A3 和 A5 的功能，以及對應的 Microsoft 365 教育版 A3 和 A5 功能。 若要跨商務和企業方案比較 Office 365 的功能，請參閱[比較 office 365 For business 方案](https://go.microsoft.com/fwlink/?linkid=799177)，或如需更詳細的功能清單，請參閱[Office 365 服務說明](../office-365-service-descriptions-technet-library.md)中的相關服務描述。 若要搜尋支援文章和資訊，請參閱[Office &amp;協助訓練](https://support.office.com/)。
   
 ## <a name="services-and-features"></a>服務與功能
 
@@ -29,7 +29,7 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**服務** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
-|Office 365 平台  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 365 平臺  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |網頁版 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 專業增強版  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是<sup>1</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |
@@ -37,7 +37,7 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 |商務用 OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Teams  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |商務用 Skype Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Project Online  <br/> |否<sup>5</sup> <br/> |否<sup>5</sup> <br/> |否<sup>5</sup> <br/> |否<sup>5</sup> <br/> |否<sup>5</sup> <br/> |
+|Project  <br/> |否<sup>5</sup> <br/> |否<sup>5</sup> <br/> |否<sup>5</sup> <br/> |否<sup>5</sup> <br/> |否<sup>5</sup> <br/> |
 |Yammer Academic  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**教室工具** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |Microsoft Teams 的教室體驗  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -100,7 +100,7 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 > <sup>2</sup> 包含 Exchange Online Plan 2。<br/>
 > <sup>3</sup>包含 SharePoint Online Plan 1 加上附加功能。<br/>
 > <sup>4</sup> 包含 SharePoint Online 方案 2。<br/>
-> <sup>5</sup> Project Online 基本版並不包含在內，但可以免費新增至 Office 365 教育版方案。<br/>
+> <sup>5</sup> Microsoft Project 並未包含在 Office 365，但可以個別購買。 Project Online 基本版是免費的。 如果您是學生或教育機構，您可以享受購買專案方案3與計畫5（教育價）。   <br/>
 > <sup>6</sup> Microsoft 365 教育版 A5 包含電話系統、音訊會議和通話方案功能。 若要實作通話方案需要購買額外的方案 (國內通話方案或國際通話方案)。 <br/>
 > <sup>7</sup> 若要深入了解哪些 Azure 資訊保護功能隨附於 Office 365 方案中，請參閱 [Azure 資訊保護](https://go.microsoft.com/fwlink/?linkid=838357) (部分內容機器翻譯)。<br/>
 > <sup>8</sup> 包含 Intune。<br/>
@@ -108,5 +108,5 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 > <sup>10</sup> ECAL 或 Core CAL 需視購買的 A3 版本而定，A 5 則包含 ECAL 許可權。<br/>
 > <sup>11</sup> 如需有關 Azure Active Directory 的詳細資訊，請參閱[什麼是 Active Directory？](https://docs.microsoft.com/azure/active-directory/active-directory-whatis)。<br/>
 > <sup>12</sup> 需有 Office 專業增強版，才能在 Outlook 電腦版套用防護和傳送受保護的電子郵件。<br/> 
-> <sup>13</sup> Microsoft 365 教育版 A5 學生使用優惠不包含 Microsoft Defender 進階威脅防護。  
+> <sup>13</sup> Microsoft 365 教育版「學生使用權益」不包含 Microsoft Defender 高級威脅防護。  
 

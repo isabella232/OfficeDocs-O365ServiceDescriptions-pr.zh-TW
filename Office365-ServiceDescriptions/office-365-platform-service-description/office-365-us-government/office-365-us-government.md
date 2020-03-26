@@ -10,14 +10,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已建立 Office 365 美國政府方案（或 Office 365 政府版）。 本文概要說明 Office 365 政府美國環境所特有的功能。
-ms.openlocfilehash: 79c803fd407b96d3b5e12589ccb9bec1a34ad097
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: dfb71c726e8993d333132d259828873d073f1d61
+ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609894"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42954810"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
+
+> [!IMPORTANT]
+> 因為 coronavirus （COVID-19） pandemic，所以 Microsoft 團隊在線上通話和音訊/視訊會議方面的經歷極大。<br/>
+> 
+>為了回應空前增加的通話，並確保持續性和可用性，Microsoft 可讓 Microsoft 小組擁有的音訊/視訊伺服器，利用我們的商業資料中心及政府資料中心的處理能力。<br/>
+> 
+>這些音訊/視訊伺服器位於美國的 Microsoft Azure FedRAMP 高資格鑒定界限伺服器內，而且不會儲存任何客戶內容。 不過，這些伺服器正在處理通話和會議的音訊和影片，且在這段期間內由商業員工運作。<br/>
+> 
+>合格的遮罩式人員會透過複查這些伺服器的任何互動式登入，監視這些伺服器以取得客戶資料的潛在存取權。 合格的人員可在存取客戶內容時，符合 GCC 的要求。 如需篩選要求的詳細資訊，請參閱[GCC service description](gcc.md)。<br/>
+> 
+>在我們採取步驟時，感謝您的支援，以確保我們的服務在這些特別的時間內仍保持可用及可靠的狀態。<br/> 
 
 為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已建立 Office 365 美國政府方案（或 Office 365 政府版）。 本節提供 Office 365 政府美國環境特有功能的概覽。 建議您在[Office 365 服務說明](../../office-365-service-descriptions-technet-library.md)中閱讀此補充章節。
   

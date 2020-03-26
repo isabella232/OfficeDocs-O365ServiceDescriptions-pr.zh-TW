@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如果您想要知道 Office 365 教育版方案有何差異，本文將說明各方案中包含的功能。 Office 365 與知名的 Microsoft Office 桌面套件結合，搭載 Microsoft 新一代通訊與共同作業服務的雲端架構版本 (包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office 網頁版，以及 Microsoft 商務用 Skype Online)，讓使用者可透過網際網路在任何地點執行工作。
-ms.openlocfilehash: 7f2c794c60e0c2b9ce677291c134aa5aa3be4dc4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 949fe15b1bb6f0d8823aeb2156975636149e2b4e
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609964"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959291"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -39,13 +39,13 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如�
 |商務用 Skype Online  <br/> |是<sup>7</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |
 |網頁版 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 應用程式  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Microsoft Project Online  <br/> |是<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |
+|Project  <br/> |是<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |Yammer Academic  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Azure 資訊保護<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Project Online 並不包含在內，但可以免費新增至 Office 365 教育版方案。<br/> 
+> <sup>1</sup> Microsoft Project 並未包含在 Office 365 中，但可以另行購買。 Project Online 基本版是免費的。 如果您是學生或教育機構，您可以享受購買專案方案3與計畫5（教育價）。   <br/> 
 <sup>2</sup> 若要深入了解哪些 Azure 資訊保護功能隨附於 Office 365 方案中，請參閱 [Azure 資訊保護](https://azure.microsoft.com/services/information-protection/) (部分內容機器翻譯)。<br/> 
 <sup>3</sup> Office 365 A5 包含電話系統、音訊會議和通話方案功能。 若要實作通話方案需要購買額外的方案 (國內通話方案或國際通話方案)。 <br/> <sup>4</sup> 包含 Exchange Online 方案 2。<br/> 
 <sup>5</sup> 包含 Exchange Online 方案 1 加上附加功能。<br/> 
@@ -504,7 +504,7 @@ Microsoft Exchange Online 中的限制屬於下列其中一個類別：
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |使用者信箱  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
-|封存信箱<sup>6, 7</sup> <br/> |無限制<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
+|封存信箱<sup>6, 7</sup> <br/> |無限制<sup>1</sup> <br/> |無限制<sup>1</sup> <br/> |無限制<sup>1</sup> <br/> |
 |共用信箱  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |
 |資源信箱  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |
 |網站信箱<sup>4</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
@@ -571,7 +571,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |[可復原的項目] 資料夾中每一資料夾的郵件數目上限  <br/> |3 百萬  <br/> |3 百萬  <br/> |3 百萬  <br/> |
 |主信箱中 [可復原的項目] 資料夾的儲存配額 (未保留)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
 |主信箱中 [可復原的項目] 資料夾的儲存配額 (保留)  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
-|封存信箱中 [可復原的項目] 資料夾的儲存配額 (未保留)  <br/> |無限制<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |無限制<sup>1</sup> <br/> |
+|封存信箱中 [可復原的項目] 資料夾的儲存配額 (未保留)  <br/> |無限制<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |封存信箱中 [可復原的項目] 資料夾的儲存配額 (保留)  <br/> |無限制<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |無限制<sup>1</sup> <br/> |
 |[可復原的項目] 資料夾中每一資料夾的郵件數目警告  <br/> |275 萬  <br/> |275 萬  <br/> |275 萬  <br/> |
 |每一信箱資料夾的子資料夾數目上限  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |

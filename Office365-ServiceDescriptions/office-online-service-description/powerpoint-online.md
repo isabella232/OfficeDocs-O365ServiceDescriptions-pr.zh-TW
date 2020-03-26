@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: Web PowerPoint （以前稱為 PowerPoint Web App）可將您的 Microsoft PowerPoint 體驗延伸至網頁瀏覽器，讓您在儲存簡報的網站上直接使用簡報。 具有網路的 Office 的 Microsoft Office 365 客戶可以在旅途中查看、建立及編輯檔案。
-ms.openlocfilehash: 28c272d420225cfb49ada0e9d130c8c374f0f9ef
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 211a028951ee86e8c7e79f36361a4249bbbdb838
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687924"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959321"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint 網頁版
 
@@ -117,7 +117,7 @@ Web PowerPoint 支援八個轉換和37動畫。 如需更多選項，請使用 P
   
 ## <a name="navigation---slide-sorter"></a>導覽投影片流覽
 
-無法在 PowerPoint web 中使用。 投影片瀏覽模式，可讓您以縮圖形式顯示投影片，使您可以輕鬆地排序及整理投影片，但無法在網頁 PowerPoint 中使用。 使用 PowerPoint 桌面應用程式，您可以使用投影片瀏覽模式來組織投影片、新增章節，以及將投影片排序為不同的類別。
+投影片瀏覽模式，可讓您以縮圖形式顯示投影片，便於排序及組織投影片。 您可以使用投影片瀏覽模式來組織投影片、新增章節，以及將投影片排序為不同的類別。
   
 ## <a name="offline-viewing-and-authoring"></a>離線檢視和撰寫
 
