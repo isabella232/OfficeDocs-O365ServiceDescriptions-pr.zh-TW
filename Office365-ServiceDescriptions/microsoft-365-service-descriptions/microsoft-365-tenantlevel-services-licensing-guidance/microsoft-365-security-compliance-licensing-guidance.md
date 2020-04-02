@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 安全性 & 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: da063525aaf7116aed5d85424b3249d2fb82cf15
-ms.sourcegitcommit: a3c2099eb691866f9e48d25f3f9009df3ef8ecd3
+ms.openlocfilehash: 0a7cd5aff15173e257181af5bf6f84aa45fe764e
+ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42926336"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43101112"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -25,21 +25,23 @@ ms.locfileid: "42926336"
 > [!NOTE]
 > 部分租用戶服務目前無法將權益限制在特定使用者。 應該努力將服務權益限制在取得授權的使用者。 這麼做有助於在鎖定功能可用時避免對組織造成潛在的服務中斷。
 
+若要查看授權您的使用者從 Microsoft 365 規範功能受益于2020年4月1日的選項，請下載這項[詳細的 microsoft 365 相容性授權比較（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)。
+
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
 Azure Active Directory Identity Protection (AADIP) 是 Azure Active Directory Premium P2 方案的一項功能，可讓您偵測會影響組織身分識別的潛在弱點，設定對偵測到與組織身分識別相關的可疑動作進行自動回應，以及調查可疑的事件並採取適當動作來加以解決。
-
-### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
-
-Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security 和 Azure Active Directory Premium 方案 2 的授權使用者可從 AADIP 獲益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
 由於有了基於機器學習演算法、標幟的使用者和風險事件的彙總檢視，安全作業分析人員和安全性專業人員可從中獲益。 使用者則可獲益於透過風險式條件存取提供的自動防護，以及可對弱點採取行動而改善的安全性。
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+Enterprise 可移動性 + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 安全性和 Azure Active Directory Premium 方案2為使用者提供從 Azure Active Directory 身分識別保護中受益的權利。
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，AADIP 功能會在租用戶層級針對租用戶內的所有使用者啟用。 如需 AADIP 的相關資訊，請參閱[什麼是 Azure Active Directory Identity Protection？](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)。
+根據預設，AADIP 功能會在租用戶層級針對租用戶內的所有使用者啟用。 如需 AADIP 的相關資訊，請參閱[什麼是 Azure Active Directory Identity Protection？](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
@@ -49,13 +51,13 @@ Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365
 
 Azure 進階威脅防護 (ATP) 是一項雲端服務，可協助保護企業混合式環境，免於多種類型的進階鎖定目標的網路攻擊和內部威脅。
 
-### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
-
-Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security 和 Azure 進階威脅防護的授權使用者可從 Azure ATP 獲益。
-
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
 安全作業分析人員和安全性專業人員可從 Azure ATP 偵測和調查進階威脅、遭入侵的身分識別和惡意內部人員動作的能力獲益。 使用者透過讓 Azure ATP 監控其資料而獲益。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+Enterprise 可移動性 + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 安全性，以及 Azure 高級威脅防護為使用者提供從 Azure ATP 受益的權利。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -65,39 +67,17 @@ Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365
 
 Microsoft 會為授權的使用者提供威脅偵測功能。
 
-## <a name="azure-information-protection"></a>Azure 資訊保護
-
-Azure 資訊保護 (AIP) 可協助組織探索、分類、標記及保護機密文件和電子郵件。 系統管理員可以定義規則和條件以自動套用標籤，使用者可以手動套用標籤，或使用這兩者的組合 (當使用者收到套用標籤的建議時)。
-
-### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
-
-Microsoft 365 F3，microsoft 365 Business，Microsoft 365 E3/A3/G3 和 AIP Plan 1 的授權使用者可以從 AIP 方案1受益。 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance 和 AIP 方案 2 的授權使用者可從 AIP 方案 2 獲益。
-
-### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
-
-AIP 掃描器功能會自動分類、標籤及保護位於內部部署檔案儲存庫中的檔案。
-
-### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
-
-根據預設，AIP 功能會在租用戶層級針對租用戶內的所有使用者啟用。 如需針對授權使用者設定 AIP 原則的相關資訊，請參閱[啟用 Azure 版權管理](https://docs.microsoft.com/azure/information-protection/activate-service)。
-
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
-
-AIP 功能原則 (掃描器功能除外) 可限定在特定群組或使用者的範圍；可以編輯登錄以防止未授權的使用者執行 AIP 分類或標記功能。 如需如何限定 AIP 部署範圍的相關指示，請參閱[設定 Azure 資訊保護原則](https://docs.microsoft.com/azure/information-protection/configure-policy)。
-
-針對 AIP 掃描器功能，Microsoft 並未承諾會為未授權的使用者提供檔案分類、標記或保護功能。 一段時間後，系統會將授權檢查或目標式工具新增至 AIP，以確保可會將掃描器功能指派給授權使用者。
-
 ## <a name="office-365-advanced-threat-protection"></a>Office 365 進階威脅防護
 
 進階威脅防護 (ATP) 可協助保護您的組織免受複雜的攻擊，例如網路釣魚和零時差惡意程式碼。 透過將來自廣泛資料的信號建立關聯，以協助識別、設定優先順序，並提供如何處理潛在威脅的建議，它也能夠提供可行的見解。
 
-### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
-
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、Microsoft 365 商務版和 Office 365 ATP 方案 1 和 2 的授權使用者可從 ATP 獲益。
-
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
 ATP 可保護使用者免受複雜的攻擊，例如網路釣魚和零時差惡意程式碼。 如需方案 1 和方案 2 所提供服務的完整清單，請參閱 [Office 365 進階威脅防護](https://products.office.com/exchange/advance-threat-protection)。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？ 
+
+Office 365 Advanced 威脅防護、Office 365 E5/G5、Microsoft 365 E5/A5/G5、microsoft 365 E5/A5/G5 安全性、Microsoft protection Business 及 Office 365 ATP 方案1和2為使用者提供的許可權，可讓使用者從 Office 365 的高級威脅防護中受益。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -107,9 +87,9 @@ ATP 可保護使用者免受複雜的攻擊，例如網路釣魚和零時差惡�
 
 若要限定 ATP 的範圍，請遵循安全連結和安全附件部署原則：
 
-- 如需為授權使用者設定安全連結的相關資訊，請參閱[設定 Office 365 ATP 安全連結原則](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies)。
+- 如需為授權使用者設定安全連結的相關資訊，請參閱[設定 Office 365 ATP 安全連結原則](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)。
 
-- 如需為授權使用者設定安全附件的相關資訊，請參閱[設定 Office 365 ATP 安全附件原則](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies)。
+- 如需為授權使用者設定安全附件的相關資訊，請參閱[設定 Office 365 ATP 安全附件原則](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies)。
 
 ## <a name="office-365-cloud-app-security"></a>Office 365 Cloud App Security
 
@@ -119,15 +99,14 @@ OCAS 可讓組織了解其雲端應用程式和服務，提供複雜的分析功
 
 若要比較功能，請參閱 [Microsoft Cloud App Security 與 Office 365 Cloud App Security 之間的差異為何](https://docs.microsoft.com/cloud-app-security/editions-cloud-app-security-o365)。
 
-### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
-
-Office 365 E5/A5/G5 的授權使用者可從 OCAS 獲益。
-
-如需詳細資訊，請參閱 [Microsoft Cloud App Security 授權資料工作表](https://www.aka.ms/mcaslicensing)。
-
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
 OCAS 會探索影子 IT，提供 Office 365 的威脅防護，並可控制有權限可存取 Office 365 資料的應用程式。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+Office 365 E5/A5/G5 為使用者提供的權力可從 OCAS 中受益。
+如需詳細資訊，請參閱 [Microsoft Cloud App Security 授權資料工作表](https://www.aka.ms/mcaslicensing)。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -143,21 +122,21 @@ OCAS 會探索影子 IT，提供 Office 365 的威脅防護，並可控制有權
 
 Microsoft Cloud App Security (MCAS) 是 Cloud Access Security Broker (CASB) 解決方案，可讓組織了解其雲端應用程式和服務，提供複雜的分析功能來識別和對抗網路威脅，並讓他們控制資料在任何雲端應用程式之間移動的方式。
 
-### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
-
-MCAS、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 Security 的授權使用者可從 MCAS 獲益。
-
-Azure AD P1 的授權使用者可從 MCAS 中的探索功能獲益。
-
-若要從 MCAS 中的[條件式存取應用程式控制](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad)功能獲益，使用者也必須取得 Azure Active Directory P1 的授權，其包括在 Enterprise Mobility + Security E3/A3/G3、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E3/A3/G3, Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 Security 中。
-
-若要從[自動加標記](https://docs.microsoft.com/cloud-app-security/data-protection-policies)功能獲益，使用者必須取得 Azure 資訊保護 P2 的授權，其包含在 Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 Compliance 中。
-
-如需詳細資訊，請參閱 [Microsoft Cloud App Security 授權資料工作表](https://www.aka.ms/mcaslicensing)。
-
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
 MCAS 會探索並評定影子 IT，提供第一方與第三方雲端應用程式間的威脅防護，並保護第一方與第三方雲端應用程式間的資訊。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+MCAS，Enterprise 可移動性 + Security E5/A5/G5，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 安全性，以及 Microsoft 365 E5/A5 資訊保護和控管為使用者提供的權力可從 MCAS 中受益。
+
+Azure AD P1 為使用者提供的權力，可從 MCAS 中的探索功能中受益。
+
+若要從 MCAS 中的條件式存取應用程式控制功能獲益，使用者也必須取得 Azure Active Directory P1 的授權，其包括在 Enterprise Mobility + Security E3/A3/G3、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E3/A3/G3, Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 Security 中。
+
+若要從自動標記中受益，使用者必須獲得 Azure 資訊保護 P2 的授權，其包含在 Enterprise 可移動性 + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 符合性，以及 Microsoft 365 E5/A5 資訊保護和控管。
+
+如需詳細資訊，請參閱 [Microsoft Cloud App Security 授權資料工作表](https://www.aka.ms/mcaslicensing)。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -169,10 +148,9 @@ MCAS 會探索並評定影子 IT，提供第一方與第三方雲端應用程式
 
 系統管理員可以利用服務中提供的限定範圍部署功能，將 MCAS 部署限定於授權使用者的範圍。 如需詳細資訊，請參閱[限定範圍的部署](https://docs.microsoft.com/cloud-app-security/scoped-deployment)。
 
-
 ## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
-Microsoft Defender ATP 是一個端點安全性解決方案，包含風險型弱點管理和評估;攻擊面降減功能;以行為為基礎和雲端電源的下一代保護;端點偵測和回應（EDR）;自動調查和修正;和受管理的搜尋服務。 請參閱[Microsoft DEFENDER ATP](https://www.microsoft.com/en-us/microsoft-365/windows/microsoft-defender-atp?rtc=1)頁面以深入瞭解。 
 
+Microsoft Defender ATP 是一個端點安全性解決方案，包含風險型弱點管理和評估;攻擊面降減功能;以行為為基礎和雲端電源的下一代保護;端點偵測和回應（EDR）;自動調查和修正;和受管理的搜尋服務。 請參閱[Microsoft DEFENDER ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1)頁面以深入瞭解。
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
 
@@ -182,7 +160,6 @@ Windows 10 企業版 E5 的授權使用者，Windows 10 教育版 A5，Microsoft
 
 SecOps 分析員和安全性專業人員會受益于 Microsoft Defender ATP 的端點安全性功能，以執行預防性保護、入侵後偵測、自動調查，以及對高級威脅的回應。 使用者利用 Microsoft Defender ATP 所監控的惡意事件，使使用者受益。
 
-
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
 根據預設，會在承租人層級為租使用者內的所有使用者啟用 Microsoft Defender ATP 功能。 如需部署的詳細資訊，請參閱[部署指南](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases)。
@@ -191,38 +168,98 @@ SecOps 分析員和安全性專業人員會受益于 Microsoft Defender ATP 的�
 
 Microsoft Defender ATP 系統管理員可以利用以[角色為基礎的存取控制（RBAC）](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) ，在安全性作業小組中建立角色和群組，以授與 Microsoft Defender 安全中心的適當存取權。
 
+## <a name="information-protection"></a>資訊保護
 
-## <a name="office-365-advanced-data-governance"></a>Office 365 進階資料控管
-
-進階資料控管 (ADG) 可協助組織使用可啟用保留及刪除的原則來滿足資訊控管需求。 ADG 可讓組織根據敏感性資訊類型自動為內容加上標籤，並將控管原則套用至該內容。
-
-### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
-
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance 和 Office 365 進階合規性的授權使用者可從 ADG 獲益。
+資訊保護可協助組織探索、分類、標籤及保護機密檔和電子郵件。 系統管理員可以定義規則和條件，以自動套用標籤，使用者可以手動套用標籤，或使用二者的組合，使用者會在其中獲得套用標籤的建議。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
-ADG 可讓使用者將標籤套用至特定資料，以支持特定原則，自動將內容標記為記錄，以及管理從宣告到處置的完整記錄程序。
+使用者權益能夠將敏感度標籤手動套用至其內容，或讓其內容自動分類。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business，Enterprise 可移動性 + Security F3/E3/E5，Office 365 E5/A5/E3/A3/F3，AIP Plan 1，and AIP Plan 2 為使用者提供的權力，可從手動敏感度標記中受益。
+
+Microsoft 365 E5/A5/G5，Microsoft 365 E5/a5/g5，Microsoft 365 E5/A5 資訊保護和控管，Office 365 E5，Office 365 Advanced 合規性，Enterprise 可移動性 + Security E5，及 AIP Plan 2 為使用者提供的權力，可從自動敏感度標記中受益。
+
+如需授權的特定權利，請參閱[詳細的 Microsoft 365 相容性授權比較（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)。
+
+不包含以機器學習（trainable 分類器）為基礎的自動分類許可權。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，ADG 功能會在租用戶層級針對租用戶內的所有使用者啟用。 如需設定 ADG 以為授權使用者套用自動標籤和原則的詳細資訊，請參閱[保留標籤的概觀](https://docs.microsoft.com/office365/securitycompliance/labels)。
+根據預設，會在租使用者中的所有使用者的租使用者層級上啟用資訊保護功能。 如需設定授權使用者之原則的詳細資訊，請參閱啟用 Azure Rights Management。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-透過自動分類，您可將 ADG 保留原則套用至特定位置的授權使用者 (小組網站、群組網站等)。 如需套用 ADG 保留原則的指示，請參閱[將保留原則套用到整個組織或特定位置](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)。
+除了使用 AIP 掃描器功能時，您可以編輯原則，以防止未授權的使用者執行分類或標記功能。 如需如何限定 AIP 部署範圍的相關指示，請參閱[設定 Azure 資訊保護原則](https://docs.microsoft.com/azure/information-protection/configure-policy)。
 
-## <a name="advanced-ediscovery"></a>進階電子文件探索
+針對 AIP 掃描器功能，Microsoft 並未承諾會為未授權的使用者提供檔案分類、標記或保護功能。
 
-Advanced eDiscovery 為 IT 和法律部門提供調查和 eDiscovery 解決方案，以在從 Office 365 出口之前識別、收集、保留、減少及檢查與調查或訴訟相關的內容。系統。
+## <a name="information-governance"></a>資訊管理
 
-### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
+資訊控管透過探索、分類、標示和管理其資料來協助組織管理其風險。 資訊管理可讓組織滿足業務和法規需求，並透過在其 Microsoft 365 和協力廠商資料中提供保留和刪除功能來減少攻擊面。
 
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance 和 Office 365 進階合規性的授權使用者可從進階電子文件探索獲益。
+### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
+
+使用者可透過將資料分類以保留特定原則和規定，以加以受益。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium、Office 365 E5/A5/E3/E3/F3/E1 為使用者提供的許可權，可從單一整個組織或位置範圍的保留原則和/或手動保留標記中受益。
+
+Microsoft 365 E5/A5/G5，Microsoft 365 E5/a5/G5 符合性，Microsoft 365 E5/A5 資訊保護和控管 Office 365 E5/A5 和 Office 365 Advanced 規章為使用者提供的權力，可讓使用者從自動套用保留標籤或原則起獲得好處：根據自訂事件開始保留標籤的保留期間，在標籤保留期間結束時觸發手動處理檢查，並透過原生資料連線器匯入協力廠商資料，發現已標示內容及監控標記活動。
+
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 符合性、Microsoft 365 E5/A5 資訊保護和控管為使用者提供的權力，是根據 trainable 的分類器自動套用保留標籤。
+
+如需授權的特定權利，請參閱[詳細的 Microsoft 365 相容性授權比較（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)。
+
+不包含以機器學習（trainable 分類器）為基礎的自動保留許可權。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
+
+根據預設，會在租使用者中的所有使用者的租使用者層級上啟用資訊管理功能。 如需設定資訊管理以對授權使用者套用自動標籤和原則的資訊，請參閱[管理資訊](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)管理。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
+
+資訊控管功能可套用至特定位置的授權使用者（小組網站、群組網站等等）。 如需設定資訊管理以對授權使用者套用自動標籤和原則的資訊，請參閱[管理資訊](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)管理。
+
+## <a name="records-management"></a>記錄管理
+
+記錄管理可協助組織在其 Microsoft 365 和協力廠商資料中探索、分類、標記、保留和 defensible 刪除功能，以滿足其業務和規定的記錄保留義務。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+Microsoft 365 E5/A5/G5，Microsoft 365 E5/a5/g5，Microsoft 365 E5/a5 資訊保護和控管，Office 365 E5/A5，Office 365 Advanced 規章為使用者提供的權利可讓使用者受益于記錄管理，包括宣告專案為記錄、自動套用保留或記錄標籤，以及執行處置審閱程式（不包括根據 trainable 的分類器自動套用保留
+
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/g5 符合性、Microsoft 365 E5/A5 資訊保護和控管為使用者提供的權力，是根據 trainable 的分類器自動套用保留或記錄標籤。
+
+如需授權的特定權利，請參閱[詳細的 Microsoft 365 相容性授權比較（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)。
+
+### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
+
+使用者可將內容宣告成記錄，並透過 defensible 處理從原則定義和宣告中管理其完整的記錄處理常式，以獲得好處。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
+
+根據預設，會在租使用者中的所有使用者的租使用者層級上啟用記錄管理功能。 如需設定記錄管理以套用授權使用者的詳細資訊，請參閱[Microsoft 365 中的記錄管理](https://docs.microsoft.com/microsoft-365/compliance/records-management)。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
+
+記錄管理功能可套用至特定位置的授權使用者（小組網站、群組網站等等）。 如需設定記錄管理以套用授權使用者的詳細資訊，請參閱[Microsoft 365 中的記錄管理](https://docs.microsoft.com/microsoft-365/compliance/records-management)。
+
+## <a name="office-365-ediscovery"></a>Office 365 電子檔探索
+
+Office 365 eDiscovery 為 IT 及公司內部的法律部門提供調查和 eDiscovery 解決方案，以識別、收集、保留、減少及檢查與調查或訴訟相關的內容，然後再將其匯出至 Office 365 系統。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
 當使用者被選取為資料監管人 (具有文件或電子檔案系統管理控制權的人員) 時，使用者即可從進階電子文件探索獲益。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+Microsoft 365 E5/A5/G5/E3/A3/G3、Office 365 E5/A5/G5/E3/G3，以及 Office 365 Advanced 規章，為使用者提供從核心 eDiscovery 受益的權利。
+Microsoft 365 E5/A5/G5，Microsoft 365 E5/a5/g5，Microsoft 365 E5/a5 電子檔探索與審核，Office 365 E5/A5/G5，以及 Office 365 的「高級法規遵從性」為使用者提供從「高級 eDiscovery」受益的權利。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -230,47 +267,47 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-電子文件探索系統管理員可以使用進階電子文件探索中內建的監管人管理工具，將特定使用者選取為案例的資料監管人，如[將監管人新增至進階電子文件探索案例](https://docs.microsoft.com/office365/securitycompliance/compliance20/add-custodians-to-case)中所述。
+電子文件探索系統管理員可以使用進階電子文件探索中內建的監管人管理工具，將特定使用者選取為案例的資料監管人，如[將監管人新增至進階電子文件探索案例](https://docs.microsoft.com/microsoft-365/compliance/add-custodians-to-case)中所述。
 
 ## <a name="office-365-customer-key"></a>Office 365 客戶金鑰
 
 有了客戶金鑰，您即可控制組織的加密金鑰，並將 Office 365 設定為使用這些金鑰來加密在 Microsoft 資料中心的待用資料。 換句話說，客戶金鑰可讓您新增屬於您、使用您自己的金鑰的一層加密。 存放的資料包括 Exchange Online 資料和儲存在信箱的商務用 Skype 資料，以及儲存在 SharePoint Online 和商務用 OneDrive 中的檔案。
 
-### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
-
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance 和 Office 365 進階合規性的授權使用者可從客戶金鑰獲益。 若要獲得客戶金鑰的完整優勢，您也必須具有 Azure 金鑰保存庫的訂閱。
-
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
 使用者可讓其待用資料在應用程式層使用其自己的組織所提供、控制及管理的加密金鑰加密，藉此從客戶金鑰獲益。
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+Microsoft 365 E5/A5/G5，Microsoft 365 E5/a5/g5，Microsoft 365 E5/A5 資訊保護和控管，Office 365 E5/A5/G5，以及 Office 365 的「高級法規遵從性」為使用者提供的許可權可讓使用者受益。 若要獲得客戶金鑰的完整優勢，您也必須具有 Azure 金鑰保存庫的訂閱。
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-您可以對儲存在 Exchange Online 和商務用 Skype 信箱中的所有資料啟用 Office 365 客戶金鑰加密金鑰，並 SharePoint 線上、商務用 OneDrive，以及小組檔案。 如需設定 Office 365 客戶金鑰以加密您的待用資料的詳細資訊，請參閱[使用客戶金鑰控制 Office 365 中的資料](https://docs.microsoft.com/microsoft-365/compliance/controlling-your-data-using-customer-key)。
+您可以對儲存在 Exchange Online 和商務用 Skype 信箱中的所有資料啟用 Office 365 客戶金鑰加密金鑰，並 SharePoint 線上、商務用 OneDrive，以及小組檔案。 如需有關 Office 365 客戶金鑰的詳細資訊，包括如何開始，請參閱[Office 365 中的客戶金鑰服務加密](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-若要將加密金鑰指派給 Office 365 和/或 Microsoft 365 租用戶內的資料，請遵循客戶金鑰加密金鑰部署指示：
+若要將加密金鑰指派給 Office 365 和/或 Microsoft 365 租使用者中的資料，以供授權的使用者使用，請遵循客戶金鑰加密金鑰的部署指示。
 
-- 如需 SharePoint 線上、商務 OneDrive 或小組檔案，一或多個網站上的檔案可使用下列所述的客戶機碼加密：[設定客戶機碼以 SharePoint 線上及 OneDrive For business](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-sharepoint-online-and-onedrive-for-business)。
+- 如需 SharePoint 線上、商務 OneDrive 或小組檔案，可使用客戶金鑰加密一或多個網站上的檔案。
 
-- 針對 Exchange Online 和商務用 Skype，您可以使用下列所述的客戶金鑰加密信箱：[設定 Exchange Online 和商務用 skype 的客戶金鑰](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-exchange-online-and-skype-for-business)
+- 若為 Exchange Online 和商務用 Skype，可使用客戶金鑰加密信箱。
 
 ## <a name="office-365-customer-lockbox"></a>Office 365 客戶加密箱
 
 透過讓客戶為服務作業提供明確的存取授權，客戶加密箱可提供額外的一層控制。 藉由示範該程序可用於明確資料存取授權，客戶加密箱也可協助組織符合特定合規性義務，例如 HIPAA 與 FEDRAMP。
 
-### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
-
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance 和 Office 365 進階合規性的授權使用者可從客戶加密箱獲益。
-
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
 使用者受益于客戶密碼箱，以確保 Microsoft 沒有人能夠存取其內容來執行服務作業，而不需要客戶進行明確核准。 客戶加密箱會將客戶帶至要求存取其內容的核准工作流程。 有時候，Microsoft 工程師會於支援程序期間加入，以疑難排解並修正客戶報告的問題。 在大部分情況下，問題可透過 Microsoft 既有、用於其服務的廣泛遙測和偵錯工具修正。 不過，在某些情況下，可能會需要 Microsoft 工程師來存取客戶內容以判斷根本原因並修正問題。 客戶加密箱會要求工程師在核准工作流程的最後一個步驟向客戶要求存取。 這為組織提供核准或拒絕這些要求的選項，可讓使用者直接控制 Microsoft 工程師是否可以存取組織的使用者資料。
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+Office 365 E5/A5/G5、Microsoft 365 E5/a5/g5、Microsoft 365 E5/A5/g5 相容性、Microsoft 365 E5/A5 資訊保護和控管，以及 Office 365 的「高級法規遵從性」為使用者提供的許可權可讓使用者從客戶密碼箱中受益。
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-系統管理員可以在 Microsoft 365 系統管理中心開啟客戶加密箱控制。 如需詳細資訊，請參閱 [Office 365 中的客戶加密箱](https://docs.microsoft.com/Office365/Admin/manage/customer-lockbox-requests)。 當客戶加密箱開啟時，Microsoft 必須先取得組織的核准，再存取其任何內容。
+系統管理員可以在 Microsoft 365 系統管理中心開啟客戶加密箱控制。 如需詳細資訊，請參閱 [Office 365 中的客戶加密箱](https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests)。 當客戶加密箱開啟時，Microsoft 必須先取得組織的核准，再存取其任何內容。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
@@ -278,39 +315,39 @@ Microsoft 可為您的 Office 365 組織中的使用者提供客戶加密箱存�
 
 ## <a name="privileged-access-management-in-office-365"></a>Office 365 中的特殊權限存取管理
 
-特殊權限存取管理 (PAM) 可對 Office 365 中的特殊權限系統管理工作提供細微的存取控制。 啟用 PAM 之後，使用者將必須透過高度限定範圍和受限於時間的核准工作流程要求即時存取，以便完成提升權限和需要特殊權限的工作。
-
-### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
-
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance 和 Office 365 進階合規性的授權使用者可從 PAM 獲益。
+「[特權存取管理」（PAM）](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration)可讓您在 Office 365 中對特權管理工作進行精細存取控制。 啟用 PAM 之後，使用者將必須透過高度限定範圍和受限於時間的核准工作流程要求即時存取，以便完成提升權限和需要特殊權限的工作。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
 啟用 PAM 可讓組織使用無常設權限作業。 使用者可從能抵禦為其資料提供不受束縛的常設系統管理存取所產生弱點新增的防禦層獲益。
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？ 
+
+Microsoft 365 E5/A5/G5，Microsoft 365 E5/a5/g5，Microsoft 365 E5/A5 資訊保護和控管，Office 365 E5/A5/G5，以及 Office 365 的「高級法規遵從性」為使用者提供的許可權可讓使用者受益。
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，PAM 功能會在租用戶層級針對租用戶內的所有使用者啟用。 如需設定 PAM 原則的詳細資訊，請參閱[設定 Office 365 中的特殊權限存取管理](https://docs.microsoft.com/office365/securitycompliance/privileged-access-management-configuration)。
+根據預設，PAM 功能會在租用戶層級針對租用戶內的所有使用者啟用。 如需設定 PAM 原則的詳細資訊，請參閱[開始使用特殊許可權存取管理](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
 客戶可以透過核准者群組和存取原則，以每位使用者為基礎管理 PAM (該原則可套用至授權的使用者)。 如需詳細資訊，請參閱 [Office 365 中的特殊權限存取管理](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751)。
 
-## <a name="data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Exchange Online、SharePoint Online 及商務用 OneDrive 適用的資料外洩防護
+## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Office 365 資料遺失防護，適用于 Exchange Online、SharePoint 線上和商務 OneDrive
 
-有了 Exchange Online、SharePoint Online 和商務用 OneDrive 適用的資料外洩防護 (DLP)，組織可以識別、監控及自動保護電子郵件和檔案中的敏感性資訊 (包括儲存在 Microsoft Teams 檔案儲存庫中的檔案)。
-
-### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
-
-Office 365 E3/A3/G3、Microsoft 365 商務版、Microsoft 365 A1/E3/A3/G3 和 Office 365 資料外洩防護的授權使用者可從 Exchange Online、SharePoint Online 和商務用 OneDrive 適用的 DLP 獲益。
+使用 Office 365 資料遺失防護（DLP）進行 Exchange Online、SharePoint 線上及商務 OneDrive 時，組織可以識別、監視和自動保護跨電子郵件和檔案（包括儲存在 Microsoft 小組檔案存放庫中的檔案）的敏感資訊。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
 當使用者的電子郵件和檔案檢查敏感資訊時（如組織的 DLP 原則中所設定），使用者可以從 DLP for Exchange Online、線上 SharePoint 和 OneDrive for Business 中受益。
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+Microsoft 365 A1/E3/A3/G3/G3/Business、Office 365 E3/A3/G3 和 Office 365 資料遺失防護可為使用者提供的許可權，365以供 Exchange Online、線上 SharePoint 和商務 OneDrive 使用。
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，Exchange Online 電子郵件、SharePoint 網站和 OneDrive 帳戶為針對租用戶內所有使用者的這些 DLP 功能的*啟用位置 (工作負載)*。 如需使用 DLP 原則的詳細資訊，請參閱[資料外洩防護概觀](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)。
+根據預設，Exchange Online 電子郵件、SharePoint 網站和 OneDrive 帳戶為針對租用戶內所有使用者的這些 DLP 功能的*啟用位置 (工作負載)*。 如需使用 DLP 原則的詳細資訊，請參閱[資料外洩防護概觀](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
@@ -340,20 +377,20 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance
 
 資訊屏障是系統管理員可以設定的原則，用來防止個人或群組彼此通訊。 比方說，如果某個部門處理的資訊不應與其他部門共用，或需要防止某個群組與外部連絡人通訊，此功能就相當實用。 資訊屏障原則也可以防止查閱和探索。 這表示如果您嘗試與不應與之通訊的人員通訊，您將不會在人員選擇器中找到該使用者。
 
-### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
-
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance 和 Office 365 進階合規性的授權使用者可從資訊屏障獲益。
-
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
 使用者可從使用者會受限而無法與其他人通訊之資訊屏障的進階符合性功能獲益。 例如：
 
-| 案例                                                                                                                                                                                                              | 誰需要授權？ |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| 兩個群組 (群組 1 和群組 2) 無法彼此通訊 (也就是說，群組 1 的使用者受到限制，無法與群組 2 的使用者通訊，而群組 2 使用者則受到限制，無法與群組 1 的使用者通訊。 | 群組 1 和群組 2 中的使用者                    |
-| 群組 1 中的使用者受到限制，無法與公司其餘人員通訊。                                                                                                                                       | 僅限群組 1 中的使用者                                |
-| 公司的其餘人員受到限制，無法與群組 1 通訊。                                                                                                                                                 | 群組 1 中以外的所有使用者                    |
-| 群組 1 使用者受到限制，無法與群組 2 使用者通訊，但群組 2 使用者可以與群組 1 使用者通訊。                                                                                              | 僅限群組 1 中的使用者                                |
+| 案例 | 誰需要授權？ |
+|:-------|:------|
+| 兩個群組 (群組 1 和群組 2) 無法彼此通訊 (也就是說，群組 1 的使用者受到限制，無法與群組 2 的使用者通訊，而群組 2 使用者則受到限制，無法與群組 1 的使用者通訊。 | 群組 1 和群組 2 中的使用者 |
+| 群組 1 中的使用者受到限制，無法與公司其餘人員通訊。 | 僅限群組 1 中的使用者 |
+| 公司的其餘人員受到限制，無法與群組 1 通訊。 | 群組 1 中以外的所有使用者 |
+| 群組 1 使用者受到限制，無法與群組 2 使用者通訊，但群組 2 使用者可以與群組 1 使用者通訊。 | 僅限群組 1 中的使用者 ||
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+Microsoft 365 E5/A5/G5，Microsoft 365 E5/a5/g5，Microsoft 365 E5/A5 資訊保護和控管，Office 365 E5/A5/G5，以及 Office 365 的「高級法規遵從性」為使用者提供的許可權可讓使用者從資訊障礙中受益。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -369,13 +406,13 @@ Office 365 郵件加密 (OME) 是內建於 Azure 版權管理 (Azure RMS) 的服
 
 若要檢視加密的郵件，收件者可以取得一次性密碼、使用 Microsoft 帳戶登入、或使用與 Office 365 相關聯的公司或學校帳戶登入。 收件者也可以傳送加密的回覆。 他們不需要 Office 365 訂閱，即可檢視加密的郵件或傳送加密的回覆。
 
-### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
-
-Office 365 E3/A3/G3、Microsoft 365 E3/A3/G3 和 Azure 資訊保護方案 1 的授權使用者可從 Office 365 郵件加密獲益。
-
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
 郵件寄件者可從 Office 365 郵件加密所提供對敏感性電子郵件新增的控制而獲益。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+Microsoft 365 E3/A3/G3、Office 365 E3/A3/G3 和 Azure 資訊保護方案1為使用者提供從 Office 365 郵件加密中受益的權利。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -387,15 +424,15 @@ Office 365 E3/A3/G3、Microsoft 365 E3/A3/G3 和 Azure 資訊保護方案 1 的�
 
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 進階郵件加密
 
-進階郵件加密可協助客戶滿足需要對外部收件者更靈活控制，以及其對加密電子郵件存取的合規性義務。 有了進階郵件加密，系統管理員可以使用能偵測敏感性資訊類型的自動原則 (例如，個人識別資訊或是財務或健康身分編號) 控制在組織外部共用的敏感性電子郵件，或者他們可以透過安全網頁入口網站對加密的電子郵件套用自訂電子郵件範本和會到期的存取，以使用關鍵字來加強保護。 此外，系統管理員可隨時撤銷存取，進一步控制透過安全網頁入口網站存取的加密電子郵件。
-
-### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
-
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance 和 Office 365 進階合規性的授權使用者可從進階郵件加密獲益。
+Office 365 Advanced Message Encryption 可協助客戶符合法規遵從性義務，需要更多彈性控制外部收件者，以及其對加密電子郵件的存取權。 有了進階郵件加密，系統管理員可以使用能偵測敏感性資訊類型的自動原則 (例如，個人識別資訊或是財務或健康身分編號) 控制在組織外部共用的敏感性電子郵件，或者他們可以透過安全網頁入口網站對加密的電子郵件套用自訂電子郵件範本和會到期的存取，以使用關鍵字來加強保護。 此外，系統管理員可隨時撤銷存取，進一步控制透過安全網頁入口網站存取的加密電子郵件。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
 郵件寄件者可從進階郵件加密所提供對敏感性電子郵件新增的控制而獲益。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+Office 365 E5/A5/G5、Microsoft 365 E5/a5/g5、Microsoft 365 E5/A5/g5 相容性、Microsoft 365 E5/A5 資訊保護和控管，以及 Office 365 的「高級法規遵從性」為使用者提供的權力，可從高級郵件加密中受益。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -405,25 +442,46 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance
 
 系統管理員應僅將進階郵件加密的郵件流程規則套用至授權使用者。 如需定義郵件流程規則的詳細資訊，請參閱[定義郵件流規則以加密 Office 365 中的電子郵件](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)。
 
-## <a name="supervision-policies"></a>監督原則
+## <a name="communication-compliance"></a>通訊相容性
 
-Office 365 中的監督原則可讓您透過指定的檢閱者擷取要進行檢查的員工通訊。 您可以定義可擷取內部和外部電子郵件、Microsoft Teams 或協力廠商通訊的特定原則。 然後，檢閱者可以檢閱郵件，以確定郵件符合您組織的郵件標準，並使用分類類型解析郵件。
-
-### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
-
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance 和 Office 365 進階合規性的授權使用者可從監督原則獲益。
+Office 365 中的通訊法規遵從性，可讓您建立監督原則，以透過指定的檢閱者來捕獲員工的通訊以進行考試。 您可以定義可擷取內部和外部電子郵件、Microsoft Teams 或協力廠商通訊的特定原則。 然後，檢閱者可以檢閱郵件，以確定郵件符合您組織的郵件標準，並使用分類類型解析郵件。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
 使用者可讓其通訊由監督原則監視，藉此從服務獲益。
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+Office 365 E5/A5/G5、Microsoft 365 E5/a5/G5、Microsoft 365 E5/A5/g5 相容性、Microsoft 365 E5/A5 資訊保護和控管，以及 Office 365 的「高級法規遵從性」為使用者提供的權力，提供與通訊相容性的益處。
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
 系統管理員在安全性與合規性中心建立監督原則。 這些原則可定義組織中要受限於檢查的通訊和使用者、定義通訊必須符合的自訂條件，以及指定應執行檢查的人員。
- 
+
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-系統管理員會選擇要包含在監管原則的特定使用者或群組。 選擇群組時，他們也可以選取群組中的特定使用者，以從監管原則中排除。 如需監管原則的詳細資訊，請參閱 [Office 365 中的監督原則](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies)。
+系統管理員會選擇要包含在監管原則的特定使用者或群組。 選擇群組時，他們也可以選取群組中的特定使用者，以從監管原則中排除。 如需監管原則的詳細資訊，請參閱 [Office 365 中的監督原則](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)。
+
+## <a name="insider-risk-management"></a>有問必答風險管理
+
+「內幕風險管理」是 Microsoft 365 中的解決方案，可讓您偵測、調查和採取行動，以應對組織中的危險活動，以協助降低內部風險。
+自訂原則可讓您偵測組織中惡意和無意危險的活動，並採取動作，包括在必要時對 Microsoft Advanced eDiscovery 的升級案例。 組織中的風險分析人員可以快速採取適當的動作，以確保使用者符合您組織的規範標準。
+
+### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
+
+使用者可以利用其活動加以監控，以提升其的風險。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 符合性，以及 Microsoft 365 E5/A5 內部風險管理為使用者提供的權力，可讓使用者受益于「內幕程式風險管理」。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
+
+內幕風險管理原則必須在 Microsoft 365 規範中心建立並指派給使用者。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
+
+在 Microsoft 365 規範中心建立原則時，請在 [**選擇使用者和群組**] 頁面上，選取 **[選擇使用者或群組**]，只選取授權的使用者，或者，如果您的所有使用者都獲得授權，您可以選取 [**所有使用者及擁有郵件功能的群組**] 核取方塊。 如需詳細資訊，請參閱[立即開始使用「內幕風險管理](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management-configure)」。
 
 ## <a name="conditional-access-policies"></a>條件式存取原則
 
@@ -459,7 +517,7 @@ Office 365 E5、Microsoft 365 E5 和 Microsoft 365 E5 規範的授權使用者�
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，會在租使用者層級啟用 Office 365 或 Microsoft 365 E5 訂閱的「高級審核」，並自動為活動提供一年的審計記錄檔保留（由具有適當授權的使用者執行）。Azure Active Directory、Exchange 及 SharePoint。 此外，組織可使用審核記錄保留原則來管理其他 Microsoft 365 服務中的活動所產生的審計記錄保留期間。 如需詳細資訊，請參閱[管理稽核記錄保留原則](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)。
+根據預設，會在租使用者層級啟用 Office 365 或 Microsoft 365 E5 訂閱的「高級審核」，並針對 Azure Active Directory、Exchange 及 SharePoint 中的活動自動提供一年的審計記錄檔保留（由具有適當授權的使用者執行）。 此外，組織可使用審核記錄保留原則來管理其他 Microsoft 365 服務中的活動所產生的審計記錄保留期間。 如需詳細資訊，請參閱[管理稽核記錄保留原則](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
