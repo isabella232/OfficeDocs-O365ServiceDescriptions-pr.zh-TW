@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 安全性與合規性中心旨在協助您為貴組織的 Office 365 管理合規性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-ms.openlocfilehash: b6bfd9a9cfe54d364059629cd9a133446672f4d8
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: 672063dcd87446eb552f635654c7ca0f48b60168
+ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101122"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43109433"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -75,11 +75,11 @@ ms.locfileid: "43101122"
 
 <sup>8</sup>您也可以使用[Office 365 管理活動 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) ，從統一的審計記錄檔中取得事件。
 
-<sup>9</sup>您可以在任何具有 Exchange 或 SharePoint/ONEDRIVE 的 SKU 新增 DLP 附加元件。
+<sup>9</sup>需要 Office 365 資料遺失防護附加元件。
 
 <sup>10 個</sup>敏感度標籤也包含在 Azure 資訊保護 P1 和 P2 中。
 
-<sup>11</sup> Exchange Online Plan 2 授權是必要的，可使用保留原則將內容保留在使用者信箱中。
+<sup>11</sup>需要 Exchange online 方案2或 exchange online 封存授權，才能使用保留原則將內容保留在使用者信箱中。
 
 <sup>12</sup> 「高級核查」針對 Azure Active Directory、Exchange 及 SharePoint 中的活動提供一年的審計記錄檔保留原則，並提供建立自訂審核記錄保留原則的能力，以管理其他 Office 365 服務的審計記錄保留。 此外，它也可讓您存取重要事件，以進行調查和對 Office 365 管理活動 API 的高頻寬存取。
 
@@ -131,7 +131,7 @@ ms.locfileid: "43101122"
 
 <sup>8</sup>您也可以使用[Office 365 管理活動 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) ，從統一的審計記錄檔中取得事件。
 
-<sup>9</sup>您可以在任何具有 Exchange 或 SharePoint/ONEDRIVE 的 SKU 新增 DLP 附加元件。
+<sup>9</sup>需要 Office 365 資料遺失防護附加元件。
 
 <sup>10</sup>僅限儲存在商務 OneDrive 中的檔案。
 
