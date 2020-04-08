@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 安全性 & 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 0a7cd5aff15173e257181af5bf6f84aa45fe764e
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
+ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101112"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43171139"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -323,7 +323,7 @@ Microsoft 可為您的 Office 365 組織中的使用者提供客戶加密箱存�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？ 
 
-Microsoft 365 E5/A5/G5，Microsoft 365 E5/a5/g5，Microsoft 365 E5/A5 資訊保護和控管，Office 365 E5/A5/G5，以及 Office 365 的「高級法規遵從性」為使用者提供的許可權可讓使用者受益。
+Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 相容性，以及 Microsoft 365 E5/A5 內部風險管理為使用者提供的許可權，可讓使用者從 PAM 中受益。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -444,23 +444,23 @@ Office 365 E5/A5/G5、Microsoft 365 E5/a5/g5、Microsoft 365 E5/A5/g5 相容性�
 
 ## <a name="communication-compliance"></a>通訊相容性
 
-Office 365 中的通訊法規遵從性，可讓您建立監督原則，以透過指定的檢閱者來捕獲員工的通訊以進行考試。 您可以定義可擷取內部和外部電子郵件、Microsoft Teams 或協力廠商通訊的特定原則。 然後，檢閱者可以檢閱郵件，以確定郵件符合您組織的郵件標準，並使用分類類型解析郵件。
+Microsoft 365 中的通訊法規遵從性，可協助您針對組織中的不適當郵件偵測、捕獲和採取補救措施，以盡可能降低通訊風險。 您可以定義可擷取內部和外部電子郵件、Microsoft Teams 或協力廠商通訊的特定原則。 檢閱者可以採取適當的修正動作，以確保它們符合您組織的郵件標準。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
-使用者可讓其通訊由監督原則監視，藉此從服務獲益。
+合規性專家會透過通訊合規性原則監控組織通訊，以享受服務。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Office 365 E5/A5/G5、Microsoft 365 E5/a5/G5、Microsoft 365 E5/A5/g5 相容性、Microsoft 365 E5/A5 資訊保護和控管，以及 Office 365 的「高級法規遵從性」為使用者提供的權力，提供與通訊相容性的益處。
+Office 365 E5/A5/G5、Microsoft 365 E5/a5/G5、Microsoft 365 E5/A5/g5 符合性，以及 Microsoft 365 E5/A5 有問必答的風險管理為使用者提供的許可權，可讓使用者從通訊相容性中受益。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-系統管理員在安全性與合規性中心建立監督原則。 這些原則可定義組織中要受限於檢查的通訊和使用者、定義通訊必須符合的自訂條件，以及指定應執行檢查的人員。
+管理員和合規性專業人員會在 Microsoft 365 規範中心建立通訊法規遵從性原則。 這些原則定義哪些通訊和使用者要在組織中進行審閱、定義通訊必須符合的自訂條件，以及指定應執行複查的人員。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-系統管理員會選擇要包含在監管原則的特定使用者或群組。 選擇群組時，他們也可以選取群組中的特定使用者，以從監管原則中排除。 如需監管原則的詳細資訊，請參閱 [Office 365 中的監督原則](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)。
+管理員選擇要包含在通訊合規性原則中的特定使用者或群組。 選擇群組時，使用者也可以從通訊合規性原則中，選取要排除在群組中的特定使用者。 如需有關通訊相容性原則的詳細資訊，請參閱[Microsoft 365 中的通訊相容性](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)。
 
 ## <a name="insider-risk-management"></a>有問必答風險管理
 
