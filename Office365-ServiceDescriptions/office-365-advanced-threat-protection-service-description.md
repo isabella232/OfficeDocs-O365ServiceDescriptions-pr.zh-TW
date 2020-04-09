@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
-description: Microsoft Office 365 Advanced 威脅防護（ATP）是一種雲端式電子郵件篩選服務，可協助您的組織抵禦未知惡意程式碼和病毒，方法是提供強健的零日保護，並包含保護您的電腦的功能。組織會即時從有害連結。
-ms.openlocfilehash: 5457cbe5304665f7cddc9cc068a167684cf77024
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Microsoft Office 365 Advanced 威脅防護（ATP）是一種雲端式電子郵件篩選服務，可協助您的組織抵禦未知的惡意程式碼和病毒，方法是提供強健的零日保護，並提供一些功能，以即時保護您的組織不受有害連結。
+ms.openlocfilehash: 5a455d13dc7d5c47dec9983d8bdd0663ead71ec7
+ms.sourcegitcommit: 8ecef4a10e06ce60db4ab197ae13bf9f3b023e0c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609834"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43197959"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 進階威脅防護服務說明
 
-Microsoft Office 365 Advanced 威脅防護（ATP）是一種雲端式電子郵件篩選服務，可協助您的組織抵禦未知惡意程式碼和病毒，方法是提供強健的零日保護，並包含保護您的電腦的功能。組織會即時從有害連結。 ATP 具有豐富報告和 URL 追蹤功能，可讓系統管理員深入了解組織中發生的攻擊的類型。
+Microsoft Office 365 Advanced 威脅防護（ATP）是一種雲端式電子郵件篩選服務，可協助您的組織抵禦未知的惡意程式碼和病毒，方法是提供強健的零日保護，並提供一些功能，以即時保護您的組織不受有害連結。 ATP 具有豐富報告和 URL 追蹤功能，可讓系統管理員深入了解組織中發生的攻擊的類型。
 
 以下是您可以使用 ATP 進行郵件保護的主要方式：
 
@@ -53,7 +53,7 @@ ATP 包含在 Office 365 企業版 E5、Office 365 教育版 A5 和 Microsoft 36
 
 - Office 365 Enterprise E3
 
-- Office 365 Enterprise F3
+- Office 365 企業版 F3
 
 - Office 365 A1
 
@@ -85,13 +85,13 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 |[安全附件](#safe-attachments)|是|是|是|
 |小組中的安全附件|是|是|是|
 |[安全連結](#safe-links)|是|是|是|
-|小組中的安全連結|否|否|否|
+|Teams 中的安全連結|是|是|是|
 |[SharePoint、OneDrive 和 Microsoft 小組的 ATP](#atp-for-sharepoint-onedrive-and-microsoft-teams)|是|是|是|
 |[反網路釣魚原則](#anti-phishing-policies)|是|是|是|
 |[即時報告](#real-time-reports)|是|是|是|
 |*自動化、調查、修正及教育*|
 |[威脅追蹤工具](#threat-trackers)|否|是|是|
-|[Explorer](#explorer) （高級威脅調查）|否|是|是|
+|威脅調查（高級威脅調查）|[即時偵測](#real-time-detections)|[探險 家](#explorer)|[探險 家](#explorer)|
 |[自動化的事件回應](#automated-incident-response)|否|是|是|
 |[攻擊模擬器](#attack-simulator)|否|是|是|
 
@@ -116,6 +116,8 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 - Windows 上的 Word、Excel、PowerPoint 和 Visio，以及 iOS 和 Android 裝置上的 Office 應用程式
 
+- Microsoft 小組通道和聊天
+
 > [!NOTE]
 > 使用者必須是 ATP<sup>\*</sup>的授權，必須包含在 Atp 安全連結原則中，且必須在裝置上登入，以進行保護。
 >
@@ -125,7 +127,7 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>適用於 SharePoint、OneDrive 及 Microsoft Teams 的 ATP
 
-[SharePoint、OneDrive 和 Microsoft 團隊的 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)可協助偵測和封鎖在小組網站和文件庫中識別為惡意的檔案。
+[SharePoint、OneDrive 和 Microsoft 團隊的 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)可協助偵測和封鎖在小組網站和文件庫中識別為惡意的檔案。 此外，在 Microsoft 小組通道和聊天中，現在還提供 ATP 安全連結保護。
 
 ### <a name="anti-phishing-policies"></a>反網路釣魚原則
 
@@ -135,15 +137,25 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 Office 365 安全性 & 規範中心提供的監控功能包含[即時報告和深入](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp)資訊，讓您的安全性和合規性系統管理員關注高優先順序的問題，例如安全性攻擊或增加的可疑活動。 除了醒目提示問題之外，智慧報告和洞察力也包含建議和連結，以查看及流覽資料，也會快速採取動作。
 
-### <a name="threat-trackers"></a>威脅追蹤工具
-
-[威脅](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers)追蹤器是資訊性的小元件和視圖，可讓授權的使用者在可能影響組織的 cybersecurity 問題上使用情報。
-
 ### <a name="explorer"></a>探險 家
 
 瀏覽器（也稱為威脅瀏覽器）是一種即時報告，可讓授權的使用者識別及分析最近的威脅。 根據預設，此報告會顯示過去7天的資料;不過，您可以修改視圖，以顯示過去30天的資料。
 
+Explorer 包含一些視圖，例如惡意程式碼（適用于電子郵件和內容）、提交、網路釣魚和所有電子郵件。
+
 如需 Explorer （Office 365 Advanced 威脅防護方案2）和即時偵測（位於 Office 365 高級威脅防護方案1）中的詳細資訊，請參閱[威脅瀏覽器（和即時偵測）](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)。
+
+### <a name="real-time-detections"></a>即時偵測
+
+即時偵測是即時報告，可讓授權的使用者識別及分析最近的威脅。 類似 Explorer，依預設，此報告會顯示過去7天的資料。
+
+即時偵測包含一些視圖，例如惡意程式碼（適用于電子郵件和內容）、提交郵件和網路釣魚。
+
+如需 Explorer （Office 365 Advanced 威脅防護方案2）和即時偵測（位於 Office 365 高級威脅防護方案1）中的詳細資訊，請參閱[威脅瀏覽器（和即時偵測）](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)。
+
+### <a name="threat-trackers"></a>威脅追蹤工具
+
+[威脅](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers)追蹤器是資訊性的小元件和視圖，可讓授權的使用者在可能影響組織的 cybersecurity 問題上使用情報。
 
 ### <a name="automated-incident-response"></a>自動化的事件回應
 
