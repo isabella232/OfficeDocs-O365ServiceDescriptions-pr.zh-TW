@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 安全性 & 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
-ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
+ms.openlocfilehash: bfc14f703e0c4d2813e123b88c17b26027bc25d5
+ms.sourcegitcommit: 7810744bc9a91a89767604d4aa27708114cba045
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43171139"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43215112"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -353,13 +353,13 @@ Microsoft 365 A1/E3/A3/G3/G3/Business、Office 365 E3/A3/G3 和 Office 365 資�
 
 系統管理員可以在 Office 365 安全性與合規性中心的 [資料外洩防護]****  >  [位置]**** 下自訂位置 (工作負載)、包含的使用者以及排除的使用者。
 
-## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>Teams 聊天和頻道訊息適用的資料外洩防護
+## <a name="communication-data-loss-prevention-for-teams"></a>小組的通訊資料遺失防護
 
-有了 Teams 聊天和頻道訊息適用的資料外洩防護 (DLP)，組織可以封鎖內含敏感性資訊的聊天和頻道訊息，例如財務資訊、個人識別資訊、健康相關資訊或其他機密資訊。
+透過通訊 DLP for a 小組，組織可以封鎖包含機密資訊（例如財務資訊、個人身分識別資訊、健康情況相關資訊或其他機密資訊）的研討及通道訊息。
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
 
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Compliance 和 Office 365 進階合規性的授權使用者可從 Teams 聊天和頻道訊息適用的 DLP 獲益。
+Office 365 E5/A5 的授權使用者，Microsoft 365 E5/A5，Microsoft 365 E5/A5 資訊保護和控管，以及 Office 365 Advanced 合規性，可受益于小組的通訊 DLP。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 

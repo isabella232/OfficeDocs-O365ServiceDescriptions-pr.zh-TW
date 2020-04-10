@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business 是整合式解決方案，其搭配使用高級安全性和裝置管理功能的 Office 365 的一流生產力，以協助保護您的企業。 此服務描述說明方案選項及功能。
-ms.openlocfilehash: 2e613d6445e34d634b1ee3c9433a20b282572454
-ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
+ms.openlocfilehash: b88999adbbec44e7b5aba8da0891dc0622a3ab27
+ms.sourcegitcommit: 58d44cbc3c462bf0bcc3c218ac31741402c0d7cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43109443"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43206620"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務描述
 
@@ -25,7 +25,6 @@ Microsoft 365 Business 是整合式解決方案，將 Office 365 與高級安全
 
 Microsoft 365 公司基本上包含 Office 365 商務版 Premium 中所有可用的功能，以及其他 Office 365 的安全性功能。
 
-Microsoft 365 業務包含下列 Azure AD Premium P1 功能：使用 AD 回寫功能的自助密碼重設、Azure Multi-Factor 驗證（MFA）和條件式存取。 它不包含完整的 Azure AD Premium P1。
 
 ||||
 |:-----|:-----|:-----|
