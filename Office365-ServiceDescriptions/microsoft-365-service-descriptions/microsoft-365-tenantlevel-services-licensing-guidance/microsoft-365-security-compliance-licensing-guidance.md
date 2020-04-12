@@ -5,18 +5,19 @@ author: skjerland
 manager: mnirkhe
 audience: ITPro
 ms.topic: reference
+ms.date: 4/10/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 安全性 & 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: bfc14f703e0c4d2813e123b88c17b26027bc25d5
-ms.sourcegitcommit: 7810744bc9a91a89767604d4aa27708114cba045
+ms.openlocfilehash: d2699fbd63eb6a7303ae62579f4abbb09faf67d1
+ms.sourcegitcommit: ce029467be2d9ec428458c04bec5947ba895b99c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43215112"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43230793"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -37,7 +38,7 @@ Azure Active Directory Identity Protection (AADIP) 是 Azure Active Directory Pr
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Enterprise 可移動性 + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 安全性和 Azure Active Directory Premium 方案2為使用者提供從 Azure Active Directory 身分識別保護中受益的權利。
+Enterprise 可移動性 + Security E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 Security 和 Azure Active Directory Premium 方案2為使用者提供從 Azure Active Directory 身分識別保護中受益的權利。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -57,7 +58,7 @@ Azure 進階威脅防護 (ATP) 是一項雲端服務，可協助保護企業混�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Enterprise 可移動性 + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 安全性，以及 Azure 高級威脅防護為使用者提供從 Azure ATP 受益的權利。
+Enterprise 可移動性 + Security E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 安全性，以及 Azure 高級威脅防護為使用者提供從 Azure ATP 受益的權利。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -77,7 +78,7 @@ ATP 可保護使用者免受複雜的攻擊，例如網路釣魚和零時差惡�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？ 
 
-Office 365 Advanced 威脅防護、Office 365 E5/G5、Microsoft 365 E5/A5/G5、microsoft 365 E5/A5/G5 安全性、Microsoft protection Business 及 Office 365 ATP 方案1和2為使用者提供的許可權，可讓使用者從 Office 365 的高級威脅防護中受益。
+Office 365 Advanced 威脅防護，Office 365 E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 Security，Microsoft protection Business 和 Office 365 ATP 方案1和2為使用者提供從 Office 365 高級威脅防護中受益的權利。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
