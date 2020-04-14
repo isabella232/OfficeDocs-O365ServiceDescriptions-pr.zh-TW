@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced 威脅防護（ATP）是一種雲端式電子郵件篩選服務，可協助您的組織抵禦未知的惡意程式碼和病毒，方法是提供強健的零日保護，並提供一些功能，以即時保護您的組織不受有害連結。
-ms.openlocfilehash: 83067b99f816744b6c2ec0e18c72a3e322072ea8
-ms.sourcegitcommit: ce029467be2d9ec428458c04bec5947ba895b99c
+ms.openlocfilehash: 5c604eac3079946c5b6fc2a02b44f4870a99a69f
+ms.sourcegitcommit: 80f7e210831388962a4cc9bfa3892ab1070fb92b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43230803"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43285549"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 進階威脅防護服務說明
 
@@ -96,7 +96,7 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 |[攻擊模擬器](#attack-simulator)|否|是|是|
 
 > [!TIP]
-> 需要 Office 365 ATP 方案1與方案2之間的差異的可供下載的清單嗎？ [取得 PDF](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr/raw/live/Office365-ServiceDescriptions/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf)。 
+> 需要 Office 365 ATP 方案1與方案2之間的差異的可供下載的清單嗎？ [取得 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf)。 
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>高級威脅防護（ATP）功能
 
@@ -144,7 +144,7 @@ Office 365 安全性 & 規範中心提供的監控功能包含[即時報告和�
 
 瀏覽器（也稱為威脅瀏覽器）是一種即時報告，可讓授權的使用者識別及分析最近的威脅。 根據預設，此報告會顯示過去7天的資料;不過，您可以修改視圖，以顯示過去30天的資料。
 
-Explorer 包含一些視圖，例如惡意程式碼（適用于電子郵件和內容）、提交、網路釣魚和所有電子郵件。
+Explorer 包含一些視圖，例如惡意程式碼（適用于電子郵件和內容）、提交、網路釣魚和所有電子郵件。 若要查看 Explorer 如何與即時偵測相比較，請[下載此 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf)。
 
 如需 Explorer （Office 365 Advanced 威脅防護方案2）和即時偵測（位於 Office 365 高級威脅防護方案1）中的詳細資訊，請參閱[威脅瀏覽器（和即時偵測）](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)。
 
@@ -152,7 +152,7 @@ Explorer 包含一些視圖，例如惡意程式碼（適用于電子郵件和�
 
 即時偵測是即時報告，可讓授權的使用者識別及分析最近的威脅。 類似 Explorer，依預設，此報告會顯示過去7天的資料。
 
-即時偵測包含一些視圖，例如惡意程式碼（適用于電子郵件和內容）、提交郵件和網路釣魚。
+即時偵測包含一些視圖，例如惡意程式碼（適用于電子郵件和內容）、提交郵件和網路釣魚。 若要查看即時檢測與瀏覽器的比較方式，請[下載此 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf)。
 
 如需 Explorer （Office 365 Advanced 威脅防護方案2）和即時偵測（位於 Office 365 高級威脅防護方案1）中的詳細資訊，請參閱[威脅瀏覽器（和即時偵測）](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)。
 
