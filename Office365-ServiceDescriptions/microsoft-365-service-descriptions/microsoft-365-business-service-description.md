@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business 是整合式解決方案，其搭配使用高級安全性和裝置管理功能的 Office 365 的一流生產力，以協助保護您的企業。 此服務描述說明方案選項及功能。
-ms.openlocfilehash: b88999adbbec44e7b5aba8da0891dc0622a3ab27
-ms.sourcegitcommit: 58d44cbc3c462bf0bcc3c218ac31741402c0d7cc
+ms.openlocfilehash: cf4c1e84746d3664475999384fee27896f9ad95f
+ms.sourcegitcommit: 0f0f12bfd4690a463b645e3ee8b75b73109e19dd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43206620"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43581955"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商務版服務描述
 
@@ -61,24 +61,24 @@ Microsoft 365 公司基本上包含 Office 365 商務版 Premium 中所有可用
 |Office 365 高級威脅防護方案1 <br/> |否  <br/> |是<sup>7</sup> <br/> |
 |安全分數<sup>4</sup> <br/> |是  <br/> |是  <br/> |
 |Office 365 進階威脅防護方案 2 <br/> |否  <br/> |否 <br/> |
-|[身分識別和存取管理](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> 完整的 Azure AD Premium P1 即將推出 Microsoft 365 商務客戶。 如需詳細資訊，請參閱[此博客文章](https://aka.ms/aadp1smbblog)。<sup>8</sup> <br/>|**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |**企業行動性 + 安全性 E3** <br/> |
-|Azure Multi-Factor Authentication (MFA)  <br/> |否  <br/> |是<sup>11</sup>  <br/> |是  <br/> |
-|管理單位  <br/> |否  <br/> |是<sup>11</sup>  <br/> |是  <br/> |
-|雲端應用程式探索  <br/> |否  <br/> |是<sup>11</sup>  <br/> |是  <br/> |
-|動態群組  <br/> |否  <br/> |是<sup>11</sup>  <br/> |是  <br/> |
+|[身分識別和存取管理](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> 完整的 Azure AD Premium P1 即將推出 Microsoft 365 商務客戶。 如需詳細資訊，請參閱[此博客文章](https://aka.ms/aadp1smbblog)。<br/>|**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |**企業行動性 + 安全性 E3** <br/> |
+|Azure Multi-Factor Authentication (MFA)  <br/> |否  <br/> |是<sup>10</sup>  <br/> |是  <br/> |
+|管理單位  <br/> |否  <br/> |是<sup>10</sup>  <br/> |是  <br/> |
+|雲端應用程式探索  <br/> |否  <br/> |是<sup>10</sup>  <br/> |是  <br/> |
+|動態群組  <br/> |否  <br/> |是<sup>10</sup>  <br/> |是  <br/> |
 |雲端身分識別的自助密碼重設  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|使用內部部署 AD 回寫的自助密碼重設  <br/> |否  <br/> |是<sup>11</sup>  <br/> |是  <br/> |
-|在內部部署目錄與 Azure AD 之間雙向同步處理的裝置物件（裝置回寫）  <br/> |否  <br/> |是<sup>11</sup>  <br/> |是  <br/> |
-|條件式存取（根據群組、位置或裝置狀態）  <br/> |否  <br/> |是<sup>11</sup>  <br/> |是  <br/> |
+|使用內部部署 AD 回寫的自助密碼重設  <br/> |否  <br/> |是<sup>10</sup>  <br/> |是  <br/> |
+|在內部部署目錄與 Azure AD 之間雙向同步處理的裝置物件（裝置回寫）  <br/> |否  <br/> |是<sup>10</sup>  <br/> |是  <br/> |
+|條件式存取（根據群組、位置或裝置狀態）  <br/> |否  <br/> |是<sup>10</sup>  <br/> |是  <br/> |
 |公司品牌（登入頁面/訪問面板自訂）  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|應用程式 proxy  <br/> |否  <br/> |是<sup>11</sup>  <br/> |是  <br/> |
-|Microsoft Identity Manager （MIM）使用者 CAL  <br/> |否  <br/> |是<sup>11</sup>  <br/> |是  <br/> |
-|Connect Health  <br/> |否  <br/> |是<sup>11</sup>  <br/> |是  <br/> |
+|應用程式 proxy  <br/> |否  <br/> |是<sup>10</sup>  <br/> |是  <br/> |
+|Microsoft Identity Manager （MIM）使用者 CAL  <br/> |否  <br/> |是<sup>10</sup>  <br/> |是  <br/> |
+|Connect Health  <br/> |否  <br/> |是<sup>10</sup>  <br/> |是  <br/> |
 |SLA 99.9%  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[裝置和應用程式管理](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 商務版包含完整的 Intune 功能，適用于 iOS、Android、Mac OS 和其他跨平臺裝置管理。<sup>9</sup> <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |**企業行動性 + 安全性 E3** <br/> |
+|[裝置和應用程式管理](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 商務版包含完整的 Intune 功能，適用于 iOS、Android、Mac OS 和其他跨平臺裝置管理。<sup>8</sup> <br/> |**Office 365 商務進階版** <br/> |**Microsoft 365 商務版** <br/> |**企業行動性 + 安全性 E3** <br/> |
 |適用于電腦、Mac 及行動裝置<sup>5</sup>的 Intune 行動裝置管理（MDM） <br/> |否  <br/> |是  <br/> |是  <br/> |
 |行動裝置管理（MDM）自動註冊  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|適用于 Office 應用程式和 LOB 應用程式的 Intune 行動應用程式管理（MAM）<sup>9</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
+|適用于 Office 應用程式及 LOB 應用程式的 Intune 行動應用程式管理（MAM）<sup>8</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
 |Windows 更新管理、Defender、防火牆原則<sup>5</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
 |資料保護-選擇性擦除  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |針對原則的安全性群組（SG）  <br/> |否  <br/> |是  <br/> |是  <br/> |
@@ -91,7 +91,7 @@ Microsoft 365 公司基本上包含 Office 365 商務版 Premium 中所有可用
 
 |||
 |:-----|:-----|
-|**Windows 10 專業版管理** <br/>如果您有 Windows 7 和8.1 專業版授權的裝置，則 Microsoft 365 Business 會提供升級至 Windows 10 專業版。<sup>10</sup> <br/>|**Microsoft 365 商務版** <br/> |
+|**Windows 10 專業版管理** <br/>如果您有 Windows 7 和8.1 專業版授權的裝置，則 Microsoft 365 Business 會提供升級至 Windows 10 專業版。<sup>9</sup> <br/>|**Microsoft 365 商務版** <br/> |
 |使用 Windows AutoPilot 簡化部署  <br/> |是  <br/> |
 |訂閱啟用  <br/> |是  <br/> |
 |閒置時裝置畫面的組織控制  <br/> |是  <br/> |
@@ -114,7 +114,6 @@ Microsoft 365 公司基本上包含 Office 365 商務版 Premium 中所有可用
 Microsoft 365 系統管理中心內建的<sup>5 個</sup>簡化的 Windows 10 裝置管理。 在裝置管理中心內建的 iOS、Android、macOS 及其他跨平臺裝置管理功能，也有授權搭配 Microsoft 365 商務使用的 Intune 管理功能。 協力廠商應用程式和設定 WiFi 設定檔和 VPN 憑證等內容也可在裝置管理系統管理中心中進行管理。 <br/>
 <sup>6</sup>此方案隨附 Microsoft Stream plan 2，其中包括影片入口網站、文字偵測語音、深入搜尋及面對面偵測。<br/>
 <sup>7</sup> Microsoft 365 隨附 Office 365 高級威脅防護方案1。 如需詳細資訊，請參閱[Microsoft 365 商務版安全性和合規性功能](https://docs.microsoft.com/microsoft-365/business/security-features)。<br/>
-<sup>8</sup> Microsoft 365 業務包含下列 Azure AD Premium P1 功能：使用 AD 回寫功能、Azure Multi-Factor 驗證（MFA）和條件式存取的自助密碼重設。 它不包含完整的 Azure AD Premium P1。</br>
-<sup>9</sup> Microsoft 365 商務版訂閱者會授權使用完整的 Intune 功能，以供 IOS、Android、MacOS 及其他跨平臺裝置管理使用。 Microsoft 365 商務版系統管理中心無法使用的功能，如協力廠商應用程式管理及 WiFi 設定檔、VPN 憑證等等的設定，可在完整的 Intune 主控台中管理。</br>
-<sup>10</sup>如果您有 windows 7 和8.1 專業版授權的裝置，則 Microsoft 365 Business 會提供升級至 Windows 10 專業版。 使用 Microsoft 365 業務時，您不僅會獲得[Windows Pro 中已啟用的 Microsoft Defender 安全性功能](https://go.microsoft.com/fwlink/p/?linkid=2089903)，也可讓您存取高品質功能（例如網路保護）以應對網頁威脅，並使用主機入侵防護規則來緩解勒索軟體。 當您設定 Microsoft 365 商務租使用者時，請選取 [app protection] 和 [裝置設定]。 這些設定會決定在裝置加入 Azure Active Directory 時，自動套用到這些裝置的原則。</br>
-<sup>11</sup>完整的 Azure AD Premium P1 即將推出 Microsoft 365 商務客戶。 如需詳細資訊，請參閱[此博客文章](https://aka.ms/aadp1smbblog)。
+<sup>8</sup> Microsoft 365 商務版訂閱者已授權使用 IOS、Android、MacOS 及其他跨平臺裝置管理的完整 Intune 功能。 Microsoft 365 商務版系統管理中心無法使用的功能，如協力廠商應用程式管理及 WiFi 設定檔、VPN 憑證等等的設定，可在完整的 Intune 主控台中管理。</br>
+<sup>9</sup>如果您的裝置具有 windows 7 和8.1 專業版的授權，則 Microsoft 365 Business 會提供升級至 Windows 10 專業版。 使用 Microsoft 365 業務時，您不僅會獲得[Windows Pro 中已啟用的 Microsoft Defender 安全性功能](https://go.microsoft.com/fwlink/p/?linkid=2089903)，也可讓您存取高品質功能（例如網路保護）以應對網頁威脅，並使用主機入侵防護規則來緩解勒索軟體。 當您設定 Microsoft 365 商務租使用者時，請選取 [app protection] 和 [裝置設定]。 這些設定會決定在裝置加入 Azure Active Directory 時，自動套用到這些裝置的原則。</br>
+<sup>10</sup>完整的 Azure AD Premium P1 即將推出 Microsoft 365 商務客戶。 如需詳細資訊，請參閱[此博客文章](https://aka.ms/aadp1smbblog)。

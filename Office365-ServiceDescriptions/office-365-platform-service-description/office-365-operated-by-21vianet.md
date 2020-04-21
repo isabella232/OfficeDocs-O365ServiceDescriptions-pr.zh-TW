@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: 047a03cc3b63de40a0974ce241ffa7844ef95a98
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 319c7f4bbd0a9fa038cccdfb60ce9e93f5a68def
+ms.sourcegitcommit: 0f0f12bfd4690a463b645e3ee8b75b73109e19dd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609934"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43581975"
 ---
-# <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
+# <a name="office-365-operated-by-21vianet"></a>由 21Vianet 營運的 Office 365
 
 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
 
@@ -1070,41 +1070,31 @@ EOP 中的<sup>4 個</sup>郵件流程規則（也稱為傳輸規則）是在[Ex
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
 <br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan.
 
-## <a name="outlook-mobile-features"></a>Outlook Mobile 功能
+## <a name="outlook-features-for-ios-and-android"></a>適用于 iOS 和 Android 的 Outlook 功能
 
-下表列出 Outlook 行動平臺及所有由世紀運作之 Office 365 服務提供的功能。
+由世紀運作的 Office 365 支援 Outlook 的 iOS 和 Outlook for Android。
 
-### <a name="mobile-platforms-supported"></a>支援行動平臺
+不支援下列行動裝置功能：
 
-|||
-|:-----|:-----|:-----|
-| |**IOS 的 Outlook （iphone & iPad）**|**Outlook for Android**|
-|由 21Vianet 運作的 Office 365|是|否|
-
-### <a name="mobile-features-supported"></a>支援行動功能
-
-|||
-|:-----|:-----|:-----|
-|**功能**|**IOS 的 Outlook （iPhone & iPad）**|**Outlook for Android**|
-|商務用 OneDrive|否|NA|
-|人員 & 行事曆搜尋|否|NA|
-|會議室搜尋 & 預約|否|NA|
-|地點卡片|否|NA|
-|「LinkedIn」 & 「隸屬于」人員卡片上的資料|否|NA|
-|收藏 夾|否|NA|
-|播放我的電子郵件|否|NA|
-|增益集|否|NA|
-|群組|否|NA|
-|智慧回復|否|NA|
-|Office 摘要|否|NA|
-|保留時間|否|NA|
-|CLP/MIL|否|NA|
-|Dropbox 儲存體|否|NA|
-|Google 磁片磁碟機儲存體|否|NA|
-|Box 儲存體|否|NA|
-|Facebook Calendar|否|NA|
-|Helpshift|否|NA|
-|Uservoice|否|NA|
+- 商務用 OneDrive （僅限 Android 支援）
+- 人員 & 行事曆搜尋
+- 會議室搜尋 & 預約
+- 地點卡片
+- 「LinkedIn」 & 「隸屬于」人員卡片上的資料
+- 收藏 夾
+- 播放我的電子郵件
+- 增益集
+- 群組
+- 智慧回復
+- Office 摘要
+- 保留時間
+- Microsoft 資訊保護敏感度標籤
+- Dropbox 儲存體
+- Google 磁片磁碟機儲存體
+- Box 儲存體
+- Facebook Calendar
+- Helpshift
+- Uservoice
 
 ## <a name="project-online-features"></a>Project Online 功能
 
