@@ -1,5 +1,5 @@
 ---
-title: Office 365 平台服務說明
+title: Microsoft 365 和 Office 365 平臺服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如果您想要知道各種 Office 365 計劃有何差異，包括 Exchange Online 計劃，本文將說明各計劃中包含的功能。
-ms.openlocfilehash: b207c66057ef8cbdc6ca9dce65cee72d6c4a9792
-ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
+ms.openlocfilehash: 2e706ea6dcb85b03a40fb6790b058ceb2c23be20
+ms.sourcegitcommit: 5a76557af16611192b978d84c0b01f23edaab746
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43093570"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43725132"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服務說明
 
-Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如果您想要知道各種 Office 365 計劃有何差異，包括 Exchange Online 計劃，本文將說明各計劃中包含的功能。
+Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組織的需求。 如果您正在尋找方案（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
   
-Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您節省時間、金錢，並釋放有價值的資源。 Office 365 結合了熟悉的 Microsoft Office 桌面套件與雲端架構版本的 Microsoft 下一代通訊和共同作業服務（包括 Microsoft Exchange Online、Microsoft SharePoint Online、web Office）和 Microsoft 商務用 Skype Online，以協助使用者從幾乎任何地方透過網際網路進行生產力的工作。
+Microsoft 365 和 Office 365 可將雲端生產力的功能提供給各種規模的企業，協助節約時間、金錢，並釋放價值資源。 Office 365 結合了熟悉的 Microsoft Office 桌面套件與雲端架構版本的 Microsoft 下一代通訊和共同作業服務（包括 Microsoft Exchange Online、Microsoft SharePoint Online、web Office）和 Microsoft 商務用 Skype Online，以協助使用者從幾乎任何地方透過網際網路進行生產力的工作。
   
-若要跨方案比較功能，請參閱[比較 Office 365 For Business 方案](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，或如需更詳細的功能清單，請參閱[Office 365 服務說明](../office-365-service-descriptions-technet-library.md)中的相關服務描述。
+若要跨方案比較功能，請參閱[比較計畫](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)或如需更詳細的功能清單，請參閱[Office 365 服務說明](../office-365-service-descriptions-technet-library.md)中的相關服務描述。
   
 - 如需 Office 365 教育方案的詳細資訊，請從[Office 365 教育](office-365-education.md)版頁面開始。 
     
@@ -65,7 +65,7 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
   
 ## <a name="multi-geo-capabilities-in-office-365"></a>Office 365 中的多地理位置功能
 
-多地理位置可讓單一 Office 365 租使用者跨多個 Office 365 資料中心地理位置，並讓您能夠在您所選擇的地理位置，將 Office 365 資料儲存到 Exchange Online，並以每位使用者為單位 OneDrive。 
+多地理位置可讓單一組織跨越多個 Office 365 資料中心地理位置，並可讓您在所選擇的地理位置中，以每位使用者的身分 OneDrive 的方式，存放 Exchange Online 和商務用的 Office 365 資料。 
   
 可用 Geos：亞太，澳大利亞，加拿大，歐洲同盟，印度，日本，韓國，英國，美國。 
   
@@ -77,7 +77,7 @@ Microsoft Office 365 為所有規模的企業提供雲端生產力，幫助您�
   
 如需各種商務類型方案的價格和功能的特定資訊，請參閱下列頁面：
   
-- 商務版：[Office 365 商務版方案和價格](https://go.microsoft.com/fwlink/?LinkID=827896)
+- 商務版：[商務用 Microsoft 365 方案和價格](https://go.microsoft.com/fwlink/?LinkID=827896)
     
 - 教育版[Office 365 教育版方案和價格](https://go.microsoft.com/fwlink/?LinkID=827897)
     
