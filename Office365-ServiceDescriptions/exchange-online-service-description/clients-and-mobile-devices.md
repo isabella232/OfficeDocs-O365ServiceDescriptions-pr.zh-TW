@@ -3,7 +3,6 @@ title: 用戶端和行動裝置
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,114 +11,119 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 50272acc0333760f1a85b43539cc0ad244a11f15
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 83c8c9081ac78c51ee02fb951f7d2c80d6d9ede9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342722"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639711"
 ---
 # <a name="clients-and-mobile-devices"></a>用戶端和行動裝置
 
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook 是電子郵件程式，包含支援行事曆、 連絡人、 工作及下列重要功能：
+Microsoft Outlook 是一項電子郵件程式，其中包含對行事曆、連絡人、工作及下列主要功能的支援：
   
-- **MAPI over HTTP**Messaging Application Program Interface (MAPI) over HTTP 可讓 Outlook 使用者透過網際網路，從組織防火牆外部連線至 Exchange Online 信箱。 MAPI over HTTP，Outlook 無所不在的長詞彙取代項目。 此連線方法提供改良的連線恢復能力、 更安全的登入、 擴充性，以及增強功能 IT 和支援。 若要深入了解，請參閱<b0>RPC over HTTP 達到的 Office 365 中支援的結束</b0>> 及 < <b1>MAPI over HTTP</b1>。
-    
+- **MAPI OVER HTTP**郵件應用程式介面（MAPI） over HTTP 允許 Outlook 使用者從其組織防火牆以外的網際網路連線至 Exchange Online 信箱。 MAPI over HTTP，長期取代 Outlook Anywhere。 這種連線方式可提供更好的連線恢復功能、更安全的登入、擴充性，以及 IT 和支援的增強功能。 若要深入瞭解，請參閱[RPC OVER HTTP 的支援終止于 Office 365](https://go.microsoft.com/fwlink/?linkid=863890)和[MAPI over HTTP](https://go.microsoft.com/fwlink/?linkid=393041)。
+
 - **Autodiscover** Autodiscover 服務功能自動設定 Outlook 搭配 Exchange Online 使用。Outlook 使用者首次以電子郵件地址與密碼登入時，能直接由 Exchange Online 接收他們要求的檔案設定。這些設定會以建立並維護使用者設定檔所需的資訊自動更新 Outlook 用戶端。使用 Autodiscover 服務需要 SSL 憑證。此 SSL 憑證僅限於單一的主要 SSL 網域。 
-    
-- **快取 Exchange 模式** 快取 Exchange 模式功允許M Outlook 使用者在未連線至網際網路時，能存取 Exchange Online 信箱的本機副本。快取 Exchange 模式保存使用者在 Outlook 的 Exchange 信箱之用戶端副本，並自動將此副本與郵件伺服器進行同步處理。我們建議使用快取 Exchange 模式中的 Outlook，因為它提供離線存取，並協助提供回應使用者經驗，即使用戶端與伺服器之間的網路狀況不理想。 
-    
+
+- 快取**Exchange 模式**「快取 Exchange 模式」功能可讓 Outlook 使用者在未連線至網際網路時，存取其 Exchange Online 信箱的本機複本。 快取 Exchange 模式保存使用者在 Outlook 的 Exchange 信箱之用戶端副本，並自動將此副本與郵件伺服器進行同步處理。 我們建議使用快取 Exchange 模式中的 Outlook，因為它提供離線存取，並協助提供回應使用者經驗，即使用戶端與伺服器之間的網路狀況不理想。 
+
 依照預設，Outlook 存取對所有使用者開放啟用狀態。管理員可以透過 Windows PowerShell，禁止特定的使用者或群組存取。我們建議使用最新版本的 Outlook--安裝最新版的 service pack--來存取 Exchange Online。 
   
-如需哪些 Outlook 用戶端受到 Exchange 2016 和 Exchange Online 支援的詳細資訊，請參閱 [Exchange 2016 系統需求](https://go.microsoft.com/fwlink/?LinkID=828972)中的＜支援的用戶端＞。
-  
+如需 Exchange 2016 和 Exchange Online 所支援之 Outlook 用戶端的相關資訊，請參閱[Office 的系統需求](https://products.office.com/office-system-requirements)。 
+
+Microsoft 365 專為與最新的 Office 和 Office 版本搭配使用而設計。 如果您使用舊版的瀏覽器和不在主流支援的 Office 版本，請執行下列步驟：
+
+- Microsoft 不會故意阻止您連線至服務，但您的經驗品質會隨著時間而降低。
+- Microsoft 不會提供軟體更新，以解決與不安全相關的問題。
+
 > [!IMPORTANT]
->  Outlook 不包含在 Exchange Online 的訂閱價格之內。 Microsoft Office Pro Plus（包括 Microsoft Outlook）包含在某些 Office 365 計畫內，並且能以單獨訂閱的方式購買。 如果您使用 POP 連線至 Exchange Online 的電子郵件帳戶，您會看到下列限制： > 沒有行事曆資訊 > 沒有空閒/忙碌資訊 > 否全域通訊清單 > 沒有發送電子郵件 > 透過 POP 連接時，所有的郵件將是 downlo用戶端和有將 aded 是沒有多部電腦或裝置 （例如筆電膝上型電腦和手機） 之間的同步處理。 
+>  Outlook 不包含在 Exchange Online 的訂閱價格之內。 適用于企業的 Microsoft 365 應用程式（包括 Microsoft Outlook）包含在某些方案中，而且可以以個別訂閱形式購買。 如果您使用 POP 連線至 Exchange Online 電子郵件帳戶，將會看到下列限制： > 沒有任何行事曆資訊 > 沒有空閒/忙碌 > 資訊 > 沒有任何的電子郵件 > 當透過 POP 連線時，所有郵件都會下載至用戶端，而且在多部電腦或裝置之間（例如，膝上型電腦和電話），將不會進行同步處理。 
   
 ## <a name="outlook-on-the-web"></a>Outlook 網頁版
 
-Outlook 網頁版是網路架構版本的 Outlook 電子郵件程式，搭配 Exchange Online 使用。它能讓使用者透過網路瀏覽器接存取電子郵件、行事曆，以及聯絡人，不無論他們在哪裡連接網際網路。如需有關支援瀏覽器的詳細資訊，請參閱[商務用 Outlook 網頁版支援的瀏覽器](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006)。
+Outlook 網頁版是網路架構版本的 Outlook 電子郵件程式，搭配 Exchange Online 使用。 它可讓使用者透過網頁瀏覽器存取其電子郵件、行事曆和連絡人，而不論他們連線至網際網路的任何地方。 如需有關支援瀏覽器的詳細資訊，請參閱[商務用 Outlook 網頁版支援的瀏覽器](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006)。
   
 Outlook 網頁版有兩種用戶端版本，皆可搭配 Exchange Online 使用：
   
-- **Outlook 網頁版** Outlook 網頁版標準版本提供 Exchange Online 使用者和 Outlook 使用者如出一轍的郵件傳送體驗。它支援最新的網路瀏覽器，無論使用平板電腦、智慧型手機、桌上型電腦和筆電，都提供高效能運用。使用者可以讀取和傳送郵件、組織連絡人，以及排定約會與會議。預設的以活動為基礎的逾時是設定為 6 小時，但是可以 [由系統管理員在 Windows PowerShell 中設定](https://go.microsoft.com/fwlink/p/?LinkId=399155)，從 5 分鐘到 8 小時不等。這個逾時取決於 Web 應用程式內的使用者互動，例如按一下按鈕或選取某個郵件。另外也有由安全性驅動的個別逾時，這個逾時無法設定且不論使用者活動如何都會發生。如果使用者已經登入長達 8 小時，OWA 將會自動把使用者登出並要求重新驗證。 
-    
-- **Outlook 網頁精簡版** Outlook 網頁精簡版可讓使用者透過任一種網路瀏覽器存取信箱。使用者可以讀取和傳送郵件、組織連絡人，以及排定約會與會議。預設的以活動為基礎的逾時是設定為 6 小時，但是可以 [由系統管理員在 Windows PowerShell 中設定](https://go.microsoft.com/fwlink/p/?LinkId=399155)，從 5 分鐘到 8 小時不等。這個逾時取決於 Web 應用程式內的使用者互動，例如按一下按鈕或選取某個郵件。另外也有由安全性驅動的個別逾時，這個逾時無法設定且不論使用者活動如何都會發生。如果使用者已經登入長達 8 小時，精簡版的 OWA 將會自動把使用者登出並要求重新驗證。 
-    
-Outlook 網頁版也有行動版本。如需詳細資訊，請參閱[此頁面](http://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409)。
+- **Outlook 網頁版** Outlook 網頁版標準版本提供 Exchange Online 使用者和 Outlook 使用者如出一轍的郵件傳送體驗。 它支援最新的網路瀏覽器，無論使用平板電腦、智慧型手機、桌上型電腦和筆電，都提供高效能運用。 使用者可以讀取和傳送郵件、組織連絡人，以及排定約會與會議。 預設的以活動為基礎的逾時是設定為 6 小時，但是可以 [由系統管理員在 Windows PowerShell 中設定](https://go.microsoft.com/fwlink/p/?LinkId=399155)，從 5 分鐘到 8 小時不等。 此超時取決於 web 應用程式中的使用者互動，例如選取按鈕或選取郵件。 另外也有由安全性驅動的個別逾時，這個逾時無法設定且不論使用者活動如何都會發生。 如果使用者已經登入長達 8 小時，OWA 將會自動把使用者登出並要求重新驗證。 
+
+- **Outlook 網頁精簡版** Outlook 網頁精簡版可讓使用者透過任一種網路瀏覽器存取信箱。 使用者可以讀取和傳送郵件、組織連絡人，以及排定約會與會議。 預設的以活動為基礎的逾時是設定為 6 小時，但是可以 [由系統管理員在 Windows PowerShell 中設定](https://go.microsoft.com/fwlink/p/?LinkId=399155)，從 5 分鐘到 8 小時不等。 此超時取決於 web 應用程式中的使用者互動，例如選取按鈕或選取郵件。 另外也有由安全性驅動的個別逾時，這個逾時無法設定且不論使用者活動如何都會發生。 如果使用者已經登入長達 8 小時，精簡版的 OWA 將會自動把使用者登出並要求重新驗證。 
+
+Outlook 網頁版也有行動版本。 如需詳細資訊，請參閱[此頁面](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409)。
   
 ## <a name="outlook-for-mac"></a>Mac 版 Outlook
 
-Exchange Online 支援 Microsoft Outlook for Mac，提供電子郵件、 行事曆、 地址簿、 工作清單，以及備註清單。
+Exchange Online 支援 Microsoft Outlook for Mac，可提供電子郵件、行事曆、通訊錄、工作清單及附注清單。
   
-## <a name="outlook-for-ios-android-and-windows-phone"></a>Outlook for iOS、 Android 和 Windows Phone
+## <a name="outlook-for-ios-android-and-windows-phone"></a>適用于 iOS、Android 和 Windows Phone 的 Outlook
 
-Outlook 相關應用程式適用於 iOS、 Android 和 Windows Phone 與 Exchange Online 運作。 在任何這些裝置，使用應用程式市集，尋找 Outlook 應用程式。 以下是行動裝置 OS 明細。
+Exchange Online 適用于適用于 iOS、Android 和 Windows Phone 的 Outlook app。 在上述任一裝置上，使用 app store 尋找 Outlook 應用程式。 以下是移動作業系統的分解。
   
 |||||
 |:-----|:-----|:-----|:-----|
 |裝置  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
-|Outlook 行動應用程式可用性  <br/> |是  <br/> [取得 Android 版 Outlook](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |是  <br/> [取得適用於 iOS 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |內建  <br/> |
-|與 Exchange Online 相容的內建的電子郵件應用程式  <br/> |Gmail 應用程式/Samsung 電子郵件應用程式  <br/> |ios 電子郵件應用程式  <br/> |Outlook 郵件、 行事曆、 連絡人  <br/> |
-|詳細資訊  <br/> |[Android 的行動裝置設定](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone 或 iPad 的安裝程式](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone 安裝程式](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
-   
-也有使用裝置，包括 Blackberry 使用 Exchange Online 的選項。
+|Outlook 行動應用程式可用性  <br/> |是  <br/> [取得適用于 Android 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |是  <br/> [取得 iOS 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |內建  <br/> |
+|與 Exchange Online 相容的內建電子郵件應用程式  <br/> |Gmail app/Samsung 電子郵件應用程式  <br/> |iOS 郵件應用程式  <br/> |Outlook 郵件、行事曆、連絡人  <br/> |
+|詳細資訊  <br/> |[Android mobile 設定](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone 或 iPad 安裝程式](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone 設定](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
+
+此外，還有一些搭配使用 Exchange Online 和裝置（包括 Blackberry）的選項。
   
 ### <a name="feature-availability"></a>功能可用性
 
-Outlook 會讓使用者快速且容易了解電子郵件和行事曆體驗，預期現代行動應用程式，從時所提供的 Office 365 的最佳功能支援僅應用程式。 它是特別設計用來支援完整的 Office 365 體驗，請授與使用者的一致的體驗從桌面行動唯一的電子郵件應用程式。 Outlook 整合 Intune、 企業行動力與安全性和 Exchange 控制以保護資料和使用者的安全。
+Outlook 為使用者提供來自現代行動應用程式的快速、直觀的電子郵件和行事歷經驗，同時也是唯一提供最佳功能支援的應用程式。 這是唯一專為支援完整的 Microsoft 體驗而設計的電子郵件應用程式，可讓使用者在桌面與行動裝置上具有連貫的體驗。 Outlook 與 Intune、enterprise 可移動性和 security 和 Exchange 控制項整合，可讓資料和使用者安全。
   
-Outlook 可讓使用者：
+透過 Outlook，使用者可以：
   
-- 從行動裝置管理其整個天。
-    
-- 連線到應用程式，也須能生產力，同時保持其工作和個人資訊分開及安全的服務。
-    
-Outlook for iOS、 Android 版 Outlook 或 Outlook for Windows Phone 中，使用者可以進行下列作業： 
+- 從行動裝置管理其全天。
+
+- 連線至所需的應用程式和服務，以提高其生產力，同時保持其工作和個人資訊的安全。
+
+使用者可以使用 Outlook for iOS、適用于 Android 的 outlook 或 Outlook for Windows Phone，使用者可以： 
   
-- 享有焦點收件匣的優先順序重要的電子郵件
-    
-- 自訂以符合其唯一的電子郵件習慣往撥動手勢
-    
-- 建立可直接加入在行事曆，以提供一眼的重要資訊的旅遊行程
-    
-- 從收件匣 RSVP 加入會議。
-    
-- 電子郵件中使用直覺式的圖示，並協助他們的行事曆約會快速處理資訊
-    
-- 所有裝置上使用一致且熟悉的 Outlook 經驗
-    
-- 輕鬆地啟動並加入從行事曆的 Skype 會議
-    
-- 讀取和回應 IRM 加密和保護電子郵件
-    
-- 儲存在商務用 OneDrive 中共用檔案
-    
-- 點選 [設定自動回覆
-    
-- 檢視及管理共用與委派的行事曆
-    
-- 搜尋與一些點選其公司的全域通訊清單
-    
-- 檢視同事的可用性和排程適用於所有人的會議時間
-    
-- 請參閱受邀者接受、 暫訂，並拒絕狀態
-    
-- 共用權限從其電話的行事曆
-    
-- 啟動並加入 Skype 會議右，從行事曆
-    
-- 存取公司與個人的行事曆在一個位置，而不切換應用程式
+- 受益于優先順序重要電子郵件的焦點收件匣
+
+- 自訂滑動筆勢以符合其獨特的電子郵件習慣
+
+- 建立可直接新增至行事曆的旅行行程，並提供快速的重要資訊
+
+- 從收件匣到會議的 RSVP。
+
+- 在電子郵件和行事曆約會中使用直觀的圖示，可協助使用者快速處理資訊
+
+- 在所有裝置中使用一致且熟悉的 Outlook 體驗
+
+- 從行事曆輕鬆啟動及加入 Skype 會議
+
+- 讀取和回應 IRM 加密和受保護的電子郵件
+
+- 在商務用 OneDrive 中共用儲存的檔案
+
+- 使用攻絲設定自動回復
+
+- 查看及管理共用及委派的行事曆
+
+- 使用一些分路器搜尋公司的全域通訊清單
+
+- 查看同事的可用性及排程適用于每個人的會議時間
+
+- 請參閱被邀請者 accept、暫定和拒絕狀態
+
+- 從手機共用行事曆
+
+- 從行事曆開始及加入 Skype 會議
+
+- 在單一位置存取工作和個人行事曆，不需要切換應用程式
     
 ## <a name="exchange-activesync"></a>Exchange ActiveSync
 
 Exchange Online 支援 Microsoft Exchange ActiveSync 協定，將行動裝置與 Exchange Online 之間的信箱資料同步處理，使用者便能隨時隨地存取電子郵件、行事曆、聯絡人和工作。
   
-Exchange ActiveSync 可與各種行動裝置相容，包括 Microsoft Windows Phone、Apple iPhone 和 iPad，以及 Android 手機和平板電腦。 除了手機和裝置，Windows Phone 的郵件應用程式連線到 Exchange Online 使用 Exchange ActiveSync。 目前 Exchange ActiveSync 授權條款的完整清單可在 Exchange ActiveSync Licensing 網站查閱。
+Exchange ActiveSync 可與各種行動裝置相容，包括 Microsoft Windows Phone、Apple iPhone 和 iPad，以及 Android 手機和平板電腦。 除了行動電話和裝置之外，Windows Phone 中的郵件應用程式也會使用 Exchange ActiveSync 連接至 Exchange Online。 目前 Exchange ActiveSync 授權條款的完整清單可在 Exchange ActiveSync Licensing 網站查閱。
   
-如需 Exchange ActiveSync 的詳細資訊，請參閱[Exchange ActiveSync](https://go.microsoft.com/fwlink/p/?LinkId=271792)。
+如需 Exchange ActiveSync 的詳細資訊，請參閱[exchange ActiveSync](https://go.microsoft.com/fwlink/p/?LinkId=271792)。
   
 > [!IMPORTANT]
 > 每個信箱的 Exchange ActiveSync 裝置數目上限是 100。 
@@ -141,20 +145,20 @@ Exchange Online 支援透過 POP3 和 IMAP4 協定的信箱存取。POP 和 IMAP
 簡易郵件傳輸通訊協定（SMTP）是用來發送外寄郵件給透過 IMAP 或 POP 連線至 Exchange Online 的客戶端。它是路由和通過 Exchange 伺服器傳遞的主協定。Exchange Online 為需要 SMTP 郵件提交的授權內部客戶應用程式提供兩種型態的 SMTP 轉送服務：
   
 - SMTP 郵件提交給託管環境內的使用者。
-    
+
 - 已通過驗證的 SMTP 郵件將轉送到託管環境的外部地址。
-    
+
 > [!IMPORTANT]
 > 需要授權的來源伺服器 IP 位址以允許 SMTP 轉送。使用 SMTP 寄送郵件時，需要傳輸層安全性（TLS）加密與驗證。 
   
-## <a name="blackberry-devices"></a>BlackBerry® 裝置
+## <a name="blackberryreg-devices"></a>BlackBerry&reg;裝置
 
-透過 Exchange ActiveSync BlackBerry® 裝置上使用 office 365 電子郵件。 若要找出您的選項為何，請參閱下列主題：
+電子郵件可透過 Exchange&reg; ActiveSync 在 BlackBerry 裝置上。 若要瞭解您的選項是什麼，請參閱下列主題：
   
-- [BlackBerry 裝置上設定電子郵件](https://go.microsoft.com/fwlink/?linkid=863394)
-    
-- [BlackBerry 裝置 7.1 上設定電子郵件 OS 和更早版本](https://go.microsoft.com/fwlink/?linkid=863403)
-    
+- [在 BlackBerry 裝置上設定電子郵件](https://go.microsoft.com/fwlink/?linkid=863394)
+
+- [在 BlackBerry 裝置上設定電子郵件7.1 作業系統及更早版本](https://go.microsoft.com/fwlink/?linkid=863403)
+
 如需詳細資訊，請參閱 [BlackBerry](../office-365-platform-service-description/blackberry.md)。
   
 > [!NOTE]
@@ -162,6 +166,5 @@ Exchange Online 支援透過 POP3 和 IMAP4 協定的信箱存取。POP 和 IMAP
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視 Office 365 計劃、獨立選項和內部部署解決方案中的功能可用性，請參閱 [Exchange Online 服務說明](exchange-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
   
-

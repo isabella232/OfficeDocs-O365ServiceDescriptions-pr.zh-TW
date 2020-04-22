@@ -8,13 +8,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
-description: 瞭解 Office 365 和獨立方案的 SharePoint 限制。
-ms.openlocfilehash: 0a94f4012b0757398e52236c44e0602b9876e05a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: 瞭解 Microsoft 365 和獨立方案的 SharePoint 限制。
+ms.openlocfilehash: ea8b55958678f14332ea808f0d49eed6827bcd58
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609974"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638921"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -24,7 +24,7 @@ ms.locfileid: "42609974"
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Office 365 商務基本版或商務版** <br/> |**Office 365 Enterprise E1、E3 或 E5，或 SharePoint 方案1或2** <br/> | **Office 365 Enterprise F3** <br/> |
+|**功能** <br/> |**Microsoft 365 商務基本或商務版 Premium** <br/> |**Office 365 Enterprise E1、E3 或 E5，或 SharePoint 方案1或2** <br/> | **Office 365 企業版 F3** <br/> |
 |每個組織的總儲存量<sup>1，2，6</sup> <br/> |每個授權購買 1 TB 外加 10 GB  <br/> |每個授權購買 1 TB 外加 10 GB<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |每個網站最大儲存體（網站集合）<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |每個組織的網站（網站集合）  <br/> |2000000<sup>6</sup> <br/> |2000000<sup>6</sup> <br/> |2000000<br/> |
@@ -32,7 +32,7 @@ ms.locfileid: "42609974"
    
 <sup>1</sup> [瞭解如何尋找組織的總數和可用儲存體](/sharepoint/manage-site-collection-storage-limits)。 您可以購買無限的額外 SharePoint 儲存空間。 請參閱＜ [變更您訂閱的儲存空間](/office365/admin/subscriptions-and-billing/add-storage-space)＞。 
 <br/><sup>2</sup> 我們建議您監控並定期清空「資源回收筒」。 其使用的儲存空間為組織總儲存量限制的一部分。 
-<br/> <sup>3</sup>如果您有 office 365 訂閱和 Office 365 額外檔案儲存區，將會新增儲存量。 
+<br/> <sup>3</sup>如果您有 Microsoft 365 訂閱和 Office 365 額外檔案儲存空間，將會新增儲存量。 
 <br/> <sup>4</sup>這是單一網站（先前稱為「網站集合」）的儲存量*限制*，而非每個網站所*提供*的儲存量。 此限制適用于所有類型的網站，包括 Office 365 群組連線的小組網站和 OneDrive。 SharePoint 管理員可以[手動設定較低的儲存量限制](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)。 
 <br/> <sup>5</sup> Firstline 工作者無法管理 SharePoint 網站。 
 <br/> <sup>6</sup>不包括為每個授權使用者建立的 OneDrive。 
@@ -59,7 +59,7 @@ ms.locfileid: "42609974"
 
 每個作業 100 GB。 網頁瀏覽器必須保持開啟狀態。
 
-### <a name="sync"></a>同步處理
+### <a name="sync"></a>Sync
 
 **新 OneDrive 同步處理應用**程式-為了獲得最佳效能，建議您在所有已同步處理的文件庫中儲存不超過300000的檔案，即使您是以要求進行，或是只選擇文件庫中的某些資料夾，也能進行同步處理。
 
@@ -105,6 +105,6 @@ ms.locfileid: "42609974"
 > [!NOTE]
 > 您可以邀請 SharePoint 網站的客人數目沒有限制。 如需外部共用的詳細資訊，請參閱[外部共用一覽](/sharepoint/external-sharing-overview)。
 
-## <a name="see-also"></a>另請參閱
+## <a name="see-also"></a>請參閱
 
 [SharePoint 的搜尋限制](/sharepoint/search-limits)

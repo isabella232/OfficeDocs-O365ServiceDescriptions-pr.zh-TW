@@ -1,5 +1,5 @@
 ---
-title: Exchange Online 的安裝和管理
+title: Exchange Online 設定與管理
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: 本文說明的管理控制和可自訂 Exchange Online 設定，並跟組織的 Exchange Online 環境，在執行，且目前的支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
-ms.openlocfilehash: 1665afcc165f1dee8e5efbfdfa2e2f4f15f167a5
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: 本文說明可自訂 Exchange Online 設定並保持組織的 Exchange Online 環境為已啟動、執行及目前狀態的管理控制和支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
+ms.openlocfilehash: 53179b3526a53333583c8265a501c743658348cd
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262606"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640331"
 ---
-# <a name="exchange-online-setup-and-administration"></a>Exchange Online 的安裝和管理
+# <a name="exchange-online-setup-and-administration"></a>Exchange Online 設定與管理
 
-本文說明的管理控制和可自訂 Exchange Online 設定，並跟組織的 Exchange Online 環境，在執行，且目前的支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
+本文說明可自訂 Exchange Online 設定並保持組織的 Exchange Online 環境為已啟動、執行及目前狀態的管理控制和支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
   
 ## <a name="self-service-administration-tools"></a>自助系統管理工具
 
-雖然 Microsoft 直接控制所有 Exchange Online 資料中心，且負責整體系統效能，但只能控制組合以提供 Office 365 使用者全面體驗之要素當中的一小部分而已。組織須自行負責與資料中心的網路連線、客戶的廣域網路 (WAN) 以及客戶的區域網路 (LAN)。此外，他們也負責使用者裝置和其設定。他們也須負責維護每個使用者針對任何功能所需的授權，包括 (但不限於) 管理這些功能的能力，直到使用者不需存取該功能為止。
+雖然 Microsoft 直接控制所有 Exchange Online 資料中心，並負責整體系統效能，但它只會控制結合的部分元素，以提供使用者的整體經驗。 組織須自行負責與資料中心的網路連線、客戶的廣域網路 (WAN) 以及客戶的區域網路 (LAN)。 此外，他們也負責使用者裝置和其設定。他們也須負責維護每個使用者針對任何功能所需的授權，包括 (但不限於) 管理這些功能的能力，直到使用者不需存取該功能為止。
   
 因此，Exchange Online 提供客戶系統管理員下列工具 (如下所述)，以管理各種訊息相關工作：
   
@@ -45,7 +45,7 @@ ms.locfileid: "39262606"
   
 ### <a name="microsoft-365-admin-center"></a>Microsoft 365 系統管理中心
 
-在 Microsoft 365 系統管理中心是從中每個公司的服務管理員可以管理使用者帳戶的入口網站及訂閱的每個 Office 365 服務的設定。 從內 Microsoft 365 系統管理中心中，系統管理員可以遵循連結至 Exchange 系統管理中心 (EAC) 中，他們可以在其中管理 Exchange Online 專屬的設定。 如需有關取得及執行使用 Microsoft 365 系統管理中心，請參閱下列影片：[介紹 Office 365 企業版](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
+Microsoft 365 系統管理中心是一個網頁入口網站，每個公司的服務管理員可以從該入口網站管理每個訂閱的 Microsoft 服務的使用者帳戶和設定。 在 Microsoft 365 系統管理中心內，管理員可以追蹤 Exchange 系統管理中心（EAC）的連結，以便在其中管理 Exchange Online 特有的設定。 如需使用 Microsoft 365 系統管理中心開始及執行的詳細資訊，請參閱下列影片： [Office 365 Enterprise 簡介](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
   
 ### <a name="exchange-admin-center"></a>Exchange 系統管理中心
 
@@ -74,7 +74,7 @@ Exchange Online 針對行動裝置所支援的 ActiveSync 原則與 Exchange Ser
   
 ### <a name="message-tracking-for-exchange-online"></a>Exchange Online 的郵件追蹤
 
-下列主題將說明透過 「 傳遞回報 」 功能的郵件追蹤：[報告功能和疑難排解工具](reporting-features-and-troubleshooting-tools.md)。
+透過「傳遞回報」功能進行的郵件追蹤會在下列主題中說明：[報告功能和疑難排解工具](reporting-features-and-troubleshooting-tools.md)。
   
 ### <a name="usage-reporting-for-exchange-online"></a>Exchange Online 的使用報告
 
@@ -92,7 +92,7 @@ Exchange Online 針對行動裝置所支援的 ActiveSync 原則與 Exchange Ser
   
 ### <a name="auditing-for-exchange-online"></a>Exchange Online 的稽核
 
-下列主題將說明稽核記錄功能：[報告功能和疑難排解工具](reporting-features-and-troubleshooting-tools.md)。
+下列主題說明「審核記錄」功能：[報告功能和疑難排解工具](reporting-features-and-troubleshooting-tools.md)。
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Exchange Online 的服務和產品升級
 
@@ -102,5 +102,5 @@ Exchange Online 客戶享有定期升級至最新 Exchange 技術的權益，包
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
   

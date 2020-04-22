@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已建立 Office 365 美國政府方案（或 Office 365 政府版）。 本文概要說明 Office 365 政府美國環境所特有的功能。
-ms.openlocfilehash: dfb71c726e8993d333132d259828873d073f1d61
-ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
+ms.openlocfilehash: 1040e396b63341879ee0293b4fb0ec53d296af67
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954810"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638791"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -56,7 +56,7 @@ Office 365 US Government 方案為每月訂閱，並且可授權給不限數量�
   
 ## <a name="customer-eligibility"></a>客戶資格
 
-Office 365 US 政府可用於（1）美國聯邦、state、local、部落及 territorial 政府機構，以及（2）個其他實體，可處理政府法規和需求的資料，以及 Office 365 US 政府的使用。適用于符合這些需求，請遵守資格驗證。 Microsoft 的資格驗證會包含針對在 Arm 法規（ITAR）中的國際流量所遵循的處理資料，以及針對 FBI 的刑事審判資訊服務（CJIS）原則或其他方面的法律強制執行資料的確認。政府管制或控制的資料。 驗證可能需要使用美國州的「州」部門進行註冊，以供政府機構使用特定的資料處理要求的 ITAR 資料或資助。 Office 365 DoD 環境是以專屬方式使用美國國防部。
+Office 365 US 政府可用於（1）美國聯邦、state、local、部落及 territorial 政府機構，以及（2）個其他實體，可處理政府法規和需求的相關資料，以及使用 Office 365 US 政府來符合這些需求（遵循資格驗證）。 Microsoft 的資格驗證會包含對透過 Arm 法規（ITAR）中的國際流量所加以的處理資料的確認、法律強制執行資料（遵循 FBI 的刑事審判資訊服務（CJIS）原則，或其他政府管制或受管理的資料）。 驗證可能需要使用美國州的「州」部門進行註冊，以供政府機構使用特定的資料處理要求的 ITAR 資料或資助。 Office 365 DoD 環境是以專屬方式使用美國國防部。
   
 雖然各 Office 365 政府產品皆符合資格準則，但 Microsoft 只會同意 DFARS 及 ITAR 合約語言的 GCC 高環境。
   
@@ -79,11 +79,11 @@ Office 365 US Government 服務是由美國境內的實體資料中心所提供�
 > [!NOTE]
 > 一般來說，商務用 Skype 不會儲存客戶內容，但是如果有儲存的話，將會儲存在美國境內的資料中心。 
   
-如果您的使用者在美國境內中使用 Office （以前稱為 Office Web Apps），或是採用 Active Directory Federation Services （AD FS）2.0 並設定原則，以確保您的使用者透過單一服務連線至服務登入，暫時快取在 Office 中的任何客戶內容都會位於美國境內中。
+如果您的使用者在美國境內中使用 Office （以前稱為 Office Web Apps），或是採用 Active Directory Federation Services （AD FS）2.0 和設定原則，以協助確保您的使用者透過單一登入連線到服務，則暫時快取在 Office 中的任何客戶內容都會位於美國境內中。
   
 ## <a name="office-365-us-government-and-third-party-services"></a>Office 365 US Government 與協力廠商服務
 
-Office 365 可將協力廠商的應用程式整合至 SharePoint Online 站台、商務用 Skype、Office 365 ProPlus 中的 Office 應用程式 (如 Word、Excel、PowerPoint 和 Outlook) 以及 Outlook Web App。此外，Office 365 還支援與服務提供者協力廠商整合。這些協力廠商應用程式和服務可能會在 Office 365 基礎結構外的協力廠商系統上儲存、傳輸和處理組織的客戶資料，因此不在 Office 365 規範和資料保護承諾的保證範圍內。建議您檢閱協力廠商提供的隱私權和規範聲明，來評估適合組織的服務使用方式。
+Office 365 提供將協力廠商應用程式整合至 SharePoint Online 網站、商務用 Skype、商務365用 Office 應用程式（如 Word、Excel、PowerPoint 和 Outlook）和 Outlook Web App 的功能。 此外，Office 365 還支援與服務提供者協力廠商整合。 這些協力廠商應用程式和服務可能會在 Office 365 基礎結構外的協力廠商系統上儲存、傳輸和處理組織的客戶資料，因此不在 Office 365 規範和資料保護承諾的保證範圍內。 建議您檢閱協力廠商提供的隱私權和規範聲明，來評估適合組織的服務使用方式。
   
 ## <a name="restricted-data-access-by-administrators"></a>受限制的系統管理員資料存取
 
@@ -134,7 +134,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
   
 ## <a name="security-amp-compliance-center"></a>安全性&amp;與合規性中心
 
-如需安全性&amp;與合規性中心的詳細資訊，以及其他資訊與可用性的連結，請參閱[Office 365 安全性&amp;與合規性中心](../../office-365-platform-service-description/office-365-securitycompliance-center.md)。
+如需安全性&amp;與合規性中心的詳細資訊，以及其他資訊與可用性的連結，請參閱[安全性&amp;合規性中心](../../office-365-platform-service-description/office-365-securitycompliance-center.md)。
   
 ## <a name="service-availability-for-each-plan"></a>每個方案可用的服務
 
@@ -144,7 +144,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |:-----|:-----|:-----|:-----|:-----|
 |**Office 365 服務** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |網頁版 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 365 專業增強版  <br/> |否 <br/> |是 <br/> |是 <br/> |否  <br/> |
+|適用于企業的 Microsoft 365 應用程式  <br/> |否 <br/> |是 <br/> |是 <br/> |否  <br/> |
 |Exchange Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online Protection  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |SharePoint Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -156,7 +156,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |Visio 網頁版  <br/> |否<sup>6</sup> <br/> |否<sup>6</sup> <br/> |否<sup>6</sup> <br/> |否<sup>6</sup> <br/> |
 |Yammer Enterprise  <br/> |否<sup>4</sup> <br/> |否<sup>4</sup> <br/> |否<sup>4</sup> <br/> |否<sup>4</sup> <br/> |
    
-> <sup>1</sup>商務用 Skype Basic 適用于所有客戶。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Office 365 ProPlus、G3 及 G5 包含完整的 Skype 應用程式，其中包含諸如高級電話語音支援、封存及合規性功能等其他功能。 必須為每個使用者指派商務用 Skype Online 授權。
+> <sup>1</sup>商務用 Skype Basic 適用于所有客戶。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Microsoft 365 應用程式適用于企業、G3 及 G5 包含完整的 Skype 應用程式，其包含額外的功能，例如高級電話語音支援、封存及合規性功能。 必須為每個使用者指派商務用 Skype Online 授權。
 <br/><sup>2</sup>不包含在內，但能以個別的附加元件形式購買。 Project Online 包含 Project Online 桌面用戶端做為訂閱的一部分。
 <br/> 在 GCC 高或 DoD 方案<sup>中尚未提供</sup>，但即將推出。 
 <br/><sup>4</sup> Yammer Enterprise 不是 OFFICE 365 美國政府的元件，但可免費提供給在 GCC 中為 Office 365 授權的每位使用者提供的獨立功能。 這項優惠目前僅限於以企業合約和企業訂閱協定購買 Office 365 GCC 的客戶。 在 GCC High 或 DoD 中無法使用 Yammer。
@@ -241,7 +241,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |可下載的郵件保護報告  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |使用的瀏覽器  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |使用的作業系統  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
-|使用 Office 365 回報網路服務來建立自己的報表  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
+|使用 Microsoft 365 報表 web 服務建立您自己的報表  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |**[服務更新](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |提供給所有客戶的定期更新  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |需要採取行動時，將通知傳送給「訊息中心」  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
@@ -257,10 +257,10 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |**信任** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |**[隱私權、安全性及透明性](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |進階資料管理  <br/> |無<sup>12</sup> <br/> |無<sup>12</sup> <br/> |是 <br/> |無<sup>12</sup> <br/> |
-|雲端 App 安全性  <br/> |無<sup>12、15、19</sup> <br/> |無<sup>12、15、19</sup> <br/> |是<sup>15、19</sup> <br/> |無<sup>12、15、19</sup> <br/> |
+|Cloud App Security  <br/> |無<sup>12、15、19</sup> <br/> |無<sup>12、15、19</sup> <br/> |是<sup>15、19</sup> <br/> |無<sup>12、15、19</sup> <br/> |
 |進階威脅防護  <br/> |無<sup>12，18</sup> <br/> |無<sup>12，18</sup> <br/> |是<sup>18</sup>  <br/> |無<sup>12，18</sup> <br/> |
 |客戶加密箱  <br/> |無<sup>12</sup> <br/> |無<sup>12</sup> <br/> |是 <br/> |無<sup>12</sup> <br/> |
-|Office 365 進階電子文件探索  <br/> |無<sup>12</sup> <br/> |無<sup>12</sup> <br/> |是  <br/> |無<sup>12</sup> <br/> |
+|進階電子文件探索  <br/> |無<sup>12</sup> <br/> |無<sup>12</sup> <br/> |是  <br/> |無<sup>12</sup> <br/> |
 |安全分數<sup>14</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
 |Office 郵件加密  <br/> |否  <br/> |是 <br/> |是 <br/> |否  <br/> |
 |威脅情報  <br/> |無<sup>12</sup> <br/> |無<sup>12</sup> <br/> |是 <br/> |無<sup>12</sup> <br/> |
@@ -283,7 +283,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |**[服務等級協定](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[產品使用權限](../../office-365-platform-service-description/product-use-rights.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
    
-> <sup>1</sup> Azure 資訊保護未包含在內，但能以個別的附加元件形式購買，並且會啟用支援的資訊版權管理（IRM）功能。 部分 Azure 資訊保護功能需要訂閱 Office 365 ProPlus，但不包含在 Office 365 政府版 G1 或 Office 365 政府 F3 中。 > 
+> <sup>1</sup> Azure 資訊保護未包含在內，但能以個別的附加元件形式購買，並且會啟用支援的資訊版權管理（IRM）功能。 部分 Azure 資訊保護功能需要訂閱 Microsoft 365 Apps for enterprise，不包含在 Office 365 政府版 G1 或 Office 365 政府 F3 中。 > 
 <br/><sup>2</sup> 現有的 BBCS 和 BIS 客戶可以繼續使用服務。 不接受新的客戶。 
 <br/><sup>3</sup> 如果您是使用目錄同步處理，則必須使用 Active Directory (非使用 Office 365 入口網站) 或使用 Windows PowerShell 的 Azure Active Directory 模組來刪除帳戶或變更密碼。 
 <br/><sup>4</sup> 如果使用密碼同步化，使用者必須在本機 Active Directory 中變更其密碼。 
@@ -361,9 +361,9 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |版本升級  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |大量啟用 (KMS/MAK)  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
    
-> <sup>1</sup> Azure 資訊保護未包含在內，但能以個別的附加元件形式購買，並且會啟用支援的資訊版權管理（IRM）功能。 部分 Azure 資訊保護功能需要訂閱 Office 365 ProPlus，但不包含在 Office 365 政府版 G1 或 Office 365 政府 F3 中。 
+> <sup>1</sup> Azure 資訊保護未包含在內，但能以個別的附加元件形式購買，並且會啟用支援的資訊版權管理（IRM）功能。 部分 Azure 資訊保護功能需要訂閱 Microsoft 365 Apps for enterprise，不包含在 Office 365 政府版 G1 或 Office 365 政府 F3 中。 
 <br/><sup>2</sup> WINDOWS SERVER AD RMS 是內部部署伺服器，必須個別採購並管理，以便啟用支援的 IRM 功能。 
-<br/><sup>3</sup>商務用 Skype Basic 適用于所有客戶。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Office 365 ProPlus 和 Office 365 企業版 E3 包含完整的 Skype 應用程式，其包含額外的功能，例如高級電話語音支援、封存及合規性功能。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
+<br/><sup>3</sup>商務用 Skype Basic 適用于所有客戶。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Microsoft 365 應用程式（適用于企業）和 Office 365 企業版 E3 包含完整的 Skype 應用程式，其包含額外的功能，例如高級電話語音支援、封存及合規性功能。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
 <br/><sup>4</sup>在 GCC 高或 DoD 環境中尚未提供，但即將推出。
 <br/><sup>5</sup>如需詳細資訊，請參閱[使用 Outlook For iOS 和 Android In 政府社區雲端](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)。
 <br/><sup>6</sup> Office 365 DoD 環境中尚未提供，但即將推出。

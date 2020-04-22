@@ -13,23 +13,23 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: Web PowerPoint （以前稱為 PowerPoint Web App）可將您的 Microsoft PowerPoint 體驗延伸至網頁瀏覽器，讓您在儲存簡報的網站上直接使用簡報。 具有網路的 Office 的 Microsoft Office 365 客戶可以在旅途中查看、建立及編輯檔案。
-ms.openlocfilehash: 211a028951ee86e8c7e79f36361a4249bbbdb838
-ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
+description: Web PowerPoint （以前稱為 PowerPoint Web App）可將您的 Microsoft PowerPoint 體驗延伸至網頁瀏覽器，讓您在儲存簡報的網站上直接使用簡報。 具有網路的 Office 的 Microsoft 365 客戶可以在旅途中查看、建立及編輯檔案。
+ms.openlocfilehash: f30eb6f981478c27e068282b5f0d523bad33eb38
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959321"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640281"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint 網頁版
 
-Web PowerPoint （以前稱為 PowerPoint Web App）可將您的 Microsoft PowerPoint 體驗延伸至網頁瀏覽器，讓您在儲存簡報的網站上直接使用簡報。 具有網路的 Office 的 Microsoft Office 365 客戶可以在旅途中查看、建立及編輯檔案。
+Web PowerPoint （以前稱為 PowerPoint Web App）可將您的 Microsoft PowerPoint 體驗延伸至網頁瀏覽器，讓您在儲存簡報的網站上直接使用簡報。 具有網路的 Office 的 Microsoft 365 客戶可以在旅途中查看、建立及編輯檔案。
   
 PowerPoint 編輯器是一個 web 前端元件，它會建立以瀏覽器為基礎的編輯表面，讓使用者可以在檔上運作，而不會喪失逼真度。
   
 如果您在 [web] 工具列的 PowerPoint 上選取 [**在 PowerPoint 開啟**] 按鈕，簡報就會在 PowerPoint 的桌面應用程式中開啟（如果電腦上已安裝 Microsoft PowerPoint 2010 或更新版本）。
   
-瞭解如何[在電腦上使用 office 365 商務版下載及安裝 office](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c)。
+瞭解如何[在電腦上使用 Microsoft 365 for business 下載及安裝 Office](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c)。
   
 ## <a name="alignment-bullets-numbers"></a>對齊方式、項目符號、編號
 
@@ -171,7 +171,7 @@ PowerPoint 網頁會在每次進行變更時，儲存您的工作。 沒有**儲
 
 不能在 web PowerPoint 中插入文字藝術師，但網頁 PowerPoint 會如預期那樣顯示。 在 [編輯] 檢視中編輯和格式化文字。 如果您想要將文字效果套用到文字藝術師，您必須使用 Microsoft PowerPoint 桌面應用程式。
   
-## <a name="share"></a>分享
+## <a name="share"></a>共用
 
 若您將簡報儲存在 SharePoint 文件庫中，則該簡報就是在線上執行，您可以透過傳送連結和他人共用，不用再傳送電子郵件附件。擁有適當權限的使用者可以在他們的網頁瀏覽器或行動裝置中檢視簡報。進一步了解[共用簡報](https://go.microsoft.com/fwlink/?LinkId=272776)。
   
@@ -211,4 +211,4 @@ PowerPoint 網頁會在每次進行變更時，儲存您的工作。 沒有**儲
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同 Office 365 方案、獨立選項和內部部署方案中的功能可用性，請參閱[web 服務說明的 Office](office-online-service-description.md)。 
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[web 服務說明的 Office](office-online-service-description.md)。 

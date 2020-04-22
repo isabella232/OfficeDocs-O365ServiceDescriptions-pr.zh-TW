@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 3d740495a70834cd8f5e8eaeddc04774c2e38664
-ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
+ms.openlocfilehash: b977fea67c28a660a7468945c76d19677769cd8f
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43093560"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638691"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online 封存中的合規性和安全性功能
 
@@ -88,7 +88,7 @@ Exchange 系統管理中心或遠端 Windows PowerShell 一次最多可以在就
   
 ### <a name="encryption-between-on-premises-servers-and-exchange-online-archiving"></a>內部部署伺服器與 Exchange Online 封存之間的加密
 
-TLS 用來加密電子郵件伺服器之間的連線，以防止詐騙並為傳輸中的郵件添加機密性。TLS 也用來保護送至 Exchange Online Archiving之 Office 365 資料中心的內部部署郵件伺服器流量。
+TLS 用來加密電子郵件伺服器之間的連線，以防止詐騙並為傳輸中的郵件添加機密性。 TLS 也可用來保護內部部署郵件伺服器流量，以進行 Exchange Online 封存的 Microsoft 資料中心。
   
 ### <a name="encrypting-between-clients-and-exchange-online-archiving"></a>用戶端與 Exchange Online 封存之間的加密
 
@@ -130,6 +130,6 @@ Exchange 系統管理中心提供多份預先定義的稽核報告，包括系�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同 Office 365 方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 封存服務說明](exchange-online-archiving-service-description.md)。
+若要查看不同計畫、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 封存服務說明](exchange-online-archiving-service-description.md)。
   
 

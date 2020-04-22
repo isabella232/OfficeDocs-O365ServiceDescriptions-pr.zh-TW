@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 身為 Microsoft 授權合作夥伴，Microsoft Office 365 可提供機會讓您擴展客群，並與客戶建立長久的關係。您的客戶只要付月費或年費給您，就能夠使用雲端式服務，而不需要管理資料備份、伺服器硬體和伺服器更新。您可用的服務取決於您有權提供的服務類型。
-ms.openlocfilehash: 807494ef23a089008ee3f9ff9b9e5191511afd99
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 58d0b09222457ecb7f5c1fb31ad511608c66fadc
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262514"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638751"
 ---
 # <a name="partners"></a>協力程式
 
@@ -41,7 +41,7 @@ You can create and send trial invitations to your customers so they can try Offi
   
 在開始管理客戶的帳戶之前，客戶必須將委派的管理員的身分授權給您。若要取得客戶核准，您可以將委派的管理邀請寄給客戶，並可在其中加入試用邀請或購買優惠。客戶可以回覆合作夥伴的邀請電子郵件，授權委派的管理合作夥伴。
   
-每位 Office 365 客戶可指定一個委派的系統管理合作夥伴。此合作夥伴也可以是客戶的記錄可查夥伴 (POR)，但不一定要兩者相同。POR 和委派的系統管理合作夥伴的角色是分開的，由客戶分別指定兩者。這種設計可讓客戶選擇一個合作夥伴負責採購建議，並選擇另一個合作夥伴負責實作或受管理服務。這也可讓合作夥伴針對自身的專業，選擇是否要接受其中一或兩種角色。
+每個客戶都有權擁有一個委派的系統管理合作夥伴。 此合作夥伴也可以是客戶的記錄可查夥伴 (POR)，但不一定要兩者相同。 POR 和委派的系統管理合作夥伴的角色是分開的，由客戶分別指定兩者。 這種設計可讓客戶選擇一個合作夥伴負責採購建議，並選擇另一個合作夥伴負責實作或受管理服務。 這也可讓合作夥伴針對自身的專業，選擇是否要接受其中一或兩種角色。
   
 即使客戶已授權合作夥伴來代表執行系統管理工作，客戶仍可以直接連絡 Microsoft 支援服務並提交服務要求。
   
@@ -53,5 +53,5 @@ Microsoft Partner Network 致力於滿足合作夥伴的需求。若要加入網
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃的功能可用性，請參閱[Office 365 平台服務說明](office-365-platform-service-description.md)。
+若要查看不同 Office 365 方案中的功能可用性，請參閱[office 365 平臺服務說明](office-365-platform-service-description.md)。
   

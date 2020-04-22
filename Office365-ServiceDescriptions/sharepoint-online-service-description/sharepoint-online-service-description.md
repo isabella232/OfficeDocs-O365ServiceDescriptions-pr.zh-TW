@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 請參閱哪些 SharePoint 功能可用於哪些方案。
-ms.openlocfilehash: 3d9bd3cba9cfecad648ab39aabcb243e04a6d3e2
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 52ae355158a5c801500c85b6ce6f796762503673
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609864"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639841"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服務描述
 
@@ -31,7 +31,7 @@ Microsoft 365 中的 SharePoint 可協助組織共用及管理內容、知識及
 
 如需快速概觀，請參閱[什麼是 SharePoint？](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-若要查看哪些 Office 365 方案包括 SharePoint，請[比較 office 365 For Business 方案](https://products.office.com/business/compare-more-office-365-for-business-plans)。 如需 Office 365 的系統需求，請參閱[office 的系統需求](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)。 
+若要查看哪些方案包括 SharePoint，請[比較 Microsoft 365 for business 方案](https://products.office.com/business/compare-more-office-365-for-business-plans)。 如需 Microsoft 365 的系統需求，請參閱[Office 的系統需求](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)。 
 
 若要深入瞭解我們政府雲端客戶的 SharePoint 功能差異，請參閱[SharePoint FOR us 政府環境](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)。
   
@@ -41,7 +41,7 @@ Microsoft 365 中的 SharePoint 可協助組織共用及管理內容、知識及
   
 ## <a name="subscription-options"></a>訂閱選項
 
-我們在多種計劃中提供 Office 365 以盡可能滿足組織的需求。如需各種計劃的相關資訊 (包括獨立計劃選項和從某個計劃移動到其他計劃的資訊)，請參閱 Office 365 計劃選項[Office 365 方案選項](../office-365-platform-service-description/office-365-plan-options.md)。
+Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不同計畫的相關資訊，包括獨立計畫選項及從一個計畫移至另一個計畫的資訊，請參閱[Microsoft 365 Plan options](../office-365-platform-service-description/office-365-plan-options.md)。
   
 若要存取 SharePoint，您組織中的使用者必須獲指派包含 SharePoint 的授權。 Firstline 計畫不會做為獨立提供，只做為[Firstline 訂閱](https://www.microsoft.com/microsoft-365/business/office-365-f1)的一部分銷售。 
   
@@ -99,7 +99,7 @@ Microsoft 365 中的 OneDrive 是為組織內的個別使用者提供線上存�
 - [遷移：遷移管理員](/sharepointmigration/mm-get-started)
 - [遷移： SharePoint 遷移評估工具](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
 - [遷移： Mover.io](https://mover.io/)。 目前僅適用于北美地區的客戶。
-- [多地理位置（資料常駐）](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)。 使用至少需要 500 Office 365 授權的附加元件。 如需詳細資訊，請與您的 Microsoft 代表聯繫。
+- [多地理位置（資料常駐）](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)。 使用至少需要 500 Microsoft 授權的附加元件。 如需詳細資訊，請與您的 Microsoft 代表聯繫。
 - [程式設計網站布建](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [根網站取代](/sharepoint/modern-root-site)
 - [還原已刪除的網站](/sharepoint/restore-deleted-site-collection)
@@ -124,7 +124,7 @@ Microsoft 365 中的 OneDrive 是為組織內的個別使用者提供線上存�
 - [傳輸和靜止的加密](/office365/securitycompliance/data-encryption-in-odb-and-spo)
 - [空閒會話登出](/sharepoint/sign-out-inactive-users)
 - [資訊管理原則](https://support.office.com/article/EB501FE9-2EF6-4150-945A-65A6451EE9E9)
-- [資訊版權管理（IRM）](/office365/securitycompliance/set-up-irm-in-sp-admin-center)。 需要獨立或套件一部分的 Azure 資訊保護。 部分 Azure 資訊保護功能需要訂閱 Office 365 ProPlus。
+- [資訊版權管理（IRM）](/office365/securitycompliance/set-up-irm-in-sp-admin-center)。 需要獨立或套件一部分的 Azure 資訊保護。 部分 Azure 資訊保護功能需要訂閱 Microsoft 365 應用程式的 enterprise。
 - [將文件庫還原至上一個時間點](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [病毒掃描](/office365/securitycompliance/virus-detection-in-spo)
 

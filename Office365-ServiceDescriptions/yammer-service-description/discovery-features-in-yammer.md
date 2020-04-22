@@ -11,40 +11,40 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
-description: 是 Yammer 中提供下列探索功能。
-ms.openlocfilehash: 7207f3c6317d7a8479692bcbf06ff2b242eb5ce1
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Yammer 中提供下列探索功能。
+ms.openlocfilehash: 44f959480415dc1d4eba7b3159fb46e38d153da0
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263094"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640071"
 ---
 # <a name="discovery-features-in-yammer"></a>Yammer 中的探索功能
 
-是 Yammer 中提供下列探索功能。
+Yammer 中提供下列探索功能。
   
 ## <a name="feeds"></a>摘要
 
-掌握相關對話、 filesm 和專案整個組織的情形。 摘要可讓您快速參與對話，@mention 同事到討論及預覽文件。
+保持最新的交談、filesm 和整個組織中發生的專案。 摘要可讓您快速參與交談，@mention 同事將其迴圈加入討論，以及預覽檔。
 
-## <a name="instant-type-ahead"></a>即時自動提示
+## <a name="instant-type-ahead"></a>立即類型-預先
 
-建議的搜尋結果會在您輸入時出現，以協助您更快找到所需內容。 結果會由人員、 群組、 檔案、 記事、 主題，與應用程式分類。
+建議的搜尋結果會在您輸入時出現，以協助您更快找到所需內容。 結果會依人員、群組、檔案、記事、主題及應用程式分類。
     
 ## <a name="ticker"></a>滾動文字
 
-瞭解同事正在忙些什麼。 滾動文字可顯示即時，包括頁面編輯、 檔案上傳及其他商務應用程式中所做的更新中發生的活動故事。
+瞭解同事正在忙些什麼。 「股票行情」顯示即時進行的活動故事，包括在其他商務應用程式中進行頁面編輯、檔案上傳和更新。
   
 ## <a name="topics"></a>Topics
 
-標記與主題，以協助其他人快速尋找相關的郵件、 檔案、 記事與多雜湊標記 （#） 一詞以前，或搜尋現有主題的內容。
+使用主題標記內容，以協助他人在單字或搜尋現有主題之前新增井井號（#），以快速找出相關的郵件、檔案、記事等等。
   
-## <a name="universal-search"></a>萬用搜尋
+## <a name="universal-search"></a>通用搜尋
 
-全文檢索搜尋可讓您快速尋找 Yammer 網路及整合的商務應用程式之間的 [檔案、 記事、 對話、 人員，與資料。
+全文搜尋可讓您快速找到 Yammer 網路和整合式商務應用程式中的檔案、記事、交談、人員和資料。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer 服務說明](yammer-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Yammer 服務描述](yammer-service-description.md)。
   
   

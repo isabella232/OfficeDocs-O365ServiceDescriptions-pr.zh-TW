@@ -13,30 +13,30 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft Office 365 是雲端式服務，旨在協助達成您的組織對於健全安全性、 可靠性和使用者生產力需求。
-ms.openlocfilehash: d07435954bb46a8e38b69415f70f3c194473cdaa
-ms.sourcegitcommit: 357f93c151a5302d5d3aa43f633b295c37e036a2
+description: Microsoft Office 365 是一種雲端式服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。
+ms.openlocfilehash: 38064eb467bb46e09ccb1cf1d6eea6b01ce3a295
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41787015"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638721"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 服務描述 
 
-Microsoft Office 365 是雲端式服務，旨在協助達成您的組織對於健全安全性、 可靠性和使用者生產力需求。 
+Microsoft Office 365 是一種雲端式服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。 
   
 本文件庫中的主題提供 Office 365 隨附服務和功能的詳細說明。若要跨方案比較功能，請參閱[比較商務用 Office 365 方案](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，或請參閱下列清單中的相關服務描述。 
   
 若要搜尋技術支援文章和資訊，請參閱 [Office 支援](https://support.office.com/)。
   
 > [!NOTE]
-> 如果您正在尋找服務描述比較試算表，它已遭淘汰。 已更新每個服務描述 」 頁面上的產品功能可用性表格，以進一步協助您選擇符合您需求的 Office 365 的版本。 
+> 如果您正在尋找服務描述比較試算表，它已經停用。 每個服務描述頁面上的產品功能可用性表格已更新，可更好地協助您選擇符合您需求的 Office 365 版本。 
   
-Microsoft 為的合格服務的 Office 365 的 FastTrack Center 權益提供合格方案中。 權益可讓您可以遠端與 Microsoft 專家以取得 Office 365 環境準備就緒。 如需詳細資訊，請參閱 [適用於 Office 365 的 FastTrack 中心權益](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
+Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTrack 中心權益。 此權益可讓您遠端與 Microsoft 專家合作，讓您的 Office 365 環境做好使用。 如需詳細資訊，請參閱 [適用於 Office 365 的 FastTrack 中心權益](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
 若要開始進行，請參閱下列服務說明：
   
-- [Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Office 365 平臺服務說明](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
 
 - [Office 應用程式服務說明](office-applications-service-description/office-applications-service-description.md)
 
@@ -70,9 +70,9 @@ Microsoft 為的合格服務的 Office 365 的 FastTrack Center 權益提供合�
 
 - [Yammer 服務說明](yammer-service-description/yammer-service-description.md)
 
-- [Microsoft 365 商務版服務描述](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Microsoft 365 商務版服務說明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Microsoft 365 安全性 & 合規性授權指引](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
+- [Microsoft 365 的安全性 & 合規性授權指導方針](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
 - [Microsoft Dynamics 365 (Online) 服務說明](microsoft-dynamics-365-online-service-description.md)
 
@@ -81,5 +81,5 @@ Microsoft 為的合格服務的 Office 365 的 FastTrack Center 權益提供合�
   
 ## <a name="disclaimer"></a>免責聲明
 
-© 2018 Microsoft Corporation。 著作權所有，並保留一切權利。 Microsoft、Office 365 及其他產品和服務名稱為或可能為美國及/或其他國家/地區的註冊商標及/或商標。 本處提供之資訊僅供參考用，並且代表 Microsoft Corporation 在本文件最後發行或修訂日期當時的最新觀點。 這些資訊不構成服務合約，亦不代表對 Microsoft 或客戶做出本處所述之任何功能、能力或責任承諾。 MICROSOFT 對本文件中的資訊不作任何擔保、明示、默示或法定之擔保。
+&copy;2018 Microsoft Corporation。 著作權所有，並保留一切權利。 Microsoft、Office 365 及其他產品和服務名稱為或可能為美國及/或其他國家/地區的註冊商標及/或商標。 本處提供之資訊僅供參考用，並且代表 Microsoft Corporation 在本文件最後發行或修訂日期當時的最新觀點。 這些資訊不構成服務合約，亦不代表對 Microsoft 或客戶做出本處所述之任何功能、能力或責任承諾。 MICROSOFT 對本文件中的資訊不作任何擔保、明示、默示或法定之擔保。
  

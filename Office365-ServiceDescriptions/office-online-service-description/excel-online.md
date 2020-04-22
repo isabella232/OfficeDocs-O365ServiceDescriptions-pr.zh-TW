@@ -13,23 +13,23 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: 網頁版 excel （先前稱為 Excel Web App）可將您的 Microsoft Excel 體驗延伸至網頁瀏覽器，您可以在其中儲存活頁簿的網站上直接使用活頁簿。 所有 Office 365 客戶均可使用 Office for web 來查看和輕微編輯 Office 檔案。
-ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: 網頁版 excel （先前稱為 Excel Web App）可將您的 Microsoft Excel 體驗延伸至網頁瀏覽器，您可以在其中儲存活頁簿的網站上直接使用活頁簿。 所有客戶均可使用 Office for web 來查看和輕微編輯 Office 檔案。
+ms.openlocfilehash: 016df373aca64369cbde5e60f0b5d08111177913
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687890"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639881"
 ---
 # <a name="excel-for-the-web"></a>Excel 網頁版
 
-網頁版 excel （先前稱為 Excel Web App）可將您的 Microsoft Excel 體驗延伸至網頁瀏覽器，您可以在其中儲存活頁簿的網站上直接使用活頁簿。 所有 Office 365 客戶均可使用 Office for web 來查看和輕微編輯 Office 檔案。
+網頁版 excel （先前稱為 Excel Web App）可將您的 Microsoft Excel 體驗延伸至網頁瀏覽器，您可以在其中儲存活頁簿的網站上直接使用活頁簿。 所有客戶均可使用 Office for web 來查看和輕微編輯 Office 檔案。
   
 > [!NOTE]
 > 在 Microsoft SharePoint Online 中，無法在 Excel 中透過網頁查看超過50百萬位元組（MB）的活頁簿。 若要檢視較大的檔案，則您的電腦需要安裝 Excel 桌面應用程式。 
 
 > [!NOTE]
-> 為協助您比較各產品項目，本文章中所列的進階功能包括：僅適用於 Office 套件 (例如：Office Professional Plus、Office Standard 或 Office 365 ProPlus) 的 Excel 桌面應用程式功能。 如需 web 功能的所有 Office 功能的清單，例如用於 web 的 Word 和 PowerPoint，請參閱[跨 Office 的功能可用性](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)（網頁方案）。
+> 為了協助您比較服務，本文所列的高級功能包括 Office 套件中只提供的 Excel 桌面應用程式功能（例如 Office Professional Plus、Office Standard 或 Microsoft 365 應用程式企業版）。 如需 web 功能的所有 Office 功能的清單，例如用於 web 的 Word 和 PowerPoint，請參閱[跨 Office 的功能可用性](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)（網頁方案）。
 
 若要查看網頁版 Excel 支援的檔案類型，請參閱[web 上支援的 Office 檔案類型](office-online-service-description.md#supported-file-types-for-office-for-the-web)。 若要深入瞭解 Excel 與 Excel 桌面應用程式之間的差異，請參閱[在瀏覽器和 excel 中使用活頁簿的差異](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6)。
   
@@ -284,7 +284,7 @@ Web 的 Excel 從網際網路瀏覽器啟動，並依賴網際網路連線。 �
 
 需要儲存活頁簿副本嗎？使用 [檔案] 索引標籤上的 [另存新檔] 命令，或者用滑鼠右鍵按一下資料夾中的活頁簿名稱，然後使用 [下載] 命令傳送副本至您的電腦。
   
-## <a name="share"></a>分享
+## <a name="share"></a>共用
 
 只要按一下滑鼠，就可以把連結傳送給其他使用者，以供其檢視或編輯文件。 深入瞭解[如何在 office 365 中搭配使用 Web office 來一起運作](https://go.microsoft.com/fwlink/p/?linkid=272770)。
   
@@ -342,4 +342,4 @@ Microsoft Excel 桌面應用程式是功能相當強大的工具，可用於操�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同 Office 365 方案、獨立選項和內部部署方案中的功能可用性，請參閱[web 服務說明的 Office](office-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[web 服務說明的 Office](office-online-service-description.md)。

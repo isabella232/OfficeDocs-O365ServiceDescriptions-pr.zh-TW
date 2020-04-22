@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Project Online 中提供下列專案規劃功能。
-ms.openlocfilehash: e591d491f76a340da7e3260ece0210de3ac57637
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 74e091f674bead0ad8300a6045df5181cf5bb71f
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687937"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640201"
 ---
 # <a name="project-planning"></a>專案規劃
 
@@ -63,5 +63,5 @@ Project Online 中提供下列專案規劃功能。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同 Office 365 方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
   

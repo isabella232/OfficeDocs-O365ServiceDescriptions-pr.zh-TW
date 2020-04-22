@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced 威脅防護（ATP）是一種雲端式電子郵件篩選服務，可協助您的組織抵禦未知的惡意程式碼和病毒，方法是提供強健的零日保護，並提供一些功能，以即時保護您的組織不受有害連結。
-ms.openlocfilehash: edcf7b7207be27e406f9c6876c1d7d50d3d12dd5
-ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
+ms.openlocfilehash: 9316cf30bb195b540c2653d66154c672af49000c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529216"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640141"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 進階威脅防護服務說明
 
@@ -33,9 +33,9 @@ Microsoft Office 365 Advanced 威脅防護（ATP）是一種雲端式電子郵�
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Office 365 進階威脅防護 (ATP) 可用性
 
-ATP 包含在 Office 365 企業版 E5、Office 365 教育版 A5 和 Microsoft 365 商務中。
+ATP 包含在 Office 365 企業版 E5、Office 365 教育版 A5 和 Microsoft 365 商務版。
 
-您可以將 ATP 新增至下列 Exchange 與 Office 365 訂閱計劃：
+您可以將 ATP 新增至下列 Exchange 和 Microsoft 365 訂閱計畫：
 
 - Exchange Online Plan 1
 
@@ -45,11 +45,11 @@ ATP 包含在 Office 365 企業版 E5、Office 365 教育版 A5 和 Microsoft 36
 
 - Exchange Online Protection
 
-- Office 365 商務基本版
+- Microsoft 365 商務基本版
 
-- Office 365 商務進階版
+- Microsoft 365 商務標準版
 
-- Office 365 Enterprise E1
+- Office 365 企業版 E1
 
 - Office 365 Enterprise E3
 
@@ -61,7 +61,7 @@ ATP 包含在 Office 365 企業版 E5、Office 365 教育版 A5 和 Microsoft 36
 
 若要購買 Office 365 進階威脅防護，請參閱 [Office 365 進階威脅防護](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)。
 
-若要跨方案比較功能，請參閱[比較 Office 365 For Business 方案](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，並[探索適合您的 Microsoft 365 企業版解決方案](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)。
+若要跨方案比較功能，請參閱[比較 Microsoft 365 Apps for business 方案](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，並[探索適合您的 Microsoft 365 企業版解決方案](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)。
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Office 365 進階威脅防護 (ATP) 的新增功能
 
@@ -87,7 +87,7 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 |[安全連結](#safe-links)|是|是|是|
 |Teams 中的安全連結|是|是|是|
 |[SharePoint、OneDrive 和 Microsoft 小組的 ATP](#atp-for-sharepoint-onedrive-and-microsoft-teams)|是|是|是|
-|[反網路釣魚原則](#anti-phishing-policies)|是|是|是|
+|[防網路釣魚原則](#anti-phishing-policies)|是|是|是|
 |[即時報告](#real-time-reports)|是|是|是|
 |*自動化、調查、修正及教育*|
 |[威脅追蹤工具](#threat-trackers)|否|是|是|
@@ -113,7 +113,7 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 安全連結可用於下列應用程式中的 URLs：
 
-- Windows 或 Mac 上的 Office 365 ProPlus
+- Microsoft 365 Windows 或 Mac 版企業版應用程式
 
 - Office for web （適用于網頁的 Word、網頁版、網頁 PowerPoint 和 OneNote 網頁）
 
@@ -132,13 +132,13 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 [SharePoint、OneDrive 和 Microsoft 團隊的 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)可協助偵測和封鎖在小組網站和文件庫中識別為惡意的檔案。 此外，在 Microsoft 小組通道和聊天中，現在還提供 ATP 安全連結保護。
 
-### <a name="anti-phishing-policies"></a>反網路釣魚原則
+### <a name="anti-phishing-policies"></a>防網路釣魚原則
 
 [ATP 反網路釣魚](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)檢查內送郵件的指示，郵件可能是網路釣魚企圖。 當使用者在 ATP 原則（安全的附件、安全連結或反網路釣魚）涵蓋時，會透過分析郵件的多部機器教學模型評估內送郵件，並根據設定的原則採取適當的動作。
 
 ### <a name="real-time-reports"></a>即時報告
 
-Office 365 安全性 & 規範中心提供的監控功能包含[即時報告和深入](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp)資訊，讓您的安全性和合規性系統管理員關注高優先順序的問題，例如安全性攻擊或增加的可疑活動。 除了醒目提示問題之外，智慧報告和洞察力也包含建議和連結，以查看及流覽資料，也會快速採取動作。
+安全性 & 合規性中心內可用的監控功能包括[即時報告和深入](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp)資訊，讓您的安全性和合規性系統管理員關注高優先順序的問題，例如安全性攻擊或增加的可疑活動。 除了醒目提示問題之外，智慧報告和洞察力也包含建議和連結，以查看及流覽資料，也會快速採取動作。
 
 ### <a name="explorer"></a>探險 家
 

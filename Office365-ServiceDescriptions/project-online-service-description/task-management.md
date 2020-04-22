@@ -11,17 +11,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: 下列工作管理功能是 Project Online 中提供。
-ms.openlocfilehash: 9766161bf6ad67e66e6b13f77ceaa628142a017d
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+description: Project Online 中提供下列任務管理功能。
+ms.openlocfilehash: 2c12f50e40703a25b0c6909fc21b73ea92d73a84
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546096"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640271"
 ---
 # <a name="task-management"></a>工作管理
 
-下列工作管理功能是 Project Online 中提供。
+Project Online 中提供下列任務管理功能。
   
 尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務說明](project-online-service-description.md)。
   
@@ -67,5 +67,5 @@ ms.locfileid: "42546096"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
   

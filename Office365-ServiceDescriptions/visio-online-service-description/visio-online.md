@@ -12,17 +12,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
-description: 適用于網頁的 visio 會將您的 Microsoft Visio 體驗延伸至瀏覽器，您可以在此建立及編輯儲存在雲端中的圖表。 Microsoft Office 365 客戶可以在旅途中查看、列印和共用圖表和插入批註。
-ms.openlocfilehash: de28a68fcd3b81656e86316d345e7e4fa6bd4d20
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: 適用于網頁的 visio 會將您的 Microsoft Visio 體驗延伸至瀏覽器，您可以在此建立及編輯儲存在雲端中的圖表。 Microsoft 365 客戶可以在旅途中查看、列印和共用圖表和插入批註。
+ms.openlocfilehash: 26852615913a07c667e10c052563b7e8680b9350
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687887"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640091"
 ---
 # <a name="visio-for-the-web"></a>Visio 網頁版
 
-適用于網頁的 visio 會將您的 Microsoft Visio 體驗延伸至瀏覽器，您可以在此建立及編輯儲存在雲端中的圖表。 Microsoft Office 365 客戶可以在旅途中查看、列印和共用圖表和插入批註。 如果您有 Visio 訂閱，您可以使用其他功能，例如下列各節所述的功能。
+適用于網頁的 visio 會將您的 Microsoft Visio 體驗延伸至瀏覽器，您可以在此建立及編輯儲存在雲端中的圖表。 Microsoft 365 客戶可以在旅途中查看、列印和共用圖表和插入批註。 如果您有 Visio 訂閱，您可以使用其他功能，例如下列各節所述的功能。
   
 ## <a name="apply-rich-formatting-to-text-and-shapes"></a>將豐富格式設定套用至文字和圖形
 
@@ -64,7 +64,7 @@ Web 的 Visio 包含豐富的編輯功能，您可以用來變更圖表。 您�
 
 在 Visio for web 中，您可以選取圖形以直接存取超連結。
   
-## <a name="navigation"></a>Navigation
+## <a name="navigation"></a>導覽
 
 在 Visio for web 中，您可以選取左下方的索引標籤移至其他頁面。
   

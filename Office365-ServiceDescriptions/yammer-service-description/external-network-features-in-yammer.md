@@ -11,26 +11,26 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c60a8507-72d2-43aa-a15b-aed053d5851f
-description: 是 Yammer 中提供下列外部網路功能。
-ms.openlocfilehash: a9def9e10eee6d6ceb5356ed748f6f700b9ec20a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Yammer 中提供下列外部網路功能。
+ms.openlocfilehash: 4c929b6194c7ec4dbad94db644c656ebdd5c5ba0
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263185"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640061"
 ---
 # <a name="external-network-features-in-yammer"></a>Yammer 中的外部網路功能
 
-是 Yammer 中提供下列外部網路功能。
+Yammer 中提供下列外部網路功能。
   
 ## <a name="external-networks"></a>外部網路
 
-建立專用的線上工作區，以便與貴組織的 Yammer 網路以外的業務連絡人合作。
+建立專用的線上工作區，以與組織的 Yammer 網路外的商務連絡人進行共同作業。
   
-## <a name="fast-network-switching"></a>快速網路切換
+## <a name="fast-network-switching"></a>Fast 網路切換
 
-在內部和外部網路之間順利切換。 輕易監控外部網路內的交談，並立即分享觀點與您的組織內部網路。
+在內部和外部網路之間順利切換。 輕鬆監控外部網路內的對話，並立即與您組織的內部網路分享洞察力。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer 服務說明](yammer-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Yammer 服務描述](yammer-service-description.md)。

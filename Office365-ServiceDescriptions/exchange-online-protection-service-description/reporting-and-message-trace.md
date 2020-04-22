@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) 提供許多不同的報告，可協助您判斷貴組織的整體狀態與健全狀況。 有些報告可在 Microsoft 365 系統管理中心中取得，而其他則是在 Exchange 系統管理中心（EAC）中提供。
-ms.openlocfilehash: d4e0f1104bfc87f5641cc241d2a526e8d56f0d1a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 58e1c33b331c9bb05bd45893357bba9b5cca9945
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687922"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638936"
 ---
 # <a name="reporting-and-message-trace"></a>報告和郵件追蹤
 
@@ -29,12 +29,12 @@ Microsoft Exchange Online Protection (EOP) 提供許多不同的報告，可協�
 
 Microsoft 365 系統管理中心的 [報告] 頁面提供郵件流量、垃圾郵件和惡意程式碼偵測的相關資訊，以及受郵件流程規則（也稱為傳輸規則）或資料遺失防護（DLP）原則影響的郵件。 保護、規則和 DLP 的增強型報告可讓 EOP 系統管理員享有互動報告體驗。 這些報告提供摘要資料，而且可供人向下切入至個別郵件的詳細資料。
 
-如需這些報告的詳細資訊，請參閱[Use mail protection reports In Office 365，以查看有關惡意程式碼、垃圾郵件和規則](https://docs.microsoft.com/exchange/monitoring/use-mail-protection-reports)偵測的資料。
+如需這些報告的詳細資訊，請參閱[Use mail protection reports 可查看有關惡意程式碼、垃圾郵件和規則](https://docs.microsoft.com/exchange/monitoring/use-mail-protection-reports)偵測的資料。
 
 ## <a name="reporting-using-web-services"></a>Reporting using web services
 
 > [!NOTE]
-> 許多 REST 型報表功能和相關 Cmdlet 在2018年1月已被取代。 如需 Office 365 中可用的取代 Microsoft Graph 報告的詳細資訊，請參閱使用[Microsoft graph 中的 Office 365 使用方式報告](https://go.microsoft.com/fwlink/p/?LinkID=865135)一主題。
+> 許多 REST 型報表功能和相關 Cmdlet 在2018年1月已被取代。 如需 Office 365 中可用的取代 Microsoft Graph 報告的詳細資訊，請參閱使用[Microsoft graph 的使用狀況報告](https://go.microsoft.com/fwlink/p/?LinkID=865135)一主題。
 
 獨立式 EOP 客戶無法使用此功能。 您可以使用 REST/OData 租使用者報告 web 服務，以程式設計方式收集有關郵件資料的摘要和詳細報告，而且您可以在自訂 web 管理入口網站的網頁上顯示資料。
 
@@ -44,4 +44,4 @@ EAC 中的郵件追蹤功能可讓您以系統管理員身分遵循 EOP 中的�
 
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同 Office 365 方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。

@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 6c00f763fe3474a1055c2f490424ca442ee57dc4
-ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
+ms.openlocfilehash: 0c83429e2efb5cc58ca6bfbd670dbc8566beba68
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529206"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639801"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -78,7 +78,7 @@ ATP 可保護使用者免受複雜的攻擊，例如網路釣魚和零時差惡�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？ 
 
-Office 365 Advanced 威脅防護，Office 365 E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 Security，Microsoft protection Business 和 Office 365 ATP 方案1和2為使用者提供從 Office 365 高級威脅防護中受益的權利。
+Office 365 Advanced 威脅防護、Office 365 E5/G5、Microsoft 365 E5/A5/G5、microsoft 365 E5/A5/G5 安全性、Microsoft 365 商務版 Premium 和 Office 365 ATP 方案1和2為使用者提供的許可權，可從高級威脅防護中受益。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -102,7 +102,7 @@ OCAS 可讓組織了解其雲端應用程式和服務，提供複雜的分析功
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
-OCAS 會探索影子 IT，提供 Office 365 的威脅防護，並可控制有權限可存取 Office 365 資料的應用程式。
+OCAS 探索陰影它、提供各 Office 365 的威脅防護，以及可以控制哪些應用程式具有存取資料的許可權。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
@@ -288,7 +288,7 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 E5/A5 資訊
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-若要將加密金鑰指派給 Office 365 和/或 Microsoft 365 租使用者中的資料，以供授權的使用者使用，請遵循客戶金鑰加密金鑰的部署指示。
+若要將加密金鑰指派給 Office 365 和/或 Microsoft 365 組織中的資料以供授權的使用者使用，請遵循客戶金鑰加密金鑰的部署指示。
 
 - 如需 SharePoint 線上、商務 OneDrive 或小組檔案，可使用客戶金鑰加密一或多個網站上的檔案。
 
@@ -312,9 +312,9 @@ Office 365 E5/A5/G5、Microsoft 365 E5/a5/g5、Microsoft 365 E5/A5/g5 相容性�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-Microsoft 可為您的 Office 365 組織中的使用者提供客戶加密箱存取控制核准要求。
+Microsoft 為組織中的使用者提供客戶密碼箱存取控制核准要求。
 
-## <a name="privileged-access-management-in-office-365"></a>Office 365 中的特殊權限存取管理
+## <a name="privileged-access-management-in-office-365"></a>Office 365 的 Privileged Access Management
 
 「[特權存取管理」（PAM）](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration)可讓您在 Office 365 中對特權管理工作進行精細存取控制。 啟用 PAM 之後，使用者將必須透過高度限定範圍和受限於時間的核准工作流程要求即時存取，以便完成提升權限和需要特殊權限的工作。
 
@@ -352,7 +352,7 @@ Microsoft 365 A1/E3/A3/Business、Office 365 E3/A3 和 Office 365 資料遺失�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-系統管理員可以在 Office 365 安全性與合規性中心的 [資料外洩防護]****  >  [位置]**** 下自訂位置 (工作負載)、包含的使用者以及排除的使用者。
+系統管理員可以在安全 & 規範中心的 [**資料遺失防護** > ]**位置**下自訂位置（工作負載）、包含的使用者，以及排除的使用者。
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>小組的通訊資料遺失防護
 
@@ -372,7 +372,7 @@ Office 365 E5/A5 的授權使用者，Microsoft 365 E5/A5，Microsoft 365 E5/A5 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-系統管理員可以在 Office 365 安全性與合規性中心的 [資料外洩防護]****  >  [位置]**** 下自訂位置 (工作負載)、包含的使用者以及排除的使用者。
+系統管理員可以在安全 & 規範中心的 [**資料遺失防護** > ]**位置**下自訂位置（工作負載）、包含的使用者，以及排除的使用者。
 
 ## <a name="information-barriers"></a>資訊屏障
 
@@ -399,13 +399,13 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 E5/A5 資訊
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-系統管理員可以在 Office 365 安全性與合規性中心中自訂位置 (工作負載)、包含的使用者以及排除的使用者。 例如，如果所有使用者都已取得 Office 365 E3 的授權，且皆未取得 Office 365 進階合規性/E5 的授權，則不需要為組織建立任何資訊屏障原則。 如需詳細資訊，請參閱 [Microsoft Teams 中的資訊屏障](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)。
+系統管理員可以自訂位置（工作負載）、包含的使用者，以及在安全性 & 規範中心內排除的使用者。 例如，如果所有使用者都已取得 Office 365 E3 的授權，且皆未取得 Office 365 進階合規性/E5 的授權，則不需要為組織建立任何資訊屏障原則。 如需詳細資訊，請參閱 [Microsoft Teams 中的資訊屏障](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)。
 
 ## <a name="office-365-message-encryption"></a>Office 365 郵件加密
 
 Office 365 郵件加密 (OME) 是內建於 Azure 版權管理 (Azure RMS) 的服務，可讓您將加密的電子郵件傳送給組織內部或外部的人，無論目的地電子郵件地址為何 (Gmail、Yahoo! Mail、Outlook.com 等)。
 
-若要檢視加密的郵件，收件者可以取得一次性密碼、使用 Microsoft 帳戶登入、或使用與 Office 365 相關聯的公司或學校帳戶登入。 收件者也可以傳送加密的回覆。 他們不需要 Office 365 訂閱，即可檢視加密的郵件或傳送加密的回覆。
+若要檢視加密的郵件，收件者可以取得一次性密碼、使用 Microsoft 帳戶登入、或使用與 Office 365 相關聯的公司或學校帳戶登入。 收件者也可以傳送加密的回覆。 不需要訂閱即可查看加密的郵件或傳送加密的回復。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
@@ -504,7 +504,7 @@ Enterprise 可移動性 + Security E3/A3、Microsoft 365 F3/E3/A3 和 Azure Acti
 
 針對身分識別保護和條件式存取，使用者必須包含在群組中或新增至條件式存取原則。 [使用者和群組] 條件是條件式存取原則中的強制性。 在您的原則中，您可以選取 [**所有使用者**] 或 [特定使用者和群組]。 您應該只選取適當授權的使用者和群組。 如需詳細資訊，請參閱[Azure Active Directory 條件式存取中的條件為何？](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions)。
 
-## <a name="advanced-audit"></a>高級審計
+## <a name="advanced-audit"></a>進階稽核
 
 Microsoft 365 中的「高級核查」為使用者和系統管理員活動提供一年的審計記錄檔保留，並提供建立自訂審核記錄保留原則的能力，以管理其他 Microsoft 365 服務的審計記錄保留。 此外，它也可讓您存取重要事件，以進行調查和對 Office 365 管理活動 API 的高頻寬存取。 如需詳細資訊，請參閱[Microsoft 365 中的「高級核查](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)」。
 

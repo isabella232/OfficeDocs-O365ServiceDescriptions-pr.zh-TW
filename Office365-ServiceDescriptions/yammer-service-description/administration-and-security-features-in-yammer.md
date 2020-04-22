@@ -1,5 +1,5 @@
 ---
-title: Yammer 中的系統管理和安全性功能
+title: Yammer 中的系統管理與安全性功能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
-description: 下列系統管理和安全性功能是 Yammer 中提供。
-ms.openlocfilehash: e1d9b86c96665398931261d258bd14a7e7687b95
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Yammer 中提供下列系統管理和安全性功能。
+ms.openlocfilehash: e177cbdfa4c34aba68970e26cec2c72d7780afef
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263195"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640081"
 ---
-# <a name="administration-and-security-features-in-yammer"></a>Yammer 中的系統管理和安全性功能
+# <a name="administration-and-security-features-in-yammer"></a>Yammer 中的系統管理與安全性功能
 
-下列系統管理和安全性功能是 Yammer 中提供。
+Yammer 中提供下列系統管理和安全性功能。
   
-如需詳細的說明及程序，請參閱[Yammer 系統管理說明](https://go.microsoft.com/fwlink/?LinkId=869688)。
+如需詳細的說明和程式，請參閱[Yammer 系統管理](https://go.microsoft.com/fwlink/?LinkId=869688)說明。
 
 ## <a name="admin-private-content-mode"></a>管理私人內容模式
 
@@ -35,19 +35,19 @@ ms.locfileid: "39263195"
 
 ## <a name="custom-network-branding"></a>自訂網路品牌
 
-將 Yammer 網路貴組織的外觀與風格。 網路管理員可以上傳公司標誌和影像，以建立自訂報頭設計。
+將組織的外觀與風格帶入 Yammer 網路。 網路系統管理員可以上傳組織的標誌及影像，以建立自訂的刊頭設計。
 
 ## <a name="data-export"></a>資料匯出
 
-輕鬆地管理和匯出網路資料，根據貴組織的原則。 您也可以排程進行每日或每週資料匯出，以符合法律和法規相符性需求。
+根據組織的原則，輕鬆管理及匯出網路資料。 您也可以排程進行每日或每週資料匯出，以符合法律和法規相符性需求。
   
 ## <a name="directory-synchronization"></a>目錄同步處理
 
-將多個系統中的使用者設定檔資料標準化。 使用者新增、 刪除及設定檔資訊可以自動同步處理從現有的組織目錄。
+將多個系統中的使用者設定檔資料標準化。 使用者新增、刪除及設定檔資訊可從現有的組織目錄自動同步處理。
 
 ## <a name="keyword-monitoring"></a>關鍵字監控
 
-監控關鍵字以追蹤敏感內容。 當使用者張貼含有受監控的關鍵字或片語的郵件時，會通知所有已驗證的管理員。
+監控關鍵字以追蹤敏感內容。 當使用者張貼包含監控關鍵字或片語的郵件時，系統會通知所有已驗證的系統管理員。
 
 ## <a name="logical-firewall"></a>邏輯防火牆
 
@@ -55,14 +55,14 @@ ms.locfileid: "39263195"
 
 ## <a name="network-migration"></a>網路移轉
 
-合併多個 Yammer 網路成一個。如需詳細資訊，請參閱[網路移轉：合併多個 Yammer 網路](https://go.microsoft.com/fwlink/?LinkID=617488)。
+合併多個 Yammer 網路成一個。 如需詳細資訊，請參閱[網路移轉：合併多個 Yammer 網路](https://go.microsoft.com/fwlink/?LinkID=617488)。
   
 > [!NOTE]
-> 不支援跨 Office 365 租用戶移轉 Yammer 網路。 
+> 不支援跨方案遷移 Yammer 網路。 
 
-## <a name="organization-resources"></a>組織的資源
+## <a name="organization-resources"></a>組織資源
 
-新增重要檔案和連結，好讓員工快速存取組織資源，像是人力資源政策、 優點的詳細資訊或假日行事曆。
+新增重要的檔案和連結，讓員工能夠快速存取組織資源，如人力資源原則、效益資訊或假期行事曆。
   
 ## <a name="password-policies"></a>密碼原則
 
@@ -72,20 +72,20 @@ ms.locfileid: "39263195"
 
 查看使用者登入的裝置，並視需要將其登出。
 
-## <a name="single-identity"></a>單一識別
+## <a name="single-identity"></a>單一身分識別
 
-當您選擇 Yammer 作為中您組織的 Office 365 預設社交體驗時，會將員工對應至其現有的 Yammer 帳戶。 這表示他們在 Office 365 中瀏覽至 Yammer 時無需重新登入。 員工存取 Yammer 時&mdash;是否從 Office 365 透過 Yammer 行動應用程式，或藉由瀏覽到 Yammer.com&mdash;他們會自動登入根據現有組織認證。
+當您選擇 Yammer 做為組織的預設社交經驗時，員工會對應至其現有的 Yammer 帳戶。 這表示他們在 Office 365 中瀏覽至 Yammer 時無需重新登入。 當員工從 Office&mdash;365 存取 yammer （透過 yammer 行動應用程式），或流覽至 Yammer.com&mdash;時，會根據現有的組織認證自動登入。
 
 ## <a name="usage-policy"></a>使用原則
 
-設定您的組織網路的自訂使用原則，並要求使用者接受它。
+設定組織網路的自訂使用原則，並要求使用者接受該原則。
 
 ## <a name="user-management"></a>使用者管理
 
-輕鬆管理貴組織的網路存取權。 Yammer 可讓您與您已使用、 新增或移除使用者的個別或大量，邀請來賓您的網路、 目錄同步處理，並指派其他管理員。
+輕鬆管理組織網路的存取權。 Yammer 可讓您同步處理已使用的目錄、個別或大量新增或移除使用者、邀請客人加入您的網路，以及指派其他管理員。
 
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Yammer 服務說明](yammer-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Yammer 服務描述](yammer-service-description.md)。
   
 

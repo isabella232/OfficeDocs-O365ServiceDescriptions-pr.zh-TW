@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection （EOP）提供郵件原則和符合性功能，可協助您管理電子郵件資料。
-ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 9ebfdae60eac6e646b3c1b64b13f3cbcb6612b0c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687883"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640161"
 ---
 # <a name="messaging-policy-and-compliance"></a>郵件原則及合規性
 
@@ -77,4 +77,4 @@ Office 365 郵件加密是 Azure 資訊保護的一部分，是一項線上服�
 > <sup>1</sup> EOP 與 Exchange Online 可用的郵件流程規則條件、例外狀況和動作稍有不同。 在 Exchange Online 中的[郵件流程規則條件和例外狀況（](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)述詞）和[exchange Online 中的郵件流程規則動作](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)都有這些差異。 <br/>
 > <sup>2</sup> EOP 稽核報告是 Exchange Online 稽核報告的子集，但不包括信箱的相關資訊。 <br/>
 > <sup>3</sup> DLP 原則祕訣不適用於 Exchange Enterprise CAL with Services 客戶。 <br/>
-> <sup>4</sup>對於購買 Azure 資訊保護附加元件和使用 Exchange online Protection 透過 exchange online 路由電子郵件的內部部署客戶提供支援。 針對桌面體驗，除了 Azure 資訊保護附加元件之外，還需要購買 Office 365 ProPlus。 <br/>
+> <sup>4</sup>對於購買 Azure 資訊保護附加元件和使用 Exchange online Protection 透過 exchange online 路由電子郵件的內部部署客戶提供支援。 針對桌面體驗，除了 Azure 資訊保護附加元件之外，還需要購買適用于企業的 Microsoft 365 應用程式。 <br/>

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 商務用 Skype Online 中的限制可分為下列類別。
-ms.openlocfilehash: 46ad0ef0095880ef91733e26b4666a6ba99940b3
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 940405e3fa13adb52a98fb749e8dea51812ff32b
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609954"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639701"
 ---
 # <a name="skype-for-business-online-limits"></a>商務用 Skype Online 限制
 
@@ -34,7 +34,7 @@ ms.locfileid: "42609954"
 - [分鐘限制](skype-for-business-online-limits.md#minute-limits)
     
 > [!NOTE]
-> 適用於 Office 365 組織的限制可能會因為組織在服務中註冊的時間長短而有所不同。如果在 Microsoft 資料中心內變更了某項限制，可能需要一些時間才能將變更套用至所有現有的客戶。 
+> 套用至 Microsoft 365 組織的限制可能會因為組織在服務中註冊的時間長短而有所不同。 如果在 Microsoft 資料中心內變更了某項限制，可能需要一些時間才能將變更套用至所有現有的客戶。 
   
 ## <a name="peer-to-peer-limits"></a>對等限制
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
@@ -43,11 +43,11 @@ ms.locfileid: "42609954"
     
 - **開啟的分頁交談限制** 商務用 Skype 使用者可同時開啟的交談索引標籤數目上限。 
     
-### <a name="peer-to-peer-limits-across-office-365-options"></a>不同 Office 365 選項的對等限制
+### <a name="peer-to-peer-limits"></a>對等限制 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**商務用 Skype Server 2015** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 Enterprise F3** <br/> |
+|**功能** <br/> |**商務用 Skype Server 2015** <br/> |**Microsoft 365 商務基本版** <br/> |**Microsoft 365 商務標準版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 F3** <br/> |
 |檔案傳輸限制  <br/> |無限制  <br/> |無限制  <br/> |無限制  <br/> |無限制  <br/> |無限制  <br/> |不適用  <br/> |
 |交談限制<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |開啟的分頁交談限制  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |不適用  <br/> |
@@ -81,11 +81,11 @@ ms.locfileid: "42609954"
     
 - **透過電話加入的來賓** 可透過電話加入會議的來賓數目上限。 
     
-### <a name="meeting-limits-across-office-365-options"></a>不同 Office 365 選項的會議限制
+### <a name="meeting-limits"></a>會議限制
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**商務用 Skype Server 2015** <br/> |**Office 365 商務基本版** <br/> |**Office 365 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 Enterprise F3** <br/> |
+|**功能** <br/> |**商務用 Skype Server 2015** <br/> |**Microsoft 365 商務基本版** <br/> |**Microsoft 365 商務標準版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 F3** <br/> |
 |檔案上傳限制  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |不適用  <br/> |
 |商務用 Skype會議<sup>1</sup> 中的參與者 <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |不適用  <br/> |
 |商務用 Skype 會議中的簡報者  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |不適用  <br/> |
@@ -116,7 +116,7 @@ ms.locfileid: "42609954"
     
 - **會議到期期間**：會議結束之後，使用者可以存取會議的時間量。 
     
-### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>跨 Office 365 選項和獨立方案的會議保留限制
+### <a name="meeting-retention-limits-across-plans"></a>跨計畫的會議保留限制
 
 > [!NOTE]
 > 每個人員在資料庫中隨時最多可有 1000 個會議。 
@@ -131,5 +131,5 @@ ms.locfileid: "42609954"
 
 ## <a name="minute-limits"></a>分鐘限制
 
-如需有關 Office 365 國內通話方案或 Office 365 國際通話方案中的分鐘限制的詳細資訊，請前往[語音會議和通話方案的國家/地區可用性](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)。
+如需國內通話方案或國際通話方案中的分鐘限制的相關資訊，請前往[語音會議和通話方案的國家/地區可用性](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)。
   

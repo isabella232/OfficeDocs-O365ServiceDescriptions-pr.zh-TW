@@ -1,5 +1,5 @@
 ---
-title: 互通性、 連線性和相容性
+title: 互通性、連線性和相容性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 2da88139da1d779c5fb72d3b8fe72a077c1f9e16
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 6dcb4f38b62585eb6c87f175332cfaeef80230a9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262656"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639991"
 ---
-# <a name="interoperability-connectivity-and-compatibility"></a>互通性、 連線性和相容性
+# <a name="interoperability-connectivity-and-compatibility"></a>互通性、連線性和相容性
 
 ## <a name="interoperability-with-other-microsoft-products"></a>與其他 Microsoft 產品互通性
 
@@ -28,7 +28,7 @@ ms.locfileid: "39262656"
   
 內部部署的 Lync Server 2010 和 Lync Server 2013 可以使用另外兩種方式與 Exchange Online 交互操作：
   
-- 網頁型 Outlook 中的 IM 和目前狀態互通性
+- Outlook 網頁版中的 IM 和目前狀態互通性
     
 - 語音信箱互通性
     
@@ -36,7 +36,7 @@ ms.locfileid: "39262656"
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-針對已部署 Microsoft SharePoint Server 或 SharePoint Online 以作為 Office 365 訂閱計劃一部分的客戶，SharePoint 可以連線至 Exchange Online 以獲得整合服務。
+若客戶已部署 Microsoft SharePoint Server 或 SharePoint 線上做為訂閱計畫的一部分，SharePoint 可連線至 Exchange Online 的整合式服務。
   
 如需有關如何將 SharePoint 與 Exchange Online 連線的更多資訊，請參閱[在自訂網域中使用 SharePoint Online 與其他服務](https://go.microsoft.com/fwlink/?LinkId=271805)。
   
@@ -50,7 +50,7 @@ ms.locfileid: "39262656"
     
 ### <a name="exchange-web-services"></a>Exchange Web 服務
 
-Exchange Web Services (EWS) 是適合用於 Exchange Server 和 Exchange Online 開發的 API。 系統管理員可以使用 EWS 或 EWS 管理的 API，從內部部署、Azure 或其他託管服務中執行的應用程式，存取以 Exchange Online 儲存的資料。 EWS 可讓管理員執行特定的動作，例如查詢信箱的內容、 張貼在行事曆事件、 建立工作，或觸發電子郵件訊息的內容為基礎的特定動作。 Exchange Online 可藉由將應用程式權限授予客戶帳號以啟用 EWS 功能。 這些權限允許客戶的應用程式存取應用程式信箱並新增內容。 Exchange 模擬 是一種用來授予應用程式權限的方式。 關於如何以 Exchange Online 使用 Exchange Web Services 的細節，請參閱 Exchange Online 開發人員中心的技術文章。
+Exchange Web Services (EWS) 是適合用於 Exchange Server 和 Exchange Online 開發的 API。 系統管理員可以使用 EWS 或 EWS 管理的 API，從內部部署、Azure 或其他託管服務中執行的應用程式，存取以 Exchange Online 儲存的資料。 EWS 可讓系統管理員執行特殊的動作，例如查詢信箱內容、發佈行事曆事件、建立任務，或根據電子郵件的內容觸發特定動作。 Exchange Online 可藉由將應用程式權限授予客戶帳號以啟用 EWS 功能。 這些權限允許客戶的應用程式存取應用程式信箱並新增內容。 Exchange 模擬 是一種用來授予應用程式權限的方式。 關於如何以 Exchange Online 使用 Exchange Web Services 的細節，請參閱 Exchange Online 開發人員中心的技術文章。
   
 ### <a name="smtp-relay"></a>SMTP 轉送
 
@@ -58,6 +58,6 @@ Exchange Online 可以當作 SMTP 傳遞服務使用，用以轉送從傳真閘�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
   
 

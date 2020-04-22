@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: 30d1c68976bf450a87ace792af0b219b0fce21d4
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: bcc71e05761f3990e79cb7eaaed003b1118d54ad
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262736"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639961"
 ---
 # <a name="planning-and-deployment"></a>規劃及部署
 
@@ -86,7 +86,7 @@ Exchange Online 提供網路架構工具，以便從內部部署 Exchange Server
     
 4. 初始移轉完成後，系統每 24 小時會進行一次同步作業，將所有變更同步至雲端，直到管理員停止或刪除批次移轉。
     
-要切換使用者到雲端信箱，管理員會設定他們的 MX 紀錄指向 Office 365，並且在 Outlook 設定使用者檔案。使用者切換到雲端信箱時，他們的本機離線資料夾（.ost 檔案）會將重新同步化，結果會將遷移郵件下載到用戶端工作站。遷移之後，使用者可以回覆郵箱中的舊訊息。
+若要將使用者切換至其雲端信箱，系統管理員會設定其 MX 記錄，使其指向 Microsoft，並在 Outlook 中重新設定使用者的設定檔。 使用者切換到雲端信箱時，他們的本機離線資料夾（.ost 檔案）會將重新同步化，結果會將遷移郵件下載到用戶端工作站。 遷移之後，使用者可以回覆郵箱中的舊訊息。
   
 如需轉換 Exchange 遷移的詳細資訊，請參閱[將電子郵件完全移轉到 Office 365 所需注意的事項](https://support.office.com/en-us/article/What-you-need-to-know-about-a-cutover-email-migration-to-Office-365-961978ef-f434-472d-a811-1801733869da)。
   
@@ -136,6 +136,6 @@ Microsoft 提供數種工具以協助將現存電子郵件環境遷移至 Exchan
     
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視 Office 365 計劃、 獨立選項和內部部署的功能可用性解決方案請參閱， [Exchange Online 服務說明](exchange-online-service-description.md)。
+若要查看各個方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
   
 

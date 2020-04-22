@@ -1,5 +1,5 @@
 ---
-title: Office 365 工程直接服務說明
+title: Office 365 工程直屬服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -8,21 +8,21 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-description: Office 365 直接工程是針對 Microsoft Premier Support 合約的企業級支援服務新增。 Office 365 工程直接服務說明包含與提供的功能和實作需求相關的其他資訊。
-ms.openlocfilehash: d03e642126e3c617c5d44701391a892d259a79a4
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Office 365 工程直屬是一種企業級支援服務，可加入 Microsoft Premier 支援協定。 Office 365 工程直接服務說明包含有關所提供之功能及實施需求的其他資訊。
+ms.openlocfilehash: 6b2577a2164415ddd3865e22ef6785d9c6887066
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260698"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638741"
 ---
-# <a name="office-365-engineering-direct-service-description"></a>Office 365 工程直接服務說明
+# <a name="office-365-engineering-direct-service-description"></a>Office 365 工程直屬服務說明
 
-Office 365 直接工程是針對 Microsoft Premier Support 合約的企業級支援服務新增。 [Office 365 工程直接服務說明](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(25mar2019).pdf)包含與提供的功能和實作需求相關的其他資訊。
+Office 365 工程直屬是一種企業級支援服務，可加入 Microsoft Premier 支援協定。 [Office 365 工程直接服務說明](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(25mar2019).pdf)包含有關所提供之功能及實施需求的其他資訊。
 
-若要取得 Office 365 工程直接提供新的客戶，為您的組織必須提供 Microsoft Premier Support 訂閱，請符合 Office 365 服務的大型企業分類層級，並執行支援合約增訂版。 新增的服務套裝軟體補充成本會套用。 連絡 Microsoft 客戶團隊代表若要確認您支援合約狀態，並啟動任何契約性的變更，以保護支援供應項目。 
+若要以新客戶的身分取得 Office 365 工程直接服務，您的組織必須訂閱 Microsoft Premier Support 服務、符合 Office 365 服務的大型企業分類層級，以及執行支援合約的附錄。 將會套用已新增服務套件的補充成本。 請與您的 Microsoft 帳戶小組代表聯繫，以確認您的支援合同狀態，並啟動所有合約變更，以保護支援服務。 
 
-如果您是大型企業客戶 (a) 已移轉從舊版的 Office 365 專用方案至最新多承租人服務 fabric 或 (b) 已為多承租人增強客戶的上架，Office 365 工程直接將會提供給您作為過渡時期支援程式組織稱為增強型支援服務。 過渡時期供應項目會提供不收費您現有的 Office 365 訂閱服務合約的平衡。 在您的訂閱服務更新時，Office 365 工程直接將可做為提供補充成本的選擇性支援。 如果購買，將會執行並附加至現有的 Premier Support 合約不同合約增補新增的服務套件。
+如果您是大型企業客戶，而且（a）已從舊版 Office 365 專屬服務遷移至最新的多承租人服務 fabric，或（b）已架為多承租人增強型客戶，則系統會將 Office 365 工程直接提供給您的組織，以作為「增強支援服務」的過渡支援服務。 過渡服務可免費提供給您現有訂閱服務合約的平衡。 在您的訂閱服務更新時，Office 365 工程直屬將會以選用的技術支援作為補充成本。 若購買，將會執行新增服務套件的個別合約附錄，並將其附加至您現有的「Premier」支援協定。
 
 > [!NOTE]
-> 在這個階段中，Office 365 工程直接和過渡時期的增強支援 Services 方案目前不適用於舊版 ITAR 支援客戶或客戶與政府社群雲端高 (GCC High) 訂閱優惠方案的 Office 相關365。
+> 目前，Office 365 工程直通和過渡版增強支援服務方案不適用於舊版 ITAR-支援客戶或與 Office 365 的政府社區雲端高（GCC 高版本）訂閱服務的客戶。

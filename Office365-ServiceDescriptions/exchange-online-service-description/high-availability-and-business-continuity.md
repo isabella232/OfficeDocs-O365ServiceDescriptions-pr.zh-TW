@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
-description: Microsoft Exchange Online 提供廣泛的保留和復原支援組織的電子郵件基礎結構。 其中包括在資料中心複寫信箱，以及還原已刪除信箱和已刪除郵件的能力。
-ms.openlocfilehash: b52345ce9287f0f28187df8efdb89c2eb6a7d9c8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Microsoft Exchange Online 提供組織的電子郵件基礎結構的廣泛保留和復原支援。 其中包括在資料中心複寫信箱，以及還原已刪除信箱和已刪除郵件的能力。
+ms.openlocfilehash: 6a0da1d74c74e1e301ab728e81ca884fc9edffc6
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262596"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639791"
 ---
 # <a name="high-availability-and-business-continuity"></a>高可用性和業務連續性
 
-Microsoft Exchange Online 提供廣泛的保留和復原支援組織的電子郵件基礎結構。 其中包括在資料中心複寫信箱，以及還原已刪除信箱和已刪除郵件的能力。
+Microsoft Exchange Online 提供組織的電子郵件基礎結構的廣泛保留和復原支援。 其中包括在資料中心複寫信箱，以及還原已刪除信箱和已刪除郵件的能力。
   
 ## <a name="mailbox-replication-at-data-centers"></a>在資料中心複寫信箱
 
@@ -31,13 +31,13 @@ Exchange Online 信箱在各 Microsoft 資料中心內持續複寫至多重資�
   
 ## <a name="deleted-mailbox-recovery"></a>復原已刪除的信箱
 
-系統管理員可以刪除 Exchange Online 信箱，藉由刪除對應的使用者帳戶或移除 Exchange Online 授權，使用 Microsoft 365 系統管理中心或遠端 Windows PowerShell 中使用**Remove-mailbox**指令程式。 信箱刪除之後，Exchange Online 預設會保留該信箱及其內容 30 天。 30 天後，信箱將無法復原。 復原的信箱包含所有儲存在信箱內遭到刪除的資料。 系統管理員可以復原已刪除的信箱保留期間內使用 Microsoft 365 系統管理中心。 若要復原已刪除的信箱，系統管理員必須還原對應的 Office 365 使用者帳戶，或是重新指派 Exchange Online 授權給該使用者帳戶。 如需詳細資訊，請參閱 [刪除或還原 Exchange Online 中的使用者信箱](https://go.microsoft.com/fwlink/p/?LinkId=286992).
+管理員可以使用 Microsoft 365 系統管理中心刪除 Exchange Online 信箱，以刪除對應的使用者帳戶或移除 Exchange Online 授權，或是使用遠端 Windows PowerShell 中的**Remove-Mailbox** Cmdlet 來刪除。 信箱刪除之後，Exchange Online 預設會保留該信箱及其內容 30 天。 30 天後，信箱將無法復原。 復原的信箱包含所有儲存在信箱內遭到刪除的資料。 系統管理員可以使用 Microsoft 365 系統管理中心，在保留期間內復原已刪除的信箱。 若要復原已刪除的信箱，系統管理員必須還原對應的使用者帳戶，或將 Exchange Online 授權重新指派給使用者帳戶。 如需詳細資訊，請參閱 [刪除或還原 Exchange Online 中的使用者信箱](https://go.microsoft.com/fwlink/p/?LinkId=286992).
   
 ## <a name="deleted-item-recovery"></a>復原已刪除的項目
 
-Exchange Online 可讓使用者還原他們已從任何電子郵件] 資料夾，包括 [刪除的項目] 資料夾刪除的項目。 郵件被刪除後，會保留在使用者的 [刪除的郵件] 資料夾中。 在使用者將它手動移除或保留原則將它自動移除之前，它會一直保留在該處。 系統管理員可以在 EAC 中或使用遠端 Windows PowerShell 自訂保留原則。
+Exchange Online 可讓使用者還原已從任何電子郵件資料夾中刪除的專案，包括「刪除的郵件」資料夾。 郵件被刪除後，會保留在使用者的 [刪除的郵件] 資料夾中。 在使用者將它手動移除或保留原則將它自動移除之前，它會一直保留在該處。 系統管理員可以在 EAC 中或使用遠端 Windows PowerShell 自訂保留原則。
   
-郵件從 [刪除的郵件] 資料夾中被移除後，會在 [可復原的項目] 資料夾中額外保留 14 天，然後才會永久移除，但是系統管理員可使用遠端 Windows PowerShell 將此天數增加，最多可達 30 天。 使用者可復原項目這段時間在網頁或 Outlook 上的 Outlook 中使用 [復原刪除的郵件功能。 了解如何[變更已刪除郵件的保留期間](https://go.microsoft.com/fwlink/p/?LinkId=286940)。
+郵件從 [刪除的郵件] 資料夾中被移除後，會在 [可復原的項目] 資料夾中額外保留 14 天，然後才會永久移除，但是系統管理員可使用遠端 Windows PowerShell 將此天數增加，最多可達 30 天。 在此期間內，使用者可以使用 Outlook 網頁版或 Outlook 中的 [復原刪除的郵件] 功能來復原專案。 了解如何[變更已刪除郵件的保留期間](https://go.microsoft.com/fwlink/p/?LinkId=286940)。
   
 如果使用者已從 [可復原的項目] 資料夾中手動清除郵件，則系統管理員可以透過遠端 Windows PowerShell 使用「單一項目復原」功能，在一樣的保留期間內復原郵件。建立信箱時，預設會啟用「單一項目復原」。若要深入了解，請參閱[啟用或停用信箱的單一項目復原](https://go.microsoft.com/fwlink/p/?LinkID=286941)。
   
@@ -45,5 +45,5 @@ Exchange Online 可讓使用者還原他們已從任何電子郵件] 資料夾�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
   

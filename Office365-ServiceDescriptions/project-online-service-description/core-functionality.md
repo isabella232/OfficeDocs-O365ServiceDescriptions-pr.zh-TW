@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online 中提供下列核心功能功能。
-ms.openlocfilehash: 2e0b026933c9fbe1da8f015251c93833822a8d71
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: ef7db261827e79f47403e897aaabd248a25e4d02
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687959"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640191"
 ---
 # <a name="core-functionality"></a>核心功能
 
@@ -103,6 +103,6 @@ Project 2013 顯示一站式中心用於開始專案，而不是提供空白專�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同 Office 365 方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
   
 

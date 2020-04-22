@@ -13,30 +13,30 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
-description: 對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。 這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。 不過，某些組織需要更複雜的郵件流程設定，以確保它們遵守特定法規或業務需求。 您可以在此找到這些選項。
-ms.openlocfilehash: 48e989c0aa0a84bea7f3f18fb80f225e5f645981
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: 對大多數的組織而言，我們會主控您的信箱並處理郵件流程。 這是最簡單的設定，並表示 Microsoft 管理所有的信箱和篩選。 不過，某些組織需要更複雜的郵件流程設定，以確保它們遵守特定法規或業務需求。 您可以在此找到這些選項。
+ms.openlocfilehash: 66d9dc380d254110e97134840dfdca0d004a84b9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262586"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640321"
 ---
 # <a name="mail-flow"></a>郵件流程
 
-對使用 Office 365 的大多數組織而言，我們可以代管信箱並處理郵件流程。 這是最簡單的配置，並代表 Office 365 管理所有的信箱和篩選。 不過，某些組織需要更複雜的郵件流程設定，以確保它們遵守特定法規或業務需求。 您可以在此找到這些選項。 
+對大多數的組織而言，我們會主控您的信箱並處理郵件流程。 這是最簡單的設定，並表示 Microsoft 管理所有的信箱和篩選。 不過，某些組織需要更複雜的郵件流程設定，以確保它們遵守特定法規或業務需求。 您可以在此找到這些選項。 
   
 ## <a name="custom-routing-of-outbound-email"></a>自訂輸出電子郵件的路由傳送
 
-Microsoft Exchange Online 可以透過內部部署伺服器或託管服務 (有時稱為「智慧型託管」) 路由來自組織的郵件流程。 這可讓您的組織使用資料遺失防護 (DLP) 應用裝置、 執行自訂的後續處理的外寄電子郵件，以及將電子郵件傳送給商業夥伴，透過私人網路。 Exchange Online 也支援地址修正功能，透過會修改位址的功能，外寄電子郵件將會透過內部部署閘道進行路由。 這項功能可讓您隱藏子網域，請從多重網域組織電子郵件顯示為單一網域，或使出現好像它已從傳送您的組織內的協力廠商轉送電子郵件。 管理員可以在 Exchange 系統管理中心 (EAC) 內設定自訂電子郵件路由。
+Microsoft Exchange Online 可以透過內部部署伺服器或託管服務 (有時稱為「智慧型託管」) 路由來自組織的郵件流程。 這可讓您的組織使用資料遺失防護（DLP）裝置，執行外寄電子郵件的自訂後續處理，並透過私人網路絡將電子郵件傳送給商務合作夥伴。 Exchange Online 也支援地址修正功能，透過會修改位址的功能，外寄電子郵件將會透過內部部署閘道進行路由。 這項功能可讓您隱藏子域、將多網域組織的電子郵件顯示為單一網域，或讓夥伴轉送的電子郵件顯示為從組織內傳送。 管理員可以在 Exchange 系統管理中心 (EAC) 內設定自訂電子郵件路由。
   
-如需詳細資訊，請參閱＜[Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)＞。
+如需詳細資訊，請參閱[設定連接器以在 Microsoft 和您自己的電子郵件伺服器之間路由傳送郵件](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)。
   
 > [!IMPORTANT]
-> Exchange Online 可以傳送在您的組織中進出的郵件。 如果收件者網域託管於 Exchange Online 與 DNS MX 記錄指向 Exchange Online Protection，請從您的租用戶收件者的郵件流程將不會透過網際網路傳送。
+> Exchange Online 可以傳送在您的組織中進出的郵件。 如果您的收件者網域主控于 Exchange Online 中，且 DNS MX 記錄指向 Exchange Online Protection，則來自您租使用者的郵件流程將不會透過網際網路傳送。
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>與信任的合作夥伴間的安全傳訊
 
-為 Exchange Online 的客戶，您可以設定安全郵件流程的受信賴合作夥伴使用 Office 365 連接器。 Office 365 支援透過傳輸層安全性 (TLS) 進行安全通訊，而您可以透過 TLS 建立連接器來強制執行加密。 [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections)是透過網際網路進行通訊提供安全性密碼編譯通訊協定。 您可以使用連接器，同時設定使用自我簽署或經過憑證授權單位 (CA) 驗證之憑證的強制內送和外寄 TLS。 您也可以套用其他安全性限制 (像是指定合作夥伴組織傳送郵件所用的網域名稱或 IP 位址範圍)。 
+做為 Exchange Online 客戶時，您可以使用 Microsoft 連接器設定安全的郵件流程與信任的合作夥伴。 Microsoft 會透過傳輸層安全性（TLS）來支援安全通訊，而且您可以建立連接器，透過 TLS 強制加密。 [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections)是一種加密通訊協定，可為透過網際網路的通訊提供安全性。 您可以使用連接器，同時設定使用自我簽署或經過憑證授權單位 (CA) 驗證之憑證的強制內送和外寄 TLS。 您也可以套用其他安全性限制 (像是指定合作夥伴組織傳送郵件所用的網域名稱或 IP 位址範圍)。 
   
 如需詳細資訊，請參閱＜[Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)＞。
   
@@ -65,13 +65,13 @@ Microsoft Exchange Online 可以透過內部部署伺服器或託管服務 (有�
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>具有內部部署路由控制的共用位址空間 (MX 點至內部部署)
 
-與內部部署路由控制 （MX 點至內部部署） 的共用的位址空間為混合部署郵件路由的案例中您的信箱裝載部分的 Exchange Online 和內部部署，以及傳入和傳出網際網路郵件流程的部分會透過內部部署 Exchange 組織路由傳送。 這種案例也稱為集中式郵件傳輸。 在此案例中，Exchange Online 佈建與 EOP 和內送網際網路郵件會路由傳送至 EOP 之前路由傳送到您的內部部署郵件伺服器和最後信箱託管於 Exchange Online。 此外，來自 Exchange Online 信箱的外寄郵件會透過內部部署 Exchange 組織進行路由，以使郵件傳送至外部收件者。 您可以透過這個設定，將單一 SMTP 網域命名空間使用於內部部署 Exchange 組織和 Exchange Online 組織中的所有信箱。 
+具有 On-Premises 路由控制的共用位址空間（MX 指向 On-Premises）是一種混合式部署郵件路由案例，在此案例中，您的信箱已部分主控于 Exchange Online 和部分內部部署中，而且傳入和傳出網際網路郵件流程會透過內部部署 Exchange 組織進行路由傳送。 這種案例也稱為集中式郵件傳輸。 在此案例中，會使用 EOP 來布建 Exchange Online，而且傳入的網際網路郵件會路由傳送至您的內部部署郵件伺服器，然後才會路由傳送至 EOP，最後傳送至 Exchange Online 中主控的信箱。 此外，來自 Exchange Online 信箱的外寄郵件會透過內部部署 Exchange 組織進行路由，以使郵件傳送至外部收件者。 您可以透過這個設定，將單一 SMTP 網域命名空間使用於內部部署 Exchange 組織和 Exchange Online 組織中的所有信箱。 
   
 如需有關混合部署中傳輸選項的詳細資訊，請參閱 [Exchange 混合部署的傳輸選項](https://go.microsoft.com/fwlink/p/?LinkID=271758)。
   
 ### <a name="shared-address-space-without-on-premises-routing-control-mx-points-to-eop"></a>無內部部署路由控制的共用位址空間 (MX 點至 EOP)
 
-無內部部署路由控制的共用位址空間 (MX 指向 EOP) 是一種混合郵件路由案例，其中信箱部分託管於雲端 (使用 Exchange Online)，部分位於內部部署，而 MX 記錄會指向 EOP。當您使用 Office 365 服務託管組織的部分信箱，並且希望使用 EOP 同時保護內部部署和雲端信箱時，此案例即適用。在此案例中，傳送至您組織中收件者的郵件一開始會透過 EOP 進行路由 (會在此處進行垃圾郵件和原則篩選作業)，然後再送達您內部部署信箱和雲端信箱。 
+無內部部署路由控制的共用位址空間 (MX 指向 EOP) 是一種混合郵件路由案例，其中信箱部分託管於雲端 (使用 Exchange Online)，部分位於內部部署，而 MX 記錄會指向 EOP。 當您使用 Microsoft 來裝載某些組織的信箱，且您想要 EOP 保護您的內部部署和雲端信箱時，此案例適用。 在此案例中，傳送至您組織中收件者的郵件一開始會透過 EOP 進行路由 (會在此處進行垃圾郵件和原則篩選作業)，然後再送達您內部部署信箱和雲端信箱。 
   
 如需有關混合部署中傳輸選項的詳細資訊，請參閱 [Exchange 混合部署的傳輸選項](https://go.microsoft.com/fwlink/p/?LinkID=271758)。
   
@@ -96,5 +96,5 @@ Microsoft Exchange Online 可以透過內部部署伺服器或託管服務 (有�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
   

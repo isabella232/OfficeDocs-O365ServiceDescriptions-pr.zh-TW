@@ -9,29 +9,29 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如果您想要知道 Office 365 和 Microsoft 365 教育版方案有何差異，本文將說明各方案中包含的功能。
-ms.openlocfilehash: fa3bf6e0795913861b3c4a4bc7a0a021c8ca05a1
-ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
+ms.openlocfilehash: bd4204538838b448c1cdb33dfa2903af113b098d
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959311"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639781"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
 Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如果您想要知道 Office 365 和 Microsoft 365 教育版方案有何差異，本文將說明各方案中包含的功能。 
   
-Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterprise Mobility 及 Security。 下表列出 Office 365 教育版 A1、A3 和 A5 的功能，以及對應的 Microsoft 365 教育版 A3 和 A5 功能。 若要跨商務和企業方案比較 Office 365 的功能，請參閱[比較 office 365 For business 方案](https://go.microsoft.com/fwlink/?linkid=799177)，或如需更詳細的功能清單，請參閱[Office 365 服務說明](../office-365-service-descriptions-technet-library.md)中的相關服務描述。 若要搜尋支援文章和資訊，請參閱[Office &amp;協助訓練](https://support.office.com/)。
+Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterprise Mobility 及 Security。 下表列出 Office 365 教育版 A1、A3 和 A5 的功能，以及對應的 Microsoft 365 教育版 A3 和 A5 功能。 若要跨商務和企業方案比較功能，請參閱[比較 Microsoft 365 for business 方案](https://go.microsoft.com/fwlink/?linkid=799177)，或如需更詳細的功能清單，請參閱[Microsoft 365 服務說明](../office-365-service-descriptions-technet-library.md)中的相關服務描述。 若要搜尋支援文章和資訊，請參閱[Office &amp;協助訓練](https://support.office.com/)。
   
 ## <a name="services-and-features"></a>服務與功能
 
-每個 Microsoft 365 教育方案皆包含一些個別服務，例如 Exchange Online 和 SharePoint Online。 下表顯示每個 Office 365 和 Microsoft 365 方案所提供的服務，以便您選擇最符合需求的解決方案。 若要檢視 Office 365 服務和功能的詳細資料，請參閱 [Office 365 教育版](office-365-education.md) 服務描述。
+每個 Microsoft 365 教育方案皆包含一些個別服務，例如 Exchange Online 和 SharePoint Online。 下表顯示每個 Office 365 和 Microsoft 365 方案所提供的服務，以便您選擇最符合需求的解決方案。 若要更詳細地複查服務和功能，請參閱[Office 365 教育](office-365-education.md)版服務說明。
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**服務** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |Office 365 平臺  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |網頁版 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 365 專業增強版  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|適用于企業的 Microsoft 365 應用程式  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是<sup>1</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |
 |SharePoint Online  <br/> |是<sup>3</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
 |商務用 OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -102,7 +102,7 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 > <sup>4</sup> 包含 SharePoint Online 方案 2。<br/>
 > <sup>5</sup> Microsoft Project 並未包含在 Office 365，但可以個別購買。 Project Online 基本版是免費的。 如果您是學生或教育機構，您可以享受購買專案方案3與計畫5（教育價）。   <br/>
 > <sup>6</sup> Microsoft 365 教育版 A5 包含電話系統、音訊會議和通話方案功能。 若要實作通話方案需要購買額外的方案 (國內通話方案或國際通話方案)。 <br/>
-> <sup>7</sup> 若要深入了解哪些 Azure 資訊保護功能隨附於 Office 365 方案中，請參閱 [Azure 資訊保護](https://go.microsoft.com/fwlink/?linkid=838357) (部分內容機器翻譯)。<br/>
+> <sup>7</sup>若要深入瞭解 Microsoft 計畫包含哪些 Azure 資訊保護功能，請參閱[Azure 資訊保護](https://go.microsoft.com/fwlink/?linkid=838357)。 <br/>
 > <sup>8</sup> 包含 Intune。<br/>
 > <sup>9</sup> Exchange、SharePoint 和商務用 Skype 中包含伺服器和 CAL。<br/>
 > <sup>10</sup> ECAL 或 Core CAL 需視購買的 A3 版本而定，A 5 則包含 ECAL 許可權。<br/>

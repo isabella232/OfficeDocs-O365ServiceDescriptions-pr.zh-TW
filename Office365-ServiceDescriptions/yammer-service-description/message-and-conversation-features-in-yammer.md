@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Yammer 中提供下列郵件和交談功能。
-ms.openlocfilehash: 407de14f6dfd58b5079c44cc5658192451dfc4e4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 5e617b54b04aff55a668e7db7fe26ea0ccae8591
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687875"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640031"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer 中的訊息與交談
 
@@ -27,7 +27,7 @@ Yammer 中提供下列郵件和交談功能。
 
 通知其他同事，並透過 @提及 他們的姓名讓他們加入對話。
 
-## <a name="events"></a>Events
+## <a name="events"></a>事件
 
 組織會議和事件，與同事共用會議和事件，並保持出勤追蹤。 事件可以新增至 Outlook、Google、Yahoo！及 iCal 行事曆。
   
@@ -57,5 +57,5 @@ Yammer 中提供下列郵件和交談功能。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同 Office 365 方案、獨立選項和內部部署方案中的功能可用性，請參閱[Yammer 服務描述](yammer-service-description.md)。
+若要查看功能可用性計畫、獨立選項和內部部署解決方案，請參閱[Yammer 服務描述](yammer-service-description.md)。
   

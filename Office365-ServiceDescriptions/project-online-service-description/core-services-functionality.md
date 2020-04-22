@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Project Online 中提供下列核心服務功能功能。
-ms.openlocfilehash: 172aabf2a2cdf4891db556b38f1415edf6389610
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: ac60216d3331ce41f2257f287306a18a0896888b
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687962"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638961"
 ---
 # <a name="core-services-functionality"></a>核心服務功能
 
@@ -49,11 +49,11 @@ Microsoft PPM 方案受到上千家 Microsoft 合作夥伴的支援，這些合�
   
 ## <a name="service-reliability"></a>Service reliability
 
-我們以位居業界領導地位，為 Office 365 客戶提供高達 99.9% 運作時間的財務保證。 請參閱[服務持續性](https://go.microsoft.com/fwlink/?LinkId=402653)。
+我們承諾以業界領先的財務擔保為客戶提供我們99.9% 的運作時間承諾。 請參閱[服務持續性](https://go.microsoft.com/fwlink/?LinkId=402653)。
   
 ## <a name="service-updates"></a>服務更新
 
-我們會定期更新 Office 365 服務的新功能。 請參閱[服務更新](../office-365-platform-service-description/service-updates.md)。
+我們會定期以全新的功能更新 Microsoft 服務。 請參閱[服務更新](../office-365-platform-service-description/service-updates.md)。
   
 ## <a name="team-member-collaboration"></a>小組成員協同合作
 
