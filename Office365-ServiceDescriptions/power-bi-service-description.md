@@ -11,26 +11,26 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
-description: Power BI 是雲端架構的業務分析工具套件，可讓任何人連線、 視覺化及分析資料更大的速度、 效率，以及了解。 該服務透過方便使用的儀表板將使用者連結到廣泛的即時資料、提供互動式報表與無可比擬的的視覺化效果，讓資料栩栩如生。
-ms.openlocfilehash: eca434b58fb379c025a44073fdea23a40a746861
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Power BI 是雲端架構的業務分析工具套件，讓任何人都能夠以更快的速度、更快的速度及更深入的方式，進行資料的連線、視覺化及分析。 該服務透過方便使用的儀表板將使用者連結到廣泛的即時資料、提供互動式報表與無可比擬的的視覺化效果，讓資料栩栩如生。
+ms.openlocfilehash: 896ee5a2cb9f43698d35d1744e6810f72c12a0be
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263467"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638971"
 ---
-# <a name="power-bi-service-description"></a><span data-ttu-id="c759b-104">Power BI 服務說明</span><span class="sxs-lookup"><span data-stu-id="c759b-104">Power BI service description</span></span>
+# <a name="power-bi-service-description"></a><span data-ttu-id="90483-104">Power BI 服務說明</span><span class="sxs-lookup"><span data-stu-id="90483-104">Power BI service description</span></span>
 
-<span data-ttu-id="c759b-105">Power BI 是雲端架構的業務分析工具套件，可讓任何人連線、 視覺化及分析資料更大的速度、 效率，以及了解。</span><span class="sxs-lookup"><span data-stu-id="c759b-105">Power BI is a cloud-based suite of business analytics tools that lets anyone connect to, visualize, and analyze data with greater speed, efficiency, and understanding.</span></span> <span data-ttu-id="c759b-106">該服務透過方便使用的儀表板將使用者連結到廣泛的即時資料、提供互動式報表與無可比擬的的視覺化效果，讓資料栩栩如生。</span><span class="sxs-lookup"><span data-stu-id="c759b-106">It connects users to a broad range of live data through easy-to-use dashboards, provides interactive reports, and delivers compelling visualizations that bring data to life.</span></span>
+<span data-ttu-id="90483-105">Power BI 是雲端架構的業務分析工具套件，讓任何人都能夠以更快的速度、更快的速度及更深入的方式，進行資料的連線、視覺化及分析。</span><span class="sxs-lookup"><span data-stu-id="90483-105">Power BI is a cloud-based suite of business analytics tools that lets anyone connect to, visualize, and analyze data with greater speed, efficiency, and understanding.</span></span> <span data-ttu-id="90483-106">該服務透過方便使用的儀表板將使用者連結到廣泛的即時資料、提供互動式報表與無可比擬的的視覺化效果，讓資料栩栩如生。</span><span class="sxs-lookup"><span data-stu-id="90483-106">It connects users to a broad range of live data through easy-to-use dashboards, provides interactive reports, and delivers compelling visualizations that bring data to life.</span></span>
   
-<span data-ttu-id="c759b-p103">目前提供 Power BI 作為 Office 365 Enterprise E5 版本的一部分。若要深入了解，請造訪 [Power BI](https://powerbi.microsoft.com/)。</span><span class="sxs-lookup"><span data-stu-id="c759b-p103">Power BI is currently available as part of the Office 365 Enterprise E5 version. To learn more, visit [Power BI](https://powerbi.microsoft.com/).</span></span>
+<span data-ttu-id="90483-107">目前提供 Power BI 作為 Office 365 Enterprise E5 版本的一部分。</span><span class="sxs-lookup"><span data-stu-id="90483-107">Power BI is currently available as part of the Office 365 Enterprise E5 version.</span></span> <span data-ttu-id="90483-108">若要深入了解，請造訪 [Power BI](https://powerbi.microsoft.com/)。</span><span class="sxs-lookup"><span data-stu-id="90483-108">To learn more, visit [Power BI](https://powerbi.microsoft.com/).</span></span>
   
-<span data-ttu-id="c759b-109">若要跨方案比較功能，請參閱 [比較 Office 365 for Business 方案](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。</span><span class="sxs-lookup"><span data-stu-id="c759b-109">To compare features across plans, see [Compare Office 365 for Business plans](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).</span></span>
+<span data-ttu-id="90483-109">若要跨方案比較功能，請參閱[比較 Microsoft 365 for business 方案](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。</span><span class="sxs-lookup"><span data-stu-id="90483-109">To compare features across plans, see [Compare Microsoft 365 for business plans](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).</span></span>
   
-## <a name="power-bi-plans"></a><span data-ttu-id="c759b-110">Power BI 方案</span><span class="sxs-lookup"><span data-stu-id="c759b-110">Power BI plans</span></span>
+## <a name="power-bi-plans"></a><span data-ttu-id="90483-110">Power BI 方案</span><span class="sxs-lookup"><span data-stu-id="90483-110">Power BI plans</span></span>
 
-<span data-ttu-id="c759b-111">您可以註冊[Power BI 方案](https://go.microsoft.com/fwlink/?LinkID=786854)最符合您的需求。</span><span class="sxs-lookup"><span data-stu-id="c759b-111">You can sign up for the [Power BI plan](https://go.microsoft.com/fwlink/?LinkID=786854) that best suits your needs.</span></span> 
+<span data-ttu-id="90483-111">您可以註冊最符合您需求的[POWER BI 方案](https://go.microsoft.com/fwlink/?LinkID=786854)。</span><span class="sxs-lookup"><span data-stu-id="90483-111">You can sign up for the [Power BI plan](https://go.microsoft.com/fwlink/?LinkID=786854) that best suits your needs.</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="c759b-112">Power BI 和 Power BI for Office 365 是不同的產品。</span><span class="sxs-lookup"><span data-stu-id="c759b-112">Power BI and Power BI for Office 365 are different products.</span></span> <span data-ttu-id="c759b-113">Power BI for Office 365 是版本 1 服務而且已被取代。</span><span class="sxs-lookup"><span data-stu-id="c759b-113">Power BI for Office 365 is a version 1 service and has been deprecated.</span></span> 
+> <span data-ttu-id="90483-112">Power BI 和 Power BI for Office 365 是不同的產品。</span><span class="sxs-lookup"><span data-stu-id="90483-112">Power BI and Power BI for Office 365 are different products.</span></span> <span data-ttu-id="90483-113">Power BI for Office 365 是版本 1 服務而且已被取代。</span><span class="sxs-lookup"><span data-stu-id="90483-113">Power BI for Office 365 is a version 1 service and has been deprecated.</span></span> 
   
