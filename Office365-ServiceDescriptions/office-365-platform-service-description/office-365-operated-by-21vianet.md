@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: cd5ddf01b3075d1538470d1f352d5da4e51baacd
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 894087ac6d25bf64d36f6a047239072ec2897a18
+ms.sourcegitcommit: dc3ce02268eeeb6de29e61276b5572e0633940bf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639851"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43800619"
 ---
-# <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
+# <a name="office-365-operated-by-21vianet"></a>由 21Vianet 營運的 Office 365
 
 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
 
@@ -1084,7 +1084,6 @@ EOP 中的<sup>4 個</sup>郵件流程規則（也稱為傳輸規則）是在[Ex
 - 收藏 夾
 - 播放我的電子郵件
 - 增益集
-- 群組
 - 智慧回復
 - Office 摘要
 - 保留時間
