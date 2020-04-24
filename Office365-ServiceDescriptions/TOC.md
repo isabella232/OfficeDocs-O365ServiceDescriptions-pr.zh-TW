@@ -3,7 +3,7 @@
 ## [Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Office 365 方案選項](office-365-platform-service-description/office-365-plan-options.md)
 ### [Office 365 系統需求](office-365-platform-service-description/office-365-system-requirements.md)
-### [Office 365 安全性與合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md)
+### [安全性與合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md)
 ### [Office 365 套件功能](office-365-platform-service-description/office-365-suite-features.md)
 ### [Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
@@ -102,7 +102,7 @@
 ### [Yammer 中的支援功能](yammer-service-description/support-features-in-yammer.md)
 ## Microsoft 365 服務描述
 ### [Microsoft 365 商務版語音服務描述](microsoft-365-business-voice-service-description.md)
-### [Microsoft 365 商務版服務描述](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+### [Microsoft 365 商務進階版服務描述](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 ### [中小型企業的 Microsoft 365 授權](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
 ### [Microsoft 365 安全性與合規性的授權指引](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
