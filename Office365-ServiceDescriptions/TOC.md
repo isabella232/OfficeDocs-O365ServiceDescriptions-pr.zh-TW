@@ -11,6 +11,7 @@
 #### [如何購買 Microsoft 365 政府版](office-365-platform-service-description\office-365-us-government\microsoft-365-government-how-to-buy.md)
 #### [適用於美國政府的 OneDrive](office-365-platform-service-description\office-365-us-government\onedrive.md)
 #### [適用於美國政府的 SharePoint](office-365-platform-service-description\office-365-us-government\sharepoint.md)
+#### [適用於美國政府的 Exchange Online](office-365-platform-service-description\office-365-us-government\exchange-online-for-us-government-environments.md)
 ### [由 21Vianet 運作的 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md)
 ### [Office 365 Germany](office-365-platform-service-description/office-365-germany.md)
 ### [Office 365 教育版](office-365-platform-service-description/office-365-education.md)
