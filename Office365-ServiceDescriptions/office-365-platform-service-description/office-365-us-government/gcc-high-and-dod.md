@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 深入瞭解 Office 365 GCC 高和 DoD 環境與 Office 365 商業環境的獨特承諾和差異。
-ms.openlocfilehash: 8ad2ae12a58c494c72e044655e69679346118aee
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: ac769bf832d1aa3454596d5aad1c2a8b3769e6d2
+ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639051"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914779"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC 高和 DoD
 
@@ -31,7 +31,7 @@ ms.locfileid: "43639051"
 
 GCC 高和 DoD 符合下列認證和資格鑒定的規範需求： 
   
-- 聯邦政府風險與授權管理計畫中度基準 (FedRAMP 中等影響級別) 包括美國國家標準技術研究所 (NIST) 特別出版品 800 53 中所述的這些安全性控制和控制增強功能。
+- 聯邦風險和授權管理程式的 FedRAMP 高，包含這些安全性控制和控制的增強功能（如《國家標準和技術研究院（NIST）特殊出版物800-53 所述）。
     
 - 針對影響級別最高達等級 5 (L5) 的美國國防部雲端運算安全需求準則 (SRG) 安全性控制和控制增強功能。
     

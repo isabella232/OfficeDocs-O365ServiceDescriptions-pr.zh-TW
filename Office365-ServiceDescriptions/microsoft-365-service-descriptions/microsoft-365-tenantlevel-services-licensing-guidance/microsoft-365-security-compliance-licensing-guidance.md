@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 0c83429e2efb5cc58ca6bfbd670dbc8566beba68
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 870e30135f7537f898f5550c6e45f5c8eb92b743
+ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639801"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914769"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -175,7 +175,7 @@ Microsoft Defender ATP 系統管理員可以利用以[角色為基礎的存取�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
-使用者權益能夠將敏感度標籤手動套用至其內容，或讓其內容自動分類。
+使用者可透過將敏感度標籤手動套用至其內容，或透過自動分類其內容來獲得好處。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
