@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: 針對所有 Microsoft Office 365 Enterprise、Business、Education 和 Government 訂閱，Microsoft 支援團隊均提供全球技術、售前、帳單和訂閱支援。 線上透過 Microsoft365 系統管理中心，以及透過電話撥打付費和試用版訂閱，都有提供支援。 如需詳細資訊，請參閱 Microsoft 支援選項。
-ms.openlocfilehash: d0ec7daf88cc84a85984afd9b1794837e7ff586e
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 28989b81ea3a20e4654630db51fd1abbbce09e14
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639901"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002320"
 ---
 # <a name="support"></a>支援
 
@@ -27,11 +27,11 @@ ms.locfileid: "43639901"
   
 授權的系統管理員可以使用 Microsoft 365 系統管理中心，以線上提交服務要求、存取支援電話號碼，以及查看所有開啟及最近關閉的服務要求。 在系統管理中心中送出的服務要求，在要求關閉後，最多可重新開啟14天。 如需相關指示，請參閱[聯繫 Microsoft 365 for business support](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)。
   
-O365 技術支援小組僅疑難排解與 Office 365 相關的問題。 來源於客戶網路的問題超出支援界限，在這些情況下，客戶必須與網路小組合作，或聯繫[Microsoft 網路小組](https://support.microsoft.com/gp/contactus81?Audience=Commercial)以尋求協助。
+Microsoft 365 技術支援小組只會針對與 Microsoft 365 和 Office 365 相關的問題進行診斷。 來源於客戶網路的問題超出支援界限，在這些情況下，客戶必須與網路小組合作，或聯繫[Microsoft 網路小組](https://support.microsoft.com/gp/contactus81?Audience=Commercial)以尋求協助。
   
 ## <a name="community-and-self-service-support-options"></a>社群和自助支援選項
 
-自助支援可用於所有方案，包含疑難排解工具和影片、協助文章和影片，以及[Office 365 社區](https://go.microsoft.com/fwlink/p/?LinkID=279811)中的論壇和 wiki。 如需自助支援資源的相關資訊，請參閱[Help and 訓練](help-and-training.md)服務描述。
+自助支援可用於所有方案，包含疑難排解工具和影片、協助文章和影片，以及[Microsoft 365 社區](https://go.microsoft.com/fwlink/p/?LinkID=279811)中的論壇和 wiki。 如需自助支援資源的相關資訊，請參閱[Help and 訓練](help-and-training.md)服務描述。
   
 ## <a name="pre-sales-support"></a>售前支援
 
@@ -112,7 +112,7 @@ Microsoft 了解即時提供合格專業人員的技術支援是雲端服務的�
 
 只有 Microsoft 系統管理員角色的人員才有權存取系統**管理中心的系統管理員區段，** 以及直接與 Microsoft 進行服務要求的通訊。
   
-使用 Office 365 Enterprise 和 Microsoft 365 Apps plan，您可以指定多種類型的系統管理員，以提供不同的功能。 此服務說明採用一般標題「管理員」來統稱所有類別的管理員。 如需有關管理員角色類型的詳細資訊，請參閱〈[指派管理員角色](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)〉。
+使用 Office 365 Enterprise 和 Microsoft 365 Apps Plan，您可以指定多種類型的系統管理員，以提供不同的功能。 此服務說明採用一般標題「管理員」來統稱所有類別的管理員。 如需有關管理員角色類型的詳細資訊，請參閱〈[指派管理員角色](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)〉。
   
 管理員：
   
@@ -201,4 +201,4 @@ Microsoft 隨附的支援服務可滿足許多客戶的需求，具有更多高�
 
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各個方案中的功能可用性，請參閱[Office 365 platform service description](office-365-platform-service-description.md)。
+若要查看不同方案中的功能可用性，請參閱[Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。

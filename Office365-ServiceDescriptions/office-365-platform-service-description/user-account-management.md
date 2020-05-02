@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft 支援下列方式來建立、管理及驗證使用者。
-ms.openlocfilehash: 2de28edc6e85e2ac0f849d797639e29fdc62d5f9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7711a57247c20d7185e613d042791b089b01b483
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639821"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002310"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -28,11 +28,11 @@ Microsoft 支援下列方式來建立、管理及驗證使用者。
 > [!NOTE]
 > 本主題不包含可允許或禁止存取個別 Microsoft 資源的安全性功能資訊（例如，Microsoft Exchange Online 中的角色型存取控制，或設定 Microsoft SharePoint Online 中的安全性）。 如需這些功能的詳細資訊，請參閱[Exchange online 服務說明](../exchange-online-service-description/exchange-online-service-description.md)和[SharePoint 線上服務描述](../sharepoint-online-service-description/sharepoint-online-service-description.md)。 
   
-如果您需要可協助您執行系統管理工作的工具相關資訊，請參閱[tools to Manage Microsoft accounts](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts)。 若要了解如何執行日常管理工作，請參閱〈[Office 365 的一般管理工作](https://docs.microsoft.com/office365/admin/manage/manage)〉。
+如果您需要可協助您執行系統管理工作的工具相關資訊，請參閱[tools to Manage Microsoft accounts](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts)。 若要瞭解如何執行日常管理工作，請參閱[常見管理](https://docs.microsoft.com/office365/admin/manage/manage)工作。
   
 ## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>需要登入、安裝或解除安裝，或是取消訂閱的協助嗎？
 
-取得[登入 Office 365](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | [安裝或解除安裝 Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | [取消 Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a) 的說明
+取得[簽署](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | [安裝或卸載 office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | [取消 office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)的說明
   
 如需其他問題，請造訪[Microsoft 支援中心](https://support.microsoft.com/contactus/)。 若要取得中國的 21Vianet 運作的 Office 365 的支援，請連絡 [21Vianet 支援小組](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)。 若要取得 Office 365 Germany 的支援，請連絡 [Office 365 Germany 支援小組](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)。 
   
@@ -48,7 +48,7 @@ Microsoft 有兩個系統可用於使用者身分識別：
   
 ### <a name="custom-domains-and-identity-options"></a>自訂網域和身分選項
 
-當您建立新的使用者時，使用者的登入名稱和電子郵件地址會指派給 Microsoft 365 系統管理中心中所設定的預設網域。 若要深入了解，請參閱[將您的使用者與網域新增至 Office 365](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)。 
+當您建立新的使用者時，使用者的登入名稱和電子郵件地址會指派給 Microsoft 365 系統管理中心中所設定的預設網域。 若要深入瞭解，請參閱[新增您的使用者和網域](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)。 
   
 根據預設，訂閱\<使用以該帳戶建立的_公司名稱_\> **onmicrosoft.com**網域。\*您可以將一或多個自訂網域新增至 Microsoft，而不是保留 onmicrosoft.com 網域，而且可以指派使用者使用任何驗證的網域登入。 每個使用者的指派網域是將會出現在傳送和接收的電子郵件訊息上的電子郵件地址。 
   
@@ -74,9 +74,9 @@ Microsoft 有兩個系統可用於使用者身分識別：
     
 Microsoft 使用以表單為基礎的驗證，而且透過網路驗證流量永遠使用埠 443 TLS/SSL 加密。 驗證流量使用的是不計的 Microsoft 服務頻寬百分比。 
   
-### <a name="multi-factor-authentication-for-office-365"></a>Office 365 Multi-Factor 驗證
+### <a name="multi-factor-authentication"></a>Multi-Factor 驗證
 
-With Multi-Factor Authentication for Office 365, users are required to acknowledge a phone call, text message, or an app notification on their smartphone after correctly entering their password. Only after this second authentication can the user sign in. Microsoft 系統管理員可在 Microsoft 365 系統管理中心中，註冊多重要素驗證的使用者。 Learn more about [Multi-Factor Authentication for Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
+使用 Multi-Factor 驗證，使用者在正確輸入密碼後，必須先在其 smartphone 上認可電話、文字訊息或代理程式更新。 Only after this second authentication can the user sign in. Microsoft 系統管理員可在 Microsoft 365 系統管理中心中，註冊多重要素驗證的使用者。 深入瞭解[Multi-Factor 驗證](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication)。
   
 ### <a name="rich-client-authentication"></a>豐富型用戶驗證
 
@@ -117,7 +117,7 @@ With Multi-Factor Authentication for Office 365, users are required to acknowled
   
 ## <a name="creating-user-accounts"></a>建立使用者帳戶
 
-有多種方式能讓您將使用者加入 Office 365。 若要深入瞭解，請參閱[個別或大量系統管理協助新增使用者](https://docs.microsoft.com/office365/admin/add-users/add-users) [，以及新增、移除及管理 Microsoft 365 系統管理中心預覽中的使用者](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US)。 如果您在中國使用由 21Vianet 提供的 Office 365，請參閱[在由 21Vianet 提供的 Office 365 中建立或編輯使用者帳戶 - 管理中心說明](https://docs.microsoft.com/office365/admin/add-users/add-users)。
+有多種方式可以讓您新增使用者。 若要深入瞭解，請參閱[個別或大量系統管理協助新增使用者](https://docs.microsoft.com/office365/admin/add-users/add-users) [，以及新增、移除及管理 Microsoft 365 系統管理中心預覽中的使用者](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US)。 如果您在中國使用由 21Vianet 提供的 Office 365，請參閱[在由 21Vianet 提供的 Office 365 中建立或編輯使用者帳戶 - 管理中心說明](https://docs.microsoft.com/office365/admin/add-users/add-users)。
   
 ## <a name="deleting-accounts"></a>刪除帳戶
 
@@ -127,7 +127,7 @@ With Multi-Factor Authentication for Office 365, users are required to acknowled
     
 - 若您使用目錄同步處理，您必須從本機 Active Directory，而非從 Office 365 刪除使用者。
     
-當帳戶被刪除，它將變為非作用狀態。 帳戶刪除約 30 日之後，您可以復原帳戶。 如需有關刪除及還原帳戶的詳細資訊，請參閱[刪除 office 365 中的使用者](https://docs.microsoft.com/office365/admin/add-users/delete-a-user)及[還原 office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user)中的使用者; 如果使用中國的世紀運作的 office 365，請參閱[Create or Edit user accounts In 由世紀運作的 office 365-系統管理](https://docs.microsoft.com/office365/admin/add-users/add-users)說明。
+當帳戶被刪除，它將變為非作用狀態。 帳戶刪除約 30 日之後，您可以復原帳戶。 如需有關刪除及還原帳戶的詳細資訊，請參閱[刪除使用者](https://docs.microsoft.com/office365/admin/add-users/delete-a-user)及[還原使用者](https://docs.microsoft.com/office365/admin/add-users/restore-user); 如果使用中國的世紀運作的 office 365，請參閱[Create Or edit user accounts in Office 365 運作-系統管理](https://docs.microsoft.com/office365/admin/add-users/add-users)說明。
   
 ## <a name="password-management"></a>密碼管理
 
@@ -188,5 +188,5 @@ Azure Active Directory (AD) 將完整的身分識別與存取管理功能帶到 
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同計畫、獨立選項和內部部署方案中的功能可用性，請參閱[Office 365 platform service description](office-365-platform-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
   

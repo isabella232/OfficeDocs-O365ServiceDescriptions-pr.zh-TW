@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是用於專案組合管理（PPM）和日常工作的彈性線上解決方案。 Project Online 是透過 Office 365 所交付，提供功能強大的專案管理功能，以規劃、設定優先順序以及管理專案和專案組合投資 (幾乎可以從任何位置在任何裝置上使用)。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: ac329a90e636b8adcdead13dbe30d562bd67eb39
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2b54ea0aa1aab30e8c21e6e0ccdbedc92bd8b10e
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638731"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002330"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -193,7 +193,7 @@ Microsoft 小組整合 | 針對 Microsoft 團隊中的專案進行共同作業�
 <sup>1</sup>需要 Office 或 Microsoft 365 商務版訂閱。</br>
 <sup>2</sup>獨立購買 Azure 板卡。</br>
 您可以使用 Power BI，使用 web 和 Project Online 的<sup>專案報表。</sup> 查看、編輯和建立報告需要 Power BI Pro 訂閱。 Microsoft 提供一組預先構建的 Power BI 報告。 使用者可以使用 Power BI 自訂這些報告或建立其他報告。</br> 
-<sup>4</sup>建立可存取 web 資料之專案的自訂 PowerApps 行動應用程式，需要 PowerApps 訂閱及專案方案3或專案方案5訂閱。</br>
+<sup>4</sup>建立及使用可存取 web 資料之專案的自訂 PowerApps 行動應用程式，需要 PowerApps 訂閱及專案方案3或專案方案5訂閱。</br>
 <sup>5</sup>自動化和整合商務程式搭配使用 web 資料的專案時，需要使用電源自動化訂閱和專案計劃3或專案方案5訂閱。</br>
 <sup>6</sup>外部使用者的 Project Online 授權遵循與內部使用者相同的原則。 在 Project Online 網站上的任何互動，都需要專案方案3或專案方案5訂閱。</br>
 <sup>7</sup>具有專案計劃3或 Project 方案5訂閱的使用者可以提交資源預訂要求。 他們無法複查、履行或核准資源預訂要求。</br>
@@ -239,7 +239,7 @@ Microsoft 小組整合 | 針對 Microsoft 團隊中的專案進行共同作業�
 |排序和群組 | 使用自訂排序和群組可取得專案、任務和資源的焦點視圖。|
 |**自訂和整合**||
 |自訂欄位 | 在專案、任務及資源層級新增自訂欄位，以追蹤對您的組織及專案非常重要的資料。 |
-|表單 | 建立及部署自訂表單，以捕獲重要的專案資料。 |
+|Forms | 建立及部署自訂表單，以捕獲重要的專案資料。 |
 |公式 | 使用跨任務和專案的公式，計算及捕獲重要的資料。 |
 |範本 | 建立常見專案（包括專案計劃、小組和工作分派）的範本。 |
 |mpp 匯入/匯出 | 從現有的 mpp 檔案建立新專案，或建立現有專案的 mpp 檔案。 |

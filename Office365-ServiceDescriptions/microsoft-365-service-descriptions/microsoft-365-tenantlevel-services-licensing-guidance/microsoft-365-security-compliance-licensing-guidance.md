@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 870e30135f7537f898f5550c6e45f5c8eb92b743
-ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
+ms.openlocfilehash: abeb93c0eee7f783601ae755f40f6f8cf8163d11
+ms.sourcegitcommit: a475f562af23f1591b4962651affef8c23c8051d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43914769"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005959"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -129,13 +129,13 @@ MCAS 會探索並評定影子 IT，提供第一方與第三方雲端應用程式
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-MCAS，Enterprise 可移動性 + Security E5/A5/G5，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 安全性，以及 Microsoft 365 E5/A5 資訊保護和控管為使用者提供的權力可從 MCAS 中受益。
+MCAS，Enterprise 可移動性 + Security E5/A5/G5，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 安全性，以及 Microsoft 365 「內幕人員風險管理」為使用者提供的權力，可從 MCAS 中受益。
 
 Azure AD P1 為使用者提供的權力，可從 MCAS 中的探索功能中受益。
 
 若要從 MCAS 中的條件式存取應用程式控制功能獲益，使用者也必須取得 Azure Active Directory P1 的授權，其包括在 Enterprise Mobility + Security E3/A3/G3、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E3/A3/G3, Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 Security 中。
 
-若要從自動標記中受益，使用者必須獲得 Azure 資訊保護 P2 的授權，其包含在 Enterprise 可移動性 + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 符合性，以及 Microsoft 365 E5/A5 資訊保護和控管。
+若要從自動標籤獲得好處，使用者必須獲得 Azure 資訊保護 P2 （包含在 Enterprise 可移動性 + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 符合性，以及 Microsoft 365 有問必答風險管理）的授權。
 
 如需詳細資訊，請參閱 [Microsoft Cloud App Security 授權資料工作表](https://www.aka.ms/mcaslicensing)。
 
@@ -181,7 +181,7 @@ Microsoft Defender ATP 系統管理員可以利用以[角色為基礎的存取�
 
 Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business，Enterprise 可移動性 + Security F3/E3/E5，Office 365 E5/A5/E3/A3/F3，AIP Plan 1，and AIP Plan 2 為使用者提供的權力，可從手動敏感度標記中受益。
 
-Microsoft 365 E5/A5/G5，Microsoft 365 E5/a5/g5，Microsoft 365 E5/A5 資訊保護和控管，Office 365 E5，Office 365 Advanced 合規性，Enterprise 可移動性 + Security E5，及 AIP Plan 2 為使用者提供的權力，可從自動敏感度標記中受益。
+Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/g5，Microsoft 365 內部使用者風險管理，Office 365 E5，Office 365 Advanced 合規性，Enterprise 可移動性 + Security E5，and AIP Plan 2 為使用者提供的權力，可供使用者從自動敏感度標記中受益。
 
 如需授權的特定權利，請參閱[詳細的 Microsoft 365 相容性授權比較（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)。
 
@@ -207,11 +207,11 @@ Microsoft 365 E5/A5/G5，Microsoft 365 E5/a5/g5，Microsoft 365 E5/A5 資訊保�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Microsoft 365 E5/A5/E3/A3/F1/F3/Business Premium，Office 365 E5/A5/E3/A3/F3/E1 為使用者提供的許可權，可從單一整個組織或位置範圍的保留原則和/或手動保留標記中受益。
+Microsoft 365 E5/A5/E3/A3、Office 365 E5/A5/E3/A3 為使用者提供的許可權，可從單一整個組織或位置範圍的保留原則和/或手動保留標記中受益。
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 E5/A5 資訊保護和控管 Office 365 E5/A5 和 Office 365 Advanced 規章為使用者提供的權力，可讓使用者從自動套用保留標籤或原則起獲得好處：根據自訂事件開始保留標籤的保留期間，在標籤保留期間結束時觸發手動處理檢查，並透過原生資料連線器匯入協力廠商資料，發現已標示內容及監控標記活動。
+Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 有問必答風險管理，Office 365 E5/A5 和 Office 365 Advanced 規章為使用者提供的權力，可讓使用者從自動套用保留標籤或原則起獲得好處：根據自訂事件開始保留標籤的保留期間，在標籤保留期間結束時觸發手動處理檢查，並透過原生資料連線器匯入協力廠商資料，發現已標示內容及監控標記活動。
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 E5/A5 資訊保護和控管為使用者提供權力，以根據 trainable 的分類器自動套用保留標籤。
+Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 內幕使用者風險管理可為使用者提供權力，以根據 trainable 的分類器自動套用保留標籤。
 
 如需授權的特定權利，請參閱[詳細的 Microsoft 365 相容性授權比較（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)。
 
@@ -231,9 +231,9 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 E5/A5 資訊
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 E5/A5 資訊保護和控管，Office 365 E5/A5，Office 365 Advanced 合規性為使用者提供的許可權可讓使用者受益于記錄管理，包括宣告專案為記錄、自動套用保留或記錄標籤，以及執行處置審閱程式（不包括根據 trainable 的分類器自動套用保留卷
+Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 有問必答風險管理，Office 365 E5/A5，Office 365 Advanced 規章為使用者提供的許可權可讓使用者受益于記錄管理，包括宣告專案為記錄、自動套用保留或記錄標籤，以及執行處置審閱程式（不包括根據 trainable 的分類器自動套用保留標籤）。
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 E5/A5 資訊保護和控管為使用者提供權力，以根據 trainable 的分類器自動套用保留或記錄標籤。
+Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 內幕使用者風險管理可為使用者提供權力，以根據 trainable 的分類器自動套用保留或記錄標籤。
 
 如需授權的特定權利，請參閱[詳細的 Microsoft 365 相容性授權比較（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)。
 
@@ -249,9 +249,9 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 E5/A5 資訊
 
 記錄管理功能可套用至特定位置的授權使用者（小組網站、群組網站等等）。 如需設定記錄管理以套用授權使用者的詳細資訊，請參閱[Microsoft 365 中的記錄管理](https://docs.microsoft.com/microsoft-365/compliance/records-management)。
 
-## <a name="office-365-ediscovery"></a>Office 365 電子檔探索
+## <a name="ediscovery"></a>電子文件探索
 
-Office 365 eDiscovery 為 IT 及公司內部的法律部門提供調查和 eDiscovery 解決方案，以識別、收集、保留、減少及檢查與調查或訴訟相關的內容，然後再將其匯出至 Office 365 系統。
+eDiscovery 在公司內為 IT 和法律部門提供調查和 eDiscovery 解決方案，以找出、收集、保留、減少及檢查與調查或訴訟相關的內容，然後再將其匯出至 Microsoft 365 系統。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
@@ -280,7 +280,7 @@ Microsoft 365 E5/A5/G5，Microsoft 365 E5/a5/g5，Microsoft 365 E5/a5 電子檔�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 E5/A5 資訊保護和控管，Office 365 E5/A5，以及 Office 365 的「高級法規遵從性」為使用者提供的許可權可讓使用者受益。 若要獲得客戶金鑰的完整優勢，您也必須具有 Azure 金鑰保存庫的訂閱。
+Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 內部使用者風險管理，Office 365 E5/A5，和 Office 365 的「高級法規遵從性」為使用者提供的權利，可供使用者從客戶金鑰中受益。 若要獲得客戶金鑰的完整優勢，您也必須具有 Azure 金鑰保存庫的訂閱。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -304,7 +304,7 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 E5/A5 資訊
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Office 365 E5/A5/G5、Microsoft 365 E5/a5/g5、Microsoft 365 E5/A5/g5 相容性、Microsoft 365 E5/A5 資訊保護和控管，以及 Office 365 的「高級法規遵從性」為使用者提供的許可權可讓使用者從客戶密碼箱中受益。
+Office 365 E5/A5/G5、Microsoft 365 E5/a5/G5、Microsoft 365 E5/A5/g5 相容性、Microsoft 365 有問必答風險管理，以及 Office 365 的「高級法規遵從性」為使用者提供的權利可以從客戶密碼箱中受益。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -344,7 +344,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 相容性，以及 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Microsoft 365 A1/E3/A3/Business、Office 365 E3/A3 和 Office 365 資料遺失防護可為使用者提供許可權，365以供 Exchange Online、線上 SharePoint 和商務 OneDrive 使用。
+Microsoft 365 A1/E3/A3/Business、Office 365 E3/A3 和資料遺失防護為使用者提供的權力，可供 Exchange Online、SharePoint 線上和商務 OneDrive 使用的 Office 365 DLP。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -360,7 +360,7 @@ Microsoft 365 A1/E3/A3/Business、Office 365 E3/A3 和 Office 365 資料遺失�
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
 
-Office 365 E5/A5 的授權使用者，Microsoft 365 E5/A5，Microsoft 365 E5/A5 資訊保護和控管，以及 Office 365 Advanced 合規性，可受益于小組的通訊 DLP。
+Office 365 E5/A5 的授權使用者，Microsoft 365 E5/A5，Microsoft 365 有問必答使用者風險管理，以及 Office 365 Advanced 合規性，可受益于小組的通訊 DLP。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
@@ -391,7 +391,7 @@ Office 365 E5/A5 的授權使用者，Microsoft 365 E5/A5，Microsoft 365 E5/A5 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 E5/A5 資訊保護和控管，Office 365 E5/A5，以及 Office 365 的「高級法規遵從性」為使用者提供的許可權可讓使用者從資訊障礙中受益。
+Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 內部使用者風險管理，Office 365 E5/A5，和 Office 365 的「高級法規遵從性」為使用者提供的許可權，可讓使用者受益于資訊障礙。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -433,7 +433,7 @@ Office 365 Advanced Message Encryption 可協助客戶符合法規遵從性義�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Office 365 E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 E5/A5 資訊保護和控管，以及 Office 365 的「高級法規遵從性」為使用者提供的許可權，可讓使用者從高級郵件加密中受益。
+Office 365 E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 內部使用者風險管理，以及 Office 365 的「高級法規遵從性」為使用者提供的許可權，可讓使用者從高級郵件加密中受益。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -453,7 +453,7 @@ Microsoft 365 中的通訊法規遵從性，可協助您針對組織中的不適
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 相容性，以及 Microsoft 365 E5/A5 內部風險管理為使用者提供的許可權，可讓使用者受益于通訊相容性。
+Office 365 E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，而 Microsoft 365 內部使用者風險管理可為使用者提供權力，以受益于通訊相容性。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -474,7 +474,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 相容性，以及 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Microsoft 365 E5/A5、Microsoft 365 E5/A5 相容性，以及 Microsoft 365 E5/A5 內部風險管理為使用者提供的權力，可供使用者從內幕程式風險管理中受益。
+Microsoft 365 E5/A5、Microsoft 365 E5/A5 符合性，以及 Microsoft 365 「內幕人員風險管理」為使用者提供的權力，可從「內幕程式風險管理」中受益。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 

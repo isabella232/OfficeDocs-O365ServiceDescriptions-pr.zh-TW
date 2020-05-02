@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的時間。 服務健康資訊可隨時登入。
-ms.openlocfilehash: 2873c3a16e08ac0fd71876f365cc38be91d7effd
-ms.sourcegitcommit: 54360e40fb1ef938aa8c6647eae4a8c8dda11f95
+ms.openlocfilehash: eb2368030148423301d21d7644561028b1fbcec2
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43796714"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001949"
 ---
 # <a name="service-health-and-continuity"></a>服務健康狀況和持續性
 
@@ -86,19 +86,17 @@ Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的�
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2 的 Office 365 管理組件
 
-Microsoft System Center 是可協助您管理資料中心、用戶端裝置和混合雲端 IT 環境的整合式管理平台。 使用 System Center 的 Microsoft 系統管理員現在可以選擇匯入 Office 365 管理元件，讓他們可以在 System Center 的 Operations Manager 中查看所有服務通訊。 使用此工具可讓您存取您已訂閱服務的狀態、作用中及已解決服務事件及訊息中心通訊。 若需詳細資訊，請瀏覽[新的 Office 365 系統管理工具](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/) 部落格文章。 
+Microsoft System Center 是可協助您管理資料中心、用戶端裝置和混合雲端 IT 環境的整合式管理平台。 使用 System Center 的 Microsoft 系統管理員現在可以選擇匯入 Office 365 管理元件，讓他們可以在 System Center 的 Operations Manager 中查看所有服務通訊。 使用此工具可讓您存取您已訂閱服務的狀態、作用中及已解決服務事件及訊息中心通訊。 如需詳細資訊，請在 Microsoft 下載中心取得[Microsoft System Center Management Pack For Office 365](https://www.microsoft.com/download/details.aspx?id=43708) 。 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 服務通訊 API
 
-Office 365 服務通訊 API 可讓您以您想要的方式存取服務通訊。 使用此新的系統管理工具，您現在可以建立或連接工具來服務通訊，進而可能會簡化您監視環境的方式。 服務通訊 API 可讓您在環境中監視下列專案：
+Office 365 服務通訊 API 可讓您以您想要的方式存取服務通訊。 使用此 API，您可以建立或連接工具以服務通訊，並可能簡化您監視環境的方式。 服務通訊 API 可讓您在環境中監視下列專案：
   
 - 即時服務健康狀況
     
 - 訊息中心通訊
     
-- 規劃的維護通知
-    
-如需詳細資訊，請流覽新的系統[管理工具](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)博客文章。 
+如需詳細資訊，請參閱[Office 365 服務通訊 API 參考](https://docs.microsoft.com/office/office-365-management-api/office-365-service-communications-api-reference)。 
   
 ## <a name="post-incident-reviews"></a>事件後續檢閱
 

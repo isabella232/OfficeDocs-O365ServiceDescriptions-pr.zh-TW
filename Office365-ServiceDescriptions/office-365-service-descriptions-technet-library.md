@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 是一種雲端式服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。
-ms.openlocfilehash: 38064eb467bb46e09ccb1cf1d6eea6b01ce3a295
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f297c1be0a2096a75dab8e14858236b69efb9986
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638721"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002063"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 服務描述 
 
@@ -36,7 +36,7 @@ Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTr
   
 若要開始進行，請參閱下列服務說明：
   
-- [Office 365 平臺服務說明](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
 
 - [Office 應用程式服務說明](office-applications-service-description/office-applications-service-description.md)
 
@@ -70,7 +70,7 @@ Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTr
 
 - [Yammer 服務說明](yammer-service-description/yammer-service-description.md)
 
-- [Microsoft 365 商務版服務說明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Microsoft 365 商務進階版服務描述](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 - [Microsoft 365 的安全性 & 合規性授權指導方針](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
