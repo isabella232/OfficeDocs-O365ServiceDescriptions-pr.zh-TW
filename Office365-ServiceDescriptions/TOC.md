@@ -1,6 +1,6 @@
 
-# [Office 365 服務描述](office-365-service-descriptions-technet-library.md)
-## [Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md)
+# [Microsoft 365 和 Office 365 服務描述](office-365-service-descriptions-technet-library.md)
+## [Microsoft 365 和 Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Office 365 方案選項](office-365-platform-service-description/office-365-plan-options.md)
 ### [Office 365 系統需求](office-365-platform-service-description/office-365-system-requirements.md)
 ### [安全性與合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md)
