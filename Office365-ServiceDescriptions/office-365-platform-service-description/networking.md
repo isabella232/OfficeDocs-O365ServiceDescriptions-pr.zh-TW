@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft 支援下列網路功能。
-ms.openlocfilehash: 62a474c9fe0161f7b4d876d8ca462e6bfe5e962d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2f0daecb96564043a6bd734f158fad272dc1812b
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639761"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045005"
 ---
 # <a name="networking"></a>網路功能
 
@@ -64,6 +64,6 @@ Microsoft 網路基礎結構由大量的資料中心、伺服器、內容發佈�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各個方案中的功能可用性，請參閱[Office 365 platform service description](office-365-platform-service-description.md)。
+若要查看不同方案中的功能可用性，請參閱[Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
   
 

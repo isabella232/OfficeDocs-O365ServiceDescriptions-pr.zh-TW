@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
-ms.openlocfilehash: f90bbfa85d0b3c800725a2e51c5da1ea73415434
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: cf077a9065d2c65ab2ab81a03437cc2b5296cfbe
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640251"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044985"
 ---
 # <a name="office-365-plan-options"></a>Office 365 方案選項
 
@@ -33,7 +33,7 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
   
 |**Office 365 服務系列**|**方案**|
 |:-----|:-----|
-|**商務（最多300個使用者）** <br/> |[Microsoft 365 商務基本版](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Microsoft 365 商務應用程式](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 商務標準版](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**商務（最多300個使用者）** <br/> |[Microsoft 365 商務基本版](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Microsoft 365 Apps 商務版](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 商務標準版](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |**企業（使用者數目不受限制）** <br/> |[Office 365 企業版 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 企業版 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 企業版 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 企業版 F3](https://products.office.com/business/office-365-f1) <br/> |
 |**教育版（使用者數目不受限制）** <br/> |[Office 365 教育版](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 教育版 E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**政府（使用者數目不受限制）** <br/> |[參閱所有可用的商務方案](https://products.office.com/government/compare-office-365-government-plans) <br/> |
@@ -49,7 +49,7 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**服務** <br/> |**Microsoft 365 商務基本版** <br/> |**Microsoft 365 商務應用程式** <br/> |**Microsoft 365 商務標準版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5<sup>4</sup>，<sup>16</sup>** <br/> |**Office 365 企業版 F3** <br/> |
+|**服務** <br/> |**Microsoft 365 商務基本版** <br/> |**Microsoft 365 Apps 商務版** <br/> |**Microsoft 365 商務標準版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5<sup>4</sup>，<sup>16</sup>** <br/> |**Office 365 企業版 F3** <br/> |
 |Office 365 平臺  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -115,7 +115,7 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
 |SharePoint Online  <br/> |[SharePoint Online 計劃 1](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online 計劃 2](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
 |商務用 OneDrive  <br/> |[商務用 OneDrive (方案 1)](https://onedrive.live.com/about/business/) <br/> [商務用 OneDrive (方案 2)](https://onedrive.live.com/about/business/) <br/> |
 |商務用 Skype Online  <br/> |[商務用 Skype Online 方案 1](https://products.office.com/microsoft-teams/group-chat-software) <br/> [商務用 Skype Online 方案 2](https://products.office.com/microsoft-teams/group-chat-software) <br/> |
-|Office 應用程式  <br/> |[適用于企業的 Microsoft 365 應用程式](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Microsoft 365 商務應用程式](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 商務標準版](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|Office 應用程式  <br/> |[Microsoft 365 應用程式企業版](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Microsoft 365 Apps 商務版](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 商務標準版](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |專案組合管理  <br/> |[Project Online](https://products.office.com/project/project-and-portfolio-management-software) <br/> |
 |Yammer  <br/> |[Yammer Basic](https://products.office.com/yammer/) <br/> |
 |Organizational insights  <br/> |[工作場所分析](https://products.office.com/business/workplace-analytics) <br/> |
@@ -126,4 +126,4 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
    
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同 Office 365 方案中的功能可用性，請參閱[office 365 平臺服務說明](office-365-platform-service-description.md)。
+若要查看跨 Microsoft 365 和 Office 365 方案的功能可用性，請參閱[microsoft 365 和 office 365 平臺服務說明](office-365-platform-service-description.md)。

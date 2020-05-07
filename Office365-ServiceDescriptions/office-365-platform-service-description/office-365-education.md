@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如果您想要知道 Office 365 教育版方案有何差異，本文將說明各方案中包含的功能。 Office 365 與知名的 Microsoft Office 桌面套件結合，搭載 Microsoft 新一代通訊與共同作業服務的雲端架構版本 (包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office 網頁版，以及 Microsoft 商務用 Skype Online)，讓使用者可透過網際網路在任何地點執行工作。
-ms.openlocfilehash: 5c8df6d3faaba680046b6b2f808fe1aa74bffa73
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: eeb5c721c57948dcbce2eb9fa952b0b89c6d3c3d
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639941"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044995"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
 Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如果您想要知道 Office 365 教育版方案有何差異，本文將說明各方案中包含的功能。 Office 365 與知名的 Microsoft Office 桌面套件結合，搭載 Microsoft 新一代通訊與共同作業服務的雲端架構版本 (包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office 網頁版，以及 Microsoft 商務用 Skype Online)，讓使用者可透過網際網路在任何地點執行工作。
   
-本文列出適用於 Office 365 教育版方案 (A1、A3 和 A5) 的功能。 若要跨商務和企業方案比較功能，請參閱[比較 office 365 For business 方案](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)，或如需更詳細的功能清單，請參閱[Office 365 服務說明](../office-365-service-descriptions-technet-library.md)中的相關服務描述。
+本文列出適用於 Office 365 教育版方案 (A1、A3 和 A5) 的功能。 若要跨商務和企業方案比較功能，請參閱[比較 Office 365 For business 方案](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)，或如需更詳細的功能清單，請參閱[Microsoft 365 和 Office 365 服務說明](../office-365-service-descriptions-technet-library.md)底下的相關服務說明。
   
 若要搜尋支援文章和資訊，請參閱[Office &amp;協助訓練](https://support.office.com/)。
   

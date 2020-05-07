@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的時間。 服務健康資訊可隨時登入。
-ms.openlocfilehash: eb2368030148423301d21d7644561028b1fbcec2
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 7f4f83acdc2a6016f2bd54c98ccf05b2ccb144af
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44001949"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044955"
 ---
 # <a name="service-health-and-continuity"></a>服務健康狀況和持續性
 
@@ -158,5 +158,5 @@ Microsoft 開發和作業團隊是以專屬支援組織為依據，這在提供�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各個方案中的功能可用性，請參閱[Office 365 platform service description](office-365-platform-service-description.md)。
+若要查看不同方案中的功能可用性，請參閱[Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
   

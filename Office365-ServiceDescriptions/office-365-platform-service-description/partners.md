@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 身為 Microsoft 授權合作夥伴，Microsoft Office 365 可提供機會讓您擴展客群，並與客戶建立長久的關係。您的客戶只要付月費或年費給您，就能夠使用雲端式服務，而不需要管理資料備份、伺服器硬體和伺服器更新。您可用的服務取決於您有權提供的服務類型。
-ms.openlocfilehash: 58d0b09222457ecb7f5c1fb31ad511608c66fadc
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: d9c907fc214e992d7ab30ed5a77452c2c0b5053e
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638751"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044965"
 ---
 # <a name="partners"></a>協力程式
 
@@ -53,5 +53,5 @@ Microsoft Partner Network 致力於滿足合作夥伴的需求。若要加入網
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同 Office 365 方案中的功能可用性，請參閱[office 365 平臺服務說明](office-365-platform-service-description.md)。
+若要查看跨 Microsoft 365 和 Office 365 方案的功能可用性，請參閱[microsoft 365 和 office 365 平臺服務說明](office-365-platform-service-description.md)。
   

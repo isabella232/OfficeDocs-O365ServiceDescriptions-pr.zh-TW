@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 提供下列說明和訓練資源。
-ms.openlocfilehash: 10d08047ae4e96ef5fac87bfe0a0f1f433e95014
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 34f840a23b197ae5268b6dc1208fb8052d984ffd
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262886"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045025"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -25,7 +25,7 @@ Microsoft Office 365 提供下列說明和訓練資源。
   
 ## <a name="online-help"></a>線上說明
 
-說明文章和影片可從任何內嵌說明中連結的服務，包括 Office 365 入口網站和 Microsoft 365 系統管理中心的上方導覽列中的 [說明] 圖示。 您也可以前往 [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) 搜尋所有 Office 365 說明。 
+您可以從服務中的任何內嵌說明連結取得説明文章和影片，包括 Office 365 入口網站和 Microsoft 365 系統管理中心的上方導覽列中的 [說明] 圖示。 您也可以前往 [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) 搜尋所有 Office 365 說明。 
   
 ## <a name="training"></a>訓練
 
@@ -90,15 +90,15 @@ Office 365 社群是提供自助支援資訊的單一目的地平台。社群透
     
 如需詳細資訊，請瀏覽 [Office 365 社群](https://techcommunity.microsoft.com/)。
   
-## <a name="manage-office-365-guidance"></a>管理 Office 365 指導方針
+## <a name="manage-office-365-guidance"></a>管理 Office 365 指引
 
-大型組織的 IT 專業人員可以瀏覽管理 Office 365 文件首頁。 本頁面提供複雜的部署指南旨在為大型組織的連結。
+大型組織的 IT 專業人員可以造訪「管理 Office 365 檔」首頁。 此頁面提供適用于大型組織的複雜部署指導連結。
   
-如需詳細資訊，請瀏覽[管理 Office 365](https://docs.microsoft.com/Office365/)。
+如需詳細資訊，請造訪[Manage Office 365](https://docs.microsoft.com/Office365/)。
   
 ## <a name="other-self-help-resources"></a>其他自助資源
 
-除了 Office 365 社群和線上說明，Office 365 也包含下列自助資源：
+除了 Office 365 社區和線上說明之外，Office 365 還包含下列自助資源：
   
 - **Office 365 的疑難排解工具** 針對您的問題提供一系列簡答後，Office 365 的疑難排解工具會根據您的回答推薦一些實用的工具和資訊。若要使用該工具，請移至 Office 365 社群的 [Office 365 的疑難排解工具](https://go.microsoft.com/fwlink/?LinkId=272113)頁面。 
     
@@ -149,4 +149,4 @@ Office 365 社群是提供自助支援資訊的單一目的地平台。社群透
    
 ## <a name="feature-availability"></a>功能可用性
 
-若要檢視跨 Office 365 計劃、 獨立選項和內部部署解決方案的功能可用性，請參閱[Office 365 平台服務說明](office-365-platform-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。

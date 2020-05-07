@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer 是同級產品最佳、安全且私密的企業社交網路。 Yammer 可讓員工輕鬆協同作業、更快做出決策，以及自行組成小組來迎接任何業務挑戰，進而使員工更具生產力且更為成功。 這是一種新的工作方式，可自然地促成業務契合度和靈活性、減少週期時間、凝聚員工，以及改善與客戶及合作夥伴的關係。
-ms.openlocfilehash: 65a8dc8e6c407278e395a1a9506c9ac9a272cd4c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 0360d5a4ca4f761e1eac3775d981111101f72f3c
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640181"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044815"
 ---
 # <a name="yammer-service-description"></a>Yammer 服務說明
 
@@ -44,7 +44,7 @@ Yammer 可透過下列計劃取得：
 |[Yammer Enterprise](https://go.microsoft.com/fwlink/?LinkId=691122) <br/> |具備進階安全性、系統管理和整合功能的企業社交網路。  <br/> |
    
 > [!NOTE]
-> [Office 365 platform 服務描述](../office-365-platform-service-description/office-365-platform-service-description.md)中所述的功能和原則不適用於 Yammer 服務。 
+> [Microsoft 365 和 Office 365 平臺服務說明](../office-365-platform-service-description/office-365-platform-service-description.md)中所述的功能和原則不適用於 Yammer 服務。 
   
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer 企業服務通訊原則
 <a name="YammerCommsPolicy"> </a>

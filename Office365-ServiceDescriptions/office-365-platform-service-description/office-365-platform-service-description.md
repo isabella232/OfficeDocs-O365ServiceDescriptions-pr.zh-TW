@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 和 Office 365 平臺服務說明
+title: Microsoft 365 和 Office 365 平台服務說明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組織的需求。 如果您正在尋找方案（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
-ms.openlocfilehash: d6ec64226e4a61c2e5e5063d7f89d7e33bdb6688
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: be73f1d01d166697377f9670759810b7d738f2cd
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002053"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044975"
 ---
-# <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平臺服務說明
+# <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服務說明
 
 Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組織的需求。 如果您正在尋找方案（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
   
 Microsoft 365 和 Office 365 可將雲端生產力的功能提供給各種規模的企業，協助節約時間、金錢，並釋放價值資源。 Microsoft 365 和 Office 365 方案將熟悉的 Microsoft Office 桌面套件與雲端架構版本的 Microsoft 新一代通訊和共同作業服務（包括 Microsoft Exchange Online、Microsoft SharePoint Online、web Office）和 Microsoft 商務用 Skype Online 結合在一起，以協助使用者從幾乎任何地方透過網際網路進行生產力。
   
-若要跨方案比較功能，請參閱[比較計畫](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)或如需更詳細的功能清單，請參閱[Office 365 服務說明](../office-365-service-descriptions-technet-library.md)中的相關服務描述。
+若要跨方案比較功能，請參閱[比較計畫](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，或如需更詳細的功能清單，請參閱[Microsoft 365 和 Office 365 服務說明](../office-365-service-descriptions-technet-library.md)底下的相關服務說明。
   
 - 如需 Office 365 教育方案的詳細資訊，請從[Office 365 教育](office-365-education.md)版頁面開始。 
     
@@ -43,17 +43,17 @@ Microsoft 365 和 Office 365 可將雲端生產力的功能提供給各種規模
   
 若要瞭解大量授權，請參閱[授權條款和檔](https://go.microsoft.com/fwlink/?linkid=848696)。
   
-## <a name="office-365-nonprofit-plans-and-pricing"></a>Office 365 非營利組織版的方案與價格
+## <a name="microsoft-365-and-office-365-nonprofit-plans-and-pricing"></a>Microsoft 365 和 Office 365 非盈利性方案和價格
 
-對符合 Office 365 非營利組織版計畫的組織來說，這些計畫包含的功能與相對應的商務版方案完全相同 (例如，Office 365 非營利組織版的 Enterprise E5 包含的功能與 Office 365 Enterprise E5 相同)。這些對等方案之間的唯一差別是您支付的價格。如需有關 Office 365 非營利組織版方案的詳細資訊，請參閱 [Office 365 非營利組織版的方案和價格](https://go.microsoft.com/fwlink/?LinkID=627221)，以及此[常見問題集](https://go.microsoft.com/fwlink/?LinkID=786641)。
+針對符合 Microsoft 365 或 Office 365 非盈利性方案的組織，這些方案包含與對應商務方案完全相同的功能（例如，Office 365 非贏利 E5 包含與 Office 365 E5 相同的功能）。 這些對等方案之間的唯一差別是您支付的價格。 如需 Microsoft 365 和 Office 365 非盈利性方案的詳細資訊，請參閱[比較 Microsoft 365 與 office 365 的非贏利服務](https://go.microsoft.com/fwlink/?LinkID=627221)和此[常見問題](https://go.microsoft.com/fwlink/?LinkID=786641)。
   
 ## <a name="system-requirements"></a>系統需求
 
-如需適用於企業、教育和政府組織的 Office 365 每月訂閱型服務的系統需求，請參閱 [Office 365 系統需求](https://products.office.com/office-system-requirements/#Office365forBEG)。
+如需 Microsoft 365 和 Office 365 的系統需求、商務、教育和政府組織可用的每月訂閱型服務，請參閱[Microsoft 365 和 Office 的系統需求](https://products.office.com/office-system-requirements/#Office365forBEG)。
   
 ## <a name="service-level-agreement"></a>服務等級協定
 
-如需服務等級協定的詳細資訊，請參閱[服務等級協定](https://go.microsoft.com/fwlink/?linkid=843153)。 如需有關 Office 365 最近運作時間的詳細資訊，請參閱 [Office 365 的透明化作業](https://go.microsoft.com/fwlink/?linkid=848695)。
+如需服務等級協定的詳細資訊，請參閱[服務等級協定](https://go.microsoft.com/fwlink/?linkid=843153)。 如需最近上線時間 for Office 365 的詳細資訊，請參閱[服務健康情況和持續性](https://go.microsoft.com/fwlink/?linkid=848695)。
   
 ## <a name="security-amp-compliance-center"></a>安全性&amp;與合規性中心
 
@@ -61,7 +61,7 @@ Microsoft 365 和 Office 365 可將雲端生產力的功能提供給各種規模
   
 ## <a name="data-storage-location"></a>資料儲存位置
 
-若要瞭解資料的儲存位置，請參閱[資料儲存區對應](https://products.office.com/where-is-your-data-located)。 
+若要瞭解資料的儲存位置，請參閱[客戶資料的儲存位置](https://docs.microsoft.com/office365/enterprise/o365-data-locations)。 
   
 ## <a name="multi-geo-capabilities"></a>多地理位置功能 
 
@@ -69,7 +69,7 @@ Microsoft 365 和 Office 365 可將雲端生產力的功能提供給各種規模
   
 可用 Geos：亞太，澳大利亞，加拿大，歐洲同盟，印度，日本，韓國，英國，美國。 
   
-若要深入瞭解深入瞭解，請參閱[介紹多地理](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016)位置。
+若要深入瞭解，請參閱[在 Office 365 中引入多地理位置](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016)。
   
 ## <a name="feature-availability-across-plans"></a>不同方案中可用的功能
 
@@ -83,8 +83,8 @@ Microsoft 365 和 Office 365 可將雲端生產力的功能提供給各種規模
     
 - 美國政府版：[Office 365 美國政府版方案](https://go.microsoft.com/fwlink/?LinkID=827898)
     
-- 非營利組織版：[Office 365 非營利組織版方案和價格](https://go.microsoft.com/fwlink/?LinkID=733237)
-    
+- 非盈利性：[比較 Microsoft 365 和 Office 365 非盈利性優惠](https://go.microsoft.com/fwlink/?LinkID=733237)
+
 - Office 365 Germany：[Office 365 Germany 方案](https://go.microsoft.com/fwlink/?linkid=839016)
     
 Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的附加元件。 附加元件可為訂閱提供額外的功能。 如需詳細資訊，請參閱[購買或編輯附加](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)元件中的「可用於不同版本的 Microsoft 365 的附加元件」。
@@ -95,7 +95,7 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 |**[Microsoft 365 管理](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||||||
 |使用e Microsoft 365 系統管理中心或 Windows PowerShell 來管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 資訊保護 來保護內容  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |是  <br/> |是  <br/> |否<sup>2</sup> <br/> |
-|**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Microsoft 365 商務基本版** <br/> |**Microsoft 365 Apps 商務版** <br/> |**Microsoft 365 商務標準版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F3** <br/> |
+|**[Microsoft 365 套件功能](office-365-suite-features.md)** <br/> |**Microsoft 365 商務基本版** <br/> |**Microsoft 365 Apps 商務版** <br/> |**Microsoft 365 商務標準版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F3** <br/> |
 |Microsoft Bookings  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |否<sup>19</sup>  <br/> |否<sup>19</sup>  <br/> |否  <br/> |
 |Microsoft 簡報電子郵件<sup>22</sup>  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Power Automate  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>13</sup> <br/> |
@@ -197,7 +197,7 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 |FISMA 操作授權  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft 資料處理協議  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |PCI 規範 PAN 資料  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|**[服務連續性](service-health-and-continuity.md)** <br/> ||||||||
+|**[服務健康狀況和持續性](service-health-and-continuity.md)** <br/> ||||||||
 |**[BlackBerry](blackberry.md)** <br/> |**Microsoft 365 商務基本版** <br/> |**Microsoft 365 Apps 商務版** <br/> |**Microsoft 365 商務標準版** <br/> **Office 365 Germany 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F3** <br/> |
 |使用 BlackBerry Internet Service (BIS)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[協力程式](partners.md)** <br/> ||||||||

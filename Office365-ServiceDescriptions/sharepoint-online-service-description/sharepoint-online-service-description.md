@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 請參閱哪些 SharePoint 功能可用於哪些方案。
-ms.openlocfilehash: 52ae355158a5c801500c85b6ce6f796762503673
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e24e8cb36aee1121381617279903ca1ac686e58b
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639841"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044785"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服務描述
 
@@ -82,7 +82,7 @@ Microsoft 365 中的 OneDrive 是為組織內的個別使用者提供線上存�
 
 若要深入瞭解 Microsoft Power Apps 和 Power availability 的可用性，請參閱[Power app 及 power availability FAQs 的授權](/power-platform/admin/powerapps-flow-licensing-faq)。
 
-若要深入瞭解 Microsoft Graph 的可用性，請參閱[Office 365 Platform 服務說明](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)
+若要深入瞭解 Microsoft Graph 的可用性，請參閱[microsoft 365 和 Office 365 平臺服務說明](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)。
 
 ## <a name="it-admin-features"></a>IT 系統管理功能
 
@@ -203,6 +203,6 @@ SharePoint 會與 Microsoft 365 的高級安全性和相容性功能整合。 �
 - [搜尋中心（傳統搜尋）](/sharepoint/manage-search-center)
 - [搜尋架構（傳統和新式搜尋）](/sharepoint/manage-search-schema)
 
-如需 Delve 的資訊，請參閱[Office 365 platform service description](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。 
+如需 Delve 的資訊，請參閱[Microsoft 365 和 Office 365 平臺服務說明](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。 
 
 
