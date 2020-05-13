@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 取得 Exchange Online Protection 功能和需求的相關資訊。 包含提供 Exchange Online Protection 的方案清單，以及各項方案中功能的比較。
-ms.openlocfilehash: 86c3084ec8f3f7d845b2c99b1c4adf5814cc0f77
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 3a52d682c4aa181c549e3e2d96ea8645ccae6260
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640171"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213975"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服務說明
 
@@ -33,7 +33,7 @@ Microsoft Exchange Online Protection (EOP) 是雲端式的電子郵件篩選服�
 
 - **在混合式部署中**：EOP 可以設定為保護您的郵件環境，並在您混合使用內部部署及雲端信箱時控制郵件路由傳送。
 
-若要跨方案比較功能，請參閱[比較 Microsoft 365 for business 方案](https://products.office.com/business/compare-more-office-365-for-business-plans)。
+若要跨方案比較功能，請參閱[強大的工具來支援您的企業](https://products.office.com/business/compare-more-office-365-for-business-plans)。
 
 若要購買 Exchange Online Protection，請參閱 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)。
 
@@ -42,7 +42,7 @@ Microsoft Exchange Online Protection (EOP) 是雲端式的電子郵件篩選服�
 
 ## <a name="whats-new-in-exchange-online-protection-eop"></a>Exchange Online Protection (EOP) 的新功能
 
-[Microsoft 365 for business 藍圖](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx)是找出即將推出之新功能之相關資訊的有用資源。
+[Microsoft 365 藍圖](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx)是用來找出即將推出之新功能之相關資訊的有用資源。
 
 ## <a name="exchange-online-protection-eop-plans"></a>Exchange Online Protection (EOP) 計劃
 
@@ -62,7 +62,7 @@ Microsoft Exchange Enterprise CAL with Services 提供 EOP 的電子郵件保護
 
 - [使用 Web 服務報告](reporting-and-message-trace.md#reporting-using-web-services)
 
-如需 Exchange Enterprise CAL with Services 授權的詳細資訊，請參閱[Exchange Server 授權](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)。
+如需 Exchange Enterprise CAL with Services 授權的詳細資訊，請參閱[Exchange 授權 FAQs](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)。
 
 如果您有 Exchange Enterprise CAL with Services 授權，且您想要布建 EOP，請依照[設定 EOP 服務](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service)中的指示進行。 其設定步驟與獨立式 EOP 的設定步驟相同。
 
@@ -83,7 +83,7 @@ EOP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**功能**|**獨立式 EOP**|**Exchange Online 中<br/>的 EOP 功能**|**Exchange Enterprise <br/> CAL with Services**|
+|**功能**|**獨立式 EOP**|**Exchange Online 中的 EOP 功能 <br/>**|**Exchange Enterprise <br/> CAL With Services**|
 |[收件者](recipient-domain-and-company-management.md#mail-recipients)|是<sup>1</sup>|是<sup>1</sup>|是|
 |[系統管理角色群組權限](recipient-domain-and-company-management.md#admin-role-group-permissions)|是<sup>2</sup>|是|是|
 |[網域管理](recipient-domain-and-company-management.md#domain-management)|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|
@@ -119,7 +119,7 @@ EOP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 EOP 中的<sup>4 個</sup>郵件流程規則（也稱為傳輸規則）是在[Exchange Online Protection 中的郵件流程規則（傳輸規則）](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)中說明。 EOP 與 Exchange Online 之間的可用郵件流程規則條件、例外狀況和動作略有不同。 在 Exchange Online 中的[郵件流程規則條件和例外狀況（](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)述詞）和[exchange Online 中的郵件流程規則動作](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)都有這些差異。<br/>
 <sup>5</sup> EOP 稽核報告是 Exchange Online 稽核報告的子集，但不包括信箱的相關資訊。 <br/>
 <sup>6</sup> DLP 原則祕訣不適用於 Exchange Enterprise CAL with Services 客戶。  <br/>
-<sup>7</sup> 預設的內容篩選動作，就是將垃圾郵件移至收件者的 [垃圾郵件] 資料夾。 若要使用內部部署 Exchange 信箱，您也需要在內部部署 Exchange 組織中設定兩個傳輸規則，以偵測 EOP 新增的垃圾郵件頭。 如需詳細資訊，請參閱[確定垃圾郵件路由傳送至每個使用者的垃圾郵件資料夾](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)。 <br/>
+<sup>7</sup> 預設的內容篩選動作，就是將垃圾郵件移至收件者的 [垃圾郵件] 資料夾。 若要使用內部部署 Exchange 信箱，您也需要在內部部署 Exchange 組織中設定兩個傳輸規則，以偵測 EOP 新增的垃圾郵件頭。 如需詳細資訊，請參閱[Configure 獨立 EOP 以將垃圾郵件傳遞至混合式環境中的 [垃圾郵件] 資料夾](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)。 <br/>
 <sup>9</sup> EOP 報告是 Exchange Online 報告的子集，但不包括信箱的相關資訊。<br/>
 <sup>10</sup> 包括 DLP 報告。 <br/>
 <sup>12</sup>對於購買 Azure 資訊保護並使用 Exchange online Protection 透過 exchange online 路由電子郵件的內部部署客戶提供支援。 <br/>

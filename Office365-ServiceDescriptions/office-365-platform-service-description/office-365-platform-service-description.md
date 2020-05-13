@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組織的需求。 如果您正在尋找方案（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
-ms.openlocfilehash: be73f1d01d166697377f9670759810b7d738f2cd
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 8c050d771976fb70707f0d781edaa9fdcbcb76fe
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044975"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214005"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服務說明
 
@@ -27,7 +27,7 @@ Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組
   
 Microsoft 365 和 Office 365 可將雲端生產力的功能提供給各種規模的企業，協助節約時間、金錢，並釋放價值資源。 Microsoft 365 和 Office 365 方案將熟悉的 Microsoft Office 桌面套件與雲端架構版本的 Microsoft 新一代通訊和共同作業服務（包括 Microsoft Exchange Online、Microsoft SharePoint Online、web Office）和 Microsoft 商務用 Skype Online 結合在一起，以協助使用者從幾乎任何地方透過網際網路進行生產力。
   
-若要跨方案比較功能，請參閱[比較計畫](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，或如需更詳細的功能清單，請參閱[Microsoft 365 和 Office 365 服務說明](../office-365-service-descriptions-technet-library.md)底下的相關服務說明。
+若要跨方案比較功能，請參閱[強大的工具來支援您的企業](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409); 若要瞭解更詳細的功能清單，請參閱[Microsoft 365 和 Office 365 服務說明](../office-365-service-descriptions-technet-library.md)底下的相關服務說明。
   
 - 如需 Office 365 教育方案的詳細資訊，請從[Office 365 教育](office-365-education.md)版頁面開始。 
     
@@ -45,19 +45,19 @@ Microsoft 365 和 Office 365 可將雲端生產力的功能提供給各種規模
   
 ## <a name="microsoft-365-and-office-365-nonprofit-plans-and-pricing"></a>Microsoft 365 和 Office 365 非盈利性方案和價格
 
-針對符合 Microsoft 365 或 Office 365 非盈利性方案的組織，這些方案包含與對應商務方案完全相同的功能（例如，Office 365 非贏利 E5 包含與 Office 365 E5 相同的功能）。 這些對等方案之間的唯一差別是您支付的價格。 如需 Microsoft 365 和 Office 365 非盈利性方案的詳細資訊，請參閱[比較 Microsoft 365 與 office 365 的非贏利服務](https://go.microsoft.com/fwlink/?LinkID=627221)和此[常見問題](https://go.microsoft.com/fwlink/?LinkID=786641)。
+針對符合 Microsoft 365 或 Office 365 非盈利性方案的組織，這些方案包含與對應商務方案完全相同的功能（例如，Office 365 非贏利 E5 包含與 Office 365 E5 相同的功能）。 這些對等方案之間的唯一差別是您支付的價格。 如需 Microsoft 365 和 Office 365 非盈利性方案的詳細資訊，請參閱[比較 Microsoft 365 與 office 365 的非贏利服務](https://go.microsoft.com/fwlink/?LinkID=627221)，以及[非營利組織的生產力解決方案](https://go.microsoft.com/fwlink/?LinkID=786641)。
   
 ## <a name="system-requirements"></a>系統需求
 
-如需 Microsoft 365 和 Office 365 的系統需求、商務、教育和政府組織可用的每月訂閱型服務，請參閱[Microsoft 365 和 Office 的系統需求](https://products.office.com/office-system-requirements/#Office365forBEG)。
+如需適用于企業、教育和政府組織的每月訂閱型服務的系統 365 365 需求，請參閱[microsoft 365 和 Office 資源的系統需求](https://products.office.com/office-system-requirements/#Office365forBEG)。
   
 ## <a name="service-level-agreement"></a>服務等級協定
 
 如需服務等級協定的詳細資訊，請參閱[服務等級協定](https://go.microsoft.com/fwlink/?linkid=843153)。 如需最近上線時間 for Office 365 的詳細資訊，請參閱[服務健康情況和持續性](https://go.microsoft.com/fwlink/?linkid=848695)。
   
-## <a name="security-amp-compliance-center"></a>安全性&amp;與合規性中心
+## <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 
-如需安全性&amp;與合規性中心的詳細資訊，以及其他資訊與可用性的連結，請參閱[安全性&amp;合規性中心](office-365-securitycompliance-center.md)。
+如需安全性 &amp; 與合規性中心的詳細資訊，以及其他資訊與可用性的連結，請參閱[安全性 &amp; 合規性中心](office-365-securitycompliance-center.md)。
   
 ## <a name="data-storage-location"></a>資料儲存位置
 
@@ -197,7 +197,6 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 |FISMA 操作授權  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft 資料處理協議  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |PCI 規範 PAN 資料  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|**[服務健康狀況和持續性](service-health-and-continuity.md)** <br/> ||||||||
 |**[BlackBerry](blackberry.md)** <br/> |**Microsoft 365 商務基本版** <br/> |**Microsoft 365 Apps 商務版** <br/> |**Microsoft 365 商務標準版** <br/> **Office 365 Germany 商務進階版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F3** <br/> |
 |使用 BlackBerry Internet Service (BIS)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[協力程式](partners.md)** <br/> ||||||||
@@ -209,9 +208,9 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 > <sup>1</sup> Microsoft 365 和 Office 365 不提供支援任何不受制造商支援的作業系統。 
 <br/><sup>2</sup> Azure 資訊保護未包含在內，但能以個別的附加元件形式購買，並且會啟用支援的資訊版權管理（IRM）功能。 部分 Azure 資訊保護功能需要訂閱 Microsoft 365 應用程式，但不包含在 Microsoft 365 Business Basic、Microsoft 365 Business Standard、Office 365 企業版 E1、Office 365 教育版或 Office 365 Enterprise F3 中。 隨附于 Microsoft 365 應用程式的 Office 用戶端應用程式也支援完整的 Azure 資訊保護（方案1）功能。
 <br/><sup>3</sup>如果使用與本機 active directory 的目錄同步處理，則必須使用本機 active directory，而365非使用 Windows PowerShell 的 Azure Active directory 模組來刪除帳戶或變更密碼。 
-<br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/). 
+<br/><sup>4</sup>若要瞭解如何為使用者設定自助密碼管理原則，請參閱[使用安全性資訊重設工作或學校密碼](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)。 
 <br/><sup>6</sup> Reducing seats that were purchased with a term discount may be subject to an early termination fee. 這不適用於每月付款的訂閱。 
-<br/><sup>7</sup>可用於[https://securescore.office.com](https://securescore.office.com)。 需要系統管理員許可權。 如需詳細資訊，請參閱[簡介 Microsoft Secure 得分](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)。 
+<br/><sup>7</sup>在[Microsoft Secure 得分](https://securescore.office.com)安全性頁面上提供。 需要系統管理員許可權。 如需詳細資訊，請參閱[Microsoft 安全分數](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)。 
 <br/><sup>8</sup>某些地區的客戶目前無法使用 Microsoft Sway。 某些於 2015 年 8 月已不在市面的舊版的 Office 365 方案，可能也無法使用 Microsoft Sway。 
 <br/><sup>9</sup> Diminished experience. If your organization is dependent upon Internet Explorer 8 or Internet Explorer 9 to access older web apps and services, you may want to consider upgrading to Internet Explorer 11 and evaluating Enterprise Mode for Internet Explorer 11. This update helps provide better backward compatibility for legacy web apps. 
 <br/><sup>10 個</sup>microsoft 團隊可在 Microsoft 365 商務版、Microsoft 365 商務版、Office 365 企業版（E1、E3、E5、F3）和 Office 365 教育版方案中取得。 
@@ -225,5 +224,5 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 <br/><sup>18</sup>從2019年5月開始，backfilled Office 365 和 Microsoft 365 的現有合格 SKUs 會與 Kaizala Pro 一起使用。 從2019年6月1日開始，Kaizala Pro 將會包含在所有合格的 Office 365 和 Microsoft 365 SKUs 中。
 <br/><sup>19</sup>可用為免費附加元件。 如需詳細資訊，請參閱[取得 Microsoft 預約存取權](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce)。
 <br/><sup>20</sup>如需詳細資訊，請參閱[MyAnalytics 方案和環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。
-<br/><sup>21</sup>包含[azure active directory 定價頁面](https://azure.microsoft.com/pricing/details/active-directory/)上的**Office 365 應用程式**欄中所述的 Azure Active Directory 功能。 您必須加入 Azure Active Directory Plan 1 或 Plan 2、Enterprise Mobile Security 或 Microsoft 365 E3 或 E5 以取得 premium Azure AD 功能。<br/>
+<br/><sup>21</sup>包含[azure active directory 定價](https://azure.microsoft.com/pricing/details/active-directory/)頁面上的**Office 365 應用程式**欄中所述的 Azure Active Directory 功能。 您必須加入 Azure Active Directory Plan 1 或 Plan 2、Enterprise Mobile Security 或 Microsoft 365 E3 或 E5 以取得 premium Azure AD 功能。<br/>
 <sup>22</sup>簡報電子郵件會自動提供給 Exchange Online 的所有使用者。 如需詳細資訊，請參閱[設定簡報電子郵件](https://docs.microsoft.com/Briefing/be-admin)。<br>

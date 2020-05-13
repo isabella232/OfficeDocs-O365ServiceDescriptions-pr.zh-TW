@@ -14,41 +14,41 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
-ms.openlocfilehash: e5e80af8a6a099d8de12d02db334bdb507dcaf21
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f8c7a3b5d070fa51780e85f57a4a7176ca5c970b
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639751"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213785"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
 您在尋找包含 Exchange Online 之訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
   
 > [!NOTE]
-> 如果您需要某項工作的協助，或是要針對某個問題進行疑難排解，您可能會發現下列文章很實用： <br/>
+> 如果您需要某項工作的協助，或是您要對問題進行疑難排解，您可能會發現下列資源有所説明： <br/>
 [電子郵件](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed)，用於協助建立及傳送電子郵件。 <br/> 
-[Microsoft 365 for business 中的電子郵件-系統管理說明](https://docs.microsoft.com/office365/admin/email/email)<br/> 
-[使用適用于 Office 365 的 Microsoft 支援和修復小幫手，修正 Outlook 和 Microsoft 365 的問題](https://diagnostics.office.com/)<br/> 
-[Office 365 中的電子郵件未傳遞回報](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
+[管理電子郵件和行事曆](https://docs.microsoft.com/office365/admin/email/email)<br/> 
+[關於 Microsoft 支援與修復助理](https://diagnostics.office.com/)<br/> 
+[Exchange Online 中的電子郵件未傳遞回報](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
 [Exchange Online 說明](https://docs.microsoft.com/exchange/exchange-online)
   
 Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsoft Exchange Server 功能作為雲端式服務。它可讓使用者從個人電腦、Web 和行動裝置存取電子郵件、行事曆、連絡人與工作。它與 Active Directory 完全整合，可讓系統管理員使用群組原則以及其他管理工具，進而在其整個環境中管理 Exchange Online 功能。
   
 訂閱 Exchange Online 的組織可控制其提供給使用者的訊息服務，而不需要負擔內部部署伺服器軟體的運作責任。 透過本文件所述的 Exchange Online 託管計劃，電子郵件會託管於伺服器上，這些伺服器可同時支援多個客戶。 這些伺服器是存放在 Microsoft 資料中心，可供使用者從公司網路內部或透過網際網路，存取範圍廣泛的裝置。
   
-若要跨方案比較功能，請參閱[比較 Microsoft 365 for business 方案](https://products.office.com/business/compare-more-office-365-for-business-plans)。 若要比較 Office 365 Germany 的方案，請參閱 [Office 365 Germany 訂閱方案](https://go.microsoft.com/fwlink/?linkid=839016)。
+若要跨方案比較功能，請參閱[強大的工具來支援您的企業](https://products.office.com/business/compare-more-office-365-for-business-plans)。 若要比較 Office 365 Germany 的方案，請參閱 [Office 365 Germany 訂閱方案](https://go.microsoft.com/fwlink/?linkid=839016)。
   
 > [!TIP]
-> 您可以在 Microsoft 服務描述中匯出、儲存及列印頁面。 了解如何[匯出多個頁面](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。 
+> 您可以在 Microsoft 服務描述中匯出、儲存及列印頁面。 瞭解如何[匯出內容搜尋結果](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。 
   
-## <a name="whats-new-in-exchange-online"></a>Exchange Online 的新功能
+## <a name="whats-new-in-exchange-admin-center"></a>Exchange 系統管理中心的新功能
 
-如需有關 Exchange Online 新增功能的資訊，請參閱 [Exchange Online 新增功能](https://docs.microsoft.com/exchange/exchange-online)。
+如需 Exchange 系統管理中心中新功能的相關資訊，請參閱[exchange 系統管理中心的新](https://docs.microsoft.com/exchange/whats-new)功能。
   
 ## <a name="plans-for-exchange-online"></a>Exchange Online 的計畫
 
-Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不同計畫的相關資訊，包括獨立計畫選項及從一個計畫移至另一個計畫的資訊，請參閱[Microsoft 365 plan options](../office-365-platform-service-description/office-365-plan-options.md)。
+Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不同計畫的相關資訊，包括獨立計畫選項及從一個計畫移至另一個計畫的資訊，請參閱[Office 365 plan options](../office-365-platform-service-description/office-365-plan-options.md)。
   
 必須將訂閱計劃指派給存取 Exchange Online 服務的每一位使用者，並且每一個使用者訂閱都有其自己的信箱。這些信箱中的資料夾和訊息存在於 Microsoft 資料中心上執行 Exchange Server 的電腦上。
   
@@ -56,7 +56,7 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
   
 ## <a name="system-requirements-for-exchange-online"></a>Exchange Online 的系統需求
 
-如需適用于企業、教育和政府組織的系統需求、每月訂閱型服務，請參閱[Microsoft 365 系統需求](https://products.office.com/office-system-requirements/#Office365forBEG)。
+如需適用于企業、教育和政府組織的系統需求、每月訂閱型服務，請參閱[Microsoft 365 和 Office 資源](https://products.office.com/office-system-requirements/#Office365forBEG)。
   
 ## <a name="storage-and-recipient-limits-for-exchange-online"></a>Exchange Online 的儲存區和收件者限制
 
@@ -178,7 +178,7 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 <sup>2</sup>未包含 Azure 資訊保護，但可以個別的附加元件形式購買，並且會啟用支援的資訊版權管理（IRM）功能。 部分 Azure 資訊保護功能需要訂閱 Microsoft 365 應用程式，但不包含在 Microsoft 365 Business Basic、Microsoft 365 Business Standard、Office 365 企業版 E1、Office 365 教育版或 Office 365 Enterprise F3 中。 <br/>
 <sup>3</sup> Windows Server AD RMS 是內部部署伺服器，必須個別採購並管理，以便啟用支援的 IRM 功能。 <br/>
 <sup>4</sup>傳輸規則是由彈性準則所組成，可讓您定義條件和例外狀況，以及依據準則所採取的動作。 MO_ExchangeOnline 和 Microsoft ExchangeServer2013 之間可用的準則和動作並不相同。 如需可用準則和動作的清單，請參閱每一個產品對應的準則和動作主題。 <br/>
-<sup>5</sup>針對 exchange 2013，DLP 需要 Exchange 企業用戶端存取許可證（CAL）。 如需 CAL 和伺服器授權的詳細資訊，請參閱 [Exchange Server 授權](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)。 <br/>
+<sup>5</sup>針對 exchange 2013，DLP 需要 Exchange 企業用戶端存取許可證（CAL）。 如需 Cal 和伺服器授權的詳細資訊，請參閱[Exchange 授權 FAQs](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)。 <br/>
 <sup>6</sup> exchange server 2013 的內建反垃圾郵件功能，與 Exchange server 2010 相同。 如需透過內部部署產品進行 Exchange 主控垃圾郵件篩選的優點資訊，請參閱 exchange [Server 2013 上 Exchange Online Protection 中 Anti-Spam 功能的優點](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)。 <br/>
 <sup>7</sup>只能透過直接存取 Exchange 系統管理中心（EAC）管理介面進行存取。 <br/>
 <sup>8</sup> Exchange Server 2013 只會使用 Microsoft 反惡意程式碼引擎。 Exchange Online 使用多個反惡意程式碼引擎，來掃描輸入、輸出和內部訊息中是否有惡意程式碼。 <br/>
@@ -195,7 +195,7 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 <sup>19</sup>某些協力廠商的 web 元件和增益集可能無法使用。 <br/>
 <sup>20</sup>針對 eDiscovery，您需要針對內部部署與雲端使用個別查詢。 <br/>
 <sup>21</sup>該表會指出用戶端是否與相關聯的計畫一起運作。 其並不代表這些計劃的採購中必須包含用戶端。 <br/>
-<sup>22</sup>如需詳細資訊，請參閱[使用客戶金鑰控制您的資料](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
+<sup>22</sup>如需詳細資訊，請參閱[Service Encryption with Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
 <sup>23</sup>透過從客戶運作 SBCs 直接連線到協力廠商 PBX 系統的 EXCHANGE Online UM 支援會在2019年4月結束。 如需詳細資訊，請參閱 Exchange 小組部落格[停止 Exchange Online 整合通訊中的工作階段邊界控制器支援](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)。 <br/>
 <sup>24</sup> a F3 使用者無法將委派新增至自己的信箱，但他們可以存取另一個信箱（包括共用信箱），並執行已委派給他們的任何動作。
   
@@ -244,7 +244,7 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 |容量警示|是|是|是|是|是|
 |雜亂資料|否|否|是|是|是|
 |MailTips|是|是|是|是|是|
-|委派存取|是|是|Yes\|是|否|
+|委派存取|是|是|Yes \| 是|否|
 |收件匣規則|是|是|是|是|是|
 |連結帳戶|是|是|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|
 |非使用中的信箱|否|否|否 <sup>6</sup>|是|否 <sup>6</sup>|
@@ -314,7 +314,7 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 <sup>7</sup> Exchange Server 2013 只會使用 Microsoft 反惡意程式碼引擎。 Exchange Online 使用多個反惡意程式碼引擎，來掃描輸入、輸出和內部訊息中是否有惡意程式碼。 <br/>
 <sup>8</sup>只能透過直接存取 Exchange 系統管理中心（EAC）管理介面進行存取。 <br/>
 <sup>9</sup> IMAP 不受支援。 <br/>
-<sup>10</sup>針對 exchange 2013 或更新版本，DLP 需要 Exchange 企業用戶端存取許可證（CAL）。 如需 CAL 和伺服器授權的詳細資訊，請參閱 [Exchange Server 授權](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)。 <br/>
+<sup>10</sup>針對 exchange 2013 或更新版本，DLP 需要 Exchange 企業用戶端存取許可證（CAL）。 如需 Cal 和伺服器授權的詳細資訊，請參閱[Exchange 授權 FAQs](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)。 <br/>
 <sup>11</sup>不包含 Azure 資訊保護，但可以個別的附加元件形式購買，並且會啟用支援的資訊版權管理（IRM）功能。 部分 Azure 資訊保護功能需要訂閱 Microsoft 365 應用程式，但不包含在 Microsoft 365 Business Basic、Microsoft 365 Business Standard、Office 365 企業版 E1、Office 365 教育版或 Office 365 Enterprise F3 中。 Office 365 郵件加密取決於 Azure 資訊保護。 <br/>
 <sup>12</sup> WINDOWS SERVER AD RMS 是內部部署伺服器，必須個別採購並管理，以便啟用支援的 IRM 功能。 <br/>
 <sup>13</sup>支援執行 Exchange Server 2013 或更新版本的客戶，以購買 Azure 資訊保護。 Office 365 郵件加密需要內部部署客戶使用 Exchange Online Protection 進行電子郵件篩選，或是建立混合式郵件流程，以在 Exchange Online 中路由傳送電子郵件。 <br/>
@@ -328,4 +328,4 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 <sup>21</sup>某些協力廠商的 web 元件和增益集可能無法使用。 <br/>
 <sup>22</sup>對於 eDiscovery，您需要針對內部部署與雲端使用個別查詢。 <br/>
 <sup>23</sup> Exchange Online 展臺不會提供與內部部署伺服器的使用方式存取權。 為相容性，客戶必須購買或先前購買適當的 Cal，或升級至提供這些訪問權力的 Enterprise SKU。 <br/>
-<sup>24</sup>個 Office 365 群組可提供更少的功能。
+<sup>24</sup>個可用的功能的 Microsoft 365 群組。

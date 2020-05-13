@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office for web （先前稱為 Office Web Apps）會在網頁瀏覽器中開啟 Word、Excel、OneNote 及 PowerPoint 檔。 Office for web 可讓您更輕鬆地從任何地方使用網際網路連線與共享 Office 檔案，從幾乎任何裝置。 Microsoft 365 客戶使用 Word、Excel、OneNote 或 PowerPoint 可以在旅途中查看、建立及編輯檔案。
-ms.openlocfilehash: 12130b5aaa77a3e84748a9e60e3864559a21b4e3
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 447ea8b31424f1c37ecd5a76ee60014d94df9f26
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640131"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213985"
 ---
 # <a name="office-for-the-web-service-description"></a>網頁版 Office 服務描述
 
 Office for web （先前稱為 Office Web Apps）會在網頁瀏覽器中開啟 Word、Excel、OneNote 及 PowerPoint 檔。 Office for web 可讓您更輕鬆地從任何地方使用網際網路連線與共享 Office 檔案，從幾乎任何裝置。 Microsoft 365 客戶使用 Word、Excel、OneNote 或 PowerPoint 可以在旅途中查看、建立及編輯檔案。 
   
-若要跨方案比較功能，請參閱[比較 Microsoft 365 for business 方案](https://products.office.com/business/compare-more-office-365-for-business-plans)。
+若要跨方案比較功能，請參閱[強大的工具來支援您的企業](https://products.office.com/business/compare-more-office-365-for-business-plans)。
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>每個 Office 的網路方案功能可用性
 

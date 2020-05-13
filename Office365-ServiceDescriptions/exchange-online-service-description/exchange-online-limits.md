@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
-ms.openlocfilehash: 2a81ed79a248e7d8880c9539775d8e9d7d1748dc
-ms.sourcegitcommit: 12e74155cfe2a17c66fd8ef8985d40ebcdff63e5
+ms.openlocfilehash: 8dec4101dae6af37e4001481d6651fac959b60c6
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43790454"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213865"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -390,6 +390,9 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 - **從 [刪除的郵件] 資料夾移除之專案的保留期間**：從 [刪除的郵件] 資料夾移除的專案在被永久刪除之前，可保留的天數上限。
 
 - [**垃圾郵件] 資料夾保留期間**：專案在自動移除之前可保留在 [垃圾郵件] 資料夾中的天數上限。
+
+> [!NOTE]
+> 虛刪除的使用者信箱 &mdash; 使用 Microsoft 365 系統管理中心或 Remove-Mailbox Cmdlet 在 Exchange Online PowerShell 中刪除的信箱，且仍在 Azure Active Directory 回收站中的信箱 &mdash; 可在30天內復原。
 
 ### <a name="retention-limits"></a>保留限制
 

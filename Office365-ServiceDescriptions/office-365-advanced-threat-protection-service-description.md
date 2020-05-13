@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced 威脅防護（ATP）是一種雲端式電子郵件篩選服務，可協助您的組織抵禦未知的惡意程式碼和病毒，方法是提供強健的零日保護，並提供一些功能，以即時保護您的組織不受有害連結。
-ms.openlocfilehash: 9316cf30bb195b540c2653d66154c672af49000c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4e39c40c0448e35ed0df554499a6c2aa2d5c404c
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640141"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213945"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 進階威脅防護服務說明
 
@@ -61,7 +61,7 @@ ATP 包含在 Office 365 企業版 E5、Office 365 教育版 A5 和 Microsoft 36
 
 若要購買 Office 365 進階威脅防護，請參閱 [Office 365 進階威脅防護](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)。
 
-若要跨方案比較功能，請參閱[比較 Microsoft 365 Apps for business 方案](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，並[探索適合您的 Microsoft 365 企業版解決方案](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)。
+若要跨方案比較功能，請參閱[強大的工具來支援您的企業](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，並[使用 Microsoft 365 轉換您的企業](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)。
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Office 365 進階威脅防護 (ATP) 的新增功能
 
@@ -73,7 +73,7 @@ ATP 包含在 Office 365 企業版 E5、Office 365 教育版 A5 和 Microsoft 36
 
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Office 365 進階威脅防護 (ATP) 的需求
 
-ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Exchange Server。 如需 ATP 所支援的作業系統、網頁瀏覽器和語言的資訊，請參閱 [Exchange Online Protection 中的 Exchange 系統管理中心](https://go.microsoft.com/fwlink/p/?LinkId=282381)中的＜支援的瀏覽器＞和＜支援語言＞小節。
+ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Exchange Server。 如需 ATP 所支援的作業系統、網頁瀏覽器及語言的相關資訊，請參閱[Exchange Online Protection 中 exchange 系統管理中心](https://go.microsoft.com/fwlink/p/?LinkId=282381)的「支援的瀏覽器」和「支援的語言」一節。
 
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>各進階威脅防護 (ATP) 計劃中可用的功能
 
@@ -122,7 +122,7 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 - Microsoft 小組通道和聊天
 
 > [!NOTE]
-> 使用者必須是 ATP<sup>\*</sup>的授權，必須包含在 Atp 安全連結原則中，且必須在裝置上登入，以進行保護。
+> 使用者必須是 ATP 的授權，必須 <sup>\*</sup> 包含在 Atp 安全連結原則中，且必須在裝置上登入，以進行保護。
 >
 > <sup>\*</sup>若為全組織的 ATP 授權（例如，ATP_ENTERPRISE_FACULTY），您不需要將 ATP 授權指派給個別使用者。
 >
@@ -146,7 +146,7 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 Explorer 包含一些視圖，例如惡意程式碼（適用于電子郵件和內容）、提交、網路釣魚和所有電子郵件。 若要查看 Explorer 如何與即時偵測相比較，請[下載此 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
 
-如需 Explorer （Office 365 Advanced 威脅防護方案2）和即時偵測（位於 Office 365 高級威脅防護方案1）中的詳細資訊，請參閱[威脅瀏覽器（和即時偵測）](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)。
+如需 Explorer （Office 365 Advanced 威脅防護方案2）和即時偵測（位於 Office 365 高級威脅防護方案1）中的詳細資訊，請參閱[威脅瀏覽器和即時](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)偵測。
 
 ### <a name="real-time-detections"></a>即時偵測
 

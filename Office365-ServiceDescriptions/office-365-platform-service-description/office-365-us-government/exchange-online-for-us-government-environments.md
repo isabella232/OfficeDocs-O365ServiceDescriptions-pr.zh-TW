@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概要說明美國政府雲端與商業性雲端之間的功能差異（如 Exchange Online 服務說明所列）。
-ms.openlocfilehash: f104f072a74707f46528d9b111d8af46103a919e
-ms.sourcegitcommit: 87c1b1cc9c02e5f446e382f1174cbbccad20196d
+ms.openlocfilehash: b2ea792f6a205cbe6c9031c924a22e7f6d1d3030
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813397"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213695"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>適用于美國政府環境的 Exchange Online
 
@@ -22,7 +22,7 @@ ms.locfileid: "43813397"
 
 如需政府雲端（包括資格和購買）的詳細資訊，請參閱 [Microsoft 365 政府-如何購買](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)。 若要比較 Office 365 政府方案，請參閱 [office 365 政府方案](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
 
-若要深入瞭解管理網路連線時所需的端點，請參閱 [office 365 美國政府版高端點](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) 或 [office 365 美國政府 DoD 端點](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)。
+若要深入瞭解管理網路連線時所需的端點，請參閱 [office 365 美國政府版高端點](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business)   或 [office 365 美國政府 DoD 端點](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)。
 
 除了享受 Office 365 的功能之外，組織還會受益于美國政府雲端環境獨有的下列功能：
 
@@ -65,7 +65,7 @@ ms.locfileid: "43813397"
 |就地保留與訴訟暫止|是|是|是|需要 G3 或 G5 服務方案。|
 |就地 eDiscovery|是|是|是||
 |郵件流程規則|是|是|是||
-|資料外洩防護|否|是|是|需要 G3 或 G5 服務方案。|
+|資料外洩防護|是|是|是|需要 G3 或 G5 服務方案。|
 |日誌|是|是|是||
 |**[反垃圾郵件和反惡意程式碼防護](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC 高**|**DoD**|**主要考慮**|
 |內建反垃圾郵件保護|是|是|是||
@@ -154,9 +154,9 @@ GCC 高和 DoD 環境都是限制的環境，需要明確核准和設定輸出�
 
 由於這些限制，通常不支援依賴此輸出連線的來自 GCC 高端/DoD 環境的功能，包括： 
 
-- 連線的&mdash;帳戶使用者無法新增/同步處理帳戶（Google、POP/IMAP 等等）。 
+- 連線 &mdash; 的帳戶使用者無法新增/同步處理帳戶（Google、POP/IMAP 等等）。 
 
-- 支援協力廠商檔案儲存提供者&mdash;，在擁有者的 *高/DoD* 內，使用者的 OneDrive 商務帳戶，只可在不同的 Outlook 用戶端中存取，以進行附加/共用檔的目的。 無法新增協力廠商儲存體帳戶（收存箱、Box、Google Drive）。 
+- 支援協力廠商檔案儲存提供者，在擁有者的 &mdash;  *高/DoD 內*，使用者的 OneDrive 商務帳戶，只   可在不同的 Outlook 用戶端中存取，以進行附加/共用檔的目的。 無法新增協力廠商儲存體帳戶（收存箱、Box、Google Drive）。 
 
 - 與社交網路的連線，如 Facebook 或 LinkedIn。 
 

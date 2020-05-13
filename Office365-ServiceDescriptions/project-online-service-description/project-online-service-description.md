@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是用於專案組合管理（PPM）和日常工作的彈性線上解決方案。 Project Online 是透過 Office 365 所交付，提供功能強大的專案管理功能，以規劃、設定優先順序以及管理專案和專案組合投資 (幾乎可以從任何位置在任何裝置上使用)。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: 2b54ea0aa1aab30e8c21e6e0ccdbedc92bd8b10e
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 0ab37090e6c31603665c0a457eced04db8f36bfb
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002330"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213875"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -43,13 +43,13 @@ Web 的專案是以 Microsoft Power 平臺為基礎。 電源平臺包括 PowerA
 
 ### <a name="project-online"></a>Project Online
  
-Project Online 是用於專案組合管理（PPM）和日常工作的彈性線上解決方案。 Project Online 可提供強大的專案管理功能，以在幾乎任何裝置上的幾乎任何&mdash;地方規劃、排序及管理專案與專案產品群組的投資。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
+Project Online 是用於專案組合管理（PPM）和日常工作的彈性線上解決方案。 Project Online 可提供強大的專案管理功能，以在 &mdash; 幾乎任何裝置上的幾乎任何地方規劃、排序及管理專案與專案產品群組的投資。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
 
 Project Online 是在 SharePoint 平臺上建立，它會將資料儲存在 SharePoint 資料儲存區中。
 
 Project Online 可透過兩種訂閱進行：專案計劃3和專案方案5。 [ [Project online 功能](#project-online-features)] 區段中所列的功能只會與 project online 中的資料 SharePoint 資料儲存區互動。
 
-Project online 的小組成員功能可透過 Project Online Essentials 訂閱取得。 Project Online 基本版是具有 Project 方案3或 Project 方案5訂閱之客戶的小組成員 *附加* 元件訂閱。 它可讓小組成員的 web 介面，對 Project Online 中管理的專案執行工作和時間更新。
+Project online 的小組成員功能可透過 Project Online Essentials 訂閱取得。 Project Online 基本版是 *add-on*   具有 Project 方案3或 Project 方案5訂閱之客戶的小組成員附加元件訂閱。 它可讓小組成員的 web 介面，對 Project Online 中管理的專案執行工作和時間更新。
 
 具有 Project Online 基本版的小組成員可以執行下列 Project Online 功能：
 
@@ -239,7 +239,7 @@ Microsoft 小組整合 | 針對 Microsoft 團隊中的專案進行共同作業�
 |排序和群組 | 使用自訂排序和群組可取得專案、任務和資源的焦點視圖。|
 |**自訂和整合**||
 |自訂欄位 | 在專案、任務及資源層級新增自訂欄位，以追蹤對您的組織及專案非常重要的資料。 |
-|Forms | 建立及部署自訂表單，以捕獲重要的專案資料。 |
+|表單 | 建立及部署自訂表單，以捕獲重要的專案資料。 |
 |公式 | 使用跨任務和專案的公式，計算及捕獲重要的資料。 |
 |範本 | 建立常見專案（包括專案計劃、小組和工作分派）的範本。 |
 |mpp 匯入/匯出 | 從現有的 mpp 檔案建立新專案，或建立現有專案的 mpp 檔案。 |
@@ -248,9 +248,7 @@ Microsoft 小組整合 | 針對 Microsoft 團隊中的專案進行共同作業�
 ## <a name="service-considerations"></a>服務考慮
 
 > [!NOTE]
-> - 目前無法使用用於&ndash; web 的法國和南非韓國專案。 我們正在努力將網站的專案傳送至您的區域，並會透過下列所述的通訊通道告知您其可用性。
-> - 教育&ndash;版客戶即將推出 web 教育專案。 完全擱置的時間範圍。
-> - 目前，擁有 web 的 Project &ndash; for the the DoD for the for the for the for the for the the for the the the for the the the the the DoD。 我們正在努力為您提供 Web 專案，但目前無法分享公司的時間範圍。
+> 目前不適用於 GCC、GCC High 和 DoD 的 Web 專案。 我們正在努力為您提供 Web 專案，但目前無法分享公司的時間範圍。
 
 ### <a name="licensing-considerations"></a>授權考量
 

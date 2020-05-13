@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
-ms.openlocfilehash: cf077a9065d2c65ab2ab81a03437cc2b5296cfbe
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: fbef76e115a95c3add524e39d8b7e70d21605223
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044985"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213905"
 ---
 # <a name="office-365-plan-options"></a>Office 365 方案選項
 
@@ -38,7 +38,7 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
 |**教育版（使用者數目不受限制）** <br/> |[Office 365 教育版](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 教育版 E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**政府（使用者數目不受限制）** <br/> |[參閱所有可用的商務方案](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**中國的 21Vianet 運作的 Office 365** <br/> |[請參閱所有可用的業務計劃](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
-|**Office 365 Germany** <br/> |[參閱所有可用的商務方案](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview) <br/> |
+|**Office 365 Germany** <br/> |[請參閱瞭解 Office 365 德國](https://docs.microsoft.com/microsoft-365/admin/admin-overview/learn-about-office-365-germany?view=o365-germany) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>每個 Office 365 方案中可用的服務
 

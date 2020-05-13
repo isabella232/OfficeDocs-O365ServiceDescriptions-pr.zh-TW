@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商務語音是一項增益集服務，可讓您使用 Microsoft 小組進行電話通話。 這會結合電話系統、國內通話方案、SMS 和音訊會議。
-ms.openlocfilehash: f1a5c61d1517e8c08f8972567d6f5054b0dd1cfe
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7cf636b962f9f97b8b2b73466622494bb54f3a07
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640151"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213965"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 商務版語音服務描述
 
@@ -29,10 +29,10 @@ Microsoft 365 商務語音可搭配下列中小企業訂閱和高達300授權：
 
 - [Microsoft 365 商務基本版](office-365-platform-service-description/office-365-platform-service-description.md)
 - [Microsoft 365 商務標準版](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Microsoft 365 商務版 Premium](microsoft-365-business-service-description.md)
+- [Microsoft 365 商務進階版](microsoft-365-business-service-description.md)
 - [Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e1-business-software?activetab=pivot%3aoverviewtab)
 - [Office 365 E3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e3-business-software?activetab=pivot%3aoverviewtab)
-- [Office 365 F1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
+- [Office 365 F3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
 - [Microsoft 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
 - [Microsoft 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
 
@@ -63,4 +63,4 @@ Microsoft 365 商務語音可搭配下列中小企業訂閱和高達300授權：
 | 國際通話方案\*                           | 是                              | 否                                                    |
 | 音訊會議                                     | 是                              | 是                                                   |
  
-\*免付費撥號和國際通話方案是使用[通訊學分](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)以額外成本提供。 若要深入瞭解，請參閱[免付費電話撥號](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions)和[國際通話費率](https://products.office.com/microsoft-teams/online-meeting-solutions#Rates)。
+\*免付費撥號和國際通話方案是使用[通訊學分](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)以額外成本提供。 若要深入瞭解，請參閱[免付費電話撥號](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions)和[國際通話費率](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)。

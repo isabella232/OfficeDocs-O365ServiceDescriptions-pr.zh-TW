@@ -1,78 +1,77 @@
 ---
-title: Visio Online 服務說明
+title: 網頁版 Visio 服務描述
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/26/2018
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: 使用 Visio Online，您可以檢視、 編輯及共用在 web 上的 Visio 圖表。 從開始到常見的想法，例如描述計劃、 製作提案，或說明的程序中的步驟順序的基本圖表。 很簡單且更容易建立具有常用的圖表類型和豐富型圖案集合的第一級圖表。 Visio Online 使用者可以檢視和共用圖表共同作業，在檔案中插入註解上載至 SharePoint Online 或 OneDrive for Business Online。
-ms.openlocfilehash: e9d0e8df0f719f55a04ff8e0150c53e5bd97c21b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: 透過 Visio for web，您可以在網頁上查看、編輯和共用 Visio 圖表。
+ms.openlocfilehash: 40f35b0201dc845509250a36eef8b8f5f8b47046
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342382"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213647"
 ---
-# <a name="visio-online-service-description"></a>Visio Online 服務說明
+# <a name="visio-for-the-web-service-description"></a>網頁版 Visio 服務描述
 
-使用 Visio Online，您可以檢視、 編輯及共用在 web 上的 Visio 圖表。 從開始到常見的想法，例如描述計劃、 製作提案，或說明的程序中的步驟順序的基本圖表。 很簡單且更容易建立具有常用的圖表類型和豐富型圖案集合的第一級圖表。 Visio Online 使用者可以檢視和共用圖表共同作業，在檔案中插入註解上載至 SharePoint Online 或 OneDrive for Business Online。
+透過 Visio for web，您可以在網頁上查看、編輯和共用 Visio 圖表。 從基本圖表開始，以表達常見的創意，例如描述計畫、提出提案或描述程式中的步驟順序。 使用常用圖表類型和豐富的圖案集，可輕鬆建立第一個課程圖表。 針對 web 使用者的 Visio，您可以在上傳至 SharePoint Online 或 OneDrive for Business Online 的檔案中共用圖表和插入批註，以進行流覽及共同作業。
   
-如需詳細資訊，以及開始，請參閱[Visio Online](https://products.office.com/en-US/visio/visio-online)。
+如需詳細資訊及開始，請參閱[Visio 方案 1](https://products.office.com/en-US/visio/visio-online)。
   
-使用 Visio Online 時的說明，請參閱 < <b0>Visio Online 協助</b0>。
+若要在使用 Visio for web 時取得協助，請參閱[Visio help & 教學](https://support.office.com/visio)。
   
-## <a name="feature-availability-and-comparison"></a>可用的功能和比較
+## <a name="feature-availability-and-comparison"></a>功能可用性和比較
 
-下表比較 Visio Online 功能和具備豐富功能的 Visio 桌面應用程式。 使用表格來探索 Visio Online 中的哪些功能可用，，然後按一下功能名稱，即可閱讀有關該功能如何運作的簡短描述。 您可能會發現您的組織中有些人員需要 Visio 桌面應用程式的進階的功能，而其他使用者只需要檢視和局部編輯與 Visio Online 的 Visio 圖表。 
+下表比較 Visio 的 web 功能與功能豐富的 Visio desktop app 的功能。 您可以使用表格來探索哪些功能可用於 web Visio，然後選取功能名稱，以閱讀有關該功能如何運作的簡短描述。 您可能會發現組織中的某些人員需要 Visio 桌面應用程式的高級功能，其他人只需要透過 Visio 來查看和輕微編輯 Visio 圖表，以供網頁使用。 
   
 ||||
 |:-----|:-----|:-----|
-|**應用程式功能** <br/> |**Visio Online** <br/> |**Visio 桌面應用程式** <br/> |
-|[Rtf 格式套用至文字和圖形](visio-online.md#BM_1) <br/> |是  <br/> |是  <br/> |
-|[排列物件](visio-online.md#BM_2) <br/> |是  <br/> |是  <br/> |
-|[建置 mashup 解決方案](visio-online.md#BM_3) <br/> |是  <br/> |是  <br/> |
-|[建立圖表](visio-online.md#BM_4) <br/> |是  <br/> |是  <br/> |
-|[剪下、 複製及貼上](visio-online.md#BM_5) <br/> |是  <br/> |是  <br/> |
-|[編輯圖表](visio-online.md#BM_6) <br/> |是  <br/> |是  <br/> |
-|[圖表嵌入 SharePoint、 網頁或部落格頁面](visio-online.md#BM_7) <br/> |是  <br/> |否  <br/> |
-|[尋找](visio-online.md#BM_8) <br/> |是  <br/> |是  <br/> |
-|[字體格式化](visio-online.md#BM_9) <br/> |是  <br/> |是  <br/> |
-|[超連結](visio-online.md#BM_10)<sup>1</sup> <br/> |是<sup>3</sup> <br/> |是  <br/> |
-|[瀏覽](visio-online.md#BM_11) <br/> |是  <br/> |是  <br/> |
-|[Office 增益集](visio-online.md#BM_12) <br/> |否  <br/> |是  <br/> |
-|[離線檢視](visio-online.md#BM_13) <br/> |否  <br/> |是  <br/> |
-|[列印為 PDF](visio-online.md#BM_14) <br/> |是<sup>4</sup> <br/> |是  <br/> |
-|[校訂工具](visio-online.md#BM_15) <br/> |否  <br/> |是  <br/> |
-|[即時共同撰寫](visio-online.md#BM_16) <br/> |否  <br/> |是  <br/> |
-|[另存新檔或下載副本](visio-online.md#BM_17) <br/> |是  <br/> |是  <br/> |
-|[共用的圖表](visio-online.md#BM_18)<sup>2</sup> <br/> |是  <br/> |是  <br/> |
-|[SmartArt](visio-online.md#BM_19) <br/> |否  <br/> |是  <br/> |
-|[操作說明搜尋](visio-online.md#BM_20) <br/> |否  <br/> |是  <br/> |
-|[復原和取消復原](visio-online.md#BM_21) <br/> |否  <br/> |是  <br/> |
-|[檢視和新增注釋](visio-online.md#BM_22) <br/> |是<sup>5</sup> <br/> |是  <br/> |
-|[檢視圖形資料](visio-online.md#BM_23) <br/> |是<sup>3</sup> <br/> |是  <br/> |
-|[在瀏覽器中檢視 Visio 檔案](visio-online.md#BM_24) <br/> |是  <br/> |是  <br/> |
-|[縮放](visio-online.md#BM_25) <br/> |是<sup>6</sup> <br/> |是  <br/> |
+|**應用程式功能** <br/> |**網頁版 Visio** <br/> |**Visio 桌面應用程式** <br/> |
+|[將豐富格式設定套用至文字和圖形](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |是  <br/> |是  <br/> |
+|[排列物件](visio-online.md#arrange-objects) <br/> |是  <br/> |是  <br/> |
+|[建立混合式解決方案](visio-online.md#build-mashup-solutions) <br/> |是  <br/> |是  <br/> |
+|[建立圖表](visio-online.md#create-diagrams) <br/> |是  <br/> |是  <br/> |
+|[剪下、複製和貼上](visio-online.md#cut-copy-and-paste) <br/> |是  <br/> |是  <br/> |
+|[編輯圖表](visio-online.md#edit-diagrams) <br/> |是  <br/> |是  <br/> |
+|[在 SharePoint、網頁或博客頁面上嵌入圖表](visio-online.md#embed-diagram-in-a-sharepoint-web-or-blog-page) <br/> |是  <br/> |否  <br/> |
+|[尋找](visio-online.md#find) <br/> |是  <br/> |是  <br/> |
+|[字體格式化](visio-online.md#font-formatting) <br/> |是  <br/> |是  <br/> |
+|[超連結](visio-online.md#hyperlinks)<sup>1</sup> <br/> |是<sup>3</sup> <br/> |是  <br/> |
+|[瀏覽](visio-online.md#navigation) <br/> |是  <br/> |是  <br/> |
+|[Office 增益集](visio-online.md#office-add-ins) <br/> |否  <br/> |是  <br/> |
+|[離線查看](visio-online.md#offline-viewing) <br/> |否  <br/> |是  <br/> |
+|[列印為 PDF](visio-online.md#print-to-pdf) <br/> |是<sup>4</sup> <br/> |是  <br/> |
+|[校訂工具](visio-online.md#proofing-tools) <br/> |否  <br/> |是  <br/> |
+|[即時共同撰寫](visio-online.md#real-time-co-authoring) <br/> |否  <br/> |是  <br/> |
+|[另存新檔或下載副本](visio-online.md#save-as-or-download-a-copy) <br/> |是  <br/> |是  <br/> |
+|[共用圖表](visio-online.md#share-a-diagram)<sup>2</sup> <br/> |是  <br/> |是  <br/> |
+|[SmartArt](visio-online.md#smartart) <br/> |否  <br/> |是  <br/> |
+|[操作說明搜尋](visio-online.md#tell-me) <br/> |否  <br/> |是  <br/> |
+|[復原和取消復原](visio-online.md#undo-and-redo) <br/> |否  <br/> |是  <br/> |
+|[檢視和新增注釋](visio-online.md#view-and-add-comments) <br/> |是<sup>5</sup> <br/> |是  <br/> |
+|[View shape data](visio-online.md#view-shape-data) <br/> |是<sup>3</sup> <br/> |是  <br/> |
+|[在瀏覽器中查看 Visio 檔案](visio-online.md#view-visio-files-in-the-browser) <br/> |是  <br/> |是  <br/> |
+|[縮放](visio-online.md#zoom) <br/> |是<sup>6</sup> <br/> |是  <br/> |
    
-> <sup>1</sup>追蹤超連結 （無法插入或編輯文件）。 
-<br/><sup>2</sup>共用透過 SharePoint 或 One Drive for Business 和沒有 SharePoint 或 OneDrive 的使用者與共用。 
-<br/> <sup>3</sup> Visio Online 編輯器中無法使用。
-<br/><sup>4</sup> Visio Online 檢視器中無法使用。 
-<br/><sup>5</sup>不適用於 Visio Online 編輯器中，但是您可以切換到檢視模式和檢視註解。 
-<br/><sup>6</sup>適用於 Visio Online 編輯器。 
+> <sup>1</sup>追蹤超連結（無法插入或編輯）。 
+<br/><sup>2</sup>使用 SharePoint 或單一磁片磁碟機進行共用，並與沒有 SharePoint 或 OneDrive 的使用者共用。 
+<br/> <sup>3</sup>無法在 Visio For web 編輯器中使用。
+<br/><sup>4</sup>無法在 Visio 中供 web Viewer 使用。 
+<br/><sup>5</sup>無法在 Visio 中使用 web 編輯器，但您可以切換至查看模式及查看批註。 
+<br/><sup>6</sup>可用於 web 編輯器的 Visio。 
   
-## <a name="supported-file-types-in-visio-online"></a>Visio Online 中支援的檔案類型
+## <a name="supported-file-types-in-visio-for-the-web"></a>Visio for web 中支援的檔案類型
 
 ||||
 |:-----|:-----|:-----|
-|**在 Visio 2010 或更新版本建立的 Visio 圖表** <br/> |**檢視模式** <br/> |**編輯模式** <br/> |
-|Open XML (.vsdx)  <br/> |是  <br/> |否  <br/> |
-|二進位 (.vsd)  <br/> |是  <br/> |否  <br/> |
-|巨集 (.vsdm)  <br/> |是  <br/> |否  <br/> |
+|**在 Visio 2010 或更新版本中建立的 Visio 圖表** <br/> |**檢視模式** <br/> |**編輯模式** <br/> |
+|Open XML （.vsdx）  <br/> |是  <br/> |否  <br/> |
+|二進位（.vsd）  <br/> |是  <br/> |否  <br/> |
+|宏（vsdm）  <br/> |是  <br/> |否  <br/> |
    
 

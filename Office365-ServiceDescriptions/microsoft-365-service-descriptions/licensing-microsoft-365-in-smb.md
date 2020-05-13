@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商務版 Premium 是適用于中小型企業客戶的 Microsoft 一流服務。 Microsoft 365 商務版特優整合解決方案，結合了 Microsoft 365 生產力、高級安全性和裝置管理。
-ms.openlocfilehash: b608aaa2f0ba113c504b72bec38ce0ba07a93031
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7d4def2067790bb77456643ebc9c89d121aa8c9a
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640301"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213955"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>中小型企業的 Microsoft 365 授權
 
@@ -24,7 +24,7 @@ Microsoft 365 商務版 Premium 是適用于中小型企業（SMB）客戶的 Mi
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-business-premium"></a>功能比較： Microsoft 365 Business Standard 和 Microsoft 365 商務版特優
 
-|**服務區域** |**功能** | **Microsoft 365 商務標準版** | **Microsoft 365 商務版 Premium** |
+|**服務區域** |**功能** | **Microsoft 365 商務標準版** | **Microsoft 365 商務進階版** |
 |--|------------ | ------------------------------- | -------------------------- |
 |**可用的授權** | 使用者數目上限 | 300  | 300  |
 |**Office 應用程式** | 在最多5台電腦上安裝 Office + 每位平板電腦 + 5 部 smartphone 每位使用者（Word、Excel、PowerPoint、OneNote、Access）、Office Online | 商務版 | 商務版 |
@@ -32,8 +32,8 @@ Microsoft 365 商務版 Premium 是適用于中小型企業（SMB）客戶的 Mi
 |**用於團隊合作的 Hub** | Microsoft 小組中的聊天型工作區、線上會議和更多內容 | 是 |是 |
 |**檔存放區** | 商務用 OneDrive  | 每個使用者 1 TB | 每個使用者 1 TB |
 |**社交、影片、網站** | Stream、Yammer、Planner、SharePoint 線上、PowerApps、自動功能 | 是 | 是 |
-|**商務應用程式** | 排程應用&ndash;程式預定<sup>1</sup> | 是 | 是 |
-|   | 商務應用&ndash;程式 MileIQ<sup>1</sup> | 是 | 是 |
+|**商務應用程式** | 排程應用程式 &ndash; 預定<sup>1</sup> | 是 | 是 |
+|   | 商務應用程式 &ndash; MileIQ<sup>1</sup> | 是 | 是 |
 |**威脅防護** | Office 365 進階威脅防護 | 否 | 是 |
 |   | Windows Exploit Guard 強制執行 | 否 | 是  |
 |**身分識別管理** | 混合式 Azure Active Directory 帳戶的自助密碼重設 | 否 | 是 |
@@ -55,7 +55,7 @@ Microsoft 365 商務版 Premium 是適用于中小型企業（SMB）客戶的 Mi
 
 ## <a name="feature-comparison-microsoft-365-business-premium-and-office-365-e3"></a>功能比較： Microsoft 365 商務版 Premium 和 Office 365 E3
 
-|**服務區域**   | **功能**  | **Office 365 E3** | **Microsoft 365 商務版 Premium** |
+|**服務區域**   | **功能**  | **Office 365 E3** | **Microsoft 365 商務進階版** |
 |---|---------------|-------------------|----------------------------|
 |**可用的授權** | 使用者數目上限 | 無限制 | 300 |
 |**Office 應用程式** | 在最多5台電腦上安裝 Office + 每位平板電腦 + 5 部 smartphone 每位使用者（Word、Excel、PowerPoint、OneNote、Access）、Office Online | ProPlus | 商務版 |
@@ -63,8 +63,8 @@ Microsoft 365 商務版 Premium 是適用于中小型企業（SMB）客戶的 Mi
 |**用於團隊合作的 Hub** | Microsoft 小組中的聊天型工作區、線上會議和更多內容 | 是 | 是 |
 |**檔存放區** | 商務用 OneDrive | 無限制 | 每個使用者 1 TB |
 |**社交、影片、網站** | Stream、Yammer、Planner、SharePoint Online<sup>1</sup>、PowerApps<sup>1</sup>、Power 自動化<sup>1</sup> | 是 | 是 |
-|**商務應用程式** | 排程應用&ndash;程式預定<sup>2</sup> | 是 | 是 |
-|   | 商務應用&ndash;程式 MileIQ<sup>2</sup> | 否 | 是 |
+|**商務應用程式** | 排程應用程式 &ndash; 預定<sup>2</sup> | 是 | 是 |
+|   | 商務應用程式 &ndash; MileIQ<sup>2</sup> | 否 | 是 |
 |**威脅防護** | Office 365 進階威脅防護 | 否 | 是 |
 |   | Windows Exploit Guard 強制執行 | 否 | 是 |
 |**身分識別管理** | 混合式 Azure Active Directory 帳戶的自助密碼重設 | 否 | 是 |
@@ -88,7 +88,7 @@ Microsoft 365 商務版 Premium 是適用于中小型企業（SMB）客戶的 Mi
 
 ## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>功能比較： Microsoft 365 商務標準、Microsoft 365 商務版和 Office 365 E3
 
-|**服務區域**   |**功能** | **Microsoft 365 商務標準版** | **Microsoft 365 商務版 Premium** | **Office 365 E3** |
+|**服務區域**   |**功能** | **Microsoft 365 商務標準版** | **Microsoft 365 商務進階版** | **Office 365 E3** |
 |---|-------------|---------------------------------|----------------------------|-------------------|
 |**可用的授權** | 使用者數目上限 | 300 | 300 | 無限制 |
 |**Office 應用程式** | 在最多5台電腦上安裝 Office + 每位平板電腦 + 5 部 smartphone 每位使用者（Word、Excel、PowerPoint、OneNote、Access）、Office Online | 商務版 | 商務版 | ProPlus |
@@ -96,8 +96,8 @@ Microsoft 365 商務版 Premium 是適用于中小型企業（SMB）客戶的 Mi
 |**用於團隊合作的 Hub** | Microsoft 小組中的聊天型工作區、線上會議和更多內容 | 是 | 是 | 是 |
 |**檔存放區** | 商務用 OneDrive | 每個使用者 1 TB | 每個使用者 1 TB | 無限制 |
 |**社交、影片、網站** | Stream、Yammer、Planner、SharePoint Online<sup>1</sup>、PowerApps<sup>1</sup>、Power 自動化<sup>1</sup> | 是 | 是 | 是 |
-|**商務應用程式** | 排程應用&ndash;程式預定<sup>2</sup> | 是 | 是 | 是 |
-|   | 商務應用&ndash;程式 MileIQ<sup>2</sup> | 是 | 是 | 否 |
+|**商務應用程式** | 排程應用程式 &ndash; 預定<sup>2</sup> | 是 | 是 | 是 |
+|   | 商務應用程式 &ndash; MileIQ<sup>2</sup> | 是 | 是 | 否 |
 |**威脅防護** | Office 365 進階威脅防護 | 否 | 是 | 否 |
 |   | Windows Exploit Guard 強制執行 | 否 | 是 | 否 |
 |**身分識別管理** | 混合式 Azure Active Directory 帳戶的自助密碼重設 | 否 | 是 | 否 |
@@ -121,7 +121,7 @@ Microsoft 365 商務版 Premium 是適用于中小型企業（SMB）客戶的 Mi
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>功能比較： Microsoft 365 商務標準和 Microsoft 365 for business 方案
 
-|**服務區域**   |**功能** | **Microsoft 365 商務標準版** | **Microsoft 365 商務版 Premium** | **Microsoft 365 E3** | **Microsoft 365 E5** |
+|**服務區域**   |**功能** | **Microsoft 365 商務標準版** | **Microsoft 365 商務進階版** | **Microsoft 365 E3** | **Microsoft 365 E5** |
 |---|-------------|---------------------------------|----------------------------| ----------------- |-------------------|
 |**可用的授權** | 使用者數目上限 | 300 | 300 | 無限制 | 無限制 |
 |**Office 應用程式** | 在最多5台電腦上安裝 Office + 每位平板電腦 + 5 部 smartphone 每位使用者（Word、Excel、PowerPoint、OneNote、Access）、Office Online | 商務版 | 商務版 | ProPlus | ProPlus |
@@ -130,8 +130,8 @@ Microsoft 365 商務版 Premium 是適用于中小型企業（SMB）客戶的 Mi
 |**檔存放區** | 商務用 OneDrive | 每個使用者 1 TB | 每個使用者 1 TB | 無限 | 無限 |
 |**社交、影片、網站** | Yammer、SharePoint 線上、Planner | 是 | 是 | 是 | 是 |
 |   | Stream | | 是 | 是 | 是 |
-|**商務應用程式** | 排程應用&ndash;程式預定<sup>1</sup> | 是 | 是 | 是 | 是 |
-|   | 商務應用&ndash;程式 MileIQ<sup>1</sup> | 是 | 是 | 否 | 否 |
+|**商務應用程式** | 排程應用程式 &ndash; 預定<sup>1</sup> | 是 | 是 | 是 | 是 |
+|   | 商務應用程式 &ndash; MileIQ<sup>1</sup> | 是 | 是 | 否 | 否 |
 |**威脅防護** | Microsoft Advanced 威脅分析、Device Guard、Credential Guard、AppLocker、Enterprise Data Protection | 否 | 否 | 是 | 是 |
 |   | Office 365 進階威脅防護 | 否 | 是 | 否 | 是 |
 |   | Windows Defender 進階威脅防護 | 否 | 否 | 否 | 是 |
@@ -160,7 +160,7 @@ Microsoft 365 商務版 Premium 是適用于中小型企業（SMB）客戶的 Mi
 
 ## <a name="office-client-commercial-plans"></a>Office 用戶端商業方案
 
-| **應用程式** | **Microsoft 365 商務應用程式** | **適用于企業的 Microsoft 365 應用程式** |
+| **應用程式** | **Microsoft 365 Apps 商務版** | **Microsoft 365 應用程式企業版** |
 |------------------|-------------------------|------------------------|
 | Word             | 是                     | 是                    |
 | Excel            | 是                     | 是                    |
@@ -170,7 +170,7 @@ Microsoft 365 商務版 Premium 是適用于中小型企業（SMB）客戶的 Mi
 | Publisher        | 是                     | 是                    |
 | Access           | 是                     | 是                    |
 | Microsoft Teams  | 是                     | 是                    |
-| **津貼值**                             | **Microsoft 365 商務應用程式** | **適用于企業的 Microsoft 365 應用程式** |
+| **津貼值**                             | **Microsoft 365 Apps 商務版** | **Microsoft 365 應用程式企業版** |
 | 大量啟用                             | 否                      | 否                     |
 | 群組原則<sup>1</sup>                      | 否                      | 是                    |
 | 共用電腦啟用                    | 是<sup>7</sup>        | 是                    |
@@ -183,12 +183,12 @@ Microsoft 365 商務版 Premium 是適用于中小型企業（SMB）客戶的 Mi
 | 商務智慧                         | 否                      | 是<sup>5</sup>        |
 | 建立 IRM<sup>3</sup>                        | 是<sup>7</sup>        | 是                    |
 | 資料遺失防護<sup>3</sup>              | 是<sup>7</sup>        | 是<sup>5</sup>        |
-| **雲端值**                  | **Microsoft 365 商務應用程式** | **適用于企業的 Microsoft 365 應用程式** |
+| **雲端值**                  | **Microsoft 365 Apps 商務版** | **Microsoft 365 應用程式企業版** |
 | 群組                           | 是                     | 是                    |
 | Office 部署工具           | 是                     | 是                    |
 | 漫遊檔 & 設定     | 是                     | 是                    |
 | Business OneDrive 1 TB       | 是                     | 是                    |
-| **授權**                                   | **Microsoft 365 商務應用程式** | **適用于企業的 Microsoft 365 應用程式** |
+| **授權**                                   | **Microsoft 365 Apps 商務版** | **Microsoft 365 應用程式企業版** |
 | 授權模型                                 | 每位使用者                | 每位使用者               |
 | 授權類型                                    | 訂閱            | 訂閱           |
 | 電腦/Mac 安裝<sup>6</sup>                     | 5                        | 5                       |
@@ -204,11 +204,11 @@ Microsoft 365 商務版 Premium 包含 Microsoft 365 Apps for Business 用戶端
 
 <sup>1</sup>允許組織將 Office 的某些設定（安全性設定、應用程式設定、Active Directory 漫遊等等）推入公司網路的電腦。
 
-<sup>2</sup>使用 office Standard 2016 和 Office Professional Plus 2016，它可以完全控制使用 MSI 模型的更新。 透過適用于企業的 Microsoft 365 應用程式和**microsoft 365 應用程式**，安裝和更新是透過 Click-to-Run 來管理。
+<sup>2</sup>使用 office Standard 2016 和 Office Professional Plus 2016，它可以完全控制使用 MSI 模型的更新。 透過適用于企業的 Microsoft 365 應用程式和 Microsoft 365 應用程式，安裝和更新是透過 Click-to-Run 來管理。
 
 <sup>3</sup>套件提供不同的整合層級與商務生產力伺服器的整合。
 
-<sup>4</sup>封存來自 Outlook&mdash;的電子郵件，不需要&mdash;.pst 檔案，並設定自動封存或刪除電子郵件的保留原則。 IT 系統管理員可以集中管理 In-Place 封存。
+<sup>4</sup>封存來自 Outlook 的電子郵件 &mdash; ，不需要 .pst 檔案 &mdash; ，並設定自動封存或刪除電子郵件的保留原則。 IT 系統管理員可以集中管理 In-Place 封存。
 
 <sup>5</sup>需要其他線上服務。
 

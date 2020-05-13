@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 團隊提供立即訊息、檔案與資料共同作業、音訊和影片通話、豐富的線上會議、行動經驗和大量的 web 會議功能。
-ms.openlocfilehash: 260710e9f794c4c59447ceabd37626162e24ecbf
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 59337249c650157797e2c577ceefe24d3db62863
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640111"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213648"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服務描述
 
 Microsoft 團隊是 Microsoft 365 中合作的中心。 小組服務可讓您立即訊息、音訊和影片通話、豐富的線上會議、行動經驗和大量的 web 會議功能。 此外，小組提供檔案與資料共同作業及擴充功能，並與 Microsoft 365 和其他 Microsoft 和合作夥伴應用程式整合。
 
-商務用 Skype Online 將于2021年7月31日（已于年7月 30 2019 日[宣佈](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)）終止。 Microsoft 團隊是一種全新的服務，其從頭開始使用 Azure 和 Microsoft 的其他服務創新，從頭為雲端構建。 Microsoft 團隊是以 Office 365 群組、Microsoft Graph，以及與 Office 365 的其餘部分相同的企業層級安全性、相容性和可管理性來建立。 小組利用 Azure Active Directory （Azure AD）中儲存的身分識別。 這些服務是由 Microsoft 資料中心提供，可供使用者從公司網路內部或透過網際網路內部的各種裝置存取。 如需詳細資訊，請參閱[小組架構和電話語音方案圖表](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters)。
+商務用 Skype Online 將于2021年7月31日（已于年7月 30 2019 日[宣佈](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)）終止。 Microsoft 團隊是一種全新的服務，其從頭開始使用 Azure 和 Microsoft 的其他服務創新，從頭為雲端構建。 Microsoft 團隊是以 Office 365 群組、Microsoft Graph，以及與 Office 365 的其餘部分相同的企業層級安全性、相容性和可管理性來建立。 小組利用 Azure Active Directory （Azure AD）中儲存的身分識別。 這些服務是由 Microsoft 資料中心提供，可供使用者從公司網路內部或透過網際網路內部的各種裝置存取。 如需詳細資訊，請參閱[Microsoft 團隊 IT 架構和電話語音解決方案海報](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters)。
 
 Microsoft 仍會致力於保護您的資料和我們的服務的[可存取性](https://www.microsoft.com/trust-center/compliance/accessibility)。 如需詳細資訊，請參閱[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 協助工具中心](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
 
-針對您的參考，我們已包含可讓使用者使用 Microsoft 小組的訂閱主清單。 如需完整詳細資料，請參閱[Microsoft 小組授權](https://docs.microsoft.com/microsoftteams/office-365-licensing)。 如需政府方案中的其他 Office 365，請參閱[Office 365 政府方案](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)。 Office 365 G1 到 G5 包含對小組功能的存取權。
+針對您的參考，我們已包含可讓使用者使用 Microsoft 小組的訂閱主清單。 如需詳細的計畫資訊，請參閱[尋找適用于貴公司的 Microsoft 團隊](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1)。 如需政府方案中的其他 Office 365，請參閱[Office 365 政府方案](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)。 Office 365 G1 到 G5 包含對小組功能的存取權。
 
 |||||
 |:-----|:-----|:-----|:-----|
@@ -34,11 +34,11 @@ Microsoft 仍會致力於保護您的資料和我們的服務的[可存取性](h
 |  <br/> |Office 365 企業版 E5  <br/> |Office 365 教育版 E5  <br/> |  <br/> |
 |  <br/> |Office 365 企業版 F1  <br/> |  <br/> |  <br/> |
 
-如需詳細的產品功能實現指導，請參閱[Microsoft 團隊管理檔](https://docs.microsoft.com/MicrosoftTeams)。 此服務說明會詳細說明各雲端安裝所提供服務之間的主要差異。 Microsoft 小組核心功能不會有不同的訂閱。 相容性功能的可用性取決於您的訂閱等級。 若要深入瞭解，請參閱 [Microsoft 小組中的安全性和符合性](https://docs.microsoft.com/microsoftteams/security-compliance-overview)。 如需每個訂閱中可用功能的詳細清單，請參閱 [Office 365 平臺服務說明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。
+如需詳細的產品功能實現指導，請參閱[Microsoft 團隊管理檔](https://docs.microsoft.com/MicrosoftTeams)。 此服務說明會詳細說明各雲端安裝所提供服務之間的主要差異。 Microsoft 小組核心功能不會有不同的訂閱。 相容性功能的可用性取決於您的訂閱等級。 若要深入瞭解，請參閱 [Microsoft 小組中的安全性和符合性](https://docs.microsoft.com/microsoftteams/security-compliance-overview)。 如需每個訂閱中可用功能的詳細清單，請參閱[Microsoft 365 和 Office 365 平臺服務說明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。
 
 **雲端語音功能**：針對音訊會議，您的組織必須購買並指派音訊會議授權給將設定電話撥入式會議的每位使用者。 針對需要通話方案的小組功能，每一位使用者都需要一個電話系統和一個國內或國內和國際通話方案。 若要深入瞭解，請參閱 [Microsoft 小組附加元件授權](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)。
 
-**Live 事件**：此 Office 365 中的產品會取代停用的 Skype 會議廣播。 即時事件功能適用于 Stream service 中詳細的授權方案。 請在[這裡查看授權詳細資料](https://docs.microsoft.com/stream/license-overview)。 即時事件服務可透過 Stream、Yammer 或 Microsoft 小組進行存取。 若要深入瞭解即時事件功能，請參閱在[Yammer、Microsoft 團隊和 Microsoft Stream 中跨 Microsoft 365 的即時事件](https://docs.microsoft.com/stream/live-event-m365)。
+**Live 事件**：此 Office 365 中的產品會取代停用的 Skype 會議廣播。 即時事件功能適用于 Stream service 中詳細的授權方案。 請在[這裡查看 Microsoft Stream 授權的詳細資料](https://docs.microsoft.com/stream/license-overview)。 即時事件服務可透過 Stream、Yammer 或 Microsoft 小組進行存取。 若要深入瞭解即時事件功能，請參閱在[Yammer、Microsoft 團隊和 Microsoft Stream 中跨 Microsoft 365 的即時事件](https://docs.microsoft.com/stream/live-event-m365)。
 
 所有支援的訂閱計畫皆可存取 Microsoft 團隊網頁用戶端、桌面用戶端和行動應用程式。
 

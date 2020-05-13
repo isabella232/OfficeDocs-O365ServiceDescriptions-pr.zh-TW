@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: ae21a804059510c777d5ef0991c3158b9142ce50
-ms.sourcegitcommit: c37c418e0965962a87426ce1246a1081c04bde88
+ms.openlocfilehash: c3521baf89ddcdc442a7dcd461c5de15f2a2d48e
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44090136"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214015"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -26,7 +26,7 @@ ms.locfileid: "44090136"
 > [!NOTE]
 > 部分租用戶服務目前無法將權益限制在特定使用者。 應該努力將服務權益限制在取得授權的使用者。 這麼做有助於在鎖定功能可用時避免對組織造成潛在的服務中斷。
 
-若要查看授權您的使用者從 Microsoft 365 規範功能受益于2020年4月1日的選項，請下載詳細的 Microsoft 365 相容性授權比較。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf) |  [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+若要查看授權您的使用者從 Microsoft 365 規範功能受益于2020年4月1日的選項，請下載詳細的 Microsoft 365 相容性授權比較。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -249,7 +249,7 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 資訊保護
 
 記錄管理功能可套用至特定位置的授權使用者（小組網站、群組網站等等）。 如需設定記錄管理以套用授權使用者的詳細資訊，請參閱[Microsoft 365 中的記錄管理](https://docs.microsoft.com/microsoft-365/compliance/records-management)。
 
-## <a name="ediscovery"></a>電子文件探索
+## <a name="ediscovery"></a>eDiscovery
 
 eDiscovery 在公司內為 IT 和法律部門提供調查和 eDiscovery 解決方案，以找出、收集、保留、減少及檢查與調查或訴訟相關的內容，然後再將其匯出至 Microsoft 365 系統。
 
@@ -332,7 +332,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 相容性，以及 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-客戶可以透過核准者群組和存取原則，以每位使用者為基礎管理 PAM (該原則可套用至授權的使用者)。 如需詳細資訊，請參閱 [Office 365 中的特殊權限存取管理](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751)。
+客戶可以透過核准者群組和存取原則，以每位使用者為基礎管理 PAM (該原則可套用至授權的使用者)。 如需詳細資訊，請參閱[Office 365 中的「特權存取管理](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751)」。
 
 ## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Office 365 資料遺失防護，適用于 Exchange Online、SharePoint 線上和商務 OneDrive
 
@@ -352,7 +352,7 @@ Microsoft 365 A1/E3/A3/Business、Office 365 E3/A3 和 Office 365 資料遺失�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-系統管理員可以在安全 & 規範中心的 [**資料遺失防護** > ]**位置**下自訂位置（工作負載）、包含的使用者，以及排除的使用者。
+系統管理員可以在安全 & 規範中心的 [**資料遺失防護**] 位置下自訂位置（工作負載）、包含的使用者，以及排除的使用者  >  ** **。
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>小組的通訊資料遺失防護
 
@@ -372,7 +372,7 @@ Office 365 E5/A5 的授權使用者，Microsoft 365 E5/A5，Microsoft 365 資訊
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-系統管理員可以在安全 & 規範中心的 [**資料遺失防護** > ]**位置**下自訂位置（工作負載）、包含的使用者，以及排除的使用者。
+系統管理員可以在安全 & 規範中心的 [**資料遺失防護**] 位置下自訂位置（工作負載）、包含的使用者，以及排除的使用者  >  ** **。
 
 ## <a name="information-barriers"></a>資訊屏障
 
@@ -514,7 +514,7 @@ Microsoft 365 中的「高級核查」為使用者和系統管理員活動提供
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
-因為 Microsoft 365 服務中使用者活動相關的審計記錄可保留最多一年，所以使用者可享受「高級審計」的好處。 此外，高值審核事件也會記錄下來，例如在存取或讀取使用者信箱中的專案時。 如需詳細資訊，請參閱[高價值審核事件](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events)。
+因為 Microsoft 365 服務中使用者活動相關的審計記錄可保留最多一年，所以使用者可享受「高級審計」的好處。 此外，高值審核事件也會記錄下來，例如在存取或讀取使用者信箱中的專案時。 如需詳細資訊，請參閱[Microsoft 365 中的「高級核查](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)」。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
