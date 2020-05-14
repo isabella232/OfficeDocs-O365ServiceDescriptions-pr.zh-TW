@@ -1,5 +1,5 @@
 ---
-title: 'Office 365 服務描述 '
+title: Microsoft 365 和 Office 365 服務描述
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft Office 365 是一種雲端式服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。
-ms.openlocfilehash: f297c1be0a2096a75dab8e14858236b69efb9986
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+description: Microsoft 365 和 Office 365 是雲端式服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。
+ms.openlocfilehash: 8f52de49564c07a41153b0935c27aef1277c4bb8
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002063"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044795"
 ---
-# <a name="office-365-service-descriptions"></a>Office 365 服務描述 
+# <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服務描述 
 
-Microsoft Office 365 是一種雲端式服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。 
+Microsoft 365 和 Office 365 是雲端式服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。 
   
-本文件庫中的主題提供 Office 365 隨附服務和功能的詳細說明。若要跨方案比較功能，請參閱[比較商務用 Office 365 方案](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，或請參閱下列清單中的相關服務描述。 
+此文件庫中的主題提供 Microsoft 365 和 Office 365 提供之服務和功能的詳細說明。 若要跨方案比較功能，請參閱以下清單中的[功能強大的工具來支援您的企業](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)或相關的服務描述。 
   
-若要搜尋技術支援文章和資訊，請參閱 [Office 支援](https://support.office.com/)。
+如需支援文章和資訊，請參閱[Office Help & 訓練](https://support.office.com/)、[系統管理員和 it 專業人員的 office 檔](https://docs.microsoft.com/office/)，以及適用[于系統管理員和 it 專業人員的 Microsoft 365 協助中心](https://docs.microsoft.com/microsoft-365/?view=o365-worldwide)。
   
 > [!NOTE]
 > 如果您正在尋找服務描述比較試算表，它已經停用。 每個服務描述頁面上的產品功能可用性表格已更新，可更好地協助您選擇符合您需求的 Office 365 版本。 
@@ -46,13 +46,15 @@ Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTr
 
 - [Exchange Online Protection 服務說明](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
 
-- [Office 365 進階威脅防護服務說明](office-365-advanced-threat-protection-service-description.md)
-
 - [Exchange Online 封存服務說明](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
 
-- [商務用 OneDrive 服務說明](onedrive-for-business-service-description.md)
+- [Office 365 進階威脅防護服務說明](office-365-advanced-threat-protection-service-description.md)
 
-- [SharePoint Online 服務說明](sharepoint-online-service-description/sharepoint-online-service-description.md)
+- [Microsoft Teams 服務描述](teams-service-description.md)
+
+- [OneDrive 服務描述](onedrive-for-business-service-description.md)
+
+- [SharePoint 服務描述](sharepoint-online-service-description/sharepoint-online-service-description.md)
 
 - [商務用 Skype Online 服務說明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 
@@ -64,15 +66,19 @@ Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTr
 
 - [Power BI 服務說明](power-bi-service-description.md)
 
-- [Project Online 服務說明](project-online-service-description/project-online-service-description.md)
+- [Microsoft Project 服務說明](project-online-service-description/project-online-service-description.md)
 
 - [網頁版 Visio 服務描述](visio-online-service-description/visio-online-service-description.md)
 
 - [Yammer 服務說明](yammer-service-description/yammer-service-description.md)
 
+- [Microsoft 365 商務版語音服務描述](microsoft-365-business-voice-service-description.md)
+
 - [Microsoft 365 商務進階版服務描述](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Microsoft 365 的安全性 & 合規性授權指導方針](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
+- [中小型企業的 Microsoft 365 授權](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
+
+- [Microsoft 365 安全性與合規性的授權指引](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
 - [Microsoft Dynamics 365 (Online) 服務說明](microsoft-dynamics-365-online-service-description.md)
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 若要瞭解剛剛發行或即將發行的 Office 365 功能，請參閱 Microsoft 365 藍圖。
-ms.openlocfilehash: 70236f8d0600e5a614524fb1842d1fd62764655d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e0a9c143a85a1df830b973b69babac6bb8b831f5
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639771"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044805"
 ---
 # <a name="service-updates"></a>服務更新
 
@@ -43,6 +43,6 @@ Microsoft 致力於進行任何需要系統管理員採取行動以維持服務�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各個方案中的功能可用性，請參閱[Office 365 platform service description](office-365-platform-service-description.md)。
+若要查看不同方案中的功能可用性，請參閱[Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
   
 

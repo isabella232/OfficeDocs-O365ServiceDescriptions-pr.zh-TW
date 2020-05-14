@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: 當您新增網域時，逐步嚮導會協助您新增使用者，並將您的電子郵件地址和其他服務轉換為您的公司名稱。 當您完成該嚮導後，您的企業電子郵件會從 Microsoft 開始，而不是移至目前的電子郵件提供者。 若要深入瞭解，請參閱將您的使用者與網域新增至 Microsoft。 如果使用 21Vianet 運作的 Office 365，請參閱驗證您的網域。
-ms.openlocfilehash: 3e1cfad656de569aac0d3e5bab281789cb408547
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f0b5b47239c73f85b5a6e42aa724b5b554fa3e72
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638861"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044825"
 ---
 # <a name="domains"></a>網域
 
@@ -57,6 +57,6 @@ Microsoft 主動檢查您的 DNS 記錄，以尋找及協助修正 DNS 問題。
     
 ## <a name="feature-availability"></a>功能可用性
 
-若要針對商務方案、獨立選項和內部部署解決方案，查看跨 Microsoft 365 的功能可用性，請參閱[Office 365 平臺服務說明](office-365-platform-service-description.md)。
+若要針對商務方案、獨立選項和內部部署解決方案，查看跨 Microsoft 365 的功能可用性，請參閱[Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
   
 
