@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office for web （先前稱為 Office Web Apps）會在網頁瀏覽器中開啟 Word、Excel、OneNote 及 PowerPoint 檔。 Office for web 可讓您更輕鬆地從任何地方使用網際網路連線與共享 Office 檔案，從幾乎任何裝置。 Microsoft 365 客戶使用 Word、Excel、OneNote 或 PowerPoint 可以在旅途中查看、建立及編輯檔案。
-ms.openlocfilehash: 447ea8b31424f1c37ecd5a76ee60014d94df9f26
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: f04056668b9d64b7783afce4e7df52403f904c29
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213985"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226212"
 ---
 # <a name="office-for-the-web-service-description"></a>網頁版 Office 服務描述
 
@@ -176,7 +176,7 @@ Office for web （先前稱為 Office Web Apps）會在網頁瀏覽器中開啟 
 |[儲存或下載副本](excel-online.md#save-or-download-a-copy) <br/> |是  <br/> |是  <br/> |
 |[共用](excel-online.md#share) <br/> |是  <br/> |是  <br/> |
 |[工作表保護](excel-online.md#sheet-protection) <br/> |是  <br/> |是  <br/> |
-|[交叉分析篩選器檢視](excel-online.md#slicer-viewing) <br/> |是  <br/> |是  <br/> |
+|[Slicers](excel-online.md#slicers) <br/> |是  <br/> |是  <br/> |
 |[排序和篩選資料](excel-online.md#sort-and-filter-data) <br/> |是  <br/> |是  <br/> |
 |[試算表審核和法規遵循](excel-online.md#spreadsheet-audit-and-compliance) <br/> |否  <br/> |是  <br/> |
 |[狀態列彙總](excel-online.md#status-bar-aggregates) <br/> |是  <br/> |是  <br/> |

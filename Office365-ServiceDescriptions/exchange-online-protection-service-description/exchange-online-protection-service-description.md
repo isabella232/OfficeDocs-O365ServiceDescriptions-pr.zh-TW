@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 取得 Exchange Online Protection 功能和需求的相關資訊。 包含提供 Exchange Online Protection 的方案清單，以及各項方案中功能的比較。
-ms.openlocfilehash: 3a52d682c4aa181c549e3e2d96ea8645ccae6260
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 661d2359d53fe740c5217aaecaf2f86e5f741d5c
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213975"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226202"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服務說明
 
@@ -99,8 +99,9 @@ EOP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 |[自訂反惡意程式碼原則](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|是|是|是|
 |[隔離](anti-spam-and-anti-malware-protection-eop.md#quarantine)：系統管理員管理|是|是|是|
 |[隔離](anti-spam-and-anti-malware-protection-eop.md#quarantine)：使用者自我管理|是|是|是|
-|[Outlook 的報告訊息增益集](anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|是|是|是|
-|[Outlook 網頁版中的垃圾郵件報告](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|是|是|是|
+|[提交](anti-spam-and-anti-malware-protection-eop.md#report-messages-to-microsoft-for-analysis)|否|是|否|
+|[Outlook 的報告訊息增益集](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|是|是|是|
+|[Outlook 網頁版中的垃圾郵件報告](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|是|是|是|
 |[在 Microsoft 和您自己的電子郵件伺服器之間路由傳送電子郵件](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|是|是|是|
 |[與信任的合作夥伴間的安全傳訊](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|是|是|是|
 |[安全列出夥伴的 IP 位址](mail-flow-eop.md#safe-listing-a-partners-ip-address)|是|是|是|

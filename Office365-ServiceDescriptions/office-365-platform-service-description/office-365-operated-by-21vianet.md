@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: 894087ac6d25bf64d36f6a047239072ec2897a18
-ms.sourcegitcommit: dc3ce02268eeeb6de29e61276b5572e0633940bf
+ms.openlocfilehash: df10728ec4e195fb69bb9140fa5da968a5ed2ac1
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43800619"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226252"
 ---
-# <a name="office-365-operated-by-21vianet"></a>由 21Vianet 營運的 Office 365
+# <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
 
@@ -491,8 +491,8 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[自訂反惡意程式碼原則](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|是|是|
 |[隔離](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine)：系統管理員管理|是|是|
 |[隔離](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine)：使用者自我管理|是|是|
-|[Outlook 的報告訊息增益集](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|是|是|
-|[Outlook 網頁版中的垃圾郵件報告](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|無<sup>7</sup>|無<sup>7</sup>|
+|[Outlook 的報告訊息增益集](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|是|是|
+|[Outlook 網頁版中的垃圾郵件報告](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|無<sup>7</sup>|無<sup>7</sup>|
 |[在 Microsoft 和您自己的電子郵件伺服器之間路由傳送電子郵件](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|是|是|
 |[與信任的合作夥伴間的安全傳訊](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|是|是|
 |[安全列出夥伴的 IP 位址](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|是|是|

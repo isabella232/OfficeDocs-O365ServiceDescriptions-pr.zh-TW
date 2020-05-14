@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: 網頁版 excel （先前稱為 Excel Web App）可將您的 Microsoft Excel 體驗延伸至網頁瀏覽器，您可以在其中儲存活頁簿的網站上直接使用活頁簿。 所有客戶均可使用 Office for web 來查看和輕微編輯 Office 檔案。
-ms.openlocfilehash: 016df373aca64369cbde5e60f0b5d08111177913
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4866506af511200607786bc8188634c8b3139dff
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639881"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226222"
 ---
 # <a name="excel-for-the-web"></a>Excel 網頁版
 
@@ -90,7 +90,7 @@ Excel 圖表與表格可讓您輕鬆格式化資料和管理資訊。 若要深�
 
 ## <a name="check-spelling"></a>檢查拼寫
 
-若要檢查工作表上任何文字的拼寫，請選取 [**檢查** > **校對** > **拼寫**]。 深入瞭解[檢查拼寫](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)。
+若要檢查工作表上任何文字的拼寫，請選取 [**檢查**  >  **校對**  >  **拼寫**]。 深入瞭解[檢查拼寫](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)。
 
 ## <a name="comment-creation"></a>建立註解
 
@@ -102,7 +102,7 @@ Excel 圖表與表格可讓您輕鬆格式化資料和管理資訊。 若要深�
   
 ## <a name="copy-and-paste"></a>複製和貼上
 
-您可以剪下、複製及貼上文字、超連結、數位、公式、圖形、圖表及影像。 [！注意] 如果您的資料列中有您必須旋轉以重新排列資料列的資料，請使用 [**貼**上] 功能表上的 [**換位**] 功能。 深入瞭解[在 Excel 中複製及貼上網頁](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline)。
+您可以剪下、複製及貼上文字、超連結、數位、公式、圖形、圖表及影像。 如果資料行中的資料必須旋轉以重新排列列，請使用 [**貼**上] 功能表上的 [**換位**] 功能。 深入瞭解[在 Excel 中複製及貼上網頁](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline)。 以您的瀏覽器使用 Edge 或 Chrome，您可以複製其他應用程式的超連結，並將其貼到 Excel 中以供網頁使用。 貼上的超連結會正常運作。
   
 ## <a name="create-external-data-connections"></a>建立外部資料連結
 
@@ -110,7 +110,7 @@ Excel 圖表與表格可讓您輕鬆格式化資料和管理資訊。 若要深�
   
 ## <a name="create-tables"></a>建立表格
 
-建立表格以組織和分析相關資料。表格便於進行排序、篩選和格式化資料。 
+建立表格以組織和分析相關資料。 表格便於進行排序、篩選和格式化資料。 使用[表格格式設定選項](https://support.office.com/article/format-an-excel-table-6789619f-c889-495c-99c2-2f971c0e2370)（包括樣式庫）新增一些波蘭文。
   
 ## <a name="creation-of-advanced-analysis-views-power-view-power-pivot-slicers"></a>建立進階分析檢視 (Power View、Power Pivot、交叉分析篩選器)
 
@@ -162,7 +162,7 @@ Dropbox 是一個檔案主控服務，提供雲端儲存體、檔案同步作業
   
 ## <a name="formula-tools-advanced"></a>公式工具，高級
 
-Microsoft Excel 桌面應用程式支援最進階的公式工具，例如：3D 參照樣式和陣列公式。 僅限網頁版 excel 支援最基本的 Excel 公式。 進一步了解[公式](https://go.microsoft.com/fwlink/p/?LinkId=271665)。
+Microsoft Excel 桌面應用程式提供最高級的公式工具，例如3D 參考樣式。 網頁版 excel 支援數量不斷增加的高級 Excel 公式，例如[動態陣列公式](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)。 進一步了解[公式](https://support.office.com/article/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173?ocmsassetID=HA102748997&CTT=1&CorrelationId=1baa4c77-693e-4503-a2c5-b66a8b40dd40&ui=en-US&rs=en-US&ad=US)。
   
 ## <a name="freeze-panes"></a>凍結窗格
 
@@ -174,7 +174,7 @@ Excel 中的 [凍結窗格] 功能可用於 web 功能區。 深入瞭解[在 ex
   
 ## <a name="functions"></a>函式
 
-在網頁版 Excel 中，您可以在公式中使用大部分的 Excel 400 以上的工作表函數。
+您可以在 Excel for web 中的公式中使用大部分超過400的 Excel 工作表函數，包括在[動態陣列公式](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)中使用的函數（例如[FILTER 函數](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)）。
   
 ## <a name="goto"></a>GoTo
 
@@ -207,6 +207,10 @@ Excel 中的創意可協助您透過高層次的視覺摘要、趨勢和模式�
 ## <a name="insert-shapes"></a>插入圖形
 
 在網頁試算表的 Excel 中新增及格式化圖形，例如方塊、圓形、線條、連接器或箭號。 深入瞭解[新增圖案](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)。
+
+## <a name="keyboard-shortcuts"></a>快速鍵
+
+您可以控制鍵盤快速鍵，使其在桌面和 web 版本的 Excel 中的運作方式相同您可以變更快速鍵設定 &mdash; ，甚至可以覆寫瀏覽器快捷方式。 請選取 [**説明**  >  **快速鍵**]。
   
 ## <a name="merge-cells"></a>合併儲存格
 
@@ -283,22 +287,30 @@ Web 的 Excel 從網際網路瀏覽器啟動，並依賴網際網路連線。 �
 ## <a name="save-or-download-a-copy"></a>儲存或下載副本
 
 需要儲存活頁簿副本嗎？使用 [檔案] 索引標籤上的 [另存新檔] 命令，或者用滑鼠右鍵按一下資料夾中的活頁簿名稱，然後使用 [下載] 命令傳送副本至您的電腦。
+
+## <a name="sensitivity-labels"></a>敏感度標籤
+
+手動套用標籤或使用 Microsoft 的自動建議標籤，以維持對檔的存取和敏感度的控制。
   
-## <a name="share"></a>共用
+## <a name="share"></a>分享
 
 只要按一下滑鼠，就可以把連結傳送給其他使用者，以供其檢視或編輯文件。 深入瞭解[如何在 office 365 中搭配使用 Web office 來一起運作](https://go.microsoft.com/fwlink/p/?linkid=272770)。
   
 ## <a name="sheet-protection"></a>工作表保護
 
 當您與其他使用者共用 Excel 檔案時，您可以保護工作表，以協助防止變更；您可以選擇允許您的工作表使用者可執行的動作。
-  
-## <a name="slicer-viewing"></a>交叉分析篩選器檢視
 
-在工作表中查看交叉分析篩選器，並選取 [交叉分析篩選] 按鈕以篩選資料。 您無法在 Excel for web 中建立或編輯切片器。
+## <a name="sheet-views"></a>工作表視圖
+
+[工作表視圖](https://support.microsoft.com/office/sheet-views-in-excel-0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)可讓您建立 Excel 工作表的自訂視圖，而不會受到其他人中斷。 例如，您可以設定篩選，只顯示對您很重要的記錄，而不會受到檔中的其他排序和篩選的影響。 您甚至可以在相同的工作表上設定多個工作表視圖。
+  
+## <a name="slicers"></a>交叉分析篩選器
+
+在工作表中查看交叉分析篩選器，並選取 [交叉分析篩選] 按鈕以篩選資料。 您無法在 Excel for web 中建立或編輯交叉分析篩選器，但可刪除現有的交叉分析篩選器。
   
 ## <a name="sort-and-filter-data"></a>排序和篩選資料
 
-在 web 的 Excel 中，您可以查看和重新排序所有工作表、排序及篩選資料（自上而下或從左至右，多個層級），然後深入瞭解 PivotTables 的詳細資料。 深入瞭解[排序和篩選資料](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web)。
+在 web 的 Excel 中，您可以查看和重新排序所有工作表、排序及篩選資料（自上而下或從左至右，多個層級），然後深入瞭解 PivotTables 的詳細資料。 使用圖示集或色彩值，排序使用圖示集或色彩比例的設定條件格式的資料。 深入瞭解[排序和篩選資料](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web)。
   
 ## <a name="spreadsheet-audit-and-compliance"></a>試算表審核和法規遵循
 
@@ -339,6 +351,10 @@ Microsoft Excel 桌面應用程式是功能相當強大的工具，可用於操�
 ## <a name="what-if-analysis-tools"></a>What if 分析工具
 
 無法用於 web 的 Excel。 如預期所示，您可以在 Excel 中查看「假設」分析的結果。 如果您想使用分析工具 (例如：目標搜尋、資料表、規劃求解和數列)，則您需要 Excel 桌面應用程式。 進一步了解[在瀏覽器中和 Excel 桌面應用程式中使用活頁簿的差異](https://go.microsoft.com/fwlink/p/?LinkId=273900)。
+
+## <a name="workbook-statistics"></a>活頁簿統計資料
+
+[活頁簿統計資料] 功能會計數及識別活頁簿的元素，以協助您探索其所有內容。 您可以在 [**回顧**] 索引標籤上找到它。
   
 ## <a name="feature-availability"></a>功能可用性
 

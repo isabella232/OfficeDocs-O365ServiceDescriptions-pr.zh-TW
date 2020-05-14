@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主題中所列的功能是網頁式工具的集合，可協助您安全地在許多裝置和多個 Office 365 服務之間共同作業和通訊。 這些功能會協助在您的組織內進行新的連線，方法是整合數位內容建立、儲存及管理與用於在使用者之間探索及分享資訊的社交工具。
-ms.openlocfilehash: b91260202bb65287061c54e94380156cf7f19123
-ms.sourcegitcommit: 95b146eb31f1052422822be24509223ac9f94ea1
+ms.openlocfilehash: f9887a0d2b408a5b9faed0f322ea1b71ff642217
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022833"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226192"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 
@@ -27,7 +27,7 @@ ms.locfileid: "44022833"
 
 Microsoft 預約是一種線上及行動應用程式，適用于想要在約會基礎上為客戶提供服務的企業。 這類公司的範例包括頭髮美容、牙科辦事處、spa、法律公司、金融服務提供者、顧問、保健專業人員、教育機構和汽車店。 Microsoft 預約可供美國和加拿大的客戶使用 Microsoft 365 for business 訂閱。
   
-如需 Microsoft 預約的詳細資訊，請移至[線上使用 microsoft 預約發佈您的商務行事曆](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)。
+如需 Microsoft 預約的詳細資訊，請移至[線上使用 microsoft 預約發佈您的商務行事曆](https://support.office.com/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)。
 
 ## <a name="microsoft-briefing-email"></a>Microsoft 簡報電子郵件
 
@@ -41,15 +41,15 @@ Microsoft 預約是一種線上及行動應用程式，適用于想要在約會�
 
 ## <a name="microsoft-power-automate"></a>Microsoft Power Automate
 
-Microsoft Power 自動功能可讓您跨應用程式自動化工作流程。 您可以使用 Flow 與電子郵件及 IM 警訊連線、同步應用程式間的檔案、在兩個服務間複製檔案，以及從一個應用程式收集資料，然後資料儲存至另一個應用程式等等。 範本可協助您入門。 若要深入瞭解流程功能及其使用方式，請移至 [[自動執行] 網站](https://preview.flow.microsoft.com/en-us/)。
+Microsoft Power 自動功能可讓您跨應用程式自動化工作流程。 您可以使用 Flow 與電子郵件及 IM 警訊連線、同步應用程式間的檔案、在兩個服務間複製檔案，以及從一個應用程式收集資料，然後資料儲存至另一個應用程式等等。 範本可協助您入門。 若要深入瞭解流程功能及其使用方式，請移至 [[自動執行] 網站](https://preview.flow.microsoft.com/)。
   
 ## <a name="microsoft-forms"></a>Microsoft Forms
 
-Microsoft Forms 可讓您快速且輕鬆地建立自訂測驗、調查、問卷、登記等等。 當您建立測驗或表單時，您可以邀請其他人使用任何網頁瀏覽器，甚至是行動裝置，來進行回應。 提交結果之後，您可以使用內建分析來評估回應。 表單資料（如測驗結果）可輕鬆匯出至 Excel 進行其他分析或評分。 若要深入瞭解，請參閱[什麼是 Microsoft Forms？](https://support.office.com/en-us/forms)。
+Microsoft Forms 可讓您快速且輕鬆地建立自訂測驗、調查、問卷、登記等等。 當您建立測驗或表單時，您可以邀請其他人使用任何網頁瀏覽器，甚至是行動裝置，來進行回應。 提交結果之後，您可以使用內建分析來評估回應。 表單資料（如測驗結果）可輕鬆匯出至 Excel 進行其他分析或評分。 若要深入瞭解，請參閱[什麼是 Microsoft Forms？](https://support.office.com/forms)。
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph API
 
-使用 Microsoft Graph API，透過單一端點，快速建立連線到大量資源、關聯性和智慧的應用程式： https://graph.microsoft.com。 例如，您可以建立自訂的儀表板、工作流程，以及為您的組織取得資料的應用程式。 如需詳細資訊，請參閱[Microsoft Graph 檔](https://go.microsoft.com/fwlink/?linkid=849595)。
+使用 Microsoft Graph API，透過單一端點，快速建立連線到大量資源、關聯性和智慧的應用程式： https://graph.microsoft.com 。 例如，您可以建立自訂的儀表板、工作流程，以及為您的組織取得資料的應用程式。 如需詳細資訊，請參閱[Microsoft Graph 檔](https://go.microsoft.com/fwlink/?linkid=849595)。
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 
@@ -61,7 +61,7 @@ Microsoft Planner 是可讓使用者以視覺化方法組織團隊合作事宜�
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
-Microsoft PowerApps 是一種企業服務，可協助您快速建置、整合及共用在任何裝置上運作的應用程式。 PowerApps 可讓您使用內建的連線或公司所建的連線，將您的應用程式連接到雲端和內部部署服務，包括 Microsoft 365 和 Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle 資料庫等等。 您只要輸入電子郵件地址，即可輕鬆地與同事共用您的 PowerApps。 若要深入了解，請前往 Microsoft [PowerApps 網站](https://powerapps.microsoft.com/en-us/)。
+Microsoft PowerApps 是一種企業服務，可協助您快速建置、整合及共用在任何裝置上運作的應用程式。 PowerApps 可讓您使用內建的連線或公司所建的連線，將您的應用程式連接到雲端和內部部署服務，包括 Microsoft 365 和 Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle 資料庫等等。 您只要輸入電子郵件地址，即可輕鬆地與同事共用您的 PowerApps。 若要深入了解，請前往 Microsoft [PowerApps 網站](https://powerapps.microsoft.com/)。
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
@@ -77,7 +77,7 @@ Microsoft Sway 是一種適用于商務用的專業數位 storytelling 應用程
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-Microsoft 團隊是以聊天為中心的工作區，可協助小組成員進一步合作。 Microsoft 小組充當團隊合作的中心，可讓您立即存取聊天對話、內容及工具，以單一工作區。 SharePoint 和 OneNote 內建，小組成員可以在應用程式內直接在 Office 檔上運作。 除了聊天之外，Microsoft 小組也會支援影片通話和會議，讓小組能夠在現場、按需或排程時，開會。 小組成員可以隨時與多個小組進行共同作業，以及跨人員、聊天和檔案進行搜尋。 Microsoft 團隊可在 Windows、Mac、web、Android 和 iOS 平臺上運作。 若要深入瞭解，請參閱[Microsoft 團隊線上說明](https://go.microsoft.com/fwlink/?linkid=834413)。 小組尚未在[Office 365 德國](office-365-germany.md)中提供。
+Microsoft 團隊是以聊天為中心的工作區，可協助小組成員進一步合作。 Microsoft 小組充當團隊合作的中心，可讓您立即存取聊天對話、內容及工具，以單一工作區。 SharePoint 和 OneNote 內建，小組成員可以在應用程式內直接在 Office 檔上運作。 除了聊天之外，Microsoft 小組也會支援影片通話和會議，讓小組能夠在現場、按需或排程時，開會。 小組成員可以隨時與多個小組進行共同作業，以及跨人員、聊天和檔案進行搜尋。 Microsoft 團隊可在 Windows、Mac、web、Android 和 iOS 平臺上運作。 若要深入瞭解，請參閱[Microsoft 團隊服務說明](../teams-service-description.md)和[Microsoft 團隊線上說明](https://go.microsoft.com/fwlink/?linkid=834413)。 小組尚未在[Office 365 德國](office-365-germany.md)中提供。
   
 ## <a name="office-delve"></a>Office Delve
 
@@ -85,7 +85,7 @@ Office Delve 可讓使用者根據個人化的觀點，搜尋並探索 Microsoft
   
 ## <a name="microsoft-365-groups"></a>Microsoft 365 群組
 
-Microsoft 365 中的群組可將使用者與同事、所需的資訊和應用程式相連，以進行更多的處理。 預設會開啟群組，以加強探索和共用，但是使用者也可以為敏感內容建立私人群組。 若要深入瞭解群組，請參閱[Microsoft 365 中的群組](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1)。 如需群組限制的相關資訊，請參閱[瞭解 Microsoft 365 群組](https://go.microsoft.com/fwlink/?linkid=846714)中的「如何管理我的群組」。
+Microsoft 365 中的群組可將使用者與同事、所需的資訊和應用程式相連，以進行更多的處理。 預設會開啟群組，以加強探索和共用，但是使用者也可以為敏感內容建立私人群組。 若要深入瞭解群組，請參閱[Microsoft 365 中的群組](https://support.office.com/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1)。 如需群組限制的相關資訊，請參閱[瞭解 Microsoft 365 群組](https://go.microsoft.com/fwlink/?linkid=846714)中的「如何管理我的群組」。
   
 ## <a name="office-365-video"></a>Office 365 影片
 

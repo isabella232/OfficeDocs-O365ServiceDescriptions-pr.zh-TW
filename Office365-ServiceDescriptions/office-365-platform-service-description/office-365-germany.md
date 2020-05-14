@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德國是一種可在歐洲使用的 Office 365 服務的區別選項。 它可透過以德國法律為依據的獨特資料受信者模型，為數字工作、歐盟（歐盟）和歐洲免費交易協會（EFTA）提供業界領先的工作效率服務，以協助滿足在德國、歐盟（EU）和歐洲免費交易協會（）中最受管制客戶的需求。
-ms.openlocfilehash: cdac821da552186f6ac2c82740b0acd0c7819311
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f9d28a459885da3e5101143c6940dc6d641452e2
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639811"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226262"
 ---
 # <a name="office-365-germany"></a>Office 365 德國
 
@@ -57,7 +57,7 @@ Office 365 德國是一種可在歐洲使用的 Office 365 服務的區別選項
 
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-「安全性&amp;與合規性中心」適用于 Office 365 德國。 如需詳細資訊和功能清單，請參閱[Office 365 安全性&amp;與合規性中心](office-365-securitycompliance-center.md)。
+「安全性與 &amp; 合規性中心」適用于 Office 365 德國。 如需詳細資訊和功能清單，請參閱[Office 365 安全性與 &amp; 合規性中心](office-365-securitycompliance-center.md)。
 
 ### <a name="what-compliance-certificates-are-provided-for-office-365-germany"></a>Office 365 德國所提供的相容性憑證為何？
 
@@ -495,7 +495,7 @@ Office 365 德國遵循 Office 365 的雲端安全性和符合性標準。 Offic
 |[隔離](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine)：使用者自我管理|是|是|是|
 |[高級資料管理](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|否|是|是|
 |[Office 365 威脅情報](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)<sup>18</sup>|否|是|是|
-|[Outlook 網頁版中的垃圾郵件報告](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|是<sup>8</sup>|無<sup>8</sup>|無<sup>8</sup>|
+|[Outlook 網頁版中的垃圾郵件報告](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|是<sup>8</sup>|無<sup>8</sup>|無<sup>8</sup>|
 |[在 Microsoft 和您自己的電子郵件伺服器之間路由傳送電子郵件](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|是|是|是|
 |[與信任的合作夥伴間的安全傳訊](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|是|是|是|
 |[安全列出夥伴的 IP 位址](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|是|是|是|
@@ -633,7 +633,7 @@ EOP 中的<sup>4 個</sup>郵件流程規則（也稱為傳輸規則）是在[Ex
 |協助工具標準支援|是|是|是|是|是|是|是|是|
 |資產庫增強功能/影片支援|是|是|是|是|是|是|是|是|
 |稽核|是|是|是|是|是|是|是|是|
-|審核&amp;報告（例如，doc 編輯、原則編輯、原則編輯、刪除）|是|是|是|是|是|是|是|是|
+|審核 &amp; 報告（例如，doc 編輯、原則編輯、原則編輯、刪除）|是|是|是|是|是|是|是|是|
 |Content Organizer|是|否|是|是|是|是|是|是|
 |Design Manager|是|否|是|是|是|是|是|是|
 |文件組|是|是|是|是|是|是|是|是|
