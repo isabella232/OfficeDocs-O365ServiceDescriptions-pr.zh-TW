@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看在哪些方案中可使用哪些 OneDrive 功能。
-ms.openlocfilehash: a44c426be19db30ccd2544ed58fc0cf614357ea8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639871"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213925"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服務描述
 
@@ -27,7 +27,7 @@ ms.locfileid: "43639871"
   
 OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方案中，也可以獨立方案形式個別購買。 
     
-若要比較方案，請參閱 [比較商務用 Office 365 方案](https://go.microsoft.com/fwlink/?linkid=799177) 和 [比較商務用 OneDrive 方案](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans)。 
+若要比較方案，請參閱[支援您企業的強大工具](https://go.microsoft.com/fwlink/?linkid=799177)和[比較商務用 OneDrive 方案](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans)。 
   
 > [!NOTE]
 > OneDrive 獨立方案包含 Office 網頁版。 
