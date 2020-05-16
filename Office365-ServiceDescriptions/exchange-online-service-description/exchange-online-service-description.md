@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
-ms.openlocfilehash: f8c7a3b5d070fa51780e85f57a4a7176ca5c970b
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 53a553004ebe43770906c9bfb6a00178ac47249f
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213785"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267342"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -119,7 +119,7 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 |通訊錄原則|是|是|是|是|是|是|是|是|
 |階層式通訊錄|是|是|是|是|是|是|是|否|
 |通訊清單和全域通訊清單|是|是|是|是|是<sup>18</sup>|是<sup>18</sup>|是<sup>18</sup>|是<sup>18</sup>|
-|Office 365 群組|否|否|是|是|是|是|是|是|
+|Microsoft 365 群組|否|否|是|是|是|是|是|是|
 |通訊群組|是|是|是|是|是|是|是|是|
 |外部連絡人 (全域)|是|是|是|是|是|是|是|是|
 |通用連絡人卡片|是|是|是|是|是|是|是|是|

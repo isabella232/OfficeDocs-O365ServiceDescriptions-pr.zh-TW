@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: c3521baf89ddcdc442a7dcd461c5de15f2a2d48e
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: e3c4819c3734bd6c00f92d1cdf1411b1142d08b4
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214015"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267332"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -66,7 +66,7 @@ Enterprise 可移動性 + Security E5/A5，Microsoft 365 E5/A5，Microsoft 365 E
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-Microsoft 會為授權的使用者提供威脅偵測功能。
+Azure ATP 服務目前不能限制特定使用者的功能。 您必須授權您想要受益的每一位使用者。
 
 ## <a name="office-365-advanced-threat-protection"></a>Office 365 進階威脅防護
 
@@ -249,7 +249,7 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 資訊保護
 
 記錄管理功能可套用至特定位置的授權使用者（小組網站、群組網站等等）。 如需設定記錄管理以套用授權使用者的詳細資訊，請參閱[Microsoft 365 中的記錄管理](https://docs.microsoft.com/microsoft-365/compliance/records-management)。
 
-## <a name="ediscovery"></a>eDiscovery
+## <a name="ediscovery"></a>電子文件探索
 
 eDiscovery 在公司內為 IT 和法律部門提供調查和 eDiscovery 解決方案，以找出、收集、保留、減少及檢查與調查或訴訟相關的內容，然後再將其匯出至 Microsoft 365 系統。
 

@@ -9,24 +9,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: 安全性&amp;與合規性中心的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-ms.openlocfilehash: ec6c84e80f25699537b92d38ae8eb7470931750d
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+description: 安全性與 &amp; 合規性中心的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
+ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44001989"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267322"
 ---
-# <a name="security-amp-compliance-center"></a>安全性&amp;與合規性中心
+# <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 
-[安全性&amp;與合規性中心](https://protection.office.com/)的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
+[安全性與 &amp; 合規性中心](https://protection.office.com/)的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
 
-若要查看授權您的使用者從 Microsoft 365 規範功能受益于2020年4月1日的選項，請下載詳細的 Microsoft 365 相容性授權比較。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf) |  [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+若要查看授權您的使用者從 Microsoft 365 規範功能受益于2020年4月1日的選項，請下載詳細的 Microsoft 365 相容性授權比較。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
   
-## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>商務&amp;和企業方案的安全性與合規性中心可用性
+## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>&amp;商務和企業方案的安全性與合規性中心可用性
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -38,7 +38,7 @@ ms.locfileid: "44001989"
 |[客戶加密箱](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |否   |否   |否   |否   |否   |是   |否   |
 |[行動裝置管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |是   |是   |是   |是   |是   |是   |是   |
 |Business<sup>7，9</sup>的[Exchange Online、SharePoint Online 和 OneDrive 資料遺失防護](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) |否   |否   |否   |否   |是   |是   |否   |
-|[Microsoft 小組的通訊資料遺失防護](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |否   |否   |否   |否   |是   |否  |
+|[Microsoft 小組的通訊資料遺失防護](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |否   |否   |否   |否   |否   |是  |
 |[手動敏感度標籤](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 否 | 否  |否   | 是 | 是 | 是 | 否  |
 |自動敏感度標籤| 否 | 否  |否  | 否 | 否 | 是<sup>13</sup> | 否  |
 |[資訊屏障](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |否   |否   |否   |否   |否   |是   |否  |
@@ -53,8 +53,8 @@ ms.locfileid: "44001989"
 |[基本審核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |是   |是   |是|是   |是   |是   |是   |
 |[高級審計](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |否   |否   |否   |否   |否   |是   |否   |
 |[通訊相容性（監察原則）](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |否   |否   |否   |否   |否   |是   |否   |
-|[Office 365 郵件加密 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |否   |否   |否   |否   |否   |是   |否   |
-|[Office 365 進階郵件加密](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |否   |否   |否   |否   |否   |是   |否   |
+|[Office 365 郵件加密（OME）基本](https://docs.microsoft.com/microsoft-365/compliance/ome)  |否   |否   |否   |否   |是  |是   |否   |
+|[Office 365 進階郵件加密](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |否   |否   |否   |否   |否 |是   |否   |
 |[特殊許可權存取管理](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |否   |否   |否   |否   |否   |是   |否   |
 |[客戶金鑰](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |否   |否   |否   |否   |否   |是   |否   |
 |||||||||
@@ -85,7 +85,7 @@ ms.locfileid: "44001989"
 
 <sup>13</sup>不包含以機器為基礎的標籤（trainable 分類器）。
 
-## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>獨立&amp;方案的安全性與合規性中心可用性
+## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;獨立方案的安全性與合規性中心可用性
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
