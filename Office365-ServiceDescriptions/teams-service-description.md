@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 團隊提供立即訊息、檔案與資料共同作業、音訊和影片通話、豐富的線上會議、行動經驗和大量的 web 會議功能。
-ms.openlocfilehash: 59337249c650157797e2c577ceefe24d3db62863
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
+ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213648"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "44356891"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服務描述
 
@@ -28,7 +28,7 @@ Microsoft 仍會致力於保護您的資料和我們的服務的[可存取性](h
 |||||
 |:-----|:-----|:-----|:-----|
 |**小型企業方案** <br/> |**企業方案** <br/> |**教育計畫** <br/> |**開發人員方案** <br/> |
-|Microsoft 365 商務基本版  <br/> |Office 365 企業版 E1  <br/> |Office 365 教育版  <br/> |Office 365 開發人員  <br/> |
+|Microsoft 365 商務基本版  <br/> |Office 365 Enterprise E1  <br/> |Office 365 教育版  <br/> |Office 365 開發人員  <br/> |
 |Microsoft 365 商務標準版  <br/> |Office 365 Enterprise E3  <br/> |Office 365 教育增強版  <br/> |   <br/> |
 |商務用 Microsoft 365  <br/> |Office 365 企業版 E4 （已退休）  <br/> |Office 365 教育版 E3 （已退休）  <br/> |  <br/> |
 |  <br/> |Office 365 企業版 E5  <br/> |Office 365 教育版 E5  <br/> |  <br/> |
@@ -60,7 +60,7 @@ Microsoft 團隊並非獨立服務提供。
 |語音  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |音訊會議  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |應用程式、Bot、& 連接器  <br/> |是  <br/> |是  <br/> |是<sup>4</sup>  <br/> |是<sup>4</sup>  <br/> |是<sup>4</sup>  <br/> |是  <br/> |
-|即時事件  <br/> |是  <br/> |是  <br/> |是  <br/> |否<sup>5</sup>  <br/> |否<sup>5</sup>  <br/> |是  <br/> |
+|即時事件  <br/> |否  <br/> |是  <br/> |是  <br/> |否<sup>5</sup>  <br/> |否<sup>5</sup>  <br/> |是  <br/> |
 
 <sup>1</sup>在 GCC 中的 Microsoft 團隊-高和 DOD 支援2500成員在個別小組中。<br/>
 <sup>2</sup> Microsoft Planner 目前無法存取私人通道。<br/>

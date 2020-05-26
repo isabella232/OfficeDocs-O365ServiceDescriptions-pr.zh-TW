@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 瞭解 Microsoft 365 和獨立方案的 SharePoint 限制。
-ms.openlocfilehash: ea8b55958678f14332ea808f0d49eed6827bcd58
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8f793cbda0728f3d9ccc800b1c8eb75fb5855bde
+ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638921"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "44356881"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -86,6 +86,10 @@ ms.locfileid: "43638921"
 
 200000術語存放區中的術語，1000全域字片語，1000群組。
 
+### <a name="overall-site-metadata"></a>整體網站中繼資料
+
+每個網站 1000 GB （中繼資料極少會達到此大小）。
+
 ### <a name="subsites"></a>式 
 
 每個網站2000個（網站集合）。 我們建議您建立網站，並將其組織成中樞，而不是建立子網站。 如果您使用子網站，建議您限制其編號（特別是在大量 trafficked 網站上）。
@@ -105,6 +109,6 @@ ms.locfileid: "43638921"
 > [!NOTE]
 > 您可以邀請 SharePoint 網站的客人數目沒有限制。 如需外部共用的詳細資訊，請參閱[外部共用一覽](/sharepoint/external-sharing-overview)。
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 [SharePoint 的搜尋限制](/sharepoint/search-limits)
