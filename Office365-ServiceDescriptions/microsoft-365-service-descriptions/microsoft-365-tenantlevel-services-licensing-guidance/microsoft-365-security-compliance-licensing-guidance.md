@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: e3c4819c3734bd6c00f92d1cdf1411b1142d08b4
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 9ffcba0e8c4e2fe92afe8fff4da093b38c207573
+ms.sourcegitcommit: 2d13c0f81cf0698a738dbb2a2943ad97c6128bbe
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267332"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44408923"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -30,7 +30,7 @@ ms.locfileid: "44267332"
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
-Azure Active Directory Identity Protection (AADIP) 是 Azure Active Directory Premium P2 方案的一項功能，可讓您偵測會影響組織身分識別的潛在弱點，設定對偵測到與組織身分識別相關的可疑動作進行自動回應，以及調查可疑的事件並採取適當動作來加以解決。
+Azure Active Directory Identity Protection 是 Azure Active Directory Premium P2 的功能，可讓您偵測影響組織之身分識別的潛在弱點、設定自動回應，以偵測到與您組織的身分識別相關的可疑動作，以及調查可疑的事件，並採取適當的措施加以解決。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
@@ -42,11 +42,11 @@ Enterprise 可移動性 + Security E5/A5，Microsoft 365 E5/A5，Microsoft 365 E
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，AADIP 功能會在租用戶層級針對租用戶內的所有使用者啟用。 如需 AADIP 的相關資訊，請參閱[什麼是 Azure Active Directory Identity Protection？](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+根據預設，會在租使用者中的所有使用者在租使用者層級上啟用 Azure AD 身分識別保護功能。 如需 Azure AD 身分識別保護的詳細資訊，請參閱[什麼是 Azure Active Directory 身分識別保護？](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-系統管理員可以透過指派可定義密碼重設層級的風險原則，並僅允許取得授權的使用者存取，以限定 AADIP 的範圍。 如需如何限定 AADIP 部署範圍的相關指示，請參閱[設定登入風險原則](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)。
+系統管理員可以指派定義密碼重設層級的風險原則，並只允許授權使用者的存取，以限定 Azure AD 身分識別保護的範圍。 如需如何針對 Azure AD 身分識別保護部署進行範圍的指示，請參閱[Configure the sign in 危險原則](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)。
 
 ## <a name="azure-advanced-threat-protection"></a>Azure 進階威脅防護
 
