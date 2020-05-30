@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如果您想要知道 Office 365 教育版方案有何差異，本文將說明各方案中包含的功能。 Office 365 與知名的 Microsoft Office 桌面套件結合，搭載 Microsoft 新一代通訊與共同作業服務的雲端架構版本 (包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office 網頁版，以及 Microsoft 商務用 Skype Online)，讓使用者可透過網際網路在任何地點執行工作。
-ms.openlocfilehash: eeb5c721c57948dcbce2eb9fa952b0b89c6d3c3d
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 4287d96e0f169196ad612d247da257df469d9e8a
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044995"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429128"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -23,7 +23,7 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如�
   
 本文列出適用於 Office 365 教育版方案 (A1、A3 和 A5) 的功能。 若要跨商務和企業方案比較功能，請參閱[比較 Office 365 For business 方案](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)，或如需更詳細的功能清單，請參閱[Microsoft 365 和 Office 365 服務說明](../office-365-service-descriptions-technet-library.md)底下的相關服務說明。
   
-若要搜尋支援文章和資訊，請參閱[Office &amp;協助訓練](https://support.office.com/)。
+若要搜尋支援文章和資訊，請參閱[Office 協助 &amp; 訓練](https://support.office.com/)。
   
 ## <a name="service-availability-for-each-plan"></a>每個方案可用的服務
 
@@ -161,7 +161,7 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如�
 |進階電子文件探索<sup>7</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
 |安全分數<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |威脅情報  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|**[合規性](compliance-servicedesc.md)** <br/> ||||
+|**[合規性](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||
 |SAS 70 / SSAE16 評估  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 認證  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |歐盟示範條款  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -191,9 +191,9 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如�
 <sup>9</sup> 如需詳細資訊，請參閱 [MyAnalytics 方案和環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments) (英文)。<br>
 <sup>10</sup>自動將簡報電子郵件提供給 Exchange Online 的所有使用者。 如需詳細資訊，請參閱[設定簡報電子郵件](https://docs.microsoft.com/Briefing/be-admin)。<br>
 
-## <a name="security-amp-compliance-center-features"></a>安全性&amp;與合規性中心功能
+## <a name="security-amp-compliance-center-features"></a>安全性與 &amp; 合規性中心功能
 
-[安全性&amp;與合規性中心](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center)的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。 
+[安全性與 &amp; 合規性中心](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center)的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 

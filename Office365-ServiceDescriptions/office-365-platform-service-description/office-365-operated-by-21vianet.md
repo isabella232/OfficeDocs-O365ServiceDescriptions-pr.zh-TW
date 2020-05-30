@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: df10728ec4e195fb69bb9140fa5da968a5ed2ac1
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 2cbb01706acaf5902ceda7a2ee16bcd3497a5f28
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226252"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429108"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -176,7 +176,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |進階 eDiscovery|否|否|否|否|否|否|否|
 |安全分數<sup>4</sup>|否|否|否|否|否|否|否|
 |威脅情報|否|否|否|否|否|否|否|
-|**[合規性](compliance-servicedesc.md)**||||||||
+|**[合規性](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
 |SAS 70 / SSAE16 評估|否|否|否|否|否|否|否|
 |ISO 27001 認證|是|是|是|是|是|是|是|
 |歐盟示範條款|否|否|否|否|否|否|否|

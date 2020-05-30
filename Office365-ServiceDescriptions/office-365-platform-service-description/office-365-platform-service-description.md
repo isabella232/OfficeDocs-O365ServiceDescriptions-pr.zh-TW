@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組織的需求。 如果您正在尋找方案（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
-ms.openlocfilehash: 8c050d771976fb70707f0d781edaa9fdcbcb76fe
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: e5800a18c0709db2e9b8c16b569a20434d9e25e4
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214005"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429068"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服務說明
 
@@ -188,7 +188,7 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 |Advanced eDiscovery<sup>16</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |Microsoft Secure 得分<sup>7</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |威脅情報  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|**[合規性](compliance-servicedesc.md)** <br/> ||||||||
+|**[合規性](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
 |SAS 70 / SSAE16 評估  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 認證  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |歐盟示範條款  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |

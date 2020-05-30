@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已建立 Office 365 美國政府方案（或 Office 365 政府版）。 本文概要說明 Office 365 政府美國環境所特有的功能。
-ms.openlocfilehash: c530009151f327f556a28194aaa692fcb5ebc122
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: fb7eac83230c92adfbd52a3744e9cfd101292050
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045035"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429058"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -132,9 +132,9 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 
 如需適用於 Office 365 US Government 方案的系統需求，請參閱 [office.com](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 產品網站上的 [Office 的系統需求](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)。 
   
-## <a name="security-amp-compliance-center"></a>安全性&amp;與合規性中心
+## <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 
-如需安全性&amp;與合規性中心的詳細資訊，以及其他資訊與可用性的連結，請參閱[安全性&amp;合規性中心](../../office-365-platform-service-description/office-365-securitycompliance-center.md)。
+如需安全性 &amp; 與合規性中心的詳細資訊，以及其他資訊與可用性的連結，請參閱[安全性 &amp; 合規性中心](../../office-365-platform-service-description/office-365-securitycompliance-center.md)。
   
 ## <a name="service-availability-for-each-plan"></a>每個方案可用的服務
 
@@ -152,7 +152,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |Skype for Business (Instant Messaging &amp; Presence)  <br/> |是<sup>1</sup> <br/> |是  <br/> |是  <br/> |是<sup>1</sup> <br/> |
 | 語音電話系統、音訊會議  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |是 <sup>5</sup> <br/> |否  <br/> |
 |Power BI Pro  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |是  <br/> |否<sup>2</sup> <br/> |
-|Microsoft Project Online  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |
+|Project Online  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |
 |Visio 網頁版  <br/> |否<sup>6</sup> <br/> |否<sup>6</sup> <br/> |否<sup>6</sup> <br/> |否<sup>6</sup> <br/> |
 |Yammer Enterprise  <br/> |否<sup>4</sup> <br/> |否<sup>4</sup> <br/> |否<sup>4</sup> <br/> |否<sup>4</sup> <br/> |
    
@@ -179,7 +179,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |Microsoft Bookings  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft 簡報電子郵件  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft Power Automate  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
-|Microsoft Forms  <br/> |是 <br/> |是 <br/> |是<br/> |是</sup> <br/> |
+|Microsoft Forms  <br/> |是 <br/> |是 <br/> |是<br/> |是的</sup> <br/> |
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft MyAnalytics  <br/> |否 <br/> |否 <br/> |是<sup>17</sup> <br/> |否 <br/> |
 |Microsoft Planner  <br/> |是 <br/> |是 <br/> |是 <br/> |是 <br/> |
@@ -264,7 +264,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |安全分數<sup>14</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
 |Office 郵件加密  <br/> |否  <br/> |是 <br/> |是 <br/> |否  <br/> |
 |威脅情報  <br/> |無<sup>12</sup> <br/> |無<sup>12</sup> <br/> |是 <br/> |無<sup>12</sup> <br/> |
-|**[合規性](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
+|**[合規性](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> |||||
 |SAS 70 / SSAE16 評估  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 認證  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |歐盟示範條款  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -296,7 +296,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 <br/><sup>11</sup>尚未提供于 Office 365 政府方案中，但即將推出。 
 <br/><sup>12</sup>不包含在內，但可以在 GCC 中以個別的附加元件形式購買。 
 <br/><sup>13</sup>不支援 Office 365 政府版服務。 
-<br/><sup>14</sup>可供[https://securescore.office.com](https://securescore.office.com)使用。 需要系統管理員許可權。 如需詳細資訊，請參閱 [Office 365 安全分數簡介](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)。
+<br/><sup>14</sup>可供使用 [https://securescore.office.com](https://securescore.office.com) 。 需要系統管理員許可權。 如需詳細資訊，請參閱 [Office 365 安全分數簡介](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)。
 ). 
 <br/><sup>15</sup>在 DoD 環境中尚未提供，但即將推出。 
 <br/><sup>16</sup>系統管理中心不包括 DOD 或 GCC 高環境中的流量分析。
@@ -324,10 +324,10 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[商務用 Skype](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |是<sup>3</sup> <br/> |是  <br/> |是  <br/> |是<sup>3</sup> <br/> |
 |[Office 365 的 Mac 版 Office](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57) <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
-|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |是  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
+|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是  <br/> |是的<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
+|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |是  <br/> |是的<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
 |[Office Mobile for Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |是  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是  <br/> |
-|Office Mobile for Windows 10 tablets <br/> |是  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
+|Office Mobile for Windows 10 tablets <br/> |是  <br/> |是的<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
 |適用于 iOS 和 Android<sup>5，4</sup>的 Outlook  <br/> |是 <br/> |是 <br/> |是 <br/> |是 <br/> |
 |**企業價值** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |每個使用者可同時在 5 部 PC 或 Mac 上安裝  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
