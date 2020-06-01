@@ -26,7 +26,6 @@
 ### [說明和訓練](office-365-platform-service-description/help-and-training.md)
 ### [網路功能](office-365-platform-service-description/networking.md)
 ### [隱私權、安全性和透明化](office-365-platform-service-description/privacy-security-and-transparency.md)
-### [合規性](office-365-platform-service-description/compliance-servicedesc.md)
 ### [BlackBerry](office-365-platform-service-description/blackberry.md)
 ### [合作夥伴](office-365-platform-service-description/partners.md)
 ### [服務等級協定](office-365-platform-service-description/service-level-agreement.md)
