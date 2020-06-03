@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 8d3e63906024582f78db93a3cf288ca80c868387
-ms.sourcegitcommit: f7d8ab5daf7618c9b6827c8595403592faf2758b
+ms.openlocfilehash: 62bd075a22a7952bcd1f3608f0a7f82f3908d374
+ms.sourcegitcommit: 7c4be54e4f685c259b732167dc88ae34a8b1e4e2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44412692"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44524176"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -180,6 +180,11 @@ Microsoft Defender ATP 系統管理員可以利用以[角色為基礎的存取�
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
 Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium，Enterprise 可移動性 + Security F3/E3/E5，Office 365 E5/A5/E3/A3/F3，AIP Plan 1，and AIP Plan 2 為使用者提供從手動敏感度標記中受益的權利。
+
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium、Enterprise 可移動性 + Security F3/E3/E5、AIP Plan 1 和 AIP Plan 2 為使用者提供的權力，可讓使用者在 Power BI 中套用和查看敏感度標籤，並在將資料從 Power BI 匯出至 Excel、PowerPoint 或 PDF 時，加以受益。 
+
+> [!NOTE]
+> Power BI 隨附于 Microsoft 365 E5/A5/G5;在所有其他計畫中，Power BI 必須另行授權。
 
 Microsoft 365 E5/A5/G5，Microsoft 365 E5/a5/g5，Microsoft 365 資訊保護和控管，Office 365 E5，Office 365 Advanced 合規性，Enterprise 可移動性 + Security E5，及 AIP Plan 2 為使用者提供的權力，可供使用者從自動敏感度標記中受益。
 
