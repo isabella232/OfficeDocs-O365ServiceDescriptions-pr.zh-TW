@@ -8,18 +8,18 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 團隊提供立即訊息、檔案與資料共同作業、音訊和影片通話、豐富的線上會議、行動經驗和大量的 web 會議功能。
-ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
-ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
+ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "44356891"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679580"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服務描述
 
 Microsoft 團隊是 Microsoft 365 中合作的中心。 小組服務可讓您立即訊息、音訊和影片通話、豐富的線上會議、行動經驗和大量的 web 會議功能。 此外，小組提供檔案與資料共同作業及擴充功能，並與 Microsoft 365 和其他 Microsoft 和合作夥伴應用程式整合。
 
-商務用 Skype Online 將于2021年7月31日（已于年7月 30 2019 日[宣佈](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)）終止。 Microsoft 團隊是一種全新的服務，其從頭開始使用 Azure 和 Microsoft 的其他服務創新，從頭為雲端構建。 Microsoft 團隊是以 Office 365 群組、Microsoft Graph，以及與 Office 365 的其餘部分相同的企業層級安全性、相容性和可管理性來建立。 小組利用 Azure Active Directory （Azure AD）中儲存的身分識別。 這些服務是由 Microsoft 資料中心提供，可供使用者從公司網路內部或透過網際網路內部的各種裝置存取。 如需詳細資訊，請參閱[Microsoft 團隊 IT 架構和電話語音解決方案海報](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters)。
+商務用 Skype Online 將于2021年7月31日（已于年7月 30 2019 日[宣佈](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)）終止。 Microsoft 團隊是一種全新的服務，其從頭開始使用 Azure 和 Microsoft 的其他服務創新，從頭為雲端構建。 Microsoft 團隊是以 Microsoft 365 群組、Microsoft Graph，以及與 Office 365 的其餘部分相同的企業層級安全性、合規性和可管理性來建立。 小組利用 Azure Active Directory （Azure AD）中儲存的身分識別。 這些服務是由 Microsoft 資料中心提供，可供使用者從公司網路內部或透過網際網路內部的各種裝置存取。 如需詳細資訊，請參閱[Microsoft 團隊 IT 架構和電話語音解決方案海報](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters)。
 
 Microsoft 仍會致力於保護您的資料和我們的服務的[可存取性](https://www.microsoft.com/trust-center/compliance/accessibility)。 如需詳細資訊，請參閱[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 協助工具中心](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
 

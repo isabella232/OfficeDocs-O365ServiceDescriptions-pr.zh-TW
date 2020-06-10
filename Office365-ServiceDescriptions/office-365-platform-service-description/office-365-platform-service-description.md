@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組織的需求。 如果您正在尋找方案（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
-ms.openlocfilehash: e5800a18c0709db2e9b8c16b569a20434d9e25e4
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: c0210b264f077a4403bbe987c469fa2574f77bf2
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429068"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679570"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服務說明
 
@@ -43,9 +43,9 @@ Microsoft 365 和 Office 365 可將雲端生產力的功能提供給各種規模
   
 若要瞭解大量授權，請參閱[授權條款和檔](https://go.microsoft.com/fwlink/?linkid=848696)。
   
-## <a name="microsoft-365-and-office-365-nonprofit-plans-and-pricing"></a>Microsoft 365 和 Office 365 非盈利性方案和價格
+## <a name="microsoft-365-and-office-365-plans-and-pricing-for-nonprofits"></a>適用于非營利組織的 Microsoft 365 和 Office 365 方案和價格
 
-針對符合 Microsoft 365 或 Office 365 非盈利性方案的組織，這些方案包含與對應商務方案完全相同的功能（例如，Office 365 非贏利 E5 包含與 Office 365 E5 相同的功能）。 這些對等方案之間的唯一差別是您支付的價格。 如需 Microsoft 365 和 Office 365 非盈利性方案的詳細資訊，請參閱[比較 Microsoft 365 與 office 365 的非贏利服務](https://go.microsoft.com/fwlink/?LinkID=627221)，以及[非營利組織的生產力解決方案](https://go.microsoft.com/fwlink/?LinkID=786641)。
+針對適用于非營利組織的 Microsoft 365 和 Office 365 方案的組織，這些方案包含與對應商務方案完全相同的功能（例如，Office 365 E5 for 非營利組織包含與 Office 365 E5 相同的功能）。 這些對等方案之間的唯一差別是您支付的價格。 如需適用于非營利組織的 Microsoft 365 和 Office 365 方案的詳細資訊，請參閱[比較 Microsoft 365 與 office 365 提供的非營利組織](https://go.microsoft.com/fwlink/?LinkID=627221)和[生產力解決方案以取得非營利組織](https://go.microsoft.com/fwlink/?LinkID=786641)。
   
 ## <a name="system-requirements"></a>系統需求
 
@@ -83,7 +83,7 @@ Microsoft 365 和 Office 365 可將雲端生產力的功能提供給各種規模
     
 - 美國政府版：[Office 365 美國政府版方案](https://go.microsoft.com/fwlink/?LinkID=827898)
     
-- 非盈利性：[比較 Microsoft 365 和 Office 365 非盈利性優惠](https://go.microsoft.com/fwlink/?LinkID=733237)
+- 非盈利性：[比較 Microsoft 365 和 Office 365 提供的非營利組織](https://go.microsoft.com/fwlink/?LinkID=733237)
 
 - Office 365 Germany：[Office 365 Germany 方案](https://go.microsoft.com/fwlink/?linkid=839016)
     
