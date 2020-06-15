@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全性與 &amp; 合規性中心的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267322"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711113"
 ---
 # <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 
@@ -59,7 +59,7 @@ ms.locfileid: "44267322"
 |[客戶金鑰](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |否   |否   |否   |否   |否   |是   |否   |
 |||||||||
 
-<sup>1</sup>資訊管理可讓使用者建立、發佈和手動將標籤套用至檔;使用磁片磁碟機運送或透過網路匯入資料。
+<sup>1</sup>資訊管理可讓使用者建立、發佈和手動將標籤套用至檔;使用磁片磁碟機運送或透過網路匯入資料。 您可以在 E3 和 E5 使用這些功能，只在 E1 中使用有限的可用性。 如需 E1、E3 及 E5 中可用之功能的完整清單，請參閱詳細的 Microsoft 365 相容性授權比較。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup>高級資訊管理可讓您根據保留或刪除原則或兩者來分類資訊，保留重要資訊並刪除不重要的資訊。 它包含智慧/自動化的動作，例如推薦原則、自動將標籤套用至資料、套用標籤的敏感資料類型或查詢、處置檢查，以及使用智慧匯入篩選。 其中也包含監督功能，可讓您針對安全性與合規性目的檢閱員工通訊。
 
@@ -115,7 +115,7 @@ ms.locfileid: "44267322"
 |[特殊許可權存取管理](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |否   |否   |否   |否   |是   |否   |否|否|否|
 |||||||||
 
-<sup>1</sup>資訊管理可讓使用者建立、發佈和手動將標籤套用至檔;使用磁片磁碟機運送或透過網路匯入資料。
+<sup>1</sup>資訊管理可讓使用者建立、發佈和手動將標籤套用至檔;使用磁片磁碟機運送或透過網路匯入資料。 您可以在 E3 和 E5 使用這些功能，只在 E1 中使用有限的可用性。 如需 E1、E3 及 E5 中可用之功能的完整清單，請參閱詳細的 Microsoft 365 相容性授權比較。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup>需要購買 Exchange Online 封存附加元件。
 

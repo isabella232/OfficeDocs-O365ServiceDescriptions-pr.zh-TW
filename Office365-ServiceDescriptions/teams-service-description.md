@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 團隊提供立即訊息、檔案與資料共同作業、音訊和影片通話、豐富的線上會議、行動經驗和大量的 web 會議功能。
-ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: 13b7c1e08e331d90d2318eb7bad055ddf184e2d3
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679580"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711143"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服務描述
 
@@ -25,14 +25,17 @@ Microsoft 仍會致力於保護您的資料和我們的服務的[可存取性](h
 
 針對您的參考，我們已包含可讓使用者使用 Microsoft 小組的訂閱主清單。 如需詳細的計畫資訊，請參閱[尋找適用于貴公司的 Microsoft 團隊](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1)。 如需政府方案中的其他 Office 365，請參閱[Office 365 政府方案](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)。 Office 365 G1 到 G5 包含對小組功能的存取權。
 
-|||||
+|||||||||
 |:-----|:-----|:-----|:-----|
 |**小型企業方案** <br/> |**企業方案** <br/> |**教育計畫** <br/> |**開發人員方案** <br/> |
-|Microsoft 365 商務基本版  <br/> |Office 365 Enterprise E1  <br/> |Office 365 教育版  <br/> |Office 365 開發人員  <br/> |
-|Microsoft 365 商務標準版  <br/> |Office 365 Enterprise E3  <br/> |Office 365 教育增強版  <br/> |   <br/> |
-|商務用 Microsoft 365  <br/> |Office 365 企業版 E4 （已退休）  <br/> |Office 365 教育版 E3 （已退休）  <br/> |  <br/> |
-|  <br/> |Office 365 企業版 E5  <br/> |Office 365 教育版 E5  <br/> |  <br/> |
-|  <br/> |Office 365 企業版 F1  <br/> |  <br/> |  <br/> |
+|Microsoft 365 商務基本版 <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Office 365 開發人員 <br/> |
+|Microsoft 365 商務標準版 <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
+|Microsoft 365 商務進階版 <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
+|  <br/> |Office 365 F3 <br/> |  Microsoft 365 A3<br/> |  <br/> |
+|  <br/> |Microsoft 365 F1 <br/> |  Microsoft 365 A5<br/> |  <br/> |
+|  <br/> |Microsoft 365 F3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
 如需詳細的產品功能實現指導，請參閱[Microsoft 團隊管理檔](https://docs.microsoft.com/MicrosoftTeams)。 此服務說明會詳細說明各雲端安裝所提供服務之間的主要差異。 Microsoft 小組核心功能不會有不同的訂閱。 相容性功能的可用性取決於您的訂閱等級。 若要深入瞭解，請參閱 [Microsoft 小組中的安全性和符合性](https://docs.microsoft.com/microsoftteams/security-compliance-overview)。 如需每個訂閱中可用功能的詳細清單，請參閱[Microsoft 365 和 Office 365 平臺服務說明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。
 
