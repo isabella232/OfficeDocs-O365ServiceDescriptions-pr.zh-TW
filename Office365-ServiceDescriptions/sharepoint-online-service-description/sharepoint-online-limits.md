@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 瞭解 Microsoft 365 和獨立方案的 SharePoint 限制。
-ms.openlocfilehash: 8f793cbda0728f3d9ccc800b1c8eb75fb5855bde
-ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
+ms.openlocfilehash: 0f8516b92d6d32477c95a4d6bbc894700f607226
+ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "44356881"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "44768109"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -25,7 +25,7 @@ ms.locfileid: "44356881"
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Microsoft 365 商務基本或商務版 Premium** <br/> |**Office 365 Enterprise E1、E3 或 E5，或 SharePoint 方案1或2** <br/> | **Office 365 企業版 F3** <br/> |
-|每個組織的總儲存量<sup>1，2，6</sup> <br/> |每個授權購買 1 TB 外加 10 GB  <br/> |每個授權購買 1 TB 外加 10 GB<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
+|每個組織的總儲存量<sup>1，2，6</sup> <br/> |每個授權購買 1 TB 外加 10 GB  <br/> |每個授權購買 1 TB 外加 10 GB<sup>3</sup> <br/> |每個授權購買 2 gb 加上 2 GB<sup>3</sup> <br/> |
 |每個網站最大儲存體（網站集合）<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |每個組織的網站（網站集合）  <br/> |2000000<sup>6</sup> <br/> |2000000<sup>6</sup> <br/> |2000000<br/> |
 |使用者數目  <br/> |最多 300 個  <br/> |1- 500,000<sup>7</sup> <br/> |1- 500,000<sup>7</sup> <br/> |
@@ -63,7 +63,7 @@ ms.locfileid: "44356881"
 
 **新 OneDrive 同步處理應用**程式-為了獲得最佳效能，建議您在所有已同步處理的文件庫中儲存不超過300000的檔案，即使您是以要求進行，或是只選擇文件庫中的某些資料夾，也能進行同步處理。
 
-**OneDrive 舊版 Business sync app （Groove）** -您最多可以同步處理所有同步處理的文件庫中的20000個專案。 這包括 OneDrive 文件庫、小組網站程式庫或兩者。 與整體同步處理限制分開時，每個文件庫類型可同步處理的專案數有限制：
+**OneDrive 舊版 Business sync app （Groove.exe）** -您最多可以同步處理所有已同步處理的文件庫中的20000個專案。 這包括 OneDrive 文件庫、小組網站程式庫或兩者。 與整體同步處理限制分開時，每個文件庫類型可同步處理的專案數有限制：
 
    - 您最多可以同步處理 OneDrive 程式庫中的20000個專案。 這包括資料夾及檔案。 
    - 您最多可以同步處理 SharePoint 程式庫中的5000個專案。 這包括資料夾及檔案。 這些是您可以在各種 SharePoint 網站上找到的文件庫，例如小組網站和群組網站、其他人員建立或您從您的網站頁面建立的文件庫。 您可以同步處理多個 SharePoint 文件庫。 您同步處理的任何小組網站也會在所有同步處理的文件庫中，計算全部20000專案限制。
@@ -109,6 +109,6 @@ ms.locfileid: "44356881"
 > [!NOTE]
 > 您可以邀請 SharePoint 網站的客人數目沒有限制。 如需外部共用的詳細資訊，請參閱[外部共用一覽](/sharepoint/external-sharing-overview)。
 
-## <a name="see-also"></a>另請參閱
+## <a name="see-also"></a>請參閱
 
 [SharePoint 的搜尋限制](/sharepoint/search-limits)
