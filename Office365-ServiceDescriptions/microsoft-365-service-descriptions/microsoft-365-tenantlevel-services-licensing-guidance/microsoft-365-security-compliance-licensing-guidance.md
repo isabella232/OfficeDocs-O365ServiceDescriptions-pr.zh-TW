@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 4664f782fcd15f3357ae2394b54a4a4302834073
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
+ms.openlocfilehash: d9b6d40bb5c9e55805f0e26d008194aa0399ec3f
+ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711133"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44845007"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -210,6 +210,8 @@ Microsoft 365 E5/A5/G5，Microsoft 365 E5/a5/g5，Microsoft 365 資訊保護和�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
+Office 365 E5/A5/E3/A3/E1/A1 提供基本的資訊控管功能，可手動套用非記錄保留標籤、匯入 PST 檔案，以及封存電子郵件。
+
 Microsoft 365 E5/A5/E3/A3、Office 365 E5/A5/E3/A3 為使用者提供的許可權，可從單一整個組織或位置範圍的保留原則和/或手動保留標記中受益。
 
 Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 資訊保護和控管 Office 365 E5/A5 和 Office 365 Advanced 規章為使用者提供的權力，可讓使用者從自動套用保留標籤或原則起獲得好處：根據自訂事件開始保留標籤的保留期間，在標籤保留期間結束時觸發手動處理檢查，並透過原生資料連線器匯入協力廠商資料，發現已標示內容及監控標記活動。
@@ -218,7 +220,7 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 資訊保護
 
 如需授權的特定權利，請參閱詳細的 Microsoft 365 相容性授權比較。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
-不包含以機器學習（trainable 分類器）為基礎的自動保留許可權。
+Office 365 Advanced 合規性不包含以機器學習（trainable 分類器）為基礎的自動保留許可權。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
