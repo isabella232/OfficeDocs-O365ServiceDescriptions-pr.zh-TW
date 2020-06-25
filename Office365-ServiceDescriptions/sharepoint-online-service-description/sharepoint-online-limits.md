@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 瞭解 Microsoft 365 和獨立方案的 SharePoint 限制。
-ms.openlocfilehash: 0f8516b92d6d32477c95a4d6bbc894700f607226
-ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
+ms.openlocfilehash: 1df1b5914d26e46798db04732b0574203ec1fab9
+ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "44768109"
+ms.lasthandoff: 06/24/2020
+ms.locfileid: "44873613"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -25,7 +25,7 @@ ms.locfileid: "44768109"
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Microsoft 365 商務基本或商務版 Premium** <br/> |**Office 365 Enterprise E1、E3 或 E5，或 SharePoint 方案1或2** <br/> | **Office 365 企業版 F3** <br/> |
-|每個組織的總儲存量<sup>1，2，6</sup> <br/> |每個授權購買 1 TB 外加 10 GB  <br/> |每個授權購買 1 TB 外加 10 GB<sup>3</sup> <br/> |每個授權購買 2 gb 加上 2 GB<sup>3</sup> <br/> |
+|每個組織的總儲存量<sup>1，2，6</sup> <br/> |每個授權購買 1 TB 外加 10 GB  <br/> |每個授權購買 1 TB 外加 10 GB<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |每個網站最大儲存體（網站集合）<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |每個組織的網站（網站集合）  <br/> |2000000<sup>6</sup> <br/> |2000000<sup>6</sup> <br/> |2000000<br/> |
 |使用者數目  <br/> |最多 300 個  <br/> |1- 500,000<sup>7</sup> <br/> |1- 500,000<sup>7</sup> <br/> |
@@ -53,7 +53,7 @@ ms.locfileid: "44768109"
 
 ### <a name="file-size-and-file-path-length"></a>檔案大小及檔案路徑長度
 
-15 GB。 附加至清單專案的檔案大小上限為 250 MB。 若要深入瞭解使用新的 OneDrive 同步處理應用程式（OneDrive.exe）時的限制和限制，請參閱[不正確檔案名和檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+100 GB。 附加至清單專案的檔案大小上限為 250 MB。 若要深入瞭解使用新的 OneDrive 同步處理應用程式（OneDrive.exe）時的限制和限制，請參閱[不正確檔案名和檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
 
 ### <a name="moving-and-copying-across-sites"></a>跨網站移動及複製
 

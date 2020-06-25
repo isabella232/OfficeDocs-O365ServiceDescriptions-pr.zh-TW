@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: d9b6d40bb5c9e55805f0e26d008194aa0399ec3f
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
+ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845007"
+ms.lasthandoff: 06/24/2020
+ms.locfileid: "44873623"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -210,17 +210,21 @@ Microsoft 365 E5/A5/G5，Microsoft 365 E5/a5/g5，Microsoft 365 資訊保護和�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Office 365 E5/A5/E3/A3/E1/A1 提供基本的資訊控管功能，可手動套用非記錄保留標籤、匯入 PST 檔案，以及封存電子郵件。
+Microsoft 365 F3/Business Premium，Office 365 E1/A1/F3 和獨立 Exchange 計畫可為使用者提供權力，以手動將非記錄保留標籤套用至信箱資料。
 
-Microsoft 365 E5/A5/E3/A3、Office 365 E5/A5/E3/A3 為使用者提供的許可權，可從單一整個組織或位置範圍的保留原則和/或手動保留標記中受益。
+Microsoft 365 F3/F1/Business Premium、Office 365 E1/A1/F3 和獨立的 SharePoint 計畫，可讓使用者在 SharePoint 或 OneDrive 中，將非記錄保留標籤手動套用至檔案，以獲得有益的權力。 
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 資訊保護和控管 Office 365 E5/A5 和 Office 365 Advanced 規章為使用者提供的權力，可讓使用者從自動套用保留標籤或原則起獲得好處：根據自訂事件開始保留標籤的保留期間，在標籤保留期間結束時觸發手動處理檢查，並透過原生資料連線器匯入協力廠商資料，發現已標示內容及監控標記活動。
+Microsoft 365 E5/A5/E3/A3、Office 365 E5/A5/E3/A3、Exchange Plan 2 和 Exchange Online 封存為使用者提供的許可權，可從單一基本組織或全位置信箱保留原則和/或以手動方式將非記錄保留標籤套用至信箱資料。
+
+Microsoft 365 E5/A5/E3/A3、Office 365 E5/A5/E3/A3 和 SharePoint 方案2為使用者提供的權力，可從基本 SharePoint 或 OneDrive 保留原則，以及/或手動將非記錄保留標籤套用至 SharePoint 或 OneDrive 中的檔案。
+
+Microsoft 365 E5/A5/E3/A3 和 Office 365 E5/A5/E3/A3 可為使用者提供從小組保留原則中受益的權力。
+
+Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 資訊保護和控管，Office 365 E5/A5，和 Office 365 的「高級法規遵從性」為使用者提供的權力，可讓使用者從自動套用保留標籤或原則，獲得好處。套用預設保留標籤或原則，根據自訂事件開始保留標籤的保留期間，在標籤保留期間結束時觸發手動處置檢查、將協力廠商資料匯入到原生資料連線器、宣告檔案 a 記錄、探索標示的內容，以及監視標記活動。
 
 Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 資訊保護和控管為使用者提供的權力，是根據 trainable 的分類器自動套用保留標籤。
 
 如需授權的特定權利，請參閱詳細的 Microsoft 365 相容性授權比較。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
-Office 365 Advanced 合規性不包含以機器學習（trainable 分類器）為基礎的自動保留許可權。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -390,9 +394,7 @@ Office 365 E5/A5 的授權使用者，Microsoft 365 E5/A5，Microsoft 365 資訊
 | 案例 | 誰需要授權？ |
 |:-------|:------|
 | 兩個群組 (群組 1 和群組 2) 無法彼此通訊 (也就是說，群組 1 的使用者受到限制，無法與群組 2 的使用者通訊，而群組 2 使用者則受到限制，無法與群組 1 的使用者通訊。 | 群組 1 和群組 2 中的使用者 |
-| 群組 1 中的使用者受到限制，無法與公司其餘人員通訊。 | 僅限群組 1 中的使用者 |
-| 公司的其餘人員受到限制，無法與群組 1 通訊。 | 群組 1 中以外的所有使用者 |
-| 群組 1 使用者受到限制，無法與群組 2 使用者通訊，但群組 2 使用者可以與群組 1 使用者通訊。 | 僅限群組 1 中的使用者 ||
+| 群組 1 中的使用者受到限制，無法與公司其餘人員通訊。 | 僅限群組 1 中的使用者 ||
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
