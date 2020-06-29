@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 瞭解 Microsoft 365 和獨立方案的 SharePoint 限制。
-ms.openlocfilehash: 1df1b5914d26e46798db04732b0574203ec1fab9
-ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
+ms.openlocfilehash: 5b5b3fb771ef148a57d8d3224eacf1c34b794f67
+ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44873613"
+ms.lasthandoff: 06/27/2020
+ms.locfileid: "44909436"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -49,7 +49,9 @@ ms.locfileid: "44873613"
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>清單或文件庫中專案的特定權限
 
-支援的限制為50000，但建議的一般限制為5000。 若要變更超過5000的專案，請專屬許可權一次以上的專案。 針對大型清單，設計若盡可能具有少數獨特的許可權。
+支援的限制50000是專屬許可權唯一的專案，但是建議的一般限制為5000。 若要變更超過5000的專案，請專屬許可權一次以上的專案。 針對大型清單，設計若盡可能具有少數獨特的許可權。
+
+另一個限制是每個唯一專屬許可權專案5000的角色指派。 
 
 ### <a name="file-size-and-file-path-length"></a>檔案大小及檔案路徑長度
 
@@ -109,6 +111,6 @@ ms.locfileid: "44873613"
 > [!NOTE]
 > 您可以邀請 SharePoint 網站的客人數目沒有限制。 如需外部共用的詳細資訊，請參閱[外部共用一覽](/sharepoint/external-sharing-overview)。
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 [SharePoint 的搜尋限制](/sharepoint/search-limits)

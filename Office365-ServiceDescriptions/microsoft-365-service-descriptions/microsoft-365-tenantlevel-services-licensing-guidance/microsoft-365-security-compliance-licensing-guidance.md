@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
-ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
+ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
+ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44873623"
+ms.lasthandoff: 06/27/2020
+ms.locfileid: "44909446"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -129,7 +129,7 @@ MCAS 會探索並評定影子 IT，提供第一方與第三方雲端應用程式
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-MCAS，Enterprise 可移動性 + Security E5/A5/G5，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 安全性，以及 Microsoft 365 資訊保護和控管為使用者提供的權利可從 MCAS 中受益。
+MCAS，Enterprise 可移動性 + Security E5/A5/G5，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 安全性，Microsoft 365 E5/A5/G5 相容性，以及 Microsoft 365 資訊保護和控管為使用者提供的權力，可從 MCAS 中受益。
 
 Azure AD P1 為使用者提供的權力，可從 MCAS 中的探索功能中受益。
 
@@ -214,7 +214,7 @@ Microsoft 365 F3/Business Premium，Office 365 E1/A1/F3 和獨立 Exchange 計�
 
 Microsoft 365 F3/F1/Business Premium、Office 365 E1/A1/F3 和獨立的 SharePoint 計畫，可讓使用者在 SharePoint 或 OneDrive 中，將非記錄保留標籤手動套用至檔案，以獲得有益的權力。 
 
-Microsoft 365 E5/A5/E3/A3、Office 365 E5/A5/E3/A3、Exchange Plan 2 和 Exchange Online 封存為使用者提供的許可權，可從單一基本組織或全位置信箱保留原則和/或以手動方式將非記錄保留標籤套用至信箱資料。
+Microsoft 365 E5/A5/E3/A3/Business Premium、Office 365 E5/A5/E3/E3、Exchange Plan 2 和 Exchange Online 封存為使用者提供的許可權，可從基本整個組織或位置範圍的信箱保留原則和/或以手動方式將非記錄保留標籤套用至信箱資料。
 
 Microsoft 365 E5/A5/E3/A3、Office 365 E5/A5/E3/A3 和 SharePoint 方案2為使用者提供的權力，可從基本 SharePoint 或 OneDrive 保留原則，以及/或手動將非記錄保留標籤套用至 SharePoint 或 OneDrive 中的檔案。
 
