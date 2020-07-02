@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商務版 Premium 是適用于中小型企業客戶的 Microsoft 一流服務。 Microsoft 365 商務版特優整合解決方案，結合了 Microsoft 365 生產力、高級安全性和裝置管理。
-ms.openlocfilehash: 7d4def2067790bb77456643ebc9c89d121aa8c9a
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213955"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988857"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>中小型企業的 Microsoft 365 授權
 
@@ -137,7 +137,7 @@ Microsoft 365 商務版 Premium 是適用于中小型企業（SMB）客戶的 Mi
 |   | Windows Defender 進階威脅防護 | 否 | 否 | 否 | 是 |
 |   | Office 365 威脅情報 | 否 | 否  | 否 | 是 |
 |**身分識別管理** | 混合式 Azure Active Directory 帳戶的自助密碼重設，Azure MFA，條件式存取   | 否 | 是 | 是 | 是 |
-|   | Azure AD： Cloud App Discovery，Azure AD Connect Health，SSO 適用于超過10個應用程式 | 否 | 否 | 是 | 是 |
+|   | Azure AD： Cloud App Discovery，Azure AD Connect Health，SSO 適用于超過10個應用程式 | 是 | 是 | 是 | 是 |
 |   | Azure Active Directory 方案 2 | 否 | 否 | 否 | 是 |
 |**裝置 & app 管理** | Microsoft Intune、Windows AutoPilot | 否 | 是 | 是 | 是 |
 |   | 共用電腦啟用，Windows 虛擬桌面 | 否 | 是 | 是 | 是 |
@@ -160,7 +160,7 @@ Microsoft 365 商務版 Premium 是適用于中小型企業（SMB）客戶的 Mi
 
 ## <a name="office-client-commercial-plans"></a>Office 用戶端商業方案
 
-| **應用程式** | **Microsoft 365 Apps 商務版** | **Microsoft 365 應用程式企業版** |
+| **應用程式** | **Microsoft 365 Apps 商務版** | **Microsoft 365 Apps 企業版** |
 |------------------|-------------------------|------------------------|
 | Word             | 是                     | 是                    |
 | Excel            | 是                     | 是                    |
@@ -170,7 +170,7 @@ Microsoft 365 商務版 Premium 是適用于中小型企業（SMB）客戶的 Mi
 | Publisher        | 是                     | 是                    |
 | Access           | 是                     | 是                    |
 | Microsoft Teams  | 是                     | 是                    |
-| **津貼值**                             | **Microsoft 365 Apps 商務版** | **Microsoft 365 應用程式企業版** |
+| **津貼值**                             | **Microsoft 365 Apps 商務版** | **Microsoft 365 Apps 企業版** |
 | 大量啟用                             | 否                      | 否                     |
 | 群組原則<sup>1</sup>                      | 否                      | 是                    |
 | 共用電腦啟用                    | 是<sup>7</sup>        | 是                    |
@@ -183,12 +183,12 @@ Microsoft 365 商務版 Premium 是適用于中小型企業（SMB）客戶的 Mi
 | 商務智慧                         | 否                      | 是<sup>5</sup>        |
 | 建立 IRM<sup>3</sup>                        | 是<sup>7</sup>        | 是                    |
 | 資料遺失防護<sup>3</sup>              | 是<sup>7</sup>        | 是<sup>5</sup>        |
-| **雲端值**                  | **Microsoft 365 Apps 商務版** | **Microsoft 365 應用程式企業版** |
+| **雲端值**                  | **Microsoft 365 Apps 商務版** | **Microsoft 365 Apps 企業版** |
 | 群組                           | 是                     | 是                    |
 | Office 部署工具           | 是                     | 是                    |
 | 漫遊檔 & 設定     | 是                     | 是                    |
 | Business OneDrive 1 TB       | 是                     | 是                    |
-| **授權**                                   | **Microsoft 365 Apps 商務版** | **Microsoft 365 應用程式企業版** |
+| **授權**                                   | **Microsoft 365 Apps 商務版** | **Microsoft 365 Apps 企業版** |
 | 授權模型                                 | 每位使用者                | 每位使用者               |
 | 授權類型                                    | 訂閱            | 訂閱           |
 | 電腦/Mac 安裝<sup>6</sup>                     | 5                        | 5                       |

@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
-ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
+ms.openlocfilehash: e9bdbeb811f874f14cd292faff56dc7c0eb9a829
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/27/2020
-ms.locfileid: "44909446"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988867"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -497,7 +497,7 @@ Microsoft 365 E5/A5、Microsoft 365 E5/A5 符合性，以及 Microsoft 365 「�
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
 
-Enterprise 可移動性 + Security E3/A3、Microsoft 365 F3/E3/A3 和 Azure Active Directory Premium 方案1的授權使用者可以從條件式存取原則中受益。 Enterprise 可移動性 + Security E5/A5/G5、Microsoft 365 E5/A5、Microsoft E5 Security 和 Azure Active Directory Premium 方案2的授權使用者可受益于身分識別保護（以風險為基礎的條件式存取原則）。
+已授權的 Enterprise 可移動性 + Security E3/A3 使用者、Microsoft 365 F3/E3/A3/Business Premium 和 Azure Active Directory Premium 方案1可以從條件式存取原則中受益。 Enterprise 可移動性 + Security E5/A5/G5、Microsoft 365 E5/A5、Microsoft E5 Security 和 Azure Active Directory Premium 方案2的授權使用者可受益于身分識別保護（以風險為基礎的條件式存取原則）。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
