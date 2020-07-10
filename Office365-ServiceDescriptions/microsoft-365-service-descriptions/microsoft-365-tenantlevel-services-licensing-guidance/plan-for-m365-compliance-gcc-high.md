@@ -8,108 +8,109 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: 本指南適用於 IT 專業人員所主導部署的 Office 365 中美國聯邦政府實體或其他處理受限於政府法規的資料和需求，使用 Microsoft 365 政府版 – GCC High 所在適當的實體若要符合這些需求。
-ms.openlocfilehash: b1b2b34d93ee7c8e2096fbd0492d16a466a05ef8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: 本指南適用于促進美國聯邦政府機構中的 Office 365 部署的 IT 專業人員，或是處理政府規定和需求之資料的其他實體，其使用 Microsoft 365 政府– GCC 高的方式，都適用于符合這些需求。
+ms.openlocfilehash: 0d5fe248080b816056276ccb79687960cd1c58df
+ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262826"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45089634"
 ---
-# <a name="plan-for-microsoft-365-compliance--gcc-high"></a>< Plan for Microsoft 365 合規性 – GCC High
+# <a name="plan-for-microsoft-365-compliance--gcc-high"></a>規劃 Microsoft 365 合規性– GCC 高
 
-本指南適用於 IT 專業人員所主導部署的 Office 365 中美國聯邦政府實體或其他處理受限於政府法規的資料和需求，使用 Microsoft 365 政府版 – GCC High 所在適當的實體若要符合這些需求。
+本指南適用于促進美國聯邦政府機構中的 Office 365 部署的 IT 專業人員，或是處理政府規定和需求之資料的其他實體，其使用 Microsoft 365 政府– GCC 高的方式，都適用于符合這些需求。
 
 > [!NOTE]
->如果您的組織已符合 Microsoft 365 政府版 – GCC High 資格需求和適用於並被接受到程式，您可以略過步驟 1 和 2，並直接跳到步驟 3。
+>如果您的組織已符合 Microsoft 365 政府– GCC 的高資格需求，且已套用至程式並被公認，您可以略過步驟1和2，直接移至步驟3。
  
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government--gcc-high-and-meets-eligibility-requirements"></a>步驟 1。 判斷您的組織是否需要 Microsoft 365 政府版 – GCC High，且符合資格需求
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government--gcc-high-and-meets-eligibility-requirements"></a>步驟 1： 判斷您的組織是否需要 Microsoft 365 政府– GCC 高並符合資格需求
 
-Microsoft 365 Government-GCC High 環境遵守美國政府雲端服務需求的。 除了享受的功能和 Office 365 的功能，組織會受益於對 Microsoft 365 政府版 – GCC High 都是唯一的下列功能：
+Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 除了享受 Office 365 的功能之外，組織還會受益于 Microsoft 365 政府（GCC 高）特有的下列功能：
 
-- 貴組織的客戶內容和會以邏輯方式區隔來自 Microsoft 的商業 Office 365 服務中的客戶內容。
+- 您組織的客戶內容與 Microsoft 的商業 Office 365 服務中的客戶內容有邏輯隔離。
 - 組織的客戶內容儲存於美國境內。
 - 只有經過篩選的 Microsoft 人員可以存取組織的客戶內容。
-- Microsoft 365 政府版 – GCC High 符合認證和資格鑑定美國公共部門客戶所要求的。
+- Microsoft 365 政府– GCC 高遵循美國公開部門客戶所需的認證和資格鑒定。
 
-您可以找到 Microsoft 365 政府 – GCC High 提供在[Office 365 政府方案](https://products.office.com/government/compare-office-365-government-plans)，包括資格 US Government 客戶需求的詳細資訊。
+您可以在[Office 365 政府版方案](https://products.office.com/government/compare-office-365-government-plans)（包括資格要求）中找到有關 Microsoft 365 政府– GCC 優質產品的詳細資訊。
 
-[Office 365 US Government 服務描述](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)說明平台的好處，置符合美國境內的合規性需求。
+[Office 365 US 政府服務描述](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)說明平臺的優點，其位於美國的符合規範需求。
 
 > [!TIP]
-> 您可能想要傳送到 Excel 活頁簿的資料表中的服務描述的資訊，並新增兩個資料行： **我的組織是/否相關** ，且 **符合 Y/N 我組織的需求**。 然後您可以檢閱此清單與同事確認這項服務，符合貴組織的需求。
+> 您可能想要將服務描述中的資訊表格傳輸到 Excel 活頁簿中，並新增兩欄： **適用于我的組織，y/n**   及 **符合我的組織的需求**。 然後您可以與同事一起查看此清單，以確認此服務符合您組織的需求。
 
 **決策點**：<br/>
-- *決定 Microsoft 365 政府版 – GCC High 是否適合貴組織。*
+- *決定 Microsoft 365 政府– GCC-高是否適用于您的組織。*
 - *確認您的組織符合資格的需求。*
 
 > [!NOTE]
-> Microsoft 365 Government-GCC High 只有在美國境內。 非 – US Government 客戶可以選擇從數個[Office 365 政府版計劃](https://products.office.com/government/compare-office-365-government-plans)。
+> Microsoft 365 政府-GCC High 僅限美國境內。 非美國政府客戶可以選擇許多[Office 365 政府方案](https://products.office.com/government/compare-office-365-government-plans)。
 
-## <a name="step-2-apply-for-microsoft-365-government--gcc-high"></a>步驟 2。 適用於 Microsoft 365 政府版 – GCC 高
+## <a name="step-2-apply-for-microsoft-365-government--gcc-high"></a>步驟 2： 適用于 Microsoft 365 政府– GCC-高
 
-具有決定，這項服務適合貴組織中，啟動[套用此服務](https://products.office.com/government/eligibility-validation)的程序。
+確定此服務對您的組織而言是正確的，請啟動[此服務的應用程式](https://products.office.com/government/eligibility-validation)。
  
-## <a name="step-3-understand-microsoft-365-government--gcc-high-default-security-settings"></a>步驟 3： 了解 Microsoft 365 政府版 – GCC High 預設安全性設定
+## <a name="step-3-understand-microsoft-365-government--gcc-high-default-security-settings"></a>步驟 3： 瞭解 Microsoft 365 政府– GCC-高預設安全性設定
 
-我們建議您，一點時間進行仔細檢閱您的系統及安全性設定，再修改它們的預設安全性設定進行任何變更之前，請考慮對合規性的影響。
+建議您在修改系統管理員和安全性設定之前，請先仔細檢查您的系統管理員和安全性設定，並考慮對規範的影響，再變更預設安全性設定。
 
-**決策點**：*決定是否將修改任何預設的 Microsoft 365 政府版 – GCC 高安全性設定，先了解影響的任何變更您解決可能會使。*
+**決策點**：*決定是否要修改任何預設的 Microsoft 365 政府– GCC-高安全性設定，並解決以先瞭解可能進行的任何變更的影響。*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>步驟 4。 了解哪些功能是目前無法使用或預設會在 Microsoft 365 政府版 – GCC High<sup>1</sup>中已停用
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>步驟 4： 瞭解 Microsoft 365 政府中目前可使用或已停用的功能為何功能-GCC-高<sup>1</sup>
 
-為了符合我們政府雲端客戶的需求，有一些差異，Microsoft 365 政府版 – GCC 高和企業計劃。 請參閱下表以查看哪些功能可用。
+為了符合我們政府雲端客戶的需求，Microsoft 365 政府– GCC-優質和 enterprise 方案之間有一些差異。 請參閱下表，以查看哪些功能可供使用。
 
 |                                         | 功能                                         | GCC 高狀態        |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **資訊保護 & 控管** | 封存                                       | 可以使用              |
 |                                         | 手動標籤和原則<sup>2</sup>          | 可以使用              |
-|                                         | 自動應用程式的標籤                      | 在 [工程待處理項目 |
-|                                         | 根據敏感資訊類型的標籤            | 在 [工程待處理項目 |
-|                                         | 標籤和相關聯的查詢為基礎的原則 | 在 [工程待處理項目 |
-|                                         | 檔案計畫                                       | 在 [工程待處理項目 |
-|                                         | 建議的原則                            | 在 [工程待處理項目 |
-|                                         | 智慧匯入篩選器                            | 在 [工程待處理項目 |
-|                                         | 事件型保留                           | 在 [工程待處理項目 |
-|                                         | 處置檢閱                              | 在 [工程待處理項目 |
+|                                         | 標籤的自動應用程式                      | 在工程處理積壓工作 |
+|                                         | 以敏感資料類型為基礎的標籤            | 在工程處理積壓工作 |
+|                                         | 以查詢為基礎的標籤和相關聯原則 | 在工程處理積壓工作 |
+|                                         | 檔案計畫                                       | 在工程處理積壓工作 |
+|                                         | 建議原則                            | 在工程處理積壓工作 |
+|                                         | 智慧匯入篩選                            | 在工程處理積壓工作 |
+|                                         | 事件型保留                           | 在工程處理積壓工作 |
+|                                         | 處置評審                              | 在工程處理積壓工作 |
 |                                         | 資訊屏障                            | 可以使用              |
-|                                         | 資料外洩防護 (DLP) 檔案和電子郵件  | 可以使用              |
-|                                         | 小組聊天和通道交談的 DLP    | 在 [工程待處理項目 |
-|                                         | DLP 精確資料相符項目                            | 在 [工程待處理項目 |
-|                                         | 標籤活動總管                         | 在 [工程待處理項目 |
-|                                         | Trainable 相關性                           | 在 [工程待處理項目 |
-|                                         | 整合的設定標籤和敏感度標籤         | 在 [工程待處理項目 |
-| **測試人員風險管理**             | 進階的郵件加密                     | 可以使用              |
-|                                         | 測試人員風險管理                         | 在 [工程待處理項目 |
-|                                         | 通訊合規性                        | 在 [工程待處理項目 |
+|                                         | 資料遺失防護 (檔和電子郵件的 DLP)   | 可以使用              |
+|                                         | DLP 用於小組聊天及通道交談    | 在工程處理積壓工作 |
+|                                         | DLP 確切資料符合                            | 在工程處理積壓工作 |
+|                                         | 標籤活動總管                         | 在工程處理積壓工作 |
+|                                         | Trainable 分類器                           | 在工程處理積壓工作 |
+|                                         | 統一的標記和敏感度標籤         | 在工程處理積壓工作 |
+| **測試人員風險管理**             | 高級郵件加密                     | 可以使用              |
+|                                         | 測試人員風險管理                         | 在工程處理積壓工作 |
+|                                         | 通訊合規性                        | 在工程處理積壓工作 |
 |                                         | 客戶加密箱                                | 可以使用              |
 |                                         | 客戶金鑰                                    | 可以使用              |
-|                                         | 特許存取管理                    | 在 [工程待處理項目 |
-| **探索 & 回應**                  | 就地保留項目                            | 可以使用              |
-|                                         | 專案管理                                 | 可以使用              |
+|                                         | 特殊權限存取管理                    | 在工程處理積壓工作 |
+| **探索 & 回應**                  | 就地保留                            | 可以使用              |
+|                                         | 案例管理                                 | 可以使用              |
 |                                         | 搜尋                                          | 可以使用              |
 |                                         | 匯出                                          | 可以使用              |
 |                                         | RMS 解密                                  | 可以使用              |
 |                                         | 原生匯出                                   | 可以使用              |
-|                                         | 執行進階的處理                             | 可以使用              |
-|                                         | 電子郵件執行緒                                 | 在 [工程待處理項目 |
-|                                         | 近似重複的識別碼                   | 在 [工程待處理項目 |
-|                                         | 佈景主題                                          | 在 [工程待處理項目 |
-|                                         | 預測撰寫程式碼                               | 在 [工程待處理項目 |
-|                                         | 處理的匯出以載入檔案                 | 在 [工程待處理項目 |
-|                                         | 標記                                         | 在 [工程待處理項目 |
-|                                         | 檢視程式                                         | 在 [工程待處理項目 |
-|                                         | Redactions                                      | 在 [工程待處理項目 |
-|                                         | 篩選                                       | 在 [工程待處理項目 |
-|                                         | Custodian 與工作負載之間的對應                   | 在 [工程待處理項目 |
-|                                         | Custodian 通訊                        | 在 [工程待處理項目 |
-|                                         | 檢閱設定                                     | 在 [工程待處理項目 |
-|                                         | 檢閱並加上註解                             | 在 [工程待處理項目 |
-|                                         | 非 Office 365 擷取                        | 在 [工程待處理項目 |
-|                                         | 搜尋字詞報告                              | 在 [工程待處理項目 |
+|                                         | 高級處理                             | 可以使用              |
+|                                         | 電子郵件執行緒                                 | 在工程處理積壓工作 |
+|                                         | 接近重複識別                   | 在工程處理積壓工作 |
+|                                         | 佈景主題                                          | 在工程處理積壓工作 |
+|                                         | 預測編碼                               | 在工程處理積壓工作 |
+|                                         | 使用 load file 處理匯出                 | 在工程處理積壓工作 |
+|                                         | 標記                                         | 在工程處理積壓工作 |
+|                                         | 檢視者                                         | 在工程處理積壓工作 |
+|                                         | 密文                                      | 在工程處理積壓工作 |
+|                                         | 篩選                                       | 在工程處理積壓工作 |
+|                                         | 管理員進行工作負載對應                   | 在工程處理積壓工作 |
+|                                         | 管理員通訊                        | 在工程處理積壓工作 |
+|                                         | 檢查集合                                     | 在工程處理積壓工作 |
+|                                         | 審閱和批註                             | 在工程處理積壓工作 |
+|                                         | 非 Office 365 攝取                        | 在工程處理積壓工作 |
+|                                         | 搜尋字詞報告                              | 在工程處理積壓工作 |
+| **規範管理**               | 合規性分數                                | 在工程處理積壓工作 |
 
-<sup>1</sup> Identified 狀態是主體變更為專案計劃和優先順序會重新評估。<br/>
-<sup>2</sup>標籤的手動應用程式需要[Azure 資訊保護 (AIP) 用戶端版本 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)。 
+<sup>1</sup>識別的狀態視專案方案和優先順序重新評估而變更。<br/>
+<sup>2</sup>手動應用程式標籤需要[Azure 資訊保護 (AIP) 用戶端版本 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)。 
 
 
-**決策點**：*決定的符合性功能是否符合貴組織的需求。*
+**決策點**：*決定相容性功能是否符合貴組織的需求。*
