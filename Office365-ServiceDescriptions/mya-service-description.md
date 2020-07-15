@@ -1,64 +1,54 @@
 ---
 title: MyAnalytics 服務描述
-ms.author: sharik
-author: skjerland
-ms.reviewer: v-pascha
-ms.date: 03/14/2019
+ms.author: office365servicedesc
+author: pamelaar
+ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
-description: MyAnalytics-功能、 散佈、 隱私權和必要條件
-ms.openlocfilehash: e0e060674b72bd278ef237e505ca05ef1e082db1
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: MyAnalytics 功能、分配、隱私權及必要條件
+ms.openlocfilehash: f9f6a329aadb874be1e7b1e13cb0446daec8a4ee
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246499"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132427"
 ---
-# <a name="myanalytics-service-description"></a><span data-ttu-id="0765a-103">MyAnalytics 服務描述</span><span class="sxs-lookup"><span data-stu-id="0765a-103">MyAnalytics Service Description</span></span>
+# <a name="myanalytics-service-description"></a><span data-ttu-id="ae9ec-103">MyAnalytics 服務描述</span><span class="sxs-lookup"><span data-stu-id="ae9ec-103">MyAnalytics service description</span></span>
 
-<span data-ttu-id="0765a-104">MyAnalytics 摘要說明您如何消磨上班時間，並再建議聰明工作的方法。</span><span class="sxs-lookup"><span data-stu-id="0765a-104">MyAnalytics summarizes how you spend your time at work and then suggests ways to work smarter.</span></span> <span data-ttu-id="0765a-105">MyAnalytics 提供這些深入了解透過[元素](#elements)，您可以存取 Microsoft outlook 或網頁瀏覽器。</span><span class="sxs-lookup"><span data-stu-id="0765a-105">MyAnalytics provides these insights through [elements](#elements) that you can access in Microsoft Outlook or through your web browser.</span></span>
+<span data-ttu-id="ae9ec-104">MyAnalytics 摘要說明您在工作中花費的時間，然後建議更聰明的運作方式。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-104">MyAnalytics summarizes how you spend your time at work and then suggests ways to work smarter.</span></span> <span data-ttu-id="ae9ec-105">MyAnalytics 提供這些透過您可以在 Microsoft Outlook 或透過網頁瀏覽器中存取之[元素](#elements)的洞察力。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-105">MyAnalytics provides these insights through [elements](#elements) that you can access in Microsoft Outlook or through your web browser.</span></span>
 
-<span data-ttu-id="0765a-106">部分的 MyAnalytics 元素都會自動提供給使用者的各種 Office 365 計劃。</span><span class="sxs-lookup"><span data-stu-id="0765a-106">Some of the elements of MyAnalytics are provided automatically to users of various Office 365 plans.</span></span> <span data-ttu-id="0765a-107">如需詳細資訊，請參閱 < <b0>MyAnalytics 散佈</b0>。</span><span class="sxs-lookup"><span data-stu-id="0765a-107">For more information, see [MyAnalytics distributions](#myanalytics-distributions).</span></span>  
+<span data-ttu-id="ae9ec-106">一些 MyAnalytics 的元素會自動提供給各種 Office 365 方案的使用者。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-106">Some of the elements of MyAnalytics are provided automatically to users of various Office 365 plans.</span></span> <span data-ttu-id="ae9ec-107">若要瞭解 Office 365 和 Microsoft 365 方案中包含哪些元素，請參閱[MyAnalytics 方案和環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-107">To learn which elements are included in which Office 365 and Microsoft 365 plans, see [MyAnalytics plans and environments](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).</span></span>  
 
-<span data-ttu-id="0765a-108">MyAnalytics 處理方式，可保護員工隱私權的資訊。</span><span class="sxs-lookup"><span data-stu-id="0765a-108">MyAnalytics processes information in a manner that protects employee privacy.</span></span> <span data-ttu-id="0765a-109">如需詳細資訊，請參閱 <<c0>資料隱私權。</span><span class="sxs-lookup"><span data-stu-id="0765a-109">For more information, see [Data privacy](#data-privacy).</span></span>
+<span data-ttu-id="ae9ec-108">MyAnalytics 會以保護員工隱私權的方式處理資訊。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-108">MyAnalytics processes information in a manner that protects employee privacy.</span></span> <span data-ttu-id="ae9ec-109">如需詳細資訊，請參閱[Data 隱私權](#data-privacy)。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-109">For more information, see [Data privacy](#data-privacy).</span></span>
 
-## <a name="elements"></a><span data-ttu-id="0765a-110">元素</span><span class="sxs-lookup"><span data-stu-id="0765a-110">Elements</span></span>
+## <a name="elements"></a><span data-ttu-id="ae9ec-110">元素</span><span class="sxs-lookup"><span data-stu-id="ae9ec-110">Elements</span></span>
 
-<span data-ttu-id="0765a-111">MyAnalytics 是由下列元素所組成：</span><span class="sxs-lookup"><span data-stu-id="0765a-111">MyAnalytics consists of the following elements:</span></span>
+<span data-ttu-id="ae9ec-111">MyAnalytics 包含下列元素：</span><span class="sxs-lookup"><span data-stu-id="ae9ec-111">MyAnalytics consists of the following elements:</span></span>
 
-* <span data-ttu-id="0765a-112">[MyAnalytics 個人儀表板](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard)： 協助您在您的工作習慣反映例如時間，您可以使用焦點、 您會議和電子郵件的作法，以及您的網路。</span><span class="sxs-lookup"><span data-stu-id="0765a-112">[MyAnalytics personal dashboard](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard): Helps you reflect on your work habits such as time that you have available to focus, your meeting and email practices, and your network.</span></span>
-* <span data-ttu-id="0765a-113">[Outlook 增益集](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in)： 提供您洞察力在 Outlook 中，協助您保持最新的工作並完成更多。</span><span class="sxs-lookup"><span data-stu-id="0765a-113">[Outlook add-in](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in): Provides you with actionable insights in Outlook that help you stay on top of your tasks and get more done.</span></span>
-* <span data-ttu-id="0765a-114">[電子郵件摘要](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest)： 提供您有關您前一週的關鍵重點。</span><span class="sxs-lookup"><span data-stu-id="0765a-114">[Email digest](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest): Gives you key highlights about your previous week.</span></span>
-* <span data-ttu-id="0765a-115">[MyAnalytics 微調](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications)： 這些寫簡短，資料和 AI-導向的通知出現時您在 Outlook 中都讀取或撰寫電子郵件或會議邀請。</span><span class="sxs-lookup"><span data-stu-id="0765a-115">[MyAnalytics nudges](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications): These brief, data- and AI-driven notifications appear in Outlook while you are either reading or composing an email or a meeting invitation.</span></span>
+* <span data-ttu-id="ae9ec-112">[儀表板](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2)：協助您反映您的工作模式，例如焦點工作、會議和電子郵件實踐，以及網路的時間。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-112">[Dashboard](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2): Helps you reflect on your work patterns, such as time for focused work, meeting and email practices, and networking.</span></span>
+* <span data-ttu-id="ae9ec-113">[Outlook 增益集](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in)：提供 outlook 中可行動的觀點，可協助您掌握工作的最新資訊，並進一步完成。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-113">[Outlook add-in](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in): Provides you with actionable insights in Outlook that help you stay on top of your tasks and get more done.</span></span>
+* <span data-ttu-id="ae9ec-114">[電子郵件摘要](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2)：提供每週電子郵件的工作模式重要重點。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-114">[Email digests](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2): Give you key highlights about your work patterns in a weekly email.</span></span>
+* <span data-ttu-id="ae9ec-115">[內嵌建議](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications)：在 Outlook 中，當您閱讀或撰寫電子郵件或會議邀請時，會出現在 Outlook 中，資料和 AI 導向的建議。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-115">[Inline suggestions](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications): These brief, data- and AI-driven suggestions appear in Outlook while you are either reading or composing an email or a meeting invitation.</span></span>
 
-## <a name="myanalytics-distributions"></a><span data-ttu-id="0765a-116">MyAnalytics 散佈</span><span class="sxs-lookup"><span data-stu-id="0765a-116">MyAnalytics distributions</span></span>
+## <a name="data-privacy"></a><span data-ttu-id="ae9ec-116">資料隱私權</span><span class="sxs-lookup"><span data-stu-id="ae9ec-116">Data privacy</span></span>
 
-<span data-ttu-id="0765a-117">MyAnalytics 元素中可用的不同的 Microsoft Office 365 計劃，使用者的不同層級，如下表所述：</span><span class="sxs-lookup"><span data-stu-id="0765a-117">The elements of MyAnalytics are available in varying levels to users of different Microsoft Office 365 plans, as described in the following table:</span></span>
+<span data-ttu-id="ae9ec-117">遵循下列指導方針時，MyAnalytics 會保護員工隱私權，並支援與當地法規的相容性：</span><span class="sxs-lookup"><span data-stu-id="ae9ec-117">By adhering to the following guidelines, MyAnalytics protects employee privacy and support compliance with local regulations:</span></span>
 
-| <span data-ttu-id="0765a-118">規劃</span><span class="sxs-lookup"><span data-stu-id="0765a-118">Plan</span></span> | <span data-ttu-id="0765a-119">可用的元素</span><span class="sxs-lookup"><span data-stu-id="0765a-119">Elements available</span></span> |
-| --- | --- |
-| <span data-ttu-id="0765a-120">Microsoft 365 E3</span><span class="sxs-lookup"><span data-stu-id="0765a-120">Microsoft 365 E3</span></span></br><span data-ttu-id="0765a-121">Microsoft 365 商務版</span><span class="sxs-lookup"><span data-stu-id="0765a-121">Microsoft 365 Business</span></span></br><span data-ttu-id="0765a-122">Office 365 E3</span><span class="sxs-lookup"><span data-stu-id="0765a-122">Office 365 E3</span></span></br><span data-ttu-id="0765a-123">Office 365 版 E1</span><span class="sxs-lookup"><span data-stu-id="0765a-123">Office 365 E1</span></span></br><span data-ttu-id="0765a-124">商務進階版</span><span class="sxs-lookup"><span data-stu-id="0765a-124">Business Premium</span></span></br><span data-ttu-id="0765a-125">商務基本版</span><span class="sxs-lookup"><span data-stu-id="0765a-125">Business Essentials</span></span> | </br></br></br>[<span data-ttu-id="0765a-126">增益集</span><span class="sxs-lookup"><span data-stu-id="0765a-126">Add-in</span></span>](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in) |
-| <span data-ttu-id="0765a-127">Microsoft 365 E5</span><span class="sxs-lookup"><span data-stu-id="0765a-127">Microsoft 365 E5</span></span></br><span data-ttu-id="0765a-128">Office 365 企業版 E5</span><span class="sxs-lookup"><span data-stu-id="0765a-128">Office 365 Enterprise E5</span></span></br><span data-ttu-id="0765a-129">Office 365 A5</span><span class="sxs-lookup"><span data-stu-id="0765a-129">Office 365 A5</span></span></br><span data-ttu-id="0765a-130">OOffice 365 非營利組織版 E5</span><span class="sxs-lookup"><span data-stu-id="0765a-130">Office 365 Nonprofit E5</span></span></br><span data-ttu-id="0765a-131">MyAnalytics 附加元件</span><span class="sxs-lookup"><span data-stu-id="0765a-131">MyAnalytics add-on</span></span> | </br><span data-ttu-id="0765a-132">[儀表板](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/dashboard)、[增益集](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in)、[電子郵件摘要](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/email-digest)及[MyAnalytics 微調](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/mya-notifications)</span><span class="sxs-lookup"><span data-stu-id="0765a-132">[Dashboard](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/dashboard), [Add-in](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in), [Email digest](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/email-digest), and [MyAnalytics nudges](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/mya-notifications)</span></span> |
+* <span data-ttu-id="ae9ec-118">MyAnalytics 並非設計用來進行員工評估、追蹤、自動化決策、分析或監控。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-118">MyAnalytics is not designed to enable employee evaluation, tracking, automated decision-making, profiling, or monitoring.</span></span>
+* <span data-ttu-id="ae9ec-119">MyAnalytics 不會讓員工能夠存取其他同事上的新個人身分識別資訊。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-119">MyAnalytics does not give employees access to new personally identifiable information on other coworkers.</span></span>
+* <span data-ttu-id="ae9ec-120">MyAnalytics 資料會經過處理並儲存在員工的 Exchange Online 信箱。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-120">MyAnalytics data is processed and stored in the employee’s Exchange Online mailbox.</span></span>
+* <span data-ttu-id="ae9ec-121">MyAnalytics 支援一般資料保護規定 (GDPR) 合規性。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-121">MyAnalytics supports General Data Protection Regulation (GDPR) compliance.</span></span>
+* <span data-ttu-id="ae9ec-122">您可以將 MyAnalytics 設定為每個人都必須自行選擇加入。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-122">MyAnalytics can be configured so that individuals must purposefully opt in.</span></span>
+* <span data-ttu-id="ae9ec-123">MyAnalytics 和 Delve 是獨立的應用程式，不具相互關係。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-123">MyAnalytics and Delve are separate applications with no interdependencies.</span></span>
+* <span data-ttu-id="ae9ec-124">MyAnalytics 會提醒人們資料屬於私人且相當安全。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-124">MyAnalytics reminds people that their data is private and secure.</span></span>
 
-<span data-ttu-id="0765a-133">如需詳細資訊，請參閱 <<c0>的功能可用性。</span><span class="sxs-lookup"><span data-stu-id="0765a-133">For more information, see [Availability of features](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).</span></span>
+<span data-ttu-id="ae9ec-125">如需詳細資訊，請參閱[MyAnalytics 隱私權指南](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide)。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-125">For more information, see [MyAnalytics Privacy guide](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide).</span></span>
 
-## <a name="data-privacy"></a><span data-ttu-id="0765a-134">資料隱私權</span><span class="sxs-lookup"><span data-stu-id="0765a-134">Data privacy</span></span>
+<span data-ttu-id="ae9ec-126">[深入瞭解 MyAnalytics 可如何協助您更聰明地運作](https://products.office.com/business/myanalytics-personal-analytics)。</span><span class="sxs-lookup"><span data-stu-id="ae9ec-126">[Learn more about how MyAnalytics can help you work smarter](https://products.office.com/business/myanalytics-personal-analytics).</span></span>
 
-<span data-ttu-id="0765a-135">藉由遵守下列指導方針，MyAnalytics 保護員工隱私權，並支援與當地法規合規性：</span><span class="sxs-lookup"><span data-stu-id="0765a-135">By adhering to the following guidelines, MyAnalytics protect employee privacy and support compliance with local regulations:</span></span>
+## <a name="prerequisites"></a><span data-ttu-id="ae9ec-127">必要條件</span><span class="sxs-lookup"><span data-stu-id="ae9ec-127">Prerequisites</span></span>
 
-* <span data-ttu-id="0765a-136">MyAnalytics 並非特別設計用來讓員工評估追蹤，自動化的決策，設定或監視。</span><span class="sxs-lookup"><span data-stu-id="0765a-136">MyAnalytics is not designed to enable employee evaluation, tracking, automated decision-making, profiling, or monitoring.</span></span>
-* <span data-ttu-id="0765a-137">MyAnalytics 不提供新的個人識別資訊，在其他同事員工存取。</span><span class="sxs-lookup"><span data-stu-id="0765a-137">MyAnalytics does not give employees access to new personally identifiable information on other coworkers.</span></span>
-* <span data-ttu-id="0765a-138">MyAnalytics 資料會處理，而且儲存在該員工的 Exchange Online 信箱。</span><span class="sxs-lookup"><span data-stu-id="0765a-138">MyAnalytics data is processed and stored in the employee’s Exchange Online mailbox.</span></span>
-* <span data-ttu-id="0765a-139">MyAnalytics 支援一般資料保護規定 (GDPR) 合規性。</span><span class="sxs-lookup"><span data-stu-id="0765a-139">MyAnalytics supports General Data Protection Regulation (GDPR) compliance.</span></span>
-* <span data-ttu-id="0765a-140">可以設定 MyAnalytics，以便個人故意必須選擇。</span><span class="sxs-lookup"><span data-stu-id="0765a-140">MyAnalytics can be configured so that individuals must purposefully opt in.</span></span>
-* <span data-ttu-id="0765a-141">MyAnalytics 和 Delve 是個別應用程式與任何相互依存性。</span><span class="sxs-lookup"><span data-stu-id="0765a-141">MyAnalytics and Delve are separate applications with no interdependencies.</span></span>
-* <span data-ttu-id="0765a-142">MyAnalytics 會提醒使用者他們的資料是私人且安全。</span><span class="sxs-lookup"><span data-stu-id="0765a-142">MyAnalytics reminds people that their data is private and secure.</span></span>
-
-<span data-ttu-id="0765a-143">如需詳細資訊，請參閱 <<c0>的 MyAnalytics 隱私權指南。</span><span class="sxs-lookup"><span data-stu-id="0765a-143">For more information, see [MyAnalytics privacy guide](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide).</span></span>
-
-## <a name="prerequisites"></a><span data-ttu-id="0765a-144">必要條件</span><span class="sxs-lookup"><span data-stu-id="0765a-144">Prerequisites</span></span>
-
-* [<span data-ttu-id="0765a-145">Microsoft Exchange Online</span><span class="sxs-lookup"><span data-stu-id="0765a-145">Microsoft Exchange Online</span></span>](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)
+* [<span data-ttu-id="ae9ec-128">Microsoft Exchange Online</span><span class="sxs-lookup"><span data-stu-id="ae9ec-128">Microsoft Exchange Online</span></span>](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)
