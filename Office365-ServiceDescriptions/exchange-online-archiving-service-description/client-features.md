@@ -1,8 +1,7 @@
 ---
 title: Exchange Online 封存中的用戶端功能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Microsoft Exchange Online 封存可讓使用者從各種裝置和平臺連接至其封存信箱。 所有與使用者封存的網路連線都會透過網際網路進行，而且不需要虛擬私人網路（VPN）連線。 組織可以發佈內部部署用戶端存取伺服器，讓使用者能夠使用 Outlook 無所不在 存取其主要信箱，而不需要 VPN 連線。 如果要求要有 VPN 連線才能存取內部部署伺服器上使用者的主要信箱，則此要求並不會變。
-ms.openlocfilehash: 8dc4c065792b89a8a11f620b1493b91574e2013d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: b460938b4ce9e0aeb2c0eb4ab99fe7f3fa8a8ea4
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639721"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132057"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online 封存中的用戶端功能
 
@@ -28,14 +27,14 @@ Microsoft Exchange Online 封存可讓使用者從各種裝置和平臺連接至
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook 是一款功能豐富的電子郵件程式，可支援行事曆、聯絡人與工作。Exchange Online Archiving可支援 Outlook 2013、Outlook 2010 及 Outlook 2007。其主要功能包括：
+Microsoft Outlook is a rich email program that includes support for calendaring, contacts, and tasks. Exchange Online Archiving supports Outlook 2013, Outlook 2010, and Outlook 2007. Key features include:
   
 - **Outlook Anywhere**「Outlook 無所不在」可讓 Outlook 使用者透過網際網路連線到 Exchange Server 和 Exchange Online 封存，而不需要 VPN 連線。 Outlook 與 Exchange Online Archiving之間是透過 SSL 安全保護通道，使用 RPC-over-HTTP Windows 網路元件進行通訊。    
 - **Autodiscover** Exchange Autodiscover 服務會自動設定 Outlook 使用Exchange Online Archiving。 自動探索可讓 Outlook 使用者在第一次（和此後的固定間隔）以其電子郵件地址和密碼登入，以直接從 Exchange 取得其必要的設定檔設定。 
 
 Outlook 2010 和更新版本和網頁版 Outlook 為使用者提供封存的完整功能，以及保留和封存原則等相關功能。
   
-Outlook 2007 可提供對封存的基本支援，但是並非所有封存和法規遵循功能都可以在 Outlook 2007 中使用。例如在 Outlook 2007，使用者無法對其信箱中的項目套用保留或封存原則，而必須仰賴管理員佈建的原則。Outlook 2007 使用者必須要有 2011 年 2 月的 Office 2007 累計更新，才能存取封存。
+Outlook 2007 provides basic support for the archive, but not all archiving and compliance features are available in Outlook 2007. For example, with Outlook 2007, users cannot apply retention or archive policies to items in their mailboxes. They must rely on administrator-provisioned policies instead. Outlook 2007 users require the Office 2007 Cumulative Update for February 2011 to access the archive.
   
 > [!NOTE]
 > Exchange Online Archiving並未隨附 Outlook。 適用于企業的 Microsoft 365 應用程式（包括 Microsoft Outlook）包含在某些方案中，而且可以以個別訂閱形式購買。 如需詳細資訊，請參閱[Microsoft 365 plan options](../office-365-platform-service-description/office-365-plan-options.md)。 如需適用于企業的 Microsoft 365 應用程式的詳細資訊，請參閱[Office 應用程式服務說明](../office-applications-service-description/office-applications-service-description.md)。 
@@ -62,7 +61,7 @@ Outlook 2007 可提供對封存的基本支援，但是並非所有封存和法�
 
 ## <a name="outlook-on-the-web"></a>Outlook 網頁版
 
-Outlook 網頁版是網路架構版本的 Outlook 電子郵件程式，搭配 Exchange Online 使用。 不論使用者在家、辦公室或旅途&mdash;&mdash;中的任何使用者連線到網際網路，都可以透過網頁上的 Outlook 來存取其電子郵件。
+Outlook 網頁版是網路架構版本的 Outlook 電子郵件程式，搭配 Exchange Online 使用。 不論使用者在家、辦公室或旅途中的任何使用者連線到網際網路，都 &mdash; &mdash; 可以透過網頁上的 Outlook 來存取其電子郵件。
   
 使用者可以使用相同的 URL，在內部部署上登入 Outlook，以存取其封存。 封存會出現在網頁上 Outlook 中的主要信箱旁。 沒有直接從 Outlook 網頁版存取封存的明確方式。
   

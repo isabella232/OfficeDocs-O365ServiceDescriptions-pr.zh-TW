@@ -1,8 +1,7 @@
 ---
 title: Microsoft 365 和 Office 365 平台服務說明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組織的需求。 如果您正在尋找方案（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
-ms.openlocfilehash: 47c1c475204f891c69f327bd8008931685df898b
-ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
+ms.openlocfilehash: 660a716f53ad8cc1fe39c20d939656a0d627f683
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "44768129"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131917"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服務說明
 

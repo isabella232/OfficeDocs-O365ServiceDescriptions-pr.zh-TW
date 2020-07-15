@@ -1,8 +1,7 @@
 ---
 title: Microsoft Dynamics 365 (Online) 服務說明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: 自十二月2016更新到 Dynamics 365 （線上和內部部署）之後，Dynamics CRM 功能現在會包含在 Dynamics 365 （一套智慧商務應用程式）中。 Dynamics 365 提供新的應用程式來協助管理特定的商務功能，從而統一客戶關係管理（CRM）和企業資源規劃（ERP）功能。
-ms.openlocfilehash: 680ebec088cd98cf1e12a9a3ac6d2db60a129c38
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: b1852f586ba6d4eb0ec8ac6c269caee922d17802
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213915"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132447"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365 (Online) 服務說明
 

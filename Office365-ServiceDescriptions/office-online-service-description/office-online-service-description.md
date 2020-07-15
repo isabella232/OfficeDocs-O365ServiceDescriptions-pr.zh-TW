@@ -1,8 +1,7 @@
 ---
 title: 網頁版 Office 服務描述
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office for web （先前稱為 Office Web Apps）會在網頁瀏覽器中開啟 Word、Excel、OneNote 及 PowerPoint 檔。 Office for web 可讓您更輕鬆地從任何地方使用網際網路連線與共享 Office 檔案，從幾乎任何裝置。 Microsoft 365 客戶使用 Word、Excel、OneNote 或 PowerPoint 可以在旅途中查看、建立及編輯檔案。
-ms.openlocfilehash: f04056668b9d64b7783afce4e7df52403f904c29
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: ffba59a00e21401038d999a508a82e19f63e90e3
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226212"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131327"
 ---
 # <a name="office-for-the-web-service-description"></a>網頁版 Office 服務描述
 
@@ -87,7 +86,7 @@ Office for web （先前稱為 Office Web Apps）會在網頁瀏覽器中開啟 
 |[即時共同撰寫](word-online.md#real-time-co-authoring) <br/> |是  <br/> |是  <br/> |
 |[參考工具](word-online.md#reference-tools) <br/> |否  <br/> |是  <br/> |
 |[文字方塊/圖案的呈現](word-online.md#rendering-of-text-boxesshapes) <br/> |是  <br/> |是  <br/> |
-|[研究員](word-online.md#researcher) <br/> |否  <br/> |是  <br/> |
+|[研究工具](word-online.md#researcher) <br/> |否  <br/> |是  <br/> |
 |[多媒體](word-online.md#rich-media) <br/> |否  <br/> |是  <br/> |
 |[豐富的表格格式化功能](word-online.md#rich-table-formatting) <br/> |是  <br/> |是  <br/> |
 |[另存新檔和下載副本](word-online.md#save-as-and-download-a-copy) <br/> |是  <br/> |是  <br/> |

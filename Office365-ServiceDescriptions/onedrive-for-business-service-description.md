@@ -1,8 +1,7 @@
 ---
 title: OneDrive 服務描述
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看在哪些方案中可使用哪些 OneDrive 功能。
-ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: d838b4759514bd993e01d2b2aa9381677d482086
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213925"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131287"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服務描述
 
@@ -50,9 +49,9 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
 - Microsoft 365 Apps 企業版
 - Office 365 Enterprise E1
 - Office 365 政府版 G1
-- Office 365 非營利組織版商務基本版
-- Office 365 非營利組織版商務進階版
-- Office 365 非營利組織版 E1
+- 適用於非營利組織的 Microsoft 365 商務基本版
+- 適用於非營利組織的 Microsoft 365 商務標準版
+- 適用於非營利組織的 Office 365 E1
 - 商務用 OneDrive 方案 1
 - SharePoint Online 方案 1
 - Microsoft 365 商務進階版
@@ -68,8 +67,8 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
 - Office 365 A5
 - Office 365 美國政府版 G3
 - Office 365 美國政府版 G5
-- Office 365 非營利組織版 E3
-- OOffice 365 非營利組織版 E5
+- 適用於非營利組織的 Office 365 E3
+- 適用於非營利組織的 Office 365 E5
 - 商務用 OneDrive 方案 2
 - SharePoint Online 方案 2
 - Microsoft 365 企業版 E3
@@ -78,8 +77,8 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
 - Microsoft 365 A5
 - Microsoft 365 美國政府版 G3
 - Microsoft 365 美國政府版 G5
-- 非營利組織版 Microsoft 365 E3
-- 非營利組織版 Microsoft 365 E5
+- 適用於非營利組織的 Microsoft 365 E3
+- 適用於非營利組織的 Microsoft 365 E5
 
 > [!NOTE]
 > 您必須將至少一個授權指派給使用者，才能增加預設 OneDrive 儲存空間。 

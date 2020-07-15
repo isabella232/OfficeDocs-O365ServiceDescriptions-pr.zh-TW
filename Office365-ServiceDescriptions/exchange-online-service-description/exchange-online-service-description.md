@@ -1,8 +1,7 @@
 ---
 title: Exchange Online 服務說明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
-ms.openlocfilehash: 7b92bbbd418fd8b408f776b428dcbcc05e993bc5
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: 140cb5eb12a67248928fb75201375c039186dd09
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845017"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131547"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -145,7 +144,7 @@ User subscriptions are not required for conference rooms and shared mailboxes. T
 |Outlook for Mac<sup>21</sup>|是|是|是|是|是|是|是| 否|
 |iOS 和 Android 的 Outlook<sup>21</sup>|是|是|是|是|是|是|是|是|
 |Exchange ActiveSync|是|是|是|是|是|是|是|是|
-|Office 365 的行動裝置管理|否|否|是|是|是|是|是|是|
+|Microsoft 365 的基本行動性和安全性|否|否|是|是|是|是|是|是|
 |POP 與 IMAP|是|是|是|是|是|是|是|是 <sup>12</sup>|
 |SMTP|是|是|是|是|是|是|是|是|
 |EWS 應用程式支援|是|是|是|是|是|是|是|否|

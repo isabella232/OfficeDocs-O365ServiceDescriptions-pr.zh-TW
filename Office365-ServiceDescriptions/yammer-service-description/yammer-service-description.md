@@ -1,8 +1,7 @@
 ---
 title: Yammer 服務說明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer 是同級產品最佳、安全且私密的企業社交網路。 Yammer 可讓員工輕鬆協同作業、更快做出決策，以及自行組成小組來迎接任何業務挑戰，進而使員工更具生產力且更為成功。 這是一種新的工作方式，可自然地促成業務契合度和靈活性、減少週期時間、凝聚員工，以及改善與客戶及合作夥伴的關係。
-ms.openlocfilehash: 02a39b94179a175a72e53c6a1d9e3ccacfca3ea3
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 163bb207292515ff93e5145e70741cea560acf15
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213675"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132897"
 ---
 # <a name="yammer-service-description"></a>Yammer 服務說明
 
@@ -48,9 +47,9 @@ Yammer 可透過下列計劃取得：
 
 Yammer 會遵守[Microsoft 365 變更管理原則](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/)，但不會使用目標版本來推出更新。 
   
-所有 Yammer 使用者都需要接受 A/B 功能測試。這能讓 Microsoft 測試功能，以改善在多種環境與裝置中的穩定性、效能和體驗。同一網路內的使用者可能會因為接受測試而得到不同的體驗。客戶無法選擇退出 A/B 測試。
+All Yammer users are subject to A/B feature testing. This allows Microsoft to test features for stability, performance and experience improvement across many environments and devices. Users within the same network may have varying experiences due to testing. It is not possible for customers to opt out of A/B testing.
   
-如果要進行任何需要客戶採取動作或預期會對客戶造成重大影響的變更 (A/B 測試、新功能、取代、法務遵循界限、工作流程變更)，我們會事先發出通知。我們發現了一個 Yammer 所做的變更只會對少部分使用者造成影響的案例。例如，這有可能是變更或移除使用率偏低、但有少量使用者已啟用的功能 (例如 Yammer Chrome 延伸模組)。在這些情況下，我們相信除了平常與「驗證管理員」的溝通管道 (如前述原則所列) 以外，若能直接與這些使用者溝通，將可為少數受到變更影響的使用者帶來良好的使用者體驗。對於分類為「需要因應的變更 (為變更訂計劃)」或「需要知悉的變更 (持續留意)」，且只會影響到特定一組使用者的變更，我們可以直接通知這些使用者。下表已更新以反映此變更。 
+Any changes (A/B tests, new features, deprecations, compliance boundaries, workflow changes) that require customer action or are expected to have a significant impact on customers will be communicated in advance. We've identified a scenario where Yammer makes a change that impacts a limited subset of users. An example of this might be changing or removing a capability, such as the Yammer Chrome Extension, that has low engagement but which a small number of users have enabled. In these cases, we believe direct communication to these users in addition to the usual communication channels to Verified Admins as listed in the above policy will deliver a good user experience for the subset of users impacted by a change. For changes categorized as either "Changes Requiring Action (Plan for Change)" or "Changes Requiring Awareness (Stay Informed)" that only affect a targeted set of users, we may directly notify those users. The following table has been updated to reflect this change. 
   
 用來發出通知的管道視影響程度而定：
   

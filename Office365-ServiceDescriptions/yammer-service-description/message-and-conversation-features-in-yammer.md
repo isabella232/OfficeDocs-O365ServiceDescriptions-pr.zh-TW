@@ -1,8 +1,7 @@
 ---
 title: Yammer 中的訊息與交談
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Yammer 中提供下列郵件和交談功能。
-ms.openlocfilehash: 5e617b54b04aff55a668e7db7fe26ea0ccae8591
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 3da9f412a963793caf2fe3373d5d72f3b5d549a8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640031"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45133037"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer 中的訊息與交談
 
@@ -37,7 +36,7 @@ Yammer 中提供下列郵件和交談功能。
 
 ## <a name="online-now"></a>現在線上
 
-查看上線人員，並立即與一或多位同事展開私人討論。連絡人清單會自動依據您最常互動的人員順序進行排序。
+See who's online and instantly start a private discussion with one or more co-workers. The contact list is automatically sorted by the people you interact with most.
 
 ## <a name="polls"></a>投票
 

@@ -1,8 +1,7 @@
 ---
 title: Office 365 教育版
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如果您想要知道 Office 365 教育版方案有何差異，本文將說明各方案中包含的功能。 Office 365 與知名的 Microsoft Office 桌面套件結合，搭載 Microsoft 新一代通訊與共同作業服務的雲端架構版本 (包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office 網頁版，以及 Microsoft 商務用 Skype Online)，讓使用者可透過網際網路在任何地點執行工作。
-ms.openlocfilehash: 4287d96e0f169196ad612d247da257df469d9e8a
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: f75d1127e81d1b9f85b96b7ca0e92d1a63423185
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429128"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132347"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -47,9 +46,9 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如�
 > [!NOTE]
 > <sup>1</sup> Microsoft Project 並未包含在 Office 365 中，但可以另行購買。 Project Online 基本版是免費的。 如果您是學生或教育機構，您可以享受購買專案方案3與計畫5（教育價）。   <br/> 
 <sup>2</sup> 若要深入了解哪些 Azure 資訊保護功能隨附於 Office 365 方案中，請參閱 [Azure 資訊保護](https://azure.microsoft.com/services/information-protection/) (部分內容機器翻譯)。<br/> 
-<sup>3</sup> Office 365 A5 包含電話系統、音訊會議和通話方案功能。 若要實作通話方案需要購買額外的方案 (國內通話方案或國際通話方案)。 <br/> <sup>4</sup> 包含 Exchange Online 方案 2。<br/> 
-<sup>5</sup> 包含 Exchange Online 方案 1 加上附加功能。<br/> 
-<sup>6</sup> 包含商務用 Skype Online 方案 2。<br> <sup>7</sup> 包含商務用 Skype Online 方案 1 加上附加功能。 
+<sup>3</sup> Office 365 A5 包含電話系統、音訊會議和通話方案功能。 若要實作通話方案需要購買額外的方案 (國內通話方案或國際通話方案)。 <br/> <sup>4</sup> Includes Exchange Online Plan 2. <br/> 
+<sup>5</sup> Includes Exchange Online Plan 1 plus supplemental features. <br/> 
+<sup>6</sup> Includes Skype for Business Online Plan 2. <br> <sup>7</sup> 包含商務用 Skype Online 方案 1 加上附加功能。 
   
 ## <a name="system-requirements"></a>系統需求
 
@@ -181,8 +180,8 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如�
    
 > [!NOTE]
 > <sup>1</sup> Office 365 does not provide support for any operating system that is not supported by its manufacturer.<br/> 
-<sup>2</sup> 如果您使用與本機 Active Directory 的目錄同步處理，您必須使用本機 Active Directory 而不是 Office 365 入口網站，或使用 Windows PowerShell 的 Azure Active Directory 模組來刪除帳戶或變更密碼。<br/> 
-<sup>3</sup> 若要深入了解如何為使用者設定自助密碼管理原則，請參閱[管理 Azure AD 中的密碼](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)。<br/> 
+<sup>2</sup> If using directory synchronization with a local Active Directory, you must delete accounts or change passwords by using the local Active Directory, rather than the Office 365 portal or by using the Azure Active Directory module for Windows PowerShell. <br/> 
+<sup>3</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/). <br/> 
 <sup>4</sup> 若減少以折扣條件購買的基座，有可能需支付提前終止訂閱的費用。 這不適用於每月付款的訂閱。 <br/> 
 <sup>5</sup> 可於 [https://securescore.office.com](https://securescore.office.com/) 取得 (連結需要系統管理員權限)。 如需詳細資訊，請參閱 [Office 365 安全分數簡介](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)。<br/> 
 <sup>6</sup> Microsoft Sway 目前尚未提供特定地區的客戶。 某些於 2015 年 8 月已不在市面的舊版的 Office 365 方案，可能也無法使用 Microsoft Sway。 <br/> 
@@ -226,7 +225,7 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如�
 <sup>3</sup> 無限制。 <br/> 
 <sup>4</sup> 美國及西歐 (荷蘭) 區域支援進階電子文件探索。 (來自加拿大和亞太地區的客戶資料會匯出至美國。 來自歐洲、中東和非洲的客戶資料會匯出到西歐 [荷蘭]。) <br/> 
 <sup>5</sup> 進階威脅防護可在 Office 365 A5 中使用，可作為 Office 365 A1 和 Office 365 A3 的獨立服務。<br/>
-<sup>6</sup> 您也可以使用 [Office 365 管理活動 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) (英文)，從整合的稽核記錄中擷取事件。<br/>
+<sup>6</sup> You can also use the [Office 365 Management Activity API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) to retrieve events from the unified audit log. <br/>
   
 ## <a name="office-application-features"></a>Office 應用程式功能
 
@@ -284,7 +283,7 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如�
 |大量啟用 (KMS/MAK)  <br/> |否  <br/> |否  <br/> |否  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Windows Server AD RMS 是內部部署伺服器，必須個別採購並管理，以便啟用支援的 IRM 功能。<br/> 
+> <sup>1</sup> Windows Server AD RMS is an on-premises server that must be purchased and managed separately in order to enable the supported IRM features. <br/> 
 <sup>2</sup> 所有客戶皆可使用商務用 Skype 基本版。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Microsoft 365 應用程式（適用于企業）和 Office 365 企業版 E3 包含完整的 Skype 應用程式，其包含額外的功能，包括高級電話語音支援、封存及合規性功能。 必須為每個使用者指派商務用 Skype Online 授權。 如需有關 Lync 基本功能的詳細資訊，請參閱[桌面用戶端比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) (英文)。 <br/> 
 <sup>3</sup>有些學校可用於教育版（包括 Microsoft 365 應用程式的企業版），並可讓學生、教職員和員工在最多五部電腦或 Mac 電腦上，以及在其他行動裝置（包括 Windows 平板和 iPad）上安裝最新版的 Office。 當學校透過註冊教育版解決方案、Open Value Subscription 教育版解決方案或學校合約，為全機構的教職人員授權 Office 時，學校即符合 Office 365 教育增強版的資格。 請注意，Access 和 Publisher 僅在 PC 上可供使用。 OneNote for Mac 可分別從 Mac App Store 下載。 <br/> 
 <sup>4</sup> 包含網頁版 Office。 如需詳細資訊，請參閱[網頁版 Office 的功能](office-365-education.md#office-for-the-web-features)
@@ -420,13 +419,13 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如�
 |Outlook 增益集和 Outlook MAPI  <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Windows Server AD RMS 是內部部署伺服器，必須個別採購並管理，以便啟用支援的 IRM 功能。<br/>
+> <sup>1</sup> Windows Server AD RMS is an on-premises server that must be purchased and managed separately in order to enable the supported IRM features. <br/>
 <sup>2</sup> 傳輸規則由彈性準則構成，可讓您定義條件和例外狀況，以及根據準則採取的動作。 MO_ExchangeOnline 和 Microsoft ExchangeServer2013 之間可用的準則和動作並不相同。 如需可用準則和動作的清單，請參閱每一個產品對應的準則和動作主題。 <br/> 
 <sup>3</sup> Exchange Server 2013 僅使用 Microsoft 反惡意程式碼引擎。 Exchange Online 使用多個反惡意程式碼引擎，來掃描輸入、輸出和內部訊息中是否有惡意程式碼。 <br/> 
 <sup>4</sup> SharePoint Online 必須包含在訂閱計畫中。 <br/> 
-<sup>5</sup> 已連線的帳戶支援 POP 和 IMAP 帳戶，但對 Outlook.com (Hotmail) 停用。<br/> <sup>6</sup> 不支援使用 Cmdlet 來使用通訊清單及全域通訊清單。<br/> 
-<sup>7</sup> 部分第三方 Web 組件和增益集可能無法使用。<br/> 
-<sup>8</sup> 對於電子文件探索，您需要為內部部署與雲端進行不同的查詢。<br/> 
+<sup>5</sup> Connected accounts are supported for POP and IMAP accounts, but disabled for Outlook.com (Hotmail). <br/> <sup>6</sup> Using a cmdlet to work with the Address List and Global Address List is not supported. <br/> 
+<sup>7</sup> Some third-party web parts and add-ins may not be available. <br/> 
+<sup>8</sup> For eDiscovery, you need a separate query for on-premises vs. cloud. <br/> 
 <sup>9</sup> 資料表指出用戶端是否與相關的計劃搭配運作。 其並不代表這些計劃的採購中必須包含用戶端。 
   
 ### <a name="exchange-online-limits"></a>Exchange Online 限制
@@ -477,7 +476,7 @@ Microsoft Exchange Online 中的限制屬於下列其中一個類別：
   
 #### <a name="address-book-limits"></a>通訊錄限制
 
-- **通訊清單限制** 可以在 Exchange Online 或 Exchange Server 2013 組織中建立的通訊清單數目上限。這個數目包括 Exchange Online 中的預設通訊清單，例如 [所有連絡人] 和 [所有群組]。 
+- **Address list limit** The maximum number of address lists that can be created in an Exchange Online or Exchange Server 2013 organization. This number includes the default address lists in Exchange Online, such as All Contacts and All Groups. 
     
 - **離線通訊錄限制** 可以在 Exchange Online 或 Exchange Server 2013 組織中建立的離線通訊錄 (OAB) 數目上限。 
     
@@ -495,7 +494,7 @@ Microsoft Exchange Online 中的限制屬於下列其中一個類別：
    
 #### <a name="mailbox-storage-limits"></a>信箱儲存限制
 
-可用的信箱儲存容量取決於信箱類型和使用者的訂閱授權。管理員可降低單一使用者或全域的最高信箱大小。
+The amount of mailbox storage available is determined by the mailbox type and the user's subscription license. Administrators can reduce maximum mailbox sizes per user or globally.
   
 > [!NOTE]
 > 不允許使用日誌記錄、傳輸規則或自動轉寄規則將郵件複製到 Exchange Online 信箱以進行封存。 使用者的封存信箱僅供該使用者使用。 Microsoft 保留在使用者的封存信箱用來儲存其他使用者的封存資料或其他不適當用途的情況下，拒絕無限封存的權利。
@@ -524,11 +523,11 @@ Microsoft Exchange Online 中的限制屬於下列其中一個類別：
 
 Exchange Online 在使用者信箱接近容量上限或已達上限時提供三種通知類型：
   
-- **警告** 使用者收到信箱接近大小限制上限的電子郵件警告。此警告的目的是讓使用者刪除不需要的郵件。 
+- **Warning** The user receives an email warning that the mailbox is approaching the maximum size limit. This warning is intended to encourage users to delete unwanted mail. 
     
-- **禁止傳送** 當達到信箱大小限制時，使用者會收到禁止傳送通知電子郵件。在刪除足夠的電子郵件以將信箱容量降低至大小上限前，使用者無法傳送新的郵件。 
+- **Prohibit Send** The user receives a prohibit-send notification email when the mailbox size limit is reached. The user cannot send new messages until enough email is deleted to bring the mailbox below the size limit. 
     
-- **禁止傳送/接收** 當達到信箱大小上限時，Exchange Online 將拒絕任何來信，並將傳送未傳遞回報 (NDR) 給寄件者。寄件者可選擇稍後嘗試重新傳送該郵件。若再次收到訊息，使用者必須刪除電子郵件，直到信箱低於大小限制為止。 
+- **Prohibit Send/Receive** Exchange Online rejects any incoming mail when the mailbox size limit is reached, and sends a non-delivery report (NDR) to the sender. The sender has the option to try resending the mail later. To receive messages again, the user must delete email until the mailbox is below the size limit. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -539,29 +538,29 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
    
 #### <a name="mailbox-folder-limits"></a>信箱資料夾限制
 
-這些限制是為了讓信箱容量不超過 Exchange Online 可支援的已知大小範圍。這些限制的目的在於防止每一資料夾有無限多個信箱項目、每一信箱有無限多個資料夾，或每一 Exchange Online 組織有無限多個公用資料夾。為了實用目的，信箱資料夾限制實際上不受限，且足以支援大多數的 Exchange Online 信箱和已移轉至 Exchange Online 的內部部署信箱。
+These limits are intended to limit mailboxes to known dimensions that can be supported in Exchange Online. The goal of these limits is to prevent an infinite number of mailbox items per folder, an infinite number of folders per mailbox, or an infinite number of public folders per Exchange Online organization. For practical purposes, mailbox folder limits are in effect unlimited and sufficient to support most Exchange Online mailboxes and on-premises mailboxes that are migrated to Exchange Online.
   
-- **每一信箱資料夾的郵件數目上限** 指定信箱資料夾的郵件數目上限。達到此限制時，新郵件便無法傳遞或儲存至資料夾。 
+- **Maximum number of messages per mailbox folder** Specifies the maximum number of messages for a mailbox folder. New messages can't be delivered or saved in a folder when this limit is reached. 
     
-- **每一信箱資料夾的郵件數目警告** 指定在 Exchange Online 傳送警告訊息給信箱擁有者之前，信箱資料夾可以保留的郵件數目。達到此配額時，一天會傳送一次警告訊息。 
+- **Warning for number of messages per mailbox folder** Specifies the number of messages that a mailbox folder can hold before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
     
-- **[可復原的項目] 資料夾中每一資料夾的郵件數目上限** 指定 [可復原的項目] 資料夾中每個資料夾可以包含的郵件數目上限。資料夾超過此限制時，就無法儲存新郵件。例如，如果 [可復原的項目] 資料夾中的 [刪除] 資料夾已超過郵件計數限制，而且信箱擁有者嘗試從其信箱中永久刪除項目，則刪除會失敗。 
+- **Maximum number of messages per folder in the Recoverable Items folder** Specifies the maximum number of messages that can be contained in each folder in the Recoverable Items folder. When a folder exceeds this limit, it can't store new messages. For example, if the Deletions folder in the Recoverable Items folder has exceeded the message count limit and the mailbox owner attempts to permanently delete items from their mailbox, the deletion will fail. 
     
 - **[可復原的項目] 資料夾中每一資料夾的郵件數目警告** 指定在 Exchange Online 於應用程式事件記錄中記錄事件之前，[可復原的項目] 資料夾中每個資料夾可以保留的郵件數目。 
     
-- **每一信箱資料夾的子資料夾數目上限** 指定可以在信箱資料夾中建立的子資料夾數目上限。達到此限制時，信箱擁有者就無法建立新的子資料夾。 
+- **Maximum number of subfolders per mailbox folder** Specifies the maximum number of subfolders that can be created in a mailbox folder. The mailbox owner won't be able to create a new subfolder when this limit is reached. 
     
-- **每一信箱資料夾的子資料夾數目警告** 指定在 Exchange Online 傳送警告訊息給信箱擁有者之前，可以在信箱資料夾中建立的子資料夾數目。達到此配額時，一天會傳送一次警告訊息。 
+- **Warning for number of subfolders per mailbox folder** Specifies the number of subfolders that can be created in a mailbox folder before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
     
-- **資料夾階層深度上限** 指定信箱的資料夾階層中的層級數目上限。達到此限制時，信箱擁有者就無法在信箱資料夾的資料夾階層中建立另一個層級。 
+- **Maximum folder hierarchy depth** Specifies the maximum number of levels in the folder hierarchy of a mailbox. The mailbox owner won't be able to create another level in the folder hierarchy of the mailbox folder when this limit is reached. 
     
-- **資料夾階層深度警告** 指定在 Exchange Online 傳送警告訊息給信箱擁有者之前，可以在信箱資料夾的資料夾階層中建立的層級數目。達到此配額時，一天會傳送一次警告訊息。 
+- **Warning for folder hierarchy depth** Specifies the number of levels in the folder hierarchy of a mailbox folder that can be created before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
     
-- **最大公用資料夾數目** 指定完整公用資料夾階層中的最大公用資料夾數目。達到此限制時，必須先刪除現有公用資料夾，才能建立新的公用資料夾。 
+- **Maximum number of public folders** Specifies the maximum number of public folders in the complete public folder hierarchy. When this limit is reached, existing public folders must be deleted before new public folders can be created. 
     
-- **每一公用資料夾的子資料夾數目上限** 指定可在公用資料夾中建立的子資料夾數目上限。達到此限制時，即無法在公用資料夾中建立新的子資料夾。 
+- **Maximum number of subfolders per public folder** Specifies the maximum number of subfolders that can be created in a public folder. New subfolders can't be created in a public folder when this limit is reached. 
     
-- **每一公用資料夾的子資料夾數目警告** 指定在 Exchange Online 傳送警告訊息給資料夾擁有者之前，可以在公用資料夾中建立的子資料夾數目。如果沒有擁有者存在，則會傳送警告訊息給具有擁有者權限的使用者。達到此配額時，一天會傳送一次警告訊息。 
+- **Warning for number of subfolders per public folder** Specifies the number of subfolders that can be created in a public folder before Exchange Online sends a warning message to the folder owner. If no owner exists, warning messages are sent to users with Owner permissions. When this quota is reached, warning messages are sent once a day. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -594,14 +593,14 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
   
 - **主旨長度限制** 電子郵件主旨行中允許的文字字元數目上限。 
     
-- **檔案附件限制** 電子郵件中允許的檔案附件數目上限。即使所有檔案附件的大小總計沒有違反郵件大小限制，郵件中允許的附件數目仍然具有限制。此限制會由 Multipart 郵件限制控制。 
+- **File attachments limit** The maximum number of file attachments allowed in an email message. Even if the total size of all the file attachments doesn't violate the message size limit, there is still a limit on how many attachments are allowed in the message. This limit is controlled by the multipart message limit. 
     
 - **檔案附件大小限制** 單一附件的檔案大小上限。 
     
     > [!NOTE] 
     > 這是單一附件的檔案大小上限。 個別用戶端方案 (包括網頁版 Outlook) 可能會規定附件大小需低於此上限。 Exchange ActiveSync 未針對個別附件實作附件大小限制。 Exchange ActiveSync 郵件的所有附件大小總和必須小於郵件大小限制。 
   
-- **Multipart 郵件限制** MIME Multipart 郵件中允許的郵件內文部分數目上限。此限制也會控制郵件允許的檔案附件數目上限。 
+- **Multipart message limit** The maximum number of message body parts that are allowed in a MIME multipart message. This limit also controls the maximum number of file attachments that are allowed in a message. 
     
 - **內嵌郵件深度限制** 電子郵件中允許的轉寄電子郵件數目上限。 
     
@@ -631,11 +630,11 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
   
 #### <a name="receiving-and-sending-limits"></a>接收及傳送限制
 
-接收及傳送限制會套用至郵件、寄件者或收件者，以便抵禦垃圾郵件和大量郵寄蠕蟲或病毒。這些限制有助於保護系統的健康情況，並確保使用者安全。
+Receiving and sending limits are applied to combat spam and mass-mailing worms or viruses. These limits help to protect the health of our systems and keep our users safe.
   
 #### <a name="receiving-limits"></a>接收限制
 
-接受限制會套用至使用者、群組或公用資料夾每小時能接收的訊息數量。這會同時套用至從網際網路和內部部署伺服器接收的訊息。當超過接收限制時，任何傳送到該信箱的電子郵件將會收到未傳遞報告，指出信箱已超過最大傳遞臨界值。一個小時之後，將會重新整理限制，而信箱就能夠再度接收郵件。
+Receiving limits apply to the number of messages that a user, group, or public folder can receive per hour. This applies for both messages received from the Internet and from on-premises servers. When the receiving limit has been exceeded, any emails sent to that mailbox will receive a non-delivery report stating that the mailbox has exceeded the maximum delivery threshold. After one hour, the limit will refresh and the mailbox will once again be able to receive messages.
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -647,9 +646,9 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 傳送限制會套用至使用者可以從 Exchange Online 帳戶傳送的收件者數量、訊息數量和每封訊息的收件者數量。
   
 > [!NOTE]
-> 就儲存於組織通訊錄中的通訊群組而言，系統會將群組視為一位收件者。就儲存於信箱之 [連絡人] 資料夾中的通訊群組而言，則系統將群組中的成員視為個別收件者。 
+> For distribution groups stored in an organization's address book, the group is counted as one recipient. For distribution groups stored in the Contacts folder of a mailbox, the members of the group are counted individually. 
   
-- **收件者流量限制** 為了減少來路不明的大量郵件遞送，Exchange Online 擁有防止使用者與應用程式傳送大量電子郵件的收件者限制。這些限制會套用至每位使用者的所有外寄和內部郵件。 
+- **Recipient rate limit** To discourage the delivery of unsolicited bulk messages, Exchange Online has recipient limits that prevent users and applications from sending large volumes of email. These limits are applied per-user to all outbound and internal messages. 
     
     > [!NOTE]
     > Exchange Online 客戶若需要傳送合法的大量商業電子郵件（例如客戶電子報），應使用專門提供這些服務的第三方供應商。 
@@ -657,9 +656,9 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 - **收件者限制** 此為單封電子郵件中 [收件者:]、[副本:] 和 [密件副本:]欄位允許的收件者數量上限。 
     
     > [!NOTE]
-    > 基於收件者流量限制和收件者限制的用意，組織共用通訊錄中所儲存的通訊群組會算為一位收件者。在個人通訊群組清單中，每位收件者皆分開計算。 
+    > For the purposes of the recipient rate limit and the recipient limit, a distribution group that is stored in the organization's shared address book counts as one recipient. In a personal distribution list, each recipient is counted separately. 
   
-- **郵件流量限制**郵件流量限制會決定使用者在指定時間內從 Exchange Online帳戶傳送的郵件數量。此限制可協助防止單一寄件者的系統資源使用量過高。如果使用者提交郵件的速率超過透過 SMTP 用戶端提交的限制，則會拒絕郵件，用戶端必須重試。 
+- **Message rate limit** Message rate limits determine how many messages a user can send from their Exchange Online account within a specified period of time. This limit helps prevent overconsumption of system resources by a single sender. If a user submits messages at a rate that exceeds the limit via SMTP client submission, the messages will be rejected and the client will need to retry. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -691,7 +690,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |[垃圾郵件] 資料夾保留期間  <br/> |30 天  <br/> |30 天  <br/> |30 天  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 這是預設限制。系統管理員可以為其組織變更此值。 
+> <sup>1</sup> This is the default limit. Administrators can change this value for their organization. 
   
 #### <a name="distribution-group-limits"></a>通訊群組限制
 
@@ -699,9 +698,9 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
   
 - **通訊群組成員人數上限** 收件者總數是在通訊群組擴充之後決定的。 
     
-- **傳送郵件給大型通訊群組的限制** 通訊群組如果包含這項限制所指定的成員人數，就必須設有傳遞管理或郵件核准選項。傳遞管理會指定一份寄件者清單，只有這些寄件者才能傳送郵件至此通訊群組。郵件核准會指定一位或多位仲裁者，郵件必須通過他們的核准才能傳送至此通訊群組。 
+- **Limit sending messages to large distribution groups** Distribution groups that contain the number of members specified by this limit must have delivery management or message approval options configured. Delivery management specifies a list of senders who are allowed to send messages to the distribution group. Message approval specifies one or more moderators who must approve all messages sent to the distribution group. 
     
-- **大型通訊群組的郵件大小上限** 如果郵件是要傳送給 5,000 位以上的收件者，則該郵件大小不可超過此限制。如果郵件大小超過限制，郵件不會傳遞出去，而且寄件者會收到未傳遞回報 (NDR)。收件者總數是在通訊群組擴充之後決定的。 
+- **Maximum message size for large distribution groups** If a message is sent to 5,000 or more recipients, the message size can't exceed this limit. If the message size exceeds the limit, the message isn't delivered, and the sender receives a non-delivery report (NDR). The total recipient count is determined after distribution group expansion. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -718,23 +717,23 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 #### <a name="journal-transport-and-inbox-rule-limits"></a>日誌、傳輸和收件匣規則限制
 
-下列清單包括套用至日誌規則、傳輸規則 (也稱為組織規則) 的限制，以及套用至「收件匣」規則的限制。「收件匣」規則是由個別使用者所設定，並且套用至由個別使用者的信箱所傳送和接收的郵件。
+The following list includes limits that apply to journal rules, transport rules (also known as organization-wide rules), and limits that apply to Inbox rules. Inbox rules are set up by individual users and applied to messages sent and received by the individual user's mailbox.
   
 - **規則數目上限** 組織中可以存在的日誌規則數目上限。 
     
 - **傳輸規則數目上限** 組織中可以存在的規則數目上限。 
     
-- **個別傳輸規則的大小上限** 單一傳輸規則中可以使用的字元數目上限。這些字元是用在條件、例外狀況和動作中。 
+- **Maximum size of an individual transport rule** The maximum number of characters that can be used in a single transport rule. The characters are used in the conditions, exceptions, and actions. 
     
-- **所有傳輸規則中使用之所有規則運算式的字元限制** 在組織中的所有傳輸規則條件及例外狀況中，所有規則運算式所使用的字元總數。您可以有幾條規則使用又長又複雜的規則運算式，也可以有許多規則使用簡單的規則運算式。 
+- **Character limit for all regular expressions used in all transport rules** The total number of characters used by all the regular expressions in all the transport rule conditions and exceptions in the organization. You can have a few rules that use long and complex regular expressions, or you can have many rules that use simple regular expressions. 
     
 - **附件內容的掃描限制** 傳輸規則條件可讓您檢查郵件附件的內容，但只會檢查從附件擷取的第 1 MB 文字。 此 1 MB 限制是指從附件擷取的文字，而不是附件的檔案大小。 例如，2 MB 檔案可能包含小於 1 MB 的文字，所以會檢查所有的文字 
     
-- **所有傳輸規則新增到郵件的收件者人數上限** 當郵件由不同的傳輸規則進行處理時，可新增到郵件中的收件者人數是有限制的。達到此上限之後，就不再將任何其餘的收件者新增到郵件中。此外，傳輸規則也不能將通訊群組新增到郵件中。 
+- **Maximum number of recipients added to a message by all transport rules** When a message is acted on by different transport rules, only a finite number of recipients can be added to the message. After the limit is reached, any remaining recipients aren't added to the message. Also, distribution groups can't be added to a message by a transport rule. 
     
-- **轉寄者限制** 可為收件匣或傳輸規則設定之具有重新導向動作的收件者人數上限。如果為某個規則設定的郵件重新導向收件者數目超過此數目，系統將不會套用該規則，而任何符合該規則條件的郵件將不會被重新導向到規則中所列的任何收件者。 
+- **Forwardee limit** The maximum number of recipients that can be configured for an inbox or transport rule with a redirecting action. If a rule is configured to redirect a message to more than this number of recipients, the rule won't be applied and any message that satisfies the rule condition won't be redirected to any of the recipients listed in the rule. 
     
-- **重新導向郵件的次數** 根據收件匣規則自動重新導向、轉寄或回覆郵件的次數。例如，使用者 A 的收件匣規則會根據寄件者，將郵件重新導向到使用者 B。使用者 B 的收件匣規則會根據主旨行中的關鍵字，將郵件轉寄給使用者 C。如果某封郵件同時符合這兩項條件，該郵件將只會傳送給使用者 B 而不會轉寄給使用者 C，因為只允許重新導向一次。在此情況下，會捨棄郵件，而未將未傳遞回報 (NDR) 傳送給使用者 B，指出未將郵件傳遞給使用者 C。 
+- **Number of times a message is redirected** The number of times a message will be redirected, forwarded, or replied to automatically based on Inbox rules. For example, User A has an Inbox rule that redirects messages to User B, based on the sender. User B has an Inbox rule that forwards messages to User C based on keywords in the subject line. If a message satisfies both of these conditions, the message is only sent to User B; it's not forwarded to User C because only one redirection is allowed. In this case, the message is dropped without sending a non-delivery report (NDR) to User B indicating that the message wasn't delivered to User C. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -754,13 +753,13 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
   
 - **仲裁信箱的大小上限** 如果仲裁信箱超過此限制，需要仲裁的郵件會就包含在傳回給寄件者的未傳遞回報 (NDR) 中。 
     
-- **仲裁者人數上限** 可指派給單一仲裁通訊群組的仲裁者人數上限，或是可使用單一傳輸規則新增到郵件中的仲裁者人數上限。請注意，您無法將通訊群組指定為仲裁者。 
+- **Maximum number of moderators** The maximum number of moderators that you can assign to a single moderated distribution group or that can be added to a message using a single transport rule. Note that you can't specify a distribution group as a moderator. 
     
-- **等候仲裁之郵件的到期日** 根據預設，等候仲裁的郵件會在兩天後過期。不過，過期的仲裁郵件處理會每七天執行一次，也就是說，仲裁郵件會在兩天到九天之間的任何時候過期。 
+- **Expiration for messages waiting for moderation** By default, a message waiting for moderation expires after two days. However, the processing of expired moderated messages runs every seven days. This means that a moderated message can expire at any time between two and nine days. 
     
-- **過期仲裁通知郵件的最大速率** 這項限制會設定過期仲裁郵件一小時內的通知郵件數目上限。這項限制是設置在資料中心內的每個信箱資料庫上。 
+- **Maximum rate for expired moderation notification messages** This limit sets the maximum number of notification messages for expired moderated messages in a one-hour period. This limit is placed on each mailbox database in the datacenter. 
     
-    在大量使用期間，某些寄件者可能不會收到有關仲裁郵件已過期的通知郵件。不過，這些通知還是可以使用傳遞回報找到。
+    During periods of heavy usage, some senders may not receive notification messages for moderated messages that have expired. However, these notifications are still discoverable using delivery reports.
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -884,7 +883,7 @@ SharePoint Online 中包含商務用 OneDrive。 若要了解 SharePoint Online 
 |Office Communications Server 2007 R2 與 Lync Server 2010 (IM、顯示狀態、音訊、視訊及會議)  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |XMPP (例如 Google Talk 所使用) 與 Sametime 同盟  <br/> |否  <br/> |否  <br/> |否  <br/> |
 | Skype 同盟  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|AOL 和 Yahoo! 同盟  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|AOL and Yahoo! federation  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[Skype 商務線上會議](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |臨機操作和排程音訊會議  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |臨機操作和排程視訊會議  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -1001,7 +1000,7 @@ SharePoint Online 中包含商務用 OneDrive。 若要了解 SharePoint Online 
   
 #### <a name="peer-to-peer-limits"></a>對等限制
 
-- **檔案傳輸限制**商務用 Skype Online IM 交談中可傳輸的檔案大小上限。若要了解哪些檔案類型不能進行檔案傳輸，請參閱有關[在商務用 Skype Online 中傳送和接收檔案或附件](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments)的 Microsoft 支援文章。
+- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
     
 - **開啟的分頁交談限制** 商務用 Skype 使用者可同時開啟的交談索引標籤數目上限。 
     
@@ -1037,7 +1036,7 @@ SharePoint Online 中包含商務用 OneDrive。 若要了解 SharePoint Online 
 |小組呼叫群組中的個人  <br/> |0.25  <br/> |0.25  <br/> |0.25  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 如果商務用 Skype 會議參與者超過 75，那麼，會議名單中的參與者清單 (簡報人員和出席者) 將會被截斷，個別出席者僅看見簡報人員與該出席者本身的名稱。而會議的簡報人員仍可看見完整的參與者清單。此外，會對出席者隱藏圖庫檢視和 IM 錯誤。 
+> <sup>1</sup> If the number of participants in a Skype for Business meeting exceeds 75 participants, then the participant list (presenters and attendees) in the meeting roster will be truncated so that an individual attendee sees only the presenters and the individual attendee's own name. The full participant list remains visible to the presenters in the meeting. Also, Gallery View and IM errors are hidden from the attendees. 
   
 #### <a name="meeting-retention-limits"></a>會議保留限制
 

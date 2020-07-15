@@ -1,8 +1,7 @@
 ---
 title: Office 365 Germany
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,24 +9,24 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德國是一種可在歐洲使用的 Office 365 服務的區別選項。 它可透過以德國法律為依據的獨特資料受信者模型，為數字工作、歐盟（歐盟）和歐洲免費交易協會（EFTA）提供業界領先的工作效率服務，以協助滿足在德國、歐盟（EU）和歐洲免費交易協會（）中最受管制客戶的需求。
-ms.openlocfilehash: bc4825c38eac63b3dc4acbebcf42b05d46346f5c
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: 3e2cb2a1f9eeebd6a3fb106f8cac9a32a4cfb5e9
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429118"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132387"
 ---
 # <a name="office-365-germany"></a>Office 365 德國
 
 Office 365 德國是一種可在歐洲使用的 Office 365 服務的區別選項。 它可透過以德國法律為依據的獨特資料受信者模型，為數字工作、歐盟（歐盟）和歐洲免費交易協會（EFTA）提供業界領先的工作效率服務，以協助滿足在德國、歐盟（EU）和歐洲免費交易協會（）中最受管制客戶的需求。
 
-資料信任者 T-Systems International (獨立德國公司) 和 Deutsche Telekom 子公司會控制客戶資料的實體和邏輯存取。非由資料信任者 (德國法律所規範) 核准或監督不得存取客戶資料。
+The data trustee, T-Systems International, an independent German company and subsidiary of Deutsche Telekom, controls physical and logical access to customer data. Customer data cannot be accessed without approval from or supervision by the data trustee, which is governed by German law.
 
 根據客戶的需求，我們的雲端策略會將重點放在德國中與我們的全球雲端產品一致的新雲端地區。 透過這個重點，我們將不再接受新的客戶，或從目前可用的 Microsoft 雲端德國部署任何新的服務。 現有的客戶可以繼續使用目前的雲端服務，我們會使用必要的安全性更新加以維護。 [深入瞭解 Office 365 德國](https://support.office.com/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US)。
 
 ## <a name="service-availability-for-each-plan"></a>每個方案可用的服務
 
-每個 Office 365 Germany 方案皆包含一些個別服務，例如 Exchange Online 和 SharePoint Online。下表顯示每項 Office 365 方案中可用的服務。
+Each Office 365 Germany plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
 
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -539,7 +538,7 @@ EOP 中的<sup>4 個</sup>郵件流程規則（也稱為傳輸規則）是在[Ex
 
 ## <a name="project-online-features"></a>Project Online 功能
 
-下表列出可用於 Office 365 Germany 方案的 Project Online功能。若要深入了解 Project Online，請參閱[開始使用 Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)。
+The following table lists the Project Online features that are available across Office 365 Germany plans. To learn more aboutProject Online, see [Getting Started with Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
 
 ||||
 |:-----|:-----|:-----|
@@ -550,7 +549,7 @@ EOP 中的<sup>4 個</sup>郵件流程規則（也稱為傳輸規則）是在[Ex
 
 ## <a name="sharepoint-online-features"></a>SharePoint Online 功能
 
-所有 Office 365 計劃都包含 SharePoint Online 服務，但並非所有方案都支援所有的 SharePoint 功能。下表列出可用於 Office 365 Germany 方案的功能。
+All Office 365 plans include the SharePoint Online service, but not all plans support all SharePoint features. The following table lists features that are available across Office 365 Germany plans.
 
 ****
 
@@ -850,7 +849,7 @@ EOP 中的<sup>4 個</sup>郵件流程規則（也稱為傳輸規則）是在[Ex
 |Office Communications Server 2007 R2 與 Lync Server 2010 (IM、顯示狀態、音訊、視訊及會議)|是|否|是|是|是|是|否|
 |XMPP (例如 Google Talk 所使用) 與 Sametime 同盟|否|否|否|否|否|否|否|
 |Skype 同盟|否<sup>6</sup>|否|否<sup>6</sup>|否<sup>6</sup>|否<sup>6</sup>|否<sup>6</sup>|否|
-|AOL 和 Yahoo! 同盟|否|否|否|否|否|否|否|
+|AOL and Yahoo! federation|否|否|否|否|否|否|否|
 |**[Skype 商務線上會議](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Germany 商務基本版**|**Office 365 Germany 商務版**|**Office 365 Germany 商務進階版**|**Office 365 Germany 教育版 A1**|**Office 365 Germany 企業版 E3**|**Office 365 Germany 企業版 E4**|**Office 365 Germany 企業版 K1**|
 |臨機操作和排程音訊會議|是|是|是|是|是|是|否|
 |臨機操作和排程視訊會議|是|是|是|是|是|是|否|

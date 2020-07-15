@@ -1,8 +1,7 @@
 ---
 title: Exchange Online 封存服務說明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online 封存是 Microsoft 365 雲端型企業級封存解決方案，適用于已部署 Microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、Microsoft Exchange server 2010 （SP2 和更新版本）的組織，或訂閱某些 Exchange Online 或 Microsoft 365 方案。 Exchange Online Archiving可為這些組織在封存、符合性、法規及 eDiscovery 挑戰等方面提供協助，同時可簡化內部部署基礎結構，進而降低成本和減輕 IT 重擔。
-ms.openlocfilehash: 5b5b19fa947594bbf648a46746bbfecbf8039fda
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6869fd655142eb6dd6df062fc669f5c8e9c5840f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213725"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131517"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online 封存服務說明
 
@@ -61,7 +60,7 @@ Microsoft Exchange Online 封存是 Microsoft 365 雲端型企業級封存解決
   
 ### <a name="user-subscriptions"></a>使用者訂閱
 
-每位存取 Exchange Online Archiving 服務的使用者皆必須具有 Exchange Online Archiving 訂閱。每項電子郵件封存訂閱皆僅能用來儲存一位使用者的郵件資料。
+Each user who accesses the Exchange Online Archiving service must have an Exchange Online Archiving subscription. Each email archive subscription can be used only for storage of one user's messaging data.
   
 ## <a name="unlimited-archive-storage-quota"></a>無限制封存儲存配額
 

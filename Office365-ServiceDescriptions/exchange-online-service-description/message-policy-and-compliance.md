@@ -1,8 +1,7 @@
 ---
-title: 郵件原則及符合性
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+title: 郵件原則及合規性
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,24 +10,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 4d81cef3f2b3edefe21e40b0cde6a6edcc0fc1af
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 5565085472d43230f9059e1dcac115105a2e20d5
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638927"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132697"
 ---
-# <a name="message-policy-and-compliance"></a>郵件原則及符合性
+# <a name="message-policy-and-compliance"></a>郵件原則及合規性
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>封存 Exchange Online 式信箱
 
-Exchange Online 信箱位於雲端，封存這些信箱需要獨特的主控環境。在某些情況下，Exchange Online 也可用來封存雲端中的內部部署信箱。本節將說明使用 Exchange Online 封存的選項。
+Exchange Online mailboxes reside in the cloud, and archiving them requires unique hosting environments. In some cases, Exchange Online can also be used to archive on-premises mailboxes in the cloud. The options for archiving with Exchange Online are described in this section.
   
 Exchange Online 提供內建的封存功能來封存雲端式信箱，包括提供使用者方便的地方來儲存舊電子郵件訊息的「就地封存」。 In-Place 封存是一種特殊類型的信箱，它會出現在 Outlook 和網頁型 Outlook 中使用者的主要信箱資料夾旁。 使用者存取和搜尋封存的方式與存取和搜尋主要信箱相同。 可用的功能取決於使用的用戶端：
   
 - **Outlook 2016、outlook 2013、outlook 2010 和 outlook 網頁**版使用者可以存取封存的完整功能，以及相關的合規性功能，例如控制保留和封存原則。 
     
-- **Outlook 2007** 使用者可使用就地封存的基本支援，但並非所有封存和符合性功能都可使用。例如，使用者無法將保留或封存原則套用到信箱項目，而必須改為依賴系統管理員所佈建的原則。 
+- **Outlook 2007** Users have basic support for the In-Place Archive, but not all archiving and compliance features are available. For example, users cannot apply retention or archive policies to mailbox items and must rely on administrator-provisioned policies instead. 
     
 系統管理員可使用 Exchange 系統管理中心或遠端 Windows PowerShell，針對特定使用者啟用個人封存功能。
   
@@ -44,12 +43,12 @@ Exchange Online 提供內建的封存功能來封存雲端式信箱，包括提�
   
 > [!IMPORTANT]
 > - 不允許使用日誌記錄、傳輸規則或自動轉寄規則將郵件複製到 Exchange Online 信箱以進行封存。 Microsoft 保留在信箱封存未使用於個人案例中或其他不適當用途的情況下，拒絕無限封存的權利。
-> - 就地封存針對 Outlook 使用者有特定的授權需求。Outlook 2007 使用者必須要有 2011 年 2 月累計更新的 Office 2007，才能存取個人封存。 
+> - In-Place Archive has specific licensing requirements for Outlook users. Outlook 2007 users must have the Office 2007 Cumulative Update for February 2011 to access the personal archive. 
 > - Exchange Online 不支援 Exchange Server 2010 Service Pack 1 或更新版本的 Windows PowerShell 指令程式的_New-MailboxImportRequest_ Windows Cmdlet，以供系統管理員驅動的將 .pst 檔案匯入個人封存。 如果使用者在 Exchange Online 中同時有主要信箱和封存，則系統管理員可以使用 PST Capture 這項免費的工具，將 .pst 檔案資料匯入使用者的主要信箱或封存。
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>雲端式封存內部部署信箱
 
-您可以使用 Microsoft Exchange Online 封存這項由 Microsoft 提供的託管封存解決方案，使用 Exchange Online 對內部部署 Exchange Server 2010 或更新版本的信箱進行雲端式封存。若要執行這項作業，內部部署組織必須處於混合模式或設定使用 Exchange Online 封存。
+Using Exchange Online for cloud-based archiving of on-premises Exchange Server 2010 or later mailboxes is possible with Microsoft Exchange Online Archiving, a hosted archiving solution from Microsoft. This requires that the on-premises organization be in Hybrid mode or be set up for Exchange Online Archiving.
   
 > [!IMPORTANT]
 > 若使用者在 Exchange 2010 信箱伺服器上有內部部署信箱，而且套用了受管理的資料夾原則，就無法啟用內部部署或雲端式就地封存功能。 
@@ -60,11 +59,11 @@ Exchange Online 提供保留原則，可協助組織減少電子郵件和其他�
   
 在 Exchange Online 中，系統管理員可以使用 Exchange 系統管理中心 (EAC) 或遠端 Windows PowerShell 來管理保留原則。
   
-Exchange Online 提供兩種原則類型：封存原則和刪除原則。您可以在同一個項目或資料夾上結合使用這兩種類型。例如，使用者可以將電子郵件訊息標記在指定天數後自動移到就地封存，並在過了另一段天數之後刪除。
+Exchange Online offers two types of policies: archive policies and delete policies. Both types can be combined on the same item or folder. For example, a user can tag an email message to be automatically moved to the In-Place Archive in a specified number of days and deleted after another span of days.
   
 使用 Outlook 2010 或更新版本以及 Outlook 網頁版，使用者可以將保留原則套用至資料夾、交談或個別郵件。 他們也可以檢視套用的保留原則以及郵件的預定刪除日期。 其他電子郵件用戶端的使用者則只能根據系統管理員設定的伺服器端保留原則刪除或封存電子郵件訊息。
   
-Exchange Online 提供的保留原則功能與 Exchange Server 2010 Service Pack 2 RU4 所提供的相同。系統管理員可以使用遠端 Windows PowerShell，將保留原則從內部部署 Exchange Server 2010 或更新版本的環境移轉到 Exchange Online。
+The retention policy capabilities offered in Exchange Online are the same as those offered in Exchange Server 2010 Service Pack 2 RU4. Administrators can use remote Windows PowerShell to migrate retention policies from on-premises Exchange Server 2010 or later environments to Exchange Online.
   
 > [!IMPORTANT]
 > Exchange Online 不提供「受管理的資料夾」，這是 Exchange Server 2007 所引進的功能，為早期郵件記錄管理方法。 
@@ -95,13 +94,13 @@ Office 365 Advanced Message Encryption 允許郵件到期和吊銷，提供額�
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Secure/Multipurpose Internet Mail Extensions (S/MIME)
 
-S/MIME 可讓您在組織內傳送已簽署和已加密電子郵件，以協助保護敏感資訊。在建立並發出 PKI 憑證給使用者之後，系統管理員可以使用遠端 Windows PowerShell 來設定 S/MIME。這些憑證必須透過內部部署 Active Directory 憑證服務進行同步處理。
+S/MIME allows you to help protect sensitive information by sending signed and encrypted email within your organization. Administrators can use remote Windows PowerShell to set up S/MIME after establishing and issuing PKI certificates to users. These certificates must be synchronized from an on-premises Active Directory Certificate Service.
   
 Microsoft Edge 和 Internet Explorer 11 支援 S/MIME。 目前，Firefox、Opera 和 Chrome 不支援 S/MIME。 如需詳細資訊，請參閱〈[適用於訊息簽署和加密的 S/MIME](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019)〉。
   
 ## <a name="in-place-hold-and-litigation-hold"></a>就地保留與訴訟暫止
 
-如果合理預期到訴訟的可能性，組織就需要保留與案件相關的電子儲存資訊 (ESI)，包括電子郵件。此預期心理會在了解案件的特定資料之前出現，而且需要保留的資料範圍通常很廣。組織可以保留所有與特定主題相關的電子郵件，或是有關特定個人的所有電子郵件。
+When a reasonable expectation of litigation exists, organizations are required to preserve electronically stored information (ESI), including email that's relevant to the case. This expectation can occur before the specifics of the case are known, and preservation is often broad. Organizations may preserve all email related to a specific topic, or all email for certain individuals.
   
 在 Exchange Online 中，您可以使用就地保留或訴訟資料暫留功能來達成下列目標：
   
@@ -132,13 +131,13 @@ Microsoft Edge 和 Internet Explorer 11 支援 S/MIME。 目前，Firefox、Oper
 
 Exchange Online 可讓客戶使用網頁型介面搜尋整個組織中的信箱內容。 具有就地 eDiscovery 搜尋執行授權 (透過指派) 的系統管理員或法規遵循和安全性職員可搜尋電子郵件訊息、附件、行事曆約會、工作、連絡人及其他項目。 就地 eDiscovery 可以同時搜尋主要信箱和封存。 功能齊備的篩選功能包括寄件者、收件者、訊息類型、傳送/接收日期和副本/密件副本，另外還包括 KQL 語法。 搜尋結果將同時包含 [刪除的郵件] 資料夾中符合搜尋查詢的項目。
   
-就地 eDiscovery 的搜尋結果可透過 Web 介面來預覽、匯出為 PST 檔案或複製到名稱為探索信箱的特殊信箱中。探索信箱有 50 GB 的配額可儲存搜尋結果。系統管理員也可以將 Outlook 連線至探索信箱，以存取搜尋結果並將其匯出為 .pst 檔案。
+Results of In-Place eDiscovery searches can be previewed in the web-based interface, exported to a PST file or copied to a special type of mailbox called a Discovery mailbox. A Discovery mailbox has a 50 GB quota for storing search results. Administrators can also connect Outlook to the Discovery mailbox to access search results, and export the search results to a .pst file.
   
-系統管理員可以使用 Exchange 系統管理中心或遠端 Windows PowerShell 來執行多信箱搜尋。Exchange 系統管理中心可提供搜尋結果的唯讀預覽，讓系統管理員可以快速驗證搜尋，並視需要使用不同參數重新執行該搜尋。在最佳化搜尋之後，系統管理員便可以將結果複製到探索信箱。
+Administrators use either the Exchange admin center or remote Windows PowerShell to perform multi-mailbox searches. The Exchange admin center can provide a read-only preview of the search results, enabling administrators to quickly verify a search and rerun it, if needed, with different parameters. Once a search is optimized, the administrator can copy the results to the Discovery mailbox.
   
-根據預設，系統會為每個組織建立一個探索信箱，不過系統管理員可以使用遠端 Windows PowerShell 建立更多的探索信箱。探索信箱無法用於儲存就地 eDiscovery 搜尋結果以外的用途。
+By default, one Discovery mailbox is created for each organization, but administrators can create additional Discovery mailboxes using remote Windows PowerShell. Discovery mailboxes cannot be used for any purpose other than storing In-Place eDiscovery search results.
   
-系統管理員可以使用 Exchange 系統管理中心或遠端 Windows PowerShell 來執行就地 eDiscovery 搜尋。Exchange 系統管理中心可提供搜尋結果的唯讀預覽，讓系統管理員可以快速驗證搜尋，並視需要使用不同參數重新執行該搜尋。在最佳化搜尋之後，系統管理員便可以將結果複製到探索信箱，或將搜尋結果匯出為 PST 檔案。
+Administrators use either the Exchange admin center or remote Windows PowerShell to perform In-Place eDiscovery searches. The Exchange admin center can provide a read-only preview of the search results, enabling administrators to quickly verify a search and rerun it, if needed, with different parameters. Once a search is optimized, the administrator can copy the results to the Discovery mailbox or export search results to a PST file.
   
 系統管理員可以使用 Exchange 系統管理中心或遠端 Windows PowerShell，最多在就地 eDiscovery 搜尋中同時搜尋 10,000 個信箱。 
   
@@ -156,7 +155,7 @@ Exchange Online 可讓客戶使用網頁型介面搜尋整個組織中的信箱�
 
 您可以使用郵件流程規則，針對透過您的組織並採取行動的郵件尋找特定條件。 郵件流程規則可讓您將郵件原則套用至電子郵件訊息、安全訊息、保護郵件系統，並避免資訊洩露。
   
-現今的法律、管控需求或公司原則要求許多組織套用郵件傳遞原則，以限制組織內部和外部之收件者與寄件者間的互動。除了限制個人、組織內的部門群組，以及組織外的實體間的互動外，有些組織也會受到下列郵件原則需求的控制：
+Many organizations today are required by law, regulatory requirements, or company policies to apply messaging policies that limit the interaction between recipients and senders, both inside and outside the organization. In addition to limiting interactions among individuals, departmental groups inside the organization, and entities outside the organization, some organizations are also subject to the following messaging policy requirements:
   
 - 防止不適當的內容進入或流出組織
     
@@ -189,7 +188,7 @@ Exchange Online 可讓客戶使用網頁型介面搜尋整個組織中的信箱�
     
 - 偵測郵件附件、本文或主旨行中的敏感資訊，並調整 Exchange Online 作用的信賴等級。
     
-- 使用「文件指紋」偵測敏感表單資料。「文件指紋」會協助您根據可用於定義傳輸規則和 DLP 原則的文字型表單，輕易地建立自訂敏感資訊類型。
+- Detect sensitive form data by using Document Fingerprinting. Document Fingerprinting helps you easily create custom sensitive information types based on text-based forms that you can use to define transport rules and DLP policies.
     
 - 新增原則提示，可將通知顯示在 Outlook 2016、Outlook 2013、Outlook 網頁版和使用者的 OWA，以協助減少資料遺失，也可以允許誤報，以提升原則的效能。 
     
@@ -199,9 +198,9 @@ Exchange Online 可讓客戶使用網頁型介面搜尋整個組織中的信箱�
   
 ## <a name="journaling"></a>日誌
 
-您可以設定 Exchange Online 將電子郵件的複本記錄到可以透過 SMTP 接收郵件的任何外部信箱。日誌記錄可藉由錄製輸入和輸出電子郵件通訊，協助您的組織回應法律、法規和組織符合性需求。規劃郵件保留和符合性時，務必了解日誌記錄的內容以及其如何適用於組織的符合性原則。
+You can configure Exchange Online to journal copies of emails to any external mailbox that can receive messages via SMTP. Journaling can help your organization respond to legal, regulatory, and organizational compliance requirements by recording inbound and outbound email communications. When planning for messaging retention and compliance, it's important to understand journaling and how it fits in with your organization's compliance policies.
   
-您可以使用 Exchange 系統管理中心或遠端 Windows PowerShell 來管理日誌規則。您可以依個別使用者或通訊群組清單設定日誌記錄，並選擇只記錄內部郵件、只記錄外部郵件，或兩者都記錄。日誌記錄郵件不僅包含原始郵件，同時還包含寄件者、收件者、副本和密件副本的相關資訊。
+You can manage journal rules by using the Exchange admin center or remote Windows PowerShell. You can configure journaling on a per-user and per-distribution list basis, and choose to journal only internal messages, only external messages, or both. Journaled messages include not only the original message but also information about the sender, recipients, copies, and blind copies.
   
 為了確保成功且可靠的日誌記錄解決方案，您必須完成下列工作：
   

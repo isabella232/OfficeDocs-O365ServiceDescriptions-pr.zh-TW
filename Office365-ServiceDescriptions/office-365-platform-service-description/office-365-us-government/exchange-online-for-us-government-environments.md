@@ -1,20 +1,19 @@
 ---
 title: 適用于美國政府環境的 Exchange Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概要說明美國政府雲端與商業性雲端之間的功能差異（如 Exchange Online 服務說明所列）。
-ms.openlocfilehash: b2ea792f6a205cbe6c9031c924a22e7f6d1d3030
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6eae6379120b91697edf6e1cb631e8acf57e30a9
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213695"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131927"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>適用于美國政府環境的 Exchange Online
 
@@ -117,7 +116,7 @@ ms.locfileid: "44213695"
 |Mac 版 Outlook|是|是|是|為了符合 GCC 高和 DoD 規範的需求，您必須執行最低版本1803的 Office 365 ProPlus。 Office 365 ProPlus 不含 G1 或 F3。|
 |Outlook for iOS 和 Android|是|是|是||
 |Exchange ActiveSync|是|是|是||
-|Office 365 的行動裝置管理|是|是|是||
+|Microsoft 365 的基本行動性和安全性|是|是|是||
 |POP 與 IMAP|是|是|是||
 |SMTP|是|是|是||
 |EWS 應用程式支援|是|是|是||

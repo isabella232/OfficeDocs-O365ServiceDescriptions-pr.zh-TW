@@ -1,8 +1,7 @@
 ---
 title: 郵件原則及合規性
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection （EOP）提供郵件原則和符合性功能，可協助您管理電子郵件資料。
-ms.openlocfilehash: 9ebfdae60eac6e646b3c1b64b13f3cbcb6612b0c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640161"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132787"
 ---
 # <a name="messaging-policy-and-compliance"></a>郵件原則及合規性
 
@@ -56,7 +55,7 @@ Microsoft Exchange Online Protection （EOP）提供郵件原則和符合性功�
 - 檢閱 DLP 報告中的事件資料，或使用產生事件報告動作來新增您自己的特定報告。
 
 > [!NOTE]
-> DLP 原則只會套用至進出組織的郵件。組織內部 (內部) 郵件不會套用 DLP 原則，除非您在內部部署 DLP 的情況下執行 Exchange Server 2013。這項條件也適用於 DLP 原則提示，這些提示會在機密資料誤送至未授權收件者之前，通知使用者可能會發生的原則違規情形。
+> DLP policies are applied only to mail that passes in or out of the organization. Intra-organizational (internal) mail does not have DLP policies applied unless you run Exchange Server 2013 with DLP on-premises. This also applies to DLP policy tips, which inform users about potential policy violations before sensitive data is mistakenly sent to unauthorized recipients.
 
 若要深入瞭解 DLP，請參閱[資料遺失防護 In Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)。
 
@@ -66,7 +65,7 @@ Office 365 郵件加密是 Azure 資訊保護的一部分，是一項線上服�
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>EOP 選項的郵件原則和符合性功能
 
-|**功能**|**獨立式 EOP**|**Exchange Online 中<br/>的 EOP 功能**|**Exchange Enterprise <br/> CAL with Services**|
+|**功能**|**獨立式 EOP**|**Exchange Online 中的 EOP 功能 <br/>**|**Exchange Enterprise <br/> CAL With Services**|
 |:-----|:-----|:-----|:-----|
 |郵件流程規則|是<sup>1</sup>|是<sup>1</sup>|是<sup>1、3</sup>|
 |稽核記錄|是<sup>2</sup>|是|是|

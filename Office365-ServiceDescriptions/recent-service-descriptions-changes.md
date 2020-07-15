@@ -1,8 +1,7 @@
 ---
 title: 最近的服務描述變更
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: 下表列出最近對服務描述內容所做的變更。
-ms.openlocfilehash: fbc0d162eb2b0236b3fed3cfb1e938aadddb4084
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8a8463698ee378d375243baacdd87c7e77bc2983
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640121"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131077"
 ---
 # <a name="recent-service-descriptions-changes"></a>最近的服務描述變更
 
@@ -50,8 +49,8 @@ ms.locfileid: "43640121"
 |**服務描述** <br/> |**主題** <br/> |**變更** <br/> |
 |Office 365 平台  <br/> |[Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |將多地理位置資訊新增至平臺服務說明。  <br/> |
 ||[Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |新增 Microsoft 365 商務。  <br/> |
-||[安全性&amp;與合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Microsoft 365 商務版和 Microsoft 365 商務標準的「是」已變更的封存限制專案為「是」。  <br/> |
-||[安全性&amp;與合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |已將「高級安全性管理」變更為「Office 365 Cloud App Security」。  <br/> |
+||[安全性與 &amp; 合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Microsoft 365 商務版和 Microsoft 365 商務標準的「是」已變更的封存限制專案為「是」。  <br/> |
+||[安全性與 &amp; 合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |已將「高級安全性管理」變更為「Office 365 Cloud App Security」。  <br/> |
 |網頁版 Office  <br/> |[Excel 網頁版](office-online-service-description/excel-online.md) <br/> |在 Microsoft SharePoint Online 中，在 Excel 中無法透過網頁查看超過 30 mb 之活頁簿的主題中的第一個附注。 先前的附注說的是 10 MB。  <br/> |
 |商務用 OneDrive  <br/> |[商務用 OneDrive 服務說明](onedrive-for-business-service-description.md) <br/> |OneDrive 商務服務說明的主要更新。  <br/> |
    
@@ -76,7 +75,7 @@ ms.locfileid: "43640121"
 |**服務描述** <br/> |**主題** <br/> |**變更** <br/> |
 |Office 365 平台  <br/> |[Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |更新 Microsoft 365 商務標準的 StaffHub 可用性。  <br/> |
 ||[Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |更新[合規性 [ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md)頁面工業認證。  <br/> |
-||[安全性&amp;與合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |更新 Office 365 Enterprise 1 方案的手動保留原則。  <br/> |
+||[安全性與 &amp; 合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |更新 Office 365 Enterprise 1 方案的手動保留原則。  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |多個更新和重組。  <br/> |
 ||[由 21Vianet 運作的 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |修正語音信箱及語音信箱整合可用性。  <br/> |
 |Exchange Online  <br/> |[Exchange Online 服務說明](exchange-online-service-description/exchange-online-service-description.md) <br/> |闡明 Exchange Online 方案的群組可用性。  <br/> |
@@ -108,7 +107,7 @@ ms.locfileid: "43640121"
 |:-----|:-----|:-----|
 |**服務描述** <br/> |**主題** <br/> |**變更** <br/> |
 |Office 365 平台  <br/> |[Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |闡明 Office 365 企業版 F1 Microsoft Stream 使用者可以查看影片，但無法發佈或分享影片。  <br/> |
-||[安全性&amp;與合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |將處置評審新增至高級資料管理。  <br/> |
+||[安全性與 &amp; 合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |將處置評審新增至高級資料管理。  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |闡明 Yammer 和 Office 365 Pro Plus 可行性。  <br/> |
 ||[由 21Vianet 運作的 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |新增資料遺失防護可用性。  <br/> |
 ||[由 21Vianet 運作的 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |已透過 AD RMS 修正 IRM 的可用性。  <br/> |
@@ -125,7 +124,7 @@ ms.locfileid: "43640121"
 ||||
 |:-----|:-----|:-----|
 |**服務描述** <br/> |**主題** <br/> |**變更** <br/> |
-|Office 365 平台  <br/> |[安全性&amp;與合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |新增高級管理的詳細資料。  <br/> |
+|Office 365 平台  <br/> |[安全性與 &amp; 合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |新增高級管理的詳細資料。  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |新增 FastTrack table 所執行的資料移轉。  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |新增請注意，同盟共用需要使用可用性位址空間，以支援與其他承租人共用。  <br/> |
 |Exchange Online  <br/> |[Exchange Online 限制](exchange-online-service-description/exchange-online-limits.md) <br/> |新增 Office 365 郵件加密（OME）舊版和 Office 365 郵件加密（OME）與新功能的限制。  <br/> |
@@ -155,8 +154,8 @@ ms.locfileid: "43640121"
 |**服務描述** <br/> |**主題** <br/> |**變更** <br/> |
 |Office 365 平台  <br/> |[Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |闡明有關 Azure 資訊保護（AIP）可用性的附注。  <br/> |
 ||[Office 365 方案選項](office-365-platform-service-description/office-365-plan-options.md) <br/> |闡明有關 Azure 資訊保護（AIP）可用性的附注。  <br/> |
-||[安全性&amp;與合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |新增獨立方案的功能比較表。  <br/> |
-||[安全性&amp;與合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |新增高級威脅防護功能詳細資料。  <br/> |
+||[安全性與 &amp; 合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |新增獨立方案的功能比較表。  <br/> |
+||[安全性與 &amp; 合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |新增高級威脅防護功能詳細資料。  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |闡明有關 Azure 資訊保護（AIP）可用性的附注。  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |闡明有關 Azure 資訊保護（AIP）可用性的附注。  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |新增「審核記錄搜尋」、「高級資料管理」和 Office 365 威脅智慧功能及可用性。  <br/> |
@@ -174,13 +173,13 @@ ms.locfileid: "43640121"
 |Office 365 平台  <br/> |[Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |新增 Microsoft Forms 可用性。  <br/> |
 ||[Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |新增有關高級 eDiscovery 可用性的註腳。  <br/> |
 ||[Office 365 方案選項](office-365-platform-service-description/office-365-plan-options.md) <br/> |將每個 SKU 中包含的 Exchange Online 和商務用 Skype 計畫選項新增至 [規劃選項] 頁面。  <br/> |
-||[安全性&amp;與合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |將下列各項新增至註腳編號 1：「套用至信箱的保留原則需要 E3 或 E5。」  <br/> |
-||[安全性&amp;與合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |新增有關高級 eDiscovery 可用性的註腳。  <br/> |
+||[安全性與 &amp; 合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |將下列各項新增至註腳編號 1：「套用至信箱的保留原則需要 E3 或 E5。」  <br/> |
+||[安全性與 &amp; 合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |新增有關高級 eDiscovery 可用性的註腳。  <br/> |
 ||[由 21Vianet 運作的 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |新增 Microsoft Forms 描述。  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |新增 Office 365 美國政府版 G5 資訊。  <br/> |
 ||[由 21Vianet 運作的 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |使用 Windows Server AD RMS 更新的資訊版權管理（IRM）。  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |在 [使用者帳戶管理] 底下新增「建立應用程式密碼」列。  <br/> |
-||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |新增指向安全性&amp;與規範中心功能說明的指標。 （安全性&amp;與合規性中心可用於 Office 365 德國）。  <br/> |
+||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |新增指向安全性與 &amp; 規範中心功能說明的指標。 （安全性 &amp;規範中心可用於 Office 365 德國。）  <br/> |
 |網頁版 Office  <br/> |[網頁版 Office 服務描述](office-online-service-description/office-online-service-description.md) <br/> |新增 Visio。  <br/> |
 |Exchange Online  <br/> |[Exchange Online 服務說明](exchange-online-service-description/exchange-online-service-description.md) <br/> |已將「保留標記和保留原則」變更為「通訊記錄管理（MRM）保留標記和保留原則」。  <br/> |
 ||[語音訊息服務](exchange-online-service-description/voice-message-services.md) <br/> |更新以包含透過 SBC 進行 Exchange Online 整合通訊的週期結束宣告。  <br/> |

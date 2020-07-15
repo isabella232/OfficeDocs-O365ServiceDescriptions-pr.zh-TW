@@ -1,8 +1,7 @@
 ---
 title: 產品組合管理
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Project Online 中提供下列產品群組管理功能。
-ms.openlocfilehash: 190680e99bc65fa16b5269462f7c50abd8233efa
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 50b8ec7e0cd8a0a8366ee2842a767d68c591ad4e
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687958"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131227"
 ---
 # <a name="portfolio-management"></a>產品組合管理
 
@@ -37,19 +36,19 @@ Project Online 中提供下列產品群組管理功能。
   
 ## <a name="financial-management"></a>財務管理
 
-採用財務管理程序，以改善成本和效益估計值。有效追蹤成本效能以確定每一項專案都在預算內交付，並且公事包達到預期的結果。若要深入了解，請參閱[專案公事包管理方案指南 (白皮書)](https://go.microsoft.com/fwlink/p/?LinkId=402633)。
+Adopt financial management processes to improve estimates of costs and benefits. Effectively track cost performance to make sure that each project is delivered within budget and that the portfolio achieves the expected results. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="participate-in-workflow"></a>參與工作流程
 
-工作流程提供結構化的方式，讓專案可按階段進行。工作流程包括生命週期階段的定義，專案的進展會經過這些生命週期階段 (例如提案的建立與初始核准)。工作流程會設定在每個階段需要或鎖定的資訊。
+Workflows provide a structured way for projects to proceed through the phases. A workflow includes definitions of the lifecycle stages through which the project progresses, such as proposal creation and initial approval. The workflow sets the information that is required or locked in each stage.
   
 ## <a name="portfolio-analytics-and-selection"></a>組合分析和選擇
 
-有效識別、選取和交付最符合組織業務策略的專案公事包並最佳化投資回報率 (ROI)。若要深入了解，請參閱[專案公事包管理方案指南 (白皮書)](https://go.microsoft.com/fwlink/p/?LinkId=402633)。
+Effectively identify, select, and deliver project portfolios that best align with your organization's business strategy and maximize your return on investment (ROI). To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="program-management"></a>程式管理
 
-在計劃管理中，每個專案有一組專屬目標，當彼此結合時，可達成整體計劃的預期效益。若要深入了解，請參閱[專案公事包管理方案指南 (白皮書)](https://go.microsoft.com/fwlink/p/?LinkId=402633)。
+In program management, each project has its own set of goals that, when combined with each other, deliver the forecasted benefits of the overall program. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="roadmap"></a>藍圖
 

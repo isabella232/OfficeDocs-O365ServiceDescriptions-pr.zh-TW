@@ -1,8 +1,7 @@
 ---
 title: 核心服務功能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Project Online 中提供下列核心服務功能功能。
-ms.openlocfilehash: ac60216d3331ce41f2257f287306a18a0896888b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 16ca29f6e05dcf6d3f4a3737961c851fa2c85e05
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638961"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131237"
 ---
 # <a name="core-services-functionality"></a>核心服務功能
 
@@ -25,11 +24,11 @@ Project Online 中提供下列核心服務功能功能。
   
 ## <a name="active-directory-integration"></a>Active Directory 整合
 
-Active Directory 提供一個中央位置，讓系統管理員管理使用者認證和權限。Active Directory 與 Project 整合表示 Project Online 或 Project Server 2013 中已同步處理 Active Directory 中的使用者和群組。請參閱[在 Project Server 2013 中以 Active Directory 管理安全性群組同步作業](https://go.microsoft.com/fwlink/p/?LinkId=402631)。
+Active Directory provides a central location for administrators to manage user credentials and permissions. Active Directory integration with Project means that users and groups in Active Directory are synchronized in Project Online or Project Server 2013. See [Manage security group synchronization with Active Directory in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=402631).
   
 ## <a name="administration-deployment-and-extensibility"></a>管理、部署和擴充性
 
-Project Online 和 Project Server 2013 提供功能，讓系統管理員規劃、安裝以及設定、維護和擴充 Project。請參閱 [IT 專業人員適用的 Project Server 2013 新功能](https://go.microsoft.com/fwlink/p/?LinkId=272017)。
+Project Online and Project Server 2013 provide features for administrators to plan, install and configure, maintain and extend Project. See [What's new for IT pros in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=272017).
   
 ## <a name="getting-started"></a>快速入門
 
@@ -37,7 +36,7 @@ Project Online 的快速入門內容可供使用。 請參閱 [Project Online �
   
 ## <a name="issues-and-risk-management-for-team-members"></a>問題和風險管理 (適用於小組成員)
 
-Project Online 和 Project Server 2013 包括功能，可預防、識別和降低潛在的業務或專案相關風險及問題。若要深入了解，請參閱[在 Project Web App 中管理議題、風險以及文件](https://go.microsoft.com/fwlink/?LinkId=402634)。
+Project Online and Project Server 2013 include features to prevent, identify, and mitigate potential business- or project-related risks and issues. To learn more, see [Managing issues, risks, and documents in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
   
 ## <a name="office-365-trust-center"></a>Office 365 信任中心
 
@@ -45,7 +44,7 @@ Project Online 和 Project Server 2013 包括功能，可預防、識別和降�
   
 ## <a name="ppm-partner-ecosystem"></a>PPM Partner ecosystem
 
-Microsoft PPM 方案受到上千家 Microsoft 合作夥伴的支援，這些合作夥伴都擁有 PPM 專長認證，在全球各地超過 80 個國家/地區接受相關測試並擁有眾多部署經驗。如果您需要評估、構想、部署或訓練等協助，並且已準備好要求助於專業的服務組織，請[連絡您當地的 PPM 合作夥伴](https://go.microsoft.com/fwlink/p/?LinkId=272646)。
+Microsoft PPM solutions are backed by hundreds of Microsoft partners who have earned their PPM competency, and undergone relevant exams and numerous deployments in over 80 countries and regions worldwide. When you want help with assessment, envisioning, deployment, or training, and you're ready to engage with professional services organizations, [contact a PPM partner in your region](https://go.microsoft.com/fwlink/p/?LinkId=272646).
   
 ## <a name="service-reliability"></a>Service reliability
 
@@ -61,5 +60,5 @@ Microsoft PPM 方案受到上千家 Microsoft 合作夥伴的支援，這些合�
   
 ## <a name="time-and-task-management-for-team-members"></a>時間和工作管理 (適用於小組成員)
 
-使用集中化和通用方法來進行時間報告和任務管理。擷取薪資、 開立發票和其他商業目的的工作和非工作時間。有效率地溝通專案狀態、日常工作以及臨機操作要求，以定出使用高低峰或任務進度。這可協助您預測計劃性努力、成本和時間範圍的效果。若要深入了解，請參閱[概觀：追蹤您的時間與任務進度](https://go.microsoft.com/fwlink/p/?LinkId=271321)。
+Use a centralized and common approach to time reporting and task management. Capture work and nonworking time for payroll, invoicing, and other business purposes. Efficiently communicate status on projects, everyday work, and ad-hoc requests to gauge usage peaks and valleys or progress on tasks. This helps you anticipate the effect on planned effort, cost, and timeframe. To learn more, see [Tracking time and task progress](https://go.microsoft.com/fwlink/p/?LinkId=271321).
   

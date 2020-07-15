@@ -1,8 +1,7 @@
 ---
 title: Yammer 中的支援功能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,25 +11,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Yammer 中提供下列支援功能。
-ms.openlocfilehash: 8d0a1ee35cc9c6629b256be5a7256ccb4a65a4b4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: cefb03ae4a3edcb70f2c2182adec8625ef4fdf76
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687878"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131997"
 ---
 # <a name="support-features-in-yammer"></a>Yammer 中的支援功能
 
 Yammer 中提供下列支援功能。
   
 > [!IMPORTANT]
-> Yammer 不支援復原已刪除的&mdash;內容（例如外部網路、使用者、郵件、群組和檔案&mdash;），包括網路系統管理員不小心刪除的內容。
+> Yammer 不支援復原已刪除 &mdash; 的內容（例如外部網路、使用者、郵件、群組和檔案）， &mdash; 包括網路系統管理員不小心刪除的內容。
 >
 > Microsoft 不會在 Yammer 中可用的分析功能之外提供自訂或臨機操作報表。 有些情況下，Microsoft 可以在支援要求的過程中提供自訂報告，但在大部分情況下，他們無法容納直接的資料要求。
 
 ## <a name="administrator-support"></a>Administrator support
 
-Yammer Enterprise 系統管理員負責維護帳戶，並且有權直接與 Microsoft 支援小組通訊。如果您是需要支援的 Yammer Enterprise 系統管理員，請參閱＜[Microsoft 支援](https://go.microsoft.com/fwlink/p/?LinkId=330922)＞。
+Yammer Enterprise administrators are responsible for account maintenance and are authorized to communicate directly with the Microsoft Support team. If you're a Yammer Enterprise administrator searching for support, see [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkId=330922).
 
 ## <a name="customer-support"></a>客戶支援
 
@@ -42,7 +41,7 @@ Microsoft FastTrack 服務可協助您的組織移至 Microsoft 雲端，方法�
 
 ## <a name="support-features-across-yammer-plans"></a>不同 Yammer 計劃中的支援功能
 
-需要協助找出最適合組織需求的 Yammer 計劃嗎？請使用下表來查看各個計劃中提供哪些支援功能。
+Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which support features are available in each plan.
   
 |**功能**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
@@ -52,7 +51,7 @@ Microsoft FastTrack 服務可協助您的組織移至 Microsoft 雲端，方法�
  
 ## <a name="technical-support-case-handling"></a>技術支援案例的處理
 
-範例 
+Microsoft Support assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table. 
   
 |**嚴重層級**|**描述**|**範例**|
 |:-----|:-----|:-----|

@@ -1,28 +1,27 @@
 ---
 title: Office 365 系統需求
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-system-requirements
 keywords:
-- 系統需求、 使用者需求、 Office 365 系統需求
+- 系統需求、使用者需求、Office 365 系統需求
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 089b3880-9094-4f18-8a56-d91915a2d2d9
-description: 如需 Office 365，商務、 教育和政府組織的每月訂閱型服務的系統需求請參閱 office.com 產品網站上的 Office 的系統需求。
-ms.openlocfilehash: b1ba322fef8ea5c4dc72cdf5c4e111bd8161f2ca
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: 如需適用于企業、教育和政府組織的 Office 365 每月訂閱型服務的系統需求，請參閱 office.com products 網站上的 Office 的系統需求。
+ms.openlocfilehash: 31f2791ccab6d94ec2b6644f674b455fbec40247
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262556"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131957"
 ---
 # <a name="office-365-system-requirements"></a>Office 365 系統需求
 
-如需 Office 365，商務、 教育和政府組織的每月訂閱型服務的系統需求請參閱[office.com](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)產品網站上的[Office 的系統需求](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409)。 
+如需適用于企業、教育和政府組織的 Office 365 每月訂閱型服務的系統需求，請參閱[office.com](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409) products 網站上的[office 的系統需求](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409)。 
   
 

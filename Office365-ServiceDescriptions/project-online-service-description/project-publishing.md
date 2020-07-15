@@ -1,8 +1,7 @@
 ---
 title: 專案發佈
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
 description: Project Online 中提供下列 SharePoint 和商務用 Skype 互通性功能。
-ms.openlocfilehash: c0d1f8d471a9841306a0d35edfd546179185c23b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: da4b75c49ab270a6fff3f6bc4ef5b6285a2972a8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638920"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131147"
 ---
 # <a name="project-publishing"></a>專案發佈
 
@@ -27,7 +26,7 @@ Project Online 中提供下列 SharePoint 和商務用 Skype 互通性功能。
   
 ## <a name="create-a-project-site"></a>建立專案網站
 
-如果您使用 Project Web App，透過在 SharePoint 中建立新專案網站或與現有網站同步，您可以與其他人共用專案。該網站會以 SharePoint 任務清單共用您的專案任務。深入了解[與 SharePoint 同步](https://go.microsoft.com/fwlink/p/?LinkId=271352)。
+If you are using Project Web App, you can share a project with others by creating a new project site in SharePoint or by synching with an existing site. The site shares your project's tasks as a SharePoint task list. Learn more about [syncing with SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271352).
   
 ## <a name="master-projects-on-sharepoint"></a>SharePoint 上的主專案
 
@@ -47,7 +46,7 @@ Project Online 中提供下列 SharePoint 和商務用 Skype 互通性功能。
   
 ## <a name="task-list-sync-to-sharepoint"></a>工作清單同步處理至 SharePoint
 
-專案與 SharePoint 任務清單第一次配對之後，您可以在更新專案時繼續與任務清單進行同步處理。同步處理期間，會維持任務、里程碑和欄位對應 (包括附註) 之間的前置任務關係。您的小組成員不需要安裝 Project Professional 2013 即可存取其任務。深入了解[與 SharePoint 任務清單同步](https://go.microsoft.com/fwlink/p/?LinkId=271353)。
+After the first time you pair your project with a SharePoint task list, you can continue to synchronize with the task list as you update your project. Predecessor relationships between tasks, milestones, and field mapping (including notes) are maintained during synchronization. Your team members don't have to have Project Professional 2013 installed to access their tasks. Learn more about [syncing with a SharePoint tasks list](https://go.microsoft.com/fwlink/p/?LinkId=271353).
   
 ## <a name="feature-availability"></a>功能可用性
 

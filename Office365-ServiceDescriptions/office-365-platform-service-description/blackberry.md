@@ -1,8 +1,7 @@
 ---
 title: BlackBerry
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry® 智慧型手機可以存取 Office 365 中的電子郵件和文件。
-ms.openlocfilehash: cb7119c136887b4ddbaae284a78b38686ccf0f09
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: df7c477a64da2d2460f869f8a45e5a9697b41a0d
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44044835"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132357"
 ---
 # <a name="blackberry"></a>BlackBerry
 

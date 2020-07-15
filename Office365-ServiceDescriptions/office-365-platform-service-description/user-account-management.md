@@ -1,8 +1,7 @@
 ---
 title: User account management
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft 支援下列方式來建立、管理及驗證使用者。
-ms.openlocfilehash: 7711a57247c20d7185e613d042791b089b01b483
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 38d9c247e54943599554e374bc3c9905f043361b
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002310"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131657"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -32,7 +31,7 @@ Microsoft 支援下列方式來建立、管理及驗證使用者。
   
 ## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>需要登入、安裝或解除安裝，或是取消訂閱的協助嗎？
 
-取得[簽署](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | [安裝或卸載 office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | [取消 office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)的說明
+取得[簽署](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [安裝或卸載 office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)  |  [取消 office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)的說明
   
 如需其他問題，請造訪[Microsoft 支援中心](https://support.microsoft.com/contactus/)。 若要取得中國的 21Vianet 運作的 Office 365 的支援，請連絡 [21Vianet 支援小組](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)。 若要取得 Office 365 Germany 的支援，請連絡 [Office 365 Germany 支援小組](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)。 
   
@@ -50,7 +49,7 @@ Microsoft 有兩個系統可用於使用者身分識別：
 
 當您建立新的使用者時，使用者的登入名稱和電子郵件地址會指派給 Microsoft 365 系統管理中心中所設定的預設網域。 若要深入瞭解，請參閱[新增您的使用者和網域](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)。 
   
-根據預設，訂閱\<使用以該帳戶建立的_公司名稱_\> **onmicrosoft.com**網域。\*您可以將一或多個自訂網域新增至 Microsoft，而不是保留 onmicrosoft.com 網域，而且可以指派使用者使用任何驗證的網域登入。 每個使用者的指派網域是將會出現在傳送和接收的電子郵件訊息上的電子郵件地址。 
+根據預設，訂閱會使用 \< _company name_\> 以帳戶建立的**onmicrosoft.com**網域。 \*您可以將一或多個自訂網域新增至 Microsoft，而不是保留 onmicrosoft.com 網域，而且可以指派使用者使用任何驗證的網域登入。 每個使用者的指派網域是將會出現在傳送和接收的電子郵件訊息上的電子郵件地址。 
   
 您最多可以主控900個已註冊的網際網路網域，每個網域都以不同的命名空間代表。 
   
@@ -58,7 +57,7 @@ Microsoft 有兩個系統可用於使用者身分識別：
   
 如需 Office 365 之網域相關資訊，請參閱 [網域](domains.md) 服務說明。 
   
-\* 如果您在中國使用 21Vianet 運作的 Office 365，預設網域是 \<公司名稱\> **.onmsChina.cn**。如果您使用 Office 365 Germany，預設網域是 \<公司名稱\> **.onmicrosoft.de**
+\*如果您使用的是以中國的世紀運作的 Office 365，預設網域為 \<companyname\> **onmsChina.cn**。 如果您使用的是 Office 365 德國，預設網域為 \<companyname\> **onmicrosoft.de**
   
 ## <a name="authentication"></a>驗證
 
@@ -141,7 +140,7 @@ Microsoft 使用以表單為基礎的驗證，而且透過網路驗證流量永�
     
 - 若要提高安全性，使用者必須在第一次存取 Microsoft 服務時變更其密碼。 因此，在使用者可以存取 Microsoft 服務之前，他們必須登入 Microsoft 365 系統管理中心，以提示他們變更其密碼。
     
-- 管理員可以設定密碼到期原則。如需詳細資訊，請參閱[設定使用者的密碼到期原則](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)。
+- Admins can set the password expiration policy. For more information, see [Set a user's password expiration policy](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
     
 下列為具備雲端身份之使用者可用的密碼重設工具：
   
@@ -173,7 +172,7 @@ Microsoft 計費管理員可對訂閱詳細資料進行變更，例如使用者�
   
 ## <a name="administrator-roles"></a>系統管理員角色
 
-Office 365 Enterprise 採用角色型存取控制 (RBAC) 模型：權限和功能依「管理角色」而有所不同。系統會自動將代替組織註冊使用 Office 365 的人員設為全域管理員或高階管理員。共有五種管理員角色：全域管理員、帳務管理員、密碼管理員、服務管理員和使用者管理管理員。如需有關 Office 365 Enterprise 管理員角色的詳細資訊 (包括他們如何應用 Exchange Online、SharePoint Online 和 商務用 Skype Online 管理)，請參閱[指派管理員角色](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11))。如果您在中國使用 21Vianet 運作的 Office 365，請參閱[在 Office 365 for business 中指派系統管理員角色](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)。
+Office 365 Enterprise follows a role-based access control (RBAC) model: permissions and capabilities are defined by management roles. The person who signs up for Office 365 for his or her organization automatically becomes a global administrator, or top-level administrator. There are five administrator roles: global administrator, billing administrator, password administrator, service administrator, and user management administrator. For more information about administrator roles in Office 365 Enterprise, including how they apply to Exchange Online, SharePoint Online, and Skype for Business Online administration, see [Assigning administrator roles](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). If you are using Office 365 operated by 21Vianet in China, see [Assign admin roles in Office 365 for business](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
   
 ## <a name="delegated-administration-and-support-for-partners"></a>委派合作夥伴管理和支援
 
@@ -184,7 +183,7 @@ Office 365 Enterprise 採用角色型存取控制 (RBAC) 模型：權限和功�
   
 ## <a name="azure-active-directory-services"></a>Azure Active Directory 服務
 
-Azure Active Directory (AD) 將完整的身分識別與存取管理功能帶到 Office 365。它結合了目錄服務、進階身分識別管理、應用程式存取管理以及豐富的標準型開發人員平台。若要深入了解 Office 365 中的 AD 功能，請參閱[登入頁面商標及雲端使用者自助式密碼重設](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/)。深入了解 [Azure Active Directory 版本](https://msdn.microsoft.com/library/azure/dn532272.aspx)。 
+Azure Active Directory (AD) brings comprehensive identity and access management capabilities to Office 365. It combines directory services, advanced identity governance, application access management and a rich standards-based platform for developers. To learn more about AD features in Office 365, see [Sign in page branding and cloud user self-service password reset](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Learn more about the [Free, Basic, and Premium editions of Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
   
 ## <a name="feature-availability"></a>功能可用性
 

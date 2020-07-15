@@ -1,8 +1,7 @@
 ---
 title: 安全性與合規性中心
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,11 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全性與 &amp; 合規性中心的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-ms.openlocfilehash: 5264f2bb01085980a2fdab11a854df14a674b98d
-ms.sourcegitcommit: d5ea7e294f0b231c787280928a352a6be585c580
+ms.openlocfilehash: 4ab535757c0d192c4d790a7aeacfba9e73d4157f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043035"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131787"
 ---
 # <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 

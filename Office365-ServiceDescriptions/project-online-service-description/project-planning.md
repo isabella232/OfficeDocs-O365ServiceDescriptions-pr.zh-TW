@@ -1,8 +1,7 @@
 ---
 title: 專案規劃
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Project Online 中提供下列專案規劃功能。
-ms.openlocfilehash: 74e091f674bead0ad8300a6045df5181cf5bb71f
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8016984662d42935249e024550296b68479756c2
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640201"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131097"
 ---
 # <a name="project-planning"></a>專案規劃
 
@@ -31,11 +30,11 @@ Project Online 中提供下列專案規劃功能。
   
 ## <a name="budget-planning"></a>預算規劃
 
-預算規劃容許您比較目前的進度與專案開始時所設定的基準。深入了解[盈餘分析](https://go.microsoft.com/fwlink/p/?LinkId=271336)。
+Budget planning allows you to compare current progress against a baseline that you set at the start of a project. Learn more about [earned value analysis](https://go.microsoft.com/fwlink/p/?LinkId=271336).
   
 ## <a name="compare-project-versions"></a>比較專案版本
 
-比較專案的兩個版本。會建立顯示變更內容的報告，例如新增任務。
+Compare two versions of a project. A report is created that shows what changed, such as the addition of new tasks.
   
 ## <a name="deadlines"></a>截止日期
 
@@ -55,7 +54,7 @@ Project Online 中提供下列專案規劃功能。
   
 ## <a name="reports"></a>報告
 
-使用 Project 2016，您可以建立簡潔、繽紛的專業報告，而不必將資料匯出至其他程式。 新增圖片、圖表、動畫、連結，以及更&mdash;多您必須清晰且有效地與專案關係人和小組成員共用專案狀態資訊的所有專案。 深入了解[建立專案報告](https://go.microsoft.com/fwlink/p/?LinkId=271349)。
+使用 Project 2016，您可以建立簡潔、繽紛的專業報告，而不必將資料匯出至其他程式。 新增圖片、圖表、動畫、連結，以及更多 &mdash; 您必須清晰且有效地與專案關係人和小組成員共用專案狀態資訊的所有專案。 深入了解[建立專案報告](https://go.microsoft.com/fwlink/p/?LinkId=271349)。
   
 ## <a name="team-planner"></a>團隊規劃
 

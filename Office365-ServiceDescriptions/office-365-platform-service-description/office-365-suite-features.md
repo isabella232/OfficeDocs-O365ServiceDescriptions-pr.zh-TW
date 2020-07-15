@@ -1,8 +1,7 @@
 ---
 title: Microsoft 365 套件功能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主題中所列的功能是網頁式工具的集合，可協助您安全地在許多裝置和多個 Office 365 服務之間共同作業和通訊。 這些功能會協助在您的組織內進行新的連線，方法是整合數位內容建立、儲存及管理與用於在使用者之間探索及分享資訊的社交工具。
-ms.openlocfilehash: 402d755368d7a83996b2f1d7254f6b4defcdb3d6
-ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
+ms.openlocfilehash: 058acf94ae50764616a02febfac09f2a86cf66d0
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44820601"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131937"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 

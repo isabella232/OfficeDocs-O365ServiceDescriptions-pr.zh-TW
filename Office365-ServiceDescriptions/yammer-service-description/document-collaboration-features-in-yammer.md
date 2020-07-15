@@ -1,8 +1,7 @@
 ---
 title: Yammer 中的文件共同作業功能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Yammer 中提供下列檔協同作業功能。
-ms.openlocfilehash: 5576d34b81f517d00d120fae761a5fdb1a0c6b7c
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 3eb187a72179c108516b86934388ff6460324191
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687882"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132087"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Yammer 中的文件共同作業功能
 
@@ -25,7 +24,7 @@ Yammer 中提供下列檔協同作業功能。
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>不同 Yammer 計劃中的文件協同作業功能
 
-需要協助找出最適合組織需求的 Yammer 計劃嗎？請使用下表來查看各個計劃中提供哪些文件協同作業功能。
+Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which document collaboration features are available in each plan.
   
 |**功能**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

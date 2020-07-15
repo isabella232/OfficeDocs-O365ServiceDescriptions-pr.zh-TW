@@ -1,8 +1,7 @@
 ---
 title: 報告和郵件追蹤
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) 提供許多不同的報告，可協助您判斷貴組織的整體狀態與健全狀況。 有些報告可在 Microsoft 365 系統管理中心中取得，而其他則是在 Exchange 系統管理中心（EAC）中提供。
-ms.openlocfilehash: 58e1c33b331c9bb05bd45893357bba9b5cca9945
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 0fab453ae50454e9f613c0996b8baacc7081cb97
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638936"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132757"
 ---
 # <a name="reporting-and-message-trace"></a>報告和郵件追蹤
 

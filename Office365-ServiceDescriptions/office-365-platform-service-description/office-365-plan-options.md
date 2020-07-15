@@ -1,8 +1,7 @@
 ---
 title: Office 365 方案選項
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -16,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
-ms.openlocfilehash: fbef76e115a95c3add524e39d8b7e70d21605223
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 1410fec329c7d92de905a1d34df50d41c094b76f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213905"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132127"
 ---
 # <a name="office-365-plan-options"></a>Office 365 方案選項
 
@@ -42,7 +41,7 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
    
 ### <a name="service-availability-within-each-office-365-plan"></a>每個 Office 365 方案中可用的服務
 
-每個 Office 365 方案皆包含一些個別服務，例如 Exchange Online 和 SharePoint Online。下表顯示每項 Office 365 方案中可用的服務。
+Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
   
 > [!IMPORTANT]
 >  一項服務可能在各個 Office 365 方案中都有提供，但在每個方案中可用的功能可能不同。 若要查看每個計劃之可用功能的詳細資訊，請參閱個別的服務描述或連絡轉銷商或 Microsoft 銷售代表以取得詳細資訊。 <br/>  數個適用於企業方案的 Office 365 提供可針對您的訂閱購買的附加元件。 附加元件可為訂閱提供額外的功能。 如需詳細資訊，請參閱 [購買或編輯商務用 Office 365 附加元件](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6)。 
@@ -115,7 +114,7 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
 |SharePoint Online  <br/> |[SharePoint Online 計劃 1](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online 計劃 2](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
 |商務用 OneDrive  <br/> |[商務用 OneDrive (方案 1)](https://onedrive.live.com/about/business/) <br/> [商務用 OneDrive (方案 2)](https://onedrive.live.com/about/business/) <br/> |
 |商務用 Skype Online  <br/> |[商務用 Skype Online 方案 1](https://products.office.com/microsoft-teams/group-chat-software) <br/> [商務用 Skype Online 方案 2](https://products.office.com/microsoft-teams/group-chat-software) <br/> |
-|Office 應用程式  <br/> |[Microsoft 365 應用程式企業版](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Microsoft 365 Apps 商務版](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 商務標準版](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|Office 應用程式  <br/> |[Microsoft 365 Apps 企業版](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Microsoft 365 Apps 商務版](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 商務標準版](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |專案組合管理  <br/> |[Project Online](https://products.office.com/project/project-and-portfolio-management-software) <br/> |
 |Yammer  <br/> |[Yammer Basic](https://products.office.com/yammer/) <br/> |
 |Organizational insights  <br/> |[工作場所分析](https://products.office.com/business/workplace-analytics) <br/> |

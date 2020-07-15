@@ -1,8 +1,7 @@
 ---
 title: OneNote 網頁版
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: 使用 web 的 OneNote （先前 OneNote 稱為 Web App），在您可以從任何位置新增並輕鬆與其他人共用的 OneNote 筆記本中做筆記。 所有客戶均可使用 Office for web 來查看和輕微編輯 Office 檔案。
-ms.openlocfilehash: 64a6e74e82814af94ed362d98950279b7562142c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: a85dcebbba52a14c0041f0cc514e557c8691161f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640221"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131307"
 ---
 # <a name="onenote-for-the-web"></a>OneNote 網頁版
 

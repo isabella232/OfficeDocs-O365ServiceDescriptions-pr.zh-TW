@@ -1,20 +1,19 @@
 ---
 title: 規劃 Microsoft 365 合規性 - GCC High
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用于促進美國聯邦政府機構中的 Office 365 部署的 IT 專業人員，或是處理政府規定和需求之資料的其他實體，其使用 Microsoft 365 政府– GCC 高的方式，都適用于符合這些需求。
-ms.openlocfilehash: 0d5fe248080b816056276ccb79687960cd1c58df
-ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
+ms.openlocfilehash: 6e5e8fb9001adb873e07ce50f084bb80a3b28808
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45089634"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132497"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>規劃 Microsoft 365 合規性– GCC 高
 
@@ -73,7 +72,7 @@ Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 �
 |                                         | 事件型保留                           | 在工程處理積壓工作 |
 |                                         | 處置評審                              | 在工程處理積壓工作 |
 |                                         | 資訊屏障                            | 可以使用              |
-|                                         | 資料遺失防護 (檔和電子郵件的 DLP)   | 可以使用              |
+|                                         | 檔和電子郵件的資料遺失防護（DLP）  | 可以使用              |
 |                                         | DLP 用於小組聊天及通道交談    | 在工程處理積壓工作 |
 |                                         | DLP 確切資料符合                            | 在工程處理積壓工作 |
 |                                         | 標籤活動總管                         | 在工程處理積壓工作 |
@@ -110,7 +109,7 @@ Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 �
 | **規範管理**               | 合規性分數                                | 在工程處理積壓工作 |
 
 <sup>1</sup>識別的狀態視專案方案和優先順序重新評估而變更。<br/>
-<sup>2</sup>手動應用程式標籤需要[Azure 資訊保護 (AIP) 用戶端版本 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)。 
+<sup>2</sup>手動應用程式標籤需要[Azure 資訊保護（AIP）用戶端版本 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)。 
 
 
 **決策點**：*決定相容性功能是否符合貴組織的需求。*

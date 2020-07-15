@@ -1,8 +1,7 @@
 ---
 title: 用戶端和行動裝置
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 83c8c9081ac78c51ee02fb951f7d2c80d6d9ede9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: a09609e81d9d179dcd156db886913d3124b2e16f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639711"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132967"
 ---
 # <a name="clients-and-mobile-devices"></a>用戶端和行動裝置
 
@@ -26,11 +25,11 @@ Microsoft Outlook 是一項電子郵件程式，其中包含對行事曆、連�
   
 - **MAPI OVER HTTP**郵件應用程式介面（MAPI） over HTTP 允許 Outlook 使用者從其組織防火牆以外的網際網路連線至 Exchange Online 信箱。 MAPI over HTTP，長期取代 Outlook Anywhere。 這種連線方式可提供更好的連線恢復功能、更安全的登入、擴充性，以及 IT 和支援的增強功能。 若要深入瞭解，請參閱[RPC OVER HTTP 的支援終止于 Office 365](https://go.microsoft.com/fwlink/?linkid=863890)和[MAPI over HTTP](https://go.microsoft.com/fwlink/?linkid=393041)。
 
-- **Autodiscover** Autodiscover 服務功能自動設定 Outlook 搭配 Exchange Online 使用。Outlook 使用者首次以電子郵件地址與密碼登入時，能直接由 Exchange Online 接收他們要求的檔案設定。這些設定會以建立並維護使用者設定檔所需的資訊自動更新 Outlook 用戶端。使用 Autodiscover 服務需要 SSL 憑證。此 SSL 憑證僅限於單一的主要 SSL 網域。 
+- **Autodiscover** The Autodiscover service feature automatically configures Outlook to work with Exchange Online. Outlook users can receive their required profile settings directly from Exchange Online the first time they sign in with their email address and password. These settings automatically update the Outlook client with the information necessary to create and maintain the user's profile. An SSL certificate is required to use the Autodiscover service. This SSL certificate is limited to a single primary SSL domain. 
 
 - 快取**Exchange 模式**「快取 Exchange 模式」功能可讓 Outlook 使用者在未連線至網際網路時，存取其 Exchange Online 信箱的本機複本。 快取 Exchange 模式保存使用者在 Outlook 的 Exchange 信箱之用戶端副本，並自動將此副本與郵件伺服器進行同步處理。 我們建議使用快取 Exchange 模式中的 Outlook，因為它提供離線存取，並協助提供回應使用者經驗，即使用戶端與伺服器之間的網路狀況不理想。 
 
-依照預設，Outlook 存取對所有使用者開放啟用狀態。管理員可以透過 Windows PowerShell，禁止特定的使用者或群組存取。我們建議使用最新版本的 Outlook--安裝最新版的 service pack--來存取 Exchange Online。 
+By default, Outlook access is enabled for all users. Administrators can disable access for specific users or groups through Windows PowerShell. We recommend using the latest version of Outlook—with the latest service pack installed—to access Exchange Online. 
   
 如需 Exchange 2016 和 Exchange Online 所支援之 Outlook 用戶端的相關資訊，請參閱[Office 的系統需求](https://products.office.com/office-system-requirements)。 
 
@@ -136,24 +135,24 @@ Exchange ActiveSync 可與各種行動裝置相容，包括 Microsoft Windows Ph
   
 ## <a name="pop-and-imap"></a>POP 與 IMAP
 
-Exchange Online 支援透過 POP3 和 IMAP4 協定的信箱存取。POP 和 IMAP 存取要求使用 SSL 加密。預設情況下，為所有使用者啟用 POP。使用者能在 Outlook 網頁版中檢視他們的 POP 和 IMAP 連線設定。管理員可以對個別使用者分別禁用 POP 和 IMAP 存取。
+Exchange Online supports mailbox access through both POP3 and IMAP4 protocols. POP and IMAP access requires encryption using SSL. POP is enabled by default for all users. Users can view their POP and IMAP connection settings in Outlook on the web. Administrators can disable POP and IMAP access on a per-user basis.
   
 如需 POP3 和 IMAP4 連線的相關資訊，請參閱 [POP3 和 IMAP4](https://go.microsoft.com/fwlink/p/?LinkId=272070)。
   
 ## <a name="smtp"></a>SMTP
 
-簡易郵件傳輸通訊協定（SMTP）是用來發送外寄郵件給透過 IMAP 或 POP 連線至 Exchange Online 的客戶端。它是路由和通過 Exchange 伺服器傳遞的主協定。Exchange Online 為需要 SMTP 郵件提交的授權內部客戶應用程式提供兩種型態的 SMTP 轉送服務：
+Simple Mail Transfer Protocol (SMTP) is used to send outbound mail for clients that connect to Exchange Online through IMAP or POP. It is the primary protocol for routing and delivery through Exchange Server. Exchange Online supports two types of SMTP relay services for authorized internal customer applications that require SMTP mail submission:
   
 - SMTP 郵件提交給託管環境內的使用者。
 
 - 已通過驗證的 SMTP 郵件將轉送到託管環境的外部地址。
 
 > [!IMPORTANT]
-> 需要授權的來源伺服器 IP 位址以允許 SMTP 轉送。使用 SMTP 寄送郵件時，需要傳輸層安全性（TLS）加密與驗證。 
+> IP addresses for authorized source servers are required to allow SMTP relay. Transport Layer Security (TLS) encryption and authentication is required when using SMTP to send email. 
   
-## <a name="blackberryreg-devices"></a>BlackBerry&reg;裝置
+## <a name="blackberryreg-devices"></a>BlackBerry &reg; 裝置
 
-電子郵件可透過 Exchange&reg; ActiveSync 在 BlackBerry 裝置上。 若要瞭解您的選項是什麼，請參閱下列主題：
+電子郵件可透過 &reg; Exchange ActiveSync 在 BlackBerry 裝置上。 若要瞭解您的選項是什麼，請參閱下列主題：
   
 - [在 BlackBerry 裝置上設定電子郵件](https://go.microsoft.com/fwlink/?linkid=863394)
 
@@ -162,7 +161,7 @@ Exchange Online 支援透過 POP3 和 IMAP4 協定的信箱存取。POP 和 IMAP
 如需詳細資訊，請參閱 [BlackBerry](../office-365-platform-service-description/blackberry.md)。
   
 > [!NOTE]
-> 如果您在中國使用 21Vianet 運作的 Office 365，將無法使用 BlackBerry Business 雲端服務。不過您可以使用 Exchange ActiveSync 裝置或 Research in Motion 的產品 (RIM、BlackBerry 無線電子郵件解決方案) 來執行 BlackBerry 企業伺服器 (BES)。 
+> If you are using Office 365 operated by 21Vianet in China, BlackBerry Business Cloud Services is not available. However, you can use Exchange ActiveSync devices or an offering from Research in Motion (RIM, the BlackBerry wireless email solution) to run Blackberry Enterprise Server (BES). 
   
 ## <a name="feature-availability"></a>功能可用性
 

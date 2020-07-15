@@ -1,8 +1,7 @@
 ---
 title: Office 365 進階威脅防護服務說明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,22 +11,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced 威脅防護（ATP）是一種雲端式電子郵件篩選服務，可協助您的組織抵禦未知的惡意程式碼和病毒，方法是提供強健的零日保護，並提供一些功能，以即時保護您的組織不受有害連結。
-ms.openlocfilehash: 4e39c40c0448e35ed0df554499a6c2aa2d5c404c
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 53e80f635485594f95c62dfa5452ef5352b5a4d7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213945"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132360"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 進階威脅防護服務說明
 
 Microsoft Office 365 Advanced 威脅防護（ATP）是一種雲端式電子郵件篩選服務，可協助您的組織抵禦未知的惡意程式碼和病毒，方法是提供強健的零日保護，並提供一些功能，以即時保護您的組織不受有害連結。 ATP 具有豐富報告和 URL 追蹤功能，可讓系統管理員深入了解組織中發生的攻擊的類型。
 
-以下是您可以使用 ATP 進行郵件保護的主要方式：
+下列是您可以使用 ATP 來保護郵件的主要方法：
 
-- 在 Office 365 ATP 僅篩選案例中，ATP 會為您的內部部署 Exchange 伺服器環境或任何其他內部部署 SMTP 電子郵件解決方案，提供雲端式電子郵件保護。
+- 在 Office 365 ATP 僅篩選案例中，ATP 會針對內部部署 Exchange Server 環境或任何其他內部部署 SMTP 電子郵件解決方案，提供雲端式電子郵件保護。
 
-- Office 365 ATP 可保護 Exchange Online 的雲端託管信箱。 若要深入瞭解 Exchange Online，請參閱[Exchange online 服務說明](exchange-online-service-description/exchange-online-service-description.md)。
+- 您可以啟用 Office 365 ATP 來保護 Exchange Online 雲端託管信箱。 若要深入瞭解 Exchange Online，請參閱[Exchange online 服務說明](exchange-online-service-description/exchange-online-service-description.md)。
 
 - 在混合部署中，當您混合使用內部部署及雲端信箱並使用 Exchange Online Protection 來進行輸入電子郵件篩選時，可將 ATP 設定為保護您的郵件環境與控制郵件路由。
 
@@ -77,7 +76,7 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>各進階威脅防護 (ATP) 計劃中可用的功能
 
-每項功能如下所列。提到 Exchange Online 時，通常是指 Office 365 企業版服務系列。
+Each feature is listed below. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
 
 |**功能**|**ATP 方案1**<br>（先前是 ATP 獨立）|**ATP 方案2**<br>（以前稱為威脅情報 <br>單獨| Office 365 企業版 E5|
 |:-----|:-----|:-----|:-----|
@@ -91,14 +90,14 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 |[即時報告](#real-time-reports)|是|是|是|
 |*自動化、調查、修正及教育*|
 |[威脅追蹤工具](#threat-trackers)|否|是|是|
-|威脅調查（高級威脅調查）|[即時偵測](#real-time-detections)|[探險 家](#explorer)|[探險 家](#explorer)|
+|威脅調查（高級威脅調查）|[即時偵測](#real-time-detections)|[總管](#explorer)|[總管](#explorer)|
 |[自動化的事件回應](#automated-incident-response)|否|是|是|
 |[攻擊模擬器](#attack-simulator)|否|是|是|
 
 > [!TIP]
 > 需要 Office 365 ATP 方案1與方案2之間的差異的可供下載的清單嗎？ [取得 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。 
 
-## <a name="advanced-threat-protection-atp-capabilities"></a>高級威脅防護（ATP）功能
+## <a name="advanced-threat-protection-atp-capabilities"></a>進階威脅防護 (ATP) 功能
 
 ### <a name="safe-attachments"></a>安全附件
 
@@ -109,7 +108,7 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 ### <a name="safe-links"></a>安全連結
 
-[ATP 安全連結](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)功能主動保護您的使用者免受郵件中或 Office 檔中的惡意 URLs。 保護會在每次選取連結時保留，因為在存取好的連結時，會動態封鎖惡意連結。
+[ATP 安全連結](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)功能主動保護您的使用者免受郵件中或 Office 檔中的惡意 URLs。 因為可動態封鎖惡意連結，允許存取無害連結，所以每次使用者選取連結時都能受到持續保護。
 
 安全連結可用於下列應用程式中的 URLs：
 
@@ -134,15 +133,15 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 ### <a name="anti-phishing-policies"></a>防網路釣魚原則
 
-[ATP 反網路釣魚](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)檢查內送郵件的指示，郵件可能是網路釣魚企圖。 當使用者在 ATP 原則（安全的附件、安全連結或反網路釣魚）涵蓋時，會透過分析郵件的多部機器教學模型評估內送郵件，並根據設定的原則採取適當的動作。
+[ATP 反網路釣魚](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)檢查內送郵件的指示，郵件可能是網路釣魚企圖。 當使用者受 ATP 原則 (安全附件、安全連結或反網路釣魚) 保護時，系統會根據已設定的原則，以多個可分析郵件的電腦學習模型來評估傳入的郵件，並採取適當動作。
 
 ### <a name="real-time-reports"></a>即時報告
 
 安全性 & 合規性中心內可用的監控功能包括[即時報告和深入](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp)資訊，讓您的安全性和合規性系統管理員關注高優先順序的問題，例如安全性攻擊或增加的可疑活動。 除了醒目提示問題之外，智慧報告和洞察力也包含建議和連結，以查看及流覽資料，也會快速採取動作。
 
-### <a name="explorer"></a>探險 家
+### <a name="explorer"></a>總管
 
-瀏覽器（也稱為威脅瀏覽器）是一種即時報告，可讓授權的使用者識別及分析最近的威脅。 根據預設，此報告會顯示過去7天的資料;不過，您可以修改視圖，以顯示過去30天的資料。
+總管 (也稱為威脅總管) 是即時的報告，可讓授權的使用者識別並分析最近的威脅。 根據預設，此報告會顯示過去 7 天的資料；不過，您可以修改檢視畫面以顯示過去 30 天的資料。
 
 Explorer 包含一些視圖，例如惡意程式碼（適用于電子郵件和內容）、提交、網路釣魚和所有電子郵件。 若要查看 Explorer 如何與即時偵測相比較，請[下載此 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
 
@@ -150,7 +149,7 @@ Explorer 包含一些視圖，例如惡意程式碼（適用于電子郵件和�
 
 ### <a name="real-time-detections"></a>即時偵測
 
-即時偵測是即時報告，可讓授權的使用者識別及分析最近的威脅。 類似 Explorer，依預設，此報告會顯示過去7天的資料。
+即時偵測是即時的報告，可讓授權的使用者識別並分析最近的威脅。 與 [總管] 類似，根據預設，此報告顯示過去 7 天的資料。
 
 即時偵測包含一些視圖，例如惡意程式碼（適用于電子郵件和內容）、提交郵件和網路釣魚。 若要查看即時檢測與瀏覽器的比較方式，請[下載此 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
 

@@ -1,7 +1,7 @@
 ---
 title: 商務用 Skype Online 功能
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 manager: supotter
 audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 如果您是系統管理員，您可以在設定商務用 Skype Online 中，找到設定商務用 Skype Online 功能的詳細指示。
-ms.openlocfilehash: 90d5e7ab138d3bb2098cd279dcf7431043107a57
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: be40d66d6a59bc69f90b354d3df82393921d1163
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638801"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132107"
 ---
 # <a name="skype-for-business-online-features"></a>商務用 Skype Online 功能
 
@@ -40,7 +40,7 @@ ms.locfileid: "43638801"
 
 使用者可以使用商務用 Skype：
   
-- 顯示其目前狀態&mdash;（例如 [可用]、[離開]、[請勿打擾&mdash;] 或 [離線]），讓其他人知道其可用性。 商務用 Skype 顯示資訊貫穿整個套件。
+- 顯示其目前狀態（例如 [可用]、[ &mdash; 離開]、[請勿打擾] 或 [離線]）， &mdash; 讓其他人知道其可用性。 商務用 Skype 顯示資訊貫穿整個套件。
     
 - 透過網際網路通訊協定（IP）網路（如網際網路或組織的公司網路）即時傳送和接收文字郵件。 立即訊息可供「Skype 對 Skype」與多方通訊。 為了強化安全性，可加密 IM 文字。
     
@@ -140,4 +140,4 @@ Skype 會議廣播可讓使用者在網際網路上產生及廣播會議給最�
   
 如需詳細資訊，請移至 [[什麼是 Skype 會議廣播？](https://support.office.com/article/c472c76b-21f1-4e4b-ab58-329a6c33757d)]。
   
-可在上[https://portal.broadcast.skype.com](https://portal.broadcast.skype.com/)找到 Skype 會議廣播入口網站。
+可在上找到 Skype 會議廣播入口網站 [https://portal.broadcast.skype.com](https://portal.broadcast.skype.com/) 。

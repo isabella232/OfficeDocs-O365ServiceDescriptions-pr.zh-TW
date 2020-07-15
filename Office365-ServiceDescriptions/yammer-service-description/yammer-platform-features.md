@@ -1,8 +1,7 @@
 ---
 title: Yammer 平台功能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a7d8a60e-a80d-429b-b4eb-d188cbf15371
 description: Yammer 中提供下列 Yammer 平臺功能。
-ms.openlocfilehash: 25d579b08716b91dce1a3973c72f4d9b28432c53
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 63d96e638a60fc4533478e28e901cc38c3082cf3
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638671"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132957"
 ---
 # <a name="yammer-platform-features"></a>Yammer 平台功能
 
@@ -25,7 +24,7 @@ Yammer 中提供下列 Yammer 平臺功能。
  
 ## <a name="activity-stream-api"></a>活動資料流 API
 
-透過將資料新增至社交圖，來整合現有的企業商務應用程式。探索所有正在現有商務應用程式中發生的活動。
+Integrate existing enterprise business applications by adding data to the social graph. Drive discovery of activities taking place across all your existing business applications.
   
 ## <a name="browser-extension"></a>瀏覽器擴充
 

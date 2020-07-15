@@ -1,8 +1,7 @@
 ---
 title: 商務用 Skype Online 服務說明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 您想知道您需要購買哪些授權才可取得特定的商務用 Skype 功能嗎？ 請參閱商務用 Skype 授權概述。
-ms.openlocfilehash: f98546f6b229d1573fb3b170e9da5d04763a4db2
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 283f0ee8aa60728a0ddd91665a0b68933216260d
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213705"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45133067"
 ---
 # <a name="skype-for-business-online-service-description"></a>商務用 Skype Online 服務說明
 
@@ -31,7 +30,7 @@ ms.locfileid: "44213705"
 
  **您想知道您需要購買哪些授權才可取得特定的商務用 Skype 功能嗎？請參閱[商務用 Skype 附加元件授權](https://go.microsoft.com/fwlink/?LinkID=799524)。**
   
-商務用 Skype Online 是一種通訊服務，讓使用者互相連結，幾乎可以隨時隨地進行會議與交談。它讓使用者可以存取目前狀態的資訊、啟用即時訊息、音訊和視訊通話、豐富的線上會議，以及多樣的 Web 會議功能。 
+Skype for Business Online is a communications service that connects people for meetings and conversations anytime and from virtually anywhere. It gives users access to information about presence, and enables instant messaging, audio and video calling, rich online meetings, and extensive web conferencing capabilities. 
   
 商務用 Skype 是裝載於多租用戶伺服器上，同時支援多個客戶。 這些伺服器是存放在 Microsoft 資料中心，可供使用者從公司網路內部或透過網際網路，存取範圍廣泛的裝置。 
   
@@ -82,7 +81,7 @@ ms.locfileid: "44213705"
 |Office 通訊伺服器 2007 R2 和 Lync Server 2010 （IM、顯示狀態、音訊、影片、會議）  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |XMPP (例如 Google Talk 所使用) 與 Sametime 同盟  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 | Skype 同盟  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|AOL 和 Yahoo! 同盟  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|AOL and Yahoo! federation  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[Skype 商務線上會議](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**商務用 Skype Server 2015** <br/> |**Microsoft 365 商務基本版** <br/> |**Microsoft 365 商務標準版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F3** <br/> |
 |臨機操作和排程音訊會議  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |臨機操作和排程視訊會議  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
@@ -190,7 +189,7 @@ ms.locfileid: "44213705"
   
 ## <a name="feature-availability-across-skype-for-business-online-standalone-plans"></a>各 商務用 Skype Online 獨立方案中可用的功能
 
-下表列出各個獨立方案中的商務用 Skype Online 功能可用性。如需這些功能的描述，請參閱＜[商務用 Skype Online 功能](skype-for-business-online-features.md)＞。
+The following table lists Skype for Business Online feature availability across standalone plans. For a description of these features, go to [Skype for Business Online features](skype-for-business-online-features.md).
   
 > [!NOTE]
 > 商務用 Skype Online 獨立方案 2 的授權使用者會得到商務用 Skype 基本用戶端，而非完整的商務用 Skype 用戶端。 如果您希望讓使用者擁有商務用 Skype 用戶端，您必須將他們升級為含有該用戶端的授權，例如企業版授權。 若要將商務用 Skype 用戶端部署至使用者，請參閱[deploy The 商務用 skype client In Microsoft 365 或 Office 365](https://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409)。 
@@ -231,7 +230,7 @@ ms.locfileid: "44213705"
 |Office Communications Server 2007 R2 與 Lync Server 2010 (IM、顯示狀態、音訊、視訊及會議)  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |XMPP (例如 Google Talk 所使用) 與 Sametime 同盟  <br/> |是  <br/> |否  <br/> |否  <br/> |
 | Skype 同盟  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|AOL 和 Yahoo! 同盟  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|AOL and Yahoo! federation  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |**[Skype 商務線上會議](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**商務用 Skype Server 2015** <br/> |**商務用 Skype Online 獨立計劃 1** <br/> |**商務用 Skype Online 獨立計劃 2** <br/> |
 |臨機操作和排程音訊會議  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |臨機操作和排程視訊會議  <br/> |是  <br/> |否  <br/> |是  <br/> |

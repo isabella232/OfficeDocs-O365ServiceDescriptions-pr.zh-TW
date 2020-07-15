@@ -1,8 +1,7 @@
 ---
 title: 網頁版 Visio 服務描述
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: 透過 Visio for web，您可以在網頁上查看、編輯和共用 Visio 圖表。
-ms.openlocfilehash: 40f35b0201dc845509250a36eef8b8f5f8b47046
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: d9a206f56c4ef8641dc248c0d22301afd887c62f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213647"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131947"
 ---
 # <a name="visio-for-the-web-service-description"></a>網頁版 Visio 服務描述
 

@@ -1,8 +1,7 @@
 ---
 title: 商務用 Skype Online 限制
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 商務用 Skype Online 中的限制可分為下列類別。
-ms.openlocfilehash: 940405e3fa13adb52a98fb749e8dea51812ff32b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 6f9cf165c2b0bf9408ce0801740bb3abf0caa5a4
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639701"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131017"
 ---
 # <a name="skype-for-business-online-limits"></a>商務用 Skype Online 限制
 
@@ -39,7 +38,7 @@ ms.locfileid: "43639701"
 ## <a name="peer-to-peer-limits"></a>對等限制
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
 
-- **檔案傳輸限制**商務用 Skype Online IM 交談中可傳輸的檔案大小上限。若要了解哪些檔案類型不能進行檔案傳輸，請參閱有關[在商務用 Skype Online 中傳送和接收檔案或附件](https://go.microsoft.com/fwlink/?LinkId=398280)的 Microsoft 支援文章。
+- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
     
 - **開啟的分頁交談限制** 商務用 Skype 使用者可同時開啟的交談索引標籤數目上限。 
     
@@ -95,7 +94,7 @@ ms.locfileid: "43639701"
 |小組呼叫群組中的個人  <br/> |0.25  <br/> |0.25  <br/> |0.25  <br/> |0.25  <br/> |0.25  <br/> |不適用  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 如果商務用 Skype 會議參與者超過 75，那麼，會議名單中的參與者清單 (簡報人員和出席者) 將會被截斷，個別出席者僅看見簡報人員與該出席者本身的名稱。而會議的簡報人員仍可看見完整的參與者清單。此外，會對出席者隱藏圖庫檢視和 IM 錯誤。 
+> <sup>1</sup> If the number of participants in a Skype for Business meeting exceeds 75 participants, then the participant list (presenters and attendees) in the meeting roster will be truncated so that an individual attendee sees only the presenters and the individual attendee's own name. The full participant list remains visible to the presenters in the meeting. Also, Gallery View and IM errors are hidden from the attendees. 
   
 ### <a name="meeting-limits-across-standalone-options"></a>不同獨立選項的會議限制
 

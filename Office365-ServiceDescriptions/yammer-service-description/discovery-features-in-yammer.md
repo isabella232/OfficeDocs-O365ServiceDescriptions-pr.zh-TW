@@ -1,8 +1,7 @@
 ---
 title: Yammer 中的探索功能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: Yammer 中提供下列探索功能。
-ms.openlocfilehash: 44f959480415dc1d4eba7b3159fb46e38d153da0
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 5271b6b5b41acd4287f1b341f13c969e26abac8e
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640071"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132077"
 ---
 # <a name="discovery-features-in-yammer"></a>Yammer 中的探索功能
 

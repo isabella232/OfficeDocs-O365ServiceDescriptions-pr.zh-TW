@@ -1,8 +1,7 @@
 ---
 title: PowerPoint 網頁版
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: Web PowerPoint （以前稱為 PowerPoint Web App）可將您的 Microsoft PowerPoint 體驗延伸至網頁瀏覽器，讓您在儲存簡報的網站上直接使用簡報。 具有網路的 Office 的 Microsoft 365 客戶可以在旅途中查看、建立及編輯檔案。
-ms.openlocfilehash: f30eb6f981478c27e068282b5f0d523bad33eb38
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 50be528559234a5d386dcd8fbfb1805961494432
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640281"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131317"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint 網頁版
 
@@ -89,7 +88,7 @@ Web 的 PowerPoint 可讓您將粗體、斜體、底線、字型、大小及色�
   
 ## <a name="full-fidelity-reading-view"></a>高逼真讀取檢視
 
-以&mdash;顯示動畫、切換和音訊/影片等方式來查看簡報。
+以 &mdash; 顯示動畫、切換和音訊/影片等方式來查看簡報。
   
 ## <a name="full-ink-support"></a>完整的筆跡支援
 
@@ -125,7 +124,7 @@ Web PowerPoint 支援八個轉換和37動畫。 如需更多選項，請使用 P
   
 ## <a name="picture-cropping"></a>圖片裁剪
 
-使用裁剪工具，改善圖片中主體的框架。只要按一下圖片邊緣的其中一個裁剪控點，然後將它拖曳，直到達到您想要的圖片為止。
+Improve the framing of a subject in a picture with the cropping tool. Simply click one of the cropping handles at the edge of the picture and drag it until you achieve the picture you want.
   
 ## <a name="pictures"></a>圖片
 
@@ -173,7 +172,7 @@ PowerPoint 網頁會在每次進行變更時，儲存您的工作。 沒有**儲
   
 ## <a name="share"></a>共用
 
-若您將簡報儲存在 SharePoint 文件庫中，則該簡報就是在線上執行，您可以透過傳送連結和他人共用，不用再傳送電子郵件附件。擁有適當權限的使用者可以在他們的網頁瀏覽器或行動裝置中檢視簡報。進一步了解[共用簡報](https://go.microsoft.com/fwlink/?LinkId=272776)。
+If your presentation is saved in a SharePoint document library, then your presentation is online and you can share it by sending a link instead of an email attachment. People with proper permissions can view it in their web browser or mobile device. Learn more about [sharing a presentation](https://go.microsoft.com/fwlink/?LinkId=272776).
   
 ## <a name="slide-show"></a>投影片放映
 

@@ -1,8 +1,7 @@
 ---
 title: 收件者
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 本主題說明 Microsoft Exchange Online 中包含的收件者相關功能。 其中包括電子郵件、連絡人、通訊群組，以及行事曆與排程功能。
-ms.openlocfilehash: c65745f22b303acb5740e0ff014aa8f9a5b2c7b7
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: a2d1f37bf4f86399522573d18177f6c397fd761c
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639981"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132637"
 ---
 # <a name="recipients"></a>收件者
 
@@ -25,20 +24,20 @@ ms.locfileid: "43639981"
   
 ## <a name="email"></a>電子郵件
 
-每位 Microsoft Exchange Online 訂閱者皆接收信箱，而專用信箱可用於排程設備資源（如會議室）以及多重使用者存取共享電子郵件地址。最高儲存限制適用於大多數的信箱，而管理員可控制允許的信箱大小。自動通知與限制可在使用者信箱接近容量上限或已達容量上限時提醒使用者。Exchange Online 同時擁有數種郵件上限類型－郵件大小、郵件率以及收件者清單上限。所有這些功能與限制的詳細資訊如下所示。
+Every Microsoft Exchange Online subscriber receives a mailbox, and specialty mailboxes are available for scheduling facilities resources (such as conference rooms) and for multiuser access to shared email addresses. Maximum storage limits apply to most mailboxes, and administrators can control allowable mailbox sizes. Automated notifications and restrictions can alert users when their mailboxes are nearing, or at, capacity. Exchange Online also has several types of message limitations—message size, message rate, and recipient list limits. Details of all these features and limits are provided below.
   
 > [!NOTE]
 > Exchange Online 中不再支援 全部擷取位址。 由於可防止潛在垃圾郵件的收件者篩選，因此會拒絕組織中不存在的電子郵件地址。 
   
 ### <a name="mailbox-types-storage-limits-and-capacity-alerts"></a>信箱類型、儲存限制及容量警示
 
-每位使用者可使用的信箱儲存量和預設信箱大小由信箱類型和使用者的訂閱授權而定。管理員可降低單一使用者或全域的最高信箱大小。當使用者的信箱接近容量限制或達到容量限制時，Exchange Online 也會提供通知。
+The amount of mailbox storage available to a user and the default mailbox size are determined by the mailbox type and the user's subscription license. Administrators can reduce maximum mailbox sizes per user or globally. Exchange Online also provides notifications when a user's mailbox is nearing, or at, capacity.
   
 如需詳細資訊，請參閱本主題中的「信箱儲存限制」和「容量警示」一節中的[Exchange Online 限制](exchange-online-limits.md)。
   
 ### <a name="mailtips"></a>MailTips
 
-寄件提醒為自動化、具資訊內容的郵件，在使用者編寫或傳送郵件時，將出現在收件人：列的上方。專為協助預防意外傳遞、違反政策或不必要的未傳遞回報 (NDR) 而設計。舉例來說，寄件提醒可在寄件人嘗試傳送郵件給過大的群組、包含外部收件人的群組、或者遭仲裁或限制的通訊群組時產生警告。如需詳細資訊，請參閱[郵件提示](https://go.microsoft.com/fwlink/p/?LinkId=401472)。
+MailTips are automated, informative messages that appear above the To: line while users are composing or addressing a message. They are designed to help prevent accidental delivery, policy violations, or unnecessary non-delivery reports (NDRs). For example, MailTips can generate an alert if senders try to send messages to overly large groups, to groups that contain external recipients, or to a distribution group that is moderated or restricted. For more information, see [MailTips](https://go.microsoft.com/fwlink/p/?LinkId=401472).
   
 ### <a name="delegate-access"></a>委派存取
 
@@ -48,7 +47,7 @@ Exchange Online 支援委任存取－允許他人管理使用者電子郵件與�
   
 - **代理傳送權限** 代理人可編寫電子郵件並在寄件者欄位輸入其他人的姓名，將顯示為「委任姓名」代表「姓名」。 
     
-- **代表傳送權限** 代理人可以信箱擁有者身分自他人的信箱傳送郵件。此情況常見於有共用信箱以及不自 Exchange Online 而自該共用信箱傳送電子郵件的員工。 
+- **Send As permissions** The delegate can send messages from the other person's mailbox as if the delegate were the mailbox owner. This scenario is common where there is a shared mailbox and several employees send email messages from that shared mailbox instead of from their Exchange Online accounts. 
     
 如需委派存取權的詳細資訊，請參閱[管理收件者的權限](https://technet.microsoft.com/library/jj919240%28v=exchg.160%29.aspx)。
   
@@ -58,7 +57,7 @@ Exchange Online 允許使用者建立收到電子郵件時的收件匣規則，�
   
 ### <a name="clutter"></a>雜亂資料
 
-雜亂資料設計來協助您專注於收件匣中的最重要郵件。它會使用電腦學習，透過移出低優先順序的郵件並將它放入新的 [雜亂資料] 資料夾，來去除收件匣的雜亂資料。雜亂資料會使用現有電子郵件規則，因此，如果您已經建立規則來組織電子郵件，則會繼續套用那些規則，而且雜亂資料不會處理那些郵件。預設會停用收件匣的雜亂資料。若要深入了解，請參閱[在 Office 365 中去除收件匣的雜亂資料](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/)。
+Clutter is designed to help you focus on the most important messages in your inbox. It uses machine learning to de-clutter your inbox by moving lower priority messages out of your way and into a new Clutter folder. Clutter respects your existing email rules, so if you have created rules to organize your email those rules continue to be applied and Clutter won't act on those messages. Clutter is disabled by default for your inbox. To learn more, see [De-clutter your inbox in Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/).
   
 ### <a name="connected-accounts"></a>連結帳戶
 
@@ -66,12 +65,12 @@ Exchange Online 允許使用者建立收到電子郵件時的收件匣規則，�
   
 ### <a name="inactive-mailboxes"></a>非使用中的信箱
 
-Exchange Online 可供使用者無限期保留已刪除信箱的內容。此功能稱為非使用中的信箱。在刪除信箱前，針對該信箱設定「就地保留」或「訴訟暫止」屬性便能使其成為非使用中的信箱。此設定可使您無限期保留該信箱中的內容。管理員、法務人員或記錄管理員均可使用 Exchange Online 中的就地 eDiscovery 功能存取非使用中的信箱的內容。
+Exchange Online provides the capability to preserve the contents of deleted mailboxes indefinitely. This feature is called inactive mailboxes. A mailbox becomes inactive when an In-Place Hold or a Litigation Hold is placed on the mailbox before it's deleted. This results in the contents of the mailbox being preserved indefinitely. Administrators, compliance officers, or record managers can use the In-Place eDiscovery feature in Exchange Online to access the contents of an inactive mailbox.
   
 啟用非使用中的信箱要求信箱必須具備 Exchange Online (計劃 2) 的指派授權或 Exchange Online 封存訂閱，才能在其遭刪除前設定「就地保留」或「訴訟暫止」屬性。
   
 > [!IMPORTANT]
-> 若在信箱遭刪除前未設定 Hold 屬性，則該信箱中的內容將不予保留且無法提供搜尋。信箱在遭刪除後的 30 天內可復原，若未復原，則 30 天後系統將不保留該信箱的內容，且將永久刪除該信箱。 
+> If a hold isn't placed on a mailbox before it's deleted, the contents of the mailbox will not be preserved or discoverable. The mailbox can be recovered within 30 days of deletion, but the mailbox and its contents will be permanently deleted after 30 days if it isn't recovered. 
   
 如需詳細資訊，請參閱：
   
@@ -97,25 +96,25 @@ Exchange Online 支援通訊清單和 Gal 的自訂。 GAL 是所有擁有郵件
   
 ### <a name="hierarchical-address-books"></a>階層式通訊錄
 
- 階層式通訊錄可讓使用者使用組織階層，在 Exchange 組織中瀏覽收件者。管理員可依年資和排名 (不用按字母順序) 來自訂通訊錄。 
+ Hierarchical address books allow end users to browse for recipients in their Exchange organization using an organizational hierarchy. Administrators can customize the address book by seniority and rank rather than alphabetical listings. 
   
 ### <a name="distribution-groups-global"></a>通訊群組（全域）
 
 通訊群組（或通訊清單）為使用者、連絡人與其他通訊群組的組合，可為公司中的所有使用者使用。 使用者寄送電子郵件給通訊群組別名以傳送郵件給所有群組中的人。 通訊群組與個人於 Outlook 中建立的個人通訊群組相似，除通訊群組的成員清單可提供給公司中所有人使用。 管理員可在 Exchange 系統管理中心中建立通訊群組。 群組可自內部部署的 Active Directory 與 Exchange Online 同步。 它們會出現在 Outlook 的 GAL 中。 Exchange Online 支援進階通訊群組能力，包括以下所述：
   
-- **受限的通訊群組** 根據預設，任何人都可以傳送電子郵件給任何通訊群組。管理員可變更僅允許特定個人傳送電子郵件給特定群組的權限－例如，減少大量通訊清單的不當使用。管理員同時可阻止外部來源傳送電子郵件給通訊群組，以阻擋垃圾郵件。對於使用 Directory Synchronization 工具自內部部署 Active Directory 同步的通訊群組來說，限制的屬性將自動同步至雲端。如需詳細資訊，請參閱 [管理通訊群組](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx)。
+- **Restricted distribution groups** By default, anyone can send emails to any distribution group. Administrators can change permissions to allow only specific individuals to send emails to a particular group—for example, to discourage inappropriate use of large distribution lists. Administrators can also block external sources from sending email to distribution groups to help prevent spam. For distribution groups that are synchronized from on-premises Active Directory using the Directory Synchronization tool, the attributes for restriction are synchronized to the cloud automatically. For more information, see [Manage Distribution Groups](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
     
-- **動態通訊群組** 動態通訊群組的成員清單 (也稱為動態通訊群組清單或以查詢為基礎的通訊群組清單) 將在每次傳送郵件給群組時執行計算。此計算係根據管理員定義的篩選器與條件而定。這些設定可透過遠端 Windows PowerShell 於 Exchange Online 中管理。如需動態通訊群組的詳細資訊，請參閱 [管理動態通訊群組](https://technet.microsoft.com/library/bb123722%28v=exchg.160%29.aspx)。
+- **Dynamic distribution groups** The membership list for a dynamic distribution group (also known as a dynamic distribution list, or query-based distribution list) is calculated every time a message is sent to the group. This calculation is based on filters and conditions that the administrator defines. They are managed in Exchange Online through remote Windows PowerShell. For more information about dynamic distribution groups, see [Manage Dynamic Distribution Groups](https://technet.microsoft.com/library/bb123722%28v=exchg.160%29.aspx).
     
     > [!IMPORTANT]
-    > Office 365 目錄同步處理工具會忽略內部部署 Active Directory 中的動態通訊群組，且不會將這些群組與 Exchange Online 同步處理。使用 Directory Synchronization 工具的組織應使用命名慣例以避免受內部部署管理的一般通訊群組與在 Exchange Online 中管理的動態通訊群組間發生衝突。 
+    > The Office 365 Directory Synchronization tool ignores dynamic distribution groups in on-premises Active Directory, and does not synchronize these to Exchange Online. Organizations that use the Directory Synchronization tool should use a naming convention that avoids conflicts between the regular distribution groups that are managed on-premises and the dynamic distribution groups that are managed in Exchange Online. 
   
-- **仲裁通訊群組** 管理員可選取仲裁者來控管傳送給通訊群組的郵件流量。透過仲裁通訊群組，任何人皆可傳送電子郵件給通訊群組別名，但在郵件傳送給群組成員前，仲裁者須檢視並核准該郵件。如需仲裁的詳細資訊，請參閱 [管理通訊群組](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx)中的「訊息核准」一節。
+- **Moderated distribution groups** Administrators can select a moderator to regulate the flow of messages to a distribution group. With moderated distribution groups, anyone can email the distribution group alias, but before the message is delivered to the members of the group, a moderator must review and approve it. For more information about moderation, see the Message Approval section in [Manage Distribution Groups](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
     
-- **自助通訊群組** 管理員可授予權限讓使用者從網路架構介面管理自己的通訊群組成員。使用者將獲得建立、刪除、加入或離開通訊群組的權限。這些功能根據預設將為所有 Exchange Online 使用者啟用。若需要，管理者可停用這些功能以限制僅讓 IT 部門可管理通訊群組。也可建立命名原則來標準化並管理使用者建立的通訊群組名稱。例如，建立名稱時可新增特定前置詞或尾碼至通訊群組名稱，或阻止特定字詞用於群組名稱。 
+- **Self-Service distribution groups** Administrators can give users the ability to manage their own distribution group membership from a web-based interface. Users can be given permissions to create, delete, join, or leave distribution groups. These capabilities are enabled by default for all Exchange Online users. Administrators can disable them so that only the IT department can manage distribution groups, if desired. They can also create naming policies to standardize and manage the names of distribution groups that their users create. For example, they can add a specific prefix or suffix to the distribution group name when it is created, or block specific words from being used in the group's name. 
     
     > [!IMPORTANT]
-    > 自助服務功能不可用於自內部部署 Active Directory 同步至 Exchange Online 的通訊群組。使用 Directory Synchronization 的組織應使用命名慣例以避免受內部部署管理的通訊群組與在雲端中管理的動態通訊群組間發生衝突。 
+    > Self-service capabilities are not available for distribution groups that are synchronized from on-premises Active Directory to Exchange Online. Organizations that use Directory Synchronization should use a naming convention that avoids conflicts between distribution groups that are managed on-premises and distribution groups that are managed in the cloud. 
   
 ### <a name="external-contacts-global"></a>外部連絡人 (全域)
 
@@ -129,7 +128,7 @@ Exchange Online 支援通訊清單和 Gal 的自訂。 GAL 是所有擁有郵件
 
 資源信箱（例如會議室與實體設備）代表公司的會議室或其他設施或資源。 使用者可以在 Outlook 或網頁型 Outlook 中新增資源的電子郵件別名到會議邀請中，以預約會議室或資源。 會議室和資源會出現在 Outlook 和 Outlook 網頁版的 GAL 中。
   
-管理員可使用 Exchange 系統管理中心或遠端 Windows PowerShell 來建立資源信箱。信箱可自內部部署的 Active Directory 與 Exchange Online 同步。
+Administrators create resource mailboxes using the Exchange admin center or remote Windows PowerShell. The mailboxes can also be synchronized with Exchange Online from on-premises Active Directory.
   
 如需資源信箱的相關資訊，請參閱：
   
@@ -139,7 +138,7 @@ Exchange Online 支援通訊清單和 Gal 的自訂。 GAL 是所有擁有郵件
     
 ### <a name="conference-room-management"></a>會議室管理
 
-Exchange Online 包含自動化會議室與其他資源排程的 Resource Booking Attendant (RBA)。受 RBA 設定的資源信箱將根據資源的行事曆時間來接受、拒絕或認可來自會議組織人的會議請求。 
+Exchange Online includes the Resource Booking Attendant (RBA), which automates scheduling of conference rooms and other resources. A resource mailbox that is RBA-configured accepts, declines, or acknowledges meeting requests from a meeting organizer based on the resource's calendar availability. 
   
 管理員可以自訂自動會議室回應，並在網頁上的 Outlook 中設定預約原則。 這些原則包含可排定資源的人、可排程的時間、在資源行事曆上顯示的會議資訊、以及允許的排程衝突百分比。 管理員可停用 Resource Booking Attendant 並指定特定使用者以手動管理關於會議室的會議請求。
   
@@ -147,7 +146,7 @@ Ad管理員需透過遠端 Windows PowerShell 來定義並管理 RBA 設定。
   
 ### <a name="out-of-office-replies"></a>外出回覆
 
-外出回覆郵件將自動代表使用者回覆 Exchange Online 寄來的郵件。使用者可事先排定外出郵件，指定詳細的開始與結束時間，並可未內部收件者與外部收件者建立不同的外出回覆郵件。也可自支援此 Exchange ActiveSync 功能的行動裝置建立外出郵件。在 Exchange Online 內的垃圾郵件與郵寄清單感知將防止使用者傳送外部外出郵件給擴充的郵寄清單與可能的垃圾郵件寄件者。管理員也可防止使用者使用 Windows PowerShell 傳送外出郵件給外部使用者。
+Out-of-office messages are automatic replies to incoming messages that Exchange Online sends on behalf of a user. Users can schedule out-of-office messages in advance, with specific start and end times, and can configure separate out-of-office messages for internal and external recipients. They can also set out-of-office messages from mobile devices that support this Exchange ActiveSync feature. Junk-email and mailing-list awareness within Exchange Online prevents users from sending external out-of-office messages to extended mailing lists and potential spammers. Administrators can also prevent users from sending out-of-office messages to external users using remote Windows PowerShell.
   
 ### <a name="calendar-sharing"></a>行事曆共用
 
@@ -161,7 +160,7 @@ Ad管理員需透過遠端 Windows PowerShell 來定義並管理 RBA 設定。
   
 ### <a name="outlook-2010-room-finder"></a>Outlook 2010 會議室尋找工具
 
-Exchange Online 支援 Outlook 2010 的會議室尋找工具功能，將會議室排定為清單（例如稱為「Building 5 rooms」的清單），讓排定會議時間時更容易找到附近的會議室。若要顯示於會議室清單，通訊群組須以以下方式之一特別標示： 
+Exchange Online supports the Room Finder feature of Outlook 2010, which arranges rooms into lists (for example, a list called "Building 5 rooms") to make it easier to find a nearby room when scheduling a meeting. To appear in the room list, a distribution group must be specially marked using one of two methods: 
   
 - 可透過遠端 Windows PowerShell 建立新的會議室清單。 
     

@@ -1,8 +1,7 @@
 ---
 title: Excel 網頁版
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: 網頁版 excel （先前稱為 Excel Web App）可將您的 Microsoft Excel 體驗延伸至網頁瀏覽器，您可以在其中儲存活頁簿的網站上直接使用活頁簿。 所有客戶均可使用 Office for web 來查看和輕微編輯 Office 檔案。
-ms.openlocfilehash: 4866506af511200607786bc8188634c8b3139dff
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 9df8a65c438a13ed43fc8b7e50abc069a42a96e2
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226222"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131417"
 ---
 # <a name="excel-for-the-web"></a>Excel 網頁版
 
@@ -39,7 +38,7 @@ ms.locfileid: "44226222"
 
 ## <a name="add-hyperlinks"></a>新增超連結
 
-在儲存格中新增超連結可連結至網頁，或在網頁上開啟檔案。您可以在儲存格中直接輸入網址，或使用 [插入超連結] 命令。
+Link to web pages or open files on the web by adding a hyperlink in a cell. You can type the web address directly in the cell or use the Insert Hyperlink command.
 
 ## <a name="advanced-data-types-stocks-and-geography"></a>高級資料類型：股票和地理位置
 
@@ -47,7 +46,7 @@ ms.locfileid: "44226222"
   
 ## <a name="advanced-time-filtering-timeline-slicer"></a>進階時間篩選 (時間表交叉分析篩選器)
 
-「時間表」控制可讓您篩選模型化資料。視覺化的呈現方式可讓您檢視和變更日期的持續範圍，以及篩選樞紐型物件，例如：樞紐分析表和樞紐分析圖。  
+The Timeline control lets you filter modeled data. It's a visual way to view and change a continuous range of dates and filter pivot-based objects, such as PivotTables and PivotCharts.  
   
 ## <a name="alignment"></a>對齊
 
@@ -71,11 +70,11 @@ ms.locfileid: "44226222"
   
 ## <a name="autosum"></a>AutoSum
 
-選取您要加總的儲存格，然後按兩下 [自動加總]，即可計算某欄或某列的總數。結果將顯示在下一個空白儲存格中。
+Total a column or row of numbers by selecting the cells you want to sum and then double-click AutoSum. The result appears in the next blank cell.
   
 ## <a name="calculations"></a>計算
 
-您可以使用 Excel 來執行各種自動、手動與反覆運算。Excel 會使用函數來執行這些計算。如需詳細資訊，請參閱 [Excel 函數 (依類別)](https://go.microsoft.com/fwlink/?linkid=847459)。
+You can use Excel to perform a variety of automatic, manual, and iterative calculations. Excel uses functions to perform these calculations. For more information, see [Excel functions by category](https://go.microsoft.com/fwlink/?linkid=847459).
 
 ## <a name="cell-references-in-formulas"></a>公式中的儲存格參照
 
@@ -138,7 +137,7 @@ Dropbox 是一個檔案主控服務，提供雲端儲存體、檔案同步作業
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>在網頁或博客頁面上嵌入活頁簿（OneDrive）
 
-如果您將 Excel 活頁簿儲存在 OneDrive.com 中，則可在部落格或網站上直接嵌入活頁簿。您的讀者可以直接在該處排序、篩選和計算資料，且若您在 OneDrive 中更新活頁簿內容，他們下次重新整理頁面時也會看到最新的變更。進一步了解[在部落格中嵌入 Excel 活頁簿](https://go.microsoft.com/fwlink/p/?LinkId=271673)。
+If you store an Excel workbook on OneDrive.com, you can embed it directly in a blog or website. Your readers can sort, filter, and calculate data right there, and if you update the workbook in OneDrive, they'll see the latest changes the next time they refresh the page. Learn more about [embedding an Excel workbook on your blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
   
 ## <a name="external-references-links"></a>外部參考 (連結)
 
@@ -194,7 +193,7 @@ Excel 中的創意可協助您透過高層次的視覺摘要、趨勢和模式�
   
 ## <a name="insert-charts"></a>插入圖表
 
-建立圖表可將資料視覺化呈現。從各式圖表類型中選擇想要的項目，例如：直條圖、折線圖、圓形圖或橫條圖。進一步了解[可用的圖表類型](https://go.microsoft.com/fwlink/p/?LinkId=273899)。
+Create a chart to visually represent your data. Choose from a variety of chart types, such as column, line, pie, or bar charts. Learn more about [available chart types](https://go.microsoft.com/fwlink/p/?LinkId=273899).
   
 ## <a name="insertdelete-rows-and-columns"></a>插入/刪除列和欄
 
@@ -222,7 +221,7 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 ## <a name="number-formatting"></a>數字格式化
 
-變更數字的格式。從格式清單中挑選格式 (如：貨幣或簡短日期)、變更小數位數或插入千位分隔符號。
+Change the format of numbers. Pick a format such as Currency or Short Date from a list of formats, change the decimal places, or insert a thousands separator.
   
 ## <a name="office-add-ins"></a>Office 增益集
 
@@ -286,13 +285,13 @@ Web 的 Excel 從網際網路瀏覽器啟動，並依賴網際網路連線。 �
   
 ## <a name="save-or-download-a-copy"></a>儲存或下載副本
 
-需要儲存活頁簿副本嗎？使用 [檔案] 索引標籤上的 [另存新檔] 命令，或者用滑鼠右鍵按一下資料夾中的活頁簿名稱，然後使用 [下載] 命令傳送副本至您的電腦。
+Want your own copy of the workbook? Use the Save As command on the File tab, or right-click the workbook's name in its folder and use the Download command to send a copy to your computer.
 
 ## <a name="sensitivity-labels"></a>敏感度標籤
 
 手動套用標籤或使用 Microsoft 的自動建議標籤，以維持對檔的存取和敏感度的控制。
   
-## <a name="share"></a>分享
+## <a name="share"></a>共用
 
 只要按一下滑鼠，就可以把連結傳送給其他使用者，以供其檢視或編輯文件。 深入瞭解[如何在 office 365 中搭配使用 Web office 來一起運作](https://go.microsoft.com/fwlink/p/?linkid=272770)。
   

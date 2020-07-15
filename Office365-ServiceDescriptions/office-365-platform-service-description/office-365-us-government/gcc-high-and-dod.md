@@ -1,8 +1,7 @@
 ---
 title: Office 365 GCC 高和 DoD
-ms.author: danarl
-author: danarl
-manager: dianap
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 深入瞭解 Office 365 GCC 高和 DoD 環境與 Office 365 商業環境的獨特承諾和差異。
-ms.openlocfilehash: ac769bf832d1aa3454596d5aad1c2a8b3769e6d2
-ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
+ms.openlocfilehash: 388e7c3a37e88233982cf12a73e22622a61d1cb8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43914779"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131977"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC 高和 DoD
 
@@ -75,7 +74,7 @@ Office 365 人員並未存取 GCC 高和 DoD 的實際執行。 任何人員若�
 
 ### <a name="skype-for-business-online"></a>商務用 Skype Online
 
- **PSTN 呼叫&amp; pstn 會議**-由於需要使用電話語音服務的公用交換電話網路（PSTN），因此在 GCC 高階及 DoD 中，目前&amp;無法使用 pstn 通話 pstn 會議服務。
+ **PSTN 通話 &amp;PSTN 會議**-因對電話語音服務使用公用交換電話網路（PSTN）的需求， &amp; 目前 DoD 無法使用 pstn 通話 pstn 會議服務。
 
 ### <a name="microsoft-teams"></a>Microsoft Teams
 

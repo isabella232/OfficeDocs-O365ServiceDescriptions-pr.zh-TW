@@ -1,8 +1,7 @@
 ---
 title: SharePoint 服務描述
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 請參閱哪些 SharePoint 功能可用於哪些方案。
-ms.openlocfilehash: a7606d1fe17c293a46398c93c95a1ffb7313f9b4
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: cc98d37abe936a7ad6ac67c22b5e8250e6326adb
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214035"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131027"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服務描述
 
@@ -35,7 +34,7 @@ Microsoft 365 中的 SharePoint 可協助組織共用及管理內容、知識及
 
 若要深入瞭解我們政府雲端客戶的 SharePoint 功能差異，請參閱[SharePoint FOR us 政府環境](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)。
   
-## <a name="whats-new"></a>新功能
+## <a name="whats-new"></a>新增功能
 
 如需有關所發行的最新功能的詳細資訊，請參閱[SharePoint 的新](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)功能。
   
@@ -136,7 +135,7 @@ SharePoint 會與 Microsoft 365 的高級安全性和相容性功能整合。 �
 - [資料外洩防護 (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
 - [eDiscovery](/microsoft-365/compliance/ediscovery-cases) （內容搜尋、保留、匯出）
 - [資訊屏障](/microsoft-365/compliance/information-barriers)
-- [Office 365 高級威脅防護（ATP）](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Office 365 進階威脅防護（ATP）](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [保留標籤和原則](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
 - [敏感性標籤](/microsoft-365/compliance/sensitivity-labels)
 - [統一的審計](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)（審計 SharePoint 使用者和系統管理員活動）

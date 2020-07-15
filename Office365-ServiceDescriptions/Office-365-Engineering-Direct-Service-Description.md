@@ -1,20 +1,19 @@
 ---
 title: Office 365 工程直屬服務說明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 工程直屬是一種企業級支援服務，可加入 Microsoft Premier 支援協定。 Office 365 工程直接服務說明包含有關所提供之功能及實施需求的其他資訊。
-ms.openlocfilehash: 6b2577a2164415ddd3865e22ef6785d9c6887066
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 00d481aeb789e017bbc4099d4bbb7338858716a7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638741"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131597"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Office 365 工程直屬服務說明
 

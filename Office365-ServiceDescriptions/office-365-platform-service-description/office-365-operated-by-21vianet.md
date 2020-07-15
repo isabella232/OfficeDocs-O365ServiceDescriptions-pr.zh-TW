@@ -1,25 +1,24 @@
 ---
 title: 21Vianet 運作的 Office 365
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
-description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: 2cbb01706acaf5902ceda7a2ee16bcd3497a5f28
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+description: Office 365 operated by 21Vianet is designed to meet the needs for secure, reliable, and scalable cloud services in China. This service is powered by technology that Microsoft has licensed to 21Vianet.
+ms.openlocfilehash: b5980a138152f874f75e10056c98da10bd9aa9ae
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429108"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132227"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
-由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
+Office 365 operated by 21Vianet is designed to meet the needs for secure, reliable, and scalable cloud services in China. This service is powered by technology that Microsoft has licensed to 21Vianet.
 
 > [!NOTE]
 > 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
@@ -29,11 +28,11 @@ Microsoft 不直接營運此項服務。 由 21Vianet 營運、提供並管理�
 > [!NOTE]
 > 這些服務須遵守中國法律。
 
-由於中國服務的獨特本質 (由合作夥伴從中國內部的資料中心營運)，可能尚未啟用部分功能。經過一段時間後，客戶將會看到服務的功能逐漸完整。有關的差異，請參閱服務描述註腳。如需更高層級的差異概觀，請參閱[深入了解由 21Vianet 提供的 Office 365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china)。
+Due to the unique nature of the China services—operated by a partner from datacenters inside China—there are some features that have not yet been enabled. Customers will see the services come closer to full feature parity over time. See the service description footnotes for differences. For a higher-level overview of differences, see [Learn about Office 365 operated by 21Vianet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china).
 
 ## <a name="service-availability-within-each-plan"></a>每個方案中可用的服務
 
-每個由 21Vianet 運作的 Office 365 方案皆包含一些個別服務，例如 Exchange Online 和 SharePoint Online。下表顯示每項 Office 365 方案中可用的服務。
+Each Office 365 plan operated by 21Vianet includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
 
 > [!NOTE]
 > 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
@@ -295,13 +294,13 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 下表提供 Office 的網站功能與功能豐富的 Microsoft Office 桌面應用程式比較的連結。 使用比較來探索 Office for web 中可用的功能，然後選取功能名稱，以閱讀有關該功能如何運作的簡短說明。
 
 > [!NOTE]
-> - Office 桌面套件涵蓋了 Office 的有限精選功能，提供進階功能讓您運用。此比較表未完整列出 Microsoft Office 的功能。
+> - A limited selection of Office features has been chosen to represent the advanced capabilities of the Office desktop suite. The comparison tables are not a comprehensive list of Microsoft Office features.
 > - Microsoft Office 365 ProPlus 是最新版 Office 桌面套件推出的每月訂閱產品項目。
 > - 如果內部部署客戶已購買 Office 桌面套件授權（例如： Office Professional Plus、Office Standard 或 Office 365 ProPlus 授權），Microsoft Office Web Apps Server 2013 內部部署客戶便可取得 Web 編輯授權的 Office。
 
 ||||
 |:-----|:-----|:-----|
-|**應用程式**|**由世紀運作的 web Office**|**連結至詳細的功能比較**|
+|**Application**|**由世紀運作的 web Office**|**連結至詳細的功能比較**|
 |Word|由世紀運作的 web Word|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|由世紀運作之網頁的 Excel|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|由世紀運作之網站的 OneNote|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -529,7 +528,7 @@ EOP 中的<sup>4 個</sup>郵件流程規則（也稱為傳輸規則）是在[Ex
 
 |**計劃**|**描述**|
 |:-----|:-----|
-|**Exchange Server for Office 365 (21Vianet 運作的 Office 365) 的 Exchange Online 封存**|雲端型封存，適用於在 Exchange Server 2013 或 Exchange 2010 (SP2 或更新版本) 中有主要信箱的使用者。  <br/> 如果您想要將雲端型封存新增至位於內部部署 Exchange 伺服器的主要信箱，您需要設定混合部署。如需有關混合部署的詳細資訊，請參閱 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。  |
+|**Exchange Server for Office 365 (21Vianet 運作的 Office 365) 的 Exchange Online 封存**|雲端型封存，適用於在 Exchange Server 2013 或 Exchange 2010 (SP2 或更新版本) 中有主要信箱的使用者。  <br/> If you want to add a cloud-based archive to a primary mailbox that's located on an on-premises Exchange server, you need to configure a hybrid deployment. For more information about hybrid deployments see [Exchange Server Hybrid Deployments](https://docs.microsoft.com/exchange/exchange-hybrid).|
 |**Exchange Server for Office 365 (21Vianet 運作的 Office 365) 的 Exchange Online 封存**| 下列計劃已包含封存功能，不需要 Exchange Online Archiving做為附加元件：  <br/>  由 21Vianet 運作的 Office 365 A1  <br/>  由 21Vianet 運作的 Office 365 Enterprise E3  <br/>  由 21Vianet 運作的 Exchange Online Plan 2 for Office 365  <br/>  如需 Exchange Online 信箱封存功能的詳細資料，請參閱 [在 Exchange Online 中封存信箱](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview)。|
 
 下表顯示由 21Vianet 運作的 Office 365 中可用的 Exchange Online Archiving 功能。
@@ -566,7 +565,7 @@ EOP 中的<sup>4 個</sup>郵件流程規則（也稱為傳輸規則）是在[Ex
 
 ## <a name="sharepoint-online-features"></a>SharePoint Online 功能
 
-所有 Office 365 計劃都包括 SharePoint Online 服務，但並非所有計劃都支援所有的 SharePoint 功能。下表顯示計劃中是否提供某項功能。
+All Office 365 plans include the SharePoint Online service, but not all plans support all SharePoint features. The following table shows whether a feature is available in a plan.
 
 > [!NOTE]
 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
@@ -867,7 +866,7 @@ EOP 中的<sup>4 個</sup>郵件流程規則（也稱為傳輸規則）是在[Ex
 |Office Communications Server 2007 R2 與 Lync Server 2010 (IM、顯示狀態、音訊、視訊及會議)|是|否|是|是|是|是|否|
 |XMPP (例如 Google Talk 所使用) 與 Sametime 同盟|否|否|否|否|否|否|否|
 | Skype 同盟|否|否|否|否|否|否|否|
-|AOL 和 Yahoo! 同盟|否|否|否|否|否|否|否|
+|AOL and Yahoo! federation|否|否|否|否|否|否|否|
 |**[Skype 商務線上會議](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**由 21Vianet 運作的 Office 365 商務基本版**|**由 21Vianet 運作的 Office 365 商務版**|**由 21Vianet 運作的 Office 365 商務進階版**|**由 21Vianet 運作的 Office 365 A1**|**由 21Vianet 運作的 Office 365 Enterprise E1**|**由 21Vianet 運作的 Office 365 Enterprise E3**|**由世紀運作的 Office 365 Enterprise F3**|
 |臨機操作和排程音訊會議|是|是|是|是|是|是|否|
 |臨機操作和排程視訊會議|是|是|是|是|是|是|否|
@@ -970,11 +969,11 @@ EOP 中的<sup>4 個</sup>郵件流程規則（也稱為傳輸規則）是在[Ex
 
 ### <a name="skype-for-business-online-features-across-office-365-standalone-plans"></a>Office 365 不同獨立計劃中的 商務用 Skype Online 功能
 
-下列表格列出 Office 365 計劃都包括 SharePoint Online 服務，但並非所有計劃都支援所有的 SharePoint 功能。下表顯示計劃中是否提供某項功能。
+The following table lists Office 365 plans that include the SharePoint Online service, but not all plans support all SharePoint features. The following table shows whether a feature is available in a plan.
 
 > [!NOTE]
 > - 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
-> - 商務用 Skype Online 獨立方案 2 的授權使用者會得到商務用 Skype 基本用戶端，而非完整的商務用 Skype 用戶端。如果您希望讓使用者擁有商務用 Skype 用戶端，您必須將他們升級為含有該用戶端的授權，例如企業版授權。若要為使用者部署商務用 Skype 用戶端，請參閱[在 Office 365 部署商務用 Skype 用戶端](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365)。
+> - Skype for Business Online Standalone Plan 2 licensed users will get the Skype for Business Basic client, not the full Skype for Business client. If you want users to have the Skype for Business client, you will need to upgrade them to a license that includes it, such as an Enterprise-based license. To deploy the Skype for Business client to your users, see [Deploy the Skype for Business client in Office 365](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365).
 
 ||||
 |:-----|:-----|:-----|
@@ -1011,7 +1010,7 @@ EOP 中的<sup>4 個</sup>郵件流程規則（也稱為傳輸規則）是在[Ex
 |Office Communications Server 2007 R2 與 Lync Server 2010 (IM、顯示狀態、音訊、視訊及會議)|是|是|
 |XMPP (例如 Google Talk 所使用) 與 Sametime 同盟|否|否|
 | Skype 同盟|否|否|
-|AOL 和 Yahoo! 同盟|否|否|
+|AOL and Yahoo! federation|否|否|
 |**[Skype 商務線上會議](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**商務用 Skype Online 21Vianet 運作的 Office 365 獨立方案 1**|**商務用 Skype Online 21Vianet 運作的 Office 365 獨立方案 2**|
 |臨機操作和排程音訊會議|否|是|
 |臨機操作和排程視訊會議|否|是|
