@@ -21,9 +21,9 @@ ms.locfileid: "45131667"
 # <a name="privacy-security-and-transparency"></a>隱私權、安全性和透明化
 
 > [!NOTE]
-> The information in this article applies to worldwide versions of Office 365. If you are using a national cloud instance of Office 365, including Office 365 U.S. Government, Office 365 Germany, and Office 365 operated by 21Vianet, see [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582). 
+> 這份文件中的資訊適用於全球版 Office 365。如果您使用 Office 365 的國家/地區雲端執行個體，包括 Office 365 美國。由 21Vianet 運作的政府版、Office 365 Germany 和 Office 365，請參閱 [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582)。 
   
-Microsoft values the partnerships we have with our customers and places great emphasis on protecting the privacy and security of customer data. For more information, see the [Microsoft Trust Center](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
+Microsoft 十分重視與客戶之間的合作關係，且致力於保護客戶資料的隱私和安全性。如需詳細資訊，請參閱 [Microsoft 信任中心](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409)。
   
 ## <a name="privacy"></a>隱私權
 
@@ -49,7 +49,7 @@ Microsoft values the partnerships we have with our customers and places great em
 
 做為 Microsoft 系統管理員，您可以使用客戶密碼箱來控制 Microsoft 支援工程師如何在協助會話中存取您的資料。 在工程師需要存取您的資料來排解及修正問題的情況下，Customer Lockbox 可讓您核准或拒絕存取要求。 如果您核准要求，工程師就能夠存取資料。 每個要求都有到期時間，問題一旦解決，就會關閉要求並撤銷存取權。
   
-Customer Lockbox is included in the Office 365 Enterprise 5 plan, or you can purchase a separate subscription with any other Office 365 Enterprise plan. For more information, see [Office 365 Customer Lockbox Requests](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
+Customer Lockbox 隨附於 Office 365 企業版 5 計劃，您也可以隨著其他 Office 365 企業版計劃一起購買個別的訂閱。如需詳細資訊，請參閱 [Office 365 Customer Lockbox 要求](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409)。
   
 ## <a name="advanced-threat-protection"></a>進階威脅防護
 

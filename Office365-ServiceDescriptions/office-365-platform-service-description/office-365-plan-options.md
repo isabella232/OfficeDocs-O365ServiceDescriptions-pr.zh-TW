@@ -41,7 +41,7 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
    
 ### <a name="service-availability-within-each-office-365-plan"></a>每個 Office 365 方案中可用的服務
 
-Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
+每個 Office 365 方案皆包含一些個別服務，例如 Exchange Online 和 SharePoint Online。下表顯示每項 Office 365 方案中可用的服務。
   
 > [!IMPORTANT]
 >  一項服務可能在各個 Office 365 方案中都有提供，但在每個方案中可用的功能可能不同。 若要查看每個計劃之可用功能的詳細資訊，請參閱個別的服務描述或連絡轉銷商或 Microsoft 銷售代表以取得詳細資訊。 <br/>  數個適用於企業方案的 Office 365 提供可針對您的訂閱購買的附加元件。 附加元件可為訂閱提供額外的功能。 如需詳細資訊，請參閱 [購買或編輯商務用 Office 365 附加元件](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6)。 

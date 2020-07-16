@@ -24,7 +24,7 @@ Yammer 中提供下列檔協同作業功能。
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>不同 Yammer 計劃中的文件協同作業功能
 
-Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which document collaboration features are available in each plan.
+需要協助找出最適合組織需求的 Yammer 計劃嗎？請使用下表來查看各個計劃中提供哪些文件協同作業功能。
   
 |**功能**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

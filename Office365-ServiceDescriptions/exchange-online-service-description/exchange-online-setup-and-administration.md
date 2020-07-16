@@ -48,28 +48,28 @@ Microsoft 365 系統管理中心是一個網頁入口網站，每個公司的服
   
 ### <a name="exchange-admin-center"></a>Exchange 系統管理中心
 
-Exchange Online provides a single unified management console that allows for ease of use and is optimized for management of on-premises, online, or hybrid deployments. The Exchange admin center (EAC) is where administrators can manage Exchange-specific settings.
+Exchange Online 提供單一整合的管理主控台，讓使用者更方便使用且最佳化內部部署、線上或混合部署的管理。Exchange 系統管理中心 (EAC) 是管理員管理 Exchange 專屬設定的地方。
   
 如需有關如何使用 EAC 管理 Exchange Online 的詳細資訊，請參閱 [Exchange 系統管理中心](https://go.microsoft.com/fwlink/p/?LinkId=271807)。
   
 ### <a name="remote-windows-powershell-for-exchange-online"></a>Exchange Online 的遠端 Windows PowerShell
 
-Using remote Windows PowerShell, administrators can connect to Exchange Online to perform management tasks that are not available or practical using the EAC. These include the ability to automate repetitive tasks, extract data for custom reports, customize policies, and connect Exchange Online to existing infrastructure and processes. For more information, see [Connect to Exchange Online Using Remote PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=308994).
+管理員可以使用遠端 Windows PowerShell 連線至 Exchange Online，以執行使用 EAC 無法提供或無法實際執行的管理工作。這些包括能夠自動執行重複性工作、擷取用於自訂報告的資料、自訂原則，以及連線 Exchange Online 至現有基礎結構和程序。如需詳細資訊，請參閱[使用遠端 PowerShell 連線到 Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=308994)。
   
-Exchange Online uses the same Windows PowerShell cmdlets as Exchange Server 2013, with certain commands and parameters unavailable because these features do not apply in Exchange Online. For a list of cmdlets for use with Exchange Online, see [Exchange Online cmdlets](https://go.microsoft.com/fwlink/p/?LinkId=271808).
+Exchange Online 使用的 Windows PowerShell cmdlet 與 Exchange Server 2013 相同，但某些命令和參數無法使用，因為在 Exchange Online 中這些功能並不適用。如需可與 Exchange Online 搭配使用的 Cmdlet 清單，請參閱 [Exchange Online Cmdlet](https://go.microsoft.com/fwlink/p/?LinkId=271808)。
   
-Administrators do not need to install any Exchange Server management or migration tools to use remote Windows PowerShell. However, administrators' computers must be running the Windows Management Framework 3.0, which contains Windows PowerShell v3 and WinRM 3.0; and Windows .NET Framework 4.5. These components are already installed on computers running Windows 8 or Windows Server 2012. Administrators can manually download these components for computers that are running Windows 7 or Windows Server 2008 R2.
+系統管理員無須安裝任何 Exchange Server 管理或移轉工具，即可使用遠端 Windows PowerShell。不過，系統管理員的電腦必須執行 Windows Management Framework 3.0 (其包含 Windows PowerShell v3 和 WinRM 3.0) 以及 Windows .NET Framework 4.5。執行 Windows 8 或 Windows Server 2012 的電腦上已安裝有這些元件。系統管理員可針對執行 Windows 7 或 Windows Server 2008 R2 的電腦，手動下載這些元件。
   
 > [!IMPORTANT]
 > 為防止拒絕服務 (DoS) 攻擊，您最多只能對您的 Exchange Online 組織建立三個 Windows PowerShell 連線。 
   
 ## <a name="self-service-capabilities-for-exchange-online"></a>Exchange Online 自助功能
 
-Below are important capabilities that are available for managing Exchange Online by using the EAC, remote Windows PowerShell, and other tools. Many other settings can also be controlled with these tools, as described throughout this document.
+以下是使用 EAC、遠端 Windows PowerShell 及其他工具管理 Exchange Online 時可用的重要功能。您也可以使用這些工具來控制其他許多設定，如本文所述。
   
 ### <a name="mobile-device-security-policies-for-exchange-online"></a>Exchange Online 的行動裝置安全性原則
 
-Exchange Online supports the same ActiveSync policies for mobile devices as Exchange Server 2013. Administrators can enforce and customize these security policies for specific users and groups by using the EAC or remote Windows PowerShell.
+Exchange Online 針對行動裝置所支援的 ActiveSync 原則與 Exchange Server 2013 相同。管理員可以使用 EAC 或遠端 Windows PowerShell，為特定使用者和群組強制執行及自訂這些安全性原則。
   
 ### <a name="message-tracking-for-exchange-online"></a>Exchange Online 的郵件追蹤
 
@@ -77,7 +77,7 @@ Exchange Online supports the same ActiveSync policies for mobile devices as Exch
   
 ### <a name="usage-reporting-for-exchange-online"></a>Exchange Online 的使用報告
 
-Administrators can use remote Windows PowerShell to retrieve information about how people in their organizations use the Exchange Online service. Available information includes:
+系統管理員可以使用遠端 Windows PowerShell 擷取組織中人員的 Exchange Online 服務使用情況相關資訊。可用的資訊包含：
   
 - 顯示組織中每個使用者的信箱大小。
     
@@ -85,7 +85,7 @@ Administrators can use remote Windows PowerShell to retrieve information about h
     
 - 擷取有關行動裝置存取的資料，例如，哪些使用者透過 Exchange ActiveSync 進行連線、使用哪些裝置，以及最後一次的連線時間。
     
-Remote Windows PowerShell cmdlets that start with "get-" can fetch data from the Exchange Online system. Administrators can export this information from Windows PowerShell in .csv format for advanced analysis or reporting.
+開頭為「get-」的遠端 Windows PowerShell Cmdlet 可以從 Exchange Online 系統擷取資料。系統管理員可以透過 Windows PowerShell 以 .csv 格式匯出此資訊，以進行進階分析或報告。
   
 如需有關可與 Exchange Online 搭配使用的 Windows PowerShell Cmdlet 的詳細資訊，請參閱 [Exchange Online Cmdlet](https://go.microsoft.com/fwlink/p/?LinkId=271808)。
   
@@ -95,7 +95,7 @@ Remote Windows PowerShell cmdlets that start with "get-" can fetch data from the
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Exchange Online 的服務和產品升級
 
-Exchange Online customers benefit from periodic upgrades to the latest Exchange technology, including new releases of Exchange Server. These upgrades are made available at no additional charge, and ensure that customers are always using the latest Exchange software.
+Exchange Online 客戶享有定期升級至最新 Exchange 技術的權益，包括新版本的 Exchange Server。這些升級會免費提供，可確保客戶始終使用最新的 Exchange 軟體。
   
 在 Microsoft 發行 Exchange 的主要版本後，客戶必須在 12 個月內，將服務升級為新版本。
   

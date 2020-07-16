@@ -28,7 +28,7 @@ Yammer 中提供下列設定檔功能。
 
 ## <a name="leaderboards"></a>排行榜
 
-Identify influential coworkers in your network. Leaderboards display people with the most messages, replied-to messages, and liked messages.
+找出您的網路中有影響力的同事。排行榜可顯示具有最多郵件、已回覆郵件和按讚郵件的人員。
 
 ## <a name="member-directory"></a>成員目錄
 

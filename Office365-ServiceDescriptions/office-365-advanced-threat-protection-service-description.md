@@ -76,7 +76,7 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>各進階威脅防護 (ATP) 計劃中可用的功能
 
-Each feature is listed below. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
+每項功能如下所列。提到 Exchange Online 時，通常是指 Office 365 企業版服務系列。
 
 |**功能**|**ATP 方案1**<br>（先前是 ATP 獨立）|**ATP 方案2**<br>（以前稱為威脅情報 <br>單獨| Office 365 企業版 E5|
 |:-----|:-----|:-----|:-----|
