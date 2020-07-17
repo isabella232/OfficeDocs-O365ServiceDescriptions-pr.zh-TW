@@ -22,7 +22,7 @@ ms.locfileid: "45132837"
 
 取得 Exchange Online Protection 功能和需求的相關資訊。 包含提供 Exchange Online Protection 的方案清單，以及各項方案中功能的比較。
 
-Microsoft Exchange Online Protection (EOP) is a cloud-based email filtering service that helps protect your organization against spam and malware, and includes features to safeguard your organization from messaging-policy violations. EOP can simplify the management of your messaging environment and alleviate many of the burdens that come with maintaining on-premises hardware and software.
+Microsoft Exchange Online Protection (EOP) 是雲端式的電子郵件篩選服務，它能協助組織抵禦垃圾郵件和惡意軟體，同時也包括預防組織發生訊息原則違規的功能。EOP 能簡化訊息環境的管理，減輕維護內部部署硬體和軟體所衍生的繁重負擔。
 
 下列清單說明您可以使用 EOP 進行郵件保護的主要方式：
 
@@ -66,7 +66,7 @@ Microsoft Exchange Enterprise CAL with Services 提供 EOP 的電子郵件保護
 如果您有 Exchange Enterprise CAL with Services 授權，且您想要布建 EOP，請依照[設定 EOP 服務](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service)中的指示進行。 其設定步驟與獨立式 EOP 的設定步驟相同。
 
 > [!NOTE]
-> New features for Exchange Enterprise CAL with Services are deployed at the same time as Exchange Online, not EOP standalone. Be advised that the deployment schedules for EOP standalone and Exchange Online/Exchange Enterprise CAL with Services may be slightly different.
+> Exchange Enterprise CAL with Services 的新功能會與 Exchange Online (而非獨立式 EOP) 同時部署。請注意，獨立式 EOP 和 Exchange Online/Exchange Enterprise CAL with Service 的部署排程可能稍有不同。
 
 ## <a name="requirements-for-exchange-online-protection-eop"></a>Exchange Online Protection (EOP) 的需求
 
@@ -78,7 +78,7 @@ EOP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>各 Exchange Online Protection (EOP) 計劃中可用的功能
 
-Each feature is listed below. For more detailed information about EOP features, click the links in the table. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
+每項功能如下所列。如需 EOP 功能的詳細資訊，請按一下表格中的連結。提及 Exchange Online 時，通常是指 Office 365 企業版 服務系列。
 
 |||||
 |:-----|:-----|:-----|:-----|

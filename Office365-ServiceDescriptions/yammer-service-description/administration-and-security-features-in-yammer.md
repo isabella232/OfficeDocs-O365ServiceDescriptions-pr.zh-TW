@@ -26,11 +26,11 @@ Yammer 中提供下列系統管理和安全性功能。
 
 ## <a name="admin-private-content-mode"></a>管理私人內容模式
 
-A verified admin of a Yammer network can view private messages and groups throughout the network.  Verified admins can see private content only when temporarily granting themselves access to private content to investigate issues.  For more information, see [Monitor private content in Yammer (verified admins)](https://go.microsoft.com/fwlink/?LinkId=627479).
+已驗證的 Yammer 網路管理員可以檢視整個網路中的私人郵件和群組。已驗證的管理員只有在為本身暫時授與私人內容存取權以調查問題時，才可以檢視私人內容。如需詳細資訊，請參閱[在 Yammer (已驗證的管理員) 中監視私人內容](https://go.microsoft.com/fwlink/?LinkId=627479)。
 
 ## <a name="analytics"></a>分析
 
-Gain insights from network analytics to find out how employees are using Yammer. From usage metrics to member statistics, identify ways to drive growth and increase the value of your network.
+取得網路分析的觀點，找出員工使用 Yammer 的方式。從使用度量值以及成員統計資料，找出驅動成長和提高網路價值的方法。
 
 ## <a name="custom-network-branding"></a>自訂網路品牌
 

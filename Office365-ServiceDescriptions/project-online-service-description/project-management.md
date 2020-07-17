@@ -24,7 +24,7 @@ Project Online 中提供下列專案管理功能。
   
 ## <a name="issues-and-risk-management"></a>問題和風險管理
 
-Project Online and Project Server 2013 include features to prevent, identify, and mitigate potential business- or project-related risks and issues. To learn more, see [Managing issues, risks, and documents in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
+Project Online 和 Project Server 2013 包括功能，可預防、識別和降低潛在的業務或專案相關風險及問題。若要深入了解，請參閱[在 Project Web App 中管理議題、風險以及文件](https://go.microsoft.com/fwlink/?LinkId=402634)。
   
 ## <a name="manage-project-resources"></a>管理專案資源
 
@@ -36,11 +36,11 @@ With Microsoft PPM solutions, you have several options for viewing and creating 
   
 ## <a name="schedule-management"></a>排程管理
 
-The schedule represents the tasks and deliverables that must be completed to deliver the project on time. You can create a timeline for your projects to track progress and manage change. To learn more, see [Add tasks and projects to the timeline](https://go.microsoft.com/fwlink/?LinkID=402655).
+排程表示必須完成的任務和交付項目，以及時交付專案。您可以建立專案的時間表，以追蹤進度以及管理變更。若要深入了解，請參閱[新增工作與專案至時間表](https://go.microsoft.com/fwlink/?LinkID=402655)。
   
 ## <a name="time-and-task-management"></a>時間與工作管理
 
-Use a centralized and common approach to time reporting and task management. Capture work and nonworking time for payroll, invoicing, and other business purposes. Efficiently communicate status on projects, everyday work, and ad-hoc requests to gauge usage peaks and valleys or progress on tasks. This helps you anticipate the effect on planned effort, cost, and timeframe. To learn more, see [Tracking time and task progress](https://go.microsoft.com/fwlink/p/?LinkId=271321).
+使用集中化和通用方法來進行時間報告和任務管理。擷取薪資、 開立發票和其他商業目的的工作和非工作時間。有效率地溝通專案狀態、日常工作以及臨機操作要求，以定出使用高低峰或任務進度。這可協助您預測計劃性努力、成本和時間範圍的效果。若要深入了解，請參閱[概觀：追蹤您的時間與任務進度](https://go.microsoft.com/fwlink/p/?LinkId=271321)。
 
 ## <a name="project-home"></a>專案首頁
 

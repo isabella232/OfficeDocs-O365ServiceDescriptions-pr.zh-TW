@@ -42,7 +42,7 @@ ms.locfileid: "45131297"
   
 ## <a name="autotext"></a>AutoText
 
-You can insert blocks of preformatted text using AutoText from your AutoText gallery. This is useful, for example, when you need to repeatedly enter the same large block of text and the text contains a lot of formatting. You create AutoText entries by adding selected text to the AutoText gallery. To learn more, see [Automatically insert text](https://go.microsoft.com/fwlink/?linkid=846739).
+您可以使用 [自動圖文集] 從自動圖文集圖庫中插入預設格式的文字區塊。例如，當您需要重複輸入相同的大片文字，且文字含大量格式設定時，這會很有用。將選取的文字新增到自動圖文集圖庫中，您就可以建立自動圖文集項目。若要瞭解詳細資訊，請參閱＜[自動插入文字](https://go.microsoft.com/fwlink/?linkid=846739)＞。
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>瀏覽並從專業設計的範本開始
 
@@ -70,11 +70,11 @@ You can insert blocks of preformatted text using AutoText from your AutoText gal
   
 ## <a name="content-controls"></a>內容控制項
 
-Content controls are individual controls that you can add and customize for use in templates, forms, and documents. To learn about content controls, see [Content controls](https://go.microsoft.com/fwlink/p/?LinkId=846741).
+內容控制項是您可以新增並自訂的個別控制項，用於範本、表單和文件中。若要深入了解內容控制項，請參閱＜[內容控制項](https://go.microsoft.com/fwlink/p/?LinkId=846741)＞。
   
 ## <a name="cover-pages"></a>封面頁
 
-Microsoft Word offers a gallery of convenient predesigned cover pages. You can simply choose a cover page and replace the sample text with your own.
+Microsoft Word 提供了方便且預先設計好的封面頁圖庫。只需要選擇一個封面頁，並以您自己的內容取代範例文字即可。
   
 ## <a name="creation-of-advanced-document-elements"></a>建立進階的文件元素
 
@@ -126,7 +126,7 @@ Microsoft Word 包含撰寫和編輯方程式的內建支援，以及可以置�
   
 ## <a name="index"></a>索引
 
-An index lists the terms and topics that are discussed in a document, along with the pages that they appear on. To create an index, you mark the index entries by providing the name of the main entry and the cross-reference in your document, and then you build the index.
+索引可列出文件中所討論的字詞和主題，及其出現的頁面。若要建立索引，您要先提供主要項目的名稱和文件中的交互參照來標記索引項目，然後建立索引。
   
 ## <a name="ink-editor"></a>手寫體編輯器
 
@@ -184,7 +184,7 @@ Word for web 會顯示受資訊版權管理（IRM）保護的檔。 不過，這
   
 ## <a name="preformatted-font-and-color-schemes"></a>預設格式的字型和色彩配置
 
-You can use themes to simplify the process of creating matching, professional-looking documents. Themes can be applied to tables, charts, shapes and diagrams to provide consistent fonts, effects, and color schemes.
+您可以使用佈景主題來簡化程序，建立彼此相符而專業的文件。佈景主題可以套用到表格、圖表、圖形及圖表，以提供一致的字型、效果及色彩配置。
   
 ## <a name="present-online"></a>線上呈現
 
@@ -212,7 +212,7 @@ You can use themes to simplify the process of creating matching, professional-lo
   
 ## <a name="reference-tools"></a>參考工具
 
-Bibliography, table of contents, and index features display in the document as expected in View mode. In Edit mode, they appear as placeholders that you can delete but not edit or update. Advanced reference tools, such as creating a bibliography, table of contents, index, or table of authorities, are only available in the Word desktop app.
+文件處於 [檢視] 模式時，您可以看到預期的書目、目錄和索引功能。在 [編輯] 模式時，上述元素會以預留位置的形式顯示，您可以將其刪除但無法進行編輯或更新。僅 Word 桌面應用程式提供進階的參考工具 (例如：建立書目、目錄、索引或引用的文獻)。
   
 ## <a name="rendering-of-text-boxesshapes"></a>文字方塊/圖案的呈現
 
@@ -260,7 +260,7 @@ Bibliography, table of contents, and index features display in the document as e
   
 ## <a name="tap"></a>點選
 
-Use the Tap feature to find and reuse content. Tap surfaces relevant files that you use most frequently, allowing you to focus on document creation rather than searching for files and information. For more information, see [Find and use the content you need](https://go.microsoft.com/fwlink/?linkid=825878).
+使用 [點選] 功能來尋找並重複使用內容。點選您最常使用的表面相關檔案，可讓您專注於建立文件而不必花時間搜尋檔案及資訊。如需詳細資訊，請參閱＜[尋找並使用您所需要的內容](https://go.microsoft.com/fwlink/?linkid=825878)＞。
   
 ## <a name="tell-me"></a>操作說明搜尋
 
@@ -284,7 +284,7 @@ Use the Tap feature to find and reuse content. Tap surfaces relevant files that 
   
 ## <a name="watermarks"></a>浮水印
 
-Watermarks are text or pictures placed behind the text in your document; for example, you can add text watermarks such as Draft or Confidential. Word has a gallery of watermarks to choose from, or you can create your own custom watermark, such as a company logo for your document. 
+浮水印是放在您文件內文字背景中的文字或圖片；例如，您可以新增「草稿」或「機密」等文字浮水印。Word 有浮水印圖庫可從中選擇，您也可以為文件建立自己自訂的浮水印，例如公司商標。 
   
 ## <a name="word-count"></a>字數統計
 

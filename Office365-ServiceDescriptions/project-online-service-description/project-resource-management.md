@@ -30,11 +30,11 @@ Project Online 中提供下列資源管理功能。
   
 ## <a name="manage-nonworking-time"></a>管理非工作時間
 
-Add vacation, holidays, medical leave, and other nonworking time into your project schedule. Learn more about [adding holidays and vacation days to your project](https://go.microsoft.com/fwlink/p/?LinkId=271337).
+將休假、假日、病假和其他非工作時間新增至專案排程。深入了解[將假日和休假新增至專案](https://go.microsoft.com/fwlink/p/?LinkId=271337)。
   
 ## <a name="resource-leveling"></a>資源撫平
 
-When people in your project are working on too many assignments at the same time, you can adjust their assignments automatically. This is known as resource leveling. See [Level resource assignments](https://go.microsoft.com/fwlink/p/?LinkId=271348).
+您專案中的人員同時處理太多指派時，您可以自動調整其指派。這稱為「資源撫平」。請參閱[撫平資源工作分派](https://go.microsoft.com/fwlink/p/?LinkId=271348)。
   
 ## <a name="resource-sheet-and-usage-views"></a>資源工作表和使用量檢視
 
@@ -50,7 +50,7 @@ When people in your project are working on too many assignments at the same time
   
 ## <a name="work-generic-and-material-resources"></a>工作資源、一般資源和材料資源
 
-Add resources to your project, such as work resources like people, generic resources like carpenters, and materials resources like computers and cement. See [Enter equipment costs and other cost resources](https://go.microsoft.com/fwlink/?LinkId=402922).
+將資源新增至專案，例如人員等工作資源、木工等一般資源，以及電腦和水泥等材料資源。請參閱[輸入設備成本及其他成本資源](https://go.microsoft.com/fwlink/?LinkId=402922)。
   
 ## <a name="feature-availability"></a>功能可用性
 

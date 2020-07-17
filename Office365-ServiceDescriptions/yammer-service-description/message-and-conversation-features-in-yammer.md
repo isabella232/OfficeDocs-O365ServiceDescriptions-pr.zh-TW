@@ -36,7 +36,7 @@ Yammer 中提供下列郵件和交談功能。
 
 ## <a name="online-now"></a>現在線上
 
-See who's online and instantly start a private discussion with one or more co-workers. The contact list is automatically sorted by the people you interact with most.
+查看上線人員，並立即與一或多位同事展開私人討論。連絡人清單會自動依據您最常互動的人員順序進行排序。
 
 ## <a name="polls"></a>投票
 

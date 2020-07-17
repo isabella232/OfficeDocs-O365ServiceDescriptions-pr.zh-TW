@@ -22,7 +22,7 @@ Project Online 中提供下列報表和商務智慧功能。
   
 ## <a name="odata-feeds"></a>OData 摘要
 
-OData feeds enable REST queries and a variety of OData client libraries to make both queries of reporting data from a Project Web App instance. For example, you can directly use a REST query in a web browser, or use JavaScript to build web apps and client apps for mobile devices, tablets, PCs, and Mac computers. For more information, see the [Project 2013 OData service reference](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
+OData 摘要可啟用 REST 查詢以及各種不同的 OData 用戶端程式庫，以從 Project Web 應用程式執行個體，進行報告資料的查詢。例如，您可以直接在網頁瀏覽器中使用 REST 查詢，或使用 JavaScript 以建置 Web 應用程式和用戶端應用程式，用於行動裝置、平板、PC 和Mac 電腦。如需詳細資訊，請參閱[Project 2013 OData 服務參考](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409)。
   
 ## <a name="out-of-the-box-portfolio-dashboards"></a>現成可用的組合儀表板
 
@@ -30,5 +30,5 @@ OData feeds enable REST queries and a variety of OData client libraries to make 
   
 ## <a name="project-desktop-reporting"></a>Project 桌面報告
 
-Project desktop reporting allows you to create and customize striking graphical reports of whatever project data you want, without having to rely on any other software. For more information, see [Create a project report](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
+無論您想要的何種專案，Project 桌面報告都可讓您建立和自訂醒目的圖形報表，而不需依賴任何其他軟體。如需詳細資訊，請參閱[建立專案報表](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409)。
   

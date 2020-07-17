@@ -70,13 +70,13 @@ Microsoft 365 訂閱的技術支援提供基本安裝、設定及一般技術使
   
 ### <a name="technical-support-case-handling"></a>技術支援案例的處理
 
-Microsoft assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table.
+當某案例處於未處理狀態時，Microsoft 會根據問題類型和客戶影響程度的評估來指定該案例的嚴重層級。下表列出了問題類型和嚴重層級的範例：
   
 |**嚴重層級**|**操作和支援說明**|**範例**|
 |:-----|:-----|:-----|
-|嚴重度 A (重大)  <br/> |One or more services aren't accessible or are unusable. Production, operations, or deployment deadlines are severely affected, or there will be a severe impact on production or profitability. Multiple users or services are affected.  <br/> | 傳送或接收郵件時遇到的普遍問題。  <br/>  SharePoint 網站服務中斷。  <br/>  所有使用者均無法傳送即時訊息、加入或安排商務用 Skype 會議或撥打商務用 Skype 電話。  <br/> |
-|嚴重度 B (高)  <br/> |The service is usable but in an impaired fashion. The situation has moderate business impact and can be dealt with during business hours. A single user, customer, or service is partially affected.  <br/> | Outlook 中的 [傳送] 按鈕變成亂碼。  <br/>  無法從 EAC (Exchange 系統管理中心) 設定，但可在 PowerShell 中設定。  <br/> |
-|嚴重度 C (非重大)  <br/> |The situation has minimal business impact. The issue is important but does not have a significant current service or productivity impact for the customer. A single user is experiencing partial disruption, but an acceptable workaround exists.  <br/> | 如何設定永不過期的使用者密碼。  <br/>  使用者不能刪除 Exchange Online 中的連絡人資訊。  <br/> |
+|嚴重度 A (重大)  <br/> |無法存取或使用一個或多個服務。生產、營運或部署期限受到嚴重影響，或對生產或獲利率造成嚴重影響。多個使用者或服務受到影響。  <br/> | 傳送或接收郵件時遇到的普遍問題。  <br/>  SharePoint 網站服務中斷。  <br/>  所有使用者均無法傳送即時訊息、加入或安排商務用 Skype 會議或撥打商務用 Skype 電話。  <br/> |
+|嚴重度 B (高)  <br/> |服務雖可用，但卻有受損問題。此情形對業務的影響較為中等，且可於營業時間內解決。單一使用者、客戶或服務受到部分影響。  <br/> | Outlook 中的 [傳送] 按鈕變成亂碼。  <br/>  無法從 EAC (Exchange 系統管理中心) 設定，但可在 PowerShell 中設定。  <br/> |
+|嚴重度 C (非重大)  <br/> |此情形對業務的影響最小。問題很重要但不會對客戶的目前服務或生產力造成重大影響。單一使用者遇到部分中斷問題，但有可採取的因應措施。  <br/> | 如何設定永不過期的使用者密碼。  <br/>  使用者不能刪除 Exchange Online 中的連絡人資訊。  <br/> |
 
 ### <a name="technical-support-initial-response-times"></a>技術支援的初始回應時間
 
@@ -105,7 +105,7 @@ Microsoft assigns a severity level to a case when it is opened, based on an asse
   
 ## <a name="shared-support-responsibilities"></a>共用支援責任
 
-Microsoft understands that receiving timely technical support from qualified professionals is a key aspect of cloud services. Equally important is the critical role that the customer's IT department plays in the support of its users.
+Microsoft 了解即時提供合格專業人員的技術支援是雲端服務的重點優勢。在提供使用者支援服務方面，客戶的 IT 部門同樣扮演著不可或缺的重要角色。
   
 ### <a name="administrator-role-and-responsibilities"></a>管理員角色和責任
 
@@ -131,7 +131,7 @@ Microsoft understands that receiving timely technical support from qualified pro
 
 - 使用 Microsoft 自助支援資源解決支援問題。
 
-The administrator is expected to provide initial assistance for the customer's users. However, if the administrator is unable to resolve issues with the help of self-service support resources, he or she should contact [Technical support](support.md#technical-support).
+管理員需為客戶的使用者提供初步協助。若管理員無法使用自助支援資源來解決問題，則需連絡[技術支援](support.md#technical-support)。
   
 ### <a name="microsoft-support-role"></a>Microsoft 支援角色
 
@@ -177,7 +177,7 @@ Microsoft 隨附的支援服務可滿足許多客戶的需求，具有更多高�
 
 ### <a name="partners"></a>協力程式
 
-You can select a Microsoft partner and delegate administrative functions, including creating service request tickets. For more information, see the [Partners](partners.md) service description and [Add, change, or delete a subscription advisor partner](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
+您可以選取 Microsoft 合作夥伴，並委派系統管理職責，包括建立服務要求票證。如需詳細資訊，請參閱[協力程式](partners.md)服務說明和〈[新增、變更或刪除訂閱顧問合作夥伴](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide)〉。
   
 ### <a name="developers"></a>開發人員
 

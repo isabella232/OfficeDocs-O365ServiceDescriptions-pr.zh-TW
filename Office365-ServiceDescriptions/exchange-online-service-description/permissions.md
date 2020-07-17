@@ -10,7 +10,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
-description: Microsoft Exchange Online uses a Role Based Access Control (RBAC) model to allow organization administrators to finely control what users and IT employees can do in the service. For example, if a compliance officer is responsible for mailbox search requests, the administrator can delegate this administrative feature to the officer through RBAC. Exchange Online uses the same RBAC framework as Microsoft Exchange Server 2013.
+description: Microsoft Exchange Online 使用角色型存取控制 (RBAC) 模式，讓組織管理員可以準確地控制哪些使用者與 IT 員工可在服務中作業。例如，如果法務人員負責信箱搜尋要求，系統管理員可以透過 RBAC 將管理功能委派給法務人員。Exchange Online 使用相同的 RBAC 框架作為 Microsoft Exchange Server 2013。
 ms.openlocfilehash: 0593c98857a7ce0c487c628018097395d7a5fe50
 ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
@@ -20,15 +20,15 @@ ms.locfileid: "45132687"
 ---
 # <a name="permissions"></a>權限
 
-Microsoft Exchange Online uses a Role Based Access Control (RBAC) model to allow organization administrators to finely control what users and IT employees can do in the service. For example, if a compliance officer is responsible for mailbox search requests, the administrator can delegate this administrative feature to the officer through RBAC. Exchange Online uses the same RBAC framework as Microsoft Exchange Server 2013. 
+Microsoft Exchange Online 使用角色型存取控制 (RBAC) 模式，讓組織管理員可以準確地控制哪些使用者與 IT 員工可在服務中作業。例如，如果法務人員負責信箱搜尋要求，系統管理員可以透過 RBAC 將管理功能委派給法務人員。Exchange Online 使用相同的 RBAC 框架作為 Microsoft Exchange Server 2013。 
   
-At its highest level, RBAC is made up of management roles, management role groups, and management role assignment policies. The following sections provide more information about each RBAC component.
+在其最高階層中，RBAC 由管理角色、管理角色群組和管理角色指派原則構成。以下各節提供有關每個 RBAC 元件的詳細資訊。
   
 如需有關用於 Exchange Online 的 RBAC 權限模型的詳細資訊，請參閱[權限](https://go.microsoft.com/fwlink/p/?LinkId=271935)。
   
 ## <a name="role-based-permissions"></a>角色型權限
 
-In Exchange Online, the permissions that you grant to administrators and users are based on management roles. A role defines the set of tasks that an administrator or user can perform. For example, a management role called  `Mail Recipients` defines the tasks that someone can perform on a set of mailboxes, contacts, and distribution groups. When a role is assigned to an administrator or user, that person is granted the permissions provided by the role. 
+在 Exchange Online 中，您授與系統管理員和使用者的權限都是以管理角色為基礎。角色定義了系統管理員或使用者所能執行的一組工作。例如，名為  `Mail Recipients` 的管理角色定義某個人可以對一組信箱、連絡人和通訊群組執行的工作。將角色指派給系統管理員或使用者後，該名人員便會獲得此角色所提供的權限。 
   
 角色可分成系統管理角色和使用者角色兩種類型：
   
@@ -36,9 +36,9 @@ In Exchange Online, the permissions that you grant to administrators and users a
     
 - **使用者角色**這些角色是使用角色指派原則所指派，讓使用者可以管理自己的信箱和擁有的通訊群組的各個層面。 使用者角色是以前置詞  `My` 作為開頭。
     
-Roles give administrators and users permissions to perform tasks by making cmdlets available to those who are assigned the roles. Because the Exchange admin center (EAC) and Exchange Management Shell use cmdlets to manage Exchange Online, granting access to a cmdlet gives the administrator or user permission to perform the task in each of the Exchange Online management interfaces.
+角色是透過讓角色指派對象能夠使用 Cmdlet 的方式，授與系統管理員和使用者執行工作的權限。由於 Exchange 系統管理中心 (EMC) 和 Exchange 管理命令介面會使用 Cmdlet 管理 Exchange Online，因此授與 Cmdlet 存取權即可授與管理員或使用者在每個 Exchange Online 管理介面中執行工作的權限。
   
-The role-based permissions for Microsoft Online Services overlap with those of Exchange Online RBAC in two ways. First, users who are Global Administrators or Service Administrators in Microsoft Online are automatically assigned to the Organization Management role group in Exchange Online. Second, users who are Help Desk Administrators in Microsoft Online are automatically assigned to the Help Desk role group in Exchange Online. Otherwise, the two security models are managed separately.
+Microsoft Online Service 的角色型權限以兩種方式與 Exchange Online RBAC 重疊。第一種為 Microsoft Online 的全域管理員或服務管理員會自動指派給 Exchange Online 的組織管理角色群組。第二種為 Microsoft Online 的服務中心管理員會自動指派給 Exchange Online 的服務中心角色群組。此外，兩種安全性模式為分別管理。
   
 > [!IMPORTANT]
 > 部分可在 Microsoft Exchange Server 2013 內部部署版本上使用的角色可能無法在 Exchange Online 中使用。 
@@ -56,7 +56,7 @@ The role-based permissions for Microsoft Online Services overlap with those of E
   
 ## <a name="role-assignment-policies"></a>角色指派原則
 
-Management role assignment policies associate end-user management roles to users. Role assignment policies consist of roles that control what users can do with their mailboxes or distribution groups. These roles don't allow management of features that aren't directly associated with the user. When you create a role assignment policy, you define everything a user can do with his or her mailbox. For example, a role assignment policy might allow a user to set the display name, set up voice mail, and configure Inbox rules. Another role assignment policy might allow a user to change the address, use text messaging, and set up distribution groups. Every user with an Exchange Online mailbox, including administrators, is given a role assignment policy by default. You can decide which role assignment policy should be assigned by default, choose what the default role assignment policy should include, override the default for certain mailboxes, or not assign any role assignment policies by default.
+管理角色指派原則會建立一般使用者管理角色和使用者的關聯。角色指派原則由控制使用者可以使用其信箱或通訊群組，執行哪些工作的角色所組成。這些角色不能管理與使用者沒有直接關聯的功能。當您建立角色指派原則，您便定義使用者可以使用其信箱執行的每一件工作。例如，角色指派原則可讓使用者設定顯示名稱、設定語音信箱和設定收件匣規則。其他角色指派原則，可讓使用者變更地址、使用文字郵件和設定通訊群組。包含系統管理員在內的每一位使用者都有一個 Exchange Online 信箱，預設會指定角色指派原則。您可以決定預設應指派哪一個角色指派原則、選擇應包含哪一個預設角色指派原則、覆寫某些信箱的預設值，或不指派預設的任何角色指派原則。
   
 > [!IMPORTANT]
 > 部分可在 Microsoft Exchange Server 2013 內部部署版本上使用的角色指派可能無法在 Exchange Online 中使用。 

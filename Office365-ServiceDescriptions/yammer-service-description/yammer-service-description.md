@@ -47,9 +47,9 @@ Yammer 可透過下列計劃取得：
 
 Yammer 會遵守[Microsoft 365 變更管理原則](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/)，但不會使用目標版本來推出更新。 
   
-All Yammer users are subject to A/B feature testing. This allows Microsoft to test features for stability, performance and experience improvement across many environments and devices. Users within the same network may have varying experiences due to testing. It is not possible for customers to opt out of A/B testing.
+所有 Yammer 使用者都需要接受 A/B 功能測試。這能讓 Microsoft 測試功能，以改善在多種環境與裝置中的穩定性、效能和體驗。同一網路內的使用者可能會因為接受測試而得到不同的體驗。客戶無法選擇退出 A/B 測試。
   
-Any changes (A/B tests, new features, deprecations, compliance boundaries, workflow changes) that require customer action or are expected to have a significant impact on customers will be communicated in advance. We've identified a scenario where Yammer makes a change that impacts a limited subset of users. An example of this might be changing or removing a capability, such as the Yammer Chrome Extension, that has low engagement but which a small number of users have enabled. In these cases, we believe direct communication to these users in addition to the usual communication channels to Verified Admins as listed in the above policy will deliver a good user experience for the subset of users impacted by a change. For changes categorized as either "Changes Requiring Action (Plan for Change)" or "Changes Requiring Awareness (Stay Informed)" that only affect a targeted set of users, we may directly notify those users. The following table has been updated to reflect this change. 
+如果要進行任何需要客戶採取動作或預期會對客戶造成重大影響的變更 (A/B 測試、新功能、取代、法務遵循界限、工作流程變更)，我們會事先發出通知。我們發現了一個 Yammer 所做的變更只會對少部分使用者造成影響的案例。例如，這有可能是變更或移除使用率偏低、但有少量使用者已啟用的功能 (例如 Yammer Chrome 延伸模組)。在這些情況下，我們相信除了平常與「驗證管理員」的溝通管道 (如前述原則所列) 以外，若能直接與這些使用者溝通，將可為少數受到變更影響的使用者帶來良好的使用者體驗。對於分類為「需要因應的變更 (為變更訂計劃)」或「需要知悉的變更 (持續留意)」，且只會影響到特定一組使用者的變更，我們可以直接通知這些使用者。下表已更新以反映此變更。 
   
 用來發出通知的管道視影響程度而定：
   

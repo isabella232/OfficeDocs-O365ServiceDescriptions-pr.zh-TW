@@ -26,7 +26,7 @@ Project Online 中提供下列任務管理功能。
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
-When you inactivate a task, it stays in the project plan but does not affect the following: resource availability, the project schedule, or how other tasks are scheduled. Learn more about [inactivating a task](https://go.microsoft.com/fwlink/p/?LinkId=271335).
+當您停用任務時，任務會保留在專案計劃內，但不會影響下列項目：資源可用性、專案排程或其他已排程的任務。深入了解[停用任務](https://go.microsoft.com/fwlink/p/?LinkId=271335)。
   
 ## <a name="auto-complete"></a>自動完成
 
@@ -42,7 +42,7 @@ When you inactivate a task, it stays in the project plan but does not affect the
   
 ## <a name="cross-project-critical-path"></a>跨專案的關鍵路徑
 
-A critical path is the series of tasks that must be completed on schedule for a project to finish on schedule. You can create, edit, and delete a dependency relationship with a task in another project. 
+關鍵路徑是必須定期完成的一連串任務，讓專案可以定期完成。您可以建立、編輯和刪除與其他專案任務的相依性關係。 
   
 ## <a name="task-inspector"></a>任務稽查員
 
@@ -50,7 +50,7 @@ A critical path is the series of tasks that must be completed on schedule for a 
   
 ## <a name="task-path-analysis"></a>任務路徑分析
 
-See how one task connects to other tasks by highlighting its task path throughout the project. Learn more about [highlighting how tasks link to other tasks](https://go.microsoft.com/fwlink/p/?LinkId=271345).
+透過在整個專案中醒目提示任務路徑，藉此查看某個任務與其他任務的連接方式。深入了解[醒目提示如何將任務連結到其他任務](https://go.microsoft.com/fwlink/p/?LinkId=271345)。
   
 ## <a name="top-down-summary-tasks"></a>由上而下摘要任務
 

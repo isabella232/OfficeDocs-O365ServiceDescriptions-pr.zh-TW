@@ -28,7 +28,7 @@ ms.locfileid: "45131527"
 
 Exchange Online Archiving 以封存信箱功能的形式，為使用者提供進階封存功能。 封存信箱是一種特殊的信箱，會出現在 Outlook 或網頁型 Outlook 中使用者的主要信箱資料夾旁。 使用者可以像存取主要信箱一樣來存取封存。 此外，使用者可以同時在封存和主要信箱中進行搜尋。
   
-Administrators can use the Exchange admin center (EAC) or remote Windows PowerShell to enable the archive feature for specific users. For more information, see [Enable or disable archive mailboxes in Exchange Online](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+系統管理員可以使用 Exchange 系統管理中心 (EAC) 或遠端 Windows PowerShell，為特定使用者啟用封存功能。如需詳細資訊，請參閱[啟用或停用 Exchange Online 中的封存信箱](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)。
   
 > [!IMPORTANT]
 >  禁止透過日誌記錄、傳輸規則或自動轉寄規則，將郵件複製到 Exchange Online Archiving信箱中進行封存。 <br/>
@@ -48,18 +48,18 @@ Administrators can use the Exchange admin center (EAC) or remote Windows PowerSh
     
 - 將電子郵件訊息從主要信箱拖曳至封存中。
     
-- Let archive policies automatically move email messages from the primary mailbox, based on the age of the messages. For more information, see [Retention Tags and Retention Policies](https://docs.microsoft.com/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies).
+- 讓封存原則根據電子郵件訊息的已存留時間，自動將郵件移出主要信箱。如需詳細資訊，請參閱[保留標記和保留原則](https://docs.microsoft.com/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)。
     
 > [!NOTE]
-> Administrators can also use Office 365 Import service to import .pst files to users' cloud-based archive mailboxes. For more information, see [Use network upload to import PST files to Office 365](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files). 
+> 系統管理員也可以使用 Office 365 匯入服務，將 .pst 檔案匯入到使用者的雲端型封存信箱。如需詳細資訊，請參閱[使用網路上傳將 PST 檔案匯入 Office 365](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)。 
   
 ## <a name="deleted-item-recovery"></a>復原已刪除的項目
 
-Users can restore items they have deleted from any email folder in their archive. When an item is deleted, it is kept in the archive's Deleted Items folder. It remains there until it is manually removed by the user, or automatically removed by retention policies.
+使用者可以在封存中還原已從任何電子郵件資料夾中刪除的郵件。郵件遭刪除時，會保留在封存的 [刪除的郵件] 資料夾中。該郵件會一直留在該處，直到遭使用者手動移除或遭保留原則自動移除為止。
   
 After an item has been removed from the archive's Deleted Items folder, the item is kept in the archive's Recoverable Items folder for an additional 14 days before being permanently removed. 使用者可以使用 Microsoft Outlook 或 web 上的 Outlook 中的 [**復原刪除的郵件**] 功能來復原這些專案。 
   
-If a user has manually purged an item from the Recoverable Items folder, an administrator can recover the item within the same 14 day window, through a feature called Single Item Recovery. This feature allows administrators to conduct a multi-mailbox search to find purged items and then use the  `Search-Mailbox` Windows PowerShell cmdlet to move the items from the discovery mailbox to users' mailboxes. For more information, see [Enable or disable single item recovery for a mailbox](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+如果使用者已從 [可復原的項目] 資料夾中手動清除某個郵件，則系統管理員可以透過名為「單一項目復原」的功能，同樣在這 14 天內復原郵件。此功能可讓系統管理員搜尋多個信箱來尋找已清除的郵件，然後使用  `Search-Mailbox` Windows PowerShell Cmdlet 將郵件從探索信箱移至使用者的信箱。如需詳細資訊，請參閱 [為信箱啟用或停用單一項目復原](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)。
   
 > [!NOTE]
 >  單一項目復原期間預設為 14 天，但在某些情況下，您可加以自訂。 <br/>
@@ -70,7 +70,7 @@ If a user has manually purged an item from the Recoverable Items folder, an admi
 當系統管理員從內部部署 Exchange Server 中刪除使用者時，使用者的封存也會遭到刪除。 如果需要復原已刪除的封存信箱，則 Microsoft 支援小組可以執行此修復。 復原的封存信箱將包含遭刪除時所有儲存在該信箱內的郵件。
   
 > [!IMPORTANT]
-> Administrators have 30 days from the time a user's mailbox is deleted to request an archive mailbox recovery. After 30 days, the archive mailbox is not recoverable. 
+> 自刪除使用者的信箱起，系統管理員有 30 天的時間可以要求復原封存信箱。超過 30 天後，就無法復原封存信箱。 
   
 ## <a name="mailbox-service-redundancy"></a>信箱服務備援
 

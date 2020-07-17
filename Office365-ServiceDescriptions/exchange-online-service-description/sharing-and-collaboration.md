@@ -34,9 +34,9 @@ ms.locfileid: "45132587"
   
 ## <a name="site-mailboxes"></a>網站信箱
 
-Email and documents are traditionally kept in two unique and separate data repositories. Most teams collaborate by using both email and documents. The challenge is that email and documents are accessed by using different clients. This usually results in a reduction in user productivity and a degraded user experience.
+電子郵件與文件將以傳統方式儲存於兩個獨特且分離的資料存放庫。大部分的團隊會同時使用電子郵件和文件來進行共同作業。挑戰在於電子郵件與文件皆使用不同客戶端存取。這通常是使用者生產力的下降以及使用者體驗的退化所產生的結果。
   
-The site mailbox is a new concept in Exchange 2013 that attempts to solve this problem. Site mailboxes improve collaboration and user productivity by using the same client interface to allow access to both Microsoft SharePoint 2013 documents and Exchange email. A site mailbox functionally consists of SharePoint 2013 site membership (owners and members), shared storage through an Exchange 2013 mailbox for email messages and a SharePoint 2013 site for documents, and a management interface that addresses provisioning and life cycle needs.
+網站信箱是 Exchange 2013 中的全新概念，目的為嘗試解決此問題。網站信箱使用同一個用戶端介面同時允許存取 Microsoft SharePoint 2013 文件和 Exchange 電子郵件，來改善共同作業和使用者的生產力。網站信箱功能是由 SharePoint 2013 網站成員資格 (擁有者和成員) 組成，透過 Exchange 2013 信箱的電子郵件與 SharePoint 2013 網站的文件共用儲存，並使用同一個管理介面來解決佈建和週期需求。
   
 > [!IMPORTANT]
 > 您的計畫必須包括 SharePoint。 網站信箱要求使用者同時具有 SharePoint 和 Exchange 的授權。 

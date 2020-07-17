@@ -125,7 +125,7 @@ Microsoft 提供的服務可透過高彈性系統進行傳遞，以協助維護�
 
 Microsoft 可確保客戶資料在需要時可透過下列功能取用：
   
-- **Data storage and redundancy:** Customer data is stored in a redundant environment with robust data protection capabilities to enable availability, business continuity, and rapid recovery. Multiple levels of data redundancy are implemented, ranging from redundant disks to guard against local disk failure to continuous, full data replication to a geographically diverse data center. 
+- **資料儲存與備援：** 透過健全的資料備份保護功能，客戶資料可儲存於備援環境中，以提供可用性、企業持續性和快速的回復能力。將實作多階層的資料備援，範圍從防止本機磁碟故障的備援磁碟到持續性、完整的資料複寫，到依地理位置不同的資料中心。 
     
 - **資料監視：** Microsoft 服務會維護高層次的效能，其方式如下： 
     
@@ -145,13 +145,13 @@ Microsoft 可確保客戶資料在需要時可透過下列功能取用：
 
 Microsoft 開發和作業團隊是以專屬支援組織為依據，這在提供客戶業務連續性方面起著重要的作用。 支援工作人員對於服務與其相關的應用程式具備專業知識，同時在架構、研發與測試方面也可直接獲得 Microsoft 專家的協助。
   
-The support organization closely aligns with operations and product development, offers fast resolution times and provides a channel for customers' voices to be heard. Feedback from customers provides input to the planning, development, and operations processes.
+支援組織與營運及產品研發有緊密關聯，不僅提供快速的解決時間，也為客戶的意見提供發表的管道。客戶的意見回饋也可嘉惠規劃、研發以及營運等程序。
   
 - **線上問題追蹤：** 客戶需得知自己的問題已在解決中，也須能即時追蹤解決進度。 Microsoft 365 padmin center ortal 提供單一 web 介面以提供支援。 客戶可使用入口網站來新增並監控服務請求，以及接收來自 Microsoft 支援團隊的回覆。 
     
 - **由持續性人員支援作為後盾的自我協助：** Microsoft 提供一系列自助資源和工具，可協助客戶解決與服務相關的問題而不需要 Microsoft 支援。 
     
-Before customers enter service requests, they can access knowledge base articles and FAQs that provide immediate help with the most common problems. These resources are continually updated with the latest information, which helps avoid delays by providing solutions to known issues. However, when an issue arises that needs the help of a support professional; staff members are available for immediate assistance by telephone and through the administration portal 24 hours a day, 7 days a week.
+在客戶輸入服務請求前，可先進入知識庫文章以及問答集來查看常見問題的即刻協助。這些資源將持續更新最新資訊，為已知問題提供解決方案以避免問題造成的延誤。但是，當提出的問題需要支援專家的幫助時，工作人員可透過電話或行政入口網站提供全年無休的立即協助。
   
 如需詳細資訊，請參閱[支援](support.md) 主題。 
   

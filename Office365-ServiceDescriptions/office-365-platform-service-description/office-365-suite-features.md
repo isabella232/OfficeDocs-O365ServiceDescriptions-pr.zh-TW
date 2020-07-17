@@ -56,7 +56,7 @@ MyAnalytics 提供您個人生產力中的兩個重要因素：您花的時間�
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
-Microsoft Planner is a tool that gives users a visual way to organize teamwork. Teams can create new plans, organize and assign tasks, share files, chat about what they're working on, set due dates, and update status. Microsoft Planner also offers the ability to associate documents with specific tasks, edit them together, and have conversations around tasks. To learn more, see [Introducing Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner is not yet available in [Office 365 Germany](office-365-germany.md).
+Microsoft Planner 是可讓使用者以視覺化方法組織團隊合作事宜的工具。小組可以建立新的計劃、組織並指派工作、共用檔案、暢談他們正在處理的工作、設定到期日及更新狀態。Microsoft Planner 也能夠將文件與特定工作產生關聯、同時編輯兩者，並針對工作進行交談。若要深入瞭解，請參閱〈[Microsoft Planner 簡介](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809)〉。[Office 365 Germany](office-365-germany.md) 中尚未提供 Planner。
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
@@ -92,7 +92,7 @@ Microsoft 365 中的群組可將使用者與同事、所需的資訊和應用程
   
 ## <a name="office-365-video"></a>Office 365 影片
 
-Office 365 Video is a secure, company-wide destination where you can upload, share and discover videos across your devices—powered by Microsoft Azure Media Services. Office 365 Video can help keep viewers engaged and informed, to communicate ideas broadly, and for organizations to be in unison. To learn more, see [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
+Office 365 影片是您可以在裝置上傳、共用與探索視訊的安全全公司目的地，由 Microsoft Azure 媒體服務提供。Office 365 影片可讓觀看者投入並掌握資訊、廣泛交換想法，並且讓組織維持一致。若要深入了解，請參閱[介紹 Office 365 影片](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/)。
   
 ## <a name="onenote-class-notebook"></a>OneNote 課程筆記本
 

@@ -42,11 +42,11 @@ Project Online 中提供下列核心功能功能。
   
 ## <a name="custom-fields"></a>自訂欄位
 
-In addition to the fields that are included with Project, you can also use custom fields to meet your organizational needs. To learn more about fields, see [Available fields reference](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
+除了 Project 所含的欄位之外，您也可以使用自訂欄位，以符合組織需求。若要深入了解欄位，請參閱[可用的欄位參照](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460)。
   
 ## <a name="enhanced-copy-and-paste-across-microsoft-office-applications"></a>跨 Microsoft Office 應用程式提供增強的複製和貼上
 
-Collaborate on schedule development by copying and pasting schedule details between Office applications, such as Word. Learn more about [copying and pasting from Word into Project](https://go.microsoft.com/fwlink/p/?LinkId=271330).
+透過在 Office 應用程式 (如 Word) 之間複製並貼上排程詳細資料，在排程開發上共同作業。深入了解[從 Word 複製並貼到 Project](https://go.microsoft.com/fwlink/p/?LinkId=271330)。
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>甘特圖、行事曆和任務工作表視圖
 
@@ -54,7 +54,7 @@ Collaborate on schedule development by copying and pasting schedule details betw
   
 ## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft 流暢的使用者介面，功能區
 
-Increase productivity with the ribbon, a tab interface that you can use to quickly find and use Project features and controls. [Learn more about the ribbon](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+使用功能區提高生產力，功能區是可用來快速尋找並使用 Project 功能與控制項的索引標籤介面。[深入了解功能區](https://go.microsoft.com/fwlink/p/?LinkId=271325)。
   
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
@@ -78,15 +78,15 @@ Increase productivity with the ribbon, a tab interface that you can use to quick
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
-If you're not sure of all the details for a project, you can use placeholder text, such as "TBD" for resources, start dates, end dates, and so on. For more information, see [Top-down planning](https://go.microsoft.com/fwlink/p/?LinkId=271333).
+如果您不確定專案的所有詳細資料，則可以使用預留位置文字 (如針對資源、開始日期、結束日期等使用 "TBD")。如需詳細資訊，請參閱[由上而下的計劃](https://go.microsoft.com/fwlink/p/?LinkId=271333)。
   
 ## <a name="project-templates"></a>專案範本
 
-You can save lots of time creating a project by using a past project as a template. See [Creating a new project from another project or template](https://go.microsoft.com/fwlink/p/?LinkId=271328).
+您可以使用過去的專案作為範本，節省許多建立專案的時間。請參閱[從其他專案或範本建立新專案](https://go.microsoft.com/fwlink/p/?LinkId=271328)。
   
 ## <a name="start-experience"></a>開始體驗
 
-Instead of dropping you into a blank project, Project 2013 presents a one-stop center for starting your project. You can use customer templates or a built-in guide to get you started in four easy steps.
+Project 2013 顯示一站式中心用於開始專案，而不是提供空白專案。您可以使用客戶範本或內建指南，以四個簡易步驟開始。
   
 ## <a name="text-wrap"></a>自動換行
 

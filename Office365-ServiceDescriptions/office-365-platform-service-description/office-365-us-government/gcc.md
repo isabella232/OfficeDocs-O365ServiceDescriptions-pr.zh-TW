@@ -20,7 +20,7 @@ ms.locfileid: "45131737"
 
 為了符合美國聯邦、State、Local 和部落政府的獨特和不斷演變的需求，以及承包商代表美國政府持有或處理資料，Microsoft 提供 Office 365 美國政府社區（GCC）服務。 可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 試用版目前僅供美國政府實體使用。 
   
-Please engage your account team or preferred partner to learn more, or initiate the validation process. Additional information can be found on the [Compare Office 365 Government Plans](https://products.office.com/government/compare-office-365-government-plans) page. 
+請洽詢您的客戶團隊或偏好的夥伴以瞭解詳細資訊，或啟動驗證程序。可在[比較 Office 365 政府版方案](https://products.office.com/government/compare-office-365-government-plans)頁面上找到其他資訊。 
   
 ## <a name="how-to-use-this-service-description-section"></a>如何使用此服務描述區段
 
@@ -28,7 +28,7 @@ Please engage your account team or preferred partner to learn more, or initiate 
   
 ## <a name="us-government-community-compliance"></a>美國政府社群符合性
 
-Office 365 US Government supports the Federal Risk and Authorization Management Program (FedRAMP) accreditation at a Moderate Impact level. FedRAMP artifacts are available for review by federal customers who are required to comply with FedRAMP. Federal agencies can review these artifacts in support of their review to grant an Authority to Operate (ATO).
+Office 365 US Government 支援中度影響等級的「聯邦風險與授權管理計劃 (FedRAMP)」資格鑑定。FedRAMP 的成品只會提供給必須遵守 FedRAMP 的聯邦客戶檢閱。聯邦機構可以檢閱這些成品，並以此作為授與操作授權 (ATO) 的証明。
   
 Office 365 US Government 也支援美國國防部的雲端運算安全性需求指南層級 2 (未受控管的未分類資訊) 系統。 
   
@@ -56,7 +56,7 @@ Office 365 人員沒有 Office 365 美國政府社群 中所裝載的客戶內�
   
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 US Government 社群雲端與 Yammer
 
-Yammer Enterprise is not a component of Office 365 US Government, but may be acquired at no cost as a standalone offer for each user licensed for Office 365 US Government Plan E1 and E3. This offer is currently limited to customers who purchase Office 365 US Government under Enterprise Agreement and Enterprise Subscription Agreements. 
+Yammer Enterprise 不是 Office 365 US Government 的元件，但每位獲得 Office 365 US Government 方案 E1 和 E3 授權的使用者都可以免費取得，做為獨立優惠。這項優惠目前僅限於透過 Enterprise 合約及 Enterprise Subscription 合約購買 Office 365 US Government 的客戶享有。 
   
 現階段 Yammar 在應用程式層以邏輯方式分隔客戶資料。 然而，Yammar 不提供與 Office 365 US Government 相同的資料位置和資料存取功能、不支援 FedRAMP 資格鑑定，且需遵守 Office 365 服務的不同合約條款。 建議您在評估組織的 Yammer 的適當用法時，檢查[yammer 服務的描述](../../yammer-service-description/yammer-service-description.md)和隱私權條款。 若要了解包括 Yammer 的 Office 365 政府方案，請參閱 [Office 365 US Government](office-365-us-government.md)。
   
@@ -64,7 +64,7 @@ Yammer Enterprise is not a component of Office 365 US Government, but may be acq
   
 ## <a name="office-365-us-government-community-and-myanalytics"></a>Office 365 US Government 社群雲端與 MyAnalytics
 
-MyAnalytics is designed and operated in accordance with the FedRAMP control implementation for Office 365 services, but has not yet been reviewed by a 3PAO as part of the Office 365 annual FedRAMP audit. If necessary, please consult with your compliance office before enabling MyAnalytics services for users in your organization.
+MyAnalytics 係根據 Office 365 服務的 FedRAMP 控制實作所設計及運作，但尚未在 Office 365 年度 FedRAMP 稽核程序中由 3PAO 檢閱。如有必要，請洽詢相容性辦公室，才能啟用您組織中使用者的 MyAnalytics 服務。
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 美國政府社區雲端（GCC）客戶支援
 

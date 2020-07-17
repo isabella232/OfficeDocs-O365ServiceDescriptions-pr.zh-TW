@@ -30,11 +30,11 @@ Project Online 中提供下列專案規劃功能。
   
 ## <a name="budget-planning"></a>預算規劃
 
-Budget planning allows you to compare current progress against a baseline that you set at the start of a project. Learn more about [earned value analysis](https://go.microsoft.com/fwlink/p/?LinkId=271336).
+預算規劃容許您比較目前的進度與專案開始時所設定的基準。深入了解[盈餘分析](https://go.microsoft.com/fwlink/p/?LinkId=271336)。
   
 ## <a name="compare-project-versions"></a>比較專案版本
 
-Compare two versions of a project. A report is created that shows what changed, such as the addition of new tasks.
+比較專案的兩個版本。會建立顯示變更內容的報告，例如新增任務。
   
 ## <a name="deadlines"></a>截止日期
 

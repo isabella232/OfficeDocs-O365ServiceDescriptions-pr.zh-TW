@@ -10,7 +10,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
-description: Microsoft Office is a powerful service that helps you unleash your best ideas, get things done, and stay connected on the go. Simply sign in for a personalized experience and all the most up-to-date Office applications, with new and enhanced features continually being added.
+description: Microsoft Office 是一套強大的服務產品，能協助您想出最棒的點子、完成工作並在行動間保持聯繫。只要登入以使用個人化體驗，所有最新的 Office 應用程式，以及新的增強功能都將持續加入。
 ms.openlocfilehash: 3ca3f34f9c60d4e922c2f8cdcf25dc76c6ee1c1d
 ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
@@ -20,7 +20,7 @@ ms.locfileid: "45131427"
 ---
 # <a name="office-applications"></a>Office 應用程式
 
-Microsoft Office is a powerful service that helps you unleash your best ideas, get things done, and stay connected on the go. Simply sign in for a personalized experience and all the most up-to-date Office applications, with new and enhanced features continually being added.
+Microsoft Office 是一套強大的服務產品，能協助您想出最棒的點子、完成工作並在行動間保持聯繫。只要登入以使用個人化體驗，所有最新的 Office 應用程式，以及新的增強功能都將持續加入。
   
 如需適用于企業、教育和政府組織的系統需求、每月訂閱型服務，請參閱[Microsoft 365 系統需求](https://products.office.com/office-system-requirements/#Office365forBEG)。
   
@@ -58,7 +58,7 @@ Microsoft Access 是適用於 Windows 作業系統的資料庫管理解決方案
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
-Microsoft InfoPath is a program that allows you to design, distribute, complete, and submit electronic forms. You may choose to add the InfoPath Form Web Part to a SharePoint Online site. Learn more about the [InfoPath Form Web Part](https://go.microsoft.com/fwlink/p/?LinkId=271687).
+Microsoft InfoPath 是一個允許您設計、散佈、完成與提交電子表格的程式。您可以選擇將 InfoPath 表單網頁組件加入 SharePoint Online 網站。深入瞭解 [InfoPath 表單網頁組件](https://go.microsoft.com/fwlink/p/?LinkId=271687)。
 
 若要瞭解 PowerApps，InfoPath 的後續功能可 SharePoint 在不撰寫程式碼的情況下提升業務生產力，請參閱[使用 PowerApps 自訂 SharePoint](https://powerapps.microsoft.com/infopath/)。
   

@@ -140,7 +140,7 @@ Microsoft 使用以表單為基礎的驗證，而且透過網路驗證流量永�
     
 - 若要提高安全性，使用者必須在第一次存取 Microsoft 服務時變更其密碼。 因此，在使用者可以存取 Microsoft 服務之前，他們必須登入 Microsoft 365 系統管理中心，以提示他們變更其密碼。
     
-- Admins can set the password expiration policy. For more information, see [Set a user's password expiration policy](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
+- 管理員可以設定密碼到期原則。如需詳細資訊，請參閱[設定使用者的密碼到期原則](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)。
     
 下列為具備雲端身份之使用者可用的密碼重設工具：
   
@@ -172,7 +172,7 @@ Microsoft 計費管理員可對訂閱詳細資料進行變更，例如使用者�
   
 ## <a name="administrator-roles"></a>系統管理員角色
 
-Office 365 Enterprise follows a role-based access control (RBAC) model: permissions and capabilities are defined by management roles. The person who signs up for Office 365 for his or her organization automatically becomes a global administrator, or top-level administrator. There are five administrator roles: global administrator, billing administrator, password administrator, service administrator, and user management administrator. For more information about administrator roles in Office 365 Enterprise, including how they apply to Exchange Online, SharePoint Online, and Skype for Business Online administration, see [Assigning administrator roles](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). If you are using Office 365 operated by 21Vianet in China, see [Assign admin roles in Office 365 for business](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
+Office 365 Enterprise 採用角色型存取控制 (RBAC) 模型：權限和功能依「管理角色」而有所不同。系統會自動將代替組織註冊使用 Office 365 的人員設為全域管理員或高階管理員。共有五種管理員角色：全域管理員、帳務管理員、密碼管理員、服務管理員和使用者管理管理員。如需有關 Office 365 Enterprise 管理員角色的詳細資訊 (包括他們如何應用 Exchange Online、SharePoint Online 和 商務用 Skype Online 管理)，請參閱[指派管理員角色](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11))。如果您在中國使用 21Vianet 運作的 Office 365，請參閱[在 Office 365 for business 中指派系統管理員角色](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)。
   
 ## <a name="delegated-administration-and-support-for-partners"></a>委派合作夥伴管理和支援
 
@@ -183,7 +183,7 @@ Office 365 Enterprise follows a role-based access control (RBAC) model: permissi
   
 ## <a name="azure-active-directory-services"></a>Azure Active Directory 服務
 
-Azure Active Directory (AD) brings comprehensive identity and access management capabilities to Office 365. It combines directory services, advanced identity governance, application access management and a rich standards-based platform for developers. To learn more about AD features in Office 365, see [Sign in page branding and cloud user self-service password reset](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Learn more about the [Free, Basic, and Premium editions of Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
+Azure Active Directory (AD) 將完整的身分識別與存取管理功能帶到 Office 365。它結合了目錄服務、進階身分識別管理、應用程式存取管理以及豐富的標準型開發人員平台。若要深入了解 Office 365 中的 AD 功能，請參閱[登入頁面商標及雲端使用者自助式密碼重設](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/)。深入了解 [Azure Active Directory 版本](https://msdn.microsoft.com/library/azure/dn532272.aspx)。 
   
 ## <a name="feature-availability"></a>功能可用性
 
