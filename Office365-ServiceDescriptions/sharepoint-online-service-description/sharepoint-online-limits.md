@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 瞭解 Microsoft 365 和獨立方案的 SharePoint 限制。
-ms.openlocfilehash: 2028f85fdf2998956e9f14bdcac13cc7902fad7e
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: 7c449c12c4dc29784757454223d6b5479fa109b8
+ms.sourcegitcommit: 325de2faa5a2f72cd464c957ed867d83b6c28469
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154361"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45229639"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -24,7 +24,7 @@ ms.locfileid: "45154361"
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Microsoft 365 商務基本或商務版 Premium** <br/> |**Microsoft 365 E3 或 E5、Office 365 Enterprise E1、E3 或 E5，或 SharePoint 方案1或2** <br/> | **Microsoft 365 F1 或 F3，Office 365 Enterprise F3** <br/> |
+|**功能** <br/> |**Microsoft 365 商務基本、商務標準或商務版特優** <br/> |**Microsoft 365 E3 或 E5、Office 365 Enterprise E1、E3 或 E5，或 SharePoint 方案1或2** <br/> | **Microsoft 365 F1 或 F3，Office 365 Enterprise F3** <br/> |
 |每個組織的總儲存量<sup>1，2，6</sup> <br/> |每個授權購買 1 TB 外加 10 GB<sup>3</sup>  <br/> |每個授權購買 1 TB 外加 10 GB<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |每個網站最大儲存體（網站集合）<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |每個組織的網站（網站集合）  <br/> |2000000<sup>6</sup> <br/> |2000000<sup>6</sup> <br/> |2000000<br/> |
@@ -83,7 +83,7 @@ ms.locfileid: "45154361"
 
 ### <a name="sharepoint-groups"></a>SharePoint 群組
 
-使用者可以隸屬于5000群組，每個群組可以有最多5000個使用者。 您最多可以有10000個群組的網站（網站集合）。
+使用者可以隸屬于每個網站（網站集合）的5000群組，而每個群組可以有最多5000個使用者。 您最多可以有10000個群組的網站（網站集合）。
 
 > [!NOTE]
 > 針對 Azure AD 群組限制，請參閱[AZURE ad 服務限制和限制](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions)，因為這類限制可能會影響公用和私人群組網站成員資格管理。 
@@ -115,6 +115,6 @@ ms.locfileid: "45154361"
 > [!NOTE]
 > 您可以邀請 SharePoint 網站的客人數目沒有限制。 如需外部共用的詳細資訊，請參閱[外部共用一覽](/sharepoint/external-sharing-overview)。
 
-## <a name="see-also"></a>另請參閱
+## <a name="see-also"></a>請參閱
 
 [SharePoint 的搜尋限制](/sharepoint/search-limits)
