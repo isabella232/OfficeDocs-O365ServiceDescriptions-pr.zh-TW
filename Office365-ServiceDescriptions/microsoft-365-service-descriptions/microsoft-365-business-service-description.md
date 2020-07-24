@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務版是整合式解決方案，利用高級安全性和裝置管理功能，將一流的生產力整合在一起，以協助保護您的企業。 此服務描述說明方案選項及功能。
-ms.openlocfilehash: 429629deddd4565332e8d429db72da580beaa971
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: 8294146d8271e081a87e5ce28fbc2d4c077c4376
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201553"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388109"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 商務進階版服務描述
 
@@ -73,19 +73,19 @@ Microsoft 365 商務版基本上包含 Microsoft 365 商務標準中所有可用
 |Microsoft Identity Manager （MIM）使用者 CAL  <br/> |否  <br/> |是<sup>9</sup>  <br/> |是  <br/> |
 |Connect Health  <br/> |否  <br/> |是<sup>9</sup>  <br/> |是  <br/> |
 |SLA 99.9%  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[裝置和應用程式管理](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 商務版 Premium 包括 iOS、Android、Mac OS 和其他跨平臺裝置管理的完整 Intune 功能。<sup>8</sup> <br/> |**Microsoft 365 商務標準版** <br/> |**Microsoft 365 商務進階版** <br/> |**企業行動性 + 安全性 E3** <br/> |
-|適用于電腦、Mac 及行動裝置<sup>5</sup>的 Intune 行動裝置管理（MDM） <br/> |否  <br/> |是  <br/> |是  <br/> |
-|行動裝置管理（MDM）自動註冊  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|適用于 Office 應用程式及 LOB 應用程式的 Intune 行動應用程式管理（MAM）<br/> |否  <br/> |是  <br/> |是  <br/> |
-|Windows 更新管理、Defender、防火牆原則<sup>5</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
-|資料保護-選擇性擦除  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|針對原則的安全性群組（SG）  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|在已註冊的 Windows 10 裝置上安裝 Office 應用程式  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Windows Defender 設定  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|部署裝置設定檔與安全性設定<sup>5</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
-|使用 Azure AD 加入的 Windows 10 Enterprise State 漫遊  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|自助 BitLocker 復原  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Windows 虛擬桌面 <br/> |否 <br/> |是 <br/> |是 <br/> |
+|[裝置和應用程式管理](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 商務版 Premium 包括 iOS、Android、Mac OS 和其他跨平臺裝置管理的完整 Intune 功能。<sup>8</sup> <br/> |**Microsoft 365 商務標準版** <br/> |**Microsoft 365 商務進階版** <br/> |
+|適用于電腦、Mac 及行動裝置<sup>5</sup>的 Intune 行動裝置管理（MDM） <br/> |否  <br/> |是  <br/> |
+|行動裝置管理（MDM）自動註冊  <br/> |否  <br/> |是  <br/> |
+|適用于 Office 應用程式及 LOB 應用程式的 Intune 行動應用程式管理（MAM）<br/> |否  <br/> |是  <br/> |
+|Windows 更新管理、Defender、防火牆原則<sup>5</sup> <br/> |否  <br/> |是  <br/> |
+|資料保護-選擇性擦除  <br/> |是  <br/> |是  <br/> |
+|針對原則的安全性群組（SG）  <br/> |否  <br/> |是  <br/> |
+|在已註冊的 Windows 10 裝置上安裝 Office 應用程式  <br/> |否  <br/> |是  <br/> |
+|Windows Defender 設定  <br/> |否  <br/> |是  <br/> |
+|部署裝置設定檔與安全性設定<sup>5</sup> <br/> |否  <br/> |是  <br/> |
+|使用 Azure AD 加入的 Windows 10 Enterprise State 漫遊  <br/> |否  <br/> |是  <br/> |
+|自助 BitLocker 復原  <br/> |否  <br/> |是  <br/> |
+|Windows 虛擬桌面 <br/> |否 <br/> |是 <br/> |
 
 |||
 |:-----|:-----|

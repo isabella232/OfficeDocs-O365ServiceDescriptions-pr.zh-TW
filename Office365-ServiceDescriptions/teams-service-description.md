@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 團隊提供立即訊息、檔案與資料共同作業、音訊和影片通話、豐富的線上會議、行動經驗和大量的 web 會議功能。
-ms.openlocfilehash: bf8d879e002539753d0fd125fdb97f06ae4a6860
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e017d2ee8291bab0edf7c866b0d53b02dcfe7371
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131987"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388089"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服務描述
 
@@ -56,19 +56,18 @@ Microsoft 團隊並非獨立服務提供。
 |聊天  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Teams  <br/> |是 <br/> |是 <br/> |是 <br/> |是<sup>1</sup>  <br/> |是<sup>1</sup>  <br/> |是  <br/> |
 |通道-標準  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通道-私人  <br/> |是  <br/> |是<sup>2</sup>  <br/> |否<sup>3</sup>  <br/> |否<sup>3</sup>  <br/> |否<sup>3</sup>  <br/> |是  <br/> |
+|通道-私人  <br/> |是  <br/> |是<sup>2</sup>  <br/> |否  <br/> |否  <br/> |否 <br/> |是  <br/> |
 |會議  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Audio/Video 桌面 PowerPoint 螢幕共用 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |語音  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |音訊會議  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|應用程式、Bot、& 連接器  <br/> |是  <br/> |是  <br/> |是<sup>4</sup>  <br/> |是<sup>4</sup>  <br/> |是<sup>4</sup>  <br/> |是  <br/> |
-|即時事件  <br/> |否  <br/> |是  <br/> |是  <br/> |否<sup>5</sup>  <br/> |否<sup>5</sup>  <br/> |是  <br/> |
+|應用程式、Bot、& 連接器  <br/> |是  <br/> |是  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是  <br/> |
+|即時事件  <br/> |否  <br/> |是  <br/> |是  <br/> |否<sup>4</sup>  <br/> |否<sup>4</sup>  <br/> |是  <br/> |
 
 <sup>1</sup>在 GCC 中的 Microsoft 團隊-高和 DOD 支援2500成員在個別小組中。<br/>
 <sup>2</sup> Microsoft Planner 目前無法存取私人通道。<br/>
-<sup>3</sup>此時無法在 GCC 雲端中使用專用通道。 將會在訊息中心發行有關可用性的進一步更新。<br/>
-<sup>4</sup>不提供 DOD 雲彩中的 Microsoft OneNote。 在這兩個雲中，應用程式和應用程式發佈皆無法使用。<br/>
-目前在 GCC-High 或 DOD 中無法使用<sup>5</sup>項 Live 事件。<br/>
+<sup>3</sup>不提供 DOD 雲彩的 Microsoft OneNote。 在這兩個雲中，應用程式和應用程式發佈皆無法使用。<br/>
+目前在 GCC-High 或 DOD 中無法使用<sup>4</sup> Live 事件。<br/>
 
 ## <a name="next-steps"></a>後續步驟
 

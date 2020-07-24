@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用于在美國聯邦、state、local、部落或 territorial 政府機構或其他實體中，處理政府法規和需求之相關資料的 IT 專業365人員，其使用 Microsoft 365 政府-GCC，以符合這些需求。
-ms.openlocfilehash: 650a4131e7d028222d46d48a1d7304363acd6167
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 1e172588c21c15bd0422edb12d5024764f56ead7
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132457"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388099"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>規劃 Microsoft 365 合規性– GCC
 
@@ -75,7 +75,7 @@ Microsoft 365 政府版的環境符合美國政府對雲端服務的需求，包
 |                                         | 建議原則                            | 在工程處理積壓工作 |
 |                                         | 智慧匯入篩選                            | 在工程處理積壓工作 |
 |                                         | 事件型保留                           | 可以使用              |
-|                                         | 處置評審                              | 可以使用              |
+|                                         | 處置檢閱                              | 可以使用              |
 |                                         | 資訊屏障                            | 可以使用              |
 |                                         | 檔和電子郵件的資料遺失防護（DLP）  | 可以使用              |
 |                                         | DLP 用於小組聊天及通道交談    | 在工程處理積壓工作 |
@@ -89,29 +89,29 @@ Microsoft 365 政府版的環境符合美國政府對雲端服務的需求，包
 |                                         | 客戶加密箱                                | 可以使用              |
 |                                         | 客戶金鑰                                    | 可以使用              |
 |                                         | 特殊權限存取管理                    | 在工程處理積壓工作 |
-| **探索 & 回應**                  | 就地保留                            | 可以使用              |
-|                                         | 案例管理                                 | 可以使用              |
-|                                         | 搜尋                                          | 可以使用              |
-|                                         | 匯出                                          | 可以使用              |
-|                                         | RMS 解密                                  | 可以使用              |
-|                                         | 原生匯出                                   | 可以使用              |
-|                                         | 稽核                                        | 可以使用              |
-|                                         | 高級處理                             | 在工程處理積壓工作 |
-|                                         | 電子郵件執行緒                                 | 在工程處理積壓工作 |
-|                                         | 接近重複識別                   | 在工程處理積壓工作 |
-|                                         | 佈景主題                                          | 在工程處理積壓工作 |
-|                                         | 預測編碼                               | 在工程處理積壓工作 |
-|                                         | 使用 load file 處理匯出                 | 在工程處理積壓工作 |
-|                                         | 標記                                         | 在工程處理積壓工作 |
-|                                         | 檢視者                                         | 在工程處理積壓工作 |
-|                                         | 密文                                      | 在工程處理積壓工作 |
-|                                         | 篩選                                       | 在工程處理積壓工作 |
-|                                         | 管理員進行工作負載對應                   | 在工程處理積壓工作 |
-|                                         | 管理員通訊                        | 在工程處理積壓工作 |
-|                                         | 檢查集合                                     | 在工程處理積壓工作 |
-|                                         | 審閱和批註                             | 在工程處理積壓工作 |
-|                                         | 非 Office 365 攝取                        | 在工程處理積壓工作 |
-|                                         | 搜尋字詞報告                              | 在工程處理積壓工作 |
+| **探索 & 回應**                  | 核心 eDiscovery：就地保留                            | 可以使用              |
+|                                         | 核心 eDiscovery：案例管理                                 | 可以使用              |
+|                                         | 核心電子檔探索：搜尋                                          | 可以使用              |
+|                                         | 核心 eDiscovery：匯出                                          | 可以使用              |
+|                                         | 核心 eDiscovery： RMS 解密                                  | 可以使用              |
+|                                         | 核心 eDiscovery：原生匯出                                   | 可以使用              |
+|                                         | 核心電子檔探索：審計                                        | 可以使用              |
+|                                         | Advanced eDiscovery：高級處理                             | 可以使用 |
+|                                         | Advanced eDiscovery：電子郵件執行緒                                 | 可以使用 |
+|                                         | Advanced eDiscovery：接近重複識別                   | 可以使用 |
+|                                         | Advanced eDiscovery：主題                                          | 可以使用 |
+|                                         | Advanced eDiscovery：預測編碼                               | 可以使用 |
+|                                         | Advanced eDiscovery：已使用載入檔案處理匯出                 | 可以使用 |
+|                                         | Advanced eDiscovery：標記                                         | 可以使用 |
+|                                         | Advanced eDiscovery： Viewer                                         | 可以使用 |
+|                                         | Advanced eDiscovery：密文                                      | 可以使用 |
+|                                         | Advanced eDiscovery：篩選                                       | 可以使用 |
+|                                         | Advanced eDiscovery：保管人 to 工作負載對應                   | 可以使用 |
+|                                         | Advanced eDiscovery：保管人通訊                        | 可以使用 |
+|                                         | Advanced eDiscovery：複查集                                     | 可以使用 |
+|                                         | Advanced eDiscovery：回顧和批註                             | 可以使用 |
+|                                         | Advanced eDiscovery：非 Office 365 攝取                        | 可以使用 |
+|                                         | Advanced eDiscovery：搜尋字詞報告                              | 可以使用 |
 
 <sup>1</sup>識別的狀態視專案方案和優先順序重新評估而變更。<br/>
 <sup>2</sup>手動應用程式標籤需要[Azure 資訊保護（AIP）用戶端版本 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)。
