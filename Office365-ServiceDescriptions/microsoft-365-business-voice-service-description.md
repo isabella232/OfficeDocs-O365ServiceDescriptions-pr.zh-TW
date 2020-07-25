@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商務語音是一項增益集服務，可讓您使用 Microsoft 小組進行電話通話。 這會結合電話系統、國內通話方案、SMS 和音訊會議。
-ms.openlocfilehash: 0653be3875dd2e8713f06ed84d9e0d9081eed3c0
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: ea550a8e1815d517d21603ff3e648f4841226d21
+ms.sourcegitcommit: 8a6dfe9474079943aa1cff1eed4c302fc81f07f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679590"
+ms.lasthandoff: 07/24/2020
+ms.locfileid: "45410211"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 商務版語音服務描述
 
@@ -33,12 +33,12 @@ Microsoft 365 商務語音可搭配下列訂閱和高達300授權：
 - Microsoft 365 F1
 - Microsoft 365 F3
 - Office 365 F3
-- Microsoft 和 Office 365 Enterprise E1、E3 或 E5
-- Microsoft 365 和 Office 365 教育版 A1、A3 或 A5
-- Microsoft 365 和 Office 365 政府 G1、G3 或 G5 （僅限 GCC）
+- Microsoft 和 Office 365 Enterprise E1 或 E3
+- Microsoft 365 和 Office 365 教育版 A1 或 A3
+- Microsoft 365 和 Office 365 政府版 G1 或 G3
 - Microsoft 365 非贏利商業基本版
 - Microsoft 365 非盈利性商務標準
-- Microsoft 365 和 Office 365 非贏利 E1、E3 或 E5
+- Microsoft 365 和 Office 365 非贏利 E1 或 E3
 
 ## <a name="microsoft-365-business-voice-features"></a>Microsoft 365 商務語音功能
 
