@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
-ms.openlocfilehash: c5fd2ac24f69dae3e87cf273e32cc5fd2eec3170
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: cb87b3890ed02248f88428d94f5a4149f0f9a0e0
+ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201567"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46501712"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -491,6 +491,11 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |轉寄者限制|10 位收件者|10 位收件者|10 位收件者|10 位收件者|10 位收件者|10 位收件者|
 |重新導向郵件的次數|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|
 |傳輸規則重新導向郵件的次數|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|
+|重新導向郵件的次數|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|1 次重新導向|
+|收件匣規則|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|
+
+> [!NOTE]
+> <sup>1</sup>如果信箱已遷移至 Exchange Online，則收件匣規則限制可能會設定為低於預設 EXO 值的值。 如果是這種情況，則可以遵循這一項來增加該值。 
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>不同獨立選項中的日誌、傳輸和收件匣規則限制
 

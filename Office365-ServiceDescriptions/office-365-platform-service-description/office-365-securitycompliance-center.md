@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全性與 &amp; 合規性中心的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-ms.openlocfilehash: 4ab535757c0d192c4d790a7aeacfba9e73d4157f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: d2ec7d1de214d513b90fae6a498ad0b8dacf98f4
+ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131787"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46501702"
 ---
 # <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 
@@ -36,7 +36,7 @@ ms.locfileid: "45131787"
 |[高級威脅管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)，例如網路釣魚活動的威脅瀏覽器<sup>6</sup>  |否   |否   |否   |否   |否   |是   |否   |
 |[客戶加密箱](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |否   |否   |否   |否   |否   |是   |否   |
 |[行動裝置管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |是   |是   |是   |是   |是   |是   |是   |
-|Business<sup>7，9</sup>的[Exchange Online、SharePoint Online 和 OneDrive 資料遺失防護](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) |否   |否   |否   |否   |是   |是   |否   |
+|Business<sup>7，9</sup>的[Exchange Online、SharePoint Online 和 OneDrive 資料遺失防護](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) |否   |是  |是   |否   |是   |是   |否   |
 |[Microsoft 小組的通訊資料遺失防護](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |否   |否   |否   |否   |否   |是  |
 |[手動敏感度標籤](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 否 | 否  |否   | 是 | 是 | 是 | 否  |
 |自動敏感度標籤| 否 | 否  |否  | 否 | 否 | 是<sup>13</sup> | 否  |
