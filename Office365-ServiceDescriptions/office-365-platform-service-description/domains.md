@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: 當您新增網域時，逐步嚮導會協助您新增使用者，並將您的電子郵件地址和其他服務轉換為您的公司名稱。 當您完成該嚮導後，您的企業電子郵件會從 Microsoft 開始，而不是移至目前的電子郵件提供者。 若要深入瞭解，請參閱將您的使用者與網域新增至 Microsoft。 如果使用 21Vianet 運作的 Office 365，請參閱驗證您的網域。
-ms.openlocfilehash: b6bbd87a1c3f303ceec0de90b42b322ba513d354
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 109dd15af75c8e3e04406a63c8868e010c12b9c5
+ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132396"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46531216"
 ---
 # <a name="domains"></a>網域
 
@@ -26,7 +26,7 @@ ms.locfileid: "45132396"
   
 ## <a name="custom-domains"></a>自訂網域
 
-您最多可以將900個網域新增至您的訂閱。 不過，您不能將已經在其他 Microsoft 雲端服務中使用的網域新增到 Office 365。 這表示您無法將相同的網域新增至多個訂閱。 如需詳細資訊，請參閱[網域常見問題](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)。
+您最多可以將900個網域新增至您的訂閱（包括子域）。 您無法將網域新增至您已在其他 Microsoft 雲端服務中使用的 Microsoft 365。 這表示您無法將相同的網域新增至多個訂閱。 如需詳細資訊，請參閱[網域常見問題](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)。
   
 ### <a name="second-and-third-level-domains"></a>第二層和第三層網域
 
