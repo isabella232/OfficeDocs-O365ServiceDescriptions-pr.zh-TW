@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office for web （先前稱為 Office Web Apps）會在網頁瀏覽器中開啟 Word、Excel、OneNote 及 PowerPoint 檔。 Office for web 可讓您更輕鬆地從任何地方使用網際網路連線與共享 Office 檔案，從幾乎任何裝置。 Microsoft 365 客戶使用 Word、Excel、OneNote 或 PowerPoint 可以在旅途中查看、建立及編輯檔案。
-ms.openlocfilehash: ffba59a00e21401038d999a508a82e19f63e90e3
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Office for web (先前的 Office Web Apps) 會在網頁瀏覽器中開啟 Word、Excel、OneNote 及 PowerPoint 檔。 Office for web 可讓您更輕鬆地從任何地方使用網際網路連線與共享 Office 檔案，從幾乎任何裝置。 Microsoft 365 客戶使用 Word、Excel、OneNote 或 PowerPoint 可以在旅途中查看、建立及編輯檔案。
+ms.openlocfilehash: dec64054bf9f845e1174c216a0fc87f29437f5b2
+ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131327"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616919"
 ---
 # <a name="office-for-the-web-service-description"></a>網頁版 Office 服務描述
 
-Office for web （先前稱為 Office Web Apps）會在網頁瀏覽器中開啟 Word、Excel、OneNote 及 PowerPoint 檔。 Office for web 可讓您更輕鬆地從任何地方使用網際網路連線與共享 Office 檔案，從幾乎任何裝置。 Microsoft 365 客戶使用 Word、Excel、OneNote 或 PowerPoint 可以在旅途中查看、建立及編輯檔案。 
+Office for web (先前的 Office Web Apps) 會在網頁瀏覽器中開啟 Word、Excel、OneNote 及 PowerPoint 檔。 Office for web 可讓您更輕鬆地從任何地方使用網際網路連線與共享 Office 檔案，從幾乎任何裝置。 Microsoft 365 客戶使用 Word、Excel、OneNote 或 PowerPoint 可以在旅途中查看、建立及編輯檔案。 
   
 若要跨方案比較功能，請參閱[強大的工具來支援您的企業](https://products.office.com/business/compare-more-office-365-for-business-plans)。
   
@@ -29,10 +29,10 @@ Office for web （先前稱為 Office Web Apps）會在網頁瀏覽器中開啟 
 需要協助找出最適合組織需求的 Office 解決方案嗎？ 下表比較 Office for web 功能與功能豐富的 Microsoft Office 桌面應用程式的功能。 使用表格來探索可用於 web 的 Office 功能，然後選取功能名稱，以閱讀有關該功能如何運作的簡短說明。 您可能會發現組織中的某些人員需要 Excel 桌面應用程式的「高級圖表功能」，而其他人只需要查看和輕輕鬆地編輯 Word 檔，並使用 web Office 來 PowerPoint 簡報。 
   
 > [!NOTE]
->  Office 桌面套件涵蓋了 Office 的有限精選功能，提供進階功能讓您運用。 此資料表未完整列出 Microsoft Office 的功能。 <br/>  Microsoft Microsoft 365 應用程式企業版是最新版 Office 桌面套件的月度訂閱服務。 <br/>  如果 Microsoft Office Online 伺服器內部部署客戶已購買 Office 桌面套件授權（例如： Office Professional Plus、Office Standard 或 Microsoft 365 應用程式企業版授權），則會取得適用于 web 編輯授權的 Office。 
+>  Office 桌面套件涵蓋了 Office 的有限精選功能，提供進階功能讓您運用。 此資料表未完整列出 Microsoft Office 的功能。 <br/>  Microsoft Microsoft 365 應用程式企業版是最新版 Office 桌面套件的月度訂閱服務。 <br/>  如果 Microsoft Office Online 伺服器內部部署客戶已購買 Office 桌面套件授權 (（如 Office Professional Plus、Office Standard 或 Microsoft 365 應用程式的企業版授權) ），則會取得 Office 以供 web 編輯授權使用。 
   
 > [!NOTE]
-> 當您以 Outlook 電子郵件附件或從 SharePoint 文件庫開啟 Office 檔時，該檔將會在 Office 中啟動，而且會是唯讀的。 若要在 Office 中編輯網站（編輯模式）的檔，您需要套件授權，例如 Office 365 Enterprise E1。 若要在桌面應用程式中編輯檔，您需要 Office 桌面套件授權，例如 Microsoft 365 Apps for enterprise 訂閱或已安裝版本的 Office Professional Plus 2010。 
+> 當您以 Outlook 電子郵件附件或從 SharePoint 文件庫開啟 Office 檔時，該檔將會在 Office 中啟動，而且會是唯讀的。 若要在 Office 中為 web (編輯模式) 編輯檔，您需要套件授權，例如 Office 365 Enterprise E1。 若要在桌面應用程式中編輯檔，您需要 Office 桌面套件授權，例如 Microsoft 365 Apps for enterprise 訂閱或已安裝版本的 Office Professional Plus 2010。 
   
 ### <a name="word"></a>Word
 
@@ -63,7 +63,7 @@ Office for web （先前稱為 Office Web Apps）會在網頁瀏覽器中開啟 
 |[頁首和頁尾](word-online.md#headers-and-footers) <br/> |是  <br/> |是  <br/> |
 |[超連結](word-online.md#hyperlinks) <br/> |是  <br/> |是  <br/> |
 |[索引](word-online.md#index) <br/> |否<sup>1</sup> <br/> |是  <br/> |
-|[手寫體編輯器](word-online.md#ink-editor) <br/> |否  <br/> |是  <br/> |
+|[手寫體編輯器] <br/> |否  <br/> |是  <br/> |
 |[插入線上圖片](word-online.md#insert-online-pictures) <br/> |是  <br/> |是  <br/> |
 |[IRM 和密碼保護](word-online.md#irm-and-password-protection) <br/> |否  <br/> |是  <br/> |
 |[學習工具](word-online.md#learning-tools) <br/> |否  <br/> |是  <br/> |
@@ -135,8 +135,8 @@ Office for web （先前稱為 Office Web Apps）會在網頁瀏覽器中開啟 
 |[資料驗證](excel-online.md#data-validation) <br/> |是 <br/> |是  <br/> |
 |[拖放儲存格](excel-online.md#drag-and-drop-cells) <br/> |是  <br/> |是  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |是  <br/> |是  <br/>|
-|[重複（複製）工作表](excel-online.md#duplicate-copy-worksheets) <br/> |是  <br/> |是  <br/>|
-|[在網頁或博客頁面上嵌入活頁簿（OneDrive）](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |是  <br/> |否  <br/> |
+|[重複的 (複製工作表) ](excel-online.md#duplicate-copy-worksheets) <br/> |是  <br/> |是  <br/>|
+|[在網頁或博客頁面上嵌入活頁簿 (OneDrive) ](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |是  <br/> |否  <br/> |
 |[外部參照](excel-online.md#external-references-links) <br/> |否<sup>4</sup> <br/> |是  <br/> |
 |[填滿控點](excel-online.md#fill-handle) <br/> |是  <br/> |是  <br/> |
 |[尋找](excel-online.md#find) <br/> |是  <br/> |是  <br/> |
@@ -191,7 +191,7 @@ Office for web （先前稱為 Office Web Apps）會在網頁瀏覽器中開啟 
 > [!NOTE] 
 > <sup>1</sup>無法建立 PivotCharts，只供查看。
  <br/><sup>2</sup>視您的環境設定方式而定，某些類型的資料連線支援網頁版 Excel 中顯示的活頁簿。 如需詳細資訊，請參閱 在瀏覽器視窗中重新整理活頁簿的資料。 
- <br/><sup>3</sup>您無法在 Excel for web 中建立或執行含有 vba 的宏，但您可以開啟和編輯已啟用 vba 功能的試算表，而不移除（或損毀）檔案中所含的 vba。
+ <br/><sup>3</sup>您無法在 Excel for web 中建立或執行含有 vba 的宏，但是您可以開啟和編輯已啟用 VBA 功能的試算表，而不移除 (或破壞) 該檔案中所含的 vba。
  <br/><sup>4</sup>在網頁版 Excel 中，最後一個已知的參考值會顯示在瀏覽器視窗中。不過，必須使用 Excel 桌面應用程式來更新它。 
  <br/><sup>5</sup> 可使用部份但非全部的 Office 增益集。 
   
@@ -241,7 +241,7 @@ Office for web （先前稱為 Office Web Apps）會在網頁瀏覽器中開啟 
 > [!NOTE]
 > <sup>1</sup>在網路的 OneNote 中，您可以移動筆記本中的區段，並將頁面從一個區段複製並貼到另一個區段。 
  <br/> <sup>2</sup>有些（但非全部） Office 增益集可供使用。 
- <br/><sup>3</sup>您可以搜尋頁面或區段，但不能搜尋整個筆記本或跨筆記本（如您在桌上出版本中所能）。
+ <br/><sup>3</sup>您可以在桌上出版本) 中搜尋頁面或區段，但不是整個筆記本或跨筆記本 (。
  <br/><sup>4</sup>在桌上出版本中，沒有「下載」選項，但您可以另存為另一個位置。 
   
 ### <a name="powerpoint"></a>PowerPoint

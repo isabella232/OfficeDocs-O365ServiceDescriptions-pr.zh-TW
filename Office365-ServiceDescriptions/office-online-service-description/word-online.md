@@ -12,17 +12,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: 網頁版（先前稱為 Word Web App）可將您的 Microsoft Word 體驗延伸至網頁瀏覽器，讓您在儲存檔的網站上直接使用檔。
-ms.openlocfilehash: c08017d34dc866bc2e0cecadb62269d31c9f44dc
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Word for web (先前的 Word Web App) 會將您的 Microsoft Word 體驗延伸至網頁瀏覽器，您可以在其中儲存檔的網站上直接使用檔。
+ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
+ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131297"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616909"
 ---
 # <a name="word-for-the-web"></a>Word 網頁版
 
-網頁版（先前稱為 Word Web App）可將您的 Microsoft Word 體驗延伸至網頁瀏覽器，讓您在儲存檔的網站上直接使用檔。 
+Word for web (先前的 Word Web App) 會將您的 Microsoft Word 體驗延伸至網頁瀏覽器，您可以在其中儲存檔的網站上直接使用檔。 
   
 ## <a name="alignment-guides-and-live-layout"></a>對齊方式指南和即時配置
 
@@ -128,17 +128,13 @@ Microsoft Word 包含撰寫和編輯方程式的內建支援，以及可以置�
 
 索引可列出文件中所討論的字詞和主題，及其出現的頁面。若要建立索引，您要先提供主要項目的名稱和文件中的交互參照來標記索引項目，然後建立索引。
   
-## <a name="ink-editor"></a>手寫體編輯器
-
-油墨編輯器可讓您編輯檔並設定檔案格式，例如依序選取文字和刪向之外刪除文字。
-  
 ## <a name="insert-online-pictures"></a>插入線上圖片
 
 使用 Word for web 時，您可以從儲存在本機硬碟上的檔案，或從 Bing 圖像插入圖片。 進一步了解[在瀏覽器中和 Word 中使用文件的差異](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
   
 ## <a name="irm-and-password-protection"></a>IRM 和密碼保護
 
-Word for web 會顯示受資訊版權管理（IRM）保護的檔。 不過，這些檔無法在瀏覽器中編輯，而且您無法在 Word 中為 web 建立受 IRM 保護的檔。 Word for web 無法開啟以密碼加密的檔。 只有 Word 桌面應用程式提供高級檔案保護功能（例如：建立受 IRM 保護的檔，以及套用密碼保護）。
+Word for web 會顯示使用資訊版權管理 (IRM) 所保護的檔。 不過，這些檔無法在瀏覽器中編輯，而且您無法在 Word 中為 web 建立受 IRM 保護的檔。 Word for web 無法開啟以密碼加密的檔。 只有 Word 桌面應用程式提供高級檔案保護功能（例如：建立受 IRM 保護的檔，以及套用密碼保護）。
   
 ## <a name="learning-tools"></a>學習工具
 
@@ -297,4 +293,8 @@ Word for web 會顯示受資訊版權管理（IRM）保護的檔。 不過，這
 ## <a name="feature-availability"></a>功能可用性
 
 若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[web 服務說明的 Office](office-online-service-description.md)。 
+
+## <a name="operating-parameter-limitations-and-specifications"></a>運作參數限制和規格
+
+如需運作參數限制的相關資訊，請參閱[Word 中的指令引數限制和規格](https://docs.microsoft.com/office/troubleshoot/word/operating-parameter-limitation)。
   
