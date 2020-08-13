@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的時間。 服務健康資訊可隨時登入。
-ms.openlocfilehash: 4fa2e8a907eaae36e9185adcd4f99bd841c42ccc
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: dfa4e462d794a0f0a225f0c4e18695d9e4d2fe67
+ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131797"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46649603"
 ---
 # <a name="service-health-and-continuity"></a>服務健康狀況和持續性
 
@@ -48,7 +48,7 @@ Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的�
 |**2020** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **季度** <br/> | **推出** <br/> |**Q3** <br/> |**Q4** <br/> |
-| 99.98% <br/> | <br/> | <br/> |<br/> |
+| 99.98% <br/> | 99.99%<br/> | <br/> |<br/> |
 
 <br/>
 
@@ -75,7 +75,7 @@ Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的�
 
 ## <a name="notification-policy"></a>通知原則
 
-服務事件發生時，Microsoft 會辨識及時、鎖定目標且正確的通訊對客戶很重要。 Microsoft 會在 Microsoft 365 系統管理中心更新租使用者特有的服務健康情況儀表板（SHD），以通知系統管理員。 服務事件更新是以每小時的節奏提供，或者，如果需要不同的節奏，就會在 SHD 通訊發佈中加以說明。 
+服務事件發生時，Microsoft 會辨識及時、鎖定目標且正確的通訊對客戶很重要。 Microsoft 會透過更新 Microsoft 365 系統管理中心的承租人特定服務健康情況儀表板 (SHD) 來通知系統管理員。 服務事件更新是以每小時的節奏提供，或者，如果需要不同的節奏，就會在 SHD 通訊發佈中加以說明。 
   
 ## <a name="service-health-communication-channels"></a>服務健康狀況的通訊通道
 
@@ -85,7 +85,7 @@ Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的�
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2 的 Office 365 管理組件
 
-Microsoft System Center 是可協助您管理資料中心、用戶端裝置和混合雲端 IT 環境的整合式管理平台。 使用 System Center 的 Microsoft 系統管理員現在可以選擇匯入 Office 365 管理元件，讓他們可以在 System Center 的 Operations Manager 中查看所有服務通訊。 使用此工具可讓您存取您已訂閱服務的狀態、作用中及已解決服務事件及訊息中心通訊。 如需詳細資訊，請在 Microsoft 下載中心取得[Microsoft System Center Management Pack For Office 365](https://www.microsoft.com/download/details.aspx?id=43708) 。 
+Microsoft System Center 是可協助您管理資料中心、用戶端裝置和混合雲端 IT 環境的整合式管理平台。 使用 System Center 的 Microsoft 系統管理員現在可以選擇匯入 Office 365 管理元件，讓他們可以在 System Center 的 Operations Manager 中查看所有服務通訊。 使用此工具可讓您存取您已訂閱服務的狀態、作用中及已解決服務事件及訊息中心通訊。 如需詳細資訊，請在 Microsoft 下載中心取得 [Microsoft System Center Management Pack For Office 365](https://www.microsoft.com/download/details.aspx?id=43708) 。 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 服務通訊 API
 
@@ -95,7 +95,7 @@ Office 365 服務通訊 API 可讓您以您想要的方式存取服務通訊。 
     
 - 訊息中心通訊
     
-如需詳細資訊，請參閱[Office 365 服務通訊 API 參考](https://docs.microsoft.com/office/office-365-management-api/office-365-service-communications-api-reference)。 
+如需詳細資訊，請參閱 [Office 365 服務通訊 API 參考](https://docs.microsoft.com/office/office-365-management-api/office-365-service-communications-api-reference)。 
   
 ## <a name="post-incident-reviews"></a>事件後續檢閱
 
@@ -103,7 +103,7 @@ Microsoft 對於持續改善服務的承諾包括針對對客戶產生影響的�
   
 未計畫的服務事件定義為影響服務的服務使用狀況的多承租人服務中斷，並在服務健康情況儀表板上宣告為如此。
   
- 針對未計畫的客戶影響服務事件，在這種情況下，在大量組織中有廣泛且顯而易見的影響，將會透過您的服務健康情況儀表板在事件解決的48小時內傳遞預備事件後檢查（PIR），並在五個工作日內進行最後的 PIR。 詳細 PIR 報告包含下列專案： 
+ 針對未計畫的客戶影響服務事件，在這種情況下 (，在大量組織中有廣泛且明顯的影響，PIR) 將會透過您的服務健康情況儀表板在事件解決的48小時內傳遞，並在五個工作日內進行最後的 PIR。 詳細 PIR 報告包含下列專案： 
   
 - 使用者經驗和客戶影響
     
@@ -119,7 +119,7 @@ Microsoft 對於持續改善服務的承諾包括針對對客戶產生影響的�
 
 Microsoft 提供的服務可透過高彈性系統進行傳遞，以協助維護峰值服務效能。 服務持續性規定是系統設計的一部分。 這些規定可讓 Microsoft 快速從意外事件（例如硬體或應用程式失敗、資料損毀或其他影響使用者的事件）進行復原。 這些服務持續性解決方法同時應用於災難性的中斷期間 (例如天災或者 Microsoft 資料中心中發生的意外事件，造成整個資料中心無法運作)。
   
-請注意，從災難性中斷復原後，可能需要一段時間，才能還原服務的完整資料中心冗余。 例如，如果資料中心1失敗，則會透過資料中心2中的資源還原服務。 不過，您可能需要一段時間，直到資料中心2中的服務因還原資料中心1中的資源或資料中心3中的新資源而支援服務持續性。 此期間會套用 Microsoft[服務等級協定](service-level-agreement.md)（SLA）。 由世紀運作的 Office 365 具有不同的 SLA。 如需詳細資訊，請參閱[世紀網站](https://www.21vbluecloud.com/office365/O365-SLA/)。 
+請注意，從災難性中斷復原後，可能需要一段時間，才能還原服務的完整資料中心冗余。 例如，如果資料中心1失敗，則會透過資料中心2中的資源還原服務。 不過，您可能需要一段時間，直到資料中心2中的服務因還原資料中心1中的資源或資料中心3中的新資源而支援服務持續性。 Microsoft [服務等級協定](service-level-agreement.md) (SLA) 會在此期間套用。 由世紀運作的 Office 365 具有不同的 SLA。 如需詳細資訊，請參閱 [世紀網站](https://www.21vbluecloud.com/office365/O365-SLA/) 。 
   
 ## <a name="ensuring-data-availability"></a>確保資料可用性
 
@@ -157,5 +157,5 @@ Microsoft 開發和作業團隊是以專屬支援組織為依據，這在提供�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案中的功能可用性，請參閱[Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
+若要查看不同方案中的功能可用性，請參閱 [Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
   

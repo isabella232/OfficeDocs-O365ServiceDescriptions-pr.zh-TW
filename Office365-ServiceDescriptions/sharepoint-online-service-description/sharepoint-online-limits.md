@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 瞭解 Microsoft 365 和獨立方案的 SharePoint 限制。
-ms.openlocfilehash: 1c05fb3e60a941a394a0736ca2a72442d2fe4612
-ms.sourcegitcommit: 9090cf400aa5deee337b23fcca4b90ae092a44cb
+ms.openlocfilehash: a8b42885b558d04aee0ed3743cffc203dde2f248
+ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46560078"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46649593"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -67,7 +67,7 @@ ms.locfileid: "46560078"
 
 ### <a name="sync"></a>Sync
 
-**新 OneDrive 同步處理應用**程式-為了獲得最佳效能，建議您在所有已同步處理的文件庫中儲存不超過300000的檔案，即使您是以要求進行，或是只選擇文件庫中的某些資料夾，也能進行同步處理。
+**新 OneDrive 同步處理應用**程式-為了獲得最佳效能，建議您在所有已同步處理的文件庫中，針對每個使用者儲存不超過300000檔的檔案，即使您要進行同步處理，還是只在文件庫內選擇一些資料夾時，才會儲存這些檔案。
 
 **舊版 Business sync app 的 OneDrive ( # A0) ** -您最多可以同步處理所有同步處理的文件庫中的20000個專案。 這包括 OneDrive 文件庫、小組網站程式庫或兩者。 與整體同步處理限制分開時，每個文件庫類型可同步處理的專案數有限制：
 
