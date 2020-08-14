@@ -40,7 +40,7 @@ Yammer 中提供下列設定檔功能。
   
 ## <a name="praise"></a>稱讚
 
-給予和接受工作出色的認可。 在 [**稱讚**] 索引標籤的 [設定檔] 中顯示業績和徽章。
+給予和接受工作出色的認可。 在 [ **稱讚** ] 索引標籤的 [設定檔] 中顯示業績和徽章。
  
 ## <a name="user-profiles"></a>使用者設定檔
 
@@ -48,6 +48,6 @@ Yammer 中提供下列設定檔功能。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Yammer 服務描述](yammer-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Yammer 服務描述](yammer-service-description.md)。
   
 
