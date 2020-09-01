@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
-ms.openlocfilehash: 56994c011862bde5d41ac02613a6ddd106228da2
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: 3fde5c78c111c8a5e76442b42fc746e289ef340a
+ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300517"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47315374"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -144,7 +144,7 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 |Outlook for Windows <sup>21</sup>|是|是|是|是|是|是|是| 否|
 |網頁型 Outlook<sup>21</sup>|是|是|是|是|是|是|是|是|
 |Outlook for Mac<sup>21</sup>|是|是|是|是|是|是|是| 否|
-|iOS 和 Android 的 Outlook<sup>21</sup>|是|是|是|是|是|是|是|是|
+|iOS 和 Android 的 Outlook<sup>21</sup>|是<sup>25</sup>|是<sup>25</sup>|是|是|是|是|是|是|
 |Exchange ActiveSync|是|是|是|是|是|是|是|是|
 |Microsoft 365 的基本行動性和安全性|否|否|是|是|是|是|是|是|
 |POP 與 IMAP|是|是|是|是|是|是|是|是 <sup>12</sup>|
@@ -199,6 +199,7 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 <sup>22</sup> 如需詳細資訊，請參閱 [Service Encryption with Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
 <sup>23</sup> 透過從客戶運作 SBCs 直接連線到協力廠商 PBX 系統的 EXCHANGE Online UM 支援會在2019年4月結束。 如需詳細資訊，請參閱 Exchange 小組部落格[停止 Exchange Online 整合通訊中的工作階段邊界控制器支援](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)。 <br/>
 <sup>24</sup> a F3 使用者無法將委派新增至自己的信箱，但他們可以存取另一個信箱 (包括共用信箱) 並執行已委派給它們的任何動作。
+<sup>25</sup> exchange server 2013 和 exchange server 2016 也需要 Microsoft 365 應用程式適用于企業訂閱。
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>各 Exchange Online 獨立方案中可用的功能
 

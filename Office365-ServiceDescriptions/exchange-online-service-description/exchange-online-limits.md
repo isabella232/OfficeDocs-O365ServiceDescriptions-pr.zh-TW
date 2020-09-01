@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
-ms.openlocfilehash: 9c8554f8f995e00058fb5c3bafe915d328ba9c53
-ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
+ms.openlocfilehash: ac20cda83afbc261035ebd2307660a6e62c872ce
+ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798389"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47315364"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -466,7 +466,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 - **個別傳輸規則的大小上限** 單一傳輸規則中可以使用的字元數目上限。這些字元是用在條件、例外狀況和動作中。
 
-- **所有傳輸規則中使用之所有規則運算式的字元限制** 在組織中的所有傳輸規則條件及例外狀況中，所有規則運算式所使用的字元總數。您可以有幾條規則使用又長又複雜的規則運算式，也可以有許多規則使用簡單的規則運算式。
+- **所有傳輸規則中使用之所有正則運算式的字元限制** 在組織中，包含所有傳輸規則條件和例外狀況中的所有正則運算式所使用的總字元數。 您可以有幾條規則使用又長又複雜的規則運算式，也可以有許多規則使用簡單的規則運算式。
 
 - **附件內容的掃描限制** 傳輸規則條件可讓您檢查郵件附件的內容，但只會檢查從附件擷取的第 1 MB 文字。 此 1 MB 限制是指從附件擷取的文字，而不是附件的檔案大小。 例如，2 MB 檔案可能包含小於 1 MB 的文字，所以會檢查所有的文字。
 

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組織的需求。 如果您正在尋找方案（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
-ms.openlocfilehash: 805a05b62fa4bd354378fb2fa4c4d30f271aaf5d
-ms.sourcegitcommit: 5789fb5d6440556b7ad77ba620c6e9be97261e0f
+ms.openlocfilehash: b011201ed43d27a0efbb14413eb11a2853906133
+ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46826716"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47315354"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服務說明
 
@@ -113,6 +113,7 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 |Office 365 影片  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>11</sup> <br/> |
 |OneNote 課程筆記本  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>14</sup> <br/> |否  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> |
+|Microsoft 搜尋|否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |
 |**[使用者帳戶管理](user-account-management.md)** <br/> |**Microsoft 365 商務基本版** <br/> |**Microsoft 365 Apps 商務版** <br/> |**Microsoft 365 商務標準版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F3** <br/> |
 |雲端識別、聯盟識別或多重因素驗證  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 桌面設定  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
