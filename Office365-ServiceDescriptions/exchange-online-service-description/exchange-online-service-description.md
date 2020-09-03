@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
-ms.openlocfilehash: 3fde5c78c111c8a5e76442b42fc746e289ef340a
-ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
+ms.openlocfilehash: 80c25945014118c78a5b9d61aada73d470f3d7e4
+ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2020
-ms.locfileid: "47315374"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47337859"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -198,9 +198,9 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 <sup>21</sup> 該表會指出用戶端是否與相關聯的計畫一起運作。 其並不代表這些計劃的採購中必須包含用戶端。 <br/>
 <sup>22</sup> 如需詳細資訊，請參閱 [Service Encryption with Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
 <sup>23</sup> 透過從客戶運作 SBCs 直接連線到協力廠商 PBX 系統的 EXCHANGE Online UM 支援會在2019年4月結束。 如需詳細資訊，請參閱 Exchange 小組部落格[停止 Exchange Online 整合通訊中的工作階段邊界控制器支援](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)。 <br/>
-<sup>24</sup> a F3 使用者無法將委派新增至自己的信箱，但他們可以存取另一個信箱 (包括共用信箱) 並執行已委派給它們的任何動作。
+<sup>24</sup> a F3 使用者無法將委派新增至自己的信箱，但他們可以存取另一個信箱 (包括共用信箱) 並執行已委派給它們的任何動作。<br/>
 <sup>25</sup> exchange server 2013 和 exchange server 2016 也需要 Microsoft 365 應用程式適用于企業訂閱。
-  
+
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>各 Exchange Online 獨立方案中可用的功能
 
 |**功能**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
@@ -282,6 +282,7 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 |SMTP|是|是|是|是|是|
 |EWS 應用程式支援|是|是|是|是|否|
 |Mac 版 Outlook|是|是|是|是|否|
+|iOS 和 Android 的 Outlook<sup>21</sup>|是<sup>25</sup>|是<sup>25</sup>|是|是|是|
 |**[語音訊息服務](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
 |語音信箱|是|是|否|是|否|
 |協力廠商語音信箱互通性|是|是|是|是|是|
@@ -330,4 +331,5 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 <sup>21</sup> 某些協力廠商的 web 元件和增益集可能無法使用。 <br/>
 <sup>22</sup> 對於 eDiscovery，您需要針對內部部署與雲端使用個別查詢。 <br/>
 <sup>23</sup> Exchange Online 展臺不會提供與內部部署伺服器的使用方式存取權。 為相容性，客戶必須購買或先前購買適當的 Cal，或升級至提供這些訪問權力的 Enterprise SKU。 <br/>
-<sup>24</sup> 個可用的功能的 Microsoft 365 群組。
+<sup>24</sup> 個可用的功能的 Microsoft 365 群組。<br/>
+<sup>25</sup> exchange server 2013 和 exchange server 2016 也需要 Microsoft 365 應用程式適用于企業訂閱。
