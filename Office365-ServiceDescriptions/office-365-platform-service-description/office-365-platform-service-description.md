@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組織的需求。 如果您正在尋找方案（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
-ms.openlocfilehash: 20982db7e0b858d6220e79871e9a2933957dfa7f
-ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
+ms.openlocfilehash: 4cd10893dd4e04970cd16bdbee829fdc0448cdae
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47337849"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134000"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服務說明
 
@@ -108,7 +108,7 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 |Microsoft Stream  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>16</sup> <br/> |
 |Microsoft Sway  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |
 |Microsoft 團隊<sup>10</sup> <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> |
-|Office Delve  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|Microsoft Delve  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Microsoft 365 群組  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 影片  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>11</sup> <br/> |
 |OneNote 課程筆記本  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>13</sup> <br/> |否  <br/> |
@@ -225,4 +225,4 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 <br/><sup>18</sup> 如需詳細資訊，請參閱 [MyAnalytics 方案和環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。
 <br/><sup>19</sup>包含[azure active directory 定價](https://azure.microsoft.com/pricing/details/active-directory/)頁面上的**Office 365 應用程式**欄中所述的 Azure Active Directory 功能。 您必須加入 Azure Active Directory Plan 1 或 Plan 2、Enterprise Mobile Security 或 Microsoft 365 E3 或 E5 以取得 premium Azure AD 功能。<br/>
 <sup>20</sup> 簡報電子郵件會自動提供給 Exchange Online 的所有使用者。 如需詳細資訊，請參閱 [設定簡報電子郵件](https://docs.microsoft.com/Briefing/be-admin)。<br>
-<sup>21</sup> 如需詳細資訊，請參閱 [Microsoft Project service 描述](../project-online-service-description/project-online-service-description.md)。 使用者被授與 Web 專案的「限制存取」許可權。 這些權力只會限制在 web 應用程式的專案中使用，而且只能用於具有專案方案1、專案方案3或專案方案5授權的承租人。 這些權力不會授與 Power Platform 應用程式或其他資料集、Project Online 桌面用戶端或 Project Online 的存取權。
+<sup>21</sup> 使用者已提供 web 的「僅供查看」專案的存取權。 這些權力只會限制在 web 應用程式的專案中使用，而且只能用於具有專案方案1、專案方案3或專案方案5授權的承租人。 這些權力不會授與 Power Platform 應用程式或其他資料集、Project Online 桌面用戶端或 Project Online 的存取權。 如需詳細資訊，請參閱 [Microsoft Project service 描述](../project-online-service-description/project-online-service-description.md)。

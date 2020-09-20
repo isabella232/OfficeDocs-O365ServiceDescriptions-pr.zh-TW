@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如果您想要知道 Office 365 和 Microsoft 365 教育版方案有何差異，本文將說明各方案中包含的功能。
-ms.openlocfilehash: eee5117fd3279d9989796c9513e105e6003e8495
-ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
+ms.openlocfilehash: ab28bb301e105118ce058102f6cdda42d645f367
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "47255890"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134010"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -80,10 +80,10 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 |Office 365 Cloud App Security  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Intune 教育版<sup>8</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |進階威脅分析  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Windows Defender 防毒軟體  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Microsoft Defender 防病毒  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |Device Guard  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |**進階​​安全性** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
-|Advanced Threat Protection  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|Office 365 進階威脅防護  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |威脅情報  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |雲端 App 安全性  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |Microsoft Defender 進階威脅防護  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>13</sup>  <br/> |

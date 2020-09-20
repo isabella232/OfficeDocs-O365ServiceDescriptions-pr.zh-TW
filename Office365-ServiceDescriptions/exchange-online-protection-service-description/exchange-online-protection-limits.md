@@ -11,21 +11,23 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Exchange Online Protection 目前已存在下列限制。 除非另有指定，否則無法設定這些限制。
-ms.openlocfilehash: 3c5a8e0c5f9a19c9cae81b3bc1e39bb153af0137
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: baf6bc688492ca340442ee2d14f98bd9e135c43d
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133007"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134050"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 限制
 
 Exchange Online Protection 目前已存在下列限制。 除非另有指定，否則無法設定這些限制。 
   
 > [!TIP]
-> 如需 Exchange Online 中限制的相關資訊，請參閱[Exchange Online 限制](../exchange-online-service-description/exchange-online-limits.md)。 傳輸規則限制也適用於獨立式 EOP 客戶。 Exchange Online 的收件者流量和郵件流量限制不適用於獨立式 EOP 客戶。 
+> 如需 Exchange Online 中限制的相關資訊，請參閱 [Exchange Online 限制](../exchange-online-service-description/exchange-online-limits.md)。 傳輸規則限制也適用於獨立式 EOP 客戶。 Exchange Online 的收件者流量和郵件流量限制不適用於獨立式 EOP 客戶。 
   
 - **網域限制** 您可以為每位租用戶新增多達 900 個網域。子網域可以納入這項 900 個網域的限制內，或者視需要做為 catch-all 選項相符子網域的一部分。如需詳細資訊，請參閱 [管理 EOP 中公認的網域](https://go.microsoft.com/fwlink/p/?LinkId=282239)。
+
+- **遠端網域限制** 每個租使用者最多可以新增200個遠端網域。
     
 - **郵件大小限制** 獨立式 EOP 客戶的郵件大小上限 (包括附件) 為 150 MB。 
     
@@ -35,13 +37,13 @@ Exchange Online Protection 目前已存在下列限制。 除非另有指定，�
     
 - **IP 允許或 IP 封鎖清單限制** 在連線篩選器中設定 IP 允許清單或 IP 封鎖清單時，您最多可以指定 1273 個項目，而一個項目就是一個 IP 位址或 CIDR 範圍的 IP 位址 (從 /24 到 /32)。 
     
-- **郵件延遲限制**延遲中的郵件會保留在佇列中24小時內。 郵件重試次數是以從收件者的郵件系統收到的錯誤類型為基礎。 郵件會每隔 15 分鐘重試一次。 
+- **郵件延遲限制** 延遲中的郵件會保留在佇列中24小時內。 郵件重試次數是以從收件者的郵件系統收到的錯誤類型為基礎。 郵件會每隔 15 分鐘重試一次。 
     
-- **垃圾郵件隔離保留期間**傳送至隔離區的垃圾郵件預設會保留30天。 系統管理員可以透過內容篩選原則降低這個值。 
+- **垃圾郵件隔離保留期間** 傳送至隔離區的垃圾郵件預設會保留30天。 系統管理員可以透過內容篩選原則降低這個值。 
     
 - **使用者垃圾郵件隔離通知** 如果啟用，預設會每隔 3 天傳送一次使用者垃圾郵件隔離通知。可以將它們設定為每隔 1 到 15 天傳送一次。 
     
-- **報告和郵件追蹤限制**如需報告和郵件追蹤限制，請參閱[Exchange Online Protection 中報告和郵件追蹤](https://go.microsoft.com/fwlink/?LinkId=394248)中的「報告和郵件追蹤資料可用性和延遲」一節。
+- **報告和郵件追蹤限制** 如需報告和郵件追蹤限制，請參閱 [Exchange Online Protection 中報告和郵件追蹤](https://go.microsoft.com/fwlink/?LinkId=394248)中的「報告和郵件追蹤資料可用性和延遲」一節。
     
 ### <a name="limits-across-eop-options"></a>不同 EOP 選項的限制
 
