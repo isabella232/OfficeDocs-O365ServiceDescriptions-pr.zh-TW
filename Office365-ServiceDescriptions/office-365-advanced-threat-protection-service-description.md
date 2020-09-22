@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced 威脅防護 (ATP) 是雲端式的電子郵件篩選服務，可協助您的組織抵禦未知的惡意程式碼和病毒，方法是提供強健的零日保護，並包含即時保護組織不受有害連結的功能。
-ms.openlocfilehash: 3a611a3a7158586010f877bd88d0ec21aecc78f4
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: c1facbc6c7052a89b35849919b277db592cc7991
+ms.sourcegitcommit: cc39932b65461bded971132ba058bd4e005b9072
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134040"
+ms.lasthandoff: 09/21/2020
+ms.locfileid: "48170538"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 進階威脅防護服務說明
 
@@ -94,6 +94,7 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 |威脅調查 (高級威脅調查) |[即時偵測](#real-time-detections)|[總管](#explorer)|[總管](#explorer)|
 |[自動化的事件回應](#automated-incident-response)|否|是|是|
 |[攻擊模擬器](#attack-simulator)|否|是|是|
+|*與 Microsoft 威脅防護的整合*|否|否|是|
 
 > [!TIP]
 > 需要 Office 365 ATP 方案1與方案2之間的差異的可供下載的清單嗎？ [取得 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。 
@@ -111,15 +112,15 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 [ATP 安全連結](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)功能主動保護您的使用者免受郵件中或 Office 檔中的惡意 URLs。 因為可動態封鎖惡意連結，允許存取無害連結，所以每次使用者選取連結時都能受到持續保護。
 
-安全連結可用於下列應用程式中的 URLs：
+下列應用程式的 URL 可使用安全連結：
 
 - Microsoft 365 Windows 或 Mac 版企業版應用程式
 
-- Office for web (Word、網頁版 Excel、網頁的 PowerPoint，及 OneNote 網頁) 
+- Office 網頁版 (Word 網頁版、Excel 網頁版、PowerPoint 網頁版和 OneNote 網頁版)
 
 - Windows 上的 Word、Excel 及 PowerPoint
 
-- Microsoft 小組通道和聊天
+- Microsoft Teams 頻道與聊天
 
 > [!NOTE]
 > 使用者必須是 ATP 的授權，必須 <sup>\*</sup> 包含在 Atp 安全連結原則中，且必須在裝置上登入，以進行保護。
@@ -140,7 +141,7 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 - Windows 上的 Word、Excel、PowerPoint 和 Visio，以及 iOS 和 Android 裝置上的 Office 應用程式
 
-- Microsoft 小組通道和聊天
+- Microsoft Teams 頻道與聊天
 
 > [!NOTE]
 > 使用者必須是 Microsoft 365 E5 或 Microsoft 365 E5 Security 的授權 <sup>\*</sup> ，必須包含在 ATP 安全檔原則中，且必須在裝置上登入，以進行保護。
