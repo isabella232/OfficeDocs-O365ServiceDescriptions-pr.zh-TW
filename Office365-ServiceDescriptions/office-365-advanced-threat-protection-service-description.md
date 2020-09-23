@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced 威脅防護 (ATP) 是雲端式的電子郵件篩選服務，可協助您的組織抵禦未知的惡意程式碼和病毒，方法是提供強健的零日保護，並包含即時保護組織不受有害連結的功能。
-ms.openlocfilehash: c1facbc6c7052a89b35849919b277db592cc7991
-ms.sourcegitcommit: cc39932b65461bded971132ba058bd4e005b9072
+ms.openlocfilehash: 9a735338dc1cf99c35058ec7f1ae829d2c081936
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/21/2020
-ms.locfileid: "48170538"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214362"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 進階威脅防護服務說明
 
@@ -139,7 +139,7 @@ ATP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 - 此功能僅適用于使用 Microsoft 365 E5 或 Microsoft 365 E5 安全性授權 (未包含在 Office 365 ATP 計畫) 中的使用者。
 
-- Windows 上的 Word、Excel、PowerPoint 和 Visio，以及 iOS 和 Android 裝置上的 Office 應用程式
+- Windows 上的 Word、Excel 及 PowerPoint
 
 - Microsoft Teams 頻道與聊天
 

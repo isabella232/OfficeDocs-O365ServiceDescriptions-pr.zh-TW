@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 283491c67a8000dfc7d2b46f40c21e8a51d6bd07
-ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
+ms.openlocfilehash: e146341f817672b7bc7d5a98c43ed337e48db07d
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798379"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214382"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -148,6 +148,32 @@ Azure AD P1 為使用者提供的權力，可從 MCAS 中的探索功能中受�
 
 系統管理員可以利用服務中提供的限定範圍部署功能，將 MCAS 部署限定於授權使用者的範圍。 如需詳細資訊，請參閱[限定範圍的部署](https://docs.microsoft.com/cloud-app-security/scoped-deployment)。
 
+## <a name="compliance-manager"></a>合規性管理員
+
+使用合規性管理員簡化法規遵從性並降低風險。 合規性管理員可協助組織符合法規、標準、公司原則或其他必要控制項框架的需求。
+
+### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
+
+下列為使用者對合規性管理員服務的好處：
+
+- 將複雜的法規、標準、公司原則或其他所需的控制項框架轉譯成簡易語言
+- 可讓您存取廣泛的現成評估和自訂評估，以符合獨特的合規性需求
+- 將規章控制對應至建議的改進動作
+- 提供如何實施解決方案以符合法規需求的逐步指導方針
+- 將分數與每個動作相關聯，以協助使用者設定對其組織合規性影響最高的動作優先順序。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+使用 Office 365 E1/A1/E3/A3 和 Microsoft 365 E3/A3 授權的客戶將可以存取資料保護基準評估。 使用 Office 365 E5/A5 和 Microsoft 365 E5/A5 授權的客戶，將可以存取資料保護基準、GDPR、NIST 800-53 及 ISO 22701 現成評估。 特優評估可用於購買至 Office 365 E5/A5 和 Microsoft 365 E5/A5 客戶。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
+
+合規性管理員預設是針對您的承租人進行布建。 Admins 設定使用者權限並指派角色，使組織中的非系統管理員使用者可以開始使用合規性管理員。 如需詳細資訊，請參閱 [檔](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
+
+存取合規性管理員是透過設定使用者權限及指派角色加以控制。 如需詳細資訊，請參閱 [檔](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)
+
 ## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
 Microsoft Defender ATP 是一個端點安全性解決方案，包含風險型弱點管理和評估;攻擊面降減功能;以行為為基礎和雲端電源的下一代保護;端點偵測和回應 (EDR) ;自動調查和修正;和受管理的搜尋服務。 請參閱 [Microsoft DEFENDER ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 頁面以深入瞭解。
@@ -201,7 +227,7 @@ Microsoft 365 E5/A5/G5，Microsoft 365 E5/a5/g5，Microsoft 365 資訊保護和�
 
 ## <a name="information-governance"></a>資訊管理
 
-資訊控管透過探索、分類、標示和管理其資料來協助組織管理其風險。 資訊管理可讓組織滿足業務和法規需求，並透過在其 Microsoft 365 和協力廠商資料中提供保留和刪除功能來減少攻擊面。
+資訊控管會透過發現、分類、標示和管理其資料來協助組織管理其風險。 資訊管理可讓組織滿足業務和法規需求，並透過在其 Microsoft 365 和協力廠商資料中提供保留和刪除功能來減少攻擊面。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
@@ -227,15 +253,15 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 資訊保護
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，會在租使用者中的所有使用者的租使用者層級上啟用資訊管理功能。 如需設定資訊管理以對授權使用者套用自動標籤和原則的資訊，請參閱 [管理資訊](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)管理。
+根據預設，會在租使用者中的所有使用者的租使用者層級上啟用資訊管理功能。 如需設定資訊管理以套用授權使用者的 autolabeling 和原則的資訊，請參閱 [管理資訊](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)管理。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-資訊控管功能可套用至特定位置的授權使用者 (小組網站、群組網站等等 ) 。 如需設定資訊管理以對授權使用者套用自動標籤和原則的資訊，請參閱 [管理資訊](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)管理。
+資訊控管功能可套用至特定位置的授權使用者 (小組網站、群組網站等等 ) 。 如需設定資訊管理以套用授權使用者的 autolabeling 和原則的資訊，請參閱 [管理資訊](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)管理。
 
 ## <a name="records-management"></a>記錄管理
 
-記錄管理可協助組織在其 Microsoft 365 和協力廠商資料中探索、分類、標記、保留和 defensible 刪除功能，以滿足其業務和規定的記錄保留義務。
+記錄管理可協助組織在其 Microsoft 365 和協力廠商資料中探索、分類、標記、保留及 defensible 刪除功能，以滿足業務和法規記錄的要求。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
@@ -256,6 +282,61 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 資訊保護
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
 記錄管理功能可套用至特定位置的授權使用者 (小組網站、群組網站等等 ) 。 如需設定記錄管理以套用授權使用者的詳細資訊，請參閱 [Microsoft 365 中的記錄管理](https://docs.microsoft.com/microsoft-365/compliance/records-management)。
+
+## <a name="data-connectors"></a>資料連線器 
+
+Microsoft 提供可在 Microsoft 365 規範中心內設定的協力廠商資料連線器。 如需 Microsoft 所提供的資料連線器清單，請參閱 [協力廠商資料連線器](https://docs.microsoft.com/microsoft-365/compliance/archiving-third-party-data) 表格。 此表格也會摘要說明在 Microsoft 365 中匯入及封存資料後，您可以套用至協力廠商資料的相容性解決方案，以及每個連接器的逐步指示連結。
+
+### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
+
+在 Microsoft 365 中，使用資料連線器匯入及封存協力廠商資料的主要優點是，您可以在匯入後，對其套用各種 Microsoft 365 規範解決方案。 這可協助確保您組織的非 Microsoft 資料符合影響組織的規章和標準。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+下列授權可為使用者提供的許可權，以受益于資料連線器：
+
+- Microsoft 365 E5/A5
+- Microsoft 365 E5/A5 Info Protection & 控管
+- Microsoft 365 E5/A5 規範
+- Microsoft 365 E5/A5 內幕人士風險管理 
+- Microsoft 365 E5/A5 eDiscovery 和 Audit 
+- Office 365 E5/A5
+- Office 365 進階合規性
+
+針對 M365 安全性 & 規範中心（由其中一個 Microsoft 合作夥伴提供）中的資料連線器，您的組織必須與合作夥伴進行業務關係，才能部署這些連接器。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
+
+連接器是使用安全性 & 規範中心和連接器目錄設定。
+
+### <a name="how-can-the-service-be-applied-only---to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用至已授權提供服務的承租人中的使用者？
+
+資料連線器服務是租使用者層級的值。 每一位由此服務受益的使用者皆須獲得授權。
+
+## <a name="microsoft-graph-apis-for-teams-dlp"></a>團隊 DLP 的 Microsoft Graph APIs
+
+今年早些時候，我們 [宣佈小組中郵件的 Microsoft Graph 變更通知 API 公開預覽](https://developer.microsoft.com/en-us/graph/blogs/announcing-change-notifications-for-microsoft-teams-messages)。 此 API 可讓開發人員建立應用程式，該應用程式可以即時聆聽 Microsoft 小組郵件，並為客戶及 Isv 啟用 DLP 案例實施。 此外，Microsoft Graph 修補程式 API 允許將 DLP 動作套用至小組郵件。
+
+### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
+
+[資料遺失防護 (DLP) ](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams?view=o365-worldwide) 功能廣泛用於 Microsoft 小組，尤其是當組織已移動至遠端工作時。 如果您的組織有 DLP，您現在可以定義原則，以防止人員在 Microsoft 小組通道或聊天會話中共用機密資訊。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+您將需要下列其中一個 E5 授權，才能支援資料遺失防護 (DLP) protection 在小組聊天中：
+
+- Microsoft 365 E5/A5
+- Microsoft 365 E5/A5 規範
+- Microsoft 365 E5/A5 資訊保護和控管
+- Office 365 E5/A5 
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
+
+可在租使用者層級設定 API 存取。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
+
+Microsoft Graph API for 小組 DLP 是租使用者層級的值。 每一位由此服務受益的使用者皆須獲得授權。
 
 ## <a name="ediscovery"></a>電子文件探索
 
@@ -533,9 +614,13 @@ Microsoft 365 E5/A5、Microsoft 365 E5/A5 符合性，以及 Microsoft 365 「�
 
 Microsoft 365 中的「高級核查」為使用者和系統管理員活動提供一年的審計記錄檔保留，並提供建立自訂審核記錄保留原則的能力，以管理其他 Microsoft 365 服務的審計記錄保留。 此外，它也可讓您存取重要事件，以進行調查和對 Office 365 管理活動 API 的高頻寬存取。 如需詳細資訊，請參閱 [Microsoft 365 中的「高級核查](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)」。
 
+您也可以使用附加元件 SKU 來啟用保留期間（10年）。 從2021開始，將需要附加元件 SKU。
+
 ### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
 
 授權使用者的 Office 365 E5、Microsoft 365 E5、Microsoft 365 E5 規範，以及 Microsoft 365 eDiscovery 和審核可從高級審計中受益。
+
+使用高級審計的授權使用者，以及10年的審計記錄保留附加元件，可從10年的審計記錄保留中受益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
@@ -543,8 +628,10 @@ Microsoft 365 中的「高級核查」為使用者和系統管理員活動提供
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，會在租使用者層級啟用 Office 365 或 Microsoft 365 E5 訂閱的「高級審核」，並自動為使用 Azure Active Directory、Exchange 及 SharePoint 中的適當授權) 使用者執行的 (活動提供一年的審計記錄檔保留。 此外，組織可使用審核記錄保留原則來管理其他 Microsoft 365 服務中的活動所產生的審計記錄保留期間。 如需詳細資訊，請參閱[管理稽核記錄保留原則](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)。
+根據預設，會在租使用者層級啟用 Office 365 或 Microsoft 365 E5 訂閱的「高級審核」，並自動為使用 Azure Active Directory、Exchange 及 SharePoint 中的適當授權) 使用者執行的 (活動提供一年的審計記錄檔保留。 此外，組織可使用審核記錄保留原則來管理其他 Microsoft 365 服務中的活動所產生的審計記錄保留期間。 您也可以使用相同的保留原則，啟用10年的審計記錄保留功能。 如需詳細資訊，請參閱[管理稽核記錄保留原則](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
 只保留一年的審計記錄，而對重要的事件進行審核，只適用于具有適當授權的使用者。 此外，系統管理員可以使用審核記錄保留原則，為特定使用者的審計記錄檔指定較短的保留期間。
+
+10年保留的審計記錄檔只適用于具有適當附加元件授權的使用者。 從2021開始，將需要附加元件 SKU。
