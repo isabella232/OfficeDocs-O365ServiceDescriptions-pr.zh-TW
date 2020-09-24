@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務版是整合式解決方案，利用高級安全性和裝置管理功能，將一流的生產力整合在一起，以協助保護您的企業。 此服務描述說明方案選項及功能。
-ms.openlocfilehash: a98d98db2aaf58497f4927806bb0f859b00fbb0a
-ms.sourcegitcommit: 12c144e2706206d4e134e277767a1a6cd49102db
+ms.openlocfilehash: 644579ff120d754100fbd4b187a5499ff3368cd8
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "47947827"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245708"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 商務進階版服務描述
 
@@ -22,11 +22,10 @@ Microsoft 365 商務版是整合式解決方案，將 Microsoft 365 與高級安
   
 ## <a name="feature-availability-across-microsoft-365-business-standard-and-microsoft-365-business-premium-plans"></a>各 Microsoft 365 商務標準和 Microsoft 365 商務版方案中可用的功能
 
-Microsoft 365 商務版基本上包含 Microsoft 365 商務標準中所有可用的功能，以及其他 Microsoft 安全性功能。
+Microsoft 365 商務版基本上包含 Microsoft 365 商務標準中所有可用的功能，以及其他 Microsoft 安全性功能。<br><br>
 
-||||
+| 方案選項 | Microsoft 365 商務標準版 | Microsoft 365 商務進階版 |
 |:-----|:-----|:-----|
-|**方案選項** <br/> |**Microsoft 365 商務標準版** <br/> |**Microsoft 365 商務進階版** <br/> |
 |Office 365 平臺  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |是  <br/> |是  <br/> |
@@ -86,9 +85,6 @@ Microsoft 365 商務版基本上包含 Microsoft 365 商務標準中所有可用
 |使用 Azure AD 加入的 Windows 10 Enterprise State 漫遊  <br/> |否  <br/> |是  <br/> |
 |自助 BitLocker 復原  <br/> |否  <br/> |是  <br/> |
 |Windows 虛擬桌面 <br/> |否 <br/> |是 <br/> |
-
-|||
-|:-----|:-----|
 |**Windows 10 專業版管理** <br/>如果您有 Windows 7 和8.1 專業版授權的裝置，Microsoft 365 商務版 Premium 會提供升級至 Windows 10 專業版。<sup>9</sup> <br/>|**Microsoft 365 商務進階版** <br/> |
 |使用 Windows AutoPilot 簡化部署  <br/> |是  <br/> |
 |訂閱啟用  <br/> |是  <br/> |

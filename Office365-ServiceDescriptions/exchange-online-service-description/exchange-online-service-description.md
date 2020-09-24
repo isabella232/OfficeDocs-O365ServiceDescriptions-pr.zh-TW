@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
-ms.openlocfilehash: 80c25945014118c78a5b9d61aada73d470f3d7e4
-ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
+ms.openlocfilehash: b3abce805be8cfefd9a65e72f5ec2b0f2b2ac653
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47337859"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245688"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -67,7 +67,7 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 
 如需 Microsoft 365 商務版 Premium 中的功能可用性，請參閱 [microsoft 365 商務版服務說明](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)。<br/><br/>
   
-|**功能**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商務基本版**|**Microsoft 365 商務標準版**|**Office 365 企業版 E1**|**Office 365 企業版 E3**|**Office 365 企業版 E5**|**Office 365 企業版 F3**|
+| 功能 | Exchange Server 2013 | Exchange Server 2016 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 企業版 E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[規劃及部署](planning-and-deployment.md)**|||||||||
 |支援混合部署|是|是|是<sup>16</sup>|是<sup>16</sup>|是|是|是|是<sup>16</sup>|
@@ -203,7 +203,7 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>各 Exchange Online 獨立方案中可用的功能
 
-|**功能**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
+| 功能 | Exchange Server 2013 | Exchange Server 2016 | Exchange Online 方案 &nbsp; 1 | Exchange Online 計畫 &nbsp; 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**[規劃及部署](planning-and-deployment.md)**||||||
 |支援混合部署|是|是|是|是|是<sup>23</sup>|
@@ -214,7 +214,7 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 |角色型權限|是|是|是|是|否|
 |角色群組|是|是|是|是|否|
 |角色指派原則|是|是|是|是|否|
-|**[郵件原則及合規性](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
+|**[郵件原則及合規性](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 &nbsp; 1**|**Exchange Online 計畫 &nbsp; 2**|**Exchange Online Kiosk**|
 |封存 Exchange Online 式信箱|是|否|是|是|否|
 |雲端式封存內部部署信箱|是 <sup>5</sup>|是 <sup>5</sup>|否|是|否|
 |通訊記錄管理 (MRM)  |是|是|是|是|是|
@@ -229,20 +229,20 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 |傳輸規則|是 <sup>1</sup>|是 <sup>1</sup>|是 <sup>1</sup>|是 <sup>1</sup>|是 <sup>1</sup>|
 |資料外洩防護|是<sup>10, 14</sup>|是<sup>10, 14</sup>|否|是|否|
 |日誌|是|是|是|是|是|
-|**[反垃圾郵件和反惡意程式碼防護](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
+|**[反垃圾郵件和反惡意程式碼防護](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 &nbsp; 1**|**Exchange Online 計畫 &nbsp; 2**|**Exchange Online Kiosk**|
 |內建反垃圾郵件保護|是 <sup>2</sup>|是 <sup>2</sup>|是|是|是|
 |自訂反垃圾郵件原則|是，但僅限透過 PowerShell|是，但僅限透過 PowerShell|是|是|是 <sup>8</sup>|
 |內建反惡意程式碼保護|是 <sup>7</sup>|是 <sup>7</sup>|是<sup>7</sup>|是<sup>7</sup>|是<sup>7</sup>|
 |自訂反惡意程式碼原則|是|是|是|是|是 <sup>8</sup>|
 |隔離 - 系統管理員管理|是|是|是|是|是 <sup>8</sup>|
 |隔離 - 使用者自我管理|否|否|是|是|是|
-|**[郵件流程](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
+|**[郵件流程](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 &nbsp; 1**|**Exchange Online 計畫 &nbsp; 2**|**Exchange Online Kiosk**|
 |自訂輸出郵件的路由|是|是|是|是|是|
 |與信任的合作夥伴間的安全傳訊|是|是|是|是|是|
 |條件式郵件路由|否|否|是|是|是|
 |新增合作夥伴到輸入安全清單|否|否|是|是|是|
 |混合電子郵件路由|是|是|是|是|是|
-|**[收件者](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
+|**[收件者](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 &nbsp; 1**|**Exchange Online 計畫 &nbsp; 2**|**Exchange Online Kiosk**|
 |容量警示|是|是|是|是|是|
 |雜亂資料|否|否|是|是|是|
 |MailTips|是|是|是|是|是|
@@ -263,18 +263,18 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 |會議室管理|是|是|是|是|是|
 |外出回覆|是|是|是|是|是|
 |行事曆共用|是|是|是|是|是 <sup>18</sup>|
-|**[報告功能和疑難排解工具](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
+|**[報告功能和疑難排解工具](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 &nbsp; 1**|**Exchange Online 計畫 &nbsp; 2**|**Exchange Online Kiosk**|
 |Microsoft 365 系統管理中心報告|否|否|是|是|是|
 |Excel 報告活頁簿|否|否|是|是|是|
 |Web 服務報告|否|否|是|是|是|
 |郵件追蹤|否|是|是|是|是 <sup>8</sup>|
 |稽核報告|是|是|是|是|是 <sup>8</sup>|
 |整合通訊報告|是|是|否|是|否|
-|**[共用和協同合作](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
+|**[共用和協同合作](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 &nbsp; 1**|**Exchange Online 計畫 &nbsp; 2**|**Exchange Online Kiosk**|
 |同盟共用|是|是|是|是|是|
 |網站信箱|是 <sup>3</sup>|是 <sup>3</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|
 |公用資料夾|是|是|是|是|否|
-|**[用戶端和行動裝置](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
+|**[用戶端和行動裝置](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 &nbsp; 1**|**Exchange Online 計畫 &nbsp; 2**|**Exchange Online Kiosk**|
 |Microsoft Outlook|是|是|是|是|否|
 |網頁型 Outlook|是|是|是|是|是|
 |Exchange ActiveSync|是|是|是|是|是|
@@ -283,28 +283,28 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 |EWS 應用程式支援|是|是|是|是|否|
 |Mac 版 Outlook|是|是|是|是|否|
 |iOS 和 Android 的 Outlook<sup>21</sup>|是<sup>25</sup>|是<sup>25</sup>|是|是|是|
-|**[語音訊息服務](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
+|**[語音訊息服務](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 &nbsp; 1**|**Exchange Online 計畫 &nbsp; 2**|**Exchange Online Kiosk**|
 |語音信箱|是|是|否|是|否|
 |協力廠商語音信箱互通性|是|是|是|是|是|
 |商務用 Skype 整合|是|是|是|是|是|
-|**[高可用性和業務連續性](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
+|**[高可用性和業務連續性](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 &nbsp; 1**|**Exchange Online 計畫 &nbsp; 2**|**Exchange Online Kiosk**|
 |在資料中心複寫信箱|否|否|是|是|是|
 |復原已刪除的信箱|是|是|是|是|是|
 |復原已刪除的項目|是|是|是|是|是|
 |單一項目復原|是|是|是|是|否|
-|**[互通性、連線能力和相容性](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
+|**[互通性、連線能力和相容性](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 &nbsp; 1**|**Exchange Online 計畫 &nbsp; 2**|**Exchange Online Kiosk**|
 |OWA 和 Outlook 中的商務用 Skype 顯示狀態|是|是|是|是|是|
 |SharePoint 互通性|是|是|是|是|是|
 |EWS 連線支援|是|是|是|是|是|
 |SMTP 轉送支援|是|是|是|是|是|
-|**[Exchange Online 設定與管理](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
+|**[Exchange Online 設定與管理](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 &nbsp; 1**|**Exchange Online 計畫 &nbsp; 2**|**Exchange Online Kiosk**|
 |Microsoft Office 365 入口網站存取|否|否|是|是|是|
 |Microsoft 365 系統管理中心存取|否|否|是|是|是|
 |Exchange 系統管理中心存取|是|是|是|是|是 <sup>8</sup>|
 |遠端 Windows PowerShell 存取|是|是|是|是|是|
 |用於行動裝置的 ActiveSync 原則|是|是|是|是|是|
 |使用報告|是|是|是|是|是|
-|**擴充服務自訂、增益集及資源**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 1**|**Exchange Online 方案 2**|**Exchange Online Kiosk**|
+|**擴充服務自訂、增益集及資源**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 &nbsp; 1**|**Exchange Online 計畫 &nbsp; 2**|**Exchange Online Kiosk**|
 |網頁網頁元件上的 Outlook|是|是|是|是|是|
 |Outlook 增益集和 Outlook MAPI|是|是|是<sup>21</sup>|是<sup>21</sup>|否|
 
