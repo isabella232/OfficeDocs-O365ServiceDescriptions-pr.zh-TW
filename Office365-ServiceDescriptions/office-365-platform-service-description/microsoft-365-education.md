@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如果您想要知道 Office 365 和 Microsoft 365 教育版方案有何差異，本文將說明各方案中包含的功能。
-ms.openlocfilehash: ab28bb301e105118ce058102f6cdda42d645f367
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: 46a5ea8dc2f0cd4c5cec1e7e2aa91473787c09e1
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134010"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261555"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -25,75 +25,78 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 ## <a name="services-and-features"></a>服務與功能
 
 每個 Microsoft 365 教育方案皆包含一些個別服務，例如 Exchange Online 和 SharePoint Online。 下表顯示每個 Office 365 和 Microsoft 365 方案所提供的服務，以便您選擇最符合需求的解決方案。 若要更詳細地複查服務和功能，請參閱 [Office 365 教育](office-365-education.md) 版服務說明。
+
+|**服務**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 學生使用權益**|**Office 365 A5 學員使用權益**|**Microsoft 365 教育版學生使用權益**|**Microsoft 365 教育版的學生使用權益**|
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|Office 365 平臺|是|是|是|是|是|是|是|是|是|
+|網頁版 Office|是|是|是|是|是|是|是|是|是|
+|Microsoft 365 Apps 企業版|否|是|是|是|是|是|是|是|是|
+|Exchange Online|是1|是2|是2|是2|是2|是1|是1|是1|是1|
+|SharePoint Online|是3|是4|是4|是4|是4|是3|是3|是3|是3|
+|商務用 OneDrive|是|是|是|是|是|是|是|是|是|
+|Microsoft Teams|是|是|是|是|是|是|是|是|是|
+|商務用 Skype Online|是|是|是|是|是|是|是|是|是|
+|Project|否5|否5|否5|否5|否5|否5|否5|否5|否5|
+|Yammer Academic|是|是|是|是|是|是|是|是|是|
+|**教室工具**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 學生使用權益**|**Office 365 A5 學員使用權益**|**Microsoft 365 教育版學生使用權益**|**Microsoft 365 教育版的學生使用權益**|
+|Microsoft Teams 的教室體驗|是|是|是|是|是|是|是|是|是|
+|OneNote 課程筆記本|是|是|是|是|是|是|是|是|是|
+|Microsoft Sway|是|是|是|是|是|是|是|是|是|
+|Microsoft Forms|是|是|是|是|是|是|是|是|是|
+|學習工具|是|是|是|是|是|是|是|是|是|
+|協助工具檢查程式|是|是|是|是|是|是|是|是|是|
+|Office Lens|是|是|是|是|是|是|是|是|是|
+|具有程式碼建立器的 Minecraft 教育版|否|否|否|是|是|否|否|是|是|
+|進行測驗應用程式|否|否|否|是|是|否|否|否|否|
+|設定學校電腦應用程式|否|否|否|是|是|否|否|否|否|
+|「**語音影片和會議**」|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A56**|**Office 365 A3 學生使用權益**|**Office 365 A5 學員使用權益**|**Microsoft 365 教育版學生使用權益**|**Microsoft 365 教育版的學生使用權益**|
+|Skype 會議廣播|否|是|是|是|是|否|否|否|否|
+|Microsoft Bookings|否|是|是|是|是|否|否|否|否|
+|Office 365 音訊會議|否|否|是|否|是|否|否|否|否|
+|Office 365 電話系統|否|否|是|否|是|否|否|否|否|
+|**Analytics**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 學生使用權益**|**Office 365 A5 學員使用權益**|**Microsoft 365 教育版學生使用權益**|**Microsoft 365 教育版的學生使用權益**|
+|Delve|是|是|是|是|是|是|是|是|是|
+|Power BI Pro|否|否|是|否|是|否|否|否|否|
+|我的分析|否|否|是|否|是|否|否|否|否|
+|**Azure Active Directory11**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 學生使用權益**|**Office 365 A5 學員使用權益**|**Microsoft 365 教育版學生使用權益**|**Microsoft 365 教育版的學生使用權益**|
+|Azure Active Directory Basic|是|是|是|是|是|是|是|是|是|
+|Azure Active Directory 方案 1|否|否|否|是|否|否|否|是|是|
+|Azure Active Directory 方案 2|否|否|否|否|是|否|否|否|是|
+|**合規性**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 學生使用權益**|**Office 365 A5 學員使用權益**|**Microsoft 365 教育版學生使用權益**|**Microsoft 365 教育版的學生使用權益**|
+|Office 365 版權管理|是|是|是|是|是|是|是|是|是|
+|Azure 資訊保護方案 17|否|否|否|是|否|否|否|否|否|
+|Azure 資訊保護方案 27|否|否|否|否|是|否|否|否|否|
+|訴訟暫止|是|是|是|是|是|是|是|是|是|
+|電子文件探索搜尋|是|是|是|是|是|是|是|是|是|
+|電子文件探索匯出|是|是|是|是|是|是|是|是|是|
+|進階 eDiscovery|否|否|是|否|是|否|否|否|否|
+|資料外洩防護|是|是|是|是|是|是|是|是|是|
+|Office 365 郵件加密|是12|是|是|是|是|是12|是12|是12|是12|
+|Customer Lockbox|否|否|是|否|是|否|否|否|否|
+|進階資料管理|否|否|是|否|是|否|否|否|否|
+|**管理和安全性**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 學生使用權益**|**Office 365 A5 學員使用權益**|**Microsoft 365 教育版學生使用權益**|**Microsoft 365 教育版的學生使用權益**|
+|Office 365 進階威脅防護方案 2|否|否|否|否|否|否|是|否|是|
+|學校資料同步處理|是|是|是|是|是|是|是|是|是|
+|進階安全性管理|否|是|是|是|是|否|否|否|否|
+|Intune 教育版8|否|否|否|是|是|否|否|是|是|
+|進階威脅分析|否|否|否|是|是|否|否|是|是|
+|Windows Defender 防毒軟體|否|否|否|是|是|否|否|否|否|
+|Device Guard|否|否|否|是|是|否|否|否|否|
+|**進階​​安全性**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 學生使用權益**|**Office 365 A5 學員使用權益**|**Microsoft 365 教育版學生使用權益**|**Microsoft 365 教育版的學生使用權益**|
+|進階威脅防護|否|否|是|否|是|否|否|否|是|
+|威脅情報|否|否|是|否|是|否|否|否|否|
+|雲端 App 安全性|否|否|否|否|是|是|是|是|是|
+|Microsoft Defender 進階威脅防護|否|否|否|否|是13|否|否|否|否|
+|**伺服器和 CAL 的優點**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 學生使用權益**|**Office 365 A5 學員使用權益**|**Microsoft 365 教育版學生使用權益**|**Microsoft 365 教育版的學生使用權益**|
+|Exchange9|否|否|否|是10|是|否|否|否|否|
+|SharePoint9|否|否|否|是10|是|否|否|否|否|
+|商務用 Skype9|否|否|否|是10|是|否|否|否|否|
+|Windows Server CAL|否|否|否|是|是|否|否|否|否|
+|Microsoft Endpoint Configuration Manager|否|否|否|是|是|否|否|否|否|
+|System Center Endpoint Protection|否|否|否|是|是|否|否|否|否|
+
   
-|||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|**服務** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
-|Office 365 平臺  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|網頁版 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft 365 Apps 企業版  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Exchange Online  <br/> |是<sup>1</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |
-|SharePoint Online  <br/> |是<sup>3</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
-|商務用 OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft Teams  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|商務用 Skype Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Project  <br/> |否<sup>5</sup> <br/> |否<sup>5</sup> <br/> |否<sup>5</sup> <br/> |否<sup>5</sup> <br/> |否<sup>5</sup> <br/> |
-|Yammer Academic  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**教室工具** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
-|Microsoft Teams 的教室體驗  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|OneNote 課程筆記本  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft Sway  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft Forms  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|學習工具  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|協助工具檢查程式  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office Lens  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|具有程式碼建立器的 Minecraft 教育版  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|進行測驗應用程式  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|設定學校電腦應用程式  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|**語音、視訊和會議** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5**<sup>6</sup> <br/> |
-|Skype 會議廣播  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft Bookings  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 365 音訊會議  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
-|Office 365 電話系統  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
-|**Analytics** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
-|Delve  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Power BI Pro  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
-|我的分析  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
-|**Azure Active Directory**<sup>11</sup> <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
-|Azure Active Directory Basic  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Azure Active Directory 方案 1  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|Azure Active Directory 方案 2  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|**合規性** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
-|Office 365 版權管理  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Azure 資訊保護方案 1<sup>7</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|Azure 資訊保護方案 2<sup>7</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|訴訟暫止  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|電子文件探索搜尋  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|電子文件探索匯出  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|進階 eDiscovery  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
-|資料外洩防護  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 365 郵件加密  <br/> |是<sup>12</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Customer Lockbox  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
-|進階資料管理  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
-|**管理和安全性** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
-|學校資料同步處理  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 365 Cloud App Security  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Intune 教育版<sup>8</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|進階威脅分析  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Microsoft Defender 防病毒  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Device Guard  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|**進階​​安全性** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
-|Office 365 進階威脅防護  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
-|威脅情報  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
-|雲端 App 安全性  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|Microsoft Defender 進階威脅防護  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>13</sup>  <br/> |
-|**伺服器和 CAL 的優點** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
-|Exchange<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
-|SharePoint<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
-|商務用 Skype<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
-|Windows Server CAL  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Microsoft Endpoint Configuration Manager  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|System Center Endpoint Protection  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+
    
 > [!NOTE]
 > <sup>1</sup> 包含 Exchange Online Plan 1 加上附加功能。<br/>
