@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office for web (先前的 Office Web Apps) 會在網頁瀏覽器中開啟 Word、Excel、OneNote 及 PowerPoint 檔。 Office for web 可讓您更輕鬆地從任何地方使用網際網路連線與共享 Office 檔案，從幾乎任何裝置。 Microsoft 365 客戶使用 Word、Excel、OneNote 或 PowerPoint 可以在旅途中查看、建立及編輯檔案。
-ms.openlocfilehash: dec64054bf9f845e1174c216a0fc87f29437f5b2
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 374fb727c2a9e371707903540fbca10b65b954ee
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616919"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276789"
 ---
 # <a name="office-for-the-web-service-description"></a>網頁版 Office 服務描述
 
 Office for web (先前的 Office Web Apps) 會在網頁瀏覽器中開啟 Word、Excel、OneNote 及 PowerPoint 檔。 Office for web 可讓您更輕鬆地從任何地方使用網際網路連線與共享 Office 檔案，從幾乎任何裝置。 Microsoft 365 客戶使用 Word、Excel、OneNote 或 PowerPoint 可以在旅途中查看、建立及編輯檔案。 
   
-若要跨方案比較功能，請參閱[強大的工具來支援您的企業](https://products.office.com/business/compare-more-office-365-for-business-plans)。
+若要跨方案比較功能，請參閱 [強大的工具來支援您的企業](https://products.office.com/business/compare-more-office-365-for-business-plans)。
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>每個 Office 的網路方案功能可用性
 
-需要協助找出最適合組織需求的 Office 解決方案嗎？ 下表比較 Office for web 功能與功能豐富的 Microsoft Office 桌面應用程式的功能。 使用表格來探索可用於 web 的 Office 功能，然後選取功能名稱，以閱讀有關該功能如何運作的簡短說明。 您可能會發現組織中的某些人員需要 Excel 桌面應用程式的「高級圖表功能」，而其他人只需要查看和輕輕鬆地編輯 Word 檔，並使用 web Office 來 PowerPoint 簡報。 
+需要協助找出最適合貴組織的 Office 解決方案嗎？ 下表比較 Office for web 功能與功能豐富的 Microsoft Office 桌面應用程式的功能。 使用表格來探索可用於 web 的 Office 功能，然後選取功能名稱，以閱讀有關該功能如何運作的簡短說明。 您可能會發現組織中的某些人員需要 Excel 桌面應用程式的「高級圖表功能」，而其他人只需要查看和輕輕鬆地編輯 Word 檔，並使用 web Office 來 PowerPoint 簡報。 
   
 > [!NOTE]
 >  Office 桌面套件涵蓋了 Office 的有限精選功能，提供進階功能讓您運用。 此資料表未完整列出 Microsoft Office 的功能。 <br/>  Microsoft Microsoft 365 應用程式企業版是最新版 Office 桌面套件的月度訂閱服務。 <br/>  如果 Microsoft Office Online 伺服器內部部署客戶已購買 Office 桌面套件授權 (（如 Office Professional Plus、Office Standard 或 Microsoft 365 應用程式的企業版授權) ），則會取得 Office 以供 web 編輯授權使用。 
@@ -36,9 +36,8 @@ Office for web (先前的 Office Web Apps) 會在網頁瀏覽器中開啟 Word�
   
 ### <a name="word"></a>Word
 
-||||
+| 應用程式功能 | Word 網頁版 | Word 桌面應用程式 |
 |:-----|:-----|:-----|
-|**應用程式功能** <br/> |**Word 網頁版** <br/> |**Word 桌面應用程式** <br/> |
 |[對齊方式指南和即時配置](word-online.md#alignment-guides-and-live-layout) <br/> |否  <br/> |是  <br/> |
 |[套用樣式](word-online.md#apply-styles) <br/> |是  <br/> |是  <br/> |
 |[自動儲存](word-online.md#autosave) <br/> |是  <br/> |是  <br/> |
@@ -107,14 +106,13 @@ Office for web (先前的 Office Web Apps) 會在網頁瀏覽器中開啟 Word�
 |[縮放](word-online.md#zoom) <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>在檢視器中呈現，但您無法在 Office 中為 web 建立或編輯這些轉譯。 <br/>
-> <sup>2</sup>有些（但非全部） Office 增益集可供使用。 <br/>
+> <sup>1</sup> 在檢視器中呈現，但您無法在 Office 中為 web 建立或編輯這些轉譯。 <br/>
+> <sup>2</sup> 有些（但非全部） Office 增益集可供使用。 <br/>
   
 ### <a name="excel"></a>Excel
 
-||||
+| 應用程式功能 | Excel 網頁版 | Excel 桌面應用程式 |
 |:-----|:-----|:-----|
-|**應用程式功能** <br/> |**Excel 網頁版** <br/> |**Excel 桌面應用程式** <br/> |
 |[協助工具檢查程式](excel-online.md#add-hyperlinks) <br/> |是  <br/> |是  <br/> |
 |[新增背景色彩至工作表索引標籤](excel-online.md#add-background-color-to-sheet-tabs) <br/> |是  <br/> |是  <br/> |
 |[新增超連結](excel-online.md#add-hyperlinks) <br/> |是  <br/> |是  <br/> |
@@ -189,17 +187,16 @@ Office for web (先前的 Office Web Apps) 會在網頁瀏覽器中開啟 Word�
 |[What if 分析工具](excel-online.md#what-if-analysis-tools) <br/> |否  <br/> |是  <br/> |
 
 > [!NOTE] 
-> <sup>1</sup>無法建立 PivotCharts，只供查看。
- <br/><sup>2</sup>視您的環境設定方式而定，某些類型的資料連線支援網頁版 Excel 中顯示的活頁簿。 如需詳細資訊，請參閱 在瀏覽器視窗中重新整理活頁簿的資料。 
- <br/><sup>3</sup>您無法在 Excel for web 中建立或執行含有 vba 的宏，但是您可以開啟和編輯已啟用 VBA 功能的試算表，而不移除 (或破壞) 該檔案中所含的 vba。
- <br/><sup>4</sup>在網頁版 Excel 中，最後一個已知的參考值會顯示在瀏覽器視窗中。不過，必須使用 Excel 桌面應用程式來更新它。 
+> <sup>1</sup> 無法建立 PivotCharts，只供查看。
+ <br/><sup>2</sup> 視您的環境設定方式而定，某些類型的資料連線支援網頁版 Excel 中顯示的活頁簿。 如需詳細資訊，請參閱 在瀏覽器視窗中重新整理活頁簿的資料。 
+ <br/><sup>3</sup> 您無法在 Excel for web 中建立或執行含有 vba 的宏，但是您可以開啟和編輯已啟用 VBA 功能的試算表，而不移除 (或破壞) 該檔案中所含的 vba。
+ <br/><sup>4</sup> 在網頁版 Excel 中，最後一個已知的參考值會顯示在瀏覽器視窗中。不過，必須使用 Excel 桌面應用程式來更新它。 
  <br/><sup>5</sup> 可使用部份但非全部的 Office 增益集。 
   
 ### <a name="onenote"></a>OneNote
 
-||||
+| 應用程式功能 | OneNote 網頁版 | OneNote 桌面應用程式 |
 |:-----|:-----|:-----|
-|**應用程式功能** <br/> |**OneNote 網頁版** <br/> |**OneNote 桌面應用程式** <br/> |
 |[進階的共同作業：將新內容顯示為未讀取、顯示狀態](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |否  <br/> |是  <br/> |
 |[套用標籤](onenote-online.md#apply-tags) <br/> |是  <br/> |是  <br/> |
 |[項目符號和編號](onenote-online.md#bullets-and-numbering) <br/> |是  <br/> |是  <br/> |
@@ -219,7 +216,7 @@ Office for web (先前的 Office Web Apps) 會在網頁瀏覽器中開啟 Word�
 |[筆跡：筆跡成為文字和數學、可自訂的畫筆、繪畫工具](onenote-online.md#inking-ink-to-text-and-math-customizable-pens-drawing-tools) <br/> |否  <br/> |是  <br/> |
 |[筆跡檢視](onenote-online.md#ink-viewing) <br/> |是  <br/> |是  <br/> |
 |[瀏覽](onenote-online.md#navigation) <br/> |是  <br/> |是  <br/> |
-|[筆記本管理：跨章節/筆記本頁面歸檔、重新排序章節、建立/刪除章節群組](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |是<sup>1</sup> <br/> |是  <br/> |
+|[筆記本管理：跨章節/筆記本頁面歸檔、重新排序章節、建立/刪除區段群組](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |是<sup>1</sup> <br/> |是  <br/> |
 |[Office 增益集](onenote-online.md#office-add-ins) <br/> |是<sup>2</sup> <br/> |是  <br/> |
 |[Outlook 整合 (工作)](onenote-online.md#outlook-integration-tasks) <br/> |否  <br/> |是  <br/> |
 |[段落格式化](onenote-online.md#paragraph-formatting) <br/> |是  <br/> |是  <br/> |
@@ -239,16 +236,15 @@ Office for web (先前的 Office Web Apps) 會在網頁瀏覽器中開啟 Word�
 |[檢視先前的頁面版本](onenote-online.md#view-previous-page-versions) <br/> |是  <br/> |是  <br/> |
 
 > [!NOTE]
-> <sup>1</sup>在網路的 OneNote 中，您可以移動筆記本中的區段，並將頁面從一個區段複製並貼到另一個區段。 
- <br/> <sup>2</sup>有些（但非全部） Office 增益集可供使用。 
- <br/><sup>3</sup>您可以在桌上出版本) 中搜尋頁面或區段，但不是整個筆記本或跨筆記本 (。
- <br/><sup>4</sup>在桌上出版本中，沒有「下載」選項，但您可以另存為另一個位置。 
+> <sup>1</sup> 在網路的 OneNote 中，您可以移動筆記本中的區段，並將頁面從一個區段複製並貼到另一個區段。 
+ <br/> <sup>2</sup> 有些（但非全部） Office 增益集可供使用。 
+ <br/><sup>3</sup> 您可以在桌上出版本) 中搜尋頁面或區段，但不是整個筆記本或跨筆記本 (。
+ <br/><sup>4</sup> 在桌上出版本中，沒有「下載」選項，但您可以另存為另一個位置。 
   
 ### <a name="powerpoint"></a>PowerPoint
 
-||||
+| 應用程式功能 | PowerPoint 網頁版 | PowerPoint 桌面應用程式 |
 |:-----|:-----|:-----|
-|**應用程式功能** <br/> |**PowerPoint 網頁版** <br/> |**PowerPoint 桌面應用程式** <br/> |
 |[對齊方式、項目符號、編號](powerpoint-online.md#alignment-bullets-numbers) <br/> |是  <br/> |是  <br/> |
 |[套用基本切換和動畫效果](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |是<sup>1</sup> <br/> |是  <br/> |
 |[將豐富格式套用至文字、形狀和圖片](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |否  <br/> |是  <br/> |
@@ -296,15 +292,14 @@ Office for web (先前的 Office Web Apps) 會在網頁瀏覽器中開啟 Word�
 > [!NOTE]
 ><sup>1</sup> PowerPoint 網頁版支援8個過渡和37動畫的圖庫。 若為較大的選取範圍或建立自訂動畫，請使用 PowerPoint 桌面應用程式。 
  <br/>
-<sup>2</sup>您正在使用的裝置必須支援筆跡。 <br/> 
-<sup>3</sup>有些（但非全部） Office 增益集可供使用。 <br/>
-<sup>4</sup>您無法建立 PivotCharts 或 PivotTables，但您可以在檢視器中查看。 
+<sup>2</sup> 您正在使用的裝置必須支援筆跡。 <br/> 
+<sup>3</sup> 有些（但非全部） Office 增益集可供使用。 <br/>
+<sup>4</sup> 您無法建立 PivotCharts 或 PivotTables，但您可以在檢視器中查看。 
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>Web 上支援的 Office 檔案類型
 
-||||
+| 以 Word 2.0 或更新版本建立的 Word 文件 | 檢視模式 | 編輯模式 |
 |:-----|:-----|:-----|
-|**以 Word 2.0 或更新版本建立的 Word 文件** <br/> |**檢視模式** <br/> |**編輯模式** <br/> |
 |Open XML (.docx)  <br/> |是  <br/> |是  <br/> |
 |二進位 (.doc)  <br/> |是  <br/> |轉換為 .docx  <br/> |
 |巨集 (.docm)  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
@@ -329,7 +324,7 @@ Office for web (先前的 Office Web Apps) 會在網頁瀏覽器中開啟 Word�
    
 > [!NOTE]
 > <sup>1</sup> 巨集無法執行或已變更。<br/>
-> <sup>2</sup>如果宏存在，系統會提示使用者儲存已移除的宏檔的副本。<br/> 
+> <sup>2</sup> 如果宏存在，系統會提示使用者儲存已移除的宏檔的副本。<br/> 
   
 > [!NOTE]
 > 透過 Office 2016、2013、2010 或 2007，或隨附相容性套件的 Office 2000 及更新版本，可建立較新的檔案格式 (例如：.docx, .xlsl 和 .pptx)。 

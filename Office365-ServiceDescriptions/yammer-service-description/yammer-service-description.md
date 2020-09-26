@@ -10,31 +10,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
-description: Yammer 是同級產品最佳、安全且私密的企業社交網路。 Yammer 可讓員工輕鬆協同作業、更快做出決策，以及自行組成小組來迎接任何業務挑戰，進而使員工更具生產力且更為成功。 這是一種新的工作方式，可自然地促成業務契合度和靈活性、減少週期時間、凝聚員工，以及改善與客戶及合作夥伴的關係。
-ms.openlocfilehash: 163bb207292515ff93e5145e70741cea560acf15
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 查看不同的 Yammer 方案中提供的功能。
+ms.openlocfilehash: 5465dc6dadfd69ae365cda70cbc07b54b0bb5220
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132897"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276747"
 ---
 # <a name="yammer-service-description"></a>Yammer 服務說明
 
 Yammer 是同級產品最佳、安全且私密的企業社交網路。 Yammer 可讓員工輕鬆協同作業、更快做出決策，以及自行組成小組來迎接任何業務挑戰，進而使員工更具生產力且更為成功。 這是一種新的工作方式，可自然地促成業務契合度和靈活性、減少週期時間、凝聚員工，以及改善與客戶及合作夥伴的關係。
   
-如需包含 Yammer 的計畫清單，請參閱[Microsoft service 系列與方案](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)。
+如需包含 Yammer 的計畫清單，請參閱 [Microsoft service 系列與方案](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)。
   
-若要跨方案比較功能，請參閱[強大的工具來支援您的企業](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
+若要跨方案比較功能，請參閱 [強大的工具來支援您的企業](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
   
 ## <a name="system-requirements"></a>系統需求
 
-如需適用于企業、教育和政府組織的 Office 365 每月訂閱型服務的系統需求，請參閱[Microsoft 365 和 Office 資源](https://products.office.com/office-system-requirements/#Office365forBEG)。
+如需適用于企業、教育和政府組織的 Office 365 每月訂閱型服務的系統需求，請參閱 [Microsoft 365 和 Office 資源](https://products.office.com/office-system-requirements/#Office365forBEG)。
   
 ## <a name="yammer-plans"></a>Yammer 計劃
 
-Yammer 可透過下列計劃取得：
+Yammer 可透過下列計劃取得：<br><br>
   
-|**計劃**|**描述**|
+| 方案 | 描述 |
 |:-----|:-----|
 |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |企業社交網路 - 隨時隨地。  <br/> |
 |[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |具備進階安全性、系統管理和整合功能的企業社交網路。  <br/> |
@@ -45,25 +45,25 @@ Yammer 可透過下列計劃取得：
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer 企業服務通訊原則
 <a name="YammerCommsPolicy"> </a>
 
-Yammer 會遵守[Microsoft 365 變更管理原則](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/)，但不會使用目標版本來推出更新。 
+Yammer 會遵守 [Microsoft 365 變更管理原則](https://aka.ms/ManageChange)，但不會使用目標版本來推出更新。 
   
 所有 Yammer 使用者都需要接受 A/B 功能測試。這能讓 Microsoft 測試功能，以改善在多種環境與裝置中的穩定性、效能和體驗。同一網路內的使用者可能會因為接受測試而得到不同的體驗。客戶無法選擇退出 A/B 測試。
   
 如果要進行任何需要客戶採取動作或預期會對客戶造成重大影響的變更 (A/B 測試、新功能、取代、法務遵循界限、工作流程變更)，我們會事先發出通知。我們發現了一個 Yammer 所做的變更只會對少部分使用者造成影響的案例。例如，這有可能是變更或移除使用率偏低、但有少量使用者已啟用的功能 (例如 Yammer Chrome 延伸模組)。在這些情況下，我們相信除了平常與「驗證管理員」的溝通管道 (如前述原則所列) 以外，若能直接與這些使用者溝通，將可為少數受到變更影響的使用者帶來良好的使用者體驗。對於分類為「需要因應的變更 (為變更訂計劃)」或「需要知悉的變更 (持續留意)」，且只會影響到特定一組使用者的變更，我們可以直接通知這些使用者。下表已更新以反映此變更。 
   
-用來發出通知的管道視影響程度而定：
+用來發出通知的管道視影響程度而定：<br><br>
   
-|||
+| 變更類型 | 通訊通道 |
 |:-----|:-----|
-|**需要動作的變更（計畫變更）** <br/>需要系統管理員進行變更，讓服務保持執行狀態，更新可能會影響組織的合規性  <br/> |-Office 365 訊息中心電子郵件 direct to Yammer 已驗證的系統管理員 <br/>-Microsoft 365 藍圖<br/>-Yammer 服務更新<br/>-外部群組<br/>對於只會影響到特定一組使用者的變更，我們也可以直接通知這些使用者。 |
-|**需要知曉的變更（保持通知）**<br/>不需要系統管理員指令動作的變更，視覺設計變更  <br/> |-Office 365 訊息中心<br/>-Microsoft 365 藍圖<br/>-Yammer 服務更新<br/>-外部群組<br/>對於只會影響到特定一組使用者的變更，我們也可以直接通知這些使用者。 |
+|**需要動作的變更 (規劃變更) ** <br/>需要系統管理員進行變更，讓服務保持執行狀態，更新可能會影響組織的合規性  <br/> |-Office 365 訊息中心電子郵件 direct to Yammer 已驗證的系統管理員 <br/>-Microsoft 365 藍圖<br/>-Yammer 服務更新<br/>-外部群組<br/>對於只會影響到特定一組使用者的變更，我們也可以直接通知這些使用者。 |
+|**需要知曉 (所做的變更會保持通知) **<br/>不需要系統管理員指令動作的變更，視覺設計變更  <br/> |-Office 365 訊息中心<br/>-Microsoft 365 藍圖<br/>-Yammer 服務更新<br/>-外部群組<br/>對於只會影響到特定一組使用者的變更，我們也可以直接通知這些使用者。 |
 |**非危急** <br/>不重要且不需要採取動作或認知的變更，即使這些變更可能會由某些使用者觀察  <br/> |不會廣泛通知 |
    
 ## <a name="feature-availability-across-yammer-plans"></a>各 Yammer 計劃中可用的功能
 
-需要協助找出最適合組織需求的 Yammer 計劃嗎？ 請使用下表來查看各個計劃中提供哪些功能。 選取功能名稱，以閱讀有關該功能如何在 Yammer 中運作的簡短摘要。
+需要協助找出最適合組織需求的 Yammer 計劃嗎？ 請使用下表來查看各個計劃中提供哪些功能。 選取功能名稱，以閱讀有關該功能如何在 Yammer 中運作的簡短摘要。<br><br>
   
-|**功能**|**Yammer Basic**|**Yammer Enterprise**|
+| 功能 | Yammer Basic | Yammer Enterprise |
 |:-----|:-----|:-----|
 |[群組](group-features-in-yammer.md#groups) <br/> | 是  <br/> |是  <br/> |
 |[相關群組](group-features-in-yammer.md#related-groups) <br/> |是  <br/> |是  <br/> |

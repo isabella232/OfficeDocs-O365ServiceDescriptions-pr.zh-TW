@@ -8,29 +8,28 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: 透過 Visio for web，您可以在網頁上查看、編輯和共用 Visio 圖表。
-ms.openlocfilehash: d9a206f56c4ef8641dc248c0d22301afd887c62f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 在 Visio 中比較使用 Visio 桌面應用程式的網站功能。
+ms.openlocfilehash: bc360ef3348179aaeba4eb1111004e4088707f63
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131947"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276662"
 ---
 # <a name="visio-for-the-web-service-description"></a>網頁版 Visio 服務描述
 
 透過 Visio for web，您可以在網頁上查看、編輯和共用 Visio 圖表。 從基本圖表開始，以表達常見的創意，例如描述計畫、提出提案或描述程式中的步驟順序。 使用常用圖表類型和豐富的圖案集，可輕鬆建立第一個課程圖表。 針對 web 使用者的 Visio，您可以在上傳至 SharePoint Online 或 OneDrive for Business Online 的檔案中共用圖表和插入批註，以進行流覽及共同作業。
   
-如需詳細資訊及開始，請參閱[Visio 方案 1](https://products.office.com/en-US/visio/visio-online)。
+如需詳細資訊及開始，請參閱 [Visio 方案 1](https://products.office.com/visio/visio-online)。
   
-若要在使用 Visio for web 時取得協助，請參閱[Visio help & 教學](https://support.office.com/visio)。
+若要在使用 Visio for web 時取得協助，請參閱 [Visio help & 教學](https://support.office.com/visio)。
   
 ## <a name="feature-availability-and-comparison"></a>功能可用性和比較
 
-下表比較 Visio 的 web 功能與功能豐富的 Visio desktop app 的功能。 您可以使用表格來探索哪些功能可用於 web Visio，然後選取功能名稱，以閱讀有關該功能如何運作的簡短描述。 您可能會發現組織中的某些人員需要 Visio 桌面應用程式的高級功能，其他人只需要透過 Visio 來查看和輕微編輯 Visio 圖表，以供網頁使用。 
+下表比較 Visio 的 web 功能與功能豐富的 Visio desktop app 的功能。 您可以使用表格來探索哪些功能可用於 web Visio，然後選取功能名稱，以閱讀有關該功能如何運作的簡短描述。 您可能會發現組織中的某些人員需要 Visio 桌面應用程式的高級功能，其他人只需要透過 Visio 來查看和輕微編輯 Visio 圖表，以供網頁使用。<br><br> 
   
-||||
+| 應用程式功能 | Visio 網頁版 | Visio 桌面應用程式 |
 |:-----|:-----|:-----|
-|**應用程式功能** <br/> |**網頁版 Visio** <br/> |**Visio 桌面應用程式** <br/> |
 |[將豐富格式設定套用至文字和圖形](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |是  <br/> |是  <br/> |
 |[排列物件](visio-online.md#arrange-objects) <br/> |是  <br/> |是  <br/> |
 |[建立混合式解決方案](visio-online.md#build-mashup-solutions) <br/> |是  <br/> |是  <br/> |
@@ -57,20 +56,19 @@ ms.locfileid: "45131947"
 |[在瀏覽器中查看 Visio 檔案](visio-online.md#view-visio-files-in-the-browser) <br/> |是  <br/> |是  <br/> |
 |[縮放](visio-online.md#zoom) <br/> |是<sup>6</sup> <br/> |是  <br/> |
    
-> <sup>1</sup>追蹤超連結（無法插入或編輯）。 
-<br/><sup>2</sup>使用 SharePoint 或單一磁片磁碟機進行共用，並與沒有 SharePoint 或 OneDrive 的使用者共用。 
-<br/> <sup>3</sup>無法在 Visio For web 編輯器中使用。
-<br/><sup>4</sup>無法在 Visio 中供 web Viewer 使用。 
-<br/><sup>5</sup>無法在 Visio 中使用 web 編輯器，但您可以切換至查看模式及查看批註。 
-<br/><sup>6</sup>可用於 web 編輯器的 Visio。 
+> <sup>1</sup> 追蹤超連結 (無法在) 插入或編輯它們。 
+<br/><sup>2</sup> 使用 SharePoint 或單一磁片磁碟機進行共用，並與沒有 SharePoint 或 OneDrive 的使用者共用。 
+<br/> <sup>3</sup> 無法在 Visio For web 編輯器中使用。
+<br/><sup>4</sup> 無法在 Visio 中供 web Viewer 使用。 
+<br/><sup>5</sup> 無法在 Visio 中使用 web 編輯器，但您可以切換至查看模式及查看批註。 
+<br/><sup>6</sup> 可用於 web 編輯器的 Visio。 
   
 ## <a name="supported-file-types-in-visio-for-the-web"></a>Visio for web 中支援的檔案類型
 
-||||
+| 在 Visio 2010 或更新版本中建立的 Visio 圖表 | 檢視模式 | 編輯模式 |
 |:-----|:-----|:-----|
-|**在 Visio 2010 或更新版本中建立的 Visio 圖表** <br/> |**檢視模式** <br/> |**編輯模式** <br/> |
-|Open XML （.vsdx）  <br/> |是  <br/> |否  <br/> |
-|二進位（.vsd）  <br/> |是  <br/> |否  <br/> |
-|宏（vsdm）  <br/> |是  <br/> |否  <br/> |
+|Open XML ( .vsdx)   <br/> |是  <br/> |否  <br/> |
+|二進位 ( .vsd)   <br/> |是  <br/> |否  <br/> |
+|宏 ( vsdm)   <br/> |是  <br/> |否  <br/> |
    
 

@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 瞭解 Microsoft 365 和獨立方案的 SharePoint 限制。
-ms.openlocfilehash: d01e2af69d566b0e44d515e762049acd3cfba864
-ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
+ms.openlocfilehash: 5563789395bbf1113e29fb368997aeba53119bc3
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "47962092"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276730"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -22,9 +22,8 @@ ms.locfileid: "47962092"
   
 ## <a name="limits-by-plan"></a>依方案的限制 
 
-|||||
+| 功能 | Microsoft 365 商務基本、商務標準或商務版特優 | Microsoft 365 E3 或 E5、Office 365 E1、E3 或 E5，或 SharePoint 方案1或2 | Microsoft 365 F1 或 F3，Office 365 F3 |
 |:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Microsoft 365 商務基本、商務標準或商務版特優** <br/> |**Microsoft 365 E3 或 E5、Office 365 Enterprise E1、E3 或 E5，或 SharePoint 方案1或2** <br/> | **Microsoft 365 F1 或 F3，Office 365 Enterprise F3** <br/> |
 |每個組織的總儲存量<sup>1，2，6</sup> <br/> |每個授權購買 1 TB 外加 10 GB<sup>3</sup>  <br/> |每個授權購買 1 TB 外加 10 GB<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |每個網站的儲存容量上限 (網站集合) <sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |每個組織 (網站集合) 的網站集合  <br/> |2000000<sup>6</sup> <br/> |2000000<sup>6</sup> <br/> |2000000<br/> |
@@ -36,7 +35,7 @@ ms.locfileid: "47962092"
 <br/> <sup>4</sup> 這是先前稱為「網站集合」 ) 之單一 (網站的儲存量 *限制* ，而非每個網站所 *提供* 的儲存量。 此限制適用于所有類型的網站，包括 Office 365 群組連線的小組網站和 OneDrive。 SharePoint 管理員可以 [手動設定較低的儲存量限制](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)。 
 <br/> <sup>5</sup> Firstline 工作者無法管理 SharePoint 網站。 
 <br/> <sup>6</sup> 不包括為每個授權使用者建立的 OneDrive。 
-<br/> <sup>7</sup> 如果您有 500,000 位以上的使用者，請連絡 Microsoft 代表。 
+<br/> <sup>7</sup> 如果您有500000以上的使用者，請與 Microsoft 代表聯繫。 
   
 ## <a name="service-limits-for-all-plans"></a>所有方案的服務限制
 
@@ -49,9 +48,9 @@ ms.locfileid: "47962092"
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>清單或文件庫中專案的特定權限
 
-允許的限制50000是專屬許可權唯一的專案，但是建議的一般限制為5000。 若要變更超過5000的專案，請專屬許可權一次以上的專案。 針對大型清單，設計若盡可能具有少數獨特的許可權。
+允許的限制為50000專屬許可權專案，但建議的一般限制為5000。 若一次變更超過5000的專屬許可權專案，則會花更長的時間進行變更。 針對大型清單，設計若盡可能具有少數獨特的許可權。
 
-另一個限制是每個唯一專屬許可權專案5000的角色指派。 
+另一個限制是每個專屬許可權專案的角色指派為5000。 
 
 ### <a name="file-size-and-file-path-length"></a>檔案大小及檔案路徑長度
 

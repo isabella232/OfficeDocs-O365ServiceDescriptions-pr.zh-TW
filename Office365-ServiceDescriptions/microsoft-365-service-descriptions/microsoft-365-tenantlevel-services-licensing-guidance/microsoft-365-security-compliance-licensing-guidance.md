@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: f2da71ee9bdc8f8250d3f4a98e8f09b0a43edede
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: fc3385774a01e76b7297aa77a490acf6153b555c
+ms.sourcegitcommit: 57f06932a94f09990c0e02a2da491923ca2c1a2f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245728"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48284985"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -164,7 +164,7 @@ Azure AD P1 為使用者提供的權力，可從 MCAS 中的探索功能中受�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-使用 Office 365 E1/A1/E3/A3 和 Microsoft 365 E3/A3 授權的客戶將可以存取資料保護基準評估。 使用 Office 365 E5/A5 和 Microsoft 365 E5/A5 授權的客戶，將可以存取資料保護基準、GDPR、NIST 800-53 及 ISO 22701 現成評估。 特優評估可用於購買至 Office 365 E5/A5 和 Microsoft 365 E5/A5 客戶。
+使用 Office 365 E1/A1/E3/A3 和 Microsoft 365 E3/A3 授權的客戶將可以存取資料保護基準評估。 使用 Office 365 E5/A5 和 Microsoft 365 E5/A5 授權的客戶，將可以存取資料保護基準、GDPR、NIST 800-53 及 ISO 22701 現成評估。 客戶必須至少有一個 Office 365 E5/A5 或 Microsoft 365 E5/A5 授權，才能使用自訂評估功能。 特優評估可用於購買至 Office 365 E5/A5 和 Microsoft 365 E5/A5 客戶。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -211,7 +211,7 @@ Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium、Enterprise 可移動性
 > [!NOTE]
 > Power BI 隨附于 Microsoft 365 E5/A5/G5;在所有其他計畫中，Power BI 必須另行授權。
 
-Microsoft 365 E5/A5/G5，Microsoft 365 E5/a5/g5，Microsoft 365 資訊保護和控管，Office 365 E5，Office 365 Advanced 合規性，Enterprise 可移動性 + Security E5，及 AIP Plan 2 為使用者提供的權力，可供使用者從自動敏感度標記中受益。
+Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/g5，Microsoft 365 資訊保護和控管，Office 365 E5，Office 365 Advanced 合規性，Enterprise 可移動性 + Security E5 和 AIP Plan 2 為使用者提供的權力，可供使用者從自動敏感度標記中受益。
 
 如需授權的特定權利，請參閱詳細的 Microsoft 365 相容性授權比較。 [ (PDF) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)不包含根據機器學習 (trainable 的分類器) 自動分類的許可權。
 
@@ -247,7 +247,7 @@ Microsoft 365 E5/A5/E3/A3 和 Office 365 E5/A5/E3/A3 可為使用者提供從小
 
 Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 資訊保護和控管，Office 365 E5/A5，和 Office 365 的「高級法規遵從性」為使用者提供的權力，可讓使用者從自動套用保留標籤或原則，獲得好處。套用預設保留標籤或原則，根據自訂事件開始保留標籤的保留期間，在標籤保留期間結束時觸發手動處置檢查、將協力廠商資料匯入到原生資料連線器、宣告檔案 a 記錄、探索標示的內容，以及監視標記活動。
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 資訊保護和控管為使用者提供的權力，是根據 trainable 的分類器自動套用保留標籤。
+Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 資訊保護和控管為使用者提供的權力，是根據 trainable 的分類器自動套用保留標籤。
 
 如需授權的特定權利，請參閱詳細的 Microsoft 365 相容性授權比較。 [ (PDF) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -267,7 +267,7 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 資訊保護
 
 Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 資訊保護和控管，Office 365 E5/A5，Office 365 的「高級法規遵從性」為使用者提供的許可權可讓使用者受益于記錄管理，包括宣告專案為記錄、自動套用保留或記錄標籤，以及執行處置審閱程式 (排除以 trainable 的分類器) 自動套用保留
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 符合性，Microsoft 365 資訊保護和控管為使用者提供的權力，是根據 trainable 的分類器自動套用保留或記錄標籤。
+Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 資訊保護和控管為使用者提供的權力，是根據 trainable 的分類器自動套用保留或記錄標籤。
 
 如需授權的特定權利，請參閱詳細的 Microsoft 365 相容性授權比較。 [ (PDF) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -567,7 +567,7 @@ Office 365 E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，而 Mic
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-管理員選擇要包含在通訊合規性原則中的特定使用者或群組。 選擇群組時，使用者也可以從通訊合規性原則中，選取要排除在群組中的特定使用者。 如需有關通訊相容性原則的詳細資訊，請參閱 [Microsoft 365 中的通訊相容性](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)。
+管理員選擇要包含在通訊合規性原則中的特定使用者或群組。 選擇群組時，使用者也可以從通訊合規性原則中，選取要排除在群組中的特定使用者。 如需通訊相容性原則的詳細資訊，請參閱 [Microsoft 365 中的通訊相容性](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)。
 
 ## <a name="insider-risk-management"></a>測試人員風險管理
 
