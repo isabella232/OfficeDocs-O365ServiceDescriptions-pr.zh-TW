@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組織的需求。 如果您正在尋找方案（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
-ms.openlocfilehash: 047da03c7cae7ef907824bdff95a94bd6f15bfb6
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 7cf4d42f1108e4ca303e2150449d3a6767487afc
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261525"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293819"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服務說明
 
@@ -218,7 +218,7 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 <br/><sup>11</sup> 在 Office 365 Enterprise F3 中，Office 365 影片只限于查看 (沒有發佈或共用) 。 
 <br/><sup>12</sup> 在 Office 365 Enterprise F3 中，流程只會限制在使用中，每位使用者每個月的執行數目限制為750。 
 <br/><sup>13</sup> 只有 Office 365 教育版方案（包括 Office 365 E5 教育版）提供。 It is not available in Office 365 Enterprise E5. 
-<br/><sup>14</sup> 如需詳細資訊，請參閱 [Service Encryption with Customer Key](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)。 
+<br/><sup>14</sup> 如需詳細資訊，請參閱 [Service Encryption with Customer Key](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697)。 
 <br/><sup>15</sup> 美國和西歐 (荷蘭) 地區支援 Advanced eDiscovery。 (來自加拿大和亞太地區的客戶資料會匯出至美國。 來自歐洲、中東和非洲的客戶資料會匯出到西歐 [荷蘭]。)
 <br/>僅限 Microsoft Stream 的<sup>16 個</sup>消耗：無發佈或共用。
 <br/><sup>17</sup> 從2019年5月開始，backfilled Office 365 和 Microsoft 365 的現有合格 SKUs 會與 Kaizala Pro 一起使用。 從2019年6月1日開始，Kaizala Pro 將會包含在所有合格的 Office 365 和 Microsoft 365 SKUs 中。

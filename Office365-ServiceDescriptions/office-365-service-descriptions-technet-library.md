@@ -13,20 +13,20 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 和 Office 365 是雲端式服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。
-ms.openlocfilehash: 64c21ecc0ebe63ba973f4efafec926bddd6ba3c0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e991d402b5e6c20b95b83fbe1666f6817b383362
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131457"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294179"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服務描述 
 
 Microsoft 365 和 Office 365 是雲端式服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。 
   
-此文件庫中的主題提供 Microsoft 365 和 Office 365 提供之服務和功能的詳細說明。 若要跨方案比較功能，請參閱以下清單中的[功能強大的工具來支援您的企業](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)或相關的服務描述。 
+此文件庫中的主題提供 Microsoft 365 和 Office 365 提供之服務和功能的詳細說明。 若要跨方案比較功能，請參閱以下清單中的 [功能強大的工具來支援您的企業](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 或相關的服務描述。 
   
-如需支援文章和資訊，請參閱[Office Help & 訓練](https://support.office.com/)、[系統管理員和 it 專業人員的 office 檔](https://docs.microsoft.com/office/)，以及適用[于系統管理員和 it 專業人員的 Microsoft 365 協助中心](https://docs.microsoft.com/microsoft-365/?view=o365-worldwide)。
+如需支援文章和資訊，請參閱 [Office Help & 訓練](https://support.office.com/)、 [系統管理員和 it 專業人員的 office 檔](https://docs.microsoft.com/office/)，以及適用 [于系統管理員和 it 專業人員的 Microsoft 365 協助中心](https://docs.microsoft.com/microsoft-365/)。
   
 > [!NOTE]
 > 如果您正在尋找服務描述比較試算表，它已經停用。 每個服務描述頁面上的產品功能可用性表格已更新，可更好地協助您選擇符合您需求的 Office 365 版本。 
@@ -86,5 +86,5 @@ Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTr
   
 ## <a name="disclaimer"></a>免責聲明
 
-&copy;2018 Microsoft Corporation。 著作權所有，並保留一切權利。 Microsoft、Office 365 及其他產品和服務名稱為或可能為美國及/或其他國家/地區的註冊商標及/或商標。 本處提供之資訊僅供參考用，並且代表 Microsoft Corporation 在本文件最後發行或修訂日期當時的最新觀點。 這些資訊不構成服務合約，亦不代表對 Microsoft 或客戶做出本處所述之任何功能、能力或責任承諾。 MICROSOFT 對本文件中的資訊不作任何擔保、明示、默示或法定之擔保。
+&copy; 2018 Microsoft Corporation。 著作權所有，並保留一切權利。 Microsoft、Office 365 及其他產品和服務名稱為或可能為美國及/或其他國家/地區的註冊商標及/或商標。 本處提供之資訊僅供參考用，並且代表 Microsoft Corporation 在本文件最後發行或修訂日期當時的最新觀點。 這不是服務合約的計畫，也不會將 Microsoft 或客戶認可于本文所述的任何功能、功能或責任。 MICROSOFT 對本文件中的資訊不作任何擔保、明示、默示或法定之擔保。
  

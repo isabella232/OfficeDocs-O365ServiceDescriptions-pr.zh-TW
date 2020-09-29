@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
-description: Microsoft Exchange Online 封存是 Microsoft 365 雲端型企業級封存解決方案，適用于已部署 Microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、microsoft exchange server 2010 (SP2 和更新版本) 或訂閱特定 Exchange Online 或 Microsoft 365 方案的組織。 Exchange Online Archiving可為這些組織在封存、符合性、法規及 eDiscovery 挑戰等方面提供協助，同時可簡化內部部署基礎結構，進而降低成本和減輕 IT 重擔。
-ms.openlocfilehash: 5039ac00dca0cce5f79eb5bed743e5a4cb1e388b
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+description: 請閱讀本文以瞭解 Microsoft Exchange Online 封存。
+ms.openlocfilehash: 4c83a11a953f29c20c6e7e743403985c465d0aad
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214302"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293629"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online 封存服務說明
 

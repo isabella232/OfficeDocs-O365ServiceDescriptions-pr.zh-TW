@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
-ms.openlocfilehash: 17f16feff60a54d3781089a4f08c0eb6e6fb21c2
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: e826db7c1c83a99f468379ea1f387fa4a473c025
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214342"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293789"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -239,7 +239,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 下列限制會套用至每封電子郵件。
 
-- **郵件大小限制**：您必須要有郵件大小限制，以防止大郵件封鎖其他郵件的傳遞，並影響所有使用者的服務效能。 這些限制包含附件，且適用於整個組織內的所有郵件 (內送、外寄和內部)。 大於此上限的郵件將不會傳遞，而寄件者將收到未傳遞回報 (NDR)。 雖然郵件大小上限無法上調、下調或依各使用者為基準設定，管理員仍可建立傳輸規則來限制任何個別附件的最高大小上限。 若要深入瞭解，請參閱 [Microsoft 支援較大的電子郵件訊息](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。
+- **郵件大小限制**：您必須要有郵件大小限制，以防止大郵件封鎖其他郵件的傳遞，並影響所有使用者的服務效能。 這些限制包含附件，且適用於整個組織內的所有郵件 (內送、外寄和內部)。 大於此上限的郵件將不會傳遞，而寄件者將收到未傳遞回報 (NDR)。 雖然郵件大小上限無法上調、下調或依各使用者為基準設定，管理員仍可建立傳輸規則來限制任何個別附件的最高大小上限。 若要深入瞭解，請參閱 [Microsoft 支援較大的電子郵件訊息](https://go.microsoft.com/fwlink/?linkid=2144144)。
 
     > [!NOTE]
     > 部分電子郵件用戶端可擁有較低的郵件大小或可限制個別檔案附件的大小為小於 Exchange Online 郵件大小上限的值。
@@ -280,7 +280,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |內嵌郵件深度限制|30 封內嵌郵件|30 封內嵌郵件|30 封內嵌郵件|30 封內嵌郵件|30 封內嵌郵件|30 封內嵌郵件|
 
 > [!NOTE]
-> <sup>1</sup> Microsoft 信箱的預設郵件大小上限為 25 MB。 Microsoft 系統管理員可以指定介於 1 MB 到 150 MB 之間的自訂限制。 不過，您可以傳送或接收的郵件大小也取決於您的電子郵件用戶端或解決方案支援的項目。 如需自訂群組織允許的最大郵件大小上限的詳細資訊，請參閱 [Microsoft 支援較大的電子郵件](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。 
+> <sup>1</sup> Microsoft 信箱的預設郵件大小上限為 25 MB。 Microsoft 系統管理員可以指定介於 1 MB 到 150 MB 之間的自訂限制。 不過，您可以傳送或接收的郵件大小也取決於您的電子郵件用戶端或解決方案支援的項目。 如需自訂群組織允許的最大郵件大小上限的詳細資訊，請參閱 [Microsoft 支援較大的電子郵件](https://go.microsoft.com/fwlink/?linkid=2144144)。 
 <br/> <sup>2</sup> 您可以在使用者 (之間傳送和接收最多 150 MB 的郵件，而郵件永遠不會離開 Microsoft 資料中心) 。 在 Microsoft 資料中心之外路由傳送的郵件，會受到其他33% 翻譯編碼的增加，在這種情況下，郵件大小上限為 112 MB。 <br/> 
 <sup>3</sup> OWA 會計算您的訊息可能受限於編碼增加 33% 的可能性，並且會將您可以傳送的郵件大小限制為小於已配置的設定 25%。 例如，如果您自訂的設定是 100 MB 的郵件大小上限，您可以傳送的郵件不超過 75 MB。 
 <br/> <sup>4</sup> Exchange Online 會計算要移動至 Exchange Online 的郵件大小。 Exchange Server 2013 之前的 Exchange 版本可能會報告較小的項目大小。 此限制適用于使用任何支援的 Exchange 信箱複寫服務的移動型遷移。 其他遷移方法 (轉換、分段、IMAP、PST) 和其他第三方工具都受限於一般訊息大小限制。 <br/> 
@@ -309,7 +309,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |內嵌郵件深度限制|30 封內嵌郵件|30 封內嵌郵件|30 封內嵌郵件|30 封內嵌郵件|
 
 > [!NOTE]
-> <sup>1</sup> Microsoft 管理員可以指定介於 1 MB 到 150 MB 之間的自訂限制。 不過，您可以傳送或接收的郵件大小也取決於您的電子郵件用戶端或解決方案支援的項目。 如需自訂群組織允許的最大郵件大小上限的詳細資訊，請參閱 [Microsoft 支援較大的電子郵件](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。 <br/> <sup>2</sup> 您可以在使用者 (之間傳送和接收最多 150 MB 的郵件，而郵件永遠不會離開 Microsoft 資料中心) 。 在 Microsoft 資料中心之外路由傳送的郵件，會受到其他33% 翻譯編碼的增加，在這種情況下，郵件大小上限為 112 MB。 <br/> 
+> <sup>1</sup> Microsoft 管理員可以指定介於 1 MB 到 150 MB 之間的自訂限制。 不過，您可以傳送或接收的郵件大小也取決於您的電子郵件用戶端或解決方案支援的項目。 如需自訂群組織允許的最大郵件大小上限的詳細資訊，請參閱 [Microsoft 支援較大的電子郵件](https://go.microsoft.com/fwlink/?linkid=2144144)。 <br/> <sup>2</sup> 您可以在使用者 (之間傳送和接收最多 150 MB 的郵件，而郵件永遠不會離開 Microsoft 資料中心) 。 在 Microsoft 資料中心之外路由傳送的郵件，會受到其他33% 翻譯編碼的增加，在這種情況下，郵件大小上限為 112 MB。 <br/> 
 <sup>3</sup> OWA 會計算您的訊息可能受限於編碼增加 33% 的可能性，並且會將您可以傳送的郵件大小限制為小於已配置的設定 25%。 例如，如果您自訂的設定是 100 MB 的郵件大小上限，您可以傳送的郵件不超過 75 MB。 <br/> 
 <sup>4</sup> 這是 Exchange Server 2013 組織的預設限制。 系統管理員可以為其組織變更此值。 <br/> 
 <sup>5</sup> Exchange Online 會計算要移動至 Exchange Online 的郵件大小。 Exchange Server 2013 之前的 Exchange 版本可能會報告較小的項目大小。 <br/> 

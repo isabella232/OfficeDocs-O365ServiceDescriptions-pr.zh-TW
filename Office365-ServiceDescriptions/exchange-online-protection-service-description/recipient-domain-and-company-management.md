@@ -1,5 +1,5 @@
 ---
-title: 收件者、網域和公司管理
+title: Exchange Online Protection 中的收件者、網域和公司管理
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,19 +10,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
-description: Microsoft Exchange Online Protection （EOP）提供數種方式來管理您的收件者、網域和公司資訊。 以系統管理員身分，您可以在 Exchange 系統管理中心（EAC）內執行某些管理工作，並驗證在 Microsoft 365 系統管理中心中執行的其他管理工作。
-ms.openlocfilehash: 4a2d2d091a6170e0606702a4a8047a21ad57ac11
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 若要瞭解 Microsoft Exchange Online Protection (EOP) 中的收件者、網域和公司管理，請閱讀本文。
+ms.openlocfilehash: 7be36ecbf065eb7bc1ce2c890ac84a6fea565c68
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132767"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294119"
 ---
-# <a name="recipient-domain-and-company-management"></a>收件者、網域和公司管理
+# <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Exchange Online Protection 中的收件者、網域和公司管理
 
-Microsoft Exchange Online Protection （EOP）提供數種方式來管理您的收件者、網域和公司資訊。 以系統管理員身分，您可以在 Exchange 系統管理中心（EAC）內執行某些管理工作，並驗證在 Microsoft 365 系統管理中心中執行的其他管理工作。
+Microsoft Exchange Online Protection (EOP) 提供數種方式來管理您的收件者、網域和公司資訊。 以管理員身分，您可以在 Exchange 系統管理中心內執行某些管理工作 (EAC) ，並確認在 Microsoft 365 系統管理中心中執行的其他管理工作。
   
-尋找所有 EOP 功能的相關資訊嗎？ 請參閱[Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
+尋找所有 EOP 功能的相關資訊嗎？ 請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
   
 ## <a name="mail-recipients"></a>Mail recipients
 
@@ -42,10 +42,10 @@ Microsoft Exchange Online Protection （EOP）提供數種方式來管理您的�
   
 ## <a name="directory-based-edge-blocking-dbeb"></a>目錄架構邊緣封鎖 (DBEB)
 
-目錄架構邊緣封鎖功能可讓您拒絕服務網路周邊的無效收件者的郵件。 DBEB 可讓系統管理員將擁有郵件功能的收件者新增至 Microsoft，並封鎖所有傳送至 Microsoft 未出現之電子郵件地址的郵件。 如果郵件傳送至 Microsoft 中有效的電子郵件地址，郵件會繼續進行其他服務篩選層（反惡意程式碼、反垃圾郵件、傳輸規則）。 如果地址不存在，則服務會先封鎖郵件，再進行篩選，並將未傳遞回報 (NDR) 傳送給寄件者，通知他們未傳遞其郵件。 
+目錄架構邊緣封鎖功能可讓您拒絕服務網路周邊的無效收件者的郵件。 DBEB 可讓系統管理員將擁有郵件功能的收件者新增至 Microsoft，並封鎖所有傳送至 Microsoft 未出現之電子郵件地址的郵件。 如果郵件傳送至 Microsoft 中的有效電子郵件地址，郵件會繼續進行其他服務篩選層， (反惡意程式碼、反垃圾郵件、傳輸規則) 。 如果地址不存在，則服務會先封鎖郵件，再進行篩選，並將未傳遞回報 (NDR) 傳送給寄件者，通知他們未傳遞其郵件。 
   
 需要進行使用者和網域設定才能啟用 DBEB。如需詳細資訊，請參閱[使用目錄架構邊緣封鎖拒絕傳送給無效收件者的郵件](https://go.microsoft.com/fwlink/p/?LinkId=390676)。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。

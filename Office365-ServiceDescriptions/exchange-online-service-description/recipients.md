@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 本主題說明 Microsoft Exchange Online 中包含的收件者相關功能。 其中包括電子郵件、連絡人、通訊群組，以及行事曆與排程功能。
-ms.openlocfilehash: a2d1f37bf4f86399522573d18177f6c397fd761c
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5156272ea444414b8da650cf294f99bdfb8b4081
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132637"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293859"
 ---
 # <a name="recipients"></a>收件者
 
@@ -33,7 +33,7 @@ ms.locfileid: "45132637"
 
 每位使用者可使用的信箱儲存量和預設信箱大小由信箱類型和使用者的訂閱授權而定。管理員可降低單一使用者或全域的最高信箱大小。當使用者的信箱接近容量限制或達到容量限制時，Exchange Online 也會提供通知。
   
-如需詳細資訊，請參閱本主題中的「信箱儲存限制」和「容量警示」一節中的[Exchange Online 限制](exchange-online-limits.md)。
+如需詳細資訊，請參閱本主題中的「信箱儲存限制」和「容量警示」一節中的 [Exchange Online 限制](exchange-online-limits.md)。
   
 ### <a name="mailtips"></a>MailTips
 
@@ -57,11 +57,11 @@ Exchange Online 允許使用者建立收到電子郵件時的收件匣規則，�
   
 ### <a name="clutter"></a>雜亂資料
 
-雜亂資料設計來協助您專注於收件匣中的最重要郵件。它會使用電腦學習，透過移出低優先順序的郵件並將它放入新的 [雜亂資料] 資料夾，來去除收件匣的雜亂資料。雜亂資料會使用現有電子郵件規則，因此，如果您已經建立規則來組織電子郵件，則會繼續套用那些規則，而且雜亂資料不會處理那些郵件。預設會停用收件匣的雜亂資料。若要深入了解，請參閱[在 Office 365 中去除收件匣的雜亂資料](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/)。
+雜亂資料設計來協助您專注於收件匣中的最重要郵件。它會使用電腦學習，透過移出低優先順序的郵件並將它放入新的 [雜亂資料] 資料夾，來去除收件匣的雜亂資料。雜亂資料會使用現有電子郵件規則，因此，如果您已經建立規則來組織電子郵件，則會繼續套用那些規則，而且雜亂資料不會處理那些郵件。預設會停用收件匣的雜亂資料。若要深入了解，請參閱[在 Office 365 中去除收件匣的雜亂資料](https://go.microsoft.com/fwlink/?linkid=2144145)。
   
 ### <a name="connected-accounts"></a>連結帳戶
 
-「已連線的帳戶」功能可讓 Exchange Online 使用者將外部電子郵件帳戶（例如個人帳戶）連線至 Exchange Online 中的內部電子郵件帳戶，然後使用網頁上的 Outlook，在單一位置與其所有郵件互動。 連線的帳戶會在登入至網頁型 Outlook 時自動同步處理。使用者也可以手動從網頁上的 Outlook 同步處理帳戶。 管理員可透過 [Exchange 系統管理中心](https://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409)為特定使用者或所有使用者啟用或停用此功能。
+「已連線的帳戶」功能可讓 Exchange Online 使用者將外部電子郵件帳戶 (（例如個人帳戶）) 至 Exchange Online 中的內部電子郵件帳戶，然後使用網頁上的 Outlook 以單一位置與其所有郵件互動。 連線的帳戶會在登入至網頁型 Outlook 時自動同步處理。使用者也可以手動從網頁上的 Outlook 同步處理帳戶。 管理員可透過 [Exchange 系統管理中心](https://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409)為特定使用者或所有使用者啟用或停用此功能。
   
 ### <a name="inactive-mailboxes"></a>非使用中的信箱
 
@@ -84,7 +84,7 @@ Exchange Online 可供使用者無限期保留已刪除信箱的內容。此功�
 
 ### <a name="offline-address-book"></a>離線通訊錄
 
-離線通訊錄功能提供 Outlook 全域通訊清單（GAL）中可用之 Active Directory 資訊的快照。 將在 Outlook 中快取，讓使用者離線工作時可使用。
+「離線通訊錄」功能可提供 Outlook 全域通訊清單 (GAL) 中可用之 Active Directory 資訊的快照。 將在 Outlook 中快取，讓使用者離線工作時可使用。
   
 ### <a name="address-book-policies"></a>通訊錄原則
 
@@ -168,5 +168,5 @@ Exchange Online 支援 Outlook 2010 的會議室尋找工具功能，將會議�
     
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Exchange Online 服務說明](exchange-online-service-description.md)。
   

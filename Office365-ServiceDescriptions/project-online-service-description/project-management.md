@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Project Online 中提供下列專案管理功能。
-ms.openlocfilehash: 6952e801fe96d9467c7b642b002abf6f97664414
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 3a6e49d3b373646524f4f1f96e955bd4b78e1677
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131217"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294096"
 ---
 # <a name="project-management"></a>專案管理
 
 Project Online 中提供下列專案管理功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
   
 ## <a name="issues-and-risk-management"></a>問題和風險管理
 
@@ -44,4 +44,4 @@ With Microsoft PPM solutions, you have several options for viewing and creating 
 
 ## <a name="project-home"></a>專案首頁
 
-「專案首頁」是可讓您快速快捷地存取專案最近運作中和重要之重要專案的起始點。 您可以使用便於使用的控制項將這些專案標記為我的最愛，使其在 Project Home 中醒目顯示。 若要深入瞭解，請參閱[Project Home 入門](https://support.office.com/article/get-started-with-project-home-a3b38418-35e7-4df4-8e4a-ba6a4fa0562a?ui=en-US&rs=en-US&ad=US)。
+「專案首頁」是可讓您快速快捷地存取專案最近運作中和重要之重要專案的起始點。 您可以使用便於使用的控制項將這些專案標記為我的最愛，使其在 Project Home 中醒目顯示。 若要深入瞭解，請參閱 [Project Home 入門](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a)。

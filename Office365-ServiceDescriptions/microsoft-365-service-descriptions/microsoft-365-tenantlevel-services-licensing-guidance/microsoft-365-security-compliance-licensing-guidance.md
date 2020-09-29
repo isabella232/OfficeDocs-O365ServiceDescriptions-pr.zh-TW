@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: fc3385774a01e76b7297aa77a490acf6153b555c
-ms.sourcegitcommit: 57f06932a94f09990c0e02a2da491923ca2c1a2f
+ms.openlocfilehash: b7a1793b049b1e38bc7821c94befd1eab5d7eb55
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48284985"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294159"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -315,11 +315,11 @@ Microsoft 提供可在 Microsoft 365 規範中心內設定的協力廠商資料�
 
 ## <a name="microsoft-graph-apis-for-teams-dlp"></a>團隊 DLP 的 Microsoft Graph APIs
 
-今年早些時候，我們 [宣佈小組中郵件的 Microsoft Graph 變更通知 API 公開預覽](https://developer.microsoft.com/en-us/graph/blogs/announcing-change-notifications-for-microsoft-teams-messages)。 此 API 可讓開發人員建立應用程式，該應用程式可以即時聆聽 Microsoft 小組郵件，並為客戶及 Isv 啟用 DLP 案例實施。 此外，Microsoft Graph 修補程式 API 允許將 DLP 動作套用至小組郵件。
+今年早些時候，我們 [宣佈小組中郵件的 Microsoft Graph 變更通知 API 公開預覽](https://go.microsoft.com/fwlink/?linkid=2143888)。 此 API 可讓開發人員建立應用程式，該應用程式可以即時聆聽 Microsoft 小組郵件，並為客戶及 Isv 啟用 DLP 案例實施。 此外，Microsoft Graph 修補程式 API 允許將 DLP 動作套用至小組郵件。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
-[資料遺失防護 (DLP) ](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams?view=o365-worldwide) 功能廣泛用於 Microsoft 小組，尤其是當組織已移動至遠端工作時。 如果您的組織有 DLP，您現在可以定義原則，以防止人員在 Microsoft 小組通道或聊天會話中共用機密資訊。
+[資料遺失防護 (DLP) ](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) 功能廣泛用於 Microsoft 小組，尤其是當組織已移動至遠端工作時。 如果您的組織有 DLP，您現在可以定義原則，以防止人員在 Microsoft 小組通道或聊天會話中共用機密資訊。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 

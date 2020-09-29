@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft 支援下列方式來建立、管理及驗證使用者。
-ms.openlocfilehash: 967d60becc99d55cd188b4623e936b37cb04f7c7
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 56bc8c2e89df4540ec5a74edf76216a4401d6666
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261545"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294209"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -33,7 +33,7 @@ Microsoft 支援下列方式來建立、管理及驗證使用者。
 
 取得協助：[簽署](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [安裝或卸載 office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)  |  [取消 office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
-如需其他問題，請造訪 [Microsoft 支援中心](https://support.microsoft.com/contactus/)。 若要取得中國的 21Vianet 運作的 Office 365 的支援，請連絡 [21Vianet 支援小組](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)。 若要取得 Office 365 Germany 的支援，請連絡 [Office 365 Germany 支援小組](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)。 
+如需其他問題，請造訪 [Microsoft 支援中心](https://support.microsoft.com/contactus/)。 若要取得中國的 21Vianet 運作的 Office 365 的支援，請連絡 [21Vianet 支援小組](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)。 若要取得 Office 365 Germany 的支援，請連絡 [Office 365 Germany 支援小組](https://support.office.com/article/83ef2266-2543-48d7-a41a-1b56b403a8e9)。 
   
 ## <a name="sign-in-options"></a>登入選項
 
@@ -87,7 +87,7 @@ Microsoft 使用以表單為基礎的驗證，而且透過網路驗證流量永�
     
 - 透過**ssl 的基本/proxy 驗證**-Outlook 用戶端透過 ssl 將基本驗證認證傳遞到 Exchange Online。 Exchange Online 會將驗證要求傳送至身分識別平臺，然後再將其傳送至內部部署 Active Directory 同盟伺服器 (，以進行 SSO) 。 
     
-為了確保正確探索和驗證 Microsoft 服務，管理員必須將一組元件和更新套用至每個使用胖用戶端的工作站 (例如 Microsoft Office 2010) 並連接到 Office 365。 桌面安裝程式是一種自動化的工具，可設定具有必要更新的工作站。 如需詳細資訊，請參閱 [使用我目前的 Office 桌面應用程式](https://support.office.com/article/set-up-office-2010-desktop-programs-to-work-with-office-365-for-business-3324b8b8-dceb-45e2-ac24-c642720108f7?ocmsassetID=HA102817827&CorrelationId=8eb1b198-827a-4999-a584-05a05a92d224&ui=en-US&rs=en-US&ad=US)。
+為了確保正確探索和驗證 Microsoft 服務，管理員必須將一組元件和更新套用至每個使用胖用戶端的工作站 (例如 Microsoft Office 2010) 並連接到 Office 365。 桌面安裝程式是一種自動化的工具，可設定具有必要更新的工作站。 如需詳細資訊，請參閱 [使用我目前的 Office 桌面應用程式](https://support.office.com/article/3324b8b8-dceb-45e2-ac24-c642720108f7)。
   
 ### <a name="sign-in-experience"></a>登入經驗
 
@@ -114,7 +114,7 @@ Microsoft 使用以表單為基礎的驗證，而且透過網路驗證流量永�
   
 ## <a name="create-user-accounts"></a>Create user accounts
 
-有多種方式可以讓您新增使用者。 若要深入瞭解，請參閱 [個別或大量系統管理協助新增使用者](https://docs.microsoft.com/office365/admin/add-users/add-users) [，以及新增、移除及管理 Microsoft 365 系統管理中心預覽中的使用者](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US)。 如果您在中國使用由 21Vianet 提供的 Office 365，請參閱[在由 21Vianet 提供的 Office 365 中建立或編輯使用者帳戶 - 管理中心說明](https://docs.microsoft.com/office365/admin/add-users/add-users)。
+有多種方式可以讓您新增使用者。 若要深入瞭解，請參閱 [個別或大量系統管理協助新增使用者](https://docs.microsoft.com/office365/admin/add-users/add-users) [，以及新增、移除及管理 Microsoft 365 系統管理中心預覽中的使用者](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3)。 如果您在中國使用由 21Vianet 提供的 Office 365，請參閱[在由 21Vianet 提供的 Office 365 中建立或編輯使用者帳戶 - 管理中心說明](https://docs.microsoft.com/office365/admin/add-users/add-users)。
   
 ## <a name="delete-user-accounts"></a>刪除使用者帳戶
 
@@ -181,7 +181,7 @@ Office 365 for enterprise 遵循以角色為基礎的存取控制 (RBAC) 模型�
   
 ## <a name="azure-active-directory-services"></a>Azure Active Directory 服務
 
-Azure Active Directory (AD) 將完整的身分識別與存取管理功能帶到 Office 365。它結合了目錄服務、進階身分識別管理、應用程式存取管理以及豐富的標準型開發人員平台。若要深入了解 Office 365 中的 AD 功能，請參閱[登入頁面商標及雲端使用者自助式密碼重設](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/)。深入了解 [Azure Active Directory 版本](https://msdn.microsoft.com/library/azure/dn532272.aspx)。 
+Azure Active Directory (AD) 將完整的身分識別與存取管理功能帶到 Office 365。 它結合了目錄服務、進階身分識別管理、應用程式存取管理以及豐富的標準型開發人員平台。 若要深入瞭解 Office 365 中的 AD 功能，請參閱登[入頁面商標和雲端使用者自助密碼重設]() https://go.microsoft.com/fwlink/?linkid=2144147 。 深入了解 [Azure Active Directory 版本](https://msdn.microsoft.com/library/azure/dn532272.aspx)。 
   
 ## <a name="feature-availability"></a>功能可用性
 

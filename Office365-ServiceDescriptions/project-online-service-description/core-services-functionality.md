@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Project Online 中提供下列核心服務功能功能。
-ms.openlocfilehash: 16ca29f6e05dcf6d3f4a3737961c851fa2c85e05
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5876a9f7df783a30fdc774efacf5828fdc4f64e5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131237"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294071"
 ---
 # <a name="core-services-functionality"></a>核心服務功能
 
 Project Online 中提供下列核心服務功能功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
   
 ## <a name="active-directory-integration"></a>Active Directory 整合
 
@@ -32,7 +32,7 @@ Project Online 和 Project Server 2013 提供功能，讓系統管理員規劃�
   
 ## <a name="getting-started"></a>快速入門
 
-Project Online 的快速入門內容可供使用。 請參閱 [Project Online 快速入門](https://support.office.com/en-us/article/Get-started-with-Project-Online-E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11?ui=en-US&amp;rs=en-US&amp;ad=US)。
+Project Online 的快速入門內容可供使用。 請參閱 [Project Online 快速入門](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11)。
   
 ## <a name="issues-and-risk-management-for-team-members"></a>問題和風險管理 (適用於小組成員)
 
@@ -52,11 +52,11 @@ Microsoft PPM 方案受到上千家 Microsoft 合作夥伴的支援，這些合�
   
 ## <a name="service-updates"></a>服務更新
 
-我們會定期以全新的功能更新 Microsoft 服務。 請參閱[服務更新](../office-365-platform-service-description/service-updates.md)。
+我們會定期以全新的功能更新 Microsoft 服務。 請參閱 [服務更新](../office-365-platform-service-description/service-updates.md)。
   
 ## <a name="team-member-collaboration"></a>小組成員協同合作
 
-小組共同作業支援並驅動整體專案成功和效率。 若要查看 Project Server 2013 如何讓組織在專案上共同作業，請參閱[影片：與您的小組共同](https://go.microsoft.com/fwlink/?LinkId=402628)作業。
+小組共同作業支援並驅動整體專案成功和效率。 若要查看 Project Server 2013 如何讓組織在專案上共同作業，請參閱 [影片：與您的小組共同](https://go.microsoft.com/fwlink/?LinkId=402628)作業。
   
 ## <a name="time-and-task-management-for-team-members"></a>時間和工作管理 (適用於小組成員)
 

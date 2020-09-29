@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用于在美國聯邦、state、local、部落或 territorial 政府機構或其他實體中，處理政府法規和需求之相關資料的 IT 專業365人員，其使用 Microsoft 365 政府-GCC，以符合這些需求。
-ms.openlocfilehash: af09151b0ab1060c5a00c60d0b05bbd69c3300c0
-ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
+ms.openlocfilehash: 564c8c55b1659d80ffa18802e623634088740ba5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "47962132"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293869"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>規劃 Microsoft 365 合規性– GCC
 
@@ -62,9 +62,9 @@ Microsoft 365 政府版的環境符合美國政府對雲端服務的需求，包
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>步驟 4： 瞭解 Microsoft 365 政府中目前哪些功能目前無法使用或已停用（GCC<sup>1</sup> ）
 
-為了符合政府雲端客戶的需求，Microsoft 365 政府版與企業版方案中有一些差異。 請參閱下表，以查看哪些功能可供使用。
+為了符合政府雲端客戶的需求，Microsoft 365 政府版與企業版方案中有一些差異。 請參閱下表，以查看哪些功能可供使用。<br><br>
 
-|                                         | **功能**                                     | **GCC 狀態**         |
+| 範圍 | 功能 | GCC 狀態 |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **資訊保護**              | 統一的標記和敏感度標籤         | 可以使用              |
 |                                         | Sharepoint Online、Office 群組的容器標籤          | 正在推出              |
@@ -81,7 +81,7 @@ Microsoft 365 政府版的環境符合美國政府對雲端服務的需求，包
 |                                         | Office 365 的客戶金鑰    | 可以使用 |
 |                                         | 為客戶管理的金鑰布建生命週期提供您自己的金鑰 (BYOK)                             | 可以使用 |
 |                                         | 存放您自己的金鑰 (HYOK) ，以跨越 Azure 資訊保護和 Active Directory () 高管制案例的 AD 版權管理 (預覽)                          | 可以使用 |
-|                                         | 雙金鑰加密                           | 在工程處理積壓工作 |
+|                                         | 雙重金鑰加密                           | 在工程處理積壓工作 |
 |                                         | 資料遺失防護 (檔和電子郵件的 DLP)          | 可以使用 |
 |                                         | DLP 用於小組聊天及通道交談         | 正在推出 |
 |                                         | DLP 確切資料符合 | 在工程處理積壓工作 |
@@ -106,7 +106,7 @@ Microsoft 365 政府版的環境符合美國政府對雲端服務的需求，包
 |                                         | 標籤活動總管 | 在工程處理積壓工作 |
 |                                         | 可訓練分類器 | 在工程處理積壓工作 |
 |                                         | 統一的標記和敏感度標籤         | 在工程處理積壓工作 |
-| **測試人員風險管理**             | 客戶加密箱                                | 可以使用            |
+| **有問必答風險管理**             | 客戶加密箱                                | 可以使用            |
 |                                         | 用於小組、SharePoint 網站、電子郵件訊息的 Office 指示器                         | 正在推出 |
 |                                         | 由去聲使用者竊取資料                        | 正在推出 |
 |                                         | 一般資料洩漏                                | 正在推出              |
@@ -126,7 +126,7 @@ Microsoft 365 政府版的環境符合美國政府對雲端服務的需求，包
 |                                         | 通訊相容性 (包括。監察原則) 上報以進行「高級 eDiscovery」調查 | 正在推出 |
 |                                         | 通訊相容性 (包括。監督原則) 偵測成人內容 | 正在推出 |
 |                                         | 資訊屏障 | 在工程處理積壓工作 |
-|                                         | 特殊權限存取管理                    | 在工程處理積壓工作 |
+|                                         | 特許存取管理                    | 在工程處理積壓工作 |
 | **探索 & 回應**                  | 核心 eDiscovery：就地保留                            | 可以使用              |
 |                                         | 核心 eDiscovery：案例管理                                 | 可以使用              |
 |                                         | 核心電子檔探索：搜尋                                          | 可以使用              |

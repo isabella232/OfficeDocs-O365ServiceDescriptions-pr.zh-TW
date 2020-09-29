@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
-description: 下列各節說明 Microsoft Exchange Online 封存的封存功能。
-ms.openlocfilehash: 7f6b5863d94862644fb90d1d0d85c3765ad05e9b
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 瞭解 Microsoft Exchange Online 封存中可用的封存功能。
+ms.openlocfilehash: da7b9fd7583904424300dff010117e50a6193552
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131527"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293649"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online 封存中的封存功能
 
@@ -57,7 +57,7 @@ Exchange Online Archiving 以封存信箱功能的形式，為使用者提供進
 
 使用者可以在封存中還原已從任何電子郵件資料夾中刪除的郵件。郵件遭刪除時，會保留在封存的 [刪除的郵件] 資料夾中。該郵件會一直留在該處，直到遭使用者手動移除或遭保留原則自動移除為止。
   
-After an item has been removed from the archive's Deleted Items folder, the item is kept in the archive's Recoverable Items folder for an additional 14 days before being permanently removed. 使用者可以使用 Microsoft Outlook 或 web 上的 Outlook 中的 [**復原刪除的郵件**] 功能來復原這些專案。 
+After an item has been removed from the archive's Deleted Items folder, the item is kept in the archive's Recoverable Items folder for an additional 14 days before being permanently removed. 使用者可以使用 Microsoft Outlook 或 web 上的 Outlook 中的 [ **復原刪除的郵件** ] 功能來復原這些專案。 
   
 如果使用者已從 [可復原的項目] 資料夾中手動清除某個郵件，則系統管理員可以透過名為「單一項目復原」的功能，同樣在這 14 天內復原郵件。此功能可讓系統管理員搜尋多個信箱來尋找已清除的郵件，然後使用  `Search-Mailbox` Windows PowerShell Cmdlet 將郵件從探索信箱移至使用者的信箱。如需詳細資訊，請參閱 [為信箱啟用或停用單一項目復原](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)。
   
@@ -78,5 +78,5 @@ Exchange Online Archiving 中的封存信箱會複寫至多個資料庫副本 (�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 封存服務說明](exchange-online-archiving-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Exchange Online 封存服務說明](exchange-online-archiving-service-description.md)。
   

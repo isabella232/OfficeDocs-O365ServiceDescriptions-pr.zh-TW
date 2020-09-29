@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online 中提供下列核心功能功能。
-ms.openlocfilehash: 876de70c098ec5fda88bf48c4dba1a49f19a5920
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 81a749c6fa58f02227085bacc87e4630ca8ea310
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131267"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294039"
 ---
 # <a name="core-functionality"></a>核心功能
 
 Project Online 中提供下列核心功能功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
   
 ## <a name="add-columns"></a>新增欄
 
@@ -42,7 +42,7 @@ Project Online 中提供下列核心功能功能。
   
 ## <a name="custom-fields"></a>自訂欄位
 
-除了 Project 所含的欄位之外，您也可以使用自訂欄位，以符合組織需求。若要深入了解欄位，請參閱[可用的欄位參照](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460)。
+除了 Project 所含的欄位之外，您也可以使用自訂欄位，以符合組織需求。若要深入了解欄位，請參閱[可用的欄位參照](https://support.office.com/article/615a4563-1cc3-40f4-b66f-1b17e793a460)。
   
 ## <a name="enhanced-copy-and-paste-across-microsoft-office-applications"></a>跨 Microsoft Office 應用程式提供增強的複製和貼上
 
@@ -70,7 +70,7 @@ Project Online 中提供下列核心功能功能。
   
 ## <a name="online-help"></a>線上說明
 
-專案說明可在 Office.com 中，或直接在 Project 中取得入門指南（**選取 [** 檔案] [ \> **新增**]）。 [觀賞這些影片以切換至專案 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325)。
+您可以在 Office.com 或 (project 的快速入門手冊中取得專案説明。 **選取 [** 檔案] [ \> **新增** ]) 。 [觀賞這些影片以切換至專案 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325)。
   
 ## <a name="pdf-and-xps-output"></a>PDF 和 XPS 輸出
 
@@ -102,6 +102,6 @@ Project 2013 顯示一站式中心用於開始專案，而不是提供空白專�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Project Online 服務說明](project-online-service-description.md)。
   
 

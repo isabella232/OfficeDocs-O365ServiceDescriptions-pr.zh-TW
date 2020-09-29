@@ -1,5 +1,5 @@
 ---
-title: 郵件原則及合規性
+title: Exchange Online Protection 中的郵件原則及符合性
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,23 +10,23 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Microsoft Exchange Online Protection （EOP）提供郵件原則和符合性功能，可協助您管理電子郵件資料。
-ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 若要瞭解 Microsoft Exchange Online Protection (EOP) 中的郵件原則和符合性功能，請閱讀本文。
+ms.openlocfilehash: 0609c1fe48404035907096eb047e3947a1bf7ace
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132787"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293799"
 ---
-# <a name="messaging-policy-and-compliance"></a>郵件原則及合規性
+# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Exchange Online Protection 中的郵件原則及符合性
 
-Microsoft Exchange Online Protection （EOP）提供郵件原則和符合性功能，可協助您管理電子郵件資料。
+Microsoft Exchange Online Protection (EOP) 提供可協助您管理電子郵件資料的郵件原則及符合性功能。
 
-尋找所有 EOP 功能的相關資訊嗎？ 請參閱[Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
+尋找所有 EOP 功能的相關資訊嗎？ 請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
 
 ## <a name="mail-flow-rules"></a>郵件流程規則
 
-郵件流程規則（也稱為傳輸規則）為您提供彈性，可將您自己的公司特有原則套用至電子郵件。 郵件流程規則是由彈性準則所組成，可讓您根據準則定義要採取的條件、例外狀況和動作。 如需詳細資訊，請參閱 [Exchange Online Protection 中的郵件流程規則 (傳輸規則)](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)。
+郵件流程規則 (也稱為傳輸) 規則，可讓您靈活地將自己公司特有的原則套用至電子郵件。 郵件流程規則是由彈性準則所組成，可讓您根據準則定義要採取的條件、例外狀況和動作。 如需詳細資訊，請參閱 [Exchange Online Protection 中的郵件流程規則 (傳輸規則)](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)。
 
 ## <a name="audit-logging"></a>稽核記錄
 
@@ -57,15 +57,15 @@ Microsoft Exchange Online Protection （EOP）提供郵件原則和符合性功�
 > [!NOTE]
 > DLP 原則只會套用至進出組織的郵件。組織內部 (內部) 郵件不會套用 DLP 原則，除非您在內部部署 DLP 的情況下執行 Exchange Server 2013。這項條件也適用於 DLP 原則提示，這些提示會在機密資料誤送至未授權收件者之前，通知使用者可能會發生的原則違規情形。
 
-若要深入瞭解 DLP，請參閱[資料遺失防護 In Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)。
+若要深入瞭解 DLP，請參閱 [資料遺失防護 In Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)。
 
 ## <a name="office-365-message-encryption"></a>Office 365 郵件加密
 
-Office 365 郵件加密是 Azure 資訊保護的一部分，是一項線上服務，可讓電子郵件使用者將加密的電子郵件傳送給任何人。 內部部署客戶可以透過購買 Azure 資訊保護和使用 Exchange Online Protection 來設定透過 Exchange Online 的郵件流程，來存取 Office 365 郵件加密。 若要深入瞭解 Exchange Online 中的 Office 365 郵件加密，請參閱 Exchange Online 服務說明中的[office 365 郵件加密](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption)。
+Office 365 郵件加密是 Azure 資訊保護的一部分，是一項線上服務，可讓電子郵件使用者將加密的電子郵件傳送給任何人。 內部部署客戶可以透過購買 Azure 資訊保護和使用 Exchange Online Protection 來設定透過 Exchange Online 的郵件流程，來存取 Office 365 郵件加密。 若要深入瞭解 Exchange Online 中的 Office 365 郵件加密，請參閱 Exchange Online 服務說明中的 [office 365 郵件加密](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) 。
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>EOP 選項的郵件原則和符合性功能
 
-|**功能**|**獨立式 EOP**|**Exchange Online 中的 EOP 功能 <br/>**|**Exchange Enterprise <br/> CAL With Services**|
+| 功能 | 獨立式 EOP | EOP 中的功能 <br/> Exchange Online | Exchange Enterprise <br/> CAL 與服務 |
 |:-----|:-----|:-----|:-----|
 |郵件流程規則|是<sup>1</sup>|是<sup>1</sup>|是<sup>1、3</sup>|
 |稽核記錄|是<sup>2</sup>|是|是|
@@ -73,7 +73,7 @@ Office 365 郵件加密是 Azure 資訊保護的一部分，是一項線上服�
 |Office 365 郵件加密|是<sup>4</sup>|是|是<sup>4</sup>|
 
 > [!NOTE]
-> <sup>1</sup> EOP 與 Exchange Online 可用的郵件流程規則條件、例外狀況和動作稍有不同。 在 Exchange Online 中的[郵件流程規則條件和例外狀況（](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)述詞）和[exchange Online 中的郵件流程規則動作](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)都有這些差異。 <br/>
+> <sup>1</sup> EOP 與 Exchange Online 可用的郵件流程規則條件、例外狀況和動作稍有不同。 在 exchange Online 中和[郵件流程規則動作的](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)[郵件流程規則條件和例外狀況) 中](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)，會記下這些差異 (述詞。 <br/>
 > <sup>2</sup> EOP 稽核報告是 Exchange Online 稽核報告的子集，但不包括信箱的相關資訊。 <br/>
 > <sup>3</sup> DLP 原則祕訣不適用於 Exchange Enterprise CAL with Services 客戶。 <br/>
-> <sup>4</sup>對於購買 Azure 資訊保護附加元件和使用 Exchange online Protection 透過 exchange online 路由電子郵件的內部部署客戶提供支援。 針對桌面體驗，除了 Azure 資訊保護附加元件之外，還需要購買適用于企業的 Microsoft 365 應用程式。 <br/>
+> <sup>4</sup> 對於購買 Azure 資訊保護附加元件和使用 Exchange online Protection 透過 exchange online 路由電子郵件的內部部署客戶提供支援。 針對桌面體驗，除了 Azure 資訊保護附加元件之外，還需要購買適用于企業的 Microsoft 365 應用程式。 <br/>

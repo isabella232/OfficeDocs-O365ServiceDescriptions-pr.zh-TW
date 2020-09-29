@@ -10,18 +10,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: b03c74e0c760cf22c12e6973a544553d119471fe
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 請閱讀本文以瞭解 Microsoft Exchange Online 封存中提供的相容性功能。
+ms.openlocfilehash: 0826a2677dcc3d8c336ecea3901ed7486c71eda3
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132737"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293619"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online 封存中的合規性和安全性功能
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Exchange Online 封存中的符合性功能
 
-下列幾節說明 Microsoft Exchange Online Archiving 的符合性功能。
+本文說明 Microsoft Exchange Online 封存的相容性功能。
   
 ### <a name="retention-policies"></a>保留原則
 
@@ -31,7 +32,7 @@ Exchange Online Archiving 提供兩種類型的原則：封存原則和刪除原
   
 使用 Outlook 2010 和更新版本和 Outlook 網頁版，使用者可以將保留原則套用至資料夾、交談或個別郵件，也可以在郵件上查看套用的保留原則和預期刪除日期。 其他電子郵件用戶端的使用者可根據系統管理員所佈建的伺服器端保留原則來刪除或封存電子郵件，但是沒有相同程度的檢視和控制能力。
   
-Exchange Online Archiving 提供的保留原則功能與 Exchange Server 2010 Service Pack 2 (SP2) 及更新版本所提供的相同。系統管理員可以從內部部署 Exchange Server 2010 及更新版本的環境管理保留原則。受管理的資料夾是 Exchange 2007 中引進的舊式郵件記錄管理方法，無法在 Exchange Online 封存中使用且不相容。如需詳細資訊，請參閱[保留標記和保留原則](https://go.microsoft.com/fwlink/p/?LinkID=314153)。
+Exchange Online Archiving 提供的保留原則功能與 Exchange Server 2010 Service Pack 2 (SP2) 及更新版本所提供的相同。 系統管理員可以從內部部署 Exchange Server 2010 及更新版本的環境管理保留原則。 受管理的資料夾是 Exchange 2007 中引進的舊式郵件記錄管理方法，無法在 Exchange Online 封存中使用且不相容。 如需詳細資訊，請參閱〈[保留標記和保留原則](https://go.microsoft.com/fwlink/p/?LinkID=314153)〉。
   
 ### <a name="in-place-hold-and-litigation-hold"></a>就地保留與訴訟暫止
 
@@ -67,7 +68,7 @@ Exchange Online Archiving 提供的保留原則功能與 Exchange Server 2010 Se
   
 ### <a name="in-place-ediscovery"></a>就地 eDiscovery
 
-Exchange Online Archiving 支援就地 eDiscovery，可供搜尋組織中的信箱內容。系統管理員或經過授權的 Discovery 管理員可以從內部部署 Exchange 2013 伺服器，使用 Exchange 系統管理中心或遠端 Windows PowerShell 來搜尋各種信箱項目，包括電子郵件、附件、行事曆約會、工作及連絡人。就地 eDiscovery 可以同時搜尋主要信箱和封存。功能齊備的篩選功能包括寄件者、收件者、郵件類型、傳送日期、接收日期、副本及密件副本，另外還包括關鍵字查詢語法 (KQL) 語法。如需詳細資訊，請參閱[就地 eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169)。
+Exchange Online Archiving 支援就地 eDiscovery，可供搜尋組織中的信箱內容。 系統管理員或經過授權的 Discovery 管理員可以從內部部署 Exchange 2013 伺服器，使用 Exchange 系統管理中心或遠端 Windows PowerShell 來搜尋各種信箱項目，包括電子郵件、附件、行事曆約會、工作及連絡人。 就地 eDiscovery 可以同時搜尋主要信箱和封存。 功能齊備的篩選功能包括寄件者、收件者、郵件類型、傳送日期、接收日期、副本及密件副本，另外還包括關鍵字查詢語法 (KQL) 語法。 如需詳細資訊，請參閱[就地 eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169)。
   
 Exchange 系統管理中心或遠端 Windows PowerShell 一次最多可以在就地 eDiscovery 搜尋中搜尋 5,000 個信箱。如需使用遠端 Windows PowerShell 執行就地 eDiscovery 搜尋的詳細資料，請參閱 [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170)。 
   
@@ -109,19 +110,19 @@ Exchange Online Archiving不提供託管的資訊版權管理 (IRM) 服務，但
   
 #### <a name="support-for-irm-in-outlook-on-the-web"></a>在 web 上的 Outlook 中支援 IRM
 
-使用者可以在網頁型 Outlook 中以本機方式閱讀和建立受 IRM 保護的郵件，就像在 Outlook 中一樣。 您可以透過 Internet Explorer、Firefox、Safari 和 Chrome （不需要外掛程式）來存取網頁上的受 IRM 保護的郵件。 這些郵件包含全文檢索搜尋、交談檢視和預覽窗格。 必須設定 Active Directory Rights Management Services 伺服器與內部部署 Exchange 環境之間的交互操作性，才能啟用此功能。
+使用者可以在網頁型 Outlook 中以本機方式閱讀和建立受 IRM 保護的郵件，就像在 Outlook 中一樣。 您可以透過 Internet Explorer、Firefox、Safari 和 Chrome (存取受 IRM 保護的郵件，而不需要外掛程式) 。 這些郵件包含全文檢索搜尋、交談檢視和預覽窗格。 必須設定 Active Directory Rights Management Services 伺服器與內部部署 Exchange 環境之間的交互操作性，才能啟用此功能。
   
 #### <a name="irm-search"></a>IRM 搜尋
 
-受 IRM 保護的郵件因為已有編製索引，所以可以加以搜尋，包括標題、主旨、內文及附件。 使用者可以在 Outlook 和網頁型 outlook 中搜尋受 IRM 保護的專案，系統管理員可以使用 In-Place eDiscovery 或**Search-Mailbox** Cmdlet 搜尋受 irm 保護的專案。
+受 IRM 保護的郵件因為已有編製索引，所以可以加以搜尋，包括標題、主旨、內文及附件。 使用者可以在 Outlook 和網頁型 outlook 中搜尋受 IRM 保護的專案，系統管理員可以使用 In-Place eDiscovery 或 **Search-Mailbox** Cmdlet 搜尋受 irm 保護的專案。
   
 ### <a name="auditing"></a>稽核
 
 Exchange Online Archiving提供兩種類型的內建稽核功能：
   
-- **系統管理員稽核記錄功能** 系統管理員稽核記錄功能可讓客戶追蹤其系統管理員在 Exchange Online Archiving 環境中所做的變更，包括對 RBAC 角色或 Exchange 原則與設定的變更。 
+- **管理員審核記錄** -系統管理員審核記錄可讓客戶追蹤其系統管理員在 Exchange Online 封存環境中所做的變更，包括對 RBAC 角色或 Exchange 原則與設定的變更。 
     
-- **信箱稽核記錄功能** 信箱稽核記錄功能可讓客戶追蹤信箱擁有者以外的使用者對信箱的存取情形。 
+- **信箱審核記錄** -信箱審核記錄功能可讓客戶追蹤信箱擁有者以外的使用者對信箱的存取。 
     
 Exchange 系統管理中心提供多份預先定義的稽核報告，包括系統管理員角色變更、訴訟資料暫留，以及非擁有者信箱存取。系統管理員可依日期與角色篩選報告，也可基於長期保留或自訂報告等目的，使用 XML 格式匯出指定信箱的所有稽核事件。
   
@@ -129,6 +130,6 @@ Exchange 系統管理中心提供多份預先定義的稽核報告，包括系�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同計畫、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 封存服務說明](exchange-online-archiving-service-description.md)。
+若要查看不同計畫、獨立選項和內部部署方案中的功能可用性，請參閱 [Exchange Online 封存服務說明](exchange-online-archiving-service-description.md)。
   
 

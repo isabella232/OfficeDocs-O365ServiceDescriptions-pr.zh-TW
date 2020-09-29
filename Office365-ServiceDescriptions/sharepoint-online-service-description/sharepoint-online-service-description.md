@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 請參閱哪些 SharePoint 功能可用於哪些方案。
-ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300507"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294101"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服務描述
 
@@ -90,7 +90,7 @@ Microsoft 365 中的 OneDrive 是為組織內的個別使用者提供線上存�
 - [應用程式使用狀況與錯誤監控](/sharepoint/monitor-apps)
 - [SharePoint](/office365/admin/activity-reports/sharepoint-activity)和[OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)的活動和使用方式報告
 - [變更網站 URL](/sharepoint/change-site-address)
-- [OneDrive 的預設儲存及保留設定](/en-us/onedrive/set-default-storage-space)
+- [OneDrive 的預設儲存及保留設定](/onedrive/set-default-storage-space)
 - [SharePoint 伺服器的混合](/sharepoint/hybrid/hybrid)。 Firstline 工作者需要用戶端存取許可證 (CAL) 才能存取 SharePoint 伺服器。
 - [管理網站建立設定](/sharepoint/manage-site-creation)
 - [管理網站儲存限制](/sharepoint/manage-site-collection-storage-limits)
@@ -104,7 +104,7 @@ Microsoft 365 中的 OneDrive 是為組織內的個別使用者提供線上存�
 - [還原已刪除的網站](/sharepoint/restore-deleted-site-collection)
 - [SharePoint 系統管理中心](/sharepoint/get-started-new-admin-center)。 具有 Firstline 工作者的組織至少需要一個企業使用者，才能存取系統管理中心。
 - [SharePoint 現代化掃描器](/sharepoint/dev/transform/modernize-scanner)
-- [SharePoint 線上管理命令](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)介面。 具有 Firstline 工作者的組織至少需要一個企業使用者，才能存取系統管理中心。
+- [SharePoint 線上管理命令](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true)介面。 具有 Firstline 工作者的組織至少需要一個企業使用者，才能存取系統管理中心。
 - [網站管理](/sharepoint/governance-overview) 
 - [字詞存放區-受管理的中繼資料](/sharepoint/managed-metadata)
 
@@ -167,7 +167,7 @@ SharePoint 會與 Microsoft 365 的高級安全性和相容性功能整合。 �
 - [組織資產庫](/sharepoint/organization-assets-library)
 - [組織資訊](/sharepoint/organization-news-site)
 - [頁面核准](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [頁面](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - 記錄管理
 - [資源回收桶](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [SharePoint 行動應用程式](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)

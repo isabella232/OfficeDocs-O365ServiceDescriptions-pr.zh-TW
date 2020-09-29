@@ -12,23 +12,23 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: Web PowerPoint （以前稱為 PowerPoint Web App）可將您的 Microsoft PowerPoint 體驗延伸至網頁瀏覽器，讓您在儲存簡報的網站上直接使用簡報。 具有網路的 Office 的 Microsoft 365 客戶可以在旅途中查看、建立及編輯檔案。
-ms.openlocfilehash: 50be528559234a5d386dcd8fbfb1805961494432
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Web (以前 PowerPoint Web App 的 PowerPoint) 會將您的 Microsoft PowerPoint 體驗延伸至網頁瀏覽器，您可以在其中儲存簡報的網站上直接使用簡報。 具有網路的 Office 的 Microsoft 365 客戶可以在旅途中查看、建立及編輯檔案。
+ms.openlocfilehash: e7925e85feeb611895e5481f1d6b81917a1cfbd2
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131317"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294063"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint 網頁版
 
-Web PowerPoint （以前稱為 PowerPoint Web App）可將您的 Microsoft PowerPoint 體驗延伸至網頁瀏覽器，讓您在儲存簡報的網站上直接使用簡報。 具有網路的 Office 的 Microsoft 365 客戶可以在旅途中查看、建立及編輯檔案。
+Web (以前 PowerPoint Web App 的 PowerPoint) 會將您的 Microsoft PowerPoint 體驗延伸至網頁瀏覽器，您可以在其中儲存簡報的網站上直接使用簡報。 具有網路的 Office 的 Microsoft 365 客戶可以在旅途中查看、建立及編輯檔案。
   
 PowerPoint 編輯器是一個 web 前端元件，它會建立以瀏覽器為基礎的編輯表面，讓使用者可以在檔上運作，而不會喪失逼真度。
   
-如果您在 [web] 工具列的 PowerPoint 上選取 [**在 PowerPoint 開啟**] 按鈕，簡報就會在 PowerPoint 的桌面應用程式中開啟（如果電腦上已安裝 Microsoft PowerPoint 2010 或更新版本）。
+如果您在 [web] 工具列的 PowerPoint 上選取 [ **在 PowerPoint 開啟** ] 按鈕，則當電腦 PowerPoint 安裝 Microsoft) 2010 或更新版本時，簡報會在 PowerPoint 的桌面應用程式 (中開啟。
   
-瞭解如何[在電腦上使用 Microsoft 365 for business 下載及安裝 Office](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c)。
+瞭解如何 [在電腦上使用 Microsoft 365 for business 下載及安裝 Office](https://support.office.com/article/72977511-dfd1-4d8b-856f-405cfb76839c)。
   
 ## <a name="alignment-bullets-numbers"></a>對齊方式、項目符號、編號
 
@@ -140,7 +140,7 @@ Web PowerPoint 支援八個轉換和37動畫。 如需更多選項，請使用 P
   
 ## <a name="print-to-pdf"></a>列印為 PDF
 
-透過網頁 PowerPoint，您可以將簡報列印到 PDF 讀取器，在這裡，所有版面配置和格式設定都會以您預期的方式列印。 深入瞭解[您可以使用 PowerPoint 網頁進行基本](https://go.microsoft.com/fwlink/?LinkId=272775)工作。
+透過網頁 PowerPoint，您可以將簡報列印到 PDF 讀取器，在這裡，所有版面配置和格式設定都會以您預期的方式列印。 深入瞭解 [您可以使用 PowerPoint 網頁進行基本](https://go.microsoft.com/fwlink/?LinkId=272775)工作。
   
 ## <a name="proofing-tools"></a>校訂工具
 
@@ -156,15 +156,15 @@ Web PowerPoint 支援八個轉換和37動畫。 如需更多選項，請使用 P
   
 ## <a name="rights-management-apply-and-consume-irm-and-password-protection"></a>版權管理：套用和使用 IRM 和密碼保護功能
 
-無法在 PowerPoint web 中使用。 PowerPoint 網頁會顯示使用資訊版權管理（IRM）保護的簡報。 但是無法在瀏覽器中編輯這些簡報，您也無法在網頁 PowerPoint 中建立受 IRM 保護的簡報。 PowerPoint 網頁無法開啟以密碼數位簽署或加密的簡報。 
+無法在 PowerPoint web 中使用。 PowerPoint 網頁會顯示使用資訊版權管理 (IRM) 所保護的簡報。 但是無法在瀏覽器中編輯這些簡報，您也無法在網頁 PowerPoint 中建立受 IRM 保護的簡報。 PowerPoint 網頁無法開啟以密碼數位簽署或加密的簡報。 
   
 ## <a name="run-slide-show"></a>執行投影片放映
 
-透過網頁 PowerPoint，您就可以使用網頁瀏覽器和網際網路連線來執行簡報。 深入瞭解[您可以使用 PowerPoint 網頁進行基本](https://go.microsoft.com/fwlink/?LinkId=272775)工作。
+透過網頁 PowerPoint，您就可以使用網頁瀏覽器和網際網路連線來執行簡報。 深入瞭解 [您可以使用 PowerPoint 網頁進行基本](https://go.microsoft.com/fwlink/?LinkId=272775)工作。
   
 ## <a name="save-as-or-download-a-copy"></a>另存新檔或下載副本
 
-PowerPoint 網頁會在每次進行變更時，儲存您的工作。 沒有**儲存**命令。 您可以下載副本，但必須擁有 Microsoft PowerPoint 桌面應用程式才能編輯本機副本。
+PowerPoint 網頁會在每次進行變更時，儲存您的工作。 沒有 **儲存** 命令。 您可以下載副本，但必須擁有 Microsoft PowerPoint 桌面應用程式才能編輯本機副本。
   
 ## <a name="shapes"></a>圖案
 
@@ -192,7 +192,7 @@ PowerPoint 網頁會在每次進行變更時，儲存您的工作。 沒有**儲
   
 ## <a name="undo-and-redo"></a>復原和取消復原
 
-針對使用中的簡報，可無限次復原 (Ctrl + Z) 和取消復原 (Ctrl + Y) 目前編輯工作階段的近期動作。 如果編輯工作階段已逾時，或者您切換到 [讀取檢視] 超過 30 秒，則取消復原的歷程記錄就會重設。 深入瞭解[網頁 PowerPoint 的快速鍵](https://go.microsoft.com/fwlink/?LinkId=272950)。
+針對使用中的簡報，可無限次復原 (Ctrl + Z) 和取消復原 (Ctrl + Y) 目前編輯工作階段的近期動作。 如果編輯工作階段已逾時，或者您切換到 [讀取檢視] 超過 30 秒，則取消復原的歷程記錄就會重設。 深入瞭解 [網頁 PowerPoint 的快速鍵](https://go.microsoft.com/fwlink/?LinkId=272950)。
   
 ## <a name="view-and-add-comments"></a>檢視和新增注釋
 
@@ -210,4 +210,4 @@ PowerPoint 網頁會在每次進行變更時，儲存您的工作。 沒有**儲
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[web 服務說明的 Office](office-online-service-description.md)。 
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [web 服務說明的 Office](office-online-service-description.md)。 

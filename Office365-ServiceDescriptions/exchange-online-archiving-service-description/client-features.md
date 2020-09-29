@@ -10,13 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Microsoft Exchange Online 封存可讓使用者從各種裝置和平臺連接至其封存信箱。 所有與使用者封存的網路連線都會透過網際網路進行，而且不需要虛擬私人網路 (VPN) 連線。 組織可以發佈內部部署用戶端存取伺服器，讓使用者能夠使用 Outlook 無所不在 存取其主要信箱，而不需要 VPN 連線。 如果要求要有 VPN 連線才能存取內部部署伺服器上使用者的主要信箱，則此要求並不會變。
-ms.openlocfilehash: 6f29f434f5b6515460ee526450fba4a50bb6c191
-ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
+description: 若要瞭解 Microsoft Exchange Online 封存中可用的用戶端功能，請閱讀本文。
+ms.openlocfilehash: 54f066562b08eeeed90b8c9b465c4740bcc3f0df
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "47255900"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293635"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online 封存中的用戶端功能
 
@@ -29,8 +29,8 @@ Microsoft Exchange Online 封存可讓使用者從各種裝置和平臺連接至
 
 Microsoft Outlook 是一款功能豐富的電子郵件程式，可支援行事曆、聯絡人與工作。Exchange Online Archiving可支援 Outlook 2013、Outlook 2010 及 Outlook 2007。其主要功能包括：
   
-- **Outlook Anywhere** 「Outlook 無所不在」可讓 Outlook 使用者透過網際網路連線到 Exchange Server 和 Exchange Online 封存，而不需要 VPN 連線。 Outlook 與 Exchange Online Archiving之間是透過 SSL 安全保護通道，使用 RPC-over-HTTP Windows 網路元件進行通訊。    
-- **Autodiscover** Exchange Autodiscover 服務會自動設定 Outlook 使用Exchange Online Archiving。 自動探索可讓 Outlook 使用者在第一次 (和固定間隔) 登入電子郵件地址和密碼時，直接從 Exchange 取得其必要的設定檔設定。 
+- **Outlook** 無所不在-outlook 無所不在可讓 outlook 使用者透過網際網路連線到 exchange Server 和 exchange Online 封存，不需要 VPN 連線。 Outlook 與 Exchange Online Archiving之間是透過 SSL 安全保護通道，使用 RPC-over-HTTP Windows 網路元件進行通訊。    
+- **自動** 探索-Exchange 自動探索服務會自動設定 Outlook 與 Exchange Online 封存搭配使用。 自動探索可讓 Outlook 使用者在第一次 (和固定間隔) 登入電子郵件地址和密碼時，直接從 Exchange 取得其必要的設定檔設定。 
 
 Outlook 2010 和更新版本和網頁版 Outlook 為使用者提供封存的完整功能，以及保留和封存原則等相關功能。
   
@@ -41,9 +41,9 @@ Outlook 2007 可提供對封存的基本支援，但是並非所有封存和法�
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Exchange Online 封存所支援的用戶端
 
-下表列出 Exchange Online Archiving所支援的用戶端：
+下表列出 Exchange Online Archiving所支援的用戶端：<br><br>
   
-|**用戶端**|**EOA 支援**|
+| 用戶端 | EOA 支援 |
 |:-----|:-----|
 |Outlook 2013 和更新版本  <br/> |支援 Exchange Online Archiving 的最新功能。<sup>1</sup> <br/> |
 |Outlook 2010  <br/> |僅支援 Exchange Online 封存中的最新功能，直到10月13日，2020|

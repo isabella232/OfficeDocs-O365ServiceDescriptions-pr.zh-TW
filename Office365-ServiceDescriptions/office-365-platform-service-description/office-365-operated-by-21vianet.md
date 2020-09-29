@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: 7a134e878d36539a6f51f2706dae29841282eefa
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261535"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294129"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -229,7 +229,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[商務用 Skype](../office-applications-service-description/office-applications.md#skype-for-business)|是|是|是|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是|是<sup>4</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|否|否|否|否|否|否|否<sup>5</sup>|否|否|否|
 |[Windows 10 App](../office-applications-service-description/office-applications.md#windows-10-apps)|是|是|是|是|是|是|是|是|是|否|
-|[Office 365 的 Mac 版 Office](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|否|是|否|否|否|是|否<sup>5</sup>|否|是|否|
+|[Office 365 的 Mac 版 Office](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|否|是|否|否|否|是|否<sup>5</sup>|否|是|否|
 |適用于 Android 的 Microsoft Office 應用程式|是|是|是|是|是|是|是|是|是|是|
 |適用于 iOS 的 Microsoft Office 應用程式|是|是|是|是|是|是|是|是|是|是|
 |[Office Mobile for iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|是|是|是|是|是|是|是<sup>5</sup>|是|是|是|
@@ -278,7 +278,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>6</sup> 可安裝 Mac 版 Office 2011，但不可啟用。
 <br/><sup>7</sup> Office 365 ProPlus 支援使用者專用的虛擬桌面基礎結構 (VDI) 。 Office 365 當透過大量授權方案購買時，ProPlus 僅支援遠端桌面服務 (RDS)。
 <br/><sup>8</sup>Office 365 Enterprise E3 和 Office 365 專業增強版 的大量啟用僅限於在 Windows Server 2008 R2 與更新版本上的安裝，且須啟用 RDS 角色或 Windows To Go 安裝。 無論哪種情況，存取這些安裝的使用者都必須為 Office 365 Enterprise E3 或 Office 365 專業增強版 的授權使用者。
-<br/><sup>9</sup> 如果您在目前通道或已設定目標發行的順延通道上，則目前可以使用 Access。 如果您在順延通道上，則可在 2017 年 6 月存取 Access。 如需詳細資訊，請參閱＜ [Office 365 商務版和商務進階版中將包含 Access](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)＞。
+<br/><sup>9</sup> 如果您在目前通道或已設定目標發行的順延通道上，則目前可以使用 Access。 如果您在順延通道上，則可在 2017 年 6 月存取 Access。 如需詳細資訊，請參閱＜ [Office 365 商務版和商務進階版中將包含 Access](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef)＞。
 <br/><sup>10</sup> 目前在由世紀運作的 Office 365 預覽中使用的 web Visio。 如需有關 web Visio 的詳細資訊，請參閱 [visio for web service description](../visio-online-service-description/visio-online-service-description.md)。
 <br/><sup>11</sup> 由 21Vianet 運作的 Office 365 即將推出。
 <br/><sup>15</sup> Google 服務 (包括 Play 商店) 無法在中國記憶體取。 主要電話製造商或搜尋引擎公司會維護許多應用程式存放區，使用者可以從這裡安裝行動應用程式。

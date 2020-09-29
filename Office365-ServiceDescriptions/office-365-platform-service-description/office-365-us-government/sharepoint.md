@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 深入瞭解美國政府雲端客戶的 SharePoint 功能可用性。
-ms.openlocfilehash: c360bc7ebda3c1a4041e0dcd8c2d5cb9699b8820
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 4e09ec8fda62fb5ce7a6e886799c5f35edd32cf5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42174994"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294189"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>適用于美國政府環境的 SharePoint
 
@@ -95,4 +95,4 @@ ms.locfileid: "42174994"
 
 在 Microsoft US 政府雲端中設定組織之後，請遵循 [SharePoint 採用資源中心](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/)中所述的建議部署途徑。 請務必與您的採用和變更管理擁護者接洽。
 您也可以使用 [FastTrack](https://www.microsoft.com/fasttrack) 或您所選的合作夥伴，向您的使用者推出服務。
-若要深入瞭解 Microsoft 的安全性、隱私權及合規性，請造訪 [Microsoft 信任中心](https://www.microsoft.com/en-us/trust-center) ，以瞭解如何讓組織為客戶服務的核心原則。
+若要深入瞭解 Microsoft 的安全性、隱私權及合規性，請造訪 [Microsoft 信任中心](https://www.microsoft.com/trust-center) ，以瞭解如何讓組織為客戶服務的核心原則。

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word for web (先前的 Word Web App) 會將您的 Microsoft Word 體驗延伸至網頁瀏覽器，您可以在其中儲存檔的網站上直接使用檔。
-ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 3f4d2950284a866fc86d05be71976a57a6a17244
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616909"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294049"
 ---
 # <a name="word-for-the-web"></a>Word 網頁版
 
@@ -40,7 +40,7 @@ Word for web (先前的 Word Web App) 會將您的 Microsoft Word 體驗延伸�
 
 當您進行變更時，Word 會自動儲存檔。
   
-## <a name="autotext"></a>AutoText
+## <a name="autotext"></a>自動圖文集
 
 您可以使用 [自動圖文集] 從自動圖文集圖庫中插入預設格式的文字區塊。例如，當您需要重複輸入相同的大片文字，且文字含大量格式設定時，這會很有用。將選取的文字新增到自動圖文集圖庫中，您就可以建立自動圖文集項目。若要瞭解詳細資訊，請參閱＜[自動插入文字](https://go.microsoft.com/fwlink/?linkid=846739)＞。
   
@@ -50,7 +50,7 @@ Word for web (先前的 Word Web App) 會將您的 Microsoft Word 體驗延伸�
   
 ## <a name="bullets-and-numbering"></a>項目符號及編號
 
-使用 Word for web 時，您可以套用三種專案符號樣式或五種編號樣式的選擇。 按一下 [**增加縮排**及**減少縮排**] 按鈕，以變更檔中現有專案符號和編號清單的清單層級，以及在 Word 桌面應用程式中建立的清單層級。 進一步了解[在瀏覽器中和 Word 中使用文件的差異](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
+使用 Word for web 時，您可以套用三種專案符號樣式或五種編號樣式的選擇。 按一下 [ **增加縮排** 及 **減少縮排** ] 按鈕，以變更檔中現有專案符號和編號清單的清單層級，以及在 Word 桌面應用程式中建立的清單層級。 進一步了解[在瀏覽器中和 Word 中使用文件的差異](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
   
 ## <a name="captions"></a>標題
 
@@ -62,7 +62,7 @@ Word for web (先前的 Word Web App) 會將您的 Microsoft Word 體驗延伸�
   
 ## <a name="clipboard"></a>剪貼簿
 
-由於網頁瀏覽器技術的限制，針對網頁複製及貼上文字的文字，與在 Office 桌面應用程式中複製及貼上文字的複製和貼上的文字不同。 深入瞭解[在 Office 中複製和貼上網頁](https://go.microsoft.com/fwlink/p/?LinkId=282321)。
+由於網頁瀏覽器技術的限制，針對網頁複製及貼上文字的文字，與在 Office 桌面應用程式中複製及貼上文字的複製和貼上的文字不同。 深入瞭解 [在 Office 中複製和貼上網頁](https://go.microsoft.com/fwlink/p/?LinkId=282321)。
   
 ## <a name="collaboration-advanced"></a>共同作業，高級
 
@@ -98,7 +98,7 @@ Microsoft Word 包含撰寫和編輯方程式的內建支援，以及可以置�
   
 ## <a name="find-and-replace"></a>尋找和取代
 
-在 web 和 Word 桌面應用程式的兩個 Word 中，使用 [尋找及取代] 工具，尋找及取代檔中的文字。 若要深入瞭解在 Word for web 中使用 [尋找及取代]，請參閱[尋找及取代文字](https://support.office.com/article/c6728c16-469e-43cd-afe4-7708c6c779b7#ID0EAABAAA=Web)。
+在 web 和 Word 桌面應用程式的兩個 Word 中，使用 [尋找及取代] 工具，尋找及取代檔中的文字。 若要深入瞭解在 Word for web 中使用 [尋找及取代]，請參閱 [尋找及取代文字](https://support.office.com/article/c6728c16-469e-43cd-afe4-7708c6c779b7#ID0EAABAAA=Web)。
   
 ## <a name="font-formatting"></a>字體格式化
 
@@ -106,7 +106,7 @@ Microsoft Word 包含撰寫和編輯方程式的內建支援，以及可以置�
   
 ## <a name="footnotes-and-endnotes"></a>註腳和章節附註
 
-您可以在 Word 中為網頁新增註腳和章節附註。 進一步瞭解[在 Word 中為 web 新增註腳和章節附註](https://go.microsoft.com/fwlink/p/?LinkId=397306)。
+您可以在 Word 中為網頁新增註腳和章節附註。 進一步瞭解 [在 Word 中為 web 新增註腳和章節附註](https://go.microsoft.com/fwlink/p/?LinkId=397306)。
   
 ## <a name="full-fidelity-reading-view"></a>高逼真讀取檢視
 
@@ -118,11 +118,11 @@ Microsoft Word 包含撰寫和編輯方程式的內建支援，以及可以置�
   
 ## <a name="headers-and-footers"></a>頁首和頁尾
 
-在 web 和 Word 桌面應用程式的兩個 Word 中，插入檔的頁首和頁尾。 您也可以對文件第一頁以外的所有頁面套用頁首和頁尾。 若要深入瞭解如何在 Word 中使用頁首及頁尾，請參閱[web 的 Word 新增功能](https://go.microsoft.com/fwlink/?LinkId=389520)。
+在 web 和 Word 桌面應用程式的兩個 Word 中，插入檔的頁首和頁尾。 您也可以對文件第一頁以外的所有頁面套用頁首和頁尾。 若要深入瞭解如何在 Word 中使用頁首及頁尾，請參閱 [web 的 Word 新增功能](https://go.microsoft.com/fwlink/?LinkId=389520)。
   
 ## <a name="hyperlinks"></a>Hyperlinks
 
-透過使用 Word 的 web，您可以輕鬆地建立檔內書簽的連結，並設定當游標指向連結時顯示的工具提示。 深入瞭解[Word for web 中的超連結](https://go.microsoft.com/fwlink/p/?LinkId=271863)。
+透過使用 Word 的 web，您可以輕鬆地建立檔內書簽的連結，並設定當游標指向連結時顯示的工具提示。 深入瞭解 [Word for web 中的超連結](https://go.microsoft.com/fwlink/p/?LinkId=271863)。
   
 ## <a name="index"></a>索引
 
@@ -142,7 +142,7 @@ Word for web 會顯示使用資訊版權管理 (IRM) 所保護的檔。 不過�
   
 ## <a name="lists"></a>清單
 
-在 [web] 的 [Word] 中，開始直接在現有編號清單下方輸入，而您的下一行會自動成為清單的一部分。 進一步瞭解[在 Word 中建立 web 清單](https://go.microsoft.com/fwlink/p/?LinkId=397307)。
+在 [web] 的 [Word] 中，開始直接在現有編號清單下方輸入，而您的下一行會自動成為清單的一部分。 進一步瞭解 [在 Word 中建立 web 清單](https://go.microsoft.com/fwlink/p/?LinkId=397307)。
   
 ## <a name="mail-merge"></a>合併列印
 
@@ -160,7 +160,7 @@ Word for web 會顯示使用資訊版權管理 (IRM) 所保護的檔。 不過�
 
 透過使用 Word 的 web，您可以調整邊界、紙張大小，以及頁面在檔中的垂直或水準佈局。 Web 的 Word 不會顯示尺規和格線。 進一步了解[在瀏覽器中和 Word 中使用文件的差異](https://go.microsoft.com/fwlink/p/?LinkId=271859)。 
   
-瞭解如何[在 Word 中刪除網頁的空白頁面](https://support.office.com/en-US/article/Delete-a-blank-page-B583020A-D26C-4661-873C-CB66FBDB03D1)。
+瞭解如何 [在 Word 中刪除網頁的空白頁面](https://support.office.com/article/B583020A-D26C-4661-873C-CB66FBDB03D1)。
   
 ## <a name="page-layout-tools-advanced"></a>頁面配置工具，高級
 
@@ -168,7 +168,7 @@ Word for web 會顯示使用資訊版權管理 (IRM) 所保護的檔。 不過�
   
 ## <a name="page-numbers"></a>頁碼
 
-在 web 和 Word 桌面應用程式的兩個 Word 中，插入您的檔中的頁碼。 您也可以對文件第一頁以外的所有頁面套用頁碼。 若要深入瞭解在 Word 中使用網頁號碼，請參閱[web 中的新功能](https://go.microsoft.com/fwlink/?LinkId=389520)。
+在 web 和 Word 桌面應用程式的兩個 Word 中，插入您的檔中的頁碼。 您也可以對文件第一頁以外的所有頁面套用頁碼。 若要深入瞭解在 Word 中使用網頁號碼，請參閱 [web 中的新功能](https://go.microsoft.com/fwlink/?LinkId=389520)。
   
 ## <a name="paragraph-formatting"></a>段落格式設定
 
@@ -188,7 +188,7 @@ Word for web 會顯示使用資訊版權管理 (IRM) 所保護的檔。 不過�
   
 ## <a name="print-to-pdf"></a>列印為 PDF
 
-在 web 上使用 Word 時，您可以按一下一次以產生 PDF，並顯示 [列印] 對話方塊。 進一步瞭解[在 Word 中列印網頁檔](https://go.microsoft.com/fwlink/p/?LinkId=271860)。
+在 web 上使用 Word 時，您可以按一下一次以產生 PDF，並顯示 [列印] 對話方塊。 進一步瞭解 [在 Word 中列印網頁檔](https://go.microsoft.com/fwlink/p/?LinkId=271860)。
   
 ## <a name="printing-advanced"></a>列印，高級
 
@@ -204,7 +204,7 @@ Word for web 會顯示使用資訊版權管理 (IRM) 所保護的檔。 不過�
   
 ## <a name="real-time-co-authoring"></a>即時共同撰寫
 
-可以有一個以上的人同時在文件中進行編輯。 在 Word for web 和 Word 2016 中，即時顯示功能可協助您查看您的共同撰寫作者在檔中的運作位置，這樣就不會在您編輯時產生衝突，也可以在進行變更時看到變更。 Word 2013 支援同時編輯，但是不會指出目前狀態，因此要等文件儲存後，才看得見其他多位作者所做的變更。 若要深入瞭解即時共同撰寫，請參閱[word for web 中的新功能](https://go.microsoft.com/fwlink/?LinkId=389520)和[即時共同撰寫之 Word 檔的共同](https://go.microsoft.com/fwlink/?linkid=798760)作業。
+可以有一個以上的人同時在文件中進行編輯。 在 Word for web 和 Word 2016 中，即時顯示功能可協助您查看您的共同撰寫作者在檔中的運作位置，這樣就不會在您編輯時產生衝突，也可以在進行變更時看到變更。 Word 2013 支援同時編輯，但是不會指出目前狀態，因此要等文件儲存後，才看得見其他多位作者所做的變更。 若要深入瞭解即時共同撰寫，請參閱 [word for web 中的新功能](https://go.microsoft.com/fwlink/?LinkId=389520) 和 [即時共同撰寫之 Word 檔的共同](https://go.microsoft.com/fwlink/?linkid=798760)作業。
   
 ## <a name="reference-tools"></a>參考工具
 
@@ -216,7 +216,7 @@ Word for web 會顯示使用資訊版權管理 (IRM) 所保護的檔。 不過�
   
 ## <a name="researcher"></a>研究工具
 
-研究員可協助您尋找及納入檔的可靠來源和內容。 研究工具使用 Bing 從網頁納入適當的內容。 如需詳細資訊，請參閱[在 Word 中輕鬆查看您的紙張](https://go.microsoft.com/fwlink/?linkid=839490)。
+研究員可協助您尋找及納入檔的可靠來源和內容。 研究工具使用 Bing 從網頁納入適當的內容。 如需詳細資訊，請參閱 [在 Word 中輕鬆查看您的紙張](https://go.microsoft.com/fwlink/?linkid=839490)。
   
 ## <a name="rich-media"></a>多媒體
 
@@ -224,7 +224,7 @@ Word for web 會顯示使用資訊版權管理 (IRM) 所保護的檔。 不過�
   
 ## <a name="rich-table-formatting"></a>豐富的表格格式化功能
 
-在 web 和 Word 桌面應用程式的兩個 Word 中皆可使用高級表格格式設定，例如選擇預先設定的表格樣式、標頭列和欄的設定選項，以及設定陰影及框線的選項。 若要深入瞭解網頁 Word 中的表格格式，請參閱[web 的 word 新增功能](https://go.microsoft.com/fwlink/?LinkId=389520)。
+在 web 和 Word 桌面應用程式的兩個 Word 中皆可使用高級表格格式設定，例如選擇預先設定的表格樣式、標頭列和欄的設定選項，以及設定陰影及框線的選項。 若要深入瞭解網頁 Word 中的表格格式，請參閱 [web 的 word 新增功能](https://go.microsoft.com/fwlink/?LinkId=389520)。
   
 ## <a name="save-as-and-download-a-copy"></a>另存新檔和下載副本
 
@@ -292,9 +292,9 @@ Word for web 會顯示使用資訊版權管理 (IRM) 所保護的檔。 不過�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[web 服務說明的 Office](office-online-service-description.md)。 
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [web 服務說明的 Office](office-online-service-description.md)。 
 
 ## <a name="operating-parameter-limitations-and-specifications"></a>運作參數限制和規格
 
-如需運作參數限制的相關資訊，請參閱[Word 中的指令引數限制和規格](https://docs.microsoft.com/office/troubleshoot/word/operating-parameter-limitation)。
+如需運作參數限制的相關資訊，請參閱 [Word 中的指令引數限制和規格](https://docs.microsoft.com/office/troubleshoot/word/operating-parameter-limitation)。
   
