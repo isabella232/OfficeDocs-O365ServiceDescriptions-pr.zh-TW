@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德國是一種可在歐洲使用的 Office 365 服務的區別選項。 它可協助您利用德國法律所規定的獨特資料受信者模型，為數字工作（從德文資料中心）提供業界領先的生產力服務，以在德國、歐盟 (EU) 和歐盟自由交易協會 (EFTA) 中，協助滿足最受管制客戶的需求。
-ms.openlocfilehash: d9dbd2e1d63d007ab27805924a07f8dcb11bb8fa
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 50e53c8bffd947ae11f9dbd97cc2a2c2533bfbfe
+ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293849"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48367760"
 ---
 # <a name="office-365-germany"></a>Office 365 德國
 
@@ -459,7 +459,7 @@ Office 365 德國遵循 Office 365 的雲端安全性和符合性標準。 Offic
 <sup>9</sup> Exchange Server 2013 只會使用 Microsoft 反惡意程式碼引擎。 Exchange Online 使用多個反惡意程式碼引擎，來掃描輸入、輸出和內部訊息中是否有惡意程式碼。 <br/> <sup>10</sup> 已連線的帳戶支援 POP &amp; IMAP 帳戶，但在 Outlook.com (Hotmail) 中已停用。 <br/>
 <sup>11</sup> 針對需要非使用中信箱功能的信箱，可另外購買 EOA 訂閱。 <br/>
 <sup>12</sup> 不支援使用 Cmdlet 來使用通訊清單及全域通訊清單。 <br/>
-<sup>13</sup> 需要使用可用性位址空間來支援與其他承租人共用。 如需如何建立可用性位址空間的詳細資訊，請參閱 [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/sharing-and-collaboration/Add-AvailabilityAddressSpace)。 <br/> <sup>14</sup> 表格指出用戶端是否與相關聯的計畫一起運作。 其並不代表這些計劃的採購中必須包含用戶端。<br/>
+<sup>13</sup> 需要使用可用性位址空間來支援與其他承租人共用。 如需如何建立可用性位址空間的詳細資訊，請參閱 [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/Add-AvailabilityAddressSpace)。 <br/> <sup>14</sup> 表格指出用戶端是否與相關聯的計畫一起運作。 其並不代表這些計劃的採購中必須包含用戶端。<br/>
 <sup>15</sup> 支援 POP，但是不支援 IMAP。<br/>
 <sup>16</sup> 某些協力廠商的 web 元件和增益集可能無法使用。
 
