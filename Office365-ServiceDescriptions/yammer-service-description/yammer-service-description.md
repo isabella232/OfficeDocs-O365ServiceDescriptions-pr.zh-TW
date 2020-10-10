@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 查看不同的 Yammer 方案中提供的功能。
-ms.openlocfilehash: 5465dc6dadfd69ae365cda70cbc07b54b0bb5220
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 6a0a95ba335fc6b75c1730b101b55d052a69cd95
+ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276747"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48408249"
 ---
 # <a name="yammer-service-description"></a>Yammer 服務說明
 
 Yammer 是同級產品最佳、安全且私密的企業社交網路。 Yammer 可讓員工輕鬆協同作業、更快做出決策，以及自行組成小組來迎接任何業務挑戰，進而使員工更具生產力且更為成功。 這是一種新的工作方式，可自然地促成業務契合度和靈活性、減少週期時間、凝聚員工，以及改善與客戶及合作夥伴的關係。
   
-如需包含 Yammer 的計畫清單，請參閱 [Microsoft service 系列與方案](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)。
+如需包含 Yammer 的計畫清單，請參閱 [Microsoft service 系列與方案](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans)。
   
 若要跨方案比較功能，請參閱 [強大的工具來支援您的企業](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
   
