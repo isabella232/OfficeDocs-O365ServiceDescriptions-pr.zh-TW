@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 瞭解 Microsoft 365 和獨立方案的 SharePoint 限制。
-ms.openlocfilehash: 5563789395bbf1113e29fb368997aeba53119bc3
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 15acfde2ceb9a2ff62e2905c1796253a2117f7c1
+ms.sourcegitcommit: df00a1b12b1f5288fb756f1c002ec46ce6e0e5db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276730"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48447340"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -48,9 +48,9 @@ ms.locfileid: "48276730"
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>清單或文件庫中專案的特定權限
 
-允許的限制為50000專屬許可權專案，但建議的一般限制為5000。 若一次變更超過5000的專屬許可權專案，則會花更長的時間進行變更。 針對大型清單，設計若盡可能具有少數獨特的許可權。
+允許的限制50000是專屬許可權唯一的專案，但是建議的一般限制為5000。 若要變更超過5000的專案，請專屬許可權一次以上的專案。 針對大型清單，設計若盡可能具有少數獨特的許可權。
 
-另一個限制是每個專屬許可權專案的角色指派為5000。 
+另一個限制是每個唯一專屬許可權專案5000的角色指派。 
 
 ### <a name="file-size-and-file-path-length"></a>檔案大小及檔案路徑長度
 
@@ -66,9 +66,9 @@ ms.locfileid: "48276730"
 
 ### <a name="sync"></a>Sync
 
-**新 OneDrive 同步處理應用** 程式-為了獲得最佳效能，建議您在所有已同步處理的文件庫中，針對每個使用者儲存不超過300000檔的檔案，即使您要進行同步處理，還是只在文件庫內選擇一些資料夾時，才會儲存這些檔案。
+**目前 OneDrive 同步處理應用程式 ( # A0) ** -為了獲得最佳效能，建議您針對所有已同步處理的文件庫，儲存每個使用者的300000檔案，即使您使用的是必要的檔案，或是只選擇文件庫中的部分資料夾，也能進行同步處理。
 
-**舊版 Business sync app 的 OneDrive ( # A0) ** -您最多可以同步處理所有同步處理的文件庫中的20000個專案。 這包括 OneDrive 文件庫、小組網站程式庫或兩者。 與整體同步處理限制分開時，每個文件庫類型可同步處理的專案數有限制：
+**OneDrive 舊版 Business sync app ( # A0-用於舊版內部部署 SharePoint 環境) ** -您最多可以同步處理所有已同步處理的文件庫總計的20000個專案。 這包括 OneDrive 文件庫、小組網站程式庫或兩者。 與整體同步處理限制分開時，每個文件庫類型可同步處理的專案數有限制：
 
    - 您最多可以同步處理 OneDrive 程式庫中的20000個專案。 這包括資料夾及檔案。 
    - 您最多可以同步處理 SharePoint 程式庫中的5000個專案。 這包括資料夾及檔案。 這些是您可以在各種 SharePoint 網站上找到的文件庫，例如小組網站和群組網站、其他人員建立或您從您的網站頁面建立的文件庫。 您可以同步處理多個 SharePoint 文件庫。 您同步處理的任何小組網站也會在所有同步處理的文件庫中，計算全部20000專案限制。
@@ -117,6 +117,6 @@ ms.locfileid: "48276730"
 > [!NOTE]
 > 您可以邀請 SharePoint 網站的客人數目沒有限制。 如需外部共用的詳細資訊，請參閱 [外部共用一覽](/sharepoint/external-sharing-overview)。
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 [SharePoint 的搜尋限制](/sharepoint/search-limits)
