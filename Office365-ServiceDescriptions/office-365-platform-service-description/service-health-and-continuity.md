@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的時間。 服務健康資訊可隨時登入。
-ms.openlocfilehash: 158bf6f436a7353f5c6a5fa847b244d73801cda2
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 3a5c2680a68a437e69cc7994a1e519fae957dc2a
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261605"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661251"
 ---
 # <a name="service-health-and-continuity"></a>服務健康狀況和持續性
 
@@ -47,7 +47,7 @@ Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的�
 
 | 季度 | 推出 | Q3 | Q4 |
 |:-----|:-----|:-----|:-----|
-| 99.98% <br/> | 99.99%<br/> | <br/> |<br/> |
+| 99.98% <br/> | 99.99%<br/> | 99.97%<br/> |<br/> |
 
 <br>
 
@@ -67,7 +67,7 @@ Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的�
 
 <br>
 
-**2017**
+**2017 年**
 
 | 季度 | 推出 | Q3 | Q4 |
 |:-----|:-----|:-----|:-----|

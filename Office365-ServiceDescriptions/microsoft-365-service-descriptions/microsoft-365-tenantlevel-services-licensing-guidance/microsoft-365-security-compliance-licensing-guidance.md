@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: b7a1793b049b1e38bc7821c94befd1eab5d7eb55
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 5ee2dc81d70239f00f967ace7a8594a0d5730e38
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294159"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661291"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -164,7 +164,7 @@ Azure AD P1 為使用者提供的權力，可從 MCAS 中的探索功能中受�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-使用 Office 365 E1/A1/E3/A3 和 Microsoft 365 E3/A3 授權的客戶將可以存取資料保護基準評估。 使用 Office 365 E5/A5 和 Microsoft 365 E5/A5 授權的客戶，將可以存取資料保護基準、GDPR、NIST 800-53 及 ISO 22701 現成評估。 客戶必須至少有一個 Office 365 E5/A5 或 Microsoft 365 E5/A5 授權，才能使用自訂評估功能。 特優評估可用於購買至 Office 365 E5/A5 和 Microsoft 365 E5/A5 客戶。
+使用 Office 365 E5/A5 和 Microsoft 365 E5/A5 授權的客戶，將可以存取資料保護基準、GDPR、NIST 800-53，以及 ISO 27001 現成評估，以及使用自訂評估功能。 特優評估可用於購買至 Office 365 E5/A5 和 Microsoft 365 E5/A5 客戶。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -429,7 +429,7 @@ Microsoft 365 的雙金鑰加密可讓您保護高度機密的資料，以符合
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
-使用者可以將加密的資料移轉至雲端，並防止協力廠商存取，只要該機碼仍保持控制使用者，就能從雙金鑰加密中受益。 使用者可以保護和使用類似于任何其他敏感度標籤保護內容的雙金鑰加密內容。
+使用者可以將加密的資料移轉至雲端，並防止協力廠商存取，只要該機碼仍在控制使用者，就能從雙金鑰加密受益。 使用者可以保護和使用類似于任何其他敏感度標籤保護內容的雙金鑰加密內容。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 

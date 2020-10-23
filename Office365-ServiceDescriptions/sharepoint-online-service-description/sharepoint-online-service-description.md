@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 請參閱哪些 SharePoint 功能可用於哪些方案。
-ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: e99bfed4518c42e848e3937722d7b91eb3ec9ef1
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294101"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661261"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服務描述
 
@@ -42,7 +42,7 @@ Microsoft 365 中的 SharePoint 可協助組織共用及管理內容、知識及
 
 Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不同計畫的相關資訊，包括獨立計畫選項及從一個計畫移至另一個計畫的資訊，請參閱 [Microsoft 365 Plan options](../office-365-platform-service-description/office-365-plan-options.md)。
   
-若要存取 SharePoint，您組織中的使用者必須獲指派包含 SharePoint 的授權。 Firstline 方案不是以獨立提供方式銷售，只是 [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1)的一部分。 
+若要存取 SharePoint，您組織中的使用者必須獲指派包含 SharePoint 的授權。 Firstline 方案不是以獨立提供方式銷售，只是 [Office 365 f3](https://www.microsoft.com/microsoft-365/business/office-365-f1)、 [microsoft 365 F1](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) 或 [microsoft 365 F3](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab)的一部分。 
   
 ## <a name="rights-of-guests"></a>來賓的權力
 

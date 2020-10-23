@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
-ms.openlocfilehash: b3abce805be8cfefd9a65e72f5ec2b0f2b2ac653
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: ad4107a146ea4c4042cd9c1551110c7ec4ca0632
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245688"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661281"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -52,6 +52,9 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不�
 必須將訂閱計劃指派給存取 Exchange Online 服務的每一位使用者，並且每一個使用者訂閱都有其自己的信箱。這些信箱中的資料夾和訊息存在於 Microsoft 資料中心上執行 Exchange Server 的電腦上。
   
 會議室和共用信箱不須使用者訂閱。這些特殊的信箱類型沒有登入認證。而是透過委派，由具有適當權限的授權使用者來管理及存取。
+
+**Microsoft 365 F1 使用者信箱使用許可權** <br/>
+Microsoft 365 F1 不包括對 Exchange 信箱的許可權。 為了啟用完整的團隊體驗，M365 F1 授權可能隨附 Exchange Online K1 service plan。 雖然 Exchange Online K1 服務方案將為使用者布建信箱，但 M365 的 F1 使用者無權使用該信箱。 建議您透過 [這些步驟](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) 停用 Outlook 網頁版，並要求您的使用者不要透過其他任何方法存取 Exchange 信箱。
   
 ## <a name="system-requirements-for-exchange-online"></a>Exchange Online 的系統需求
 
