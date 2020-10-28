@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
-ms.openlocfilehash: 213f3bef10445ac8964e356f3438b9fd3fe100cf
-ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
+ms.openlocfilehash: 5e8b187cb0148215340b1ac83bb9df4ee6b70de0
+ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48408219"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773447"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 和 Office 365 方案選項
 
@@ -32,10 +32,10 @@ Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組
   
 | Office 365 服務系列 | 方案 |
 |:-----|:-----|
-|**商務 (最多300使用者) ** <br/>     |[Microsoft 365 商務](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) 版 (，以前稱為 Office 365 商務基本版)  <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) (以前的 Office 365 商務版)  <br/> [Microsoft 365 商務版](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-premium?activetab=pivot%3aoverviewtab) (以前是 Microsoft 365 商務)  <br/> [Microsoft 365 應用程式商務](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) 用 (，以前稱為 Office 365 商務)  <br/> |
-|**企業 (使用者數目不受限制) ** <br/> |[Office 365 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 F3](https://products.office.com/business/office-365-f1) <br/> [Microsoft 365 F1](https://www.microsoft.com/en-us/microsoft-365/enterprise/f1?activetab=pivot%3aoverviewtab) <br/> [Microsoft 365 F3 (包含 Office 365 F3) ](https://www.microsoft.com/en-us/microsoft-365/enterprise/f3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E3 (包含 Office 365 E3) ](https://www.microsoft.com/en-us/microsoft-365/enterprise/E3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E5 (包含 Office 365 E5) ](https://www.microsoft.com/en-us/microsoft-365/enterprise/E5?activetab=pivot:overviewtab) <br/> [適用于企業的 Microsoft 365 應用程式](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-apps-for-enterprise?rtc=1&activetab=pivot%3aoverviewtab) (以前的 Office 365 ProPlus)  <br/> |
-|**教育 (使用者數目不受限制) ** <br/> |[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 E5](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Microsoft 365 A1 (一次，每個裝置授權成對搭配每個使用者授權的免費 Office 365 A1) ](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A3 (包含 Office 365 A3) ](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A5 (包含 Office 365 A5) ](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> |
-|**美國政府 (無限制的使用者人數) ** <br/> |[請參閱所有可用的計畫](https://products.office.com/government/compare-office-365-government-plans) <br/> |
+|**商務 (最多300使用者)** <br/>     |[Microsoft 365 商務](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) 版 (，以前稱為 Office 365 商務基本版)  <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) (以前的 Office 365 商務版)  <br/> [Microsoft 365 商務版](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-premium?activetab=pivot%3aoverviewtab) (以前是 Microsoft 365 商務)  <br/> [Microsoft 365 應用程式商務](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) 用 (，以前稱為 Office 365 商務)  <br/> |
+|**企業 (使用者數目不受限制)** <br/> |[Office 365 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 F3](https://products.office.com/business/office-365-f1) <br/> [Microsoft 365 F1](https://www.microsoft.com/en-us/microsoft-365/enterprise/f1?activetab=pivot%3aoverviewtab) <br/> [Microsoft 365 F3 (包含 Office 365 F3) ](https://www.microsoft.com/en-us/microsoft-365/enterprise/f3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E3 (包含 Office 365 E3) ](https://www.microsoft.com/en-us/microsoft-365/enterprise/E3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E5 (包含 Office 365 E5) ](https://www.microsoft.com/en-us/microsoft-365/enterprise/E5?activetab=pivot:overviewtab) <br/> [適用于企業的 Microsoft 365 應用程式](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-apps-for-enterprise?rtc=1&activetab=pivot%3aoverviewtab) (以前的 Office 365 ProPlus)  <br/> |
+|**教育 (使用者數目不受限制)** <br/> |[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 E5](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Microsoft 365 A1 (一次，每個裝置授權成對搭配每個使用者授權的免費 Office 365 A1) ](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A3 (包含 Office 365 A3) ](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A5 (包含 Office 365 A5) ](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> |
+|**美國政府 (無限制的使用者人數)** <br/> |[請參閱所有可用的計畫](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**中國的 21Vianet 運作的 Office 365** <br/> |[請參閱所有可用的計畫](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Germany** <br/> |[深入了解 Office 365 德國](https://docs.microsoft.com/microsoft-365/admin/admin-overview/learn-about-office-365-germany) <br/> |
    
@@ -49,7 +49,7 @@ Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組
 | 服務 | Microsoft 365 Apps | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Microsoft 365 商務進階版 | Office 365 E1  | Microsoft 365 E3/Office 365 E3 | Microsoft 365 E5/Office 365 E5<sup>3，</sup><sup>15</sup> | Microsoft 365 F3/Office 365 F3 | Microsoft 365 F1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Office 365 平臺  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Exchange Online  <br/> |否  <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>8</sup> <br/> |是<sup>16</sup> <br/> |
+|Exchange Online  <br/> |否  <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>8</sup> <br/> |無<sup>16</sup> <br/> |
 |SharePoint Online  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>17</sup> <br/> |
 |OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
 |商務用 Skype Online <sup>14</sup> <br/> |否  <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |是<sup>10</sup> <br/> |是<sup>12</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |
@@ -76,7 +76,7 @@ Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組
 <sup>13</sup> 包含商務用 Skype Online 方案1。<br>
 <sup>14</sup> microsoft 小組現在是 microsoft 365 中的郵件、會議及通話的主要用戶端。 從2018年10月1日到，使用500座位的新客戶架至 Microsoft 小組，而且無法存取商務用 Skype Online。 已使用商務用 Skype Online 的承租人可以繼續進行， (包括布建新使用者) ，直到他們完成對 Microsoft 小組的過渡為止。<br>
 <sup>15</sup> 包含 Microsoft 365 E5 規範，其可提供自動分類和保留、客戶金鑰、高級郵件加密、有問必答風險管理、通訊相容性、資訊障礙、客戶加密箱、特殊的存取管理、高級審核、記錄管理，以及高級 eDiscovery 功能;和 Microsoft 365 E5 Security，其中包括 Office 365 高級威脅防護 (ATP) 計畫2、Microsoft Defender ATP、Azure Active Directory 方案2、Azure ATP、Microsoft Cloud App Security 及安全檔。<br>
-<sup>16</sup> Microsoft 365 F1 使用者已布建 Exchange Kiosk 服務方案，只啟用小組行事曆，沒有部署信箱的許可權。<br>
+<sup>16</sup> Microsoft 365 F1 不包括對 Exchange 信箱的許可權。 為了啟用完整的團隊體驗，M365 F1 授權可能隨附 Exchange Online K1 service plan。 雖然 Exchange Online K1 服務方案將為使用者布建信箱，但 M365 的 F1 使用者無權使用該信箱。 建議您的客戶透過 [這些步驟](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) 停用 Outlook 網頁版，並要求使用者不要透過任何其他方法存取 Exchange 信箱。<br>
 <sup>17</sup> 包括 SharePoint 線上展臺。 不能是系統管理員。 無網站信箱。 無個人網站。<br>
 <sup>18</sup> Microsoft 365 F1 使用者可以使用 web 上的 Office 讀取檔案，但沒有建立/編輯/儲存許可權。 
   

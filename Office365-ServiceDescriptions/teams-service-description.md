@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 團隊提供立即訊息、檔案與資料共同作業、音訊和影片通話、豐富的線上會議、行動經驗和大量的 web 會議功能。
-ms.openlocfilehash: e9e537fc9c9bb54110d126d6007dcc209ebaa0e8
-ms.sourcegitcommit: e201e94eff3463c71d5c4b24db0148eee351fb1c
+ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
+ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48175180"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773437"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服務描述
 
@@ -35,11 +35,11 @@ Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](
 |  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
 |  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
-如需詳細的產品功能實現指導，請參閱 [Microsoft 團隊管理檔](https://docs.microsoft.com/MicrosoftTeams)。 此服務說明會詳細說明各雲端安裝所提供服務之間的主要差異。 Microsoft 小組核心功能不會有不同的訂閱。 相容性功能的可用性取決於您的訂閱等級。 若要深入瞭解，請參閱 [Microsoft 小組中的安全性和符合性](https://docs.microsoft.com/microsoftteams/security-compliance-overview)。 如需每個訂閱中可用功能的詳細清單，請參閱 [Microsoft 365 和 Office 365 平臺服務說明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。
+如需詳細的產品功能實現指導，請參閱 [Microsoft 團隊管理檔](https://docs.microsoft.com/MicrosoftTeams)。 此服務說明會詳細說明各雲端安裝所提供服務之間的主要差異。 Microsoft 小組核心功能不會有不同的訂閱。 相容性功能的可用性取決於您的訂閱等級。 若要深入瞭解，請參閱 [Microsoft 小組中的安全性和符合性](https://docs.microsoft.com/microsoftteams/security-compliance-overview)。 如需每個訂閱中可用功能的詳細清單，請參閱 [Microsoft 365 和 Office 365 平臺服務說明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。
 
-**雲端語音功能**：針對音訊會議，您的組織必須購買並指派音訊會議授權給將設定電話撥入式會議的每位使用者。 針對需要通話方案的小組功能，每一位使用者都需要一個電話系統和一個國內或國內和國際通話方案。 若要深入瞭解，請參閱 [Microsoft 小組附加元件授權](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)。
+**雲端語音功能** ：針對音訊會議，您的組織必須購買並指派音訊會議授權給將設定電話撥入式會議的每位使用者。 針對需要通話方案的小組功能，每一位使用者都需要一個電話系統和一個國內或國內和國際通話方案。 若要深入瞭解，請參閱 [Microsoft 小組附加元件授權](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)。
 
-**Live 事件**：此 Office 365 中的產品會取代停用的 Skype 會議廣播。 即時事件功能適用于 Stream service 中詳細的授權方案。 請在 [這裡查看 Microsoft Stream 授權的詳細資料](https://docs.microsoft.com/stream/license-overview)。 即時事件服務可透過 Stream、Yammer 或 Microsoft 小組進行存取。 若要深入瞭解即時事件功能，請參閱在 [Yammer、Microsoft 團隊和 Microsoft Stream 中跨 Microsoft 365 的即時事件](https://docs.microsoft.com/stream/live-event-m365)。
+**Live 事件** ：此 Office 365 中的產品會取代停用的 Skype 會議廣播。 即時事件功能適用于 Stream service 中詳細的授權方案。 請在 [這裡查看 Microsoft Stream 授權的詳細資料](https://docs.microsoft.com/stream/license-overview)。 即時事件服務可透過 Stream、Yammer 或 Microsoft 小組進行存取。 若要深入瞭解即時事件功能，請參閱在 [Yammer、Microsoft 團隊和 Microsoft Stream 中跨 Microsoft 365 的即時事件](https://docs.microsoft.com/stream/live-event-m365)。
 
 所有支援的訂閱計畫皆可存取 Microsoft 團隊網頁用戶端、桌面用戶端和行動應用程式。
 
@@ -59,13 +59,14 @@ Microsoft 團隊並非獨立服務提供。
 |Audio/Video 桌面 PowerPoint 螢幕共用 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |語音  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |音訊會議  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|應用程式、Bot、& 連接器  <br/> |是  <br/> |是  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是  <br/> |
-|即時事件  <br/> |否  <br/> |是  <br/> |是  <br/> |否<sup>4</sup>  <br/> |否<sup>4</sup>  <br/> |是  <br/> |
+|應用程式、Bot、& 連接器  <br/> |是  <br/> |是  <br/> |是<sup>4</sup>  <br/> |是<sup>4</sup>  <br/> |是<sup>3，4</sup>  <br/> |是  <br/> |
+|即時事件  <br/> |否  <br/> |是  <br/> |是  <br/> |否<sup>5</sup>  <br/> |否<sup>5</sup>  <br/> |是  <br/> |
 
-> <sup>1</sup>  在 GCC 中的 Microsoft 團隊-高和 DOD 支援2500成員在個別小組中。<br/>
+> <sup>1</sup>  Microsoft 小組 in GCC-High 和 DOD 支援個別小組的2500成員。<br/>
 > <sup>2</sup> Microsoft Planner 目前無法存取私人通道。<br/>
-> <sup>3</sup> 不提供 DOD 雲彩的 Microsoft OneNote。 在這兩個雲中，應用程式和應用程式發佈皆無法使用。<br/>
-> 目前在 GCC-High 或 DOD 中無法使用<sup>4</sup> Live 事件。<br/>
+> <sup>3</sup> 不提供 DOD 雲彩的 Microsoft OneNote。<br/>
+> <sup>4</sup> 此時無法在這些群中使用應用程式和應用程式發佈。<br/>
+> 目前 GCC-High 或 DOD 未提供<sup>5</sup>項 Live 事件。<br/>
 
 ## <a name="next-steps"></a>後續步驟
 
