@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用于促進美國聯邦政府機構中的 Office 365 部署的 IT 專業人員，或其他處理政府法規和需求之資料的實體，也就是使用 Microsoft 365 政府– DoD 適用于符合這些需求的地方。
-ms.openlocfilehash: d76e88aeeef105051d4c7c867e120fc6b300a888
-ms.sourcegitcommit: 155fab0939dde68a8e1ac24bc5d6471be159943e
+ms.openlocfilehash: aca09e0e7768228f39e942fbeffba1bae84cb77f
+ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48769975"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48793650"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>規劃 Microsoft 365 合規性 - DoD 部署
 
@@ -59,10 +59,9 @@ Microsoft 365 政府 DoD 環境符合美國政府對雲端服務的需求。
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>步驟 4： 瞭解 Microsoft 365 政府中目前無法使用或已停用哪些功能（DoD<sup>1</sup> ）
 
-為了符合我們政府雲端客戶的需求，Microsoft 365 政府 DoD 和企業方案之間有一些差異。 請參閱下表，以查看哪些功能可供使用。
+為了符合我們政府雲端客戶的需求，Microsoft 365 政府 DoD 和企業方案之間有一些差異。 請參閱下表，以查看哪些功能可供使用。<br><br>
 
-
-|                                         | 功能                                         | GCC 狀態             |
+| 範圍                                    | 功能                                         | GCC 狀態             |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **資訊保護**              | 統一的標籤用戶端和掃描器         | 可以使用              |
 |                                         | 完全相符的資料          | 可以使用               |
