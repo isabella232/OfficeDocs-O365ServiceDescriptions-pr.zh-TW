@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 政府的概述，並說明購買選項。
-ms.openlocfilehash: 81ee54c17a4861c44f350f394ccc61a4bd669996
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: bcdff20881d41a566f68e05ac3ae3c4b3be5a40c
+ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276766"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "48818663"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版-如何購買
 
@@ -21,7 +21,7 @@ ms.locfileid: "48276766"
   
 ## <a name="whats-microsoft-365-government"></a>何謂 Microsoft 365 政府？
 
-Microsoft 365 政府是一組生產力、安全性和行動雲端軟體功能，專為我們政府機關和承包商贊助持有控制、未分類資訊的承包商量身定做。 透過符合最嚴格法規遵從性需求的獨特環境來傳遞，Microsoft 365 政府是一項雲端提供給我們的政府客戶，其符合 Microsoft 商業雲端企業版產品的功能和功能。 
+Microsoft 365 政府是一組生產力、安全性和行動雲端軟體功能，專為我們政府機關和承包商贊助持有控制、未分類資訊的承包商量身定做。 透過符合最嚴格法規遵從性需求的獨特環境來傳遞，Microsoft 365 政府是一項雲端提供給我們的政府客戶，其符合 Microsoft 商業雲端企業版產品的功能和功能。
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Microsoft 365 政府的價值為何？
 
@@ -43,21 +43,21 @@ Microsoft 365 政府專為滿足下列四個重要方面的美國政府機關的
 **遮罩式人員。** 存取您組織的客戶內容時，會受到限制，僅限美國公民的 Microsoft 人員，且已通過必要的背景檢查。
 協力廠商審核。 所有基礎結構都是由已認證的協力廠商審計員所審核，其提供的安全性評估報告或證明字母，可供聯邦代理商發出 (ATO) 的授權。 
 
-**內容儲存區。** 資料是以相容的基礎結構儲存在美國大陸。 下表摘要說明適用于美國政府環境和承諾的 Microsoft 365。<br><br>
+**內容儲存區。** 資料是以相容的基礎結構儲存在美國大陸。 下表摘要說明政府環境和承諾的 Microsoft 365。<br><br>
 
 | 產品 | 承諾 |
 |:----------|:----------------------------------|
-|Microsoft 365 政府版 GCC  <br/> |FedRamp 適中、CJIS、IRS 1075、DISA SRG L2  <br/> |
-|Microsoft 365 政府版 GCC 高  <br/> |FedRamp High、ITAR、DFARS、DOD SRG L4 控制項 <br/> |
+|Microsoft 365 政府版 GCC  <br/> |FedRamp High，CJIS，IRS 1075，DISA SRG L2 <br/> |
+|Microsoft 365 政府版 GCC 高  <br/> |FedRamp High、ITAR、DFARS、DISA SRG L4 控制項 <br/> |
 |Microsoft 365 政府 DoD  <br/> |DISA SRG L5  <br/> |
 
 如需 Microsoft 安全性和合規性資格鑒定的詳細資訊，請造訪 [Microsoft 信任中心 ](https://www.microsoft.com/trustcenter/default.aspx)  
 
-## <a name="microsoft-365-for-us-government-eligibility-and-validation"></a>Microsoft 365 美國政府的資格和驗證
+## <a name="microsoft-365-government-eligibility-and-validation"></a>Microsoft 365 政府資格和驗證
 
-適用于美國政府的 Microsoft 365 可供合格的政府客戶和非政府組織贊助持有或處理控制的資訊。 這兩類客戶的資格準則在 Microsoft 政府雲端中是一致的。
+Microsoft 365 政府可供合格的政府客戶和非政府組織，贊助用來保留或處理控制資訊的組織。 這兩類客戶的資格準則在 Microsoft 政府雲端中是一致的。
 
-所有適用于 Microsoft 政府雲端的客戶皆可使用 GCC 和 GCC 的高服務，而且 DoD 環境是以專屬方式使用美國國防部。 服務可用性和價格各不相同，但 GCC 仍針對所有未保留 FedRAMP 高或 DoD 控制未分類資訊 (CUI) 之客戶的英雄行動。
+所有適用于 Microsoft 政府雲端的客戶皆可使用 GCC 和 GCC 的高服務，而且 DoD 環境是以專屬方式使用美國國防部。 服務可用性和價格各不相同，而 GCC 仍針對所有未保留 FedRAMP 高或 DoD 控制的未分類資訊 (CUI) 的客戶提供英雄服務。
 
 合格的政府客戶由下列其中一個專案定義：
 
@@ -70,7 +70,7 @@ Microsoft 365 政府專為滿足下列四個重要方面的美國政府機關的
 
 非政府組織保留下列類型的資料，並可提供所列出的校樣，以符合 Microsoft 政府 Cloud 驗證程式的資格：
 
-商業私人實體，具有規章所制約的資料。 公認的政府資料類型包括： 
+含規章所制約之資料的商業私人實體。 公認的政府資料類型包括：
 - Arm 中的國際流量 (ITAR) 
 - 受管理的未分類資訊 (CUI) 
 - 國防部門 (DoD) 未分類控制的核資訊 (UCNI) 
@@ -113,9 +113,10 @@ Microsoft 365 政府專為滿足下列四個重要方面的美國政府機關的
 請遵循下列步驟來購買 Microsoft 365 政府授權：
 
 1. [完成並提交表單](https://products.office.com/government/eligibility-validation) 以驗證貴組織的資格。
-2. 使用 Microsoft 帳戶小組或合格的合作夥伴進行訂單。 客戶只能透過選取的合作夥伴購買 Microsoft 365 給我們的政府授權。
+2. 使用 Microsoft 帳戶小組或合格的合作夥伴進行訂單。
+客戶只能透過選取的合作夥伴購買 Microsoft 365 給我們的政府授權。
 
-**Lsp 與 GCC 高 (+ 500 席位) **
+**Lsp 與 GCC 高 (+ 500 席位)**
 
 - CDW
 -  (先前的電腦連線) 
@@ -129,7 +130,7 @@ Microsoft 365 政府專為滿足下列四個重要方面的美國政府機關的
 - Softchoice
 - 國際區域
 
-**在500席位底下的 AOS-G 第 G 夥伴（GCC）高 () **
+**在500席位底下的 AOS-G 第 G 夥伴（GCC）高 ()**
 
 - 敏捷 IT
 - 套用的資訊科學 (AIS)  
