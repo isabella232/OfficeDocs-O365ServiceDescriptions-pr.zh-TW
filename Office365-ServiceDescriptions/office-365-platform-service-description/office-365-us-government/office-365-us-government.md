@@ -9,14 +9,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已建立 Office 365 美國政府方案 (或 Office 365 政府) 。 本文概要說明 Office 365 政府美國環境所特有的功能。
-ms.openlocfilehash: 0bbf94b1647496a500719cec51b25b976d2129bc
-ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
+ms.openlocfilehash: 3e4b5b908196b96d56f79fd9ec487e43bb631366
+ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48367740"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48830404"
 ---
-# <a name="office-365-us-government"></a>Office 365 US Government
+# <a name="office-365-government"></a>Office 365 政府版
 
 > [!IMPORTANT]
 > 由於 coronavirus (COVID-19) pandemic，所以 Microsoft 團隊在線上通話和音訊/視訊會議方面的經歷極大。<br/>
@@ -29,21 +29,21 @@ ms.locfileid: "48367740"
 >
 >在我們採取步驟時，感謝您的支援，以確保我們的服務在這些特別的時間內仍保持可用及可靠的狀態。<br/>
 
-為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已建立 Office 365 美國政府方案 (或 Office 365 政府) 。 此服務說明提供 Office 365 政府美國環境特有功能的概覽。 建議您閱讀此服務說明及其他 [Microsoft 365 和 Office 365 服務說明](../../office-365-service-descriptions-technet-library.md)。
+為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已建立 Office 365 政府方案 (或 Office 365 政府) 。 此服務說明提供 Office 365 政府美國環境特有功能的概覽。 建議您閱讀此服務說明及其他 [Microsoft 365 和 Office 365 服務說明](../../office-365-service-descriptions-technet-library.md)。
 
 ## <a name="how-to-use-this-service-description"></a>如何使用此服務說明
 
-「Office 365 美國政府服務說明」是設計為一般 Office 365 服務說明的疊加。 與 Office 365 企業版產品相比，它會定義獨特的承諾和差異。
+Office 365 政府服務說明是設計為一般 Office 365 服務說明的疊加。 與 Office 365 企業版產品相比，它會定義獨特的承諾和差異。
 
-## <a name="about-office-365-us-government-environments"></a>關於 Office 365 美國政府環境
+## <a name="about-office-365-government-environments"></a>關於 Office 365 政府環境
 
-Office 365 US Government 方案為每月訂閱，並且可授權給不限數量的使用者。
+Office 365 政府方案為每月訂閱，並且可授權給不限數量的使用者。
 
-- **Office 365 GCC**環境為雲端服務（包括 FedRAMP 適中）和) 中的刑事審判和聯邦稅收資訊 (系統的要求提供法規遵從性。
+- **Office 365 GCC** 環境可滿足雲端服務的聯邦需求，包括 FedRAMP 高，以及刑事審判和聯邦稅收資訊系統的需求 (CJI 及 FTI 資料類型) 。
 
-- **Office 365 GCC 的高和 DoD**環境會為國防原則的管制原則、國防聯邦取得法規、國防聯邦取得法規補充 (DFARS) 和國際流量 (ITAR) 。
+- **Office 365 GCC 的高和 DoD** 環境會為國防原則的管制原則、國防聯邦取得法規、國防聯邦取得法規補充 (DFARS) 和國際流量 (ITAR) 。
 
-除了具有 Office 365 的功能外，使用 Office 365 US Government 的組織還可從以下專屬於 Office 365 US Government 的功能獲得好處：
+除了 Office 365 的功能之外，使用 Office 365 政府的組織也會受益于 Office 365 政府獨有的下列功能：
 
 - 組織的客戶內容和 Microsoft 的商業 Office 365 服務中的客戶內容會以邏輯方式區隔。
 
@@ -51,21 +51,21 @@ Office 365 US Government 方案為每月訂閱，並且可授權給不限數量�
 
 - 只有經過篩選的 Microsoft 人員可以存取組織的客戶內容。
 
-- Office 365 US Government 符合美國公共部門客戶所要求的認證和資格鑑定。
+- Office 365 政府符合美國公共部門客戶所需的認證和資格鑒定。
 
 ## <a name="customer-eligibility"></a>客戶資格
 
-Office 365 US 政府可用於 (1) US 聯邦、state、local、部落及 territorial 政府機構，以及 (2) 處理政府法規和需求之資料的其他實體，以及使用 Office 365 US 政府來符合這些需求的情況，受制于資格驗證。 Microsoft 的資格驗證會包含在 Arm 法規 (ITAR) 中，法律強制執行的資料，遵循對 FBI 刑事審判資訊服務 (CJIS) 原則或其他政府管制或控制資料的法律強制執行資料的確認。 驗證可能需要使用美國州的「州」部門進行註冊，以供政府機構使用特定的資料處理要求的 ITAR 資料或資助。 Office 365 DoD 環境是以專屬方式使用美國國防部。
+Office 365 政府可用於 (1) US 聯邦、state、local、部落及 territorial 政府機構，以及 (2) 處理政府法規和需求之資料的其他實體，以及 Office 365 政府可用於符合這些需求的地方（遵循資格驗證）。 Microsoft 的資格驗證會包含在 Arm 法規 (ITAR) 中，法律強制執行的資料，遵循對 FBI 刑事審判資訊服務 (CJIS) 原則或其他政府管制或控制資料的法律強制執行資料的確認。 驗證可能需要使用美國州的「州」部門進行註冊，以供政府機構使用特定的資料處理要求的 ITAR 資料或資助。 Office 365 DoD 環境是以專屬方式使用美國國防部。
 
 雖然各 Office 365 政府產品皆符合資格準則，但 Microsoft 只會同意 DFARS 及 ITAR 合約語言的 GCC 高環境。
 
-若有關於 Office 365 US Government 資格問題的機構應諮詢其客戶團隊。
+有關 Office 365 政府資格的實體應諮詢其帳戶小組。
 
-在更新客戶的 Office 365 美國政府合約時，必須重新驗證資格。
+在更新客戶的 Office 365 政府合約時，必須重新驗證資格。
 
 ## <a name="customer-content-located-within-the-united-states"></a>美國境內的客戶內容
 
-Office 365 US Government 服務是由美國境內的實體資料中心所提供。下列客戶內容會靜止存放在僅位於美國境內的實體資料中心裡：
+Office 365 政府服務是由實際位於美國的資料中心提供。 下列客戶內容會靜止存放在僅位於美國境內的實體資料中心裡：
 
 - Exchange Online 信箱內容 (電子郵件內文、行事曆專案和電子郵件附件的內容) 
 
@@ -80,13 +80,13 @@ Office 365 US Government 服務是由美國境內的實體資料中心所提供�
 
 如果您的使用者在美國境內中使用 Office (之前稱為 Office Web Apps) 或您採用 Active Directory Federation Services (AD FS) 2.0，並設定原則，以協助確保使用者透過單一登入連線到服務，則暫時快取在 Office 中的任何客戶內容都會位於美國境內中。
 
-## <a name="office-365-us-government-and-third-party-services"></a>Office 365 US Government 與協力廠商服務
+## <a name="office-365-government-and-third-party-services"></a>Office 365 政府和協力廠商服務
 
 Office 365 提供將協力廠商應用程式整合至 SharePoint Online 網站、商務 (365 用 Skype、Office 應用程式（包括 Word、Excel、PowerPoint 和 Outlook) 及 Outlook Web App）的功能。 此外，Office 365 還支援與服務提供者協力廠商整合。 這些協力廠商應用程式和服務可能會在 Office 365 基礎結構外的協力廠商系統上儲存、傳輸和處理組織的客戶資料，因此不在 Office 365 規範和資料保護承諾的保證範圍內。 建議您檢閱協力廠商提供的隱私權和規範聲明，來評估適合組織的服務使用方式。
 
 ## <a name="restricted-data-access-by-administrators"></a>受限制的系統管理員資料存取
 
-Microsoft 系統管理員對 Office 365 美國政府客戶內容的存取權僅限於對人員進行遮罩式。 如需詳細的篩選層級詳細資料，請參閱每個個別環境 (GCC 或 GCC DoD) 的 [服務描述] 頁面。
+Microsoft 系統管理員對 Office 365 政府客戶內容的存取權僅限於對人員進行遮罩式。 如需詳細的篩選層級詳細資料，請參閱每個個別環境 (GCC 或 GCC DoD) 的 [服務描述] 頁面。
 
 ## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack 中心上架協助
 
@@ -319,10 +319,10 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access)|否|是|是|否|
 |[商務用 Skype](../../office-applications-service-description/office-applications.md#skype-for-business)|是<sup>3</sup>|是|是|是<sup>3</sup>|
 |[Office 365 的 Mac 版 Office](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57)|否|是|是|否|
-|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|是|是<sup></sup>|是<sup></sup>|是|
-|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android)|是|是<sup></sup>|是<sup></sup>|是|
+|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|是|是的<sup></sup>|是<sup></sup>|是|
+|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android)|是|是的<sup></sup>|是<sup></sup>|是|
 |[Office Mobile for Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|是|是<sup>4</sup>|是<sup>4</sup>|是|
-|Office Mobile for Windows 10 tablets|是|是<sup></sup>|是<sup></sup>|是|
+|Office Mobile for Windows 10 tablets|是|是的<sup></sup>|是<sup></sup>|是|
 |適用于 iOS 和 Android<sup>5，4</sup>的 Outlook|是|是|是|是|
 |**企業價值**|**Office 365 政府版 G1**|**Office 365 Government G3**|**Office 365 政府版 G5**|**Office 365 政府 F3**|
 |每個使用者可同時在 5 部 PC 或 Mac 上安裝|否|是|是|否|
@@ -370,7 +370,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 
 |Application/feature|GCC|GCC High|DOD|
 |---|---|---|---|
-|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel)在政府雲彩中完全可用，但下列功能仍無法使用，但目前**無法使用：**||||
+|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel)在政府雲彩中完全可用，但下列功能仍無法使用，但目前 **無法使用：**||||
 |3D 內嵌動畫和3D 模型|否|否|否|
 |資料類型|否|否|否|
 |Flash 填滿|否|否|否|
@@ -398,7 +398,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote)完全可用於政府雲彩，但下列功能除外 **，但目前無法使用：**|**GCC**|**GCC High**|**國防部**|
 |研究工具|否|否|否|
 |智慧數位墨水|否|否|否|
-|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook)完全可用於政府雲彩，但下列功能仍無法使用，但現在**無法使用：**|**GCC**|**GCC High**|**國防部**|
+|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook)完全可用於政府雲彩，但下列功能仍無法使用，但現在 **無法使用：**|**GCC**|**GCC High**|**國防部**|
 | (某些) 的 Office 聲音|否|否|否|
 |預設會停用動態資料交換 (DDE) |否|否|否|
 |聽寫|否<sup>1</sup>|否<sup>1</sup>|否<sup>1</sup>|
@@ -417,7 +417,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |即時共同作業 (目前狀態、一般共同作業、檔聊天室) |否|否|否|
 |聽寫|否<sup>1</sup>|否<sup>1</sup>|否<sup>1</sup>|
 |重複使用滑動片|否|否|否|
-|目前只有 Hub 用戶端（而不是在桌面上）提供政府群中的**Microsoft 白板**。|**GCC**<sup>2</sup>|**GCC 高**<sup>2</sup>|**DOD**<sup>2</sup>|
+|目前只有 Hub 用戶端（而不是在桌面上）提供政府群中的 **Microsoft 白板** 。|**GCC**<sup>2</sup>|**GCC 高**<sup>2</sup>|**DOD**<sup>2</sup>|
 |插入粘滯便箋、文字和圖像|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
 |手寫的圖案和墨蹟至表格|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
 |筆跡 beautification|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
@@ -428,7 +428,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |即時目前狀態|否|否|否|
 |內容的反應|否|否|否|
 |白板的板圖庫（包括與您共用）|否|否|否|
-|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word)完全可用於政府雲彩，但下列功能仍無法使用，但目前**無法使用：**|**GCC**|**GCC High**|**國防部**|
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word)完全可用於政府雲彩，但下列功能仍無法使用，但目前 **無法使用：**|**GCC**|**GCC High**|**國防部**|
 |智慧查閱|否|否|否|
 |研究工具|否|否|否|
 |Office 聲音|否|否|否|

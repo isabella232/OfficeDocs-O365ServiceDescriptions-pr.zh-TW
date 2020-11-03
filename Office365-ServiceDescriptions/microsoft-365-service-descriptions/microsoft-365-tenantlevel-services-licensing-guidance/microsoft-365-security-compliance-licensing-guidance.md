@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 5ee2dc81d70239f00f967ace7a8594a0d5730e38
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: d83791aa46ca8c77227f3a7ce692f4439866a151
+ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661291"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48830394"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -164,7 +164,7 @@ Azure AD P1 為使用者提供的權力，可從 MCAS 中的探索功能中受�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-使用 Office 365 E5/A5 和 Microsoft 365 E5/A5 授權的客戶，將可以存取資料保護基準、GDPR、NIST 800-53，以及 ISO 27001 現成評估，以及使用自訂評估功能。 特優評估可用於購買至 Office 365 E5/A5 和 Microsoft 365 E5/A5 客戶。
+使用 Office 365 E5/A5 和 Microsoft 365 E5/A5 授權的客戶，將可以存取資料保護基準、GDPR、NIST 800-53，以及 ISO 27001 現成評估，以及使用自訂評估功能。 在第一半的2021內，可購買 Office 365 E5/A5 和 Microsoft 365 E5/A5 客戶的超值評估。 他們將可透過 VL、CSP 和 WebDirect 購買。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -457,11 +457,11 @@ Microsoft 365 A1/E3/A3/Business、Office 365 E3/A3 和 Office 365 資料遺失�
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，Exchange Online 電子郵件、SharePoint 網站和 OneDrive 帳戶為針對租用戶內所有使用者的這些 DLP 功能的*啟用位置 (工作負載)*。 如需使用 DLP 原則的詳細資訊，請參閱[資料外洩防護概觀](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)。
+根據預設，Exchange Online 電子郵件、SharePoint 網站和 OneDrive 帳戶為針對租用戶內所有使用者的這些 DLP 功能的 *啟用位置 (工作負載)* 。 如需使用 DLP 原則的詳細資訊，請參閱[資料外洩防護概觀](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-系統管理員可以自訂位置 (工作負載) 、包含的使用者，以及在 [安全性 & 規範中心] 中的 [**資料遺失防護**位置] 底下的使用者  >  ** **。
+系統管理員可以自訂位置 (工作負載) 、包含的使用者，以及在 [安全性 & 規範中心] 中的 [  。
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>小組的通訊資料遺失防護
 
@@ -477,11 +477,11 @@ Office 365 E5/A5 的授權使用者，Microsoft 365 E5/A5，Microsoft 365 資訊
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，Teams 聊天和頻道訊息為針對租用戶內所有使用者的這些 DLP 功能的*啟用位置 (工作負載)*。 如需使用 DLP 原則的詳細資訊，請參閱[資料外洩防護概觀](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)。
+根據預設，Teams 聊天和頻道訊息為針對租用戶內所有使用者的這些 DLP 功能的 *啟用位置 (工作負載)* 。 如需使用 DLP 原則的詳細資訊，請參閱[資料外洩防護概觀](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-系統管理員可以自訂位置 (工作負載) 、包含的使用者，以及在 [安全性 & 規範中心] 中的 [**資料遺失防護**位置] 底下的使用者  >  ** **。
+系統管理員可以自訂位置 (工作負載) 、包含的使用者，以及在 [安全性 & 規範中心] 中的 [  。
 
 ## <a name="information-barriers"></a>資訊屏障
 
@@ -511,7 +511,7 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 內部使用
 
 Office 365 郵件加密 (OME) 是內建於 Azure 版權管理 (Azure RMS) 的服務，可讓您將加密的電子郵件傳送給組織內部或外部的人，無論目的地電子郵件地址為何 (Gmail、Yahoo! Mail、Outlook.com 等)。
 
-若要檢視加密的郵件，收件者可以取得一次性密碼、使用 Microsoft 帳戶登入、或使用與 Office 365 相關聯的公司或學校帳戶登入。 收件者也可以傳送加密的回覆。 不需要訂閱即可查看加密的郵件或傳送加密的回復。
+若要檢視加密的郵件，收件者可以取得單次密碼、登入 Microsoft 帳戶、或登入工作或學校相關聯的 Office 365 帳戶。 收件者也可以傳送加密的回覆。 不需要訂閱即可查看加密的郵件或傳送加密的回復。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
@@ -523,7 +523,7 @@ Microsoft 365 E3/A3、Office 365 E3/A3 和 Azure 資訊保護方案1為使用者
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-系統管理員會在 Exchange 系統管理中心的 [郵件流程]****  >  [規則]**** 下建立及管理 Office 365 郵件加密原則。 根據預設，這些規則會套用至租用戶中的所有使用者。 如需設定新的 Office 365 郵件加密功能的詳細資訊，請參閱[設定全新的 Office 365 郵件加密功能](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)。
+系統管理員會在 Exchange 系統管理中心的 [郵件流程]   >  [規則]  下建立及管理 Office 365 郵件加密原則。 根據預設，這些規則會套用至租用戶中的所有使用者。 如需設定新的 Office 365 郵件加密功能的詳細資訊，請參閱[設定全新的 Office 365 郵件加密功能](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
