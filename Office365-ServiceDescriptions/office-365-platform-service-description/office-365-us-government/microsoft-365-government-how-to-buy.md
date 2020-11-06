@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 政府的概述，並說明購買選項。
-ms.openlocfilehash: bcdff20881d41a566f68e05ac3ae3c4b3be5a40c
-ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
+ms.openlocfilehash: 2bf7910aabe9cca517392a9709e759f932a05058
+ms.sourcegitcommit: 8d0cba71c48d22bd53bc3e7b2f51e6662e1e51e8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "48818663"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "48931033"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版-如何購買
 
@@ -133,13 +133,16 @@ Microsoft 365 政府可供合格的政府客戶和非政府組織，贊助用來
 **在500席位底下的 AOS-G 第 G 夥伴（GCC）高 ()**
 
 - 敏捷 IT
-- 套用的資訊科學 (AIS)  
+- 套用的資訊科學 (AIS) 
 - C3 整合式解決方案
+- Carahsoft
 - Dox 電子產品（Inc.）。
 - F1 解決方案，Inc.。
+- 四個點
 - KTL 解決方案，Inc.。
 - LiftOff、LLC
 - 行星技術
+- 平靜專業人員
 - 峰會7系統
 
 **附注：** 上述清單中 (Lsp) 中的所有 Microsoft 授權方案提供者都可以透過 Enterprise 合約 (EA) ，以建立客戶價格表 (CPS) 。 不符合 EA 的組織可以透過所列的 AOS-G 合作夥伴或 CSP 合作計畫，購買 GCC 授權。
