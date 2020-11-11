@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概要說明美國政府雲端與商業性雲端之間的功能差異（如 Exchange Online 服務說明所列）。
-ms.openlocfilehash: 2277f7d74cb893dd172bc13efcbd01d964b81736
-ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
+ms.openlocfilehash: e8e552076f7e318db9a4de17ad605d3c260b2295
+ms.sourcegitcommit: 09b52ff24e7153457c7b4f775ea809079103f6e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48793646"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48988080"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>適用于美國政府環境的 Exchange Online
 
@@ -111,6 +111,7 @@ ms.locfileid: "48793646"
 |網站信箱|是|是|是||
 |公用資料夾|是|是|是||
 |**[用戶端和行動裝置](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC High**|**DoD**|**主要考慮**|
+|若要執行 Web|是|否|否||
 | Outlook for Windows|是|是|是|為了符合 GCC 高和 DoD 規範的需求，您必須執行最低版本1803的 Office 365 ProPlus。 Office 365 ProPlus 不含 G1 或 F3。|
 |Outlook 網頁版|是|是|是||
 |Mac 版 Outlook|是|是|是|為了符合 GCC 高和 DoD 規範的需求，您必須執行最低版本1803的 Office 365 ProPlus。 Office 365 ProPlus 不含 G1 或 F3。|
@@ -149,41 +150,41 @@ ms.locfileid: "48793646"
 
 ### <a name="connectivity-with-third-party-services"></a>與協力廠商服務的連線能力  
 
-GCC 高和 DoD 環境都是限制的環境，需要明確核准和設定輸出連線。 此外，Microsoft 無法容納允許從這些環境輸出存取 (商務用 Office 365、Google GSuite、Amazon Web 服務等等) 的要求。     
+GCC 高和 DoD 環境都是限制的環境，需要明確核准和設定輸出連線。 此外，Microsoft 無法容納允許從這些環境輸出存取 (商務用 Office 365、Google GSuite、Amazon Web 服務等等) 的要求。
 
-由於這些限制，通常不支援依賴此輸出連線的來自 GCC 高端/DoD 環境的功能，包括： 
+由於這些限制，通常不支援依賴此輸出連線的來自 GCC 高端/DoD 環境的功能，包括：
 
-- 連線的帳戶-使用者無法新增/同步處理帳戶 (Google、POP/IMAP 等等) 。 
+- 連線的帳戶-使用者無法新增/同步處理帳戶 (Google、POP/IMAP 等等) 。
 
-- 支援協力廠商檔案儲存提供者-在不同的 Outlook 用戶端中，只有使用者的 OneDrive 商務 *DoD* 帳戶可以存取，以進行附加/共用檔案的目的。 無法新增 (收存箱、Box、Google Drive) 的協力廠商儲存體帳戶。 
+- 支援協力廠商檔案儲存提供者-在不同的 Outlook 用戶端中，只有使用者的 OneDrive 商務 *DoD* 帳戶可以存取，以進行附加/共用檔案的目的。 無法新增 (收存箱、Box、Google Drive) 的協力廠商儲存體帳戶。
 
-- 與社交網路的連線，如 Facebook 或 LinkedIn。 
+- 與社交網路的連線，如 Facebook 或 LinkedIn。
 
-### <a name="azure-active-directory-b2b-collaboration"></a>Azure Active Directory B2B 協同作業 
+### <a name="azure-active-directory-b2b-collaboration"></a>Azure Active Directory B2B 協同作業
 
 目前只有位於 Azure US 政府雲端且支援 B2B 共同作業的組織之間，才支援 azure Active Directory B2B 協同作業。
 
 此外，在 GCC 的高和 DoD 環境中，不支援將使用者當做 Office 365 群組中的來賓 B2B。 
 
-如需詳細資訊及最新的更新，請參閱 [Azure 政府安全性 + 身分識別](https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity)。 
+如需詳細資訊及最新的更新，請參閱 [Azure 政府安全性 + 身分識別](https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity)。
 
-### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>跨 GCC 高/DoD 界限的 Office 365 郵件加密行為 
+### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>跨 GCC 高/DoD 界限的 Office 365 郵件加密行為
 
 如果您在 GCC 高環境中使用 Office 365 郵件加密，請注意這些收件者經驗的獨特特性：  
 
 - 從 GCC 高或 DoD 將加密電子郵件傳送至相同環境中的收件者時：
     
-    - 寄件者可以手動加密 Outlook 中的電子郵件和 outlook 的 outlook 和 Mac 和 Outlook 網頁版，或組織可以設定使用 Exchange 郵件流程規則來加密電子郵件的原則。 
+    - 寄件者可以手動加密 Outlook 中的電子郵件和 outlook 的 outlook 和 Mac 和 Outlook 網頁版，或組織可以設定使用 Exchange 郵件流程規則來加密電子郵件的原則。
     
-    - 在 GCC 內高/DoD 內的收件者會在 Outlook 中，以電腦及 Mac 和 Outlook 網頁的方式接收相同的內嵌讀取體驗，就像所有其他 Office 365 使用者。 
+    - 在 GCC 內高/DoD 內的收件者會在 Outlook 中，以電腦及 Mac 和 Outlook 網頁的方式接收相同的內嵌讀取體驗，就像所有其他 Office 365 使用者。
 
 <!-- end list -->
 
 - 將加密的電子郵件從 GCC 高或 DoD 傳送至該環境以外的收件者時 (包括 GCC 和商業銀行) ：
     
-    - GCC 內高/DoD 內的寄件者可以在 GCC 的高/DoD 界限外傳送加密的電子郵件。 
+    - GCC 內高/DoD 內的寄件者可以在 GCC 的高/DoD 界限外傳送加密的電子郵件。
     
-    - 所有在 GCC 高/DoD 之外的收件者（包括商業 Office 365 使用者、Outlook.com 使用者和其他電子郵件提供者的其他使用者）都會收到包裝郵件。 此包裝郵件會將收件者重新導向至 OME 入口網站，以便收件者可以閱讀和回復郵件。 
+    - 所有在 GCC 高/DoD 之外的收件者（包括商業 Office 365 使用者、Outlook.com 使用者和其他電子郵件提供者的其他使用者）都會收到包裝郵件。 此包裝郵件會將收件者重新導向至 OME 入口網站，以便收件者可以閱讀和回復郵件。
 
 如需詳細資訊及最新的更新，請參閱 [比較版本的 OME](https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison)。
 
@@ -201,12 +202,32 @@ GCC 高和 DoD 環境都是限制的環境，需要明確核准和設定輸出�
 
   - 同盟信任 (包括空閒/忙碌共用) 目前只支援 DoD 環境中的承租人。 DoD 承租人和 GCC 或商業承租人之間不支援此功能。
 
-### <a name="client-configuration"></a>用戶端設定 
+### <a name="client-configuration"></a>用戶端設定
 
-部署和設定 Office ProPlus (包括 Outlook) 的其他步驟。 如需這些步驟的詳細說明，請參閱 [在 GCC 高或 DoD 環境中部署適用于企業的 Microsoft 365 應用程式的指導 ](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-gcc-high-dod)方針。
+部署和設定 Office ProPlus (包括 Outlook) 的其他步驟。 如需這些步驟的詳細說明，請參閱 [在 GCC 高或 DoD 環境中部署適用于企業的 Microsoft 365 應用程式的指導](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-gcc-high-dod)方針。
 
 IOS 和 Android 的 Outlook 也可用於 GCC 高和 DoD 環境。 若要深入瞭解這些環境中的功能限制和管理，請參閱 [使用 Outlook for iOS 和 Android In 政府社區雲端](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)。
 
 ### <a name="add-ins-in-outlook-and-outlook-web-app"></a>Outlook 和 Outlook Web App 中的增益集  
 
 在 GCC High 和 DoD 中，只有一部分 OWA 和 Outlook 增益集可用。 「我的範本」和「建議會議」是可用的，且預期可正常運作。 只支援五個預設 OWA 增益集。 不過，您可以整合協力廠商應用程式，但這些整合不會受到針對 GCC 高或 DoD 的 Microsoft 規範承諾。 客戶應熟悉協力廠商的資料處理做法和合規性承諾，才能設定其組織的附加元件。
+
+## <a name="feature-nuances-within-gcc-environments"></a>在 GCC 環境中的功能細微差別
+
+| 功能 | 描述 | Ww | GCC 中的可用性 |
+|:-----|:-----|:-----|:-----|
+|支援的平臺|Web、Android、iOS、Mac、Windows|全部|僅限網頁|
+|M365 hub 支援|與 Outlook、小組、Planner 的整合|全部|Outlook、Planner (小組可用小組的工作應用程式) |
+|Wunderlist 遷移|允許 wunderlist 使用者將資料移轉至執行|是|否|
+|推播通知|將推播通知傳送給使用者的提醒等等。|是|否|
+|Helpshift 支援|使用 helpshift 介面建立支援要求|是|否|
+|My Day|規劃您的日常|是|是|
+|計畫清單|查看具有到期日的所有任務|是|是|
+|指派給您的清單|所有指派給您的共用清單、Planner 或 WXP (未來的任務) |是|是|
+|已標記的電子郵件|查看以 outlook 標記為任務的電子郵件|是|是|
+|多帳戶支援|在一個窗格中使用家用和 office 帳戶|是|是|
+|共用清單|與相同組織中的同事共用清單|是|是|
+|跨租使用者共用|共用組織外部的工作清單|是|否|
+|提醒及週期|設定任務的提醒 |是|是|
+
+* 這兩種環境都可使用任何其他未提及的功能。
