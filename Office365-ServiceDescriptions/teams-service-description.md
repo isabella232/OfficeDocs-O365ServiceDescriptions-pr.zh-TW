@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 團隊提供立即訊息、檔案與資料共同作業、音訊和影片通話、豐富的線上會議、行動經驗和大量的 web 會議功能。
-ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
-ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
+ms.openlocfilehash: e782a0f9736dc5b60b31fd6edf0cda66528944dd
+ms.sourcegitcommit: 145fce4b54b700460bcd424ffc76bfdb976d617d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48773437"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49003946"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服務描述
 
@@ -45,7 +45,7 @@ Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](
 
 Microsoft 團隊並非獨立服務提供。
 
-## <a name="feature-category-reference"></a>功能類別參照 
+## <a name="feature-category-reference"></a>功能類別參照
 
 此表格列出各授權方案或雲端實例的 Microsoft 小組功能可用性。 適用某些注意事項。 如需詳細資訊，請參閱註腳。 此表格可能會變更，恕不另行通知。 請參閱適用于核心服務變更訊息和 [microsoft 授權條款參考檔](https://www.microsoft.com/licensing/product-licensing/products)的 Microsoft 365 訊息中心通知。<br><br>
 
@@ -57,16 +57,17 @@ Microsoft 團隊並非獨立服務提供。
 |通道-私人  <br/> |是  <br/> |是<sup>2</sup>  <br/> |是 <br/> |否  <br/> |否 <br/> |是  <br/> |
 |Meetings  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Audio/Video 桌面 PowerPoint 螢幕共用 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|語音  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|音訊會議  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|應用程式、Bot、& 連接器  <br/> |是  <br/> |是  <br/> |是<sup>4</sup>  <br/> |是<sup>4</sup>  <br/> |是<sup>3，4</sup>  <br/> |是  <br/> |
-|即時事件  <br/> |否  <br/> |是  <br/> |是  <br/> |否<sup>5</sup>  <br/> |否<sup>5</sup>  <br/> |是  <br/> |
+|語音  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是  <br/> |
+|音訊會議  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是  <br/> |
+|應用程式、Bot、& 連接器  <br/> |是  <br/> |是  <br/> |是<sup>5</sup>  <br/> |是<sup>5</sup>  <br/> |是<sup>4，5</sup>  <br/> |是  <br/> |
+|即時事件  <br/> |否  <br/> |是  <br/> |是  <br/> |否<sup>6</sup>  <br/> |否<sup>6</sup>  <br/> |是  <br/> |
 
 > <sup>1</sup>  Microsoft 小組 in GCC-High 和 DOD 支援個別小組的2500成員。<br/>
 > <sup>2</sup> Microsoft Planner 目前無法存取私人通道。<br/>
-> <sup>3</sup> 不提供 DOD 雲彩的 Microsoft OneNote。<br/>
-> <sup>4</sup> 此時無法在這些群中使用應用程式和應用程式發佈。<br/>
-> 目前 GCC-High 或 DOD 未提供<sup>5</sup>項 Live 事件。<br/>
+> <sup>3</sup> 必須為 Microsoft 團隊設定 Direct 路由，才能在 GCCH 和 DoD 中使用。<br/>
+> <sup>4</sup> 不提供 DOD 雲彩中的 Microsoft OneNote。<br/>
+> <sup>5</sup> 此時不提供應用程式和應用程式發佈。<br/>
+> 在 GCC-High 或 DOD，目前無法使用<sup>6</sup>個 Live 事件。<br/>
 
 ## <a name="next-steps"></a>後續步驟
 
