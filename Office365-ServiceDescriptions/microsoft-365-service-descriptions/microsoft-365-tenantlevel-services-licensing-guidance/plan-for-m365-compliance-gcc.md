@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用于在美國聯邦、state、local、部落或 territorial 政府機構或其他實體中，處理政府法規和需求之相關資料的 IT 專業365人員，其使用 Microsoft 365 政府-GCC，以符合這些需求。
-ms.openlocfilehash: 33a325a0d828596c4880cfab624d3df7da5f0450
-ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
+ms.openlocfilehash: cdffd000037a4481e420b41418ce80f4febcb013
+ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "48818643"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "49072674"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>規劃 Microsoft 365 合規性– GCC
 
@@ -106,7 +106,7 @@ Microsoft 365 政府版的環境符合美國政府對雲端服務的需求，包
 |                                         | 記錄管理：規章記錄 (公開預覽)                          | 在開發 |
 |                                         | 記錄管理：多階段處置評審 | 在工程處理積壓工作 |
 |                                         | 記錄管理：使用 SharePoint Syntex 分類套用記錄標籤 | 在工程處理積壓工作 |
-| **測試人員風險管理**             | 客戶加密箱                                | 可以使用            |
+| **有問必答風險管理**             | 客戶加密箱                                | 可以使用            |
 |                                         | 有問必答風險管理：小組、SharePoint 網站、電子郵件訊息的 Office 指示器                         | 在開發 |
 |                                         | 內部使用者風險管理：透過使用者竊取資料                        | 在開發 |
 |                                         | 有問必答風險管理：一般資料洩漏                                | 在開發              |
@@ -182,7 +182,7 @@ Microsoft 365 政府版的環境符合美國政府對雲端服務的需求，包
 |                                         | 高級審核：已處理的審計深入資訊                               | 在工程處理積壓工作 |
 |                                         | 高級審計：在 Exchange Online 中和 SharePoint Online 中搜尋字詞事件                              | 在工程處理積壓工作 |
 |    **規範管理**            | Microsoft 365 安全性與合規性中心                              | 可以使用 |
-|                                         | 合規性管理員 (預覽)                              | 在工程處理積壓工作 |
+|                                         | 合規性管理員                              | 正在推出 |
 |                                         | Microsoft Cloud App Security                              | 在工程處理積壓工作 |
 |                                         | 雙位元組字元支援                              | 在工程處理積壓工作 |
 |    **生態**            | 適用于 Advanced eDiscovery 的圖形 APIs                              | 在開發 |
