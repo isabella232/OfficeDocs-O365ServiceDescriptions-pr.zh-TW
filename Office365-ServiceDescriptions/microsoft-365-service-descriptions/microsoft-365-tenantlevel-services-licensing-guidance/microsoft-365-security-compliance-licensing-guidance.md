@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 70de0bd1a2feac6e75f9e7c355825c23fa8d0dfd
-ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
+ms.openlocfilehash: 71ea60a2041118a13f5ff304c0b3b8c86f089ae9
+ms.sourcegitcommit: a4afd9739559c0735e167e758d04b7f676b89190
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "48999716"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49330260"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -298,8 +298,8 @@ Microsoft 提供可在 Microsoft 365 規範中心內設定的協力廠商資料�
 - Microsoft 365 E5/A5
 - Microsoft 365 E5/A5 Info Protection & 控管
 - Microsoft 365 E5/A5 規範
-- Microsoft 365 E5/A5 內幕人士風險管理 
-- Microsoft 365 E5/A5 eDiscovery 和 Audit 
+- Microsoft 365 E5/A5 內幕人士風險管理
+- Microsoft 365 E5/A5 eDiscovery 和 Audit
 - Office 365 E5/A5
 - Office 365 進階合規性
 
@@ -377,11 +377,7 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 資訊保護
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-若要將加密金鑰指派給 Office 365 和/或 Microsoft 365 組織中的資料以供授權的使用者使用，請遵循客戶金鑰加密金鑰的部署指示。
-
-- 如需 SharePoint 線上、商務 OneDrive 或小組檔案，可使用客戶金鑰加密一或多個網站上的檔案。
-
-- 若為 Exchange Online 和商務用 Skype，可使用客戶金鑰加密信箱。
+若為 Exchange Online 和商務用 Skype，可使用客戶金鑰加密信箱。 您必須先設定 Azure，才能使用 Office 365 的客戶金鑰。 如需建立及設定所需 Azure 資源的步驟，請參閱 [設定客戶機碼](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up?view=o365-worldwide) ，以及在 Office 365 中設定客戶機碼的步驟。 完成 Azure 設定之後，您可以決定要將哪些原則指派給組織中的信箱和檔案，進而決定要指派哪些機碼。 您未指派原則的信箱和檔案會使用由 Microsoft 所控制和管理的加密原則。 如需客戶機碼的相關資訊，或有關一般概述，請參閱 [Office 365 中的客戶金鑰服務加密](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview?view=o365-worldwide)。
 
 ## <a name="office-365-customer-lockbox"></a>Office 365 客戶加密箱
 
@@ -457,11 +453,11 @@ Microsoft 365 A1/E3/A3/Business、Office 365 E3/A3 和 Office 365 資料遺失�
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，Exchange Online 電子郵件、SharePoint 網站和 OneDrive 帳戶為針對租用戶內所有使用者的這些 DLP 功能的 *啟用位置 (工作負載)* 。 如需使用 DLP 原則的詳細資訊，請參閱[資料外洩防護概觀](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)。
+根據預設，Exchange Online 電子郵件、SharePoint 網站和 OneDrive 帳戶為針對租用戶內所有使用者的這些 DLP 功能的 *啟用位置 (工作負載)*。 如需使用 DLP 原則的詳細資訊，請參閱[資料外洩防護概觀](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-系統管理員可以自訂位置 (工作負載) 、包含的使用者，以及在 [安全性 & 規範中心] 中的 [ **資料遺失防護** 位置] 底下的使用者  >  **** 。
+系統管理員可以自訂位置 (工作負載) 、包含的使用者，以及在 [安全性 & 規範中心] 中的 [**資料遺失防護** 位置] 底下的使用者  >  ****。
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>小組的通訊資料遺失防護
 
@@ -477,11 +473,11 @@ Office 365 E5/A5 的授權使用者，Microsoft 365 E5/A5，Microsoft 365 資訊
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，Teams 聊天和頻道訊息為針對租用戶內所有使用者的這些 DLP 功能的 *啟用位置 (工作負載)* 。 如需使用 DLP 原則的詳細資訊，請參閱[資料外洩防護概觀](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)。
+根據預設，Teams 聊天和頻道訊息為針對租用戶內所有使用者的這些 DLP 功能的 *啟用位置 (工作負載)*。 如需使用 DLP 原則的詳細資訊，請參閱[資料外洩防護概觀](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-系統管理員可以自訂位置 (工作負載) 、包含的使用者，以及在 [安全性 & 規範中心] 中的 [ **資料遺失防護** 位置] 底下的使用者  >  **** 。
+系統管理員可以自訂位置 (工作負載) 、包含的使用者，以及在 [安全性 & 規範中心] 中的 [**資料遺失防護** 位置] 底下的使用者  >  ****。
 
 ## <a name="information-barriers"></a>資訊屏障
 
