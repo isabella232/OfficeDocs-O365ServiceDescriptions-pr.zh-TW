@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概要說明美國政府雲端與商業性雲端之間的功能差異（如 Exchange Online 服務說明所列）。
-ms.openlocfilehash: e8e552076f7e318db9a4de17ad605d3c260b2295
-ms.sourcegitcommit: 09b52ff24e7153457c7b4f775ea809079103f6e9
+ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
+ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48988080"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "49376086"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>適用于美國政府環境的 Exchange Online
 
@@ -111,7 +111,7 @@ ms.locfileid: "48988080"
 |網站信箱|是|是|是||
 |公用資料夾|是|是|是||
 |**[用戶端和行動裝置](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC High**|**DoD**|**主要考慮**|
-|若要執行 Web|是|否|否||
+|在 Web 上進行|是|否|否||
 | Outlook for Windows|是|是|是|為了符合 GCC 高和 DoD 規範的需求，您必須執行最低版本1803的 Office 365 ProPlus。 Office 365 ProPlus 不含 G1 或 F3。|
 |Outlook 網頁版|是|是|是||
 |Mac 版 Outlook|是|是|是|為了符合 GCC 高和 DoD 規範的需求，您必須執行最低版本1803的 Office 365 ProPlus。 Office 365 ProPlus 不含 G1 或 F3。|
@@ -170,7 +170,7 @@ GCC 高和 DoD 環境都是限制的環境，需要明確核准和設定輸出�
 
 ### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>跨 GCC 高/DoD 界限的 Office 365 郵件加密行為
 
-如果您在 GCC 高環境中使用 Office 365 郵件加密，請注意這些收件者經驗的獨特特性：  
+如果您打算在 GCC 的高環境中使用 Office 365 郵件加密，請注意這些收件者經驗的獨特特性：  
 
 - 從 GCC 高或 DoD 將加密電子郵件傳送至相同環境中的收件者時：
     
@@ -212,13 +212,13 @@ IOS 和 Android 的 Outlook 也可用於 GCC 高和 DoD 環境。 若要深入�
 
 在 GCC High 和 DoD 中，只有一部分 OWA 和 Outlook 增益集可用。 「我的範本」和「建議會議」是可用的，且預期可正常運作。 只支援五個預設 OWA 增益集。 不過，您可以整合協力廠商應用程式，但這些整合不會受到針對 GCC 高或 DoD 的 Microsoft 規範承諾。 客戶應熟悉協力廠商的資料處理做法和合規性承諾，才能設定其組織的附加元件。
 
-## <a name="feature-nuances-within-gcc-environments"></a>在 GCC 環境中的功能細微差別
+## <a name="feature-nuances-within-gcc-environments-for-microsoft-to-do"></a>Microsoft 要執行的 GCC 環境中的功能細微差別
 
 | 功能 | 描述 | Ww | GCC 中的可用性 |
 |:-----|:-----|:-----|:-----|
 |支援的平臺|Web、Android、iOS、Mac、Windows|全部|僅限網頁|
 |M365 hub 支援|與 Outlook、小組、Planner 的整合|全部|Outlook、Planner (小組可用小組的工作應用程式) |
-|Wunderlist 遷移|允許 wunderlist 使用者將資料移轉至執行|是|否|
+|Wunderlist 遷移|允許 wunderlist 使用者將資料移轉至網頁上進行的作業|是|否|
 |推播通知|將推播通知傳送給使用者的提醒等等。|是|否|
 |Helpshift 支援|使用 helpshift 介面建立支援要求|是|否|
 |My Day|規劃您的日常|是|是|
