@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: cf7a9d2a9f8775f655eb51d3023ac01683445965
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294129"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411652"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -1070,7 +1070,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 - 「LinkedIn」 & 「隸屬于」人員卡片上的資料
 - 收藏 夾
 - 播放我的電子郵件
-- 增益集
+- Add-Ins
 - 智慧回復
 - Office 摘要
 - 保留時間
@@ -1099,7 +1099,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[自訂欄位](../project-online-service-description/core-functionality.md#custom-fields)|否|是|是|是|否|
 |[跨 Microsoft Office 應用程式提供增強的複製和貼上](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|否|是|是|是|否|
 |[甘特圖、行事曆和任務工作表視圖](../project-online-service-description/core-functionality.md#gantt-chart-calendar-and-task-sheet-views)|否|是|是|是|否|
-|[Microsoft 流暢的使用者介面，功能區](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|否|是|是|是|否|
+|[使用者介面、功能區](../project-online-service-description/core-functionality.md#user-interface-the-ribbon)|否|是|是|是|否|
 |[多層復原](../project-online-service-description/core-functionality.md#multiple-level-undo)|否|是|是|是|否|
 |[Network diagram view](../project-online-service-description/core-functionality.md#network-diagram-view)|否|是|是|是|否|
 |[Office 市集](../project-online-service-description/core-functionality.md#office-store)|否|否|否|否|否|

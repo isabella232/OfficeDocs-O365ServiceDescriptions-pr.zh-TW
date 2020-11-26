@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online 中提供下列核心功能功能。
-ms.openlocfilehash: 81a749c6fa58f02227085bacc87e4630ca8ea310
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294039"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411582"
 ---
 # <a name="core-functionality"></a>核心功能
 
@@ -34,7 +34,7 @@ Project Online 中提供下列核心功能功能。
   
 ## <a name="click-to-run"></a>隨選即用
 
-透過網際網路、內部網路、本機檔案系統或從離線媒體快速安裝 Project Online，以確定您使用的是最新版本的 Project 桌面應用程式。 若要深入了解，請參閱[隨選即用](https://go.microsoft.com/fwlink/p/?LinkId=271596)。
+透過網際網路、內部網路、本機檔案系統或從離線媒體快速安裝 Project Online，以確定您使用 Project 桌面應用程式的最新版本。 若要深入了解，請參閱[隨選即用](https://go.microsoft.com/fwlink/p/?LinkId=271596)。
   
 ## <a name="contextual-right-click-menus"></a>按右鍵內容功能表
 
@@ -52,13 +52,13 @@ Project Online 中提供下列核心功能功能。
 
 使用甘特圖、網狀圖、圖表、工作表、使用方式和表單檢視，以圖形方式呈現專案資訊。 請參閱[選擇合適的專案排程檢視](https://go.microsoft.com/fwlink/?LinkId=402905)。
   
-## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft 流暢的使用者介面，功能區
+## <a name="user-interface-the-ribbon"></a>使用者介面、功能區
 
-使用功能區提高生產力，功能區是可用來快速尋找並使用 Project 功能與控制項的索引標籤介面。[深入了解功能區](https://go.microsoft.com/fwlink/p/?LinkId=271325)。
-  
+使用功能區，以快速尋找及使用專案功能和控制項的選項卡介面，提高生產力。
+
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
-您可以使用 [復原] 功能表同時復原多個變更。 
+您可以使用 [復原] 功能表同時復原多個變更。
   
 ## <a name="network-diagram-view"></a>網狀圖檢視
 
@@ -103,5 +103,3 @@ Project 2013 顯示一站式中心用於開始專案，而不是提供空白專�
 ## <a name="feature-availability"></a>功能可用性
 
 若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Project Online 服務說明](project-online-service-description.md)。
-  
-

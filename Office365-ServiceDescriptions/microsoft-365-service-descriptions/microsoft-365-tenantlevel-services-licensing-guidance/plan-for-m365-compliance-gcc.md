@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用于在美國聯邦、state、local、部落或 territorial 政府機構或其他實體中，處理政府法規和需求之相關資料的 IT 專業365人員，其使用 Microsoft 365 政府-GCC，以符合這些需求。
-ms.openlocfilehash: cdffd000037a4481e420b41418ce80f4febcb013
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: 15e533e9a0484d494ee9430d057df9dcd847fffd
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072674"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411642"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>規劃 Microsoft 365 合規性– GCC
 
@@ -41,12 +41,12 @@ Microsoft 365 政府版的環境符合美國政府對雲端服務的需求，包
 [Office 365 US 政府服務描述](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)說明平臺的優點，其位於美國的符合規範需求。
 
 > [!TIP]
-> 您可能想要將服務描述中的資訊表格傳輸到 Excel 活頁簿中，並新增兩欄： **適用于我的組織，y/n** 及 **符合我的組織的需求** 。 然後您可以與同事一起查看此清單，以確認此服務符合您組織的需求。
+> 您可能想要將服務描述中的資訊表格傳輸到 Excel 活頁簿中，並新增兩欄： **適用于我的組織，y/n** 及 **符合我的組織的需求**。 然後您可以與同事一起查看此清單，以確認此服務符合您組織的需求。
 
 > [!NOTE]
 > Microsoft 365 政府版-GCC 僅適用于美國。 非美國政府客戶可以選擇許多 [Office 365 政府方案](https://products.office.com/government/compare-office-365-government-plans)。
 
-**決策點** ： <br/>
+**決策點**： <br/>
 - *決定 Microsoft 365 政府版-GCC 是否適用于您的組織。*
 - *確認您的組織符合資格的需求。*
 
@@ -58,7 +58,7 @@ Microsoft 365 政府版的環境符合美國政府對雲端服務的需求，包
 
 建議您在修改系統管理員和安全性設定之前，請先仔細檢查您的系統管理員和安全性設定，並考慮對規範的影響，再變更預設安全性設定。
 
-**決策點** ： *決定是否要修改任何預設的 Microsoft 365 政府-GCC 安全性設定，以先瞭解可能進行的任何變更的影響。*
+**決策點**： *決定是否要修改任何預設的 Microsoft 365 政府-GCC 安全性設定，以先瞭解可能進行的任何變更的影響。*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>步驟 4： 瞭解 Microsoft 365 政府中目前哪些功能目前無法使用或已停用（GCC<sup>1</sup> ）
 
@@ -106,7 +106,7 @@ Microsoft 365 政府版的環境符合美國政府對雲端服務的需求，包
 |                                         | 記錄管理：規章記錄 (公開預覽)                          | 在開發 |
 |                                         | 記錄管理：多階段處置評審 | 在工程處理積壓工作 |
 |                                         | 記錄管理：使用 SharePoint Syntex 分類套用記錄標籤 | 在工程處理積壓工作 |
-| **有問必答風險管理**             | 客戶加密箱                                | 可以使用            |
+| **測試人員風險管理**             | 客戶加密箱                                | 可以使用            |
 |                                         | 有問必答風險管理：小組、SharePoint 網站、電子郵件訊息的 Office 指示器                         | 在開發 |
 |                                         | 內部使用者風險管理：透過使用者竊取資料                        | 在開發 |
 |                                         | 有問必答風險管理：一般資料洩漏                                | 在開發              |
@@ -182,7 +182,7 @@ Microsoft 365 政府版的環境符合美國政府對雲端服務的需求，包
 |                                         | 高級審核：已處理的審計深入資訊                               | 在工程處理積壓工作 |
 |                                         | 高級審計：在 Exchange Online 中和 SharePoint Online 中搜尋字詞事件                              | 在工程處理積壓工作 |
 |    **規範管理**            | Microsoft 365 安全性與合規性中心                              | 可以使用 |
-|                                         | 合規性管理員                              | 正在推出 |
+|                                         | 合規性管理員                              | 可以使用 |
 |                                         | Microsoft Cloud App Security                              | 在工程處理積壓工作 |
 |                                         | 雙位元組字元支援                              | 在工程處理積壓工作 |
 |    **生態**            | 適用于 Advanced eDiscovery 的圖形 APIs                              | 在開發 |
@@ -195,4 +195,4 @@ Microsoft 365 政府版的環境符合美國政府對雲端服務的需求，包
 
 <sup>1</sup> 識別的狀態視專案方案和優先順序重新評估而變更。<br/>
 
-**決策點** ： *決定相容性功能是否符合貴組織的需求。*
+**決策點**： *決定相容性功能是否符合貴組織的需求。*
