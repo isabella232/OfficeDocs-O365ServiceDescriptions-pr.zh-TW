@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概要說明美國政府雲端與商業性雲端之間的功能差異（如 Exchange Online 服務說明所列）。
-ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
-ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
+ms.openlocfilehash: 0a09c43b310e5c77321c6ac9cf1a9cf5989a6bef
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "49376086"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519094"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>適用于美國政府環境的 Exchange Online
 
@@ -73,7 +73,7 @@ ms.locfileid: "49376086"
 |自訂反惡意程式碼原則|是|是|是||
 |隔離 - 系統管理員管理|是|是|是||
 |隔離 - 使用者自我管理|是|是|是||
-|進階威脅防護|是|是|是|需要 G5 Service plan (或購買附加元件) 。<br><br>在 GCC High 和 DoD 中，尚未提供使用者和網域模擬和欺騙情報的反網路釣魚。|
+|適用於 Office 365 的 Microsoft Defender|是|是|是|需要 G5 Service plan (或購買附加元件) 。<br><br>在 GCC High 和 DoD 中，尚未提供使用者和網域模擬和欺騙情報的反網路釣魚。|
 |**[郵件流程](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DoD**|**主要考慮**|
 |自訂輸出郵件的路由|是|是|是||
 |與信任的合作夥伴間的安全傳訊|是|是|是||

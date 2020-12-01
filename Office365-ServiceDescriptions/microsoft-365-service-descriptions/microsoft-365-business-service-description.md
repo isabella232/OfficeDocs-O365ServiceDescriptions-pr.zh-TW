@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務版是整合式解決方案，利用高級安全性和裝置管理功能，將一流的生產力整合在一起，以協助保護您的企業。 此服務描述說明方案選項及功能。
-ms.openlocfilehash: 644579ff120d754100fbd4b187a5499ff3368cd8
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: dba7668a3ee06fb859210dc072011d036a5c2fdb
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245708"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519064"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 商務進階版服務描述
 
@@ -55,9 +55,9 @@ Microsoft 365 商務版基本上包含 Microsoft 365 商務標準中所有可用
 |[隱私權、安全性和透明化](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Microsoft 365 商務標準版** <br/> |**Microsoft 365 商務進階版** <br/> |
 |內建反垃圾郵件保護  <br/> |是  <br/> |是  <br/> |
 |內建反惡意程式碼保護  <br/> |是  <br/> |是  <br/> |
-|Office 365 高級威脅防護方案1 <br/> |否  <br/> |是<sup>7</sup> <br/> |
+|適用於 Office 365 的 Microsoft Defender 方案 1 <br/> |否  <br/> |是<sup>7</sup> <br/> |
 |安全分數<sup>4</sup> <br/> |是  <br/> |是  <br/> |
-|Office 365 進階威脅防護方案 2 <br/> |否  <br/> |否 <br/> |
+|適用於 Office 365 的 Microsoft Defender 方案 2 <br/> |否  <br/> |否 <br/> |
 |**Microsoft 365 商務版客戶可以使用 Azure AD Premium P1。**<br/>|**Microsoft 365 商務標準版** <br/> |**Microsoft 365 商務進階版** <br/> |**企業行動性 + 安全性 E3** <br/> |
 |Azure Multi-Factor Authentication (MFA)  <br/> |否  <br/> |是 <br/> |是  <br/> |
 |管理單位  <br/> |否  <br/> |是 <br/> |是  <br/> |
@@ -107,6 +107,6 @@ Microsoft 365 商務版基本上包含 Microsoft 365 商務標準中所有可用
 <sup>4</sup> 可用於 [https://securescore.office.com](https://securescore.office.com) 。 需要系統管理員許可權。 如需詳細資訊，請參閱 [Microsoft 安全分數](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)。<br/>
 Microsoft 365 系統管理中心內建的<sup>5 個</sup>簡化的 Windows 10 裝置管理。 在裝置管理中心內建的 iOS、Android、macOS 及其他跨平臺裝置管理功能，也就是授權搭配 Microsoft 365 商務版使用。 協力廠商應用程式和設定 WiFi 設定檔和 VPN 憑證等內容也可在裝置管理系統管理中心中進行管理。 <br/>
 <sup>6</sup> 此方案隨附 Microsoft Stream plan 2，其中包括影片入口網站、文字偵測語音、深入搜尋及面對面偵測。<br/>
-<sup>7</sup> Microsoft 365 隨附 Office 365 高級威脅防護方案1。 如需詳細資訊，請參閱 [Microsoft 365 商務特優安全性和合規性功能](https://docs.microsoft.com/microsoft-365/business/security-features)。<br/>
+<sup>7</sup> microsoft 365 隨附 microsoft Defender for Office 365 方案1。 如需詳細資訊，請參閱 [Microsoft 365 商務特優安全性和合規性功能](https://docs.microsoft.com/microsoft-365/business/security-features)。<br/>
 <sup>8</sup> Microsoft 365 商務版的訂戶已授權使用 IOS、Android、MacOS 及其他跨平臺裝置管理的完整 Intune 功能。 Microsoft 365 商務版 Premium 中無法使用的功能，例如，協力廠商的應用程式管理和設定 WiFi 設定檔、VPN 憑證等等）可以在完整的 Intune 主控台中管理。</br>
 <sup>9</sup> 如果您有 windows 7 和8.1 專業版授權的裝置，Microsoft 365 商務版 Premium 會提供 Windows 10 專業版的升級。 不過，此授權不會涵蓋 Windows 10 專業版的 Windows 7.1 或8家用 Edition。 使用 Microsoft 365 商務版 Premium 時，您不僅可以取得 [Windows Pro 中已啟用的 Microsoft Defender 安全性功能](https://go.microsoft.com/fwlink/p/?linkid=2089903)，也可以存取高品質功能（例如網路保護）以應對網頁威脅，並使用主機入侵防護規則來緩解勒索軟體。 當您設定 Microsoft 365 商務版帳戶時，請選取 [app protection] 和 [裝置設定]。 這些設定會決定在裝置加入 Azure Active Directory 時，自動套用到這些裝置的原則。</br>

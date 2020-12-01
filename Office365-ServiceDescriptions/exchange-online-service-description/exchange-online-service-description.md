@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
-ms.openlocfilehash: ad4107a146ea4c4042cd9c1551110c7ec4ca0632
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: 9f800f70476914694926685fff654e379c16965a
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661281"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518894"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -104,7 +104,7 @@ Microsoft 365 F1 不包括對 Exchange 信箱的許可權。 為了啟用完整�
 |自訂反惡意程式碼原則|是|是|是|是|是|是|是|是 <sup>7</sup>|
 |隔離 - 系統管理員管理|是|是|是|是|是|是|是|是 <sup>7</sup>|
 |隔離 - 使用者自我管理|否|否|是|是|是|是|是|是|
-|進階威脅防護|否|是|否|否|否|否|是|否|
+|適用於 Office 365 的 Microsoft Defender|否|是|否|否|否|否|是|否|
 |**[郵件流程](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商務基本版**|**Microsoft 365 商務標準版**|**Office 365 企業版 E1**|**Office 365 企業版 E3**|**Office 365 企業版 E5**|**Office 365 企業版 F3**|
 |自訂輸出郵件的路由|是|是|是|是|是|是|是|是|
 |與信任的合作夥伴間的安全傳訊|是|是|是|是|是|是|是|是|

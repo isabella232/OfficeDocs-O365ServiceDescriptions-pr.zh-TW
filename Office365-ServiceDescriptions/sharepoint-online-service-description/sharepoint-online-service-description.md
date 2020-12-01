@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 請參閱哪些 SharePoint 功能可用於哪些方案。
-ms.openlocfilehash: e99bfed4518c42e848e3937722d7b91eb3ec9ef1
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: 06a4f6a51e4f7bc4fa50867441f763a15291ef47
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661261"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519154"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服務描述
 
@@ -135,7 +135,7 @@ SharePoint 會與 Microsoft 365 的高級安全性和相容性功能整合。 �
 - [資料外洩防護 (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
 - [eDiscovery](/microsoft-365/compliance/ediscovery-cases) (內容搜尋、保留、匯出) 
 - [資訊屏障](/microsoft-365/compliance/information-barriers)
-- [Office 365 進階威脅防護（ATP）](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [適用於 Office 365 的 Microsoft Defender](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [保留標籤和原則](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
 - [敏感性標籤](/microsoft-365/compliance/sensitivity-labels)
 - [統一的審計](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (審核 SharePoint 使用者和系統管理員活動) 

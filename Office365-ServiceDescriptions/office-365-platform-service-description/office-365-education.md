@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如果您想要知道 Office 365 教育版方案有何差異，本文將說明各方案中包含的功能。 Office 365 與知名的 Microsoft Office 桌面套件結合，搭載 Microsoft 新一代通訊與共同作業服務的雲端架構版本 (包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office 網頁版，以及 Microsoft 商務用 Skype Online)，讓使用者可透過網際網路在任何地點執行工作。
-ms.openlocfilehash: 51bb35c9ba93a67535bc5939dd7cb402441654e8
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 63cf6859c28c612649fc30579c534f210696056a
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293879"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518874"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -153,7 +153,7 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如�
 |**信任** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[隱私權、安全性和透明化](privacy-security-and-transparency.md) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |進階安全性管理  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|進階威脅防護  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|適用於 Office 365 的 Microsoft Defender  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |Customer Lockbox  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |進階電子文件探索<sup>7</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
 |安全分數<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -220,7 +220,7 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如�
 <sup>2</sup> 進階資料控管可讓您保留重要的資訊，並根據保留或刪除原則或兩者，藉由分類資訊來刪除不重要的資訊。 其中包括智慧型/自動化動作，例如建議原則；自動將標籤套用至資料；根據敏感性資料類型或查詢套用標籤；以及使用智慧匯入篩選。 其中也包含監督功能，可讓您針對安全性與合規性目的檢閱員工通訊。 <br/> 
 <sup>3</sup> 無限制。 <br/> 
 <sup>4</sup> 美國及西歐 (荷蘭) 區域支援進階電子文件探索。 (來自加拿大和亞太地區的客戶資料會匯出至美國。 來自歐洲、中東和非洲的客戶資料會匯出到西歐 [荷蘭]。) <br/> 
-<sup>5</sup> 進階威脅防護可在 Office 365 A5 中使用，可作為 Office 365 A1 和 Office 365 A3 的獨立服務。<br/>
+<sup>5</sup> Office 365 A5 中提供 Microsoft Defender for office 365，以及 Office 365 A1 和 Office 365 A3 的獨立服務。<br/>
 <sup>6</sup> 您也可以使用 [Office 365 管理活動 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) (英文)，從整合的稽核記錄中擷取事件。<br/>
   
 ## <a name="office-application-features"></a>Office 應用程式功能
@@ -336,7 +336,7 @@ Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如�
 |自訂反惡意程式碼原則  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |隔離 - 系統管理員管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |隔離 - 使用者自我管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|進階威脅防護  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|適用於 Office 365 的 Microsoft Defender  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |**[郵件流程](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |自訂輸出郵件的路由  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |與信任的合作夥伴間的安全傳訊  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -581,7 +581,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
   
 - **主體長度限制** -電子郵件主旨行中允許的文字字元數目上限。 
     
-- 檔案**附件限制**-電子郵件中允許的檔案附件數目上限。 即使所有檔案附件的大小總計沒有違反郵件大小限制，郵件中允許的附件數目仍然具有限制。 此限制會由 Multipart 郵件限制控制。 
+- 檔案 **附件限制**-電子郵件中允許的檔案附件數目上限。 即使所有檔案附件的大小總計沒有違反郵件大小限制，郵件中允許的附件數目仍然具有限制。 此限制會由 Multipart 郵件限制控制。 
     
 - **檔附件大小限制** -單一附件的檔案大小上限。 
     
@@ -716,7 +716,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
     
 - **轉寄者 limit** -可以為收件匣或使用重新導向動作的傳輸規則設定的收件者數目上限。 如果為某個規則設定的郵件重新導向收件者數目超過此數目，系統將不會套用該規則，而任何符合該規則條件的郵件將不會被重新導向到規則中所列的任何收件者。 
     
-- 重新**導向郵件的次數**-郵件會根據收件匣規則自動重新導向、轉寄或回復的次數。 例如，使用者 A 的收件匣規則會根據寄件者，將郵件重新導向到使用者 B。 使用者 B 的收件匣規則會根據主旨行中的關鍵字，將郵件轉寄給使用者 C。 如果某封郵件同時符合這兩項條件，該郵件將只會傳送給使用者 B 而不會轉寄給使用者 C，因為只允許重新導向一次。 在此情況下，會捨棄郵件，而未將未傳遞回報 (NDR) 傳送給使用者 B，指出未將郵件傳遞給使用者 C。 
+- 重新 **導向郵件的次數**-郵件會根據收件匣規則自動重新導向、轉寄或回復的次數。 例如，使用者 A 的收件匣規則會根據寄件者，將郵件重新導向到使用者 B。 使用者 B 的收件匣規則會根據主旨行中的關鍵字，將郵件轉寄給使用者 C。 如果某封郵件同時符合這兩項條件，該郵件將只會傳送給使用者 B 而不會轉寄給使用者 C，因為只允許重新導向一次。 在此情況下，會捨棄郵件，而未將未傳遞回報 (NDR) 傳送給使用者 B，指出未將郵件傳遞給使用者 C。 
     
 | 功能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -989,7 +989,7 @@ SharePoint Online 中包含商務用 OneDrive。 若要了解 SharePoint Online 
    
 #### <a name="meeting-limits"></a>會議限制
 
-- 檔案**上傳限制**-可上傳至商務用 Skype 會議的檔案大小上限（包括講義和 PowerPoint 簡報）。 
+- 檔案 **上傳限制**-可上傳至商務用 Skype 會議的檔案大小上限（包括講義和 PowerPoint 簡報）。 
     
 - **商務用 skype 會議中的參與者** (包括簡報者) 可以加入單一商務用 skype 會議的參與者數目上限。 
     
@@ -999,7 +999,7 @@ SharePoint Online 中包含商務用 OneDrive。 若要了解 SharePoint Online 
     
 - **商務用 skype web app 匿名參與者** -可匿名加入會議的商務用 skype web app 會議參與者數目上限。 
     
-- 透過**電話加入的來賓**-可呼叫會議的來賓數目上限。 
+- 透過 **電話加入的來賓**-可呼叫會議的來賓數目上限。 
     
 | 功能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|

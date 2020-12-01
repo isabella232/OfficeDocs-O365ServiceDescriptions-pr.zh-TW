@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用于促進美國聯邦政府機構中的 Office 365 部署的 IT 專業人員，或其他處理政府法規和需求之資料的實體，也就是使用 Microsoft 365 政府– DoD 適用于符合這些需求的地方。
-ms.openlocfilehash: c15ca172c97c6549649e44d76dca019d866a7a4f
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 6f0a271a6d547f69dfb7d3d20ba943465eb149a6
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830410"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519044"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>規劃 Microsoft 365 合規性 - DoD 部署
 
@@ -38,9 +38,9 @@ Microsoft 365 政府 DoD 環境符合美國政府對雲端服務的需求。
 [Office 365 US 政府服務描述](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)說明平臺的優點，其位於美國的符合規範需求。
 
 > [!TIP]
-> 您可能想要將服務描述中的資訊表格傳輸到 Excel 活頁簿中，並新增兩欄： **適用于我的組織，y/n** 及 **符合我的組織的需求** 。 然後您可以與同事一起查看此清單，以確認此服務符合您組織的需求。
+> 您可能想要將服務描述中的資訊表格傳輸到 Excel 活頁簿中，並新增兩欄： **適用于我的組織，y/n** 及 **符合我的組織的需求**。 然後您可以與同事一起查看此清單，以確認此服務符合您組織的需求。
 
-**決策點** ：<br/>
+**決策點**：<br/>
 - *決定您的組織是否適合 Microsoft 365 政府 DoD。*
 - *確認您的組織符合資格的需求。*
 
@@ -55,7 +55,7 @@ Microsoft 365 政府 DoD 環境符合美國政府對雲端服務的需求。
 
 建議您在修改系統管理員和安全性設定之前，請先仔細檢查您的系統管理員和安全性設定，並考慮對規範的影響，再變更預設安全性設定。
 
-**決策點** ： *決定是否要修改任何預設的 Microsoft 365 政府 DoD 安全性設定，並解決以先瞭解可能進行的任何變更的影響。*
+**決策點**： *決定是否要修改任何預設的 Microsoft 365 政府 DoD 安全性設定，並解決以先瞭解可能進行的任何變更的影響。*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>步驟 4： 瞭解 Microsoft 365 政府中目前無法使用或已停用哪些功能（DoD<sup>1</sup> ）
 
@@ -109,7 +109,7 @@ Microsoft 365 政府 DoD 環境符合美國政府對雲端服務的需求。
 |                                         | 有問必答風險管理：逐步進行調查以取得高級電子檔探索 |在工程處理積壓工作|
 |                                         | 內部人員風險管理： Windows 10 組建1809和更高版本上的活動裝置指示器 |在工程處理積壓工作|
 |                                         | 有問必答風險管理：違反安全性原則的指示器 (預覽)  |在工程處理積壓工作|
-|                                         | 有問必答風險管理： Windows Defender ATP 警示 (預覽的指示器)  |在工程處理積壓工作|
+|                                         | 有問必答風險管理： Microsoft Defender for Endpoint 警示 (預覽的指示器)  |在工程處理積壓工作|
 |                                         | 有問必答風險管理：優先順序使用者 (預覽中的資料洩漏原則範本)  | 在工程處理積壓工作 |
 |                                         | 有問必答風險管理：不滿使用者 (預覽的資料洩漏原則範本)  | 在工程處理積壓工作 |
 |                                         | 有問必答風險管理：一般安全性原則違規原則範本 (預覽)  | 在工程處理積壓工作 |
@@ -184,4 +184,4 @@ Microsoft 365 政府 DoD 環境符合美國政府對雲端服務的需求。
 
 <sup>1</sup> 識別的狀態視專案方案和優先順序重新評估而變更。<br/>
 
-**決策點** ： *決定相容性功能是否符合貴組織的需求。*
+**決策點**： *決定相容性功能是否符合貴組織的需求。*

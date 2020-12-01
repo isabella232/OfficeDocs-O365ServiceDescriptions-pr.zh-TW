@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 71ea60a2041118a13f5ff304c0b3b8c86f089ae9
-ms.sourcegitcommit: a4afd9739559c0735e167e758d04b7f676b89190
+ms.openlocfilehash: 10e4a725d84cf6ad9e6503c8c6c711204bba9bde
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49330260"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518934"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -47,49 +47,49 @@ Enterprise 可移動性 + Security E5/A5，Microsoft 365 E5/A5，Microsoft 365 E
 
 系統管理員可以指派定義密碼重設層級的風險原則，並只允許授權使用者的存取，以限定 Azure AD 身分識別保護的範圍。 如需如何針對 Azure AD 身分識別保護部署進行範圍的指示，請參閱 [Configure the sign in 危險原則](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)。
 
-## <a name="azure-advanced-threat-protection"></a>Azure 進階威脅防護
+## <a name="microsoft-defender-for-identity"></a>適用於身分識別的 Microsoft Defender
 
-Azure 進階威脅防護 (ATP) 是一項雲端服務，可協助保護企業混合式環境，免於多種類型的進階鎖定目標的網路攻擊和內部威脅。
+Microsoft Defender for Identity 是一項雲端服務，可協助保護企業混合式環境免受多種類型的高級目標網路攻擊和內幕用威脅。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
-安全作業分析人員和安全性專業人員可從 Azure ATP 偵測和調查進階威脅、遭入侵的身分識別和惡意內部人員動作的能力獲益。 使用者透過讓 Azure ATP 監控其資料而獲益。
+SecOp 分析員和安全性專業人員會受益于 Microsoft Defender 身分識別偵測和調查高級威脅、受損身分識別和惡意內幕程式動作的能力。 使用者可以透過 Microsoft Defender 身分識別來監控其資料，以獲得好處。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Enterprise 可移動性 + Security E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 安全性，以及 Azure 高級威脅防護為使用者提供從 Azure ATP 受益的權利。
+Enterprise 可移動性 + Security E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 安全性，以及 Microsoft Defender for Users 的身分識別，提供 Microsoft Defender 身分識別權益的權利。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，Azure ATP 功能會在租用戶層級針對租用戶內的所有使用者啟用。 如需設定 Azure ATP 的詳細資訊，請參閱[建立您的 Azure ATP 執行個體](https://docs.microsoft.com/azure-advanced-threat-protection/install-atp-step1)。
+根據預設，在租使用者中的所有使用者的租使用者層級上啟用 Microsoft Defender 身分識別功能。 如需設定 Microsoft Defender 身分識別的詳細資訊，請參閱 [Create a Microsoft defender For identity instance](https://docs.microsoft.com/azure-advanced-threat-protection/install-atp-step1)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-Azure ATP 服務目前不能限制特定使用者的功能。 您必須授權您想要受益的每一位使用者。
+Microsoft Defender for Identity 服務目前無法限制特定使用者的功能。 您必須授權您想要受益的每一位使用者。
 
-## <a name="office-365-advanced-threat-protection"></a>Office 365 進階威脅防護
+## <a name="microsoft-defender-for-office-365"></a>適用於 Office 365 的 Microsoft Defender
 
-進階威脅防護 (ATP) 可協助保護您的組織免受複雜的攻擊，例如網路釣魚和零時差惡意程式碼。 ATP 也可透過關聯大量資料的信號，協助識別、設定優先順序，並提供如何解決潛在威脅的建議，以提供行動的洞察力。
+Office 365 的 Defender 可協助保護組織，避免遭受複雜的攻擊，例如網路釣魚和零日惡意程式碼。 適用于 Office 365 的 Defender 也可透過關聯大量資料中的信號，協助識別、設定優先順序，並提供如何解決潛在威脅的建議，提供切實可行的洞察力。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
-ATP 可保護使用者免受複雜的攻擊，例如網路釣魚和零時差惡意程式碼。 如需方案 1 和方案 2 所提供服務的完整清單，請參閱 [Office 365 進階威脅防護](https://products.office.com/exchange/advance-threat-protection)。
+Office 365 的 Defender 可保護使用者免受複雜的攻擊，例如網路釣魚和零日惡意程式碼。 如需方案1和方案2所提供之服務的完整清單，請參閱 [Microsoft Defender For Office 365](https://products.office.com/exchange/advance-threat-protection)。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？ 
 
-Office 365 Advanced 威脅防護、Office 365 E5/G5、Microsoft 365 E5/A5/G5、microsoft 365 E5/A5/G5 安全性、Microsoft 365 商務版 Premium 和 Office 365 ATP 方案1和2為使用者提供的許可權，可從高級威脅防護中受益。
+Microsoft Defender for Office 365，Office 365 E5/A5/G5，Microsoft 365 E5/A5/G5，microsoft 365 E5/A5/G5 安全性，Microsoft 365 商務版 Premium，以及 Microsoft Defender for Office 365 方案1和2為使用者提供的許可權，以供使用者從 Office 365 的 Defender 中受益。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，ATP 功能會在租用戶層級針對租用戶內的所有使用者啟用。 如需為授權使用者設定 ATP 原則的詳細資訊，請參閱 [Office 365 進階威脅防護](https://docs.microsoft.com/office365/securitycompliance/office-365-atp)。
+根據預設，會在租使用者中的所有使用者的租使用者層級啟用 Microsoft Defender for Office 365 功能。 如需針對授權使用者設定 Defender for Office 365 原則的詳細資訊，請參閱 [Microsoft Defender For office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-atp)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-若要限定 ATP 的範圍，請遵循安全連結和安全附件部署原則：
+若要限定 Microsoft Defender for Office 365，請遵循安全連結和安全附件部署原則：
 
-- 如需為授權使用者設定安全連結的相關資訊，請參閱[設定 Office 365 ATP 安全連結原則](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)。
+- 如需設定授權使用者安全連結的詳細資訊，請參閱 [設定 Microsoft Defender For Office 365 中的安全連結原則](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)。
 
-- 如需為授權使用者設定安全附件的相關資訊，請參閱[設定 Office 365 ATP 安全附件原則](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies)。
+- 如需設定授權使用者安全附件的詳細資訊，請參閱 [在 Microsoft Defender For Office 365 中設定安全附件原則](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies)。
 
 ## <a name="office-365-cloud-app-security"></a>Office 365 Cloud App Security
 
@@ -174,25 +174,25 @@ Azure AD P1 為使用者提供的權力，可從 MCAS 中的探索功能中受�
 
 存取合規性管理員是透過設定使用者權限及指派角色加以控制。 如需詳細資訊，請參閱 [合規性管理員入門：設定使用者權限並指派角色](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)。
 
-## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
+## <a name="microsoft-defender-for-endpoint"></a>適用於端點的 Microsoft Defender
 
-Microsoft Defender ATP 是一個端點安全性解決方案，包含風險型弱點管理和評估;攻擊面降減功能;以行為為基礎和雲端電源的下一代保護;端點偵測和回應 (EDR) ;自動調查和修正;和受管理的搜尋服務。 請參閱 [Microsoft DEFENDER ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 頁面以深入瞭解。
+Microsoft Defender for Endpoint 是一個端點安全性解決方案，包含風險型弱點管理和評估;攻擊面降減功能;以行為為基礎和雲端電源的下一代保護;端點偵測和回應 (EDR) ;自動調查和修正;和受管理的搜尋服務。 若要深入瞭解，請參閱 [Microsoft Defender For Endpoint](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 頁面。
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
 
-Windows 10 企業版 E5 的授權使用者，Windows 10 教育版 A5，Microsoft 365 E5 (M365 E5) （包括 Windows 10 企業版 E5、Microsoft 365 E5 Security、Microsoft 365 A5 (M365 A5) 可從 Microsoft Defender ATP 取得效益）。
+Windows 10 企業版 E5 的授權使用者，Windows 10 教育版 A5，Microsoft 365 E5 (M365 E5) （包括 Windows 10 企業版 E5、Microsoft 365 E5 安全性、Microsoft 365 A5 (M365 A5) 可以從 Microsoft Defender for Endpoint 取得好處）。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
-SecOps 分析員和安全性專業人員會受益于 Microsoft Defender ATP 的端點安全性功能，以執行預防性保護、入侵後偵測、自動調查，以及對高級威脅的回應。 使用者利用 Microsoft Defender ATP 所監控的惡意事件，使使用者受益。
+SecOps 分析員和安全性專業人員受益于 Microsoft Defender for Endpoint 的端點安全性功能，以執行預防性保護、入侵後偵測、自動調查，以及回應高級威脅。 使用者利用 Microsoft Defender for Endpoint 所監控的惡意事件，使使用者受益。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，會在承租人層級為租使用者內的所有使用者啟用 Microsoft Defender ATP 功能。 如需部署的詳細資訊，請參閱 [部署指南](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases)。
+根據預設，會在租使用者中的所有使用者在租使用者層級上啟用 Microsoft Defender for Endpoint 功能。 如需部署的詳細資訊，請參閱 [部署指南](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-Microsoft Defender ATP 系統管理員可以利用以 [角色為基礎的存取控制 (RBAC) ](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) ，在安全性作業小組中建立角色和群組，以授與 Microsoft Defender security Center 的適當存取權。
+Microsoft Defender for Endpoint administrators 可使用 [角色型存取控制 (RBAC) ](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) ，以在安全作業小組中建立角色和群組，以授與 Microsoft Defender security Center 的適當存取權。
 
 ## <a name="information-protection"></a>資訊保護
 
@@ -377,7 +377,7 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 資訊保護
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-若為 Exchange Online 和商務用 Skype，可使用客戶金鑰加密信箱。 您必須先設定 Azure，才能使用 Office 365 的客戶金鑰。 如需建立及設定所需 Azure 資源的步驟，請參閱 [設定客戶機碼](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up?view=o365-worldwide) ，以及在 Office 365 中設定客戶機碼的步驟。 完成 Azure 設定之後，您可以決定要將哪些原則指派給組織中的信箱和檔案，進而決定要指派哪些機碼。 您未指派原則的信箱和檔案會使用由 Microsoft 所控制和管理的加密原則。 如需客戶機碼的相關資訊，或有關一般概述，請參閱 [Office 365 中的客戶金鑰服務加密](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview?view=o365-worldwide)。
+若為 Exchange Online 和商務用 Skype，可使用客戶金鑰加密信箱。 您必須先設定 Azure，才能使用 Office 365 的客戶金鑰。 如需建立及設定所需 Azure 資源的步驟，請參閱 [設定客戶機碼](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up) ，以及在 Office 365 中設定客戶機碼的步驟。 完成 Azure 設定之後，您可以決定要將哪些原則指派給組織中的信箱和檔案，進而決定要指派哪些機碼。 您未指派原則的信箱和檔案會使用由 Microsoft 所控制和管理的加密原則。 如需客戶機碼的相關資訊，或有關一般概述，請參閱 [Office 365 中的客戶金鑰服務加密](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)。
 
 ## <a name="office-365-customer-lockbox"></a>Office 365 客戶加密箱
 

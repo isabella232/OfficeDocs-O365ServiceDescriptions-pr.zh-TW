@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全性與 &amp; 合規性中心的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-ms.openlocfilehash: 93f1ee30103b72edd5846a4d6f58444d157ab10e
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 348c56d0d3f507f543490a33d5d7c20d864d7e8e
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261595"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519114"
 ---
 # <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 
@@ -67,7 +67,7 @@ ms.locfileid: "48261595"
 
 <sup>5</sup> 美國和西歐 (荷蘭) 地區支援 Advanced eDiscovery。 (來自加拿大和亞太地區的客戶資料會匯出至美國。 來自歐洲、中東和非洲的客戶資料會匯出到西歐 [荷蘭]。)
 
-<sup>6</sup> Office 365 E5 的高級威脅防護功能，以及 Office 365 E1 和 Office 365 E3 的獨立服務。
+<sup>6</sup> Office 365 E5 中提供 Microsoft Defender for office 365，以及 Office 365 E1 和 Office 365 E3 的獨立服務。
 
 <sup>7</sup> 包括儲存在 Microsoft 團隊存放庫中的檔案。
 

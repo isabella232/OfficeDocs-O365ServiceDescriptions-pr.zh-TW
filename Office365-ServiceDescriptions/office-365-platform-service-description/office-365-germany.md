@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德國是一種可在歐洲使用的 Office 365 服務的區別選項。 它可協助您利用德國法律所規定的獨特資料受信者模型，為數字工作（從德文資料中心）提供業界領先的生產力服務，以在德國、歐盟 (EU) 和歐盟自由交易協會 (EFTA) 中，協助滿足最受管制客戶的需求。
-ms.openlocfilehash: 50e53c8bffd947ae11f9dbd97cc2a2c2533bfbfe
-ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
+ms.openlocfilehash: 798401f339d6964f551e22b29d2bf283051ed304
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48367760"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518824"
 ---
 # <a name="office-365-germany"></a>Office 365 德國
 
@@ -156,7 +156,7 @@ Office 365 德國遵循 Office 365 的雲端安全性和符合性標準。 Offic
 |IPv4 和 IPv6 通訊協定|是|是|是|是|是|是|是|是|
 |**信任**|**Office 365 Germany 商務基本版**|**Office 365 Germany 商務版**|**Office 365 Germany 商務進階版**|**Office 365 Germany 教育版 A1**|**Office 365 Germany 企業版 E1**|**Office 365 Germany 企業版 E3**|**Office 365 Germany 企業版 E4**|**Office 365 Germany 企業版 K1**|
 |**[隱私權、安全性及透明性](privacy-security-and-transparency.md)**|是|是|是|是|是|是|是|是|
-|進階威脅防護|否|否|否|否|否|否|是|否|
+|適用於 Office 365 的 Microsoft Defender|否|否|否|否|否|否|是|否|
 |Customer Lockbox|否|否|否|否|否|否|是|否|
 |進階 eDiscovery|否|否|否|否|否|否|否|否|
 |安全分數|否|否|否|否|否|否|否|否|
@@ -262,7 +262,7 @@ Office 365 德國遵循 Office 365 的雲端安全性和符合性標準。 Offic
 
 | 功能 | Office Professional Plus 2013 | Office 專業增強版 2016 | Office 365 ProPlus<sup>10</sup> |
 |:-----|:-----|:-----|:-----|
-|**Office 應用程式<sup>1、2</sup>**||||
+|**Office 應用程式 <sup>1、2</sup>**||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|是|是|是|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|是|是|是|
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|是|是|是|
@@ -375,7 +375,7 @@ Office 365 德國遵循 Office 365 的雲端安全性和符合性標準。 Offic
 |自訂反惡意程式碼原則|是|是|是|是|是|是|是|是 <sup>8</sup>|
 |隔離 - 系統管理員管理|是|是|是|是|是|是|是|是 <sup>8</sup>|
 |隔離 - 使用者自我管理|是|是|是|是|是|是|是|是|
-|進階威脅防護|否|--|否|否|否|否|是|否|
+|適用於 Office 365 的 Microsoft Defender|否|--|否|否|否|否|是|否|
 |**[郵件流程](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany 商務基本版**|**Office 365 Germany 商務版**|**Office 365 Germany 商務進階版**|**Office 365 Germany 教育版 A1**|**Office 365 Germany 企業版 E1**|**Office 365 Germany 企業版 E3**|**Office 365 Germany 企業版 E4**|**Office 365 Germany 企業版 K1**|
 |自訂輸出郵件的路由|是|是|是|是|是|是|是|是|
 |與信任的合作夥伴間的安全傳訊|是|是|是|是|是|是|是|是|
@@ -520,11 +520,11 @@ Office 365 德國遵循 Office 365 的雲端安全性和符合性標準。 Offic
 <sup>17</sup> 于 Office 365 德國 E3 中提供。<br/>
 <sup>18</sup> 適用于 Office 365 德國的附加元件功能。
 
-## <a name="exchange-online-advanced-threat-protection-features"></a>Exchange Online 進階威脅防護功能
+## <a name="defender-for-office-365-features"></a>Office 365 的 Defender 功能
 
-下表列出可用於 Office 365 Germany 方案的 Exchange Online Advanced Threat Protection 功能。 如需 EOP 功能的詳細資訊，請選取表格中的連結。 提及 Exchange Online 時，通常是指 Office 365 企業版服務系列。<br><br>
+下表列出 office 365 德國各項方案中可用的 Office 365 的 Defender 功能。 提及 Exchange Online 時，通常是指 Office 365 企業版服務系列。<br><br>
 
-| 功能 | ATP 獨立 | Exchange Online 中的 ATP 功能 |
+| 功能 | 適用于 Office 365 獨立的 Defender | Exchange Online 中適用于 Office 365 功能的 Defender |
 |:-----|:-----|:-----|
 |安全連結|是|是|
 |安全附件|是|是|

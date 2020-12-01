@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已建立 Office 365 美國政府方案 (或 Office 365 政府) 。 本文概要說明 Office 365 政府美國環境所特有的功能。
-ms.openlocfilehash: 583d901990feca273421f6c66a5f611cd3591200
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+ms.openlocfilehash: 237a1f39b7c5231475c40750777212a8213a9d2b
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411612"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519084"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -253,7 +253,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |**[隱私權、安全性及透明性](../../office-365-platform-service-description/privacy-security-and-transparency.md)**|||||
 |進階資料管理|無<sup>12</sup>|無<sup>12</sup>|是|無<sup>12</sup>|
 |Cloud App Security|無<sup>12、15、19</sup>|無<sup>12、15、19</sup>|是<sup>15、19</sup>|無<sup>12、15、19</sup>|
-|進階威脅防護|無<sup>12，18</sup>|無<sup>12，18</sup>|是<sup>18</sup>|無<sup>12，18</sup>|
+|適用於 Office 365 的 Microsoft Defender|無<sup>12，18</sup>|無<sup>12，18</sup>|是<sup>18</sup>|無<sup>12，18</sup>|
 |客戶加密箱|無<sup>12</sup>|無<sup>12</sup>|是|無<sup>12</sup>|
 |進階電子文件探索|無<sup>12</sup>|無<sup>12</sup>|是|無<sup>12</sup>|
 |安全分數<sup>14</sup>|是<sup>9，15</sup>|是<sup>9</sup>|是<sup>9，15</sup>|是<sup>9，15</sup>|
@@ -319,10 +319,10 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access)|否|是|是|否|
 |[商務用 Skype](../../office-applications-service-description/office-applications.md#skype-for-business)|是<sup>3</sup>|是|是|是<sup>3</sup>|
 |[Office 365 的 Mac 版 Office](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57)|否|是|是|否|
-|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|是|是<sup></sup>|是<sup></sup>|是|
-|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android)|是|是<sup></sup>|是<sup></sup>|是|
+|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|是|是的<sup></sup>|是<sup></sup>|是|
+|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android)|是|是的<sup></sup>|是<sup></sup>|是|
 |[Office Mobile for Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|是|是<sup>4</sup>|是<sup>4</sup>|是|
-|Office Mobile for Windows 10 tablets|是|是<sup></sup>|是<sup></sup>|是|
+|Office Mobile for Windows 10 tablets|是|是的<sup></sup>|是<sup></sup>|是|
 |適用于 iOS 和 Android<sup>5，4</sup>的 Outlook|是|是|是|是|
 |**企業價值**|**Office 365 政府版 G1**|**Office 365 Government G3**|**Office 365 政府版 G5**|**Office 365 政府 F3**|
 |每個使用者可同時在 5 部 PC 或 Mac 上安裝|否|是|是|否|

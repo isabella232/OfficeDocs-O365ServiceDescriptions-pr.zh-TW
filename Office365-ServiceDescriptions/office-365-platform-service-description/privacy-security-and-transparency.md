@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft 十分重視與客戶之間的合作關係，且致力於保護客戶資料的隱私和安全性。 如需詳細資訊，請參閱 Microsoft 信任中心。
-ms.openlocfilehash: c01f86eaac77e611a9566dd77b66cafeb1d03ca0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e7c34e6647b6d04be9fb83550c00f52d47917cbb
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131667"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519054"
 ---
 # <a name="privacy-security-and-transparency"></a>隱私權、安全性和透明化
 
@@ -31,7 +31,7 @@ Microsoft 十分重視與客戶之間的合作關係，且致力於保護客戶�
   
 如需企業、商務、政府和教育機構管理員在設定 Office 365 隱私權設定時可採取的特定步驟，請參閱[管理員的進階隱私權選項](https://go.microsoft.com/fwlink/p/?LinkID=285202)。
   
-如需有關其他 Microsoft 服務的安全性和隱私權的資訊（包括適用于企業的 Microsoft 365 應用程式），請參閱[信任中心適用于哪些線上服務？](https://www.microsoft.com/trustcenter/default.aspx)
+如需有關其他 Microsoft 服務的安全性和隱私權的資訊（包括適用于企業的 Microsoft 365 應用程式），請參閱 [信任中心適用于哪些線上服務？](https://www.microsoft.com/trustcenter/default.aspx)
   
 ## <a name="security"></a>安全性
 
@@ -43,7 +43,7 @@ Microsoft 十分重視與客戶之間的合作關係，且致力於保護客戶�
   
 ## <a name="advanced-ediscovery"></a>進階電子文件探索
 
-電子搜索 (eDiscovery) 是識別與傳遞電子資訊的程序，而且此類資訊可在法律案件中做為呈堂證據。 「Office 365」中現有 eDiscovery 功能的高級 eDiscovery 組建可讓您分析大型的非結構化資料集，並減少與法律案例相關的資料量。 您可以使用 Office 365 規範中心的 [搜尋] 功能來執行您的組織中所有內容來源的初始搜尋，以識別並收集特定法律案件相關的資料。 然後，您可藉由套用文字分析、機器學習和進階電子搜索的相關性/預測式編碼功能，來分析該資料。 如需詳細資訊，請參閱[Advanced eDiscovery](https://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409)。
+電子搜索 (eDiscovery) 是識別與傳遞電子資訊的程序，而且此類資訊可在法律案件中做為呈堂證據。 「Office 365」中現有 eDiscovery 功能的高級 eDiscovery 組建可讓您分析大型的非結構化資料集，並減少與法律案例相關的資料量。 您可以使用 Office 365 規範中心的 [搜尋] 功能來執行您的組織中所有內容來源的初始搜尋，以識別並收集特定法律案件相關的資料。 然後，您可藉由套用文字分析、機器學習和進階電子搜索的相關性/預測式編碼功能，來分析該資料。 如需詳細資訊，請參閱 [Advanced eDiscovery](https://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409)。
   
 ## <a name="customer-lockbox"></a>客戶加密箱
 
@@ -51,11 +51,10 @@ Microsoft 十分重視與客戶之間的合作關係，且致力於保護客戶�
   
 Customer Lockbox 隨附於 Office 365 企業版 5 計劃，您也可以隨著其他 Office 365 企業版計劃一起購買個別的訂閱。如需詳細資訊，請參閱 [Office 365 Customer Lockbox 要求](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409)。
   
-## <a name="advanced-threat-protection"></a>進階威脅防護
+## <a name="microsoft-defender-for-office-365"></a>適用於 Office 365 的 Microsoft Defender
 
-Office 365 高級威脅防護可協助您的組織抵禦惡意程式碼和病毒。 ATP 包含[安全的連結](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、[安全附件](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、[反網路釣魚](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)和[欺騙智慧](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence)功能。 安全連結可主動保護使用者免受郵件中惡意的超連結，並在每次選取連結時提供保護。 [安全附件] 可抵禦不明的惡意程式碼和病毒，並將所有不含已知病毒/惡意程式碼簽章的郵件和附件路由傳送至 ATP 可以偵測惡意意圖的特殊環境。 如需 ATP 的詳細資訊，請參閱[Office 365 Advanced 威脅防護服務說明](../office-365-advanced-threat-protection-service-description.md)。
+適用于 Office 365 的 Defender 可協助您的組織抵禦惡意程式碼和病毒。 適用于 Office 365 的 Defender 包含 [安全連結](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、 [安全附件](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、 [反網路釣魚](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)和 [欺騙智慧](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) 功能。 安全連結可主動保護使用者免受郵件中惡意的超連結，並在每次選取連結時提供保護。 安全附件可防止未知的惡意程式碼和病毒，將所有未已知病毒/惡意程式碼簽名的郵件和附件路由傳送至 Office 365 的 Defender 可偵測惡意目的的特殊環境。 如需有關 Office 365 的 Defender 的詳細資訊，請參閱 [Microsoft defender For office 365 service description](../office-365-advanced-threat-protection-service-description.md)。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案中的功能可用性，請參閱[Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
-  
+若要查看不同方案中的功能可用性，請參閱 [Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。

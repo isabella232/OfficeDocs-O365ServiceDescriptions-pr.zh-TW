@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用于在美國聯邦、state、local、部落或 territorial 政府機構或其他實體中，處理政府法規和需求之相關資料的 IT 專業365人員，其使用 Microsoft 365 政府-GCC，以符合這些需求。
-ms.openlocfilehash: 15e533e9a0484d494ee9430d057df9dcd847fffd
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+ms.openlocfilehash: aed241390a60fed9fd11afd717465f8200087062
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411642"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519034"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>規劃 Microsoft 365 合規性– GCC
 
@@ -115,7 +115,7 @@ Microsoft 365 政府版的環境符合美國政府對雲端服務的需求，包
 |                                         | 有問必答風險管理：逐步進行調查以取得高級電子檔探索 | 在開發|
 |                                         | 內部人員風險管理： Windows 10 組建1809和更高版本上的活動裝置指示器 | 在工程處理積壓工作|
 |                                         | 有問必答風險管理：違反安全性原則的指示器 (預覽)  | 在工程處理積壓工作|
-|                                         | 有問必答風險管理： Windows Defender ATP 警示 (預覽的指示器)  | 在工程處理積壓工作|
+|                                         | 有問必答風險管理： Microsoft Defender for Endpoint 警示 (預覽的指示器)  | 在工程處理積壓工作|
 |                                         | 有問必答風險管理：優先順序使用者 (預覽中的資料洩漏原則範本)  | 在工程處理積壓工作 |
 |                                         | 有問必答風險管理：不滿使用者 (預覽的資料洩漏原則範本)  | 在工程處理積壓工作 |
 |                                         | 有問必答風險管理：一般安全性原則違規原則範本 (預覽)  | 在工程處理積壓工作 |

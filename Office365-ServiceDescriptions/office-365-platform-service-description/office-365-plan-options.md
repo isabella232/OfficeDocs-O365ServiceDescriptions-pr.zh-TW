@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
-ms.openlocfilehash: 5e8b187cb0148215340b1ac83bb9df4ee6b70de0
-ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
+ms.openlocfilehash: 6a232a0051f26db7b049acc24233d790c27ebfc6
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48773447"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519144"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 和 Office 365 方案選項
 
@@ -75,7 +75,7 @@ Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組
 <sup>12</sup> 包含商務用 Skype Online Plan 2 與語音支援，且沒有任何用戶端限制。  <br/>
 <sup>13</sup> 包含商務用 Skype Online 方案1。<br>
 <sup>14</sup> microsoft 小組現在是 microsoft 365 中的郵件、會議及通話的主要用戶端。 從2018年10月1日到，使用500座位的新客戶架至 Microsoft 小組，而且無法存取商務用 Skype Online。 已使用商務用 Skype Online 的承租人可以繼續進行， (包括布建新使用者) ，直到他們完成對 Microsoft 小組的過渡為止。<br>
-<sup>15</sup> 包含 Microsoft 365 E5 規範，其可提供自動分類和保留、客戶金鑰、高級郵件加密、有問必答風險管理、通訊相容性、資訊障礙、客戶加密箱、特殊的存取管理、高級審核、記錄管理，以及高級 eDiscovery 功能;和 Microsoft 365 E5 Security，其中包括 Office 365 高級威脅防護 (ATP) 計畫2、Microsoft Defender ATP、Azure Active Directory 方案2、Azure ATP、Microsoft Cloud App Security 及安全檔。<br>
+<sup>15</sup> 包含 Microsoft 365 E5 規範，其可提供自動分類和保留、客戶金鑰、高級郵件加密、有問必答風險管理、通訊相容性、資訊障礙、客戶加密箱、特殊的存取管理、高級審核、記錄管理，以及高級 eDiscovery 功能;和 Microsoft 365 E5 Security，包含 Microsoft Defender for Office 365 Plan 2，MMicrosoft Defender for Endpoint，Azure Active Directory 方案2，Microsoft Defender 身分識別，Microsoft Cloud App Security 和安全檔。<br>
 <sup>16</sup> Microsoft 365 F1 不包括對 Exchange 信箱的許可權。 為了啟用完整的團隊體驗，M365 F1 授權可能隨附 Exchange Online K1 service plan。 雖然 Exchange Online K1 服務方案將為使用者布建信箱，但 M365 的 F1 使用者無權使用該信箱。 建議您的客戶透過 [這些步驟](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) 停用 Outlook 網頁版，並要求使用者不要透過任何其他方法存取 Exchange 信箱。<br>
 <sup>17</sup> 包括 SharePoint 線上展臺。 不能是系統管理員。 無網站信箱。 無個人網站。<br>
 <sup>18</sup> Microsoft 365 F1 使用者可以使用 web 上的 Office 讀取檔案，但沒有建立/編輯/儲存許可權。 
@@ -110,7 +110,7 @@ Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組
   
 | 服務 | 方案 |
 |:-----|:-----|
-|Exchange Online  <br/> |[Exchange Online 方案 1](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online 方案 2](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) <br/> [Exchange Online 進階威脅防護](https://products.office.com/exchange/advance-threat-protection) <br/> [Exchange Online 封存](https://products.office.com/exchange/microsoft-exchange-online-archiving-email) <br/> [Exchange Online Kiosk](https://products.office.com/business/office-365-f1) <br/> |
+|Exchange Online  <br/> |[Exchange Online 方案 1](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online 方案 2](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) <br/> [適用於 Office 365 的 Microsoft Defender](https://www.microsoft.com/microsoft-365/security/office-365-defender) <br/> [Exchange Online 封存](https://products.office.com/exchange/microsoft-exchange-online-archiving-email) <br/> [Exchange Online Kiosk](https://products.office.com/business/office-365-f1) <br/> |
 |SharePoint Online  <br/> |[SharePoint Online 計劃 1](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online 計劃 2](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
 |商務用 OneDrive  <br/> |[商務用 OneDrive (方案 1)](https://onedrive.live.com/about/business/) <br/> [商務用 OneDrive 方案 2](https://onedrive.live.com/about/business/) <br/> |
 |Office 應用程式  <br/> |[Microsoft 365 Apps 企業版](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Microsoft 365 Apps 商務版](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> |
