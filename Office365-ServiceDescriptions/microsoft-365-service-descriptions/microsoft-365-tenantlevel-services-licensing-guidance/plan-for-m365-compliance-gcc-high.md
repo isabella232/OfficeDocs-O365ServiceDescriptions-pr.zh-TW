@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用于促進美國聯邦政府機構中的 Office 365 部署的 IT 專業人員，或是處理政府規定和需求之資料的其他實體，其使用 Microsoft 365 政府– GCC 高的方式，都適用于符合這些需求。
-ms.openlocfilehash: 52cd100938e126c9a562f021ba2046cc34e25b59
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 5937eed535814176e99d6bfbfd9301c7b08326c3
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518905"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566645"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>規劃 Microsoft 365 合規性– GCC 高
 
@@ -181,8 +181,8 @@ Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 �
 |                                         | 高級審核：已處理的審計深入資訊                              | 在工程處理積壓工作 |
 |                                         | 高級審計：在 Exchange Online 中和 SharePoint Online 中搜尋字詞事件                              | 在工程處理積壓工作 |
 |    **規範管理**            | Microsoft 365 安全性與合規性中心                              | 可以使用 |
-|                                         | 合規性管理員                                 | 正在推出              |
-|                                         | Microsoft Cloud App Security                                 | 可以使用              |
+|                                         | 合規性管理員                                 | 可以使用              |
+|                                         | Microsoft 雲端 App 安全性                                 | 可以使用              |
 |                                         | 雙位元組字元支援                                 | 在工程處理積壓工作              |
 |    **生態**            | 適用于 Advanced eDiscovery 的圖形 APIs                              | 在開發 |
 |                                         | 第一方資料連線器                                 | 在工程處理積壓工作              |

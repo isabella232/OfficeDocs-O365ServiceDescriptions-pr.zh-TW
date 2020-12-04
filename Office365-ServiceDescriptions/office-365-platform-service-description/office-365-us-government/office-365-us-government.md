@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已建立 Office 365 美國政府方案 (或 Office 365 政府) 。 本文概要說明 Office 365 政府美國環境所特有的功能。
-ms.openlocfilehash: 237a1f39b7c5231475c40750777212a8213a9d2b
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 63cef3dfac77ae22bc413deab9d375c1cd110b46
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519084"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566675"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -79,6 +79,8 @@ Office 365 政府服務是由實際位於美國的資料中心提供。 下列�
 > 一般來說，商務用 Skype 不會儲存客戶內容，但是如果有儲存的話，將會儲存在美國境內的資料中心。
 
 如果您的使用者在美國境內中使用 Office (之前稱為 Office Web Apps) 或您採用 Active Directory Federation Services (AD FS) 2.0，並設定原則，以協助確保使用者透過單一登入連線到服務，則暫時快取在 Office 中的任何客戶內容都會位於美國境內中。
+
+SharePoint 網站的 [網站使用狀況] 頁面可用於政府方案，但根據符合性，只有商務客戶可以使用此頁面的部分功能。 若要深入瞭解，請參閱 [網站使用狀況頁面（適用于 Microsoft 365 中的 SharePoint 網站](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)）。
 
 ## <a name="office-365-government-and-third-party-services"></a>Office 365 政府和協力廠商服務
 
@@ -253,7 +255,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |**[隱私權、安全性及透明性](../../office-365-platform-service-description/privacy-security-and-transparency.md)**|||||
 |進階資料管理|無<sup>12</sup>|無<sup>12</sup>|是|無<sup>12</sup>|
 |Cloud App Security|無<sup>12、15、19</sup>|無<sup>12、15、19</sup>|是<sup>15、19</sup>|無<sup>12、15、19</sup>|
-|適用於 Office 365 的 Microsoft Defender|無<sup>12，18</sup>|無<sup>12，18</sup>|是<sup>18</sup>|無<sup>12，18</sup>|
+|Microsoft Defender for Office 365|無<sup>12，18</sup>|無<sup>12，18</sup>|是<sup>18</sup>|無<sup>12，18</sup>|
 |客戶加密箱|無<sup>12</sup>|無<sup>12</sup>|是|無<sup>12</sup>|
 |進階電子文件探索|無<sup>12</sup>|無<sup>12</sup>|是|無<sup>12</sup>|
 |安全分數<sup>14</sup>|是<sup>9，15</sup>|是<sup>9</sup>|是<sup>9，15</sup>|是<sup>9，15</sup>|
