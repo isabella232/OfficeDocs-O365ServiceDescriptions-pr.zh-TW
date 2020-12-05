@@ -1,22 +1,22 @@
 ---
 title: 安全性 & 合規性的 Microsoft 365 授權指南
-ms.author: v-trscho
-author: vtrscho
+ms.author: v-smandalika
+author: v-smandalika
 audience: ITPro
 ms.topic: reference
-ms.date: 7/13/2020
+ms.date: 12/01/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: e2c5a7f9f7c3e5a44f48efa43f239f43590b6c2c
-ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
+ms.openlocfilehash: b42a6be33bf94795f2e9e6e537bb548775d672ea
+ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49566665"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576006"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -47,9 +47,33 @@ Azure Active Directory Identity Protection 是 Azure Active Directory Premium P2
 
 系統管理員可以指派定義密碼重設層級的風險原則，並只允許授權使用者的存取，以限定 Azure AD 身分識別保護的範圍。 如需如何針對 Azure AD 身分識別保護部署進行範圍的指示，請參閱 [Configure the sign in 危險原則](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)。
 
+## <a name="azure-active-directory-identity-governance"></a>Azure Active Directory 身分識別管理
+
+Azure Active Directory 身分識別管理可讓您權衡組織對安全性和員工生產力的需求，以及適當的處理常式和可視性。 它使用權利管理、存取權、特權身分識別管理，以及使用條款原則，以確保適當的人員能夠正確地存取正確的資源。
+
+### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
+
+Azure Active Directory 身分識別管理可讓使用者的生產力變得更容易要求一個 access 套件中的應用程式、群組和 Microsoft 小組的存取。 使用者也可以設定為核准者，但不包括管理員。 若要進行存取權檢查，使用者可以透過智慧建議檢查群組的成員資格，以定期採取動作。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+Enterprise 可移動性 + Security E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 Security 和 Azure Active Directory Premium 方案2為使用者提供從 Azure Active Directory 身分識別管理中受益的權利。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
+
+Azure AD 身分識別控管功能會在租使用者層級啟用，但是會以每位使用者的身分執行。 如需 Azure AD 身分識別管理的相關資訊，請參閱 [什麼是 Azure Active Directory 身分識別管理？](https://docs.microsoft.com/azure/active-directory/governance/identity-governance-overview)
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
+
+系統管理員可以只為已授權的使用者指派訪問套件、存取權或特權身分識別管理，以限定 Azure AD 身分識別管理的範圍。 如需如何針對 Azure AD 身分識別管理部署進行範圍的指示，請參閱：
+
+- [Azure AD 權利管理授權需求](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-overview#license-requirements)
+- [Azure AD access 複查授權需求](https://docs.microsoft.com/azure/active-directory/governance/access-reviews-overview#license-requirements)
+- [使用特權身分識別管理的授權需求](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/subscription-requirements)
+
 ## <a name="microsoft-defender-for-identity"></a>Microsoft Defender 身分識別
 
-Microsoft Defender for Identity 是一項雲端服務，可協助保護企業混合式環境免受多種類型的高級目標網路攻擊和內幕用威脅。
+Microsoft Defender for Identity (先前的 Azure 高級威脅防護) 是一項雲端服務，可協助您從多種類型的高級目標網路攻擊和有問必答威脅中保護企業混合式環境。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
@@ -61,7 +85,7 @@ Enterprise 可移動性 + Security E5/A5，Microsoft 365 E5/A5，Microsoft 365 E
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，在租使用者中的所有使用者的租使用者層級上啟用 Microsoft Defender 身分識別功能。 如需設定 Microsoft Defender 身分識別的詳細資訊，請參閱 [Create a Microsoft defender For identity instance](https://docs.microsoft.com/azure-advanced-threat-protection/install-atp-step1)。
+根據預設，在租使用者中的所有使用者的租使用者層級上啟用 Microsoft Defender 身分識別功能。 如需設定 Azure ATP 的詳細資訊，請參閱 [Create a Microsoft Defender For Identity instance](https://docs.microsoft.com/defender-for-identity/install-step1)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
@@ -69,27 +93,28 @@ Microsoft Defender for Identity 服務目前無法限制特定使用者的功能
 
 ## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-Office 365 的 Defender 可協助保護組織，避免遭受複雜的攻擊，例如網路釣魚和零日惡意程式碼。 適用于 Office 365 的 Defender 也可透過關聯大量資料中的信號，協助識別、設定優先順序，並提供如何解決潛在威脅的建議，提供切實可行的洞察力。
+Microsoft Defender for Office 365 (過去的 Office 365 高級威脅防護) 可協助保護組織，避免遭受複雜的攻擊，例如網路釣魚和零日惡意程式碼。 Microsoft Defender for Office 365 也提供可行動的洞察力，其方式是將大量資料的信號關聯起來，以協助識別、優先順序，並提供如何解決潛在威脅的建議。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
-Office 365 的 Defender 可保護使用者免受複雜的攻擊，例如網路釣魚和零日惡意程式碼。 如需方案1和方案2所提供之服務的完整清單，請參閱 [Microsoft Defender For Office 365](https://products.office.com/exchange/advance-threat-protection)。
+Microsoft Defender for Office 365 可保護使用者免受複雜的攻擊，例如網路釣魚和零日惡意程式碼。 如需方案1和方案2所提供之服務的完整清單，請參閱 [Microsoft Defender For Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide&preserve-view=true)。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？ 
 
-Microsoft Defender for Office 365，Office 365 E5/A5/G5，Microsoft 365 E5/A5/G5，microsoft 365 E5/A5/G5 安全性，Microsoft 365 商務版 Premium，以及 Microsoft Defender for Office 365 方案1和2為使用者提供的許可權，以供使用者從 Office 365 的 Defender 中受益。
+Microsoft Defender for Office 365 方案1和2、Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 安全性，以及 Microsoft 365 商務版 Premium 為使用者提供的許可權，可從 Microsoft Defender for Office 365 中受益。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
-根據預設，會在租使用者中的所有使用者的租使用者層級啟用 Microsoft Defender for Office 365 功能。 如需針對授權使用者設定 Defender for Office 365 原則的詳細資訊，請參閱 [Microsoft Defender For office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-atp)。
+根據預設，會在租使用者中的所有使用者的租使用者層級啟用 Microsoft Defender for Office 365 功能。 如需針對授權使用者設定 Microsoft Defender for Office 365 原則的詳細資訊，請參閱 [Microsoft defender For office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide&preserve-view=true)。
+
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
 若要限定 Microsoft Defender for Office 365，請遵循安全連結和安全附件部署原則：
 
-- 如需設定授權使用者安全連結的詳細資訊，請參閱 [設定 Microsoft Defender For Office 365 中的安全連結原則](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)。
+- 如需設定授權使用者安全連結的詳細資訊，請參閱 [設定 Microsoft Defender For Office 365 安全連結原則](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links?view=o365-worldwide&preserve-view=true)。
 
-- 如需設定授權使用者安全附件的詳細資訊，請參閱 [在 Microsoft Defender For Office 365 中設定安全附件原則](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies)。
+- 如需設定授權使用者安全附件的詳細資訊，請參閱 [設定 Microsoft Defender For Office 365 Safe Attachments 原則](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments?view=o365-worldwide&preserve-view=true)。
 
 ## <a name="office-365-cloud-app-security"></a>Office 365 Cloud App Security
 
@@ -105,7 +130,7 @@ OCAS 探索陰影它、提供各 Office 365 的威脅防護，以及可以控制
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Office 365 E5/A5/G5 為使用者提供的權力可從 OCAS 中受益。
+Office 365 E5/A3/A5/G5 為使用者提供的權利可從 OCAS 中受益。
 如需詳細資訊，請參閱 [Microsoft Cloud App Security 授權資料工作表](https://www.aka.ms/mcaslicensing)。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
@@ -176,7 +201,7 @@ Azure AD P1 為使用者提供的權力，可從 MCAS 中的探索功能中受�
 
 ## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender for Endpoint
 
-Microsoft Defender for Endpoint 是一個端點安全性解決方案，包含風險型弱點管理和評估;攻擊面降減功能;以行為為基礎和雲端電源的下一代保護;端點偵測和回應 (EDR) ;自動調查和修正;和受管理的搜尋服務。 若要深入瞭解，請參閱 [Microsoft Defender For Endpoint](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 頁面。
+Microsoft Defender for Endpoint (以前的 Microsoft Defender ATP) 是一個包含風險型弱點管理和評估的端點安全性解決方案。攻擊面降減功能;以行為為基礎和雲端電源的下一代保護;端點偵測和回應 (EDR) ;自動調查和修正;和受管理的搜尋服務。 若要深入瞭解，請參閱 [Microsoft Defender For Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 頁面。
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
 

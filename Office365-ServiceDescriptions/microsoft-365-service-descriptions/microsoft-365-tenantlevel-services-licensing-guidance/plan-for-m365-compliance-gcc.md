@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用于在美國聯邦、state、local、部落或 territorial 政府機構或其他實體中，處理政府法規和需求之相關資料的 IT 專業365人員，其使用 Microsoft 365 政府-GCC，以符合這些需求。
-ms.openlocfilehash: aed241390a60fed9fd11afd717465f8200087062
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: d315b6e15b9b85d0a336a1a22d43eeb636b40830
+ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519034"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576007"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>規劃 Microsoft 365 合規性– GCC
 
@@ -175,15 +175,15 @@ Microsoft 365 政府版的環境符合美國政府對雲端服務的需求，包
 |                                         | 高級審核：對重要事件的存取 (例如，mailitemsaccessed)                               | 可以使用 |
 |                                         | 高級審核：增加管理活動 API 的頻寬                              | 可以使用 |
 |                                         | 高級審計：小組私人通道郵件的法律封存                               | 可以使用 |
-|                                         | 高級審核：記錄保留 (1 年)                                | 可以使用 |
+|                                         | 高級審核：記錄保留 (1 年)                                | 正在推出 |
 |                                         | 高級審核：安全性與合規性中心                               | 可以使用 |
-|                                         | 高級審核：審計記錄檔的字詞保留時間較長                               | 在工程處理積壓工作 |
+|                                         | 高級審核：審核記錄的字詞保留時間 (10 年)                                | 在工程處理積壓工作 |
 |                                         | 高級審計：郵件轉寄和郵件傳送事件                               | 在工程處理積壓工作 |
 |                                         | 高級審核：已處理的審計深入資訊                               | 在工程處理積壓工作 |
 |                                         | 高級審計：在 Exchange Online 中和 SharePoint Online 中搜尋字詞事件                              | 在工程處理積壓工作 |
 |    **規範管理**            | Microsoft 365 安全性與合規性中心                              | 可以使用 |
 |                                         | 合規性管理員                              | 可以使用 |
-|                                         | Microsoft Cloud App Security                              | 在工程處理積壓工作 |
+|                                         | Microsoft 雲端 App 安全性                              | 在工程處理積壓工作 |
 |                                         | 雙位元組字元支援                              | 在工程處理積壓工作 |
 |    **生態**            | 適用于 Advanced eDiscovery 的圖形 APIs                              | 在開發 |
 |                                         | 第一方資料連線器                              | 在工程處理積壓工作 |
