@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: 網頁版 excel (先前的 Excel Web App) 會將您的 Microsoft Excel 體驗延伸至網頁瀏覽器，您可以在其中儲存活頁簿的網站上直接使用活頁簿。 所有客戶均可使用 Office for web 來查看和輕微編輯 Office 檔案。
-ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 88b379e5752ec665cf60966c0556c8c5e1b28727
+ms.sourcegitcommit: 6afe3622d72f6047c3d8d6659ad6b90764142ced
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294077"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "49586636"
 ---
 # <a name="excel-for-the-web"></a>Excel 網頁版
 
@@ -54,7 +54,7 @@ ms.locfileid: "48294077"
   
 ## <a name="apply-conditional-formatting"></a>套用條件格式化設定
 
-使用條件化格式可協助您以視覺方式流覽及分析資料、偵測重大問題，以及識別模式和趨勢。 進一步瞭解如何 [在 Excel 中使用設定條件格式設定網頁](https://go.microsoft.com/fwlink/p/?LinkId=282326)。
+使用條件化格式可協助您以視覺方式流覽及分析資料、偵測重大問題，以及識別模式和趨勢。 進一步瞭解如何 [在 Excel 中使用設定條件格式設定網頁](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?)。
   
 ## <a name="apply-data-validation-to-cells"></a>將資料驗證套用至儲存格
 
@@ -101,7 +101,7 @@ Excel 圖表與表格可讓您輕鬆格式化資料和管理資訊。 若要深�
   
 ## <a name="copy-and-paste"></a>複製和貼上
 
-您可以剪下、複製及貼上文字、超連結、數位、公式、圖形、圖表及影像。 如果資料行中的資料必須旋轉以重新排列列，請使用 [**貼**上] 功能表上的 [**換位**] 功能。 深入瞭解 [在 Excel 中複製及貼上網頁](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline)。 以您的瀏覽器使用 Edge 或 Chrome，您可以複製其他應用程式的超連結，並將其貼到 Excel 中以供網頁使用。 貼上的超連結會正常運作。
+您可以剪下、複製及貼上文字、超連結、數位、公式、圖形、圖表及影像。 如果資料行中的資料必須旋轉以重新排列列，請使用 [**貼** 上] 功能表上的 [**換位**] 功能。 深入瞭解 [在 Excel 中複製及貼上網頁](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline)。 以您的瀏覽器使用 Edge 或 Chrome，您可以複製其他應用程式的超連結，並將其貼到 Excel 中以供網頁使用。 貼上的超連結會正常運作。
   
 ## <a name="create-external-data-connections"></a>建立外部資料連結
 
