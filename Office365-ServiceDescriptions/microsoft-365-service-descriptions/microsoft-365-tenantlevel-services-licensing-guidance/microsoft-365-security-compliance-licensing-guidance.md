@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: b42a6be33bf94795f2e9e6e537bb548775d672ea
-ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
+ms.openlocfilehash: 62f155a916be00d352693c0ede325861a77fd2ba
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576006"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601762"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -25,7 +25,7 @@ ms.locfileid: "49576006"
 > [!NOTE]
 > 部分租用戶服務目前無法將權益限制在特定使用者。 應該努力將服務權益限制在取得授權的使用者。 這麼做有助於在鎖定功能可用時避免對組織造成潛在的服務中斷。
 
-若要查看授權您的使用者從 Microsoft 365 規範功能受益于2020年4月1日的選項，請下載詳細的 Microsoft 365 相容性授權比較。 [ (PDF) ](https://www.microsoft.com/download/details.aspx?id=102270)  | [ (Excel) ](https://www.microsoft.com/download/details.aspx?id=102287)
+若要查看授權您的使用者從 Microsoft 365 規範功能受益于2020年4月1日的選項，請下載詳細的 Microsoft 365 相容性授權比較。 [ (PDF) ](https://www.microsoft.com/download/details.aspx?id=102403)  | [ (Excel) ](https://www.microsoft.com/download/details.aspx?id=102427)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -199,7 +199,7 @@ Azure AD P1 為使用者提供的權力，可從 MCAS 中的探索功能中受�
 
 存取合規性管理員是透過設定使用者權限及指派角色加以控制。 如需詳細資訊，請參閱 [合規性管理員入門：設定使用者權限並指派角色](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)。
 
-## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender for Endpoint
+## <a name="microsoft-defender-for-endpoint"></a>適用於端點的 Microsoft Defender
 
 Microsoft Defender for Endpoint (以前的 Microsoft Defender ATP) 是一個包含風險型弱點管理和評估的端點安全性解決方案。攻擊面降減功能;以行為為基礎和雲端電源的下一代保護;端點偵測和回應 (EDR) ;自動調查和修正;和受管理的搜尋服務。 若要深入瞭解，請參閱 [Microsoft Defender For Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 頁面。
 

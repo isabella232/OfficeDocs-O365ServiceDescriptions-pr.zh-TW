@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用于促進美國聯邦政府機構中的 Office 365 部署的 IT 專業人員，或是處理政府規定和需求之資料的其他實體，其使用 Microsoft 365 政府– GCC 高的方式，都適用于符合這些需求。
-ms.openlocfilehash: 5937eed535814176e99d6bfbfd9301c7b08326c3
-ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
+ms.openlocfilehash: 9b4e4deec0ef79a124cc73679709970f01e73e4d
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49566645"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601760"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>規劃 Microsoft 365 合規性– GCC 高
 
@@ -22,7 +22,7 @@ ms.locfileid: "49566645"
 > [!NOTE]
 >如果您的組織已符合 Microsoft 365 政府– GCC 的高資格需求，且已套用至程式並被公認，您可以略過步驟1和2，直接移至步驟3。
  
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government--gcc-high-and-meets-eligibility-requirements"></a>步驟 1： 判斷您的組織是否需要 Microsoft 365 政府– GCC 高並符合資格需求
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government--gcc-high-and-meets-eligibility-requirements"></a>步驟 1. 判斷您的組織是否需要 Microsoft 365 政府– GCC 高並符合資格需求
 
 Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 除了享受 Office 365 的功能之外，組織還會受益于 Microsoft 365 政府（GCC 高）特有的下列功能：
 
@@ -45,11 +45,11 @@ Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 �
 > [!NOTE]
 > Microsoft 365 政府-GCC High 僅限美國境內。 非美國政府客戶可以選擇許多 [Office 365 政府方案](https://products.office.com/government/compare-office-365-government-plans)。
 
-## <a name="step-2-apply-for-microsoft-365-government--gcc-high"></a>步驟 2： 適用于 Microsoft 365 政府– GCC-High
+## <a name="step-2-apply-for-microsoft-365-government--gcc-high"></a>步驟 2. 適用于 Microsoft 365 政府– GCC-High
 
 確定此服務對您的組織而言是正確的，請啟動 [此服務的應用程式](https://products.office.com/government/eligibility-validation)。
  
-## <a name="step-3-understand-microsoft-365-government--gcc-high-default-security-settings"></a>步驟 3： 瞭解 Microsoft 365 政府– GCC-High 預設安全性設定
+## <a name="step-3-understand-microsoft-365-government--gcc-high-default-security-settings"></a>步驟 3. 瞭解 Microsoft 365 政府– GCC-High 預設安全性設定
 
 建議您在修改系統管理員和安全性設定之前，請先仔細檢查您的系統管理員和安全性設定，並考慮對規範的影響，再變更預設安全性設定。
 
@@ -101,7 +101,7 @@ Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 �
 |                                         | 記錄管理：法規記錄                         | 在工程處理積壓工作 |
 |                                         | 記錄管理：多階段處置評審 | 在工程處理積壓工作 |
 |                                         | 記錄管理：使用 SharePoint Syntex 分類套用記錄標籤 | 在工程處理積壓工作 |
-| **測試人員風險管理**             | 客戶加密箱                                | 可以使用            |
+| **有問必答風險管理**             | 客戶加密箱                                | 可以使用            |
 |                                         | 有問必答風險管理：小組、SharePoint 網站、電子郵件訊息的 Office 指示器                         | 在開發 |
 |                                         | 內部使用者風險管理：透過使用者竊取資料                        | 在開發 |
 |                                         | 有問必答風險管理：一般資料洩漏                                | 在開發              |
@@ -174,15 +174,15 @@ Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 �
 |                                         | 高級審核：對重要事件的存取 (例如，mailitemsaccessed)                               | 可以使用 |
 |                                         | 高級審核：增加管理活動 API 的頻寬                              | 可以使用 |
 |                                         | 高級審計：小組私人通道郵件的法律封存                              | 可以使用 |
-|                                         | 高級審核：記錄保留 (1 年)                               | 可以使用 |
+|                                         | 高級審核：記錄保留 (1 年)                               | 正在推出 |
 |                                         | 高級審核：安全性與合規性中心可用性                              | 可以使用 |
-|                                         | 高級審核：審計記錄檔的字詞保留時間較長                              | 在工程處理積壓工作 |
+|                                         | 高級審核：審核記錄的字詞保留時間 (10 年)                               | 在工程處理積壓工作 |
 |                                         | 高級審計：郵件轉寄和郵件傳送事件                              | 在工程處理積壓工作 |
 |                                         | 高級審核：已處理的審計深入資訊                              | 在工程處理積壓工作 |
 |                                         | 高級審計：在 Exchange Online 中和 SharePoint Online 中搜尋字詞事件                              | 在工程處理積壓工作 |
 |    **規範管理**            | Microsoft 365 安全性與合規性中心                              | 可以使用 |
 |                                         | 合規性管理員                                 | 可以使用              |
-|                                         | Microsoft 雲端 App 安全性                                 | 可以使用              |
+|                                         | Microsoft 雲端應用程式安全性                                 | 可以使用              |
 |                                         | 雙位元組字元支援                                 | 在工程處理積壓工作              |
 |    **生態**            | 適用于 Advanced eDiscovery 的圖形 APIs                              | 在開發 |
 |                                         | 第一方資料連線器                                 | 在工程處理積壓工作              |
