@@ -1,20 +1,20 @@
 ---
 title: Microsoft 365 商務版語音服務描述
-ms.author: dstrome
-author: dstrome
-manager: serdars
+ms.author: office365servicedesc
+author: pamelaar
+ms.reviewer: dstrome
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商務語音是一項增益集服務，可讓您使用 Microsoft 小組進行電話通話。 這會結合電話系統、國內通話方案、SMS 和音訊會議。
-ms.openlocfilehash: 7ce58fbd9a60871cbc5f8da981d945f10b83193f
-ms.sourcegitcommit: 9b7d67927c8ed266ccd6b39950f04947e6916ede
+ms.openlocfilehash: 2f1f25dba03016ee9da086a8819394b1eab8691c
+ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605331"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49624544"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 商務版語音服務描述
 
@@ -42,7 +42,7 @@ Microsoft 365 商務語音可搭配下列訂閱和高達300授權：
 
 ## <a name="microsoft-365-business-voice-features"></a>Microsoft 365 商務語音功能
 
-| **功能**                                            | **Microsoft 365 商務語音** | **未通話方案的 Microsoft 365 商務語音** |
+| 功能 | Microsoft 365 商務語音 | 未通話方案的 Microsoft 365 商務語音 |
 |--------------------------------------------------------|----------------------------------|-------------------------------------------------------|
 | 本機號碼                                          | 是                              | 是                                                   |
 | 通話 VoIP                                           | 是                              | 是                                                   |

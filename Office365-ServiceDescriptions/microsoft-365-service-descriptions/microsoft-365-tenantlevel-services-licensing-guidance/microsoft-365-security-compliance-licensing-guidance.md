@@ -1,7 +1,8 @@
 ---
 title: 安全性 & 合規性的 Microsoft 365 授權指南
-ms.author: v-smandalika
-author: v-smandalika
+ms.author: office365servicedesc
+author: pamelaar
+ms.reviewer: v-smandalika
 audience: ITPro
 ms.topic: reference
 ms.date: 12/01/2020
@@ -11,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 62f155a916be00d352693c0ede325861a77fd2ba
-ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
+ms.openlocfilehash: de9d26c576b4dd4e77e18db3b85068eff717b0c9
+ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601762"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49624554"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -71,7 +72,7 @@ Azure AD 身分識別控管功能會在租使用者層級啟用，但是會以�
 - [Azure AD access 複查授權需求](https://docs.microsoft.com/azure/active-directory/governance/access-reviews-overview#license-requirements)
 - [使用特權身分識別管理的授權需求](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/subscription-requirements)
 
-## <a name="microsoft-defender-for-identity"></a>Microsoft Defender 身分識別
+## <a name="microsoft-defender-for-identity"></a>適用於身分識別的 Microsoft Defender
 
 Microsoft Defender for Identity (先前的 Azure 高級威脅防護) 是一項雲端服務，可協助您從多種類型的高級目標網路攻擊和有問必答威脅中保護企業混合式環境。
 

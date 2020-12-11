@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: Yammer 中提供下列探索功能。
-ms.openlocfilehash: 5271b6b5b41acd4287f1b341f13c969e26abac8e
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 8992cf1bbadf980b9e869eecc8d99b6fef1a3c78
+ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132077"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49624524"
 ---
 # <a name="discovery-features-in-yammer"></a>Yammer 中的探索功能
 
@@ -24,7 +24,7 @@ Yammer 中提供下列探索功能。
   
 ## <a name="feeds"></a>摘要
 
-保持最新的交談、filesm 和整個組織中發生的專案。 摘要可讓您快速參與交談，@mention 同事將其迴圈加入討論，以及預覽檔。
+在整個組織中維持相關的交談、檔案及專案的最新進展。 摘要可讓您快速參與交談，@mention 同事將其迴圈加入討論，以及預覽檔。
 
 ## <a name="instant-type-ahead"></a>立即類型-預先
 
@@ -36,7 +36,7 @@ Yammer 中提供下列探索功能。
   
 ## <a name="topics"></a>Topics
 
-使用主題標記內容，以協助他人在單字或搜尋現有主題之前新增井井號（#），以快速找出相關的郵件、檔案、記事等等。
+使用主題標記內容，以協助他人透過在單字上新增井井號 ( # ) 或搜尋現有的主題，以快速找出相關的郵件、檔案、記事等等。
   
 ## <a name="universal-search"></a>通用搜尋
 
@@ -44,6 +44,6 @@ Yammer 中提供下列探索功能。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Yammer 服務描述](yammer-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Yammer 服務描述](yammer-service-description.md)。
   
   
