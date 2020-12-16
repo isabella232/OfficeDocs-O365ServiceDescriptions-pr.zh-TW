@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: cf7a9d2a9f8775f655eb51d3023ac01683445965
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+ms.openlocfilehash: 64a403f935450e9b3500e352acb1dfa7f9717aeb
+ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411652"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683557"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -63,7 +63,16 @@ Microsoft 不直接營運此項服務。 由 21Vianet 營運、提供並管理�
 
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
-The Office 365 Security &amp; Compliance Center is not available in any plans for Office 365 operated by 21Vianet.
+Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組織的合規性需求。 以下是由世紀運作的計畫提供的相容性中心的解決方案：
+
+- 資料外洩防護 (DLP)
+- 保留
+- 稽核
+- Microsoft 資訊保護 (MIP) 
+
+請參閱個別的解決方案詳細資料，以瞭解在由世紀運作的計畫中提供的確切功能集合。
+
+若要深入瞭解 Microsoft 規範中心，請按一下 [這裡](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)。
 
 ## <a name="platform-features"></a>平台功能
 
@@ -171,8 +180,12 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |進階威脅防護|否|否|否|否|否|否|否|
 |Customer Lockbox|否|否|否|否|否|否|否|
 |進階 eDiscovery|否|否|否|否|否|否|否|
+|基本審核<sup>17</sup>|是|是|是|是|是|是|是|
+|高級審核<sup>17</sup>|否|否|否|否|否|否|否|
 |安全分數<sup>4</sup>|否|否|否|否|否|否|否|
 |威脅情報|否|否|否|否|否|否|否|
+|資訊管理-保留原則|是<sup>16</sup>|是<sup>16</sup>|是<sup>16</sup>|否|是<sup>16</sup>|是<sup>16</sup>|是|
+|資訊管理 (排除保留原則) |否|否|否|否|否|否|否|
 |**[合規性](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
 |SAS 70 / SSAE16 評估|否|否|否|否|否|否|否|
 |ISO 27001 認證|是|是|是|是|是|是|是|
@@ -206,7 +219,9 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <sup>12</sup> 部分內容可能不適用於由世紀運作的 Office 365。<br/>
 <sup>13</sup> 正在消失的體驗。 If your organization is dependent upon Internet Explorer 8 or Internet Explorer 9 to access older web apps and services, you may want to consider upgrading to Internet Explorer 11 and evaluating Enterprise Mode for Internet Explorer 11. This update helps provide better backward compatibility for legacy web apps. <br/>
 <sup>14</sup> Outlook mobile (IOS 和 Android) 目前不支援多重要素驗證。 <br/>
-<sup>15</sup> OneNote 的類別筆記本是透過世紀提供，但是 OneNote 的類別筆記本工具列不適用於 Windows 10 應用程式、iPad 或網頁 OneNote。
+<sup>15</sup> OneNote 的類別筆記本是透過世紀提供，但是 OneNote 的類別筆記本工具列不適用於 Windows 10 應用程式、iPad 或網頁 OneNote。 <br/>
+由世紀運作的<sup>16</sup>位 Office 365 只支援保留原則。 不支援 Yammer 及小組位置的保留標籤或保留原則。 如需詳細資訊，請參閱 [使用保留原則快速入門](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-retention)。 <br/>
+<sup>17</sup> 在 microsoft 365 中的審計可讓組織深入瞭解 microsoft 365 中的不同服務所進行的各種審核活動類型。 使用 [安全性與 &amp; 合規性中心](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 審核記錄搜尋，以查看組織中的使用者和系統管理員活動。 您也可以使用 [Office 365 管理活動 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) ，從統一的審計記錄檔中取得事件。 當使用者或系統管理員執行已審核的活動時，會產生一個審計記錄，並將其儲存在客戶組織的審計記錄檔中。 在審核記錄) 中，保留審計記錄的時間長度 (及可供搜尋，取決於客戶的 Office 365 或 Microsoft 365 企業版訂閱，以及指派給特定使用者的授權類型。
 
 ## <a name="office-365-application-features"></a>Office 365 應用程式功能 
 
@@ -274,7 +289,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>2</sup> Windows Server AD RMS 是內部部署伺服器，必須個別採購並管理，以便啟用支援的 IRM 功能。
 <br/><sup>3</sup> 如果您有 Office Professional Plus 2013 或獨立版本的 Excel 2013，則可以下載 [適用於 Excel 2013 的 Power Map 預覽版](https://www.microsoft.com/download/details.aspx?id=38395&amp;clcid=0x409)，並當作不受支援的增益集使用。
 <br/><sup>4</sup> 所有客戶皆可使用商務用 Skype Basic。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Office 365 專業增強版 和 Office 365 Enterprise E3 包含完整的 Skype 應用程式，其包含額外的功能，例如：進階電話語音支援、封存和法規遵循功能。 必須為每個使用者指派商務用 Skype Online 授權。 如需有關 Lync 基本功能的詳細資訊，請參閱[桌面用戶端比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) (英文)。
-<br/><sup>5</sup> 部分學校符合教育增強版的資格，其包含 Office 365 專業增強版，可讓學生和教職員在最多五部 PC 或 Mac 電腦及其他行動裝置 (包含 Windows 平版電腦及 iPad) 上安裝最新版的 Office。 當學校透過註冊教育版解決方案、Open Value Subscription 教育版解決方案或學校合約，為全機構的教職人員授權 Office 時，學校即符合 Office 365 教育增強版的資格。 請注意，Access 和 Publisher 僅在 PC 上可供使用。 OneNote for Mac 可分別從 Mac App Store 下載。
+<br/><sup>5</sup> 有些學校可用於教育版（包括 Office 365 ProPlus），並可讓學生、教職員和員工在最多五部電腦或 Mac 電腦上，以及在其他行動裝置（包括 Windows 平板和 iPad）上安裝最新版的 Office。 當學校透過註冊教育版解決方案、Open Value Subscription 教育版解決方案或學校合約，為全機構的教職人員授權 Office 時，學校即符合 Office 365 教育增強版的資格。 請注意，Access 和 Publisher 僅在 PC 上可供使用。 OneNote for Mac 可分別從 Mac App Store 下載。
 <br/><sup>6</sup> 可安裝 Mac 版 Office 2011，但不可啟用。
 <br/><sup>7</sup> Office 365 ProPlus 支援使用者專用的虛擬桌面基礎結構 (VDI) 。 Office 365 當透過大量授權方案購買時，ProPlus 僅支援遠端桌面服務 (RDS)。
 <br/><sup>8</sup>Office 365 Enterprise E3 和 Office 365 專業增強版 的大量啟用僅限於在 Windows Server 2008 R2 與更新版本上的安裝，且須啟用 RDS 角色或 Windows To Go 安裝。 無論哪種情況，存取這些安裝的使用者都必須為 Office 365 Enterprise E3 或 Office 365 專業增強版 的授權使用者。
@@ -609,7 +624,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |設定精靈|否|否|否|否|否|否|否|
 |延期網站集合升級|是|是|是|是|是|是|是|
 |分散式快取|否|否|否|否|否|否|否|
-|Data loss prevention|否|否|否|否|否|否|否|
+|Exchange Online、SharePoint Online 及商務用 OneDrive 適用的資料外洩防護|否|是|是|否|否|是|否|
 |Encryption at rest|是|是|是|是|是|是|是|
 |主機標頭網站集合|否|否|否|否|否|否|否|
 |改進權限管理|是|是|是|是|是|是|是|
@@ -641,7 +656,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |協助工具標準支援|是|是|是|是|是|是|是|
 |資產庫增強功能/視訊支援|是|是|是|是|是|是|是|
 |稽核|是|是|是|是|是|是|是|
-|稽核與報告 (例如文件編輯、原則編輯、刪除項)|是|是|是|是|是|是|是|
+|審核 &amp; 報告 (例如，doc 編輯、原則編輯、刪除) |是|是|是|是|是|是|是|
 |Content Organizer|是|否|是|是|是|是|是|
 |Design Manager|是|否|是|是|是|是|是|
 |文件組|是|是|是|是|是|是|是|
@@ -1003,7 +1018,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |臨機操作和排程音訊會議|否|是|
 |臨機操作和排程視訊會議|否|是|
 |當前發言者視訊|否|是|
-|上的264編碼和 eecoding|否|是|
+|H.264 編碼和解碼|否|是|
 |多方視訊|否|是|
 |所有出席者的高畫質視訊或影像|否|是|
 |簡報者控制項|否|是|
@@ -1051,7 +1066,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Windows PowerShell|是|是|
 |Microsoft 365 系統管理中心中的商務用 Skype Online 報告|否<sup>4</sup>|否<sup>4</sup>|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included.  所有客戶皆可使用 Lync 2013 Basic。 The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. 必須為每個使用者指派商務用 Skype Online 授權。 如需有關 Lync 基本功能的詳細資訊，請參閱[桌面用戶端比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) (英文)。
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included.  所有客戶皆可使用 Lync 2013 Basic。 Lync Basic 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. 必須為每個使用者指派商務用 Skype Online 授權。 如需有關 Lync 基本功能的詳細資訊，請參閱[桌面用戶端比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) (英文)。
 <br/><sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if they are invited by a Skype for Business Online Plan 2 user.
 <br/><sup>3</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.

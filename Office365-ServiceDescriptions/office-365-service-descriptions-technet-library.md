@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 和 Office 365 是雲端式服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。
-ms.openlocfilehash: 8a9ced37242ad08c53f17f33a77a42308c4df95b
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 86fbb5db51b9416284bb07b330499137ce2ce15d
+ms.sourcegitcommit: 5fbf54f8cbd66db58772ce904d64482a70e0beae
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518714"
+ms.lasthandoff: 12/16/2020
+ms.locfileid: "49687884"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服務描述 
 
@@ -83,6 +83,8 @@ Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTr
 
 > [!NOTE]
 > <sup>1</sup> 包含 [套件功能](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features)的可用性，例如 Office Delve、Microsoft MyAnalytics、Microsoft Sway 和 Microsoft Teams。
+>
+> 如需 Microsoft 365 Dynamics 商務應用程式的詳細資訊，請參閱 <https://docs.microsoft.com/dynamics365/> 。
   
 ## <a name="disclaimer"></a>免責聲明
 

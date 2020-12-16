@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全性與 &amp; 合規性中心的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-ms.openlocfilehash: 348c56d0d3f507f543490a33d5d7c20d864d7e8e
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: dc0a9633ea3726d53ccbca89da6f87e86144280e
+ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519114"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683547"
 ---
 # <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 
@@ -103,7 +103,7 @@ ms.locfileid: "49519114"
 |[電子文件探索匯出](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |否   |是   |否   |否   |是   |否  |是<sup>10</sup> |否<sup>4</sup>  |否<sup>4</sup>  |
 |[電子文件探索保留 (包括查詢式 電子文件探索保留)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1)  |否   |是   |否   |否   |是   |否  |是<sup>10</sup> |否<sup>4</sup>  |否<sup>4</sup>  |
 |[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |否   |否   |否   |否   |否   |否   |否   |否   |否   |
-|[Archiving](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)封存<sup>6</sup>  |否   |是   |否   |是   |是   |是<sup>10</sup> |是<sup>10</sup>  |否   |否   |
+|[](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)封存<sup>6</sup>  |否   |是   |否   |是   |是   |是<sup>10</sup> |是<sup>10</sup>  |否   |否   |
 |[基本審核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup>|是|是|是|是|是|是<sup>10</sup>|是<sup>10</sup>|否|否|
 |進階稽核|否|否|否|否|否|否|否|否|否|
 |[通訊合規性 (監察原則) ](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |否   |否   |否   |否   |否   |否   |否   |否   |否   |
@@ -135,7 +135,7 @@ ms.locfileid: "49519114"
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
-在由世紀運作的 Office 365 方案中，不提供安全性 & 合規性中心。
+「合規性中心」是由世紀運作之 Office 365 的 E3 計畫中提供的。
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 

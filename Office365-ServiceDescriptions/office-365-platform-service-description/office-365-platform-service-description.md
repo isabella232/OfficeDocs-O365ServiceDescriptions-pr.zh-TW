@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組織的需求。 如果您正在尋找方案（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
-ms.openlocfilehash: 805cb3c5c5e3ff197394b60d59a4c162792e27a7
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: b3e05549dea19a9f3f669ad085df27d41e0a5f71
+ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519124"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683517"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服務說明
 
@@ -187,6 +187,8 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 |Customer Lockbox  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |客戶金鑰<sup>14</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |Advanced eDiscovery<sup>15</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
+|基本審核<sup>22</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|高級審核<sup>22</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |Microsoft Secure 得分<sup>7</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |威脅情報  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |**[合規性](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
@@ -225,4 +227,5 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 <br/><sup>18</sup> 如需詳細資訊，請參閱 [MyAnalytics 方案和環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。
 <br/><sup>19</sup>包含 [azure active directory 定價](https://azure.microsoft.com/pricing/details/active-directory/)頁面上的 **Office 365 應用程式** 欄中所述的 Azure Active Directory 功能。 您必須加入 Azure Active Directory Plan 1 或 Plan 2、Enterprise Mobile Security 或 Microsoft 365 E3 或 E5 以取得 premium Azure AD 功能。<br/>
 <sup>20</sup> 簡報電子郵件會自動提供給 Exchange Online 的所有使用者。 如需詳細資訊，請參閱 [設定簡報電子郵件](https://docs.microsoft.com/Briefing/be-admin)。<br>
-<sup>21</sup> 使用者已提供 web 的「僅供查看」專案的存取權。 這些權力只會限制在 web 應用程式的專案中使用，而且只能用於具有專案方案1、專案方案3或專案方案5授權的承租人。 這些權力不會授與 Power Platform 應用程式或其他資料集、Project Online 桌面用戶端或 Project Online 的存取權。 如需詳細資訊，請參閱 [Microsoft Project service 描述](../project-online-service-description/project-online-service-description.md)。
+<sup>21</sup> 使用者已提供 web 的「僅供查看」專案的存取權。 這些權力只會限制在 web 應用程式的專案中使用，而且只能用於具有專案方案1、專案方案3或專案方案5授權的承租人。 這些權力不會授與 Power Platform 應用程式或其他資料集、Project Online 桌面用戶端或 Project Online 的存取權。 如需詳細資訊，請參閱 [Microsoft Project service 描述](../project-online-service-description/project-online-service-description.md)。<br/>
+<sup>22</sup> 在 microsoft 365 中的審計可讓組織深入瞭解 microsoft 365 中的不同服務所進行的各種審核活動類型。 使用 [安全性與 &amp; 合規性中心](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 審核記錄搜尋，以查看組織中的使用者和系統管理員活動。 您也可以使用 [Office 365 管理活動 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) ，從統一的審計記錄檔中取得事件。 當使用者或系統管理員執行已審核的活動時，會產生一個審計記錄，並將其儲存在客戶組織的審計記錄檔中。 在審核記錄) 中，保留審計記錄的時間長度 (及可供搜尋，取決於客戶的 Office 365 或 Microsoft 365 企業版訂閱，以及指派給特定使用者的授權類型。
