@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: 64a403f935450e9b3500e352acb1dfa7f9717aeb
-ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
+ms.openlocfilehash: 4618e4ddb7bb9225f94bb1f40f33a3c41bc09ee5
+ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683557"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "49709751"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -60,19 +60,6 @@ Microsoft 不直接營運此項服務。 由 21Vianet 營運、提供並管理�
 ## <a name="system-requirements"></a>系統需求
 
 如需適用於 Office 365 的系統需求，請參閱 [office.com](https://products.office.com/office-system-requirements/#Office365forBEG) 產品網站上的 [Office 的系統需求](https://www.office.com)。
-
-## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
-
-Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組織的合規性需求。 以下是由世紀運作的計畫提供的相容性中心的解決方案：
-
-- 資料外洩防護 (DLP)
-- 保留
-- 稽核
-- Microsoft 資訊保護 (MIP) 
-
-請參閱個別的解決方案詳細資料，以瞭解在由世紀運作的計畫中提供的確切功能集合。
-
-若要深入瞭解 Microsoft 規範中心，請按一下 [這裡](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)。
 
 ## <a name="platform-features"></a>平台功能
 
@@ -761,7 +748,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |Microsoft Office 用戶端連線|是|是|是|是|是|是|是|
 |跨瀏覽器支援|是|是|是|是|是|是|是|
 |自訂管理路徑|否|否|否|否|否|否|否|
-|治理|是|是|是|是|是|是|是|
+|控管|是|是|是|是|是|是|是|
 |混合式應用程式啟動器|是|是|是|是|是|是|是<sup>15</sup>|
 |混合式 OneDrive 商務和網站|是|是|是|是|是|是|是<sup>15</sup>|
 |大量清單延展性和管理|是|是|是|是|是|是|是|
