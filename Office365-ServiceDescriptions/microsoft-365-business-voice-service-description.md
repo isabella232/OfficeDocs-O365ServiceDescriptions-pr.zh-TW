@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商務語音是一項增益集服務，可讓您使用 Microsoft 小組進行電話通話。 這會結合電話系統、國內通話方案、SMS 和音訊會議。
-ms.openlocfilehash: 2f1f25dba03016ee9da086a8819394b1eab8691c
-ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
+ms.openlocfilehash: b1b547e7b02865136774e555f33be8e5750de4d4
+ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49624544"
+ms.lasthandoff: 12/23/2020
+ms.locfileid: "49730741"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 商務版語音服務描述
 
@@ -43,30 +43,30 @@ Microsoft 365 商務語音可搭配下列訂閱和高達300授權：
 ## <a name="microsoft-365-business-voice-features"></a>Microsoft 365 商務語音功能
 
 | 功能 | Microsoft 365 商務語音 | 未通話方案的 Microsoft 365 商務語音 |
-|--------------------------------------------------------|----------------------------------|-------------------------------------------------------|
-| 本機號碼                                          | 是                              | 是                                                   |
-| 通話 VoIP                                           | 是                              | 是                                                   |
-| 自動語音應答                                        | 是                              | 是                                                   |
-| 通話佇列                                             | 是                              | 是                                                   |
-| 來電顯示                                              | 是                              | 是                                                   |
-| 通話路由                                           | 是                              | 是                                                   |
-| 緊急電話                                      | 是                              | 是                                                   |
-| 使用動態位置進行緊急通話                | 是                              | 是                                                   |
-| 語音信箱                                             | 是                              | 是                                                   |
-| 通話駐留                                              | 是                              | 是                                                   |
-| 來電轉接                                        | 是                              | 是                                                   |
-| 呼叫委派 (與代理人共用電話線)    | 是                              | 是                                                   |
-| 等候音樂                                          | 是                              | 是                                                   |
-| 通話封鎖                                             | 是                              | 是                                                   |
-| 自動語音應答擴充撥號                       | 是                              | 是                                                   |
-| 自動語音應答/通話佇列傳送至共用語音信箱 | 是                              | 是                                                   |
-| 多語系互動語音回應 (IVR)           | 是                              | 是                                                   |
-| 通話原則                                         | 是                              | 是                                                   |
-| 國內通話方案                                  | 是                              | 是                                                    |
-| 免費撥號\*                                    | 是                              | 是                                                    |
-| 國際通話方案\*                           | 是                              | 是                                                    |
-| 音訊會議                                     | 是                              | 否<sup>1</sup>                                                   |
+|--------------------------------------------------------|------------------------------|---------------------------------------------------|
+| 本機號碼 | 是 | 是的<sup>*</sup> |
+| 通話 VoIP | 是 | 是的<sup>*</sup> |
+| 自動語音應答 | 是 | 是的<sup>*</sup> |
+| 通話佇列 | 是 | 是的<sup>*</sup> |
+| 來電顯示 | 是 | 是的<sup>*</sup> |
+| 通話路由 | 是 | 是的<sup>*</sup> |
+| 緊急電話 | 是 | 是的<sup>*</sup> |
+| 使用動態位置進行緊急通話 | 是 | 是的<sup>*</sup> |
+| 語音信箱 | 是 | 是的<sup>*</sup> |
+| 通話駐留 | 是 | 是的<sup>*</sup> |
+| 來電轉接 | 是 | 是的<sup>*</sup> |
+| 呼叫委派 (與代理人共用電話線)  | 是 | 是的<sup>*</sup> |
+| 等候音樂 | 是 | 是的<sup>*</sup> |
+| 通話封鎖 | 是 | 是的<sup>*</sup> |
+| 自動語音應答擴充撥號 | 是 | 是的<sup>*</sup> |
+| 自動語音應答/通話佇列傳送至共用語音信箱 | 是 | 是的<sup>*</sup> |
+| 多語系互動語音回應 (IVR)  | 是 | 是的<sup>*</sup> |
+| 通話原則 | 是 | 是的<sup>*</sup> |
+| 國內通話方案 | 是 | 需要協力廠商通話方案 |
+| 免費撥號<sup>**</sup> | 是 | 需要協力廠商通話方案 |
+| 國際通話方案<sup>**</sup> | 是 | 需要協力廠商通話方案 |
+| 音訊會議 | 是 | 是 |
 
-<sup>1</sup>與協力廠商提供的通話方案搭配使用。
+<sup>*</sup> 與協力廠商提供的通話方案搭配使用。
 
-\* 免付費撥號和國際通話方案是使用 [通訊學分](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)以額外成本提供。 若要深入瞭解，請參閱 [免付費電話撥號](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) 和 [國際通話費率](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)。
+<sup>**</sup> 免付費撥號和國際通話方案是使用 [通訊學分](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)以額外成本提供。 若要深入瞭解，請參閱 [免付費電話撥號](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) 和 [國際通話費率](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)。
