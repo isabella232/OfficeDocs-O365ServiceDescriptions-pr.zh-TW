@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全性與 &amp; 合規性中心的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-ms.openlocfilehash: 972ead8dd3cb7411355d215a3a77f597a24461b9
-ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
+ms.openlocfilehash: 4537008977f19ef947ea0bae9a4164cfbe9991d4
+ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/23/2020
-ms.locfileid: "49730721"
+ms.lasthandoff: 12/31/2020
+ms.locfileid: "49740964"
 ---
 # <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 
@@ -30,21 +30,19 @@ ms.locfileid: "49730721"
 | 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Microsoft 365 商務進階版 | Office 365 E1，Office 365 美國政府版 G1 | Office 365 E3，Office 365 美國政府版 G3 | Office 365 E5 | Office 365 F3，Office 365 美國政府（F3）|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[存取安全性與合規性中心](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |
-|[資料遺失防護，適用于 Exchange online、SharePoint 線上，以及 Business](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1，3</sup>的 OneDrive |否   |是  |是   |否   |是   |是   |否   |
-|[手動敏感度標籤](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>4</sup> | 否 | 否  |否   | 是 | 是 | 是 | 否  |
+|[資料遺失防護，適用于 Exchange online、SharePoint 線上及 OneDrive （適用于 Business](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)<sup>2</sup> ） | 否 | 否  |否   | 是 | 是 | 是 | 否  |
+|[手動敏感度標籤](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>3</sup> | 否 | 否  |否   | 是 | 是 | 是 | 否  |
 |[電子文件探索案例](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |是   |是   |是   |是   |是   |是   |是   |
 |[電子文件探索保留 (包括查詢式 電子文件探索保留)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |否   |否   |否  |否   |是   |是   |否   |
 |[電子文件探索匯出](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |否   |否   |否   |否   |是   |是   |否   |
-|[基本審核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>2</sup> |是   |是   |是|是   |是   |是   |是   |
+|[基本審核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>1</sup> |是   |是   |是|是   |是   |是   |是   |
 |[Office 365 郵件加密 (OME) 基本](https://docs.microsoft.com/microsoft-365/compliance/ome)  |否   |否   |否   |否   |是  |是   |否   |
 
-<sup>1</sup> 包括儲存在 Microsoft 團隊存放庫中的檔案。
+<sup>1</sup> 除了 E5) 之外，所有包含基本 (審核的計畫的審計記錄會保留90天。 因為 E5 包含高級審計，所以審計記錄會保留最多一年。 此外，您也可以使用 [Office 365 管理活動 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) ，從統一的審計記錄檔中取得事件。
 
-<sup>2</sup> 包含基本 (審核的所有方案（E5) 除外）的審計記錄檔會在90天內保留。 因為 E5 包含高級審計，所以審計記錄會保留最多一年。 此外，您也可以使用 [Office 365 管理活動 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) ，從統一的審計記錄檔中取得事件。
+<sup>2</sup> 需要 Office 365 資料遺失防護附加元件。
 
-<sup>3</sup> 需要 Office 365 資料遺失防護附加元件。
-
-<sup>4</sup> 敏感度標籤也包含在 Azure 資訊保護 P1 和 P2 中。
+<sup>3</sup> 在 Azure 資訊保護 P1 和 P2 中也會包含靈敏度標籤。
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;獨立方案的安全性與合規性中心可用性
 
