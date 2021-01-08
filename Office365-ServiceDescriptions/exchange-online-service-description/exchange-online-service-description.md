@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
-ms.openlocfilehash: 32f3730cc53ab8c9e4de2752936c956e864f37f6
-ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
+ms.openlocfilehash: 7b43af4d2938eea638670f15d807cef53d963d1e
+ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601748"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780017"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -104,7 +104,7 @@ Microsoft 365 F1 不包括對 Exchange 信箱的許可權。 為了啟用完整�
 |自訂反惡意程式碼原則|是|是|是|是|是|是|是|是 <sup>7</sup>|
 |隔離 - 系統管理員管理|是|是|是|是|是|是|是|是 <sup>7</sup>|
 |隔離 - 使用者自我管理|否|否|是|是|是|是|是|是|
-|Microsoft Defender for Office 365|否|是|否|否|否|否|是|否|
+|適用於 Office 365 的 Microsoft Defender|否|是|否|否|否|否|是|否|
 |**[郵件流程](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商務基本版**|**Microsoft 365 商務標準版**|**Office 365 企業版 E1**|**Office 365 企業版 E3**|**Office 365 企業版 E5**|**Office 365 企業版 F3**|
 |自訂輸出郵件的路由|是|是|是|是|是|是|是|是|
 |與信任的合作夥伴間的安全傳訊|是|是|是|是|是|是|是|是|
@@ -166,7 +166,7 @@ Microsoft 365 F1 不包括對 Exchange 信箱的許可權。 為了啟用完整�
 |**[互通性、連線能力和相容性](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商務基本版**|**Microsoft 365 商務標準版**|**Office 365 企業版 E1**|**Office 365 企業版 E3**|**Office 365 企業版 E5**|**Office 365 企業版 F3**|
 |OWA 和 Outlook 中的商務用 Skype 顯示狀態|是|是|是|是|是|是|是|是|
 |SharePoint 互通性|是|是|是|是|是|是|是|是|
-|EWS 連線支援|是|是|是|是|是|是|是|否|
+|EWS 連線支援<sup>26</sup>|是|是|是|是|是|是|是|是|
 |SMTP 轉送支援|是|是|是|是|是|是|是|是|
 |**[Exchange Online 設定與管理](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商務基本版**|**Microsoft 365 商務標準版**|**Office 365 企業版 E1**|**Office 365 企業版 E3**|**Office 365 企業版 E5**|**Office 365 企業版 F3**|
 |Microsoft Office 365 入口網站存取|否|否|是|是|是|是|是|是|
@@ -202,7 +202,8 @@ Microsoft 365 F1 不包括對 Exchange 信箱的許可權。 為了啟用完整�
 <sup>22</sup> 如需詳細資訊，請參閱 [Service Encryption with Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
 <sup>23</sup> 透過從客戶運作 SBCs 直接連線到協力廠商 PBX 系統的 EXCHANGE Online UM 支援會在2019年4月結束。 如需詳細資訊，請參閱 exchange [Online 整合通訊中的 exchange 小組博客終止支援會話邊界控制器](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)。 <br/>
 <sup>24</sup> a F3 使用者無法將委派新增至自己的信箱，但他們可以存取另一個信箱 (包括共用信箱) 並執行已委派給它們的任何動作。<br/>
-<sup>25</sup> exchange server 2013 和 exchange server 2016 也需要 Microsoft 365 應用程式適用于企業訂閱。
+<sup>25</sup> exchange server 2013 和 exchange server 2016 也需要 Microsoft 365 應用程式適用于企業訂閱。<br/>
+<sup>26</sup> 個 ews 應用程式支援適用于 EWS 應用程式模擬。
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>各 Exchange Online 獨立方案中可用的功能
 
@@ -298,7 +299,7 @@ Microsoft 365 F1 不包括對 Exchange 信箱的許可權。 為了啟用完整�
 |**[互通性、連線能力和相容性](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 &nbsp; 1**|**Exchange Online 計畫 &nbsp; 2**|**Exchange Online Kiosk**|
 |OWA 和 Outlook 中的商務用 Skype 顯示狀態|是|是|是|是|是|
 |SharePoint 互通性|是|是|是|是|是|
-|EWS 連線支援|是|是|是|是|是|
+|EWS 連線支援<sup>26</sup>|是|是|是|是|是|
 |SMTP 轉送支援|是|是|是|是|是|
 |**[Exchange Online 設定與管理](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 方案 &nbsp; 1**|**Exchange Online 計畫 &nbsp; 2**|**Exchange Online Kiosk**|
 |Microsoft Office 365 入口網站存取|否|否|是|是|是|
@@ -335,4 +336,5 @@ Microsoft 365 F1 不包括對 Exchange 信箱的許可權。 為了啟用完整�
 <sup>22</sup> 對於 eDiscovery，您需要針對內部部署與雲端使用個別查詢。 <br/>
 <sup>23</sup> Exchange Online 展臺不會提供與內部部署伺服器的使用方式存取權。 為相容性，客戶必須購買或先前購買適當的 Cal，或升級至提供這些訪問權力的 Enterprise SKU。 <br/>
 <sup>24</sup> 個可用的功能的 Microsoft 365 群組。<br/>
-<sup>25</sup> exchange server 2013 和 exchange server 2016 也需要 Microsoft 365 應用程式適用于企業訂閱。
+<sup>25</sup> exchange server 2013 和 exchange server 2016 也需要 Microsoft 365 應用程式適用于企業訂閱。<br/>
+<sup>26</sup> 個 ews 應用程式支援適用于 EWS 應用程式模擬。

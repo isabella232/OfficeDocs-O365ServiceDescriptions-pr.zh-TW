@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 3e887ef28db0d6c806984170815c432d82573921
-ms.sourcegitcommit: d45565d6573db8368c5fcff70c585559c77f3485
+ms.openlocfilehash: 04ff448cd45ed81b17ed230547462c80d8c47669
+ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49654967"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49779987"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -37,7 +37,7 @@ Azure Active Directory Identity Protection 是 Azure Active Directory Premium P2
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-具有 E1 和 E3 授權的客戶將只能存取預設的資料保護基準評估。 使用 Office 365 E5/A5 和 Microsoft 365 E5/A5 授權的客戶 (法規遵從性、資訊保護 & 控管，以及 eDiscovery 和審計 SKUs 所包含的) 將可以存取資料保護基準、GDPR、NIST 800-53 及 ISO 27001 現成評估。 自訂評估功能和特優評估是針對 Office 365 E5/A5 和 Microsoft 365 E5/A5 客戶保留。 您可以使用特優評估，在2021的上半年和 VL、CSP 和 WebDirect 時進行購買。 
+具有 E1 和 E3 授權的客戶將只能存取預設的資料保護基準評估。 使用 Office 365 E5/A5 和 Microsoft 365 E5/A5 授權的客戶 (法規遵從性、資訊保護控管和 &amp; eDiscovery 及審核 SKUs 所包含) 將可以存取資料保護基準、GDPR、NIST 800-53 及 ISO 27001 現成評估。 自訂評估功能和特優評估是針對 Office 365 E5/A5 和 Microsoft 365 E5/A5 客戶保留。 您可以使用特優評估，在2021的上半年和 VL、CSP 和 WebDirect 時進行購買。  
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -321,8 +321,8 @@ Microsoft 提供可在 Microsoft 365 規範中心內設定的協力廠商資料�
 下列授權可為使用者提供的許可權，以受益于資料連線器：
 
 - Microsoft 365 E5/A5
-- Microsoft 365 E5/A5 Info Protection & 控管
-- Microsoft 365 E5/A5 規範
+- Microsoft 365 E5/A5 資訊保護和控管
+- Microsoft 365 E5/A5 合規性
 - Microsoft 365 E5/A5 內幕人士風險管理
 - Microsoft 365 E5/A5 eDiscovery 和 Audit
 - Office 365 E5/A5
@@ -351,7 +351,7 @@ Microsoft 提供可在 Microsoft 365 規範中心內設定的協力廠商資料�
 您將需要下列其中一個 E5 授權，才能在小組聊天中取得 DLP 保護的支援：
 
 - Microsoft 365 E5/A5
-- Microsoft 365 E5/A5 規範
+- Microsoft 365 E5/A5 合規性
 - Microsoft 365 E5/A5 資訊保護和控管
 - Office 365 E5/A5 
 

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender for Office 365 服務說明
+title: 適用於 Office 365 的 Microsoft Defender 服務描述
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 是一項雲端式電子郵件篩選服務，可協助您的組織抵禦未知的惡意程式碼和病毒，方法是提供強健的零日保護，並提供一些功能，以即時保護您的組織不受有害連結。
-ms.openlocfilehash: 1d99b59e089ecb351d436c49a4f4e3986aefa6cd
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: fd2869eb98b64fca4f241339497486a392815402
+ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519024"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780007"
 ---
-# <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defender for Office 365 服務說明
+# <a name="microsoft-defender-for-office-365-service-description"></a>適用於 Office 365 的 Microsoft Defender 服務描述
 
 Microsoft Defender for Office 365 是一項雲端式電子郵件篩選服務，可協助您的組織抵禦未知的惡意程式碼和病毒，方法是提供強健的零日保護，並提供一些功能，以即時保護您的組織不受有害連結。 Office 365 的 Defender 具備豐富的報告及 URL 追蹤功能，可讓系統管理員深入瞭解組織中發生的攻擊類型。
 
@@ -94,10 +94,13 @@ Office 365 的 Defender 可搭配任何 SMTP 郵件傳輸代理程式使用，�
 |威脅調查 (高級威脅調查) |[即時偵測](#real-time-detections)|[總管](#explorer)|[總管](#explorer)|
 |[自動化的事件回應](#automated-incident-response)|否|是|是|
 |[攻擊模擬器](#attack-simulator)|否|是|是|
-|*與 Microsoft 365 Defender 整合*|否|否|是|
+|*與 Microsoft 365 Defender 整合*|否|是|是|
 
 > [!TIP]
-> 想要在 Office 365 方案1和方案2的 Defender 之間下載差異清單？ [取得 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。 
+> 想要在 Office 365 方案1和方案2的 Defender 之間下載差異清單？ [取得 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
+
+> [!NOTE]
+> 如果您租使用者只有 Office ATP P2 試用版授權或 Office 365 E5 試用版授權，但沒有其他適用于 Microsoft 威脅防護的合格授權，您將無法存取 Microsoft 威脅防護。 若要深入瞭解 MTP 授權，請參閱 <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites>
 
 ## <a name="defender-for-office-365-capabilities"></a>Office 365 的 Defender 功能
 

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是一種靈活的線上方案，可用於專案產品群組管理 (PPM) 和日常工作。 透過 Office 365 傳遞，Project Online 可提供強大的專案管理功能，以用於規劃、排定專案與專案組合的投資，甚至幾乎任何裝置上幾乎都沒有任何地方。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: c00ab33ada0de493a0e1f79c898f735824f9e7d9
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+ms.openlocfilehash: af4e8aa7a7ea7adcabb2e4e6b9b8ad8040f5d03c
+ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411592"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780027"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -27,7 +27,7 @@ ms.locfileid: "49411592"
 Microsoft Project 提供下列應用程式，協助滿足您組織的專案和工作管理的需求：
 
 - Project 網頁版
-- Project Online 
+- Microsoft Project Online 
 - Project Online 桌面用戶端
 
 本文將協助您瞭解每個專案訂閱中提供的應用程式，以及每個應用程式提供的功能。
@@ -36,11 +36,11 @@ Microsoft Project 提供下列應用程式，協助滿足您組織的專案和�
 
 Web 的專案是 Microsoft 最近針對雲端架構工作和專案管理提供的服務。 Web 的專案提供簡單且強大的工作管理功能，以符合大多數需求和角色。 專案經理和小組成員可以使用 Web 專案來規劃及管理任何規模的工作。
 
-Web 的專案是以 Microsoft Power 平臺為基礎。 [電源平臺] 包括 PowerApps、電源自動化、Power BI 及一般資料服務 (CD) 。 Web 資料的專案儲存在 CD 中。 
+Web 的專案是以 Microsoft Power 平臺為基礎。 電源平臺包括 PowerApps、電源自動化、Power BI 及 Microsoft Dataverse。 Web 資料的專案儲存在 Microsoft Dataverse 中。 
 
 可透過三個訂閱取得 web 的專案：專案方案1、專案方案3及專案方案5。 [Web 功能](#project-for-the-web-features)區段之專案中所列的功能只會與 web 資料存放區之專案中的資料進行互動。
 
-### <a name="project-online"></a>Project Online
+### <a name="project-online"></a>Microsoft Project Online
  
 Project Online 是一種靈活的線上方案，可用於專案產品群組管理 (PPM) 和日常工作。 Project Online 可提供強大的專案管理功能，以在 &mdash; 幾乎任何裝置上的幾乎任何地方規劃、排序及管理專案與專案產品群組的投資。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
 
@@ -48,16 +48,16 @@ Project Online 是在 SharePoint 平臺上建立，它會將資料儲存在 Shar
 
 Project Online 可透過兩種訂閱進行：專案計劃3和專案方案5。 [ [Project online 功能](#project-online-features) ] 區段中所列的功能只會與 project online 中的資料 SharePoint 資料儲存區互動。
 
-Project online 的小組成員功能可透過 Project Online Essentials 訂閱取得。 Project Online 基本版是 *add-on*   具有 Project 方案3或 Project 方案5訂閱之客戶的小組成員附加元件訂閱。 它可讓小組成員的 web 介面，對 Project Online 中管理的專案執行工作和時間更新。
+Project Online 的小組成員功能可透過 Project Online 基本版或 Project 方案1訂閱取得。 Project Online 基本版是具有 Project 方案3或 Project 方案5訂閱之客戶的小組成員 *附加* 元件訂閱。 Project Online 基本版與 Project 方案1訂閱可讓小組成員的 web 介面，對 Project Online 中管理的專案執行工作和時間更新。
 
-具有 Project Online 基本版的小組成員可以執行下列 Project Online 功能：
+具有 Project Online 基本版或 Project 方案1的小組成員訂閱可以執行下列 Project Online 功能：
 
 - 使用網路型介面
 - 更新工作、問題及風險
 - 提交時程表
 - 共用檔，並與 Microsoft 團隊或商務用 Skype 使用者共同作業
 
-Project Online 基本版不包含 web 的專案。
+Project Online 基本版不包含 web 的專案。 專案計劃1包含用於 web 的專案。
 
 ### <a name="project-online-desktop-client"></a>Project Online 桌面用戶端
 
@@ -80,7 +80,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以最符合貴組織�
 |產品 | 方案 1 | 方案3 | 方案5 |
 |--------|-----------------------------|------------------------|------------------------|
 |Project 網頁版 |**x**  | **x x** | **x x** |
-|Project Online | |**x x**| **x x x** |
+|Microsoft Project Online |**x** |**x x**| **x x x** |
 |Project Online 桌面用戶端 | |**x**|**x**|
 
 在上表中， (**x**) 的檢查數目會指出方案所提供的一般功能層級。 例如，針對 Project Online，方案5提供的功能比方案3多。
@@ -190,7 +190,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以最符合貴組織�
 |使用者管理 | 管理專案、小組和組織層級的使用者和群組角色和許可權。 | 否 | 是 |
 |服務管理 | 規劃、安裝及設定、維護和擴充您的 Microsoft Project 環境做為 Office 365<sup>1</sup> 環境的一部分。 | 否 | 是 |
 
-#### <a name="notes"></a>附註
+#### <a name="notes"></a>注意事項
 
 <sup>1</sup> 需要 Office 或 Microsoft 365 商務版訂閱。</br>
 <sup>2</sup> 獨立購買 Azure 板卡。</br>
@@ -242,7 +242,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以最符合貴組織�
 |排序和群組 | 使用自訂排序和群組可取得專案、任務和資源的焦點視圖。|
 |**自訂和整合**||
 |自訂欄位 | 在專案、任務及資源層級新增自訂欄位，以追蹤對您的組織及專案非常重要的資料。 |
-|Forms | 建立及部署自訂表單，以捕獲重要的專案資料。 |
+|表單 | 建立及部署自訂表單，以捕獲重要的專案資料。 |
 |公式 | 使用跨任務和專案的公式，計算及捕獲重要的資料。 |
 |範本 | 建立常見專案（包括專案計劃、小組和工作分派）的範本。 |
 |mpp 匯入/匯出 | 從現有的 mpp 檔案建立新專案，或建立現有專案的 mpp 檔案。 |
@@ -255,10 +255,11 @@ Microsoft Project 可透過三種不同的訂閱取得，以最符合貴組織�
 
 ### <a name="licensing-considerations"></a>授權考量
 
-- 在 Project Online 網站上的任何互動，都需要專案方案3或專案方案5訂閱。
-- 當您的最後一個專案方案1、專案計劃3或 Project 方案5訂閱到期時，您的網頁實例專案將會在120天之後刪除。
+- 在 Project Online 網站上的任何互動，都至少需要租使用者內的專案計劃3或專案方案5訂閱。
+- 當您的最後一個專案方案1、專案計劃3或 Project 方案5訂閱到期時，您的網頁實例專案將不會自動刪除，除非您沒有依存于 Microsoft Dataverse 的使用中訂閱。
 - 當您的最後一個專案計劃3或 Project 方案5訂閱到期時，Project Online 實例將會在120天之後刪除。
-- 針對 web 和 Project Online 試用訂閱的 Project，試用期會在試用期結束30天之後刪除。
+- 若為 Project Online 試用訂閱，試用期會在試用期結束30天之後刪除。
+- 對於 web 試用訂閱的 Project，除非您沒有依存于 Microsoft Dataverse 的使用中訂閱，否則不會刪除您的試用實例。
 
 ### <a name="use-of-sharepoint-online"></a>SharePoint Online 的使用
 
@@ -268,9 +269,9 @@ Project Online 需要使用線上 SharePoint，其已布建為 Project Online �
 
 專案藍圖需要使用 Power 自動功能（已布建為專案訂閱的一部分）。 權力自動功能的權力，只限于專案藍圖所需的電源自動功能。 在 Microsoft 365 系統管理中心的 [**應用程式**] 區段中，[專案藍圖] 所需的 Power 自動化功能，會顯示為具有流程服務方案之 **專案的資料整合**。
 
-### <a name="project-for-the-web-and-common-data-service"></a>Web 和一般資料服務的專案
+### <a name="project-for-the-web-and-microsoft-dataverse"></a>Web 和 Microsoft Dataverse 的專案
 
-Web 的專案需要使用通用資料服務 (CD) 儲存其資料。 將 CD 布建為專案訂閱的一部分。 CD 功能的權利限制于儲存和存取資料，以支援 web 的專案。 專案所需的 CD 功能會在 Microsoft 365 系統管理中心的 [**應用程式**] 區段中顯示為 project Service Plan 的 **一般資料服務**。
+Web 的專案需要使用 Microsoft Dataverse 儲存其資料。 Microsoft Dataverse 資料庫已布建為專案訂閱的一部分。 Microsoft Dataverse 功能的權利限制于儲存和存取資料，以支援 web 的專案。 Microsoft Dataverse 所需的功能會在 Microsoft 365 系統管理中心的 [**應用程式**] 區段中顯示為 project Service Plan 的 **一般資料服務**。
 
 ### <a name="data-backup-and-retention"></a>資料備份和保留
 
