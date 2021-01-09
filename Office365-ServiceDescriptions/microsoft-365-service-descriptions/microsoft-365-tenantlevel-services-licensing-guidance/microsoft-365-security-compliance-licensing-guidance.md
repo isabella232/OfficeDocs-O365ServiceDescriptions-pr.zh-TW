@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 04ff448cd45ed81b17ed230547462c80d8c47669
-ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
+ms.openlocfilehash: ef31f5c9b833163434e6df224b6f8bf8bd462155
+ms.sourcegitcommit: 58befa733e889d34e2f7598ccf894cc8a60dcea0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49779987"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "49786855"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -37,7 +37,7 @@ Azure Active Directory Identity Protection 是 Azure Active Directory Premium P2
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-具有 E1 和 E3 授權的客戶將只能存取預設的資料保護基準評估。 使用 Office 365 E5/A5 和 Microsoft 365 E5/A5 授權的客戶 (法規遵從性、資訊保護控管和 &amp; eDiscovery 及審核 SKUs 所包含) 將可以存取資料保護基準、GDPR、NIST 800-53 及 ISO 27001 現成評估。 自訂評估功能和特優評估是針對 Office 365 E5/A5 和 Microsoft 365 E5/A5 客戶保留。 您可以使用特優評估，在2021的上半年和 VL、CSP 和 WebDirect 時進行購買。  
+使用 Office 365 E5/A5 和 Microsoft 365 E5/A5 授權的客戶，將可以存取資料保護基準、GDPR、NIST 800-53，以及 ISO 27001 現成評估，以及使用自訂評估功能。 在第一半的2021內，可購買 Office 365 E5/A5 和 Microsoft 365 E5/A5 客戶的超值評估。 他們將可透過 VL、CSP 和 WebDirect 購買。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -189,7 +189,7 @@ Azure AD P1 為使用者提供的權力，可從 MCAS 中的探索功能中受�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-使用 Office 365 E5/A5 和 Microsoft 365 E5/A5 授權的客戶，將可以存取資料保護基準、GDPR、NIST 800-53，以及 ISO 27001 現成評估，以及使用自訂評估功能。 在第一半的2021內，可購買 Office 365 E5/A5 和 Microsoft 365 E5/A5 客戶的超值評估。 他們將可透過 VL、CSP 和 WebDirect 購買。
+具有 E1 和 E3 授權的客戶將只能存取預設的資料保護基準評估。 使用 Office 365 E5/A5 和 Microsoft 365 E5/A5 授權的客戶 (法規遵從性、資訊保護控管和 &amp; eDiscovery 及審核 SKUs 所包含) 將可以存取資料保護基準、GDPR、NIST 800-53 及 ISO 27001 現成評估。 自訂評估功能和特優評估是針對 Office 365 E5/A5 和 Microsoft 365 E5/A5 客戶保留。 您可以使用特優評估，在2021的上半年和 VL、CSP 和 WebDirect 時進行購買。 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -290,9 +290,9 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 資訊保護
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 資訊保護和控管，Office 365 E5/A5，Office 365 的「高級法規遵從性」為使用者提供的許可權可讓使用者受益于記錄管理，包括宣告專案為記錄、自動套用保留或記錄標籤，以及執行處置審閱程式 (排除以 trainable 的分類器) 自動套用保留
+Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 相容性，Microsoft 365 資訊保護和控管，Office 365 E5/A5/G5，Office 365 Advanced 規章為使用者提供的許可權可讓使用者受益于記錄管理，包括宣告專案為記錄或法規記錄、自動套用保留或記錄標籤，以及執行處置審閱程式 (排除以 trainable 的分類器) 自動套用保留標籤。
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 資訊保護和控管為使用者提供的權力，是根據 trainable 的分類器自動套用保留或記錄標籤。
+Microsoft 365 E5/A5、Microsoft 365 E5/A5 符合性，以及 Microsoft 365 資訊保護和控管為使用者提供的權力，是根據 trainable 的分類器自動套用保留或記錄標籤。
 
 如需授權的特定權利，請參閱詳細的 Microsoft 365 相容性授權比較。 [ (PDF) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -475,7 +475,7 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 相容性，Microsoft 365 資訊保護
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-Microsoft 365 A1/E3/A3/Business、Office 365 E3/A3 和 Office 365 資料遺失防護可為使用者提供許可權，365以供 Exchange Online、線上 SharePoint 和商務 OneDrive 使用。
+Microsoft 365 E3/A3/Business Premium，Office 365 E3/A3 和 Office 365 資料遺失防護可為使用者提供的許可權，以供 Exchange Online、線上 SharePoint 和商務 OneDrive 使用的 Office 365 DLP。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 

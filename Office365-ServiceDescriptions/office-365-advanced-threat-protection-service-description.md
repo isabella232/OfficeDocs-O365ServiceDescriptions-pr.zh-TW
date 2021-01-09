@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 是一項雲端式電子郵件篩選服務，可協助您的組織抵禦未知的惡意程式碼和病毒，方法是提供強健的零日保護，並提供一些功能，以即時保護您的組織不受有害連結。
-ms.openlocfilehash: fd2869eb98b64fca4f241339497486a392815402
-ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
+ms.openlocfilehash: 4bb1a39fd9369dd2c691a442c351f74c9f544b12
+ms.sourcegitcommit: 69bb27491ec44b1c4a01cec94a4e0f353c707593
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780007"
+ms.lasthandoff: 01/09/2021
+ms.locfileid: "49790437"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>適用於 Office 365 的 Microsoft Defender 服務描述
 
@@ -32,7 +32,7 @@ Microsoft Defender for Office 365 是一項雲端式電子郵件篩選服務，�
 
 ## <a name="microsoft-defender-for-office-365-availability"></a>Microsoft Defender for Office 365 可用性
 
-Office 365 的 Defender （方案2）包含在 Office 365 E5、Office 365 A5 和 Microsoft 365 E5。 Office 365 的 Defender （方案1）包含在 Microsoft 365 商務版 Premium 中。
+Microsoft Defender for Office 365 方案2隨附于 Office 365 E5、Office 365 A5、Microsoft 365 E5 安全性和 Microsoft 365 E5，如下所指定： [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) 。 Office 365 的 Defender （方案1）包含在 Microsoft 365 商務版 Premium 中。
 
 您可以將 Office 365 的 Defender 新增至下列 Exchange 和 Microsoft 365 訂閱計畫：
 
@@ -94,13 +94,10 @@ Office 365 的 Defender 可搭配任何 SMTP 郵件傳輸代理程式使用，�
 |威脅調查 (高級威脅調查) |[即時偵測](#real-time-detections)|[總管](#explorer)|[總管](#explorer)|
 |[自動化的事件回應](#automated-incident-response)|否|是|是|
 |[攻擊模擬器](#attack-simulator)|否|是|是|
-|*與 Microsoft 365 Defender 整合*|否|是|是|
-
-> [!TIP]
-> 想要在 Office 365 方案1和方案2的 Defender 之間下載差異清單？ [取得 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
+|*與 [Microsoft 365 Defender](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)整合*|否|是|是|
 
 > [!NOTE]
-> 如果您租使用者只有 Office ATP P2 試用版授權或 Office 365 E5 試用版授權，但沒有其他適用于 Microsoft 威脅防護的合格授權，您將無法存取 Microsoft 威脅防護。 若要深入瞭解 MTP 授權，請參閱 <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites>
+> 如果您的租使用者只有 Office 365 方案2試用版授權或 Microsoft 365 E5 試用版授權，但沒有其他適用于 Microsoft 365 Defender 的合格授權，您將無法存取 Microsoft 365 Defender。 若要深入瞭解，請參閱 [Microsoft 365 Defender 需求](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)。
 
 ## <a name="defender-for-office-365-capabilities"></a>Office 365 的 Defender 功能
 
@@ -161,11 +158,11 @@ Office 365 的 Defender 可搭配任何 SMTP 郵件傳輸代理程式使用，�
 
 ### <a name="real-time-reports"></a>即時報告
 
-安全性 & 合規性中心內可用的監控功能包括 [即時報告和深入](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) 資訊，讓您的安全性和合規性系統管理員關注高優先順序的問題，例如安全性攻擊或增加的可疑活動。 除了醒目提示問題之外，智慧報告和洞察力也包含建議和連結，以查看及流覽資料，也會快速採取動作。
+「安全性 & 合規性中心」 () 中提供的監控功能 [https://protection.office.com](https://protection.office.com) 包括 [即時報告和洞察力](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) ，可讓您的安全性和合規性問題著重于高優先順序問題，例如安全性攻擊或增加的可疑活動。 除了醒目提示問題之外，智慧報告和洞察力也包含建議和連結，以查看及流覽資料，也會快速採取動作。
 
 ### <a name="explorer"></a>總管
 
-總管 (也稱為威脅總管) 是即時的報告，可讓授權的使用者識別並分析最近的威脅。 根據預設，此報告會顯示過去 7 天的資料；不過，您可以修改檢視畫面以顯示過去 30 天的資料。
+總管 (也稱為威脅總管) 是即時的報告，可讓授權的使用者識別並分析最近的威脅。 根據預設，此報告會顯示過去7天的資料;不過，您可以修改視圖，以顯示過去30天的資料。
 
 Explorer 包含一些視圖，例如電子郵件和內容) 、提交、網路釣魚和所有電子郵件的惡意程式碼 (。 若要查看 Explorer 如何與即時偵測相比較，請 [下載此 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
 
@@ -173,7 +170,7 @@ Explorer 包含一些視圖，例如電子郵件和內容) 、提交、網路釣
 
 ### <a name="real-time-detections"></a>即時偵測
 
-即時偵測是即時的報告，可讓授權的使用者識別並分析最近的威脅。 與 [總管] 類似，根據預設，此報告顯示過去 7 天的資料。
+即時偵測是即時的報告，可讓授權的使用者識別並分析最近的威脅。 類似 Explorer，依預設，此報告會顯示過去7天的資料。
 
 即時偵測包含諸如電子郵件和內容) 、報送和網路釣魚的惡意程式碼 (的視圖。 若要查看即時檢測與瀏覽器的比較方式，請 [下載此 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
 
@@ -185,7 +182,7 @@ Explorer 包含一些視圖，例如電子郵件和內容) 、提交、網路釣
 
 ### <a name="automated-incident-response"></a>自動化的事件回應
 
-[自動化的事件回應](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-air) (適用于 Office 365 的 AIR) 功能。方案2讓您執行自動化調查程式，以回應目前存在的已知威脅。 透過自動化某些調查任務，您的安全性運作小組可以更有效率地運作。 修正動作（如刪除惡意電子郵件訊息）是由您的安全性運作小組核准。 若要深入瞭解，請參閱 [Office 365 中的 AIR 運作方式](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)。
+[自動化的事件回應](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-air) (適用于 Office 365 的 AIR) 功能。方案2讓您執行自動調查程式，以回應目前存在的已知威脅。 透過自動化某些調查任務，您的安全性運作小組可以更有效率地運作。 修正動作（如刪除惡意電子郵件訊息）是由您的安全性運作小組核准。 若要深入瞭解，請參閱 [Office 365 中的 AIR 運作方式](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)。
 
 ### <a name="attack-simulator"></a>攻擊模擬器
 
