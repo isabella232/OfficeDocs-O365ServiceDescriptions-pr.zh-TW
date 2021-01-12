@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是一種靈活的線上方案，可用於專案產品群組管理 (PPM) 和日常工作。 透過 Office 365 傳遞，Project Online 可提供強大的專案管理功能，以用於規劃、排定專案與專案組合的投資，甚至幾乎任何裝置上幾乎都沒有任何地方。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: af4e8aa7a7ea7adcabb2e4e6b9b8ad8040f5d03c
-ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
+ms.openlocfilehash: efe500b4d141cdcf8a58c0613fd966c2b90e9ad3
+ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780027"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "49794969"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -272,6 +272,8 @@ Project Online 需要使用線上 SharePoint，其已布建為 Project Online �
 ### <a name="project-for-the-web-and-microsoft-dataverse"></a>Web 和 Microsoft Dataverse 的專案
 
 Web 的專案需要使用 Microsoft Dataverse 儲存其資料。 Microsoft Dataverse 資料庫已布建為專案訂閱的一部分。 Microsoft Dataverse 功能的權利限制于儲存和存取資料，以支援 web 的專案。 Microsoft Dataverse 所需的功能會在 Microsoft 365 系統管理中心的 [**應用程式**] 區段中顯示為 project Service Plan 的 **一般資料服務**。
+
+針對具有五個 (5) 或多個 web 授權專案的專案客戶，web 客戶的專案可以部署至 Power Platform 的實際執行環境和沙箱環境。
 
 ### <a name="data-backup-and-retention"></a>資料備份和保留
 

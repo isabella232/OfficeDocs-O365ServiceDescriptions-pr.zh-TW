@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 是一項雲端式電子郵件篩選服務，可協助您的組織抵禦未知的惡意程式碼和病毒，方法是提供強健的零日保護，並提供一些功能，以即時保護您的組織不受有害連結。
-ms.openlocfilehash: 4bb1a39fd9369dd2c691a442c351f74c9f544b12
-ms.sourcegitcommit: 69bb27491ec44b1c4a01cec94a4e0f353c707593
+ms.openlocfilehash: a049d8d1beb9f95cec02fbaf7276f305e382365c
+ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/09/2021
-ms.locfileid: "49790437"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "49794959"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>適用於 Office 365 的 Microsoft Defender 服務描述
 
@@ -97,7 +97,7 @@ Office 365 的 Defender 可搭配任何 SMTP 郵件傳輸代理程式使用，�
 |*與 [Microsoft 365 Defender](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)整合*|否|是|是|
 
 > [!NOTE]
-> 如果您的租使用者只有 Office 365 方案2試用版授權或 Microsoft 365 E5 試用版授權，但沒有其他適用于 Microsoft 365 Defender 的合格授權，您將無法存取 Microsoft 365 Defender。 若要深入瞭解，請參閱 [Microsoft 365 Defender 需求](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)。
+> 如果您租使用者只有 Office ATP P2 試用版授權或 Office 365 E5 試用版授權，但沒有其他適用于 Microsoft 威脅防護的合格授權，您將無法存取 Microsoft 威脅防護。 若要深入瞭解 MTP 授權，請參閱 <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites> 。
 
 ## <a name="defender-for-office-365-capabilities"></a>Office 365 的 Defender 功能
 
