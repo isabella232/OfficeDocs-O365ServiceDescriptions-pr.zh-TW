@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: ef31f5c9b833163434e6df224b6f8bf8bd462155
-ms.sourcegitcommit: 58befa733e889d34e2f7598ccf894cc8a60dcea0
+ms.openlocfilehash: 0971b241d486180bd406c8472fa1a2dbcb9cb873
+ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49786855"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49871136"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -37,7 +37,7 @@ Azure Active Directory Identity Protection 是 Azure Active Directory Premium P2
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
 
-使用 Office 365 E5/A5 和 Microsoft 365 E5/A5 授權的客戶，將可以存取資料保護基準、GDPR、NIST 800-53，以及 ISO 27001 現成評估，以及使用自訂評估功能。 在第一半的2021內，可購買 Office 365 E5/A5 和 Microsoft 365 E5/A5 客戶的超值評估。 他們將可透過 VL、CSP 和 WebDirect 購買。
+Enterprise 可移動性 + Security E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 Security 和 Azure Active Directory Premium 方案2為使用者提供從 Azure Active Directory 身分識別保護中受益的權利。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 

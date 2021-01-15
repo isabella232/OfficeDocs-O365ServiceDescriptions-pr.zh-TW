@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組織的需求。 如果您正在尋找方案（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
-ms.openlocfilehash: b3e05549dea19a9f3f669ad085df27d41e0a5f71
-ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
+ms.openlocfilehash: 5e0cbefa7b1bbc4e89f8b32086fc4e4534d3b5f3
+ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683517"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49871146"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服務說明
 
@@ -86,7 +86,7 @@ Microsoft 365 和 Office 365 可將雲端生產力的功能提供給各種規模
 
 - Office 365 Germany：[Office 365 Germany 方案](https://go.microsoft.com/fwlink/?linkid=839016)
     
-Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的附加元件。 附加元件可為訂閱提供額外的功能。 如需詳細資訊，請參閱 [購買或編輯附加](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)元件中的「可用於不同版本的 Microsoft 365 的附加元件」。
+Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的附加元件。 附加元件可為訂閱提供額外的功能。 如需詳細資訊，請參閱 [購買或管理](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)附件。
 <br><br>
   
 | 功能 | Microsoft 365 商務基本版 | Microsoft 365 Apps 商務版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 企業版 E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |

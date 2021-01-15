@@ -13,18 +13,20 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 和 Office 365 是雲端式服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。
-ms.openlocfilehash: 86fbb5db51b9416284bb07b330499137ce2ce15d
-ms.sourcegitcommit: 5fbf54f8cbd66db58772ce904d64482a70e0beae
+ms.openlocfilehash: 656624e78999eca65c7b24981a50fa203ea9c1c1
+ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49687884"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49871156"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服務描述 
 
 Microsoft 365 和 Office 365 是雲端式服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。 
   
-此文件庫中的主題提供 Microsoft 365 和 Office 365 提供之服務和功能的詳細說明。 若要跨方案比較功能，請參閱以下清單中的 [功能強大的工具來支援您的企業](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 或相關的服務描述。 
+此文件庫中的文章提供 Microsoft 365 和 Office 365 提供之服務和功能的詳細說明。 如需 Microsoft Dynamics 365 商務應用程式的詳細資訊，請參閱 [Microsoft dynamics 365 檔](https://docs.microsoft.com/dynamics365/)。
+
+若要跨方案比較功能，請參閱以下清單中的 [功能強大的工具來支援您的企業](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 或相關的服務描述。 
   
 如需支援文章和資訊，請參閱 [Office Help & 訓練](https://support.office.com/)、 [系統管理員和 it 專業人員的 office 檔](https://docs.microsoft.com/office/)，以及適用 [于系統管理員和 it 專業人員的 Microsoft 365 協助中心](https://docs.microsoft.com/microsoft-365/)。
   
@@ -47,7 +49,7 @@ Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTr
 
 - [Exchange Online 封存服務說明](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
 
-- [Microsoft Defender for Office 365 服務說明](office-365-advanced-threat-protection-service-description.md)
+- [適用於 Office 365 的 Microsoft Defender 服務描述](office-365-advanced-threat-protection-service-description.md)
 
 - [Microsoft Teams 服務描述](teams-service-description.md)
 
@@ -79,12 +81,9 @@ Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTr
 
 - [Microsoft 365 安全性與合規性的授權指引](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
-- [Microsoft Dynamics 365 (Online) 服務說明](microsoft-dynamics-365-online-service-description.md)
 
 > [!NOTE]
 > <sup>1</sup> 包含 [套件功能](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features)的可用性，例如 Office Delve、Microsoft MyAnalytics、Microsoft Sway 和 Microsoft Teams。
->
-> 如需 Microsoft 365 Dynamics 商務應用程式的詳細資訊，請參閱 <https://docs.microsoft.com/dynamics365/> 。
   
 ## <a name="disclaimer"></a>免責聲明
 
