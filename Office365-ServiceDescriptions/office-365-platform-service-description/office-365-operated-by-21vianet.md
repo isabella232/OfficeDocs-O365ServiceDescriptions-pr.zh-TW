@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: ea937b095550466e604b20e4eb5f943a6897bfa9
-ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
+ms.openlocfilehash: c1c6eba5c7778e11a13abf716bd51f3068f61696
+ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/31/2020
-ms.locfileid: "49740984"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49878706"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -60,6 +60,17 @@ Microsoft 不直接營運此項服務。 由 21Vianet 營運、提供並管理�
 ## <a name="system-requirements"></a>系統需求
 
 如需適用於 Office 365 的系統需求，請參閱 [office.com](https://products.office.com/office-system-requirements/#Office365forBEG) 產品網站上的 [Office 的系統需求](https://www.office.com)。
+
+## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
+Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組織的合規性需求。 以下是由世紀運作的計畫提供的相容性中心的解決方案：
+
+- 資料外洩防護 (DLP)
+- 保留
+- 稽核
+- Microsoft 資訊保護 (適用于 Office 用戶端和 Outlook 的 MIP) 和敏感度標籤。
+
+> [!NOTE]
+> 目前不支援 web 上的 SharePoint 線上和 Office 的靈敏度標籤。
 
 ## <a name="platform-features"></a>平台功能
 
@@ -522,7 +533,7 @@ Microsoft 不直接營運此項服務。 由 21Vianet 營運、提供並管理�
 > [!NOTE]
 > 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
 
-| 規劃 | 描述 |
+| 方案 | 說明 |
 |:-----|:-----|
 |**Exchange Server for Office 365 (21Vianet 運作的 Office 365) 的 Exchange Online 封存**|雲端型封存，適用於在 Exchange Server 2013 或 Exchange 2010 (SP2 或更新版本) 中有主要信箱的使用者。  <br/> 如果您想要將雲端型封存新增至位於內部部署 Exchange 伺服器的主要信箱，您需要設定混合部署。如需有關混合部署的詳細資訊，請參閱 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。  |
 |**Exchange Server for Office 365 (21Vianet 運作的 Office 365) 的 Exchange Online 封存**| 下列計劃已包含封存功能，不需要 Exchange Online Archiving做為附加元件：  <br/>  由 21Vianet 運作的 Office 365 A1  <br/>  由 21Vianet 運作的 Office 365 Enterprise E3  <br/>  由 21Vianet 運作的 Exchange Online Plan 2 for Office 365  <br/>  如需 Exchange Online 信箱封存功能的詳細資料，請參閱 [在 Exchange Online 中封存信箱](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview)。|

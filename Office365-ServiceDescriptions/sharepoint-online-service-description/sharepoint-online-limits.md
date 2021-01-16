@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 瞭解 Microsoft 365 和獨立方案的 SharePoint 限制。
-ms.openlocfilehash: 15acfde2ceb9a2ff62e2905c1796253a2117f7c1
-ms.sourcegitcommit: df00a1b12b1f5288fb756f1c002ec46ce6e0e5db
+ms.openlocfilehash: 8e8931c77f7ceda2b1aed90d4804f98355fd6caa
+ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48447340"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49878696"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -41,40 +41,27 @@ ms.locfileid: "48447340"
 
 ### <a name="items-in-lists-and-libraries"></a>清單和文件庫中的專案
 
-清單最多可包含30000000個專案，而文件庫最多可以有30000000個檔案和資料夾。 當清單、文件庫或資料夾包含超過100000個專案時，您就無法中斷清單、文件庫或資料夾的許可權繼承。 您也不能重新繼承其上的許可權。 不過，您仍然可以中斷該清單、文件庫或資料夾中個別專案的繼承，直到清單或文件庫中的唯一許可權數目上限 (請參閱下一節) 。 若要深入瞭解查看大型清單的其他限制，請參閱 [管理 Office 365 中的大型清單和文件庫](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)。 
+清單最多可包含30000000個專案，而文件庫最多可以有30000000個檔案和資料夾。 當清單、文件庫或資料夾包含超過100000個專案時，您就無法中斷清單、文件庫或資料夾的許可權繼承。 您也不能重新繼承其上的許可權。 不過，您仍然可以中斷該清單、文件庫或資料夾中個別專案的繼承，直到清單或文件庫中的唯一許可權數目上限 (請參閱下一節) 。 若要深入瞭解查看大型清單的其他限制，請參閱 [管理 Office 365 中的大型清單和文件庫](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)。
 
-> [!NOTE]
-> 網站上可以擁有的文件庫數目沒有限制。
+### <a name="unique-security-scopes-per-list-or-library"></a>每個清單或文件庫的唯一安全性範圍
 
-### <a name="unique-permissions-for-items-in-a-list-or-library"></a>清單或文件庫中專案的特定權限
-
-允許的限制50000是專屬許可權唯一的專案，但是建議的一般限制為5000。 若要變更超過5000的專案，請專屬許可權一次以上的專案。 針對大型清單，設計若盡可能具有少數獨特的許可權。
-
-另一個限制是每個唯一專屬許可權專案5000的角色指派。 
+針對大型清單，設計若具有盡可能少的獨特許可權，且總保留低於5000。
 
 ### <a name="file-size-and-file-path-length"></a>檔案大小及檔案路徑長度
 
-100 GB。 附加至清單專案的檔案大小上限為 250 MB。 若要深入瞭解使用新 OneDrive 同步處理應用程式時的限制和限制 ( # A0) ，請參閱 [不正確檔案名和檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+100 GB。 若要深入瞭解使用新 OneDrive 同步處理應用程式時的限制和限制 ( # A0) ，請參閱 [不正確檔案名和檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
 
 ### <a name="moving-and-copying-across-sites"></a>跨網站移動及複製
 
-在單一作業中複製/移動多個檔案具有三項需求： 
+在單一作業中複製/移動多個檔案具有三項需求：
 
-- 總檔案大小不得超過 100 GB 
+- 總檔案大小不得超過 100 GB
 - 不超過30000個檔案
-- 每個檔案必須小於 2 GB
+- 每個檔案都必須小於 15 GB
 
 ### <a name="sync"></a>Sync
 
-**目前 OneDrive 同步處理應用程式 ( # A0) ** -為了獲得最佳效能，建議您針對所有已同步處理的文件庫，儲存每個使用者的300000檔案，即使您使用的是必要的檔案，或是只選擇文件庫中的部分資料夾，也能進行同步處理。
-
-**OneDrive 舊版 Business sync app ( # A0-用於舊版內部部署 SharePoint 環境) ** -您最多可以同步處理所有已同步處理的文件庫總計的20000個專案。 這包括 OneDrive 文件庫、小組網站程式庫或兩者。 與整體同步處理限制分開時，每個文件庫類型可同步處理的專案數有限制：
-
-   - 您最多可以同步處理 OneDrive 程式庫中的20000個專案。 這包括資料夾及檔案。 
-   - 您最多可以同步處理 SharePoint 程式庫中的5000個專案。 這包括資料夾及檔案。 這些是您可以在各種 SharePoint 網站上找到的文件庫，例如小組網站和群組網站、其他人員建立或您從您的網站頁面建立的文件庫。 您可以同步處理多個 SharePoint 文件庫。 您同步處理的任何小組網站也會在所有同步處理的文件庫中，計算全部20000專案限制。
-
-> [!NOTE]
-> 如果使用者需要同步處理包含成百上千個檔案的文件庫中的檔案，您可以將資料夾的許可權層級設定為「限制讀取」，以從同步處理應用程式中「隱藏」資料夾。 
+為了達到最佳效能，建議您在單一 OneDrive 或小組網站文件庫中儲存不超過300000的檔案。 雖然 SharePoint 線上可以儲存每個文件庫的30000000檔，但為了獲得最佳效能，建議您在所有文件庫中同步處理不超過300000的檔案。 此外，如果您要同步處理所有文件庫中的300000或以上的專案，也可能會發生相同的效能問題，即使您不會同步處理這些文件庫中的所有專案。 如果您使用 OneDrive 舊版 Business sync 用戶端 ( # A0) ，則每個文件庫的同步限制為20000個專案 (包括每個小組網站) 的5000專案。
 
 ### <a name="versions"></a>版本
 
@@ -85,7 +72,7 @@ ms.locfileid: "48447340"
 使用者可以隸屬于每個網站的5000群組 (網站集合) ，且每個群組可以有最多5000個使用者。 每個網站 (網站集合) 最多可以有10000個群組。
 
 > [!NOTE]
-> 針對 Azure AD 群組限制，請參閱 [AZURE ad 服務限制和限制](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) ，因為這類限制可能會影響公用和私人群組網站成員資格管理。 
+> 針對 Azure AD 群組限制，請參閱 [AZURE ad 服務限制和限制](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) ，因為這類限制可能會影響公用和私人群組網站成員資格管理。
 
 ### <a name="managed-metadata"></a>受管理的中繼資料
 
@@ -95,28 +82,24 @@ ms.locfileid: "48447340"
 
 每個網站 1000 GB (中繼資料極少會達到此大小) 。
 
-### <a name="subsites"></a>式 
+### <a name="subsites"></a>式
 
 每個網站 2000 (網站集合) 。 我們建議您建立網站，並將其組織成中樞，而不是建立子網站。 如果您使用子網站，建議您限制其數目 (尤其是) 大量 trafficked 網站。
 
-> [!NOTE] 
+> [!NOTE]
 > 您的組織限制為 2000 hub 網站。 您可能不需要每個功能的中樞網站，在建立 hub 之前，請務必先進行一些規劃。 如需詳細資訊，請造訪 [規劃您的 SharePoint hub 網站](https://docs.microsoft.com/sharepoint/planning-hub-sites)。
 
 ### <a name="sharepoint-hosted-applications"></a>主控應用程式 SharePoint
 
 每個組織的20000個實例。
 
-### <a name="people-editing-a-document-at-the-same-time"></a>使用者同時編輯檔
-
-99人員可以同時開啟檔以供編輯。 若超過10位使用者同時編輯檔，其編輯很可能會衝突，而且使用者體驗會逐漸降低。
-
 ### <a name="users"></a>使用者
 
-每個網站 2000000 (網站集合) 。
-   
+每個網站集合2000000。
+
 > [!NOTE]
-> 您可以邀請 SharePoint 網站的客人數目沒有限制。 如需外部共用的詳細資訊，請參閱 [外部共用一覽](/sharepoint/external-sharing-overview)。
+> 您可以邀請的 SharePoint 網站的客人數目沒有明顯限制。 如需外部共用的詳細資訊，請參閱 [外部共用一覽](https://docs.microsoft.com/sharepoint/external-sharing-overview)。
 
 ## <a name="see-also"></a>另請參閱
 
-[SharePoint 的搜尋限制](/sharepoint/search-limits)
+[SharePoint 的搜尋限制](https://docs.microsoft.com/sharepoint/search-limits)

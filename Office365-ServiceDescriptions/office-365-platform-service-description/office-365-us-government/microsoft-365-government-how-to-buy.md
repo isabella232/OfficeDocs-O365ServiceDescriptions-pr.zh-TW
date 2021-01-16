@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 政府的概述，並說明購買選項。
-ms.openlocfilehash: c64b60a2cf22e95d7e6158240cf505abf47451d2
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: ced4b8a7ba23b93c821b0e74a833bf18323f5a87
+ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519134"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49878666"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版-如何購買
 
@@ -89,7 +89,7 @@ Microsoft 365 政府可供合格的政府客戶和非政府組織，贊助用來
 
 - [Office 365 政府服務說明](office-365-us-government.md)
 - [Enterprise 可移動性 + US 政府服務的安全性說明](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [適用于美國政府版高客戶的 Microsoft Defender for Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [適用于美國政府客戶的 Microsoft Defender for Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [政府-GCC 部署的團隊](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
 - [政府-GCC 高部署的團隊](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
 - [政府 DoD 部署的團隊](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
@@ -161,7 +161,7 @@ Microsoft 365 政府可供合格的政府客戶和非政府組織，贊助用來
 
 - [Office 365 政府服務說明](office-365-us-government.md)
 - [Enterprise 可移動性 + US 政府服務的安全性說明](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [適用于美國政府版高客戶的 Microsoft Defender for Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [適用于美國政府客戶的 Microsoft Defender for Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [政府-GCC 部署的團隊](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
 - [政府-GCC 高部署的團隊](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
 - [政府 DoD 部署的團隊](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
