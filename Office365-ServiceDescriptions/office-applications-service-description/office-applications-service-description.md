@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 是一項訂閱服務，可為您提供您已熟悉的最新版 Office 桌面應用程式，例如 Word、Excel 及 PowerPoint。
-ms.openlocfilehash: 25f90724a1dd5170b85e970e16cb0c264cd03009
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 26b3b91800dd4c06c584abc443d54fdb8af89ca1
+ms.sourcegitcommit: 188932c7600cb860db47a1046b5f7d0f6f078502
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276809"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "49905156"
 ---
 # <a name="office-applications-service-description"></a>Office 應用程式服務說明
 
@@ -37,7 +37,7 @@ Office 應用程式有 32 位元和 64 位元版本可供使用。
 Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的附加元件。 附加元件可為訂閱提供額外的功能。 如需詳細資訊，請參閱 [購買或編輯附加](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)元件。<br><br>
 
 | Application/feature | Office Professional Plus 2013 | Office 專業增強版 2016 | Office 專業增強版 2019 | Microsoft 365 Apps 企業版 | Microsoft 365 Apps 商務版 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Microsoft 365 商務進階版 | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Office 應用程式** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
@@ -50,9 +50,9 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |是  <br/> |是<sup>12</sup> <br/> |否  <br/>|否  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[Windows 10 App](office-applications.md#windows-10-apps) <br/> |是  <br/> |是  <br/> |否  <br/>|是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[Office for Mac 版 Microsoft 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |否  <br/> |否  <br/>|否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|[Office Mobile for iPad/iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |否  <br/> |是<sup>13</sup> <br/>|是<sup>13</sup>  <br/> |是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |
-|[Office Mobile for Android](office-applications.md#office-mobile-for-android) <br/> |否  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup>  <br/>|是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |
-|[適用於 Windows Phone 手機的 Office Mobile](office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是  <br/> |是<sup>13</sup> <br/> |是 <sup>13</sup> <br/>|是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |
+|[Office Mobile for iPad/iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |否  <br/> |否 <br/>|否  <br/> |是  <br/> |是  <br/> |是<sup>13</sup>  <br/> |是  <br/> |是  <br/> |是<sup>13</sup>  <br/> |是  <br/> |是  <br/> |是<sup>13</sup>  <br/> |
+|[Office Mobile for Android](office-applications.md#office-mobile-for-android) <br/> |否  <br/> |否 <br/> |否  <br/>|是  <br/> |是  <br/> |是<sup>13</sup>  <br/> |是  <br/> |是  <br/> |是<sup>13</sup>  <br/> |是  <br/> |是  <br/> |是<sup>13</sup>  <br/> |
+|[適用於 Windows Phone 手機的 Office Mobile](office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |否  <br/> |否 <br/> |是 <br/>|是  <br/> |是  <br/> |是<sup>13</sup>  <br/> |是  <br/> |是<sup>13</sup>  <br/> |是  <br/> |是  <br/> |是<sup>13</sup>  <br/> |
 |Outlook for Android  <br/> |否  <br/> |否  <br/> |否  <br/>|是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |**企業價值** <br/> |**Office 專業增強版 2013** <br/> |**Office 專業增強版 2016** <br/> |**Office 專業增強版 2019** <br/> |**Microsoft 365 Apps 企業版** <br/> |**Microsoft 365 Apps 商務版** <br/> |**Microsoft 365 商務基本版** <br/> |**Microsoft 365 商務標準版** <br/> |**Microsoft 365 商務進階版** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
 |每個使用者可同時在 5 部 PC 或 Mac 上安裝  <br/> |否  <br/> |否  <br/>| 否  <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |否  <br/> |是  <br/> |是<sup>7</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> | 
@@ -77,7 +77,7 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 |用戶端應用程式的離線支援  <br/> |是  <br/> |是  <br/>|是  <br/>  |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Excel 的 Power Map  <br/> |否<sup>4</sup> <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Power Pivot for Excel  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|Excel 的 Power Query  <br/> |無<sup>15</sup>  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|Excel 的 Power Query  <br/> |無<sup>14</sup>  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Power View for Excel  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |漫遊設定  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |共用電腦啟用  <br/> |否  <br/> |否  <br/> |否  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |是 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
@@ -88,8 +88,8 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
    
 > [!NOTE]
 ><sup>+</sup> 當您安裝 Office 365 或 Office 2019 時，預設會取得 Windows 10 OneNote。 如需詳細資訊，請參閱 [常見問題的 OneNote](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)。<br/>
-><sup>++</sup> OneNote 應用程式存取 SharePoint 伺服器上的筆記本、SharePoint 線上、OneDrive for Business 及 Office 365。 <br/>
-><sup>+++</sup> BHO 支援是 Internet Explorer 的擴充技術。 <br/>
+><sup>++</sup> OneNote 應用程式存取 SharePoint 伺服器上的筆記本、SharePoint 線上、OneDrive for Business 及 Office 365。 <br/>
+><sup>+++</sup> BHO 支援是 Internet Explorer 的擴充技術。 <br/>
 ><sup>1</sup> 此版本的 Office 支援封存和相容性功能，但不包含 Exchange Online 和 SharePoint Online 方案，且必須另外購買或搭配支援的同等內部部署伺服器使用。<br/>
 <sup>2</sup> Azure 資訊保護未包含在內，但可以以個別的附加元件形式購買，並且會啟用支援的資訊版權管理 (IRM) 功能。 部分 Azure 資訊保護功能需要訂閱 Microsoft 365 Apps for enterprise，但不包含在 Microsoft 365 Business Basic、Microsoft 365 Business Standard、Office 365 E1、Office 365 教育或 Office 365 F3 中。<br/>
 <sup>3</sup> Windows Server AD RMS 是內部部署伺服器，必須個別採購並管理，以便啟用支援的 IRM 功能。<br/>
@@ -102,9 +102,8 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 <sup>10</sup> Office 365 F3 中的商務用 skype 功能包含商務用 skype 方案 1 (沒有桌面共用、無應用程式共用、無法起始多方音訊、影片或 web 會議、無法排程會議) 。<br/> 
 <sup>11</sup> 若您是在目前通道或目標發行的延期通道上，則目前可以使用 Access。 如果您在順延通道上，則可在 2017 年 6 月存取 Access。 如需詳細資訊，請參閱 [Microsoft 365 和 Office 365 訂閱中包含的 Access](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef)。<br/> 
 <sup>12</sup> 仍支援 Infopath 2013，且隨附于 Office Professional Plus 2016 安裝，但沒有 office 2016 的新版本。<br/> 
-<sup>13</sup> 僅支援基本編輯功能。<br/> 
-<sup>14</sup> 僅限具有整合畫面的裝置測量10.1 英寸或更小的對角線。<br/> 
-<sup>15</sup> power query 是可在此下載的免費增益集： [Excel 的 Microsoft Power query](https://www.microsoft.com/download/details.aspx?id=39379)。 啟用後，可從功能區上的 [Power Query] 索引標籤中取得 Power Query 功能。
+<sup>13</sup> 僅限具有整合畫面的裝置測量10.1 英寸或更小的對角線。<br/> 
+<sup>14</sup> Power Query 是可在此下載的免費增益集： [Excel 的 Microsoft Power query](https://www.microsoft.com/download/details.aspx?id=39379)。 啟用後，可從功能區上的 [Power Query] 索引標籤中取得 Power Query 功能。
 
 ## <a name="office-application-availability-in-office-for-mac-plans"></a>Office for Mac 方案中的 office 應用程式可用性
 
@@ -176,7 +175,7 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 |即時共同作業 (目前狀態、一般共同作業、檔聊天室)  | 否 | 否 | 否 |
 |聽寫 | 否<sup>1</sup> | 否<sup>1</sup> | 否<sup>1</sup> |
 |重複使用滑動片 | 否 | 否 | 否 |
-|目前只有 Hub 用戶端（而不是在桌面上）提供政府群中的**Microsoft 白板**。 | 是<sup>2</sup> | 是<sup>2</sup> | 是<sup>2</sup> |
+|目前只有 Hub 用戶端（而不是在桌面上）提供政府群中的 **Microsoft 白板**。 | 是<sup>2</sup> | 是<sup>2</sup> | 是<sup>2</sup> |
 |插入粘滯便箋、文字和圖像 |是<sup>2</sup> |是<sup>2</sup> |是<sup>2</sup> |
 |手寫的圖案和墨蹟至表格 |是<sup>2</sup> |是<sup>2</sup> |是<sup>2</sup> |
 |筆跡 beautification |是<sup>2</sup> |是<sup>2</sup> |是<sup>2</sup> |

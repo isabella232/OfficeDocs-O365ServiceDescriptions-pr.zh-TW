@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是一種靈活的線上方案，可用於專案產品群組管理 (PPM) 和日常工作。 透過 Office 365 傳遞，Project Online 可提供強大的專案管理功能，以用於規劃、排定專案與專案組合的投資，甚至幾乎任何裝置上幾乎都沒有任何地方。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: efe500b4d141cdcf8a58c0613fd966c2b90e9ad3
-ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
+ms.openlocfilehash: 961aa648ccd5cf0f143016baddf659ae9d5082b4
+ms.sourcegitcommit: 188932c7600cb860db47a1046b5f7d0f6f078502
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "49794969"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "49905146"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -38,7 +38,7 @@ Web 的專案是 Microsoft 最近針對雲端架構工作和專案管理提供�
 
 Web 的專案是以 Microsoft Power 平臺為基礎。 電源平臺包括 PowerApps、電源自動化、Power BI 及 Microsoft Dataverse。 Web 資料的專案儲存在 Microsoft Dataverse 中。 
 
-可透過三個訂閱取得 web 的專案：專案方案1、專案方案3及專案方案5。 [Web 功能](#project-for-the-web-features)區段之專案中所列的功能只會與 web 資料存放區之專案中的資料進行互動。
+可透過三個訂閱取得 web 的專案：專案方案1、專案方案3及專案方案5。 [Web 功能的 project](#project-for-the-web-features)中所列的功能只會與 web 資料儲存區中的資料進行互動。
 
 ### <a name="project-online"></a>Microsoft Project Online
  
@@ -46,7 +46,7 @@ Project Online 是一種靈活的線上方案，可用於專案產品群組管�
 
 Project Online 是在 SharePoint 平臺上建立，它會將資料儲存在 SharePoint 資料儲存區中。
 
-Project Online 可透過兩種訂閱進行：專案計劃3和專案方案5。 [ [Project online 功能](#project-online-features) ] 區段中所列的功能只會與 project online 中的資料 SharePoint 資料儲存區互動。
+Project Online 可透過兩種訂閱進行：專案計劃3和專案方案5。 在 [Project online 功能](#project-online-features) 中列出的功能只會與 project online 中的資料互動 SharePoint 資料儲存區。
 
 Project Online 的小組成員功能可透過 Project Online 基本版或 Project 方案1訂閱取得。 Project Online 基本版是具有 Project 方案3或 Project 方案5訂閱之客戶的小組成員 *附加* 元件訂閱。 Project Online 基本版與 Project 方案1訂閱可讓小組成員的 web 介面，對 Project Online 中管理的專案執行工作和時間更新。
 
@@ -242,7 +242,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以最符合貴組織�
 |排序和群組 | 使用自訂排序和群組可取得專案、任務和資源的焦點視圖。|
 |**自訂和整合**||
 |自訂欄位 | 在專案、任務及資源層級新增自訂欄位，以追蹤對您的組織及專案非常重要的資料。 |
-|表單 | 建立及部署自訂表單，以捕獲重要的專案資料。 |
+|Forms | 建立及部署自訂表單，以捕獲重要的專案資料。 |
 |公式 | 使用跨任務和專案的公式，計算及捕獲重要的資料。 |
 |範本 | 建立常見專案（包括專案計劃、小組和工作分派）的範本。 |
 |mpp 匯入/匯出 | 從現有的 mpp 檔案建立新專案，或建立現有專案的 mpp 檔案。 |
@@ -274,6 +274,14 @@ Project Online 需要使用線上 SharePoint，其已布建為 Project Online �
 Web 的專案需要使用 Microsoft Dataverse 儲存其資料。 Microsoft Dataverse 資料庫已布建為專案訂閱的一部分。 Microsoft Dataverse 功能的權利限制于儲存和存取資料，以支援 web 的專案。 Microsoft Dataverse 所需的功能會在 Microsoft 365 系統管理中心的 [**應用程式**] 區段中顯示為 project Service Plan 的 **一般資料服務**。
 
 針對具有五個 (5) 或多個 web 授權專案的專案客戶，web 客戶的專案可以部署至 Power Platform 的實際執行環境和沙箱環境。
+
+| 包含/累計容量                                      | 專案 P1 | 專案 P3 | 專案 P5 |
+|--------------------------------------------------------------------|------------|------------|------------|
+| Dataverse (過去常見的資料服務) 資料庫：包含/租使用者 | 3 GB        | 5 GB        | 5 GB        |
+| Dataverse 資料庫：應計/使用者訂閱授權 (USL)         | 50 MB       | 250 MB      | 250 MB      |
+| Dataverse 記錄：包含/租使用者                                     | 2 GB        | 2 GB        | 2 GB        |
+| Dataverse 檔案：包含/租使用者                                    | 20 GB       | 20 GB       | 20 GB       |
+| Dataverse 檔案：累算/USL                                        | 400 MB      | 2 GB        | 2 GB        |
 
 ### <a name="data-backup-and-retention"></a>資料備份和保留
 
