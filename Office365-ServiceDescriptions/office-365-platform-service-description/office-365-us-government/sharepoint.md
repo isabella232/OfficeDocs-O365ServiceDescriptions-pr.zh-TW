@@ -8,86 +8,87 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: 深入瞭解美國政府雲端客戶的 SharePoint 功能可用性。
-ms.openlocfilehash: c8297aaf0b33e55dab1d3babe307736de57e2066
-ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
+description: 瞭解美國政府雲端客戶的 SharePoint 功能可用性。
+ms.openlocfilehash: b0f36ea92b856a3fa9c1bf4ddd4cb4265655d1ae
+ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49624514"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "49919746"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>適用于美國政府環境的 SharePoint
 
-本文概要說明美國政府雲端與商業性雲端之間的功能差異，如 [SharePoint 服務說明](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description)所示。 SharePoint 可用於政府社區雲端 (GCC) 、GCC High 及 DoD 環境。 
+本文概述美國政府雲端與商業雲端之間的功能差異，如 [SharePoint 服務描述所列](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description)。 SharePoint 適用于政府社群雲端 (GCC) 、GCC High 和 DoD 環境。 
 
-如需政府雲端（包括資格和購買）的詳細資訊，請參閱 [Microsoft 365 政府-如何購買](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)。 若要比較 Office 365 政府方案，請參閱 [office 365 政府方案](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
+有關政府雲端功能詳細資訊，包括資格與購買，請參閱 [Microsoft 365 政府版 - 如何購買](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)。 若要比較 Office 365 政府版方案，請參閱 [Office 365 政府版方案](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
 
-若要深入瞭解管理網路連線時所需的端點，請參閱 [office 365 美國政府版高端點](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) 或 [Office 365 美國政府 DoD 端點](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)。
+若要瞭解管理網路連接時所需的端點，請參閱 Office [365](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) 美國政府 GCC High 端點或 [Office 365](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)美國政府 DoD 端點。
 
-除了享受 Office 365 的功能之外，組織還會受益于美國政府雲端環境獨有的下列功能：
+除了享受 Office 365 的功能之外，組織也受益于美國政府雲端環境所獨有的下列功能：
 
--   您組織的客戶內容與 Microsoft 的商業 Office 365 服務中的客戶內容有邏輯隔離。
+-   貴組織的客戶內容在邏輯上與 Microsoft 商業 Office 365 服務中的客戶內容分隔。
 -   組織的客戶內容儲存於美國境內。
 -   只有經過篩選的 Microsoft 人員可以存取組織的客戶內容。
--   政府雲端環境符合美國公共部門客戶所需的認證和資格鑒定。
+-   政府雲端環境符合美國公用組織客戶所需的認證與規定。
 
-我們的目標是將所有 SharePoint 商業功能和功能提供給政府雲端環境。 由於政府雲端客戶的需求，有些功能無法使用。 其他功能會進入政府環境，但尚未提供。 請參閱下列各節以瞭解政府雲端環境中的功能可用性。
+我們的目標是提供所有 SharePoint 商業功能至政府雲端環境。 部分功能因為政府雲端客戶的需求而無法使用。 其他功能即將在政府環境中提供，但尚未提供。 請參閱下列各節，以瞭解政府雲端環境中的功能可用性。
 
 ## <a name="developer-features"></a>開發人員功能
 
-商業客戶的開發人員功能和政府雲端客戶的開發人員功能都沒有已知的差異。
+商業客戶開發人員功能與政府雲端客戶開發人員功能之間沒有任何已知差異。
 
-- 外部應用程式的連線（如增益集的資料來源）會受限於位於政府環境所支援之系統安全性界限內的來源。
-- Business Connectivity Services (BCS) 功能支援在您的雲端服務的安全性界限內可存取資料來源的連線案例。
+- 與外部應用程式的連結 ，例如，適用于附加元件之資料來源，僅限於位於您政府環境支援之系統安全性界限內的來源。
+- Business Connectivity Services (BCS) 功能支援在雲端服務的安全性邊界內保持可連接的資料來源。
 
-如果您在網站上使用協力廠商應用程式，請在評估組織的適當使用服務時，複查協力廠商所提供的隱私權和符合性聲明。 協力廠商的應用程式和服務可能涉及在政府雲端以外的協力廠商系統上儲存、傳送和處理組織的客戶資料，因此不在其合規性和資料保護承諾範圍內。 
+如果您在網站上使用協力廠商應用程式，請審查協力廠商在評估這些服務對貴組織適當使用時所提供的隱私權與合規性聲明。 協力廠商應用程式和服務可能包括在政府雲端以外，因此未涵蓋其合規性和資料保護承諾的協力廠商系統上儲存、傳送及處理貴組織的客戶資料。 
 
 ## <a name="it-admin-features"></a>IT 系統管理功能
 
-以下是適用于商業客戶及政府雲端客戶之 IT 系統管理員功能的差異。
+以下是商業客戶及政府雲端客戶之 IT 系統管理功能之間的差異。
 
-- 不提供適用于 GCC 高版客戶的網站位址。
-- 所有政府雲端客戶都無法使用混合式 SharePoint 伺服器
-- SharePoint 遷移工具和遷移管理員需要變更設定。 如需詳細資訊，請參閱 [SPMT 政府 cloud support](/sharepointmigration/spmt-install-issues#government-cloud-support)。
-- 尚未支援 Mover.io
-- 多地理位置無法供所有政府雲端客戶使用
+- GCC High 客戶無法變更網站位址
+- 混合式 SharePoint Server 不適用於所有政府雲端客戶
+- SharePoint 移移工具和移移管理員需要變更設定。 詳情請參閱 [SPMT 政府雲端支援](/sharepointmigration/spmt-install-issues#government-cloud-support)。
+- Mover.io尚未支援
+- 並非所有政府雲端客戶都提供多地理位置服務
 
-如需 FastTrack 遷移的相關資訊，請參閱 [Office 365 US 政府服務說明](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#data-migrations-performed-by-fasttrack)。
+有關 FastTrack 移移的資訊，請參閱 [Office 365 美國政府服務說明](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#data-migrations-performed-by-fasttrack)。
 
-## <a name="security-and-compliance-features"></a>安全性和符合性功能
+## <a name="security-and-compliance-features"></a>安全性與合規性功能
 
-商業客戶的安全性和符合性功能和政府雲端客戶的安全性和符合性功能之間並無任何已知的差異。
+商業客戶以及政府雲端客戶的安全性與合規性功能之間沒有任何已知的差異。
 
-如需安全性與合規性功能的相關資訊，請參閱 [安全性 & 規範中心](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)。
+有關安全性與合規性功能的資訊，請參閱 [安全性&規範中心](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)。
 
-如需有關適用于政府的 Azure Active Directory 功能的詳細資訊，請參閱 [Azure 政府安全性 + 身分識別檔](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)。 
+有關 Azure Active Directory 政府版功能的資訊，請參閱 [Azure 政府安全性 + 身分識別檔](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)。 
 
-如需有關適用于政府之 Azure 資訊保護功能的詳細資訊，請參閱 [Azure 資訊保護 [特優政府服務說明](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description)]。 
+有關適用于政府之 Azure 資訊保護功能的資訊，請參閱 [Azure 資訊保護進位政府服務說明](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description)。 
 
 ## <a name="sites-and-content"></a>網站和內容
 
-以下是商業客戶和政府雲端客戶的網站和內容功能之間的差異：
+以下是商業客戶的網站與內容功能，以及政府雲端客戶網站與內容功能之間的差異：
 
-- 依靠網際網路服務連線（例如 Amazon Kindle、Bing 地圖、Twitter 及 YouTube 網頁元件）的網頁元件，不會如預期般運作
-- 組織資產庫無法使用
-- 將清單及頁面新增至團隊不適用於 GCC 高和 DoD 的客戶
+- 仰賴網際網路服務之連結的網頁元件 ，例如 Amazon Kindle、Bing 地圖服務、Twitter 和 YouTube 網頁元件無法如預期方式使用
+- 組織資產庫未提供
+- GCC High 和 DoD 客戶無法新增清單和頁面至 Teams
+- SharePoint Online for GCC High 內的圖形功能目前已停用。 目前可能無法使用任何仰賴 Microsoft Graph 的服務
 
 ## <a name="search-features"></a>搜尋功能
 
-以下是商務客戶與政府雲端客戶之搜尋功能之間的差異：
+以下是商業客戶搜尋功能與政府雲端客戶搜尋功能之間的差異：
 
-- 無法使用 Microsoft 搜尋整合功能。
+- Microsoft Search 整合並未提供。
 
-## <a name="sharing-and-sync"></a>共用及同步處理
+## <a name="sharing-and-sync"></a>共用與同步
 
-如需商業雲端和政府雲端環境之間的功能差異，請參閱檔案 [共用](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing)。
+有關商業雲端與政府雲端環境之間的功能差異，請參閱 [檔案共用](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing)。
 
-## <a name="plan-for-governance"></a>規劃管理
+## <a name="plan-for-governance"></a>監管計畫
 
-您可以使用內建的系統管理控制，將您移至雲端提供 transformative 經驗。 決定您的控管需求，以及如何符合您的需求。 若要瞭解詳細資訊，請參閱 [Plan For Plan To Plan With Microsoft 365 的團隊合作](https://resources.techcommunity.microsoft.com/teamwork-governance/) 。 您會找到 Office 365 群組、SharePoint、小組等方面的指導方針。
+您移到雲端後，內建系統管理控制項提供轉換體驗。 決定您的監管需求，以及您可以如何符合這些需求。 請前往 [規劃監管，以轉換使用 Microsoft 365](https://resources.techcommunity.microsoft.com/teamwork-governance/) 的團隊合作，以瞭解更多資訊。 您可以找到 Office 365 群組、SharePoint、Teams 等的指引。
 
-## <a name="deploy-sharepoint-for-collaboration"></a>部署協同 SharePoint 以進行共同作業
+## <a name="deploy-sharepoint-for-collaboration"></a>部署 SharePoint 進行共同合作
 
-在 Microsoft US 政府雲端中設定組織之後，請遵循 [SharePoint 採用資源中心](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/)中所述的建議部署途徑。 請務必與您的採用和變更管理擁護者接洽。
-您也可以使用 [FastTrack](https://www.microsoft.com/fasttrack) 或您所選的合作夥伴，向您的使用者推出服務。
-若要深入瞭解 Microsoft 的安全性、隱私權及合規性，請造訪 [Microsoft 信任中心](https://www.microsoft.com/trust-center) ，以瞭解如何讓組織為客戶服務的核心原則。
+在 Microsoft 美國政府雲端設定您的組織之後，請遵循 SharePoint 採用資源中心內所述的 [建議部署路徑](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/)。 請務必參與您的採用和變更管理世界。
+您也可以使用 [FastTrack](https://www.microsoft.com/fasttrack) 或您選擇的合作夥伴，將服務推出給使用者。
+請流覽 [Microsoft 信任中心](https://www.microsoft.com/trust-center) ，深入瞭解 Microsoft 如何執行安全性、隱私權和合規性，以及我們授權組織服務客戶的核心核心。
