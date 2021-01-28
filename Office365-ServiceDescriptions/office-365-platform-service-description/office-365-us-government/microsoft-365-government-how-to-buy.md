@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 政府的概述，並說明購買選項。
-ms.openlocfilehash: aa967e7f46ed5085384b408552e186dbb7c8bd30
-ms.sourcegitcommit: b410339b0174e2327259a71acab5bf9daac67d5b
+ms.openlocfilehash: b099adfdd4f392bcdf1f9aa383601a49026cb5c1
+ms.sourcegitcommit: 4cb96a615ca98bee0b0657bef77b03357e118c52
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49939198"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50031247"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版-如何購買
 
@@ -154,7 +154,7 @@ Microsoft 365 政府可供合格的政府客戶和非政府組織，贊助用來
 - 紅色河
 - 上汽
 - Smartronix
-- 峰會7服務
+- 峰會7
 - TechTrend，Inc.。
 - Vexcel
 
