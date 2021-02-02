@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組織的需求。 如果您正在尋找方案（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
-ms.openlocfilehash: 5e0cbefa7b1bbc4e89f8b32086fc4e4534d3b5f3
-ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
+ms.openlocfilehash: a9aaa0e5e6ebcf4196ac89926cb88f30daaf67f0
+ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49871146"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50072286"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服務說明
 
@@ -104,6 +104,7 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 |Microsoft Planner  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft PowerApps  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> | 
 |網頁版 Microsoft Project <sup>21</sup> <br/> |是 <br/> |否 <br/>|是 <br/> |是 <br/> |是 <br/> |是 <br/> | 是 <br/> |
+|Microsoft SharePoint Syntex  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft StaffHub  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Stream  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>16</sup> <br/> |
 |Microsoft Sway  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |

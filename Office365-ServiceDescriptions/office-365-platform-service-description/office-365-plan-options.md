@@ -1,5 +1,5 @@
 ---
-title: Office 365 方案選項
+title: Microsoft 365 和 Office 365 方案選項
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
-ms.openlocfilehash: 9e5b88d623052d43f361c3b6c554ff7e928d42b4
-ms.sourcegitcommit: 9b7d67927c8ed266ccd6b39950f04947e6916ede
+ms.openlocfilehash: 6bd5bacf9f3f6b65120c33bde38ea125dec80ea9
+ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605348"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50072296"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 和 Office 365 方案選項
 
@@ -51,6 +51,7 @@ Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組
 |Office 365 平臺  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |否  <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>8</sup> <br/> |無<sup>16</sup> <br/> |
 |SharePoint Online  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>17</sup> <br/> |
+|SharePoint Syntex  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> |
 |OneDrive  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
 |商務用 Skype Online <sup>14</sup> <br/> |否  <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |是<sup>10</sup> <br/> |是<sup>12</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |
 |網頁版 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |無<sup>18</sup> <br/> |
@@ -110,7 +111,7 @@ Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組
   
 | 服務 | 方案 |
 |:-----|:-----|
-|Exchange Online  <br/> |[Exchange Online 方案 1](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online 方案 2](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) <br/> [Microsoft Defender for Office 365](https://www.microsoft.com/microsoft-365/security/office-365-defender) <br/> [Exchange Online 封存](https://products.office.com/exchange/microsoft-exchange-online-archiving-email) <br/> [Exchange Online Kiosk](https://products.office.com/business/office-365-f1) <br/> |
+|Exchange Online  <br/> |[Exchange Online 方案 1](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online 方案 2](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) <br/> [適用於 Office 365 的 Microsoft Defender](https://www.microsoft.com/microsoft-365/security/office-365-defender) <br/> [Exchange Online 封存](https://products.office.com/exchange/microsoft-exchange-online-archiving-email) <br/> [Exchange Online Kiosk](https://products.office.com/business/office-365-f1) <br/> |
 |SharePoint Online  <br/> |[SharePoint Online 計劃 1](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online 計劃 2](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
 |商務用 OneDrive  <br/> |[商務用 OneDrive (方案 1)](https://onedrive.live.com/about/business/) <br/> [商務用 OneDrive 方案 2](https://onedrive.live.com/about/business/) <br/> |
 |Office 應用程式  <br/> |[Microsoft 365 Apps 企業版](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Microsoft 365 Apps 商務版](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> |
