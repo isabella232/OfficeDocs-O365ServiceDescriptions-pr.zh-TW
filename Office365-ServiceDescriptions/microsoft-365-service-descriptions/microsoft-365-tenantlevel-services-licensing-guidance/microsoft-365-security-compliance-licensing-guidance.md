@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 0971b241d486180bd406c8472fa1a2dbcb9cb873
-ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
+ms.openlocfilehash: bceb0f3648aac36f5e748886240ae3594eac7617
+ms.sourcegitcommit: bd0cf8920c64e171967d7dd61b7f988bd093c073
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49871136"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50080279"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>安全性 & 合規性的 Microsoft 365 授權指南
 
@@ -107,7 +107,6 @@ Microsoft Defender for Office 365 方案1和2、Office 365 E5/A5/G5、Microsoft 
 
 根據預設，會在租使用者中的所有使用者的租使用者層級啟用 Microsoft Defender for Office 365 功能。 如需針對授權使用者設定 Microsoft Defender for Office 365 原則的詳細資訊，請參閱 [Microsoft defender For office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)。
 
-
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
 若要限定 Microsoft Defender for Office 365，請遵循安全連結和安全附件部署原則：
@@ -159,7 +158,10 @@ Azure AD P1 為使用者提供的權力，可從 MCAS 中的探索功能中受�
 
 若要從 MCAS 中的條件式存取應用程式控制功能獲益，使用者也必須取得 Azure Active Directory P1 的授權，其包括在 Enterprise Mobility + Security E3/A3/G3、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E3/A3/G3, Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 Security 中。
 
-若要從自動標籤獲得好處，使用者必須獲得 Azure 資訊保護 P2 的授權，其包含在 Enterprise 可移動性 + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 相容性，以及 Microsoft 365 資訊保護和控管。
+若要從自動用戶端標籤獲得好處，使用者必須獲得 Azure 資訊保護 P2 的授權，其包含在 Enterprise 可移動性 + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 相容性，以及 Microsoft 365 資訊保護和控管中。
+
+> [!NOTE]
+> 自動伺服器端標籤需要 Office 365 的資訊保護-精品授權 (`MIP_S_CLP2` 或 `efb0351d-3b08-4503-993d-383af8de41e3`) 。 如需參考，請參閱 [產品名稱和服務方案識別碼取得授權](https://docs.microsoft.com/azure/active-directory/enterprise-users/licensing-service-plan-reference)。
 
 如需詳細資訊，請參閱 [Microsoft Cloud App Security 授權資料工作表](https://www.aka.ms/mcaslicensing)。
 

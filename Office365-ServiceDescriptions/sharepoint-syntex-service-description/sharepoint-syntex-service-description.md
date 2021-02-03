@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 365 中的 SharePoint Syntex 使用高級人工智慧 (AI) 和加工教學，以 amplify 人力專業知識、自動化內容處理，以及將內容轉換為知識。
-ms.openlocfilehash: da40dc93729e97740d7e3e3cc367ca99b9e63658
-ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
+ms.openlocfilehash: 938e00a49080885c8a15722adf368397b91dc5fb
+ms.sourcegitcommit: fa262c8ada1b545e124b91b184911028e1c50f65
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50072435"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50084726"
 ---
 # <a name="sharepoint-syntex-service-description"></a>SharePoint Syntex 服務說明 
 

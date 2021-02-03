@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
-ms.openlocfilehash: 1e861d10bf336a7378b54a55b6c3e622e90c3a18
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 325396d0046e857d1c7812f9d8640a95018c248b
+ms.sourcegitcommit: bd0cf8920c64e171967d7dd61b7f988bd093c073
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518884"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50080289"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -30,7 +30,7 @@ ms.locfileid: "49518884"
 >- [Microsoft 365 for business 中的電子郵件-系統管理說明](https://go.microsoft.com/fwlink/?linkid=529722)
 >- [使用 Microsoft 支援和修復小幫手修復 Outlook 和 Microsoft 365 的問題](https://diagnostics.office.com/)
 >- [電子郵件未傳遞回報](https://go.microsoft.com/fwlink/?linkid=526653)
->- [Exchange Online 說明](https://go.microsoft.com/fwlink/?linkid=825607)<
+>- [Exchange Online 說明](https://go.microsoft.com/fwlink/?linkid=825607)
 
 Microsoft Exchange Online 中的限制屬於下列其中一個類別：
 
@@ -355,11 +355,12 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |收件者速率限制<sup>1</sup>|每天 10,000 位收件者|每天 10,000 位收件者|每天 10,000 位收件者|每天 10,000 位收件者|每天 10,000 位收件者|每天 10,000 位收件者|
 |收件者限制<sup>2</sup>|可自訂最多1000個收件者|可自訂最多1000個收件者|可自訂最多1000個收件者|可自訂最多1000個收件者|可自訂最多1000個收件者|可自訂最多1000個收件者|
 |收件者 proxy 位址限制|400|400|400|400|400|400|
-|郵件速率限制|每分鐘 30 封郵件|每分鐘 30 封郵件|每分鐘 30 封郵件|每分鐘 30 封郵件|每分鐘 30 封郵件|每分鐘 30 封郵件|
+|郵件速率限制<sup>3</sup>|每分鐘 30 封郵件|每分鐘 30 封郵件|每分鐘 30 封郵件|每分鐘 30 封郵件|每分鐘 30 封郵件|每分鐘 30 封郵件|
 
 > [!NOTE]
-> <sup>1</sup> 達到收件者速率限制後，郵件便無法從信箱傳送，直到過去24小時內傳送郵件的收件者數目降至限制以下。 例如，使用者會將電子郵件訊息傳送給位於 09:00 AM 的5000收件者，然後將另一封郵件傳送給在 10:00 AM 的2500收件者，然後再將另一封郵件傳送給位於 2500 AM 的11:00 收件者，並達到10000郵件的限制。 使用者將無法再傳送郵件，直到下一天的 09:00 AM。
-> <sup>2</sup> 您可以針對現有的信箱，自訂收件者限制介於1到1000，以及未來建立的新信箱。 個別或大量使用 Exchange 系統管理中心編輯現有信箱的收件者限制，並透過遠端 PowerShell 自訂新信箱的預設設定。 如需詳細資訊，請參閱 [Office 365 中的可自訂收件者限制](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228)。
+> <sup>1</sup> 達到收件者速率限制後，郵件便無法從信箱傳送，直到過去24小時內傳送郵件的收件者數目降至限制以下。 例如，使用者會將電子郵件訊息傳送給位於 09:00 AM 的5000收件者，然後將另一封郵件傳送給在 10:00 AM 的2500收件者，然後再將另一封郵件傳送給位於 2500 AM 的11:00 收件者，並達到10000郵件的限制。 使用者將無法再傳送郵件，直到下一天的 09:00 AM。  
+> <sup>2</sup> 您可以針對現有的信箱，自訂收件者限制介於1到1000，以及未來建立的新信箱。 個別或大量使用 Exchange 系統管理中心編輯現有信箱的收件者限制，並透過遠端 PowerShell 自訂新信箱的預設設定。 如需詳細資訊，請參閱 [Office 365 中的可自訂收件者限制](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228)。  
+> <sup>3</sup> 當輸出郵件磁片區超過郵件速率限制時，郵件提交中的任何過量郵件都會受到限制，並且會連續傳送到下列分鐘。 這通常不會封鎖寄件者的帳戶，但是 Exchange Online 不適于容納大宗郵件案例。 在這個使用案例中，建議您改為使用 [這裡](https://docs.microsoft.com/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365) 的選項2和3。
 
 #### <a name="sending-limits-across-standalone-options"></a>不同獨立選項的傳送限制
 
