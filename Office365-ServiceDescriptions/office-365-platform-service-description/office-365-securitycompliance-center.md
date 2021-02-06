@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全性與 &amp; 合規性中心的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-ms.openlocfilehash: 4537008977f19ef947ea0bae9a4164cfbe9991d4
-ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
+ms.openlocfilehash: 0116ecf3f46c2d870d88a5d1ef53e18452a53e7b
+ms.sourcegitcommit: f98239a5631ba312d63753ffce83a7413a143ee5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/31/2020
-ms.locfileid: "49740964"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50122193"
 ---
 # <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 
@@ -47,7 +47,7 @@ ms.locfileid: "49740964"
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;獨立方案的安全性與合規性中心可用性
 
 | 功能 | Exchange Online Plan 1 | Exchange Online Plan 2 | Exchange Online Kiosk | SharePoint Online 方案 1 | SharePoint Online 方案 2 | 商務用 OneDrive 方案 1 | 商務用 OneDrive 方案 2 | 商務用 Skype Online 方案 1 | 商務用 Skype Online 方案 2|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[存取安全性與合規性中心](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |是   |是   |
 |[Office 365 雲端 App 安全性](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |否   |否   |否   |否   |否   |否   |否   |否   |是   |
 |[威脅管理](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) (英文)，例如郵件篩選和反惡意程式碼   |是   |是   |是   |是   |是   |是   |是   |是   |是   |
@@ -68,7 +68,7 @@ ms.locfileid: "49740964"
 |[基本審核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup>|是|是|是|是|是|是<sup>10</sup>|是<sup>10</sup>|否|否|
 |進階稽核|否|否|否|否|否|否|否|否|否|
 |[通訊合規性 (監察原則) ](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |否   |否   |否   |否   |否   |否   |否   |否   |否   |
-|[Office 365 郵件加密 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |否   |否   |否   |否   |是   |否   |否|否|否|
+|[Office 365 郵件加密 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |否   |是   |否   |否   |是   |否   |否|否|否|
 |[Office 365 進階郵件加密](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |否   |否   |否   |否   |是   |否   |否|否|否|
 |[特殊許可權存取管理](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |否   |否   |否   |否   |是   |否   |否|否|否|
 
