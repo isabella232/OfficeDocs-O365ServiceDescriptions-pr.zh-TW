@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: 深入瞭解 Microsoft 365 與 Office 365 教育版方案之間的差異。
-ms.openlocfilehash: 8cb6e167f84a1f15720a06280b97524d07b7e926
-ms.sourcegitcommit: a31d389e913409197bfb4ce0adb9a0b34ac69c7f
+ms.openlocfilehash: 44b985e54d1cdfa995ee715ab56535675cf5fd31
+ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "50069268"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "50146000"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -72,7 +72,7 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 |內容搜尋|是|是|是|是|是|是|是|是|是|
 |核心 eDiscovery (包括保留和匯出) |否|是|是|是|是|是|是|是|是|
 |進階 eDiscovery|否|否|是|否|是|否|否|否|否|
-|資料遺失防護 (的電子郵件和檔案的 DLP) |是|是|是|是|是|否|否|否|否|
+|資料遺失防護 (的電子郵件和檔案的 DLP) |是|是|是|是|是|是|是|是|是|
 |Endpoint DLP|否|否|否|否|是|否|否|否|否|
 |通訊 DLP (小組聊天) |否|否|是|否|是|否|否|否|否|
 |通訊合規性|否|否|是|否|是|否|否|否|否|
