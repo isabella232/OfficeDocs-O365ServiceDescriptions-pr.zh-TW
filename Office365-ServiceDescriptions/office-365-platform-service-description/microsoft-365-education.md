@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: 深入瞭解 Microsoft 365 與 Office 365 教育版方案之間的差異。
-ms.openlocfilehash: 44b985e54d1cdfa995ee715ab56535675cf5fd31
-ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
+ms.openlocfilehash: 737f900412cdd252b3b06d56ef9281cdf09e5333
+ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "50146000"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50241039"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -51,7 +51,7 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 |具有程式碼建立器的 Minecraft 教育版|否|否|否|是|是|否|否|是|是|
 |進行測驗應用程式|否|否|否|是|是|否|否|否|否|
 |設定學校電腦應用程式|否|否|否|是|是|否|否|否|否|
-|**語音影片和會議**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A56**|**Office 365 A3 學生使用權益**|**Office 365 A5 學員使用權益**|**Microsoft 365 教育版學生使用權益**|**Microsoft 365 教育版的學生使用權益**|
+|**語音影片和會議**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 學生使用權益**|**Office 365 A5 學員使用權益**|**Microsoft 365 教育版學生使用權益**|**Microsoft 365 教育版的學生使用權益**|
 |Skype 會議廣播|否|是|是|是|是|否|否|否|否|
 |Microsoft Bookings|否|是|是|是|是|否|否|否|否|
 |音訊會議|否|否|是|否|是|否|否|否|否|

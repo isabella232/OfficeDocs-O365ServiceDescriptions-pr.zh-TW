@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: c1c6eba5c7778e11a13abf716bd51f3068f61696
-ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
+ms.openlocfilehash: 04b3a9f34ca50f178c2db4102fcf0607ecb3b87d
+ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878706"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50241049"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -23,12 +23,12 @@ ms.locfileid: "49878706"
 > [!NOTE]
 > 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
 
-Microsoft 不直接營運此項服務。 由 21Vianet 營運、提供並管理服務的提供。 世紀是中國最大的電信型網際網路資料中心服務提供者，提供主控、managed 網路服務和雲端計算基礎結構服務。 透過 Microsoft 授權的技術，21Vianet 會營運當地的 Office 365 資料中心，以提供 Office 365 服務，並將資料保留在中國境內。 21Vianet 也提供[訂閱和計費服務以及支援](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products?view=o365-21vianet&tabs=phone&preserve-view=true)。
+Microsoft 不直接營運此項服務。 由 21Vianet 營運、提供並管理服務的提供。 世紀是中國最大的電信型網際網路資料中心服務提供者，提供主控、managed 網路服務和雲端計算基礎結構服務。 使用 Microsoft 技術授權，世紀可運作本機 Office 365 資料中心，以提供使用 Office 365 服務的能力，同時保留中國內的資料。 21Vianet 也提供[訂閱和計費服務以及支援](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products?view=o365-21vianet&tabs=phone&preserve-view=true)。
 
 > [!NOTE]
 > 這些服務須遵守中國法律。
 
-由於中國服務的獨特本質 (由合作夥伴從中國內部的資料中心營運)，可能尚未啟用部分功能。經過一段時間後，客戶將會看到服務的功能逐漸完整。有關的差異，請參閱服務描述註腳。如需更高層級的差異概觀，請參閱[深入了解由 21Vianet 提供的 Office 365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china)。
+由於中國服務的獨特性質（由中國內資料中心的合作夥伴運作），還有一些尚未啟用的功能。 經過一段時間後，客戶將會看到服務的功能逐漸完整。 有關的差異，請參閱服務描述註腳。 如需更高層級的差異概觀，請參閱[深入了解由 21Vianet 提供的 Office 365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china)。
 
 ## <a name="service-availability-within-each-plan"></a>每個方案中可用的服務
 
@@ -50,12 +50,12 @@ Microsoft 不直接營運此項服務。 由 21Vianet 營運、提供並管理�
 |Power BI|否|否|否|否|否|否|否|
 |網頁版 Visio<sup>3</sup>|是|是|是|是|是|是|是|
 |Yammer Enterprise|否|否|否|否|否|否|否|
-|Azure 資訊保護|否|否|否|否|否|是<sup>4</sup>|否|
+|Azure 資訊保護 (AIP)|否|否|否|否|否|是<sup>4</sup>|否|
 
 <sup>1</sup> 包含功能例如 Office 365 管理、Office 365 套件應用程式、使用者帳戶管理、網域、服務健康狀況和持續性、報告、服務更新、說明和訓練、網路等等。 如需詳細資訊，請參閱 [平台功能](office-365-operated-by-21vianet.md#platform-features)表。
 <br/><sup>2</sup> Project Online 並不包含在內，但可以當作附加服務來單獨購買，若是 Office 365 A1 方案，則可免費新增此功能。
 <br/><sup>3</sup> (view 功能) 可用的 Visio web 消耗量。 Visio 網頁版建立和編輯功能需要授權。 如需有關 web Visio 的詳細資訊，請參閱 [visio for web service description](../visio-online-service-description/visio-online-service-description.md)。
-<br/><sup>4</sup> AIP) 在由世紀運作的 Office 365 部分支援的 Azure 資訊保護 (。 如需詳細資訊，請參閱 [在由世紀運作的 Office 365 Azure 資訊保護之間的效驗和商業產品](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet&preserve-view=true)。
+<br/><sup>4</sup> AIP 在由世紀運作的 Office 365 部分支援。 如需詳細資訊，請參閱 [在由世紀運作的 Office 365 Azure 資訊保護之間的效驗和商業產品](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet&preserve-view=true)。
 
 ## <a name="system-requirements"></a>系統需求
 
@@ -67,10 +67,11 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 - 資料外洩防護 (DLP)
 - 保留
 - 稽核
-- Microsoft 資訊保護 (適用于 Office 用戶端和 Outlook 的 MIP) 和敏感度標籤。
+- Microsoft 資訊保護 (使用 AIP 整合標籤用戶端的 Office 用戶端和 Outlook 的 MIP) 和敏感度標籤
 
 > [!NOTE]
-> 目前不支援 web 上的 SharePoint 線上和 Office 的靈敏度標籤。
+> - 目前不支援在 SharePoint 網站、Microsoft 365 群組和 Microsoft 小組中保護內容的靈敏度標籤。
+> - 目前不支援使用網頁上的 Office 來分類及保護檔和電子郵件的靈敏度標籤。
 
 ## <a name="platform-features"></a>平台功能
 
@@ -79,11 +80,12 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 > [!NOTE]
 > 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
 
+
 | 功能 | 由 21Vianet 運作的 Office 365 商務基本版 | 由 21Vianet 運作的 Office 365 商務版 | 由 21Vianet 運作的 Office 365 商務進階版 | 由 21Vianet 運作的 Office 365 A1 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | 由世紀運作的 Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Office 365 系統管理](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-21vianet&preserve-view=true#admin-center-features-and-settings)**||||||||
 |使用e Microsoft 365 系統管理中心或 Windows PowerShell 來管理 Office 365|是|是|是|是|是|是|是|
-|使用 Azure 資訊保護 來保護內容|否|否|否|否|否|否|否|
+|使用 AIP 保護內容|否|否|否|否|否|否|否|
 |透過機器翻譯手動翻譯郵件中心文章|是|是|是|是|是|是|是|
 |**[Office 365 套件功能](office-365-suite-features.md)**|**由 21Vianet 運作的 Office 365 商務基本版**|**由 21Vianet 運作的 Office 365 商務版**|**由 21Vianet 運作的 Office 365 商務進階版**|**由 21Vianet 運作的 Office 365 A1**|**由 21Vianet 運作的 Office 365 Enterprise E1**|**由 21Vianet 運作的 Office 365 Enterprise E3**|**由世紀運作的 Office 365 Enterprise F3**|
 |Microsoft Bookings|否|否|是|否|否|否|否|
@@ -265,7 +267,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |Excel 試算表查詢|是|是|是|否|否|否|否|否|是|否|
 |Exchange Online 和 SharePoint Online 封存與規範|是<sup>1</sup>|是|是<sup>1</sup>|否|否|否|否|否|是|否|
 |群組原則支援|是|是|是|否|否|否|否|否|是|否|
-|使用 Azure 資訊保護<sup>11</sup> 的資訊版權管理 (IRM)|否|否|否|否|否|否|否|否|是|否|
+|使用 AIP<sup>11</sup>的資訊版權管理 (IRM) |否|否|否|否|否|否|否|否|是|否|
 |使用 Windows Server AD RMS 的資訊版權管理 (IRM)<sup>2</sup>|是|是|是|是|是|是|是|是|是|是|
 |Office 增益集、ActiveX 及 BHO 支援|是|是|是|否|否|是|否|否|是|否|
 |SharePoint Server、SharePoint Online、商務用 OneDrive 和 Office 365 上筆記本的 OneNote 用戶端存取|否|是|否|否|否|是|否|否|是|否|
@@ -338,7 +340,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |雲端式封存內部部署信箱|否|否|否|是|否|否|否|
 |保留標記和保留原則|是|是|是|是|是|是|是|
 |靜態資料的加密 (BitLocker)|是|是|是|是|是|是|是|
-|使用 Azure 資訊保護 的 IRM|否|否|否|否|否|否|否|
+|使用 AIP 的 IRM|否|否|否|否|否|否|否|
 |使用 Windows Server AD RMS 的 IRM<sup>2</sup>|是|是|是|是|是|是|是|
 |Office 365 郵件加密|否|否|否|是<sup>15</sup>|否|是<sup>15</sup>|否|
 |S/MIME|是|是|是|是|是|是|是||
@@ -533,9 +535,9 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 > [!NOTE]
 > 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
 
-| 方案 | 說明 |
+| 規劃 | 描述 |
 |:-----|:-----|
-|**Exchange Server for Office 365 (21Vianet 運作的 Office 365) 的 Exchange Online 封存**|雲端型封存，適用於在 Exchange Server 2013 或 Exchange 2010 (SP2 或更新版本) 中有主要信箱的使用者。  <br/> 如果您想要將雲端型封存新增至位於內部部署 Exchange 伺服器的主要信箱，您需要設定混合部署。如需有關混合部署的詳細資訊，請參閱 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。  |
+|**Exchange Server for Office 365 (21Vianet 運作的 Office 365) 的 Exchange Online 封存**|雲端型封存，適用於在 Exchange Server 2013 或 Exchange 2010 (SP2 或更新版本) 中有主要信箱的使用者。  <br/> 如果您想要將雲端型封存新增至位於內部部署 Exchange 伺服器的主要信箱，您需要設定混合部署。 如需混合式部署的詳細資訊，請參閱 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。|
 |**Exchange Server for Office 365 (21Vianet 運作的 Office 365) 的 Exchange Online 封存**| 下列計劃已包含封存功能，不需要 Exchange Online Archiving做為附加元件：  <br/>  由 21Vianet 運作的 Office 365 A1  <br/>  由 21Vianet 運作的 Office 365 Enterprise E3  <br/>  由 21Vianet 運作的 Exchange Online Plan 2 for Office 365  <br/>  如需 Exchange Online 信箱封存功能的詳細資料，請參閱 [在 Exchange Online 中封存信箱](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview)。|
 
 下表顯示由 21Vianet 運作的 Office 365 中可用的 Exchange Online Archiving 功能。<br><br>
@@ -559,7 +561,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |內部部署伺服器與 Exchange Online 封存之間的加密|否|是|
 |用戶端與 Exchange Online 封存之間的加密|否|是|
 |加密：S/MIME 和 PGP|是|是|
-|使用 Azure 資訊保護 的 IRM|否|否|
+|使用 AIP 的 IRM|否|否|
 |使用 Windows Server AD RMS 的 IRM|是<sup>4</sup>|是<sup>4</sup>|
 |稽核|是|是|
 
@@ -759,7 +761,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |Microsoft Office 用戶端連線|是|是|是|是|是|是|是|
 |跨瀏覽器支援|是|是|是|是|是|是|是|
 |自訂管理路徑|否|否|否|否|否|否|否|
-|控管|是|是|是|是|是|是|是|
+|治理|是|是|是|是|是|是|是|
 |混合式應用程式啟動器|是|是|是|是|是|是|是<sup>15</sup>|
 |混合式 OneDrive 商務和網站|是|是|是|是|是|是|是<sup>15</sup>|
 |大量清單延展性和管理|是|是|是|是|是|是|是|
@@ -1164,10 +1166,10 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |[管理、部署和擴充性](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|否<sup>2</sup>|是|是|否|是|
 |[快速入門](../project-online-service-description/core-services-functionality.md#getting-started)|是|是|是|否|是|
 |[問題和風險管理 (適用於小組成員)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|是|是|是|否|是|
-|[Office 365 信任中心](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|否|否|否|不適用|不適用|
+|[Office 365 信任中心](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|否|否|否|N/A|N/A|
 |[PPM 合作夥伴生態系統](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|是|是|是|否|是|
-|[服務可靠性](../project-online-service-description/core-services-functionality.md#service-reliability)|是|是|是|不適用|不適用|
-|[服務更新](../project-online-service-description/core-services-functionality.md#service-updates)|是|是|是|不適用|不適用|
+|[服務可靠性](../project-online-service-description/core-services-functionality.md#service-reliability)|是|是|是|N/A|N/A|
+|[服務更新](../project-online-service-description/core-services-functionality.md#service-updates)|是|是|是|N/A|N/A|
 |[小組成員共同作業](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|是|是|是|否|是|
 |[時間和任務管理 (適用於小組成員)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|是|是|是|否|是|
 |**專案管理**|**Project Online 21Vianet 運作的 Office 365 基本版**|**Project Online 21Vianet 運作的 Office 365 專業版**|**Project Online 21Vianet 運作的 Office 365 進階版**|**21Vianet 運作的 Project Professional 2016 for Office 365**|**21Vianet 運作的 Project Server 2016 for Office 365**|

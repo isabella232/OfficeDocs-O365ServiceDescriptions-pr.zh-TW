@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 是一項訂閱服務，可為您提供您已熟悉的最新版 Office 桌面應用程式，例如 Word、Excel 及 PowerPoint。
-ms.openlocfilehash: 26b3b91800dd4c06c584abc443d54fdb8af89ca1
-ms.sourcegitcommit: 188932c7600cb860db47a1046b5f7d0f6f078502
+ms.openlocfilehash: 6d59f49f1b7a275e54ee872cd0590933ef8f609e
+ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "49905156"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50241009"
 ---
 # <a name="office-applications-service-description"></a>Office 應用程式服務說明
 
@@ -54,6 +54,7 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 |[Office Mobile for Android](office-applications.md#office-mobile-for-android) <br/> |否  <br/> |否 <br/> |否  <br/>|是  <br/> |是  <br/> |是<sup>13</sup>  <br/> |是  <br/> |是  <br/> |是<sup>13</sup>  <br/> |是  <br/> |是  <br/> |是<sup>13</sup>  <br/> |
 |[適用於 Windows Phone 手機的 Office Mobile](office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |否  <br/> |否 <br/> |是 <br/>|是  <br/> |是  <br/> |是<sup>13</sup>  <br/> |是  <br/> |是<sup>13</sup>  <br/> |是  <br/> |是  <br/> |是<sup>13</sup>  <br/> |
 |Outlook for Android  <br/> |否  <br/> |否  <br/> |否  <br/>|是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|Microsoft Teams  <br/> |否  <br/> |否  <br/> |是 <br/>|是  <br/> |是  <br/> |是 <br/> |是  <br/> |是  <br/> |是 <br/> |是  <br/> |是  <br/> |是 <br/> |
 |**企業價值** <br/> |**Office 專業增強版 2013** <br/> |**Office 專業增強版 2016** <br/> |**Office 專業增強版 2019** <br/> |**Microsoft 365 Apps 企業版** <br/> |**Microsoft 365 Apps 商務版** <br/> |**Microsoft 365 商務基本版** <br/> |**Microsoft 365 商務標準版** <br/> |**Microsoft 365 商務進階版** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
 |每個使用者可同時在 5 部 PC 或 Mac 上安裝  <br/> |否  <br/> |否  <br/>| 否  <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |否  <br/> |是  <br/> |是<sup>7</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> | 
 |自動化使用者帳戶的佈建  <br/> |不適用  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -68,7 +69,7 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 |Excel 試算表查詢  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Exchange Online 和 SharePoint Online 封存與規範  <br/> |是<sup>1</sup> <br/> |是  <br/> |是  <br/>|是<sup>1</sup> <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |群組原則支援  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|Office 雲端原則支援  <br/> |否  <br/> |否  <br/> |否  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|Office 雲端原則支援  <br/> |否  <br/> |否  <br/> |否  <br/>|是  <br/> |是<sup>15</sup> <br/> |是<sup>16</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>16</sup> <br/> |是  <br/> |是  <br/> |是<sup>16</sup> <br/> |
 |使用 Azure 資訊保護的資訊版權管理  <br/> |否  <br/> |否  <br/> |否  <br/>|否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |是 <br/> |否<sup>2</sup> <br/> |是  <br/> |是  <br/> |否<sup>2</sup> <br/> |
 |使用 Windows Server AD RMS 的 Information Rights Management  <br/> |是<sup>3</sup> <br/> |是  <br/> |是 <br/>| 是<sup>3</sup> <br/>|是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |
 |Office 增益集、ActiveX 與 BHO 支援  <br/> |是  <br/> |是  <br/> |是的<sup>+++<sup> <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |是 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
@@ -103,7 +104,9 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 <sup>11</sup> 若您是在目前通道或目標發行的延期通道上，則目前可以使用 Access。 如果您在順延通道上，則可在 2017 年 6 月存取 Access。 如需詳細資訊，請參閱 [Microsoft 365 和 Office 365 訂閱中包含的 Access](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef)。<br/> 
 <sup>12</sup> 仍支援 Infopath 2013，且隨附于 Office Professional Plus 2016 安裝，但沒有 office 2016 的新版本。<br/> 
 <sup>13</sup> 僅限具有整合畫面的裝置測量10.1 英寸或更小的對角線。<br/> 
-<sup>14</sup> Power Query 是可在此下載的免費增益集： [Excel 的 Microsoft Power query](https://www.microsoft.com/download/details.aspx?id=39379)。 啟用後，可從功能區上的 [Power Query] 索引標籤中取得 Power Query 功能。
+<sup>14</sup> Power Query 是可在此下載的免費增益集： [Excel 的 Microsoft Power query](https://www.microsoft.com/download/details.aspx?id=39379)。 啟用後，可從功能區上的 [Power Query] 索引標籤中取得 Power Query 功能。<br/> 
+<sup>15</sup> 限制用戶端應用程式的 web 應用程式和隱私權原則原則。<br/> 
+<sup>16</sup> 限制 web 應用程式的原則。
 
 ## <a name="office-application-availability-in-office-for-mac-plans"></a>Office for Mac 方案中的 office 應用程式可用性
 
