@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 團隊提供立即訊息、檔案與資料共同作業、音訊和影片通話、豐富的線上會議、行動經驗和大量的 web 會議功能。
-ms.openlocfilehash: 508e02d0e2d2afc3fa559e6759307c0c08a4c6d9
-ms.sourcegitcommit: eae5f1a9793fd0ca082ee81143765ae5849263dc
+ms.openlocfilehash: 55511f990f749fc8f39e84a9e0a7b1211b43bd53
+ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724558"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50460202"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服務描述
 
@@ -22,18 +22,7 @@ Microsoft 團隊是 Microsoft 365 中合作的中心。 小組服務可讓您立
 
 Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](https://www.microsoft.com/trust-center/compliance/accessibility) 。 如需詳細資訊，請參閱 [Microsoft 信任中心](https://www.microsoft.com/trust-center) 和 [Office 協助工具中心](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
 
-針對您的參考，我們已包含可讓使用者使用 Microsoft 小組的訂閱主清單。 如需詳細的計畫資訊，請參閱 [尋找適用于貴公司的 Microsoft 團隊](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1)。 如需政府方案中的其他 Office 365，請參閱 [Office 365 政府方案](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)。 Office 365 G1 到 G5 包含對小組功能的存取權。<br><br>
-
-| 小型企業方案 | 企業方案 | 教育計畫 | 開發人員方案 |
-|:-----|:-----|:-----|:-----|
-|Microsoft 365 商務基本版 <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Office 365 開發人員 <br/> |
-|Microsoft 365 商務標準版 <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
-|Microsoft 365 商務進階版 <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
-|  <br/> |Office 365 F3 <br/> |  Microsoft 365 A3<br/> |  <br/> |
-|  <br/> |Microsoft 365 F1 <br/> |  Microsoft 365 A5<br/> |  <br/> |
-|  <br/> |Microsoft 365 F3 <br/> |  <br/> |  <br/> |
-|  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
-|  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
+如需可讓使用者使用 Microsoft 小組之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。 如需政府方案中的其他 Office 365，請參閱 [Office 365 政府方案](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)。 Office 365 G1 到 G5 包含對小組功能的存取權。
 
 如需詳細的產品功能實現指導，請參閱 [Microsoft 團隊管理檔](https://docs.microsoft.com/MicrosoftTeams)。 此服務說明會詳細說明各雲端安裝所提供服務之間的主要差異。 Microsoft 小組核心功能不會有不同的訂閱。 相容性功能的可用性取決於您的訂閱等級。 若要深入瞭解，請參閱 [Microsoft 小組中的安全性和符合性](https://docs.microsoft.com/microsoftteams/security-compliance-overview)。 如需每個訂閱中可用功能的詳細清單，請參閱 [Microsoft 365 和 Office 365 平臺服務說明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。
 
@@ -49,7 +38,7 @@ Microsoft 團隊並非獨立服務提供。
 
 此表格列出各授權方案或雲端實例的 Microsoft 小組功能可用性。 適用某些注意事項。 如需詳細資訊，請參閱註腳。 此表格可能會變更，恕不另行通知。 請參閱適用于核心服務變更訊息和 [microsoft 授權條款參考檔](https://www.microsoft.com/licensing/product-licensing/products)的 Microsoft 365 訊息中心通知。<br><br>
 
-| 功能 | 小型企業 | 企業方案 | GCC | GCC-高 | DOD | 教育 |
+| 功能 | 小型企業 | 企業方案 | GCC | GCC-高 | DOD | 教育版 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |聊天  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Teams  <br/> |是 <br/> |是 <br/> |是 <br/> |是<sup>1</sup>  <br/> |是<sup>1</sup>  <br/> |是  <br/> |

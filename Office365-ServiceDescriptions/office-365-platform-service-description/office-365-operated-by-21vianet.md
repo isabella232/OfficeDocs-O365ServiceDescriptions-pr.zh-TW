@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: 04b3a9f34ca50f178c2db4102fcf0607ecb3b87d
-ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
+ms.openlocfilehash: 68f57eef2133d6993d269489b883ea1d62a745d0
+ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50241049"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50460302"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -163,7 +163,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |**[服務更新](service-updates.md)**|**由 21Vianet 運作的 Office 365 商務基本版**|**由 21Vianet 運作的 Office 365 商務版**|**由 21Vianet 運作的 Office 365 商務進階版**|**由 21Vianet 運作的 Office 365 A1**|**由 21Vianet 運作的 Office 365 Enterprise E1**|**由 21Vianet 運作的 Office 365 Enterprise E3**|**由世紀運作的 Office 365 Enterprise F3**|
 |提供給所有客戶的定期更新|是|是|是|是|是|是|是|
 |需要採取動作時傳送至訊息中心的通知、解決問題、部署功能或您的服務變更|是|是|是|是|是|是|是|
-|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) 一些服務更新|是|--|是|是|是|是|是|
+|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) 一些服務更新|否|--|否|否|否|否|否|
 |開啟已設定目標發行的選項|否|--|否|否|是|是|是|
 |**[說明與訓練](help-and-training.md)**|**由 21Vianet 運作的 Office 365 商務基本版**|**由 21Vianet 運作的 Office 365 商務版**|**由 21Vianet 運作的 Office 365 商務進階版**|**由 21Vianet 運作的 Office 365 A1**|**由 21Vianet 運作的 Office 365 Enterprise E1**|**由 21Vianet 運作的 Office 365 Enterprise E3**|**由世紀運作的 Office 365 Enterprise F3**|
 |線上說明|是|是|是|是|是|是|是|

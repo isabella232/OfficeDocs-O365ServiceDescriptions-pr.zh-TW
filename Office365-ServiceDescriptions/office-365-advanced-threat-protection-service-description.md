@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 是一項雲端式電子郵件篩選服務，可協助您的組織抵禦未知的惡意程式碼和病毒，方法是提供強健的零日保護，並提供一些功能，以即時保護您的組織不受有害連結。
-ms.openlocfilehash: b3eb9d94fdd96899a0d08e591715a07354104c25
-ms.sourcegitcommit: 29db3ccfdd875fc8968e11c040c6db46c2720134
+ms.openlocfilehash: 6116ffdce71686575258c19c7d70159bcefa2134
+ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49799402"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50460242"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>適用於 Office 365 的 Microsoft Defender 服務描述
 
@@ -78,7 +78,7 @@ Office 365 的 Defender 可搭配任何 SMTP 郵件傳輸代理程式使用，�
 
 每項功能如下所列。 提到 Exchange Online 時，通常是指 Office 365 企業版服務系列。<br><br>
 
-| 功能 | 適用于 Office 的 Defender 365 方案1 | 適用于 Office 的 Defender 365 方案2 | Microsoft 365 E5/E5 Security|
+| 功能 | 適用于 Office 的 Defender 365 方案1 | 適用于 Office 的 Defender 365 方案2 | Microsoft 365 E5/A5 安全性|
 |:-----|:-----|:-----|:-----|
 |*設定、保護及偵測*|
 |[安全附件](#safe-attachments)|是|是|是|

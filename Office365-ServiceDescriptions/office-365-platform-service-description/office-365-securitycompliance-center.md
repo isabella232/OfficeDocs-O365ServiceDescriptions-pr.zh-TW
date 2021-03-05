@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全性與 &amp; 合規性中心的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-ms.openlocfilehash: 0116ecf3f46c2d870d88a5d1ef53e18452a53e7b
-ms.sourcegitcommit: f98239a5631ba312d63753ffce83a7413a143ee5
+ms.openlocfilehash: 4daf754f5472620482eced63a9970b05a4e61a6c
+ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50122193"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50460192"
 ---
 # <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 
@@ -30,7 +30,7 @@ ms.locfileid: "50122193"
 | 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Microsoft 365 商務進階版 | Office 365 E1，Office 365 美國政府版 G1 | Office 365 E3，Office 365 美國政府版 G3 | Office 365 E5 | Office 365 F3，Office 365 美國政府（F3）|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[存取安全性與合規性中心](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |
-|[資料遺失防護，適用于 Exchange online、SharePoint 線上及 OneDrive （適用于 Business](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)<sup>2</sup> ） | 否 | 否  |否   | 是 | 是 | 是 | 否  |
+|[資料遺失防護，適用于 Exchange online、SharePoint 線上及 OneDrive （適用于 Business](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)<sup>2</sup> ） | 否 | 否  |是   | 是 | 是 | 是 | 否  |
 |[手動敏感度標籤](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>3</sup> | 否 | 否  |否   | 是 | 是 | 是 | 否  |
 |[電子文件探索案例](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |是   |是   |是   |是   |是   |是   |是   |
 |[電子文件探索保留 (包括查詢式 電子文件探索保留)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |否   |否   |否  |否   |是   |是   |否   |

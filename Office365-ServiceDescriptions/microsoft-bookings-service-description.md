@@ -1,5 +1,5 @@
 ---
-title: Microsoft 預約服務說明
+title: Microsoft Bookings 服務描述
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -7,27 +7,20 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 深入瞭解 Microsoft 預約中可用的計畫選項及功能。
-ms.openlocfilehash: 352c09c4ecdab1d97244e59cef988da92a5196df
-ms.sourcegitcommit: 8d0cba71c48d22bd53bc3e7b2f51e6662e1e51e8
+ms.openlocfilehash: 70ae22991cc017acc65f47805d3361365906b982
+ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "48932000"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50460232"
 ---
-# <a name="microsoft-bookings-service-description"></a>Microsoft 預約服務說明
+# <a name="microsoft-bookings-service-description"></a>Microsoft Bookings 服務描述
 
-Microsoft 預約簡化了排程和管理約會的過程。 預約包含以 web 為基礎的預約行事曆，與 Outlook 同步處理，以最優化可用性並讓客戶和使用者有彈性地預訂最適合他們的時間。 自動化通知電子郵件和提醒會縮小未展示和提高客戶滿意度，而且組織會節省時間，縮短重複排程的工作。 預約會與 Microsoft 團隊整合，以透過線上會議來支援虛擬約會，以及透過小組中的預約應用程式進行預定的行事曆管理工作。
+Microsoft 預約簡化了排程和管理約會的過程。 預約包含以 web 為基礎的預約行事曆，與 Outlook 同步處理，以最優化可用性並讓客戶和使用者有彈性地預訂最適合他們的時間。 自動化通知電子郵件和提醒會縮小未展示和提高客戶滿意度，而且組織會節省時間，縮短重複排程的工作。 預約會與 Microsoft 團隊整合，以透過線上會議來支援虛擬約會，以及透過團隊中的預約應用程式預定行事曆管理工作。
 
 ## <a name="available-plans"></a>可用計畫
 
-下表顯示包含 Microsoft 預約的計畫，以便您可以選擇最符合貴組織需求的解決方案。
-
-| 小型企業方案 | 企業方案 | 教育計畫 | 開發人員方案 |
-| --- | --- | --- | --- |
-| Microsoft 365 商務標準版 | Office 365 E3 | Office 365 A3 | Microsoft 365 商務標準版 |
-| Microsoft 365 商務進階版 | Office 365 E5 | Office 365 A5 | Microsoft 365 商務進階版 |
-|  | Microsoft 365 E3 | Microsoft 365 A3 |  |
-|  | Microsoft 365 E5 | Microsoft 365 A5 |  |
+如需啟用 Microsoft 預約使用者之訂閱的詳細計畫資訊，請參閱  [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
 ## <a name="feature-availability"></a>功能可用性
 
@@ -46,7 +39,7 @@ Microsoft 預約簡化了排程和管理約會的過程。 預約包含以 web �
 | Microsoft Graph 中的預約 API | 是 | 是 | 否 | 否 | 否 | 是 |
 | 小組中的預定應用程式 | 是 | 是 | 否 | 否 | 否 | 是 |
 
-<sup>1</sup> 線上會議需要預約的職員取得 Microsoft 小組或商務用 Skype 授權，以允許建立會議。
+<sup>1</sup> 線上會議需要預約員工參加 Microsoft 小組或商務用 Skype 授權，以允許建立會議。
 <br/><sup>2</sup> SMS 通知目前在 Beta 中，僅適用于北美。
 
 ## <a name="learn-more"></a>深入了解
