@@ -2,7 +2,6 @@
 title: 安全性 & 合規性的 Microsoft 365 授權指南
 ms.author: office365servicedesc
 author: pamelaar
-manager: gailw
 ms.reviewer: v-trscho
 audience: ITPro
 ms.topic: reference
@@ -12,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: f21b4f5651a79e4cc890090406694ffea4d03e2f
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 68bbb37734f1fc708e0b05ef3b152cf878757b48
+ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460252"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50572719"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>安全性合規性的 Microsoft 365 授權指南 &amp;
 
@@ -391,7 +390,7 @@ Microsoft 提供可在 Microsoft 365 規範中心內設定的協力廠商資料�
 
 Microsoft Graph API for 小組 DLP 是租使用者層級的值。 每一位由此服務受益的使用者皆須獲得授權。
 
-## <a name="ediscovery"></a>電子文件探索
+## <a name="ediscovery"></a>eDiscovery
 
 eDiscovery 在公司內為 IT 和法律部門提供調查和 eDiscovery 解決方案，以找出、收集、保留、減少及檢查與調查或訴訟相關的內容，然後再將其匯出至 Microsoft 365 系統。
 

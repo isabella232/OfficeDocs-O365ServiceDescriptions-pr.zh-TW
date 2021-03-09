@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 政府的概述，並說明購買選項。
-ms.openlocfilehash: 4949989b9c5f7b46e53e8958e88d466f58dd216f
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 46a53119dd93d49699c2f8f2292d1947a4c034c9
+ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460262"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50572709"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版-如何購買
 
@@ -112,7 +112,7 @@ Microsoft 365 政府可供合格的政府客戶和非政府組織，贊助用來
 
 請遵循下列步驟來購買 Microsoft 365 政府授權：
 
-1. 完成並提交適用于 [gcc](https://azure.microsoft.com/global-infrastructure/government/request/) 或 [gcc](https://azure.microsoft.com/global-infrastructure/government/request/) 的表單，以驗證貴組織的資格。
+1. 完成並提交適用于 [gcc](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) 或 [gcc](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) 的表單，以驗證貴組織的資格。
 2. 使用 Microsoft 帳戶小組或合格的合作夥伴進行訂單。 客戶只能透過選取的合作夥伴購買 Microsoft 365 給我們的政府授權。
 
 **Lsp 與 GCC 高 (+ 500 席位)**
