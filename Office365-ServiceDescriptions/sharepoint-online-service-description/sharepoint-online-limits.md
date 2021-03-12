@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 瞭解 Microsoft 365 和獨立方案的 SharePoint 限制。
-ms.openlocfilehash: 8e8931c77f7ceda2b1aed90d4804f98355fd6caa
-ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
+ms.openlocfilehash: 12baba7f9da374e88825b97aef30182f9b2014f5
+ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878696"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726758"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -49,7 +49,7 @@ ms.locfileid: "49878696"
 
 ### <a name="file-size-and-file-path-length"></a>檔案大小及檔案路徑長度
 
-100 GB。 若要深入瞭解使用新 OneDrive 同步處理應用程式時的限制和限制 ( # A0) ，請參閱 [不正確檔案名和檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+250 GB。 若要深入瞭解使用新的 OneDrive 同步處理應用程式 (OneDrive.exe) 時的限制和限制，請參閱 [不正確檔案名和檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
 
 ### <a name="moving-and-copying-across-sites"></a>跨網站移動及複製
 
@@ -59,9 +59,9 @@ ms.locfileid: "49878696"
 - 不超過30000個檔案
 - 每個檔案都必須小於 15 GB
 
-### <a name="sync"></a>Sync
+### <a name="sync"></a>同步處理
 
-為了達到最佳效能，建議您在單一 OneDrive 或小組網站文件庫中儲存不超過300000的檔案。 雖然 SharePoint 線上可以儲存每個文件庫的30000000檔，但為了獲得最佳效能，建議您在所有文件庫中同步處理不超過300000的檔案。 此外，如果您要同步處理所有文件庫中的300000或以上的專案，也可能會發生相同的效能問題，即使您不會同步處理這些文件庫中的所有專案。 如果您使用 OneDrive 舊版 Business sync 用戶端 ( # A0) ，則每個文件庫的同步限制為20000個專案 (包括每個小組網站) 的5000專案。
+為了達到最佳效能，建議您在單一 OneDrive 或小組網站文件庫中儲存不超過300000的檔案。 雖然 SharePoint 線上可以儲存每個文件庫的30000000檔，但為了獲得最佳效能，建議您在所有文件庫中同步處理不超過300000的檔案。 此外，如果您要同步處理所有文件庫中的300000或以上的專案，也可能會發生相同的效能問題，即使您不會同步處理這些文件庫中的所有專案。 如果您使用舊版商務同步用戶端 (Groove.exe) ，則每個文件庫的同步處理限制為20000個專案 (包括每個小組網站) 的5000專案 OneDrive。
 
 ### <a name="versions"></a>版本
 

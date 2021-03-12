@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 請參閱哪些 SharePoint 功能可用於哪些方案。
-ms.openlocfilehash: 06a4f6a51e4f7bc4fa50867441f763a15291ef47
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 32a6b46925cc0a224d69199644dd67b44df8569d
+ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519154"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726698"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服務描述
 
@@ -40,7 +40,7 @@ Microsoft 365 中的 SharePoint 可協助組織共用及管理內容、知識及
   
 ## <a name="subscription-options"></a>訂閱選項
 
-Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不同計畫的相關資訊，包括獨立計畫選項及從一個計畫移至另一個計畫的資訊，請參閱 [Microsoft 365 Plan options](../office-365-platform-service-description/office-365-plan-options.md)。
+Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需可讓使用者 SharePoint 之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
 若要存取 SharePoint，您組織中的使用者必須獲指派包含 SharePoint 的授權。 Firstline 方案不是以獨立提供方式銷售，只是 [Office 365 f3](https://www.microsoft.com/microsoft-365/business/office-365-f1)、 [microsoft 365 F1](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) 或 [microsoft 365 F3](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab)的一部分。 
   
@@ -137,7 +137,7 @@ SharePoint 會與 Microsoft 365 的高級安全性和相容性功能整合。 �
 - [資訊屏障](/microsoft-365/compliance/information-barriers)
 - [適用於 Office 365 的 Microsoft Defender](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [保留標籤和原則](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
-- [敏感性標籤](/microsoft-365/compliance/sensitivity-labels)
+- [敏感度標籤](/microsoft-365/compliance/sensitivity-labels)
 - [統一的審計](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (審核 SharePoint 使用者和系統管理員活動) 
 
 如需 [Azure 資訊保護](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)的詳細資訊，請參閱 [azure 資訊保護的需求](/azure/information-protection/requirements)

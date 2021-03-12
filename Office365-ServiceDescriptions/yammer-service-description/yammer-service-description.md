@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 查看不同的 Yammer 方案中提供的功能。
-ms.openlocfilehash: 6a0a95ba335fc6b75c1730b101b55d052a69cd95
-ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
+ms.openlocfilehash: a09ab0e57d5f79355b5e89f22362a6647b285fca
+ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48408249"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726728"
 ---
 # <a name="yammer-service-description"></a>Yammer 服務說明
 
@@ -24,7 +24,7 @@ Yammer 是同級產品最佳、安全且私密的企業社交網路。 Yammer �
   
 如需包含 Yammer 的計畫清單，請參閱 [Microsoft service 系列與方案](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans)。
   
-若要跨方案比較功能，請參閱 [強大的工具來支援您的企業](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
+如需可讓使用者使用 Yammer 之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
 ## <a name="system-requirements"></a>系統需求
 
@@ -34,10 +34,10 @@ Yammer 是同級產品最佳、安全且私密的企業社交網路。 Yammer �
 
 Yammer 可透過下列計劃取得：<br><br>
   
-| 方案 | 描述 |
+| 規劃 | 描述 |
 |:-----|:-----|
 |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |企業社交網路 - 隨時隨地。  <br/> |
-|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |具備進階安全性、系統管理和整合功能的企業社交網路。  <br/> |
+|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |使用高級安全性、管理和整合的企業社交網路。  <br/> |
    
 > [!NOTE]
 > [Microsoft 365 和 Office 365 平臺服務說明](../office-365-platform-service-description/office-365-platform-service-description.md)中所述的功能和原則不適用於 Yammer 服務。 
@@ -47,7 +47,7 @@ Yammer 可透過下列計劃取得：<br><br>
 
 Yammer 會遵守 [Microsoft 365 變更管理原則](https://aka.ms/ManageChange)，但不會使用目標版本來推出更新。 
   
-所有 Yammer 使用者都需要接受 A/B 功能測試。這能讓 Microsoft 測試功能，以改善在多種環境與裝置中的穩定性、效能和體驗。同一網路內的使用者可能會因為接受測試而得到不同的體驗。客戶無法選擇退出 A/B 測試。
+所有 Yammer 使用者都需要接受 A/B 功能測試。 這可讓 Microsoft 測試許多環境和裝置的穩定性、效能及經驗改進功能。 同一網路內的使用者可能會因為接受測試而得到不同的體驗。 客戶無法選擇退出 A/B 測試。
   
 如果要進行任何需要客戶採取動作或預期會對客戶造成重大影響的變更 (A/B 測試、新功能、取代、法務遵循界限、工作流程變更)，我們會事先發出通知。我們發現了一個 Yammer 所做的變更只會對少部分使用者造成影響的案例。例如，這有可能是變更或移除使用率偏低、但有少量使用者已啟用的功能 (例如 Yammer Chrome 延伸模組)。在這些情況下，我們相信除了平常與「驗證管理員」的溝通管道 (如前述原則所列) 以外，若能直接與這些使用者溝通，將可為少數受到變更影響的使用者帶來良好的使用者體驗。對於分類為「需要因應的變更 (為變更訂計劃)」或「需要知悉的變更 (持續留意)」，且只會影響到特定一組使用者的變更，我們可以直接通知這些使用者。下表已更新以反映此變更。 
   
@@ -55,8 +55,8 @@ Yammer 會遵守 [Microsoft 365 變更管理原則](https://aka.ms/ManageChange)
   
 | 變更類型 | 通訊通道 |
 |:-----|:-----|
-|**需要動作的變更 (規劃變更) ** <br/>需要系統管理員進行變更，讓服務保持執行狀態，更新可能會影響組織的合規性  <br/> |-Office 365 訊息中心電子郵件 direct to Yammer 已驗證的系統管理員 <br/>-Microsoft 365 藍圖<br/>-Yammer 服務更新<br/>-外部群組<br/>對於只會影響到特定一組使用者的變更，我們也可以直接通知這些使用者。 |
-|**需要知曉 (所做的變更會保持通知) **<br/>不需要系統管理員指令動作的變更，視覺設計變更  <br/> |-Office 365 訊息中心<br/>-Microsoft 365 藍圖<br/>-Yammer 服務更新<br/>-外部群組<br/>對於只會影響到特定一組使用者的變更，我們也可以直接通知這些使用者。 |
+|**需要動作的變更 (規劃變更)** <br/>需要系統管理員進行變更，讓服務保持執行狀態，更新可能會影響組織的合規性  <br/> |-Office 365 訊息中心電子郵件 direct to Yammer 已驗證的系統管理員 <br/>-Microsoft 365 藍圖<br/>-Yammer 服務更新<br/>-外部群組<br/>對於只會影響到特定一組使用者的變更，我們也可以直接通知這些使用者。 |
+|**需要知曉 (所做的變更會保持通知)**<br/>不需要系統管理員指令動作的變更，視覺設計變更  <br/> |-Office 365 訊息中心<br/>-Microsoft 365 藍圖<br/>-Yammer 服務更新<br/>-外部群組<br/>對於只會影響到特定一組使用者的變更，我們也可以直接通知這些使用者。 |
 |**非危急** <br/>不重要且不需要採取動作或認知的變更，即使這些變更可能會由某些使用者觀察  <br/> |不會廣泛通知 |
    
 ## <a name="feature-availability-across-yammer-plans"></a>各 Yammer 計劃中可用的功能

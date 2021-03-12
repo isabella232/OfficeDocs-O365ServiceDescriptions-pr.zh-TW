@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
-ms.openlocfilehash: 43ee44473f69fd2d5183be8b481a58329d0bf23d
-ms.sourcegitcommit: a31d389e913409197bfb4ce0adb9a0b34ac69c7f
+ms.openlocfilehash: 7fccd99b34860b0f07604e2dc7b079e932625fc4
+ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "50069258"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726748"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -47,7 +47,7 @@ Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsof
   
 ## <a name="plans-for-exchange-online"></a>Exchange Online 的計畫
 
-Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需不同計畫的相關資訊，包括獨立計畫選項及從一個計畫移至另一個計畫的資訊，請參閱 [Office 365 plan options](../office-365-platform-service-description/office-365-plan-options.md)。
+Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需啟用 Exchange Online 使用者之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
 必須將訂閱計劃指派給存取 Exchange Online 服務的每一位使用者，並且每一個使用者訂閱都有其自己的信箱。這些信箱中的資料夾和訊息存在於 Microsoft 資料中心上執行 Exchange Server 的電腦上。
   

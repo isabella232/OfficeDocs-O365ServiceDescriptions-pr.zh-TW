@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 請參閱哪些商務用 Skype Online 功能可在不同的 Microsoft 365 和 Office 365 方案內使用。
-ms.openlocfilehash: 070ea7ca1e66b1157726bea68c4130800b21a9f5
-ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
+ms.openlocfilehash: 861521c0a99fefe0b4709ea540fb659ba845debd
+ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49709741"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726716"
 ---
 # <a name="skype-for-business-online-service-description"></a>商務用 Skype Online 服務說明
 
@@ -42,7 +42,7 @@ ms.locfileid: "49709741"
 
 建議使用我們的簡單比較頁面來選擇商務用 Skype Online 版本。 請參閱 [尋找適用于您公司的 Microsoft 團隊](https://go.microsoft.com/fwlink/?linkid=798291)。 如果您想要更深入的比較，請參閱以下的功能表格。 如果您需要額外說明，請連絡[支援](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support)。 您可以從下拉式清單選取您的地區設定以取得當地號碼。
   
-若要查看所有方案，請參閱 [強大的工具來支援您的企業](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。 如需更詳細的比較，請參閱 [Microsoft 365 方案選項](https://go.microsoft.com/fwlink/?linkid=846972)。
+如需可讓使用者啟用商務用 Skype Online 之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。 如需更詳細的比較，請參閱 [Microsoft 365 方案選項](https://go.microsoft.com/fwlink/?linkid=846972)。
   
  若要比較各商務用 Skype 桌面和網頁用戶端的個別功能，請參閱 [商務用 Skype Server 2015 的桌面用戶端功能比較](https://go.microsoft.com/fwlink/?linkid=829754)。 如需商務用 Skype mobile 用戶端的詳細比較，請參閱 [適用于商務用 skype 的行動用戶端功能比較](https://go.microsoft.com/fwlink/?linkid=846932)
   

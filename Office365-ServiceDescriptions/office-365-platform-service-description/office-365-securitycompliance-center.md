@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全性與 &amp; 合規性中心的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-ms.openlocfilehash: 4daf754f5472620482eced63a9970b05a4e61a6c
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 38bdd64efec20a5535226507a28b7c3a61e632e8
+ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460192"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726708"
 ---
 # <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 
@@ -27,16 +27,35 @@ ms.locfileid: "50460192"
   
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>&amp;商務和企業方案的安全性與合規性中心可用性
 
-| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Microsoft 365 商務進階版 | Office 365 E1，Office 365 美國政府版 G1 | Office 365 E3，Office 365 美國政府版 G3 | Office 365 E5 | Office 365 F3，Office 365 美國政府（F3）|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|[存取安全性與合規性中心](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |
-|[資料遺失防護，適用于 Exchange online、SharePoint 線上及 OneDrive （適用于 Business](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)<sup>2</sup> ） | 否 | 否  |是   | 是 | 是 | 是 | 否  |
-|[手動敏感度標籤](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>3</sup> | 否 | 否  |否   | 是 | 是 | 是 | 否  |
-|[電子文件探索案例](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |是   |是   |是   |是   |是   |是   |是   |
-|[電子文件探索保留 (包括查詢式 電子文件探索保留)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |否   |否   |否  |否   |是   |是   |否   |
-|[電子文件探索匯出](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |否   |否   |否   |否   |是   |是   |否   |
-|[基本審核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>1</sup> |是   |是   |是|是   |是   |是   |是   |
-|[Office 365 郵件加密 (OME) 基本](https://docs.microsoft.com/microsoft-365/compliance/ome)  |否   |否   |否   |否   |是  |是   |否   |
+| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Microsoft 365 商務進階版 | Office 365 E1，Office 365 美國政府版 G1 | Office 365 E3，Office 365 美國政府版 G3 | Office 365 E5 |Office 365 G5 | Office 365 F3，Office 365 美國政府（F3）|
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|[存取安全性與合規性中心](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |是   |
+|[Office 365 雲端 App 安全性](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) | 否 | 否 |否 | 否 | 否 | 是 | 是  |   |
+|[威脅管理，例如郵件篩選和反惡意程式碼](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats) | 是 | 是 | 是 | 是 | 是 | 是 | 是 | 是 |
+|[高級威脅管理，例如網路釣魚活動的威脅瀏覽器](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti)<sup>6</sup> | 否 | 否 |否 | 否 | 否 | 是 | 是 | 否 |
+|[客戶加密箱](https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests) | 否 | 否 | 否 | 否 | 否 | 是 | 是  | 否  |
+|[行動裝置管理](https://docs.microsoft.com/microsoft-365/admin/basic-mobility-security/set-up) | 是 | 是 | 是 | 是 | 是 | 是 | 是 | 是 |
+|Business<sup>7，9</sup>的[Exchange Online、SharePoint Online 和 OneDrive 資料遺失防護](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies) | 否 | 是 | 是 | 否 | 是 | 是 | 否 | 否 |
+|[Microsoft 小組的通訊資料遺失防護](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) | 否 | 否 | 否 | 否 | 否 | 是 | 否 |  |
+|[手動敏感度標籤](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 否 | 否 | 否 | 是 | 是 | 是 | 是 | 否 |
+|自動敏感度標籤 | 否 | 否 |否 | 否 | 否 | 是 | 是 | 否 |
+|[資訊屏障](https://docs.microsoft.com/microsoft-365/compliance/information-barriers) | 否 | 否  |否  | 否 | 否 | 是 | 否  | 否  |
+|[資訊管理](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup> | 是<sup>11</sup> | 是<sup>11</sup>  |是<sup>11</sup>  | 是 | 是 | 是 | 是 | 是<sup>11</sup>  |
+|[高級資訊管理](https://docs.microsoft.com/microsoft-365/compliance/retention)<sup>2</sup> | 否 | 否  |否  | 否 | 否 | 是 | 是  | 否  |
+|[內容搜尋](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) | 是 | 是  |是  | 是 | 是 | 是 | 是  | 是  |
+|[電子文件探索案例](https://docs.microsoft.com/microsoft-365/compliance/get-started-core-ediscovery)  |是   |是   |是   |是   |是   |是   |是   | 是  |
+|[電子文件探索保留 (包括查詢式 電子文件探索保留)](https://docs.microsoft.com/microsoft-365/compliance/get-started-core-ediscovery)  |否   |否   |否  |否   |是   |是   |是   |否   |
+|[電子文件探索匯出](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |否   |否   |否   |否  |是   |是   |是  |否   |
+|[Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)<sup>5</sup>  |否   |否   |否   |否  |否   |是   |是  |否  |
+|[封存](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)  |是<sup>3</sup>  |是<sup>3</sup>  |是<sup>3</sup>  |是<sup>3</sup>  |是<sup>4</sup>   |是<sup>4</sup>   |是  |否  |
+|[警示原則](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)  |是  |是  |是  |是  |是  |是  |是  |是  |
+|[基本審核](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |是 |是 |是 |是 |是 |是 |是 |是 |
+|[進階稽核](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit) |否 |否 |否 |否 |否 |是 |是 |否 |
+|[通訊合規性 (監察原則) ](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies) |否 |否 |否 |否 |否 |是 |是 |否 |
+|[Office 365 郵件加密 (OME) 基本](https://docs.microsoft.com/microsoft-365/compliance/ome)  |否 |否 |否 |否 |是 |是 |是 |否 |
+|[Office 365 進階郵件加密](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |否 |否 |否 |否 |否 |是 |是 |否 |
+|[特殊許可權存取管理](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |否 |否 |否 |否 |否 |是 |否 |否 |
+|[客戶金鑰](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |否 |否 |否 |否 |否 |是 |否 |否 |
 
 <sup>1</sup> 除了 E5) 之外，所有包含基本 (審核的計畫的審計記錄會保留90天。 因為 E5 包含高級審計，所以審計記錄會保留最多一年。 此外，您也可以使用 [Office 365 管理活動 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) ，從統一的審計記錄檔中取得事件。
 
