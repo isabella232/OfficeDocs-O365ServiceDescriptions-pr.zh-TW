@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: 46b4ab887cee6d01733814a88e874b968b7c35ae
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
+ms.openlocfilehash: b03d6844943ed72aa56e4fe1d740dda9c11a66a2
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572739"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902058"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -275,7 +275,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |Office 遙測|是|是|是|否|否|否|否|否|是|否|
 |用戶端應用程式的離線支援|是|是|是|是|是|是|否|否|是|否|
 |最佳化的並存用戶端安裝|否|是|是|是|是|是|否|否|是|否|
-|Excel 的 Power Map|否<sup>3</sup>|否|否|否|否|否|否|否|是|否|
+|Excel 的 Power Map|否|否|否|否|否|否|否|否|否|否|
 |Power Pivot for Excel|否|否|否|否|否|否|否|否|是|否|
 |Excel 的 Power Query|否|否|否|否|否|否|否|否|是|否|
 |Power View for Excel|否|否|否|否|否|否|否|否|是|否|

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 取得 Exchange Online Protection 功能和需求的相關資訊。 包含提供 Exchange Online Protection 的方案清單，以及各項方案中功能的比較。
-ms.openlocfilehash: d518468f738671980c1d314533b976209d7de124
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: 187ec7cee1b045a9e859e1157cddef29059cac2b
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245718"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901932"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服務說明
 
@@ -32,7 +32,9 @@ Microsoft Exchange Online Protection (EOP) 是雲端式的電子郵件篩選服�
 
 - **在混合式部署中**：EOP 可以設定為保護您的郵件環境，並在您混合使用內部部署及雲端信箱時控制郵件路由傳送。
 
-若要跨方案比較功能，請參閱 [強大的工具來支援您的企業](https://products.office.com/business/compare-more-office-365-for-business-plans)。
+## <a name="available-plans"></a>可用計畫
+
+如需可讓使用者進行 Exchange Online Protection 之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
 
 若要購買 Exchange Online Protection，請參閱 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)。
 
@@ -47,7 +49,7 @@ Microsoft Exchange Online Protection (EOP) 是雲端式的電子郵件篩選服�
 
 EOP 可透過下列訂閱計劃取得：<br><br>
 
-| 方案 | 描述 |
+| 規劃 | 描述 |
 |:-----|:-----|
 |[獨立式 EOP](https://products.office.com/exchange/exchange-email-security-spam-protection)|保護您的內部部署電子郵件組織的個別雲端式服務。|
 |[Exchange Online 中的 EOP 功能](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|Exchange Online 雲端託管信箱內建的保護。|

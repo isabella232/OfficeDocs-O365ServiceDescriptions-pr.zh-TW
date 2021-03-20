@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: 請閱讀本文以瞭解 Microsoft Exchange Online 封存。
-ms.openlocfilehash: 4c83a11a953f29c20c6e7e743403985c465d0aad
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: bf2d54bab85725b2d2e334bf17c2b6611a410c59
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293629"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901898"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online 封存服務說明
 
@@ -28,7 +28,9 @@ Microsoft Exchange Online 封存是 Microsoft 365 雲端型企業級封存解決
   
 若要購買 Exchange Online 封存，請參閱 [Exchange online 封存 for server](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)。
   
-若要跨方案比較功能，請參閱 [強大的工具來支援您的企業](https://products.office.com/business/compare-more-office-365-for-business-plans)。
+## <a name="available-plans"></a>可用計畫
+
+如需可讓使用者進行 Exchange Online 封存之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
   
 > [!TIP]
 > 您可以匯出、儲存及列印服務描述中的頁面。 瞭解如何 [匯出內容搜尋結果](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。 
@@ -37,7 +39,7 @@ Microsoft Exchange Online 封存是 Microsoft 365 雲端型企業級封存解決
 
 您可透過下列計劃使用 Exchange Online Archiving。<br><br>
   
-| 方案 | 描述 |
+| 規劃 | 描述 |
 |:-----|:-----|
 |**Exchange Server 適用的 Exchange Online 封存** <br/> |在 Exchange server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange 2010 (SP2 或更新版本) 中，具有主要信箱之使用者的雲端式封存。  <br/> 如果您想要將雲端型封存新增至位於內部部署 Exchange 伺服器的主要信箱，您需要設定混合部署。 如需有關混合部署的詳細資訊，請參閱 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。  <br/> |
 |**Exchange Server 適用的 Exchange Online 封存 (透過企業 CAL 套件)** <br/> |在 Exchange server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange 2010 (SP2 或更新版本) 中，具有主要信箱之使用者的雲端式封存。 如需詳細資訊，請參閱 [Client Access 授權和管理授權](https://www.microsoft.com/licensing/product-licensing/client-access-license)。  <br/> |
@@ -64,14 +66,14 @@ Microsoft Exchange Online 封存是 Microsoft 365 雲端型企業級封存解決
   
 ## <a name="unlimited-archive-storage-quota"></a>無限制封存儲存配額
 
- 「無限封存」功能 (稱為「 *自動展開* 封存」) 會在封存信箱中提供額外的儲存空間。 每位 Exchange Online Archiving 訂閱者初始會獲得 100 GB 的封存信箱儲存空間。 當自動展開的封存開啟時，當達到 100 GB 的儲存容量時，會自動新增額外的儲存空間。 在 Exchange 混合式部署中，只有在內部部署使用者的信箱位於 Exchange Server 2019、Exchange Server 2016 或 Exchange Server 2013 (SP1 或更新版本) 時，雲端式封存信箱才支援自動展開封存。 如需詳細資訊，請參閱 [無限期封存一覽](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)。
+ 「無限封存」功能 (稱為「 *自動展開* 封存」) 會在封存信箱中提供額外的儲存空間。 每位 Exchange Online Archiving 訂閱者初始會獲得 100 GB 的封存信箱儲存空間。 當自動展開的封存開啟時，當達到 100 GB 的儲存容量時，會自動新增額外的儲存空間。 在 Exchange 混合式部署中，只有在內部部署使用者的信箱位於 Exchange Server 2019、Exchange Server 2016 或 Exchange Server 2013 (SP1 或更新版本) 時，雲端式封存信箱才支援自動展開封存。 如需詳細資訊，請參閱 [無限制封存的概觀](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)。
   
 > [!IMPORTANT]
 > 系統管理員無法調整儲存空間配額。<br/>
 > 位於 Exchange Server 2010 上的信箱不支援自動擴充封存。
   
 > [!IMPORTANT]
-> [！注意] 只有針對個別使用者或共用信箱所用的信箱，才支援自動展開封存，其增長率為 * &nbsp; 每日未超過 1 GB*。 禁止透過日誌記錄、傳輸規則或自動轉寄規則，將郵件複製到 Exchange Online Archiving信箱中進行封存。 使用者的封存信箱僅供該使用者使用。 Microsoft 保留在使用者的封存信箱用來儲存其他使用者的封存資料或其他不適當用途的情況下，拒絕無限封存的權利。
+> [！注意] 只有針對個別使用者或共用信箱所用的信箱，才支援自動展開封存，其增長率為 *&nbsp; 每日未超過 1 GB*。 禁止透過日誌記錄、傳輸規則或自動轉寄規則，將郵件複製到 Exchange Online Archiving信箱中進行封存。 使用者的封存信箱僅供該使用者使用。 Microsoft 保留在使用者的封存信箱用來儲存其他使用者的封存資料或其他不適當用途的情況下，拒絕無限封存的權利。
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>各 Exchange Online 封存計劃中可用的功能
 

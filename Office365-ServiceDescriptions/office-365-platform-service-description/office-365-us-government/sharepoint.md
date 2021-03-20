@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 深入瞭解美國政府雲端客戶的 SharePoint 功能可用性。
-ms.openlocfilehash: 505be0509dbef718e64983377c8dc75a23adfd26
-ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
+ms.openlocfilehash: fc782a01c99165fbf19156250e09220656d46ba3
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "50145980"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902018"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>適用于美國政府環境的 SharePoint
 
@@ -73,6 +73,7 @@ ms.locfileid: "50145980"
 - 將清單及頁面新增至團隊不適用於 GCC 高和 DoD 的客戶
 - 目前已停用 SharePoint 于 GCC 高版的 Online 中的圖形功能。 任何依賴 Microsoft Graph 的服務目前都無法使用
 - 依靠網際網路服務連線的功能（例如 [股票影像] 索引標籤）不會如預期般運作。
+- 無法使用檔案和網站活動的通知
 
 ## <a name="search-features"></a>搜尋功能
 

@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics 功能、分配、隱私權及必要條件
-ms.openlocfilehash: dc92292e5211324a761714544abe381e48c05418
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: 204c16b82ce93a0660259c64bf5e283ba4837005
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134020"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902042"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 服務描述
 
@@ -22,6 +22,10 @@ MyAnalytics 摘要說明您在工作中花費的時間，然後建議更聰明�
 一些 MyAnalytics 的元素會自動提供給各種 Office 365 方案的使用者。 若要瞭解 Office 365 和 Microsoft 365 方案中包含哪些元素，請參閱 [MyAnalytics 方案和環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。  
 
 MyAnalytics 會以保護員工隱私權的方式處理資訊。 如需詳細資訊，請參閱 [Data 隱私權](#data-privacy)。
+
+## <a name="available-plans"></a>可用計畫
+
+如需可讓使用者 MyAnalytics 之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
 
 ## <a name="elements"></a>元素
 

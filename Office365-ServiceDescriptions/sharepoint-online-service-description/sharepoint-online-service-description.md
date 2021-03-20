@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 請參閱哪些 SharePoint 功能可用於哪些方案。
-ms.openlocfilehash: 32a6b46925cc0a224d69199644dd67b44df8569d
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726698"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901930"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服務描述
 
@@ -30,7 +30,7 @@ Microsoft 365 中的 SharePoint 可協助組織共用及管理內容、知識及
 
 如需快速概觀，請參閱[什麼是 SharePoint？](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-若要查看哪些方案包括 SharePoint， [強大的工具可支援您的企業](https://products.office.com/business/compare-more-office-365-for-business-plans)。 如需 Microsoft 365 的系統需求，請參閱 [microsoft 365 和 Office 資源](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)。 
+如需可讓使用者 SharePoint 之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。 如需 Microsoft 365 的系統需求，請參閱 [microsoft 365 和 Office 資源](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)。
 
 若要深入瞭解我們政府雲端客戶的 SharePoint 功能差異，請參閱 [SharePoint FOR us 政府環境](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)。
   

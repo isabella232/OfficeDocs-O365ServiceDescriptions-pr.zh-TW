@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: 深入瞭解 Microsoft 365 與 Office 365 教育版方案之間的差異。
-ms.openlocfilehash: 9205ade4bceacbbad7877076175f37f95cf5dd49
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 42a0aa59d6c3ac3f413f5debfdeb74148a7b7221
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460222"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902032"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -93,8 +93,8 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 |Microsoft Defender 防病毒|否|否|否|是|是|否|否|否|否|
 |Microsoft Defender Device Guard|否|否|否|是|是|否|否|否|否|
 |Microsoft Defender 身分識別<sup>11</sup>|否|否|否|否|是|否|否|否|是|
-|Office 365 Cloud App Security|否|否|否|否|是|是|是|是|是|
-|Microsoft 365 雲端 App 安全性|否|否|否|否|否|否|否|否|是|
+|Office 365 Cloud App Security|否|否|否|是|是|是|是|是|是|
+|Microsoft 365 雲端 App 安全性|否|否|否|否|是|否|否|否|是|
 |Microsoft Defender for Endpoint<sup>12</sup>|否|否|否|否|是|否|否|否|否|
 |**伺服器和 CAL 的優點**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 學生使用權益**|**Office 365 A5 學員使用權益**|**Microsoft 365 教育版學生使用權益**|**Microsoft 365 教育版的學生使用權益**|
 |Exchange<sup>7</sup>|否|否|否|是<sup>8</sup>|是|否|否|否|否|

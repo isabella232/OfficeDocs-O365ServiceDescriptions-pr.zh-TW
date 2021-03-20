@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 是一項訂閱服務，可為您提供您已熟悉的最新版 Office 桌面應用程式，例如 Word、Excel 及 PowerPoint。
-ms.openlocfilehash: 6d59f49f1b7a275e54ee872cd0590933ef8f609e
-ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
+ms.openlocfilehash: 87834f6e48300839d6fdaaf74c50bd79dc74a4fe
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50241009"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902022"
 ---
 # <a name="office-applications-service-description"></a>Office 應用程式服務說明
 
@@ -28,7 +28,7 @@ Microsoft 365 是一項訂閱服務，可為您提供您已熟悉的最新版 Of
   
 Office 應用程式有 32 位元和 64 位元版本可供使用。
   
-若要跨方案比較功能，請參閱 [強大的工具來支援您的企業](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
+如需可讓使用者使用 Office 應用程式服務說明的詳細計畫資訊，請參閱 [完整訂閱比較表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
   
 ## <a name="feature-availability-across-plans"></a>不同方案中可用的功能
 
@@ -73,7 +73,7 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 |使用 Azure 資訊保護的資訊版權管理  <br/> |否  <br/> |否  <br/> |否  <br/>|否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |是 <br/> |否<sup>2</sup> <br/> |是  <br/> |是  <br/> |否<sup>2</sup> <br/> |
 |使用 Windows Server AD RMS 的 Information Rights Management  <br/> |是<sup>3</sup> <br/> |是  <br/> |是 <br/>| 是<sup>3</sup> <br/>|是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |
 |Office 增益集、ActiveX 與 BHO 支援  <br/> |是  <br/> |是  <br/> |是的<sup>+++<sup> <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |是 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|OneNote SharePoint 伺服器上的用戶端存取、SharePoint 線上、商務用 OneDrive 及 Microsoft 365  <br/> |是  <br/> |是  <br/> |是的 <sup>++</sup> <br/> |是 <br/> |是  <br/> |否  <br/> |是  <br/> |是 <br/> |否  <br/> |是  <br/>|是  <br/> |否  <br/> |
+|OneNote SharePoint 伺服器上的用戶端存取、SharePoint 線上、商務用 OneDrive 及 Microsoft 365  <br/> |是  <br/> |是  <br/> |是 <sup>++</sup> <br/> |是 <br/> |是  <br/> |否  <br/> |是  <br/> |是 <br/> |否  <br/> |是  <br/>|是  <br/> |否  <br/> |
 |Office 遙測  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |用戶端應用程式的離線支援  <br/> |是  <br/> |是  <br/>|是  <br/>  |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Excel 的 Power Map  <br/> |否<sup>4</sup> <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
