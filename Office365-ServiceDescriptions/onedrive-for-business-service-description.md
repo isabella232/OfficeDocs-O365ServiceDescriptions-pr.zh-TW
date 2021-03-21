@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看在哪些方案中可使用哪些 OneDrive 功能。
-ms.openlocfilehash: 523d3effdcaede87ebe3d69bdb43681d8ce4bad4
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154401"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901948"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服務描述
 
@@ -26,7 +26,7 @@ ms.locfileid: "45154401"
   
 OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方案中，也可以獨立方案形式個別購買。 
     
-若要比較方案，請參閱[支援您企業的強大工具](https://go.microsoft.com/fwlink/?linkid=799177)和[比較商務用 OneDrive 方案](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans)。 
+如需為使用者啟用 OneDrive 的訂閱詳細方案資訊，請參閱[完整訂閱比較表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)和[比較商務用 OneDrive 方案](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?rtc=1&activetab=tab:primaryr2)。
   
 > [!NOTE]
 > OneDrive 獨立方案包含 Office 網頁版。 
@@ -133,7 +133,7 @@ OneDrive 是以每個使用者為基礎進行佈建，而且是設計來為個�
 除非另有說明，否則下列功能可供包含 OneDrive 及所有 OneDrive 獨立方案的所有方案使用：
 
 - [存取要求](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
-- [「所有人」連結](/Office365/Enterprise/best-practices-anonymous-sharing) (可設定為需要到期) 
+- [「所有人」連結](/Office365/Enterprise/best-practices-anonymous-sharing) (可設定為需要到期) 
 - [註解中的 @ 提及](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows)。 需要包含適用於 Office 365 網路版或 Office 365 傳統型應用程式的方案。
 - [檔案要求](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - 管理預設共用連結 (在[組織層級](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links)和[每一網站](/sharepoint/change-default-sharing-link))
