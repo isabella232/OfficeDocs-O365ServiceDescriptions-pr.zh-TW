@@ -1,5 +1,5 @@
 ---
-title: Syntex 功能 SharePoint
+title: SharePoint Syntext 功能 (部分機器翻譯)
 ms.author: office365servicedesc
 author: pamelaar
 ms.audience: ITPro
@@ -7,14 +7,14 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 深入瞭解可在合格的 Microsoft 365、Office 365 及 SharePoint 線上方案中使用的主要 SharePoint Syntex 功能。
-ms.openlocfilehash: 998443a635b7816705553374d8a029f37a669fe0
-ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
+ms.openlocfilehash: 2f3d30a1d2eddaa3cdfe420eb10840b10da4da6d
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50072432"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172628"
 ---
-# <a name="sharepoint-syntex-features"></a>Syntex 功能 SharePoint 
+# <a name="sharepoint-syntex-features"></a>SharePoint Syntext 功能 (部分機器翻譯) 
 
 下列各節說明可在合格的 Microsoft 365、Office 365 及 SharePoint 線上方案中使用的主要 [SharePoint Syntex](sharepoint-syntex-service-description.md) 功能。 可用的功能可能會變更，恕不另行通知。 如需最新的完整功能清單，請參閱 [SharePoint Syntex 方案及定價] 頁面](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)。
 
@@ -30,7 +30,7 @@ Syntex 可以使用具有數千個普遍辨識物件的新視覺字典，自動�
 
 若要深入瞭解 Syntex 中的物件識別及如何設定影像標記，請參閱 [image 標記 in SharePoint Syntex](/microsoft-365/contentunderstanding/image-tagging)。
 
-## <a name="document-understanding"></a>檔瞭解
+## <a name="document-understanding"></a>文件瞭解
 
 您可以教 Syntex 以教學方式來閱讀您的內容，以利用機器教學來建立人工智慧 (AI) 模型，但沒有任何程式碼。 Syntex 可自動建議或建立中繼資料、呼叫自訂的 Power 自動化工作流程，以及附加合規性標籤，以強制執行保留或記錄管理原則。
 
@@ -50,7 +50,7 @@ Syntex 使用 Microsoft Graph 連接器整合遠端來源 &mdash; ，例如檔�
 
 透過 Microsoft Graph 連接器，客戶可以在外部存放庫中索引項目目，以包含在 Microsoft 搜尋結果中。 Microsoft 365 E5 和 Office 365 E5 包含的功能可使用 Microsoft Search (的 Microsoft Graph 連接器編制索引500，以進行 Microsoft Search 未包含在 A5) 中的專案。 任何具有套件或獨立授權（包含 SharePoint 或 OneDrive 計畫）的使用者，都可以查看 microsoft 搜尋的 Microsoft Graph 連接器搜尋結果。
 
-現在，Microsoft 或我們的其中一個合作夥伴提供超過130個來源的連接器。 若要深入瞭解，請參閱 [Microsoft Graph 連接器一覽](https://aka.ms/iwantconnectors)。
+現在，Microsoft 或我們的其中一個合作夥伴提供超過130個來源的連接器。 若要深入瞭解，請參閱 [Microsoft Graph 連接器一覽](/MicrosoftSearch/connectors-overview)。
 
 ## <a name="advanced-taxonomy-services"></a>高級分類法服務
 

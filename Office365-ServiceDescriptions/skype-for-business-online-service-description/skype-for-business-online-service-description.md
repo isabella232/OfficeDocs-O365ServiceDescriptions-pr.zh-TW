@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 請參閱哪些商務用 Skype Online 功能可在不同的 Microsoft 365 和 Office 365 方案內使用。
-ms.openlocfilehash: 861521c0a99fefe0b4709ea540fb659ba845debd
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 86ccb740ec0b9ffc8e83c88636df98ebefaf9e2c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726716"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172658"
 ---
 # <a name="skype-for-business-online-service-description"></a>商務用 Skype Online 服務說明
 
@@ -28,7 +28,7 @@ ms.locfileid: "50726716"
 > [!NOTE]
 > 商務用 Skype Online 方案2于2019年7月1日從銷售已退休。 這表示您將無法再取得商務用 Skype Online Plan 2 以進行立即訊息、目前狀態、會議和對等語音和影片。 所有包含小組的方案（包括 Office 365 套件）都會繼續支援這些功能。 當您的計畫在您目前的字詞結束時到期時，為了能夠繼續存取這些功能，您必須切換至不同的計畫。 建議您針對目前已指派商務用 Skype Online 方案2的使用者，評估 Microsoft 365 Business Basic、商務版或任何其他 Office 套件。 
 
- **您想知道您需要購買哪些授權才可取得特定的商務用 Skype 功能嗎？請參閱 [商務用 Skype 附加元件授權](https://go.microsoft.com/fwlink/?LinkID=799524)。**
+ **您想知道您需要購買哪些授權才可取得特定的商務用 Skype 功能嗎？請參閱 [商務用 Skype 附加元件授權](/SkypeForBusiness/skype-for-business-and-microsoft-teams-add-on-licensing/skype-for-business-and-microsoft-teams-add-on-licensing)。**
   
 商務用 Skype Online 是一種通訊服務，可在任何位置和任何地方線上會議和交談人員。 它讓使用者可以存取目前狀態的資訊、啟用即時訊息、音訊和視訊通話、豐富的線上會議，以及多樣的 Web 會議功能。 
   
@@ -42,9 +42,9 @@ ms.locfileid: "50726716"
 
 建議使用我們的簡單比較頁面來選擇商務用 Skype Online 版本。 請參閱 [尋找適用于您公司的 Microsoft 團隊](https://go.microsoft.com/fwlink/?linkid=798291)。 如果您想要更深入的比較，請參閱以下的功能表格。 如果您需要額外說明，請連絡[支援](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support)。 您可以從下拉式清單選取您的地區設定以取得當地號碼。
   
-如需可讓使用者啟用商務用 Skype Online 之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。 如需更詳細的比較，請參閱 [Microsoft 365 方案選項](https://go.microsoft.com/fwlink/?linkid=846972)。
+如需可讓使用者啟用商務用 Skype Online 之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。 如需更詳細的比較，請參閱 [Microsoft 365 方案選項](../office-365-platform-service-description/office-365-plan-options.md)。
   
- 若要比較各商務用 Skype 桌面和網頁用戶端的個別功能，請參閱 [商務用 Skype Server 2015 的桌面用戶端功能比較](https://go.microsoft.com/fwlink/?linkid=829754)。 如需商務用 Skype mobile 用戶端的詳細比較，請參閱 [適用于商務用 skype 的行動用戶端功能比較](https://go.microsoft.com/fwlink/?linkid=846932)
+ 若要比較各商務用 Skype 桌面和網頁用戶端的個別功能，請參閱 [商務用 Skype Server 2015 的桌面用戶端功能比較](/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison)。 如需商務用 Skype mobile 用戶端的詳細比較，請參閱 [適用于商務用 skype 的行動用戶端功能比較](/skypeforbusiness/plan-your-deployment/clients-and-devices/mobile-feature-comparison)
   
 如需更詳細的比較，請參閱下表。<br><br>
   
@@ -148,7 +148,7 @@ ms.locfileid: "50726716"
 |語音信箱  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[通話方案](skype-for-business-online-features.md#calling-plans) (國內通話方案，含有必要的附加元件購買)   <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是  <br/> |否  <br/> |
 |[通話方案](skype-for-business-online-features.md#calling-plans) (國際通話方案，含有必要的附加元件購買)   <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是  <br/> |否  <br/> |
-|[通訊點數](https://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |否  <br/> |否  <br/> |否<sup>6</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|[通訊點數](/microsoftteams/what-are-communications-credits?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json) <br/> |否  <br/> |否  <br/> |否<sup>6</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |商務用 Skype 語音  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |**[安全性和封存](skype-for-business-online-features.md#security-and-archiving)** <br/> |**商務用 Skype Server 2015** <br/> |**Microsoft 365 商務基本版** <br/> |**Microsoft 365 商務標準版** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
 |IM 與媒體加密  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -177,21 +177,21 @@ ms.locfileid: "50726716"
 |Windows PowerShell  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft 365 系統管理中心中的商務用 Skype Online 報告  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included.  所有客戶皆可使用 Lync 2013 Basic。 Lync Basic 桌面用戶端是在本機安裝的應用程式，可針對包含商務用 Skype Online 的方案，提供目前狀態、立即訊息和會議功能。 Microsoft 365 應用程式 enterprise 和 Office 365 E3 包含完整的商務用 Skype (Lync) 應用程式，其中包含其他功能，例如高級電話語音支援、封存及合規性功能。 必須為每個使用者指派商務用 Skype Online 授權。 如需 Lync Basic 功能的詳細資訊，請參閱 [Lync Server 2013 的桌面用戶端比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included.  所有客戶皆可使用 Lync 2013 Basic。 Lync Basic 桌面用戶端是在本機安裝的應用程式，可針對包含商務用 Skype Online 的方案，提供目前狀態、立即訊息和會議功能。 Microsoft 365 應用程式 enterprise 和 Office 365 E3 包含完整的商務用 Skype (Lync) 應用程式，其中包含其他功能，例如高級電話語音支援、封存及合規性功能。 必須為每個使用者指派商務用 Skype Online 授權。 如需 Lync Basic 功能的詳細資訊，請參閱 [Lync Server 2013 的桌面用戶端比較表](/lyncserver/lync-server-2013-desktop-client-comparison-tables)。 
 <br/> <sup>2</sup>商務用 Skype Online 的封存需倚賴 Exchange 就地保留功能，此方案中未包含這個功能。 
 <br/><sup>3</sup> 您必須將 Exchange Online (方案 2) 計畫指派給您想要擁有語音信箱的使用者。 Exchange Online ( 計畫 &nbsp;) 計畫無法用於語音信箱。 
 <br/><sup>4</sup> 如果是由商務用 Skype Online 方案2或企業方案使用者邀請，Office 365 F3 使用者可能會參與共用會話。 
 <br/> <sup>5</sup> 音訊會議可以新增至 Microsoft 365 商務標準、Office 365 E1 及 Office 365 E3 訂閱計畫做為附加元件。 
 <br/> <sup>6</sup> 通訊學分可以新增至 Microsoft 365 商務標準訂閱計畫，以支援音訊會議的附加元件。 
 <br/><sup>7</sup>無法在 Mac 和行動用戶端上使用緊急通話。 
-<br/> <sup>8</sup> 客戶金鑰可讓您控制組織的加密金鑰，然後設定 microsoft 用來在 microsoft 資料中心內加密您的資料。 存放的資料包括 Exchange Online 資料和儲存在信箱的商務用 Skype 資料，以及儲存在 SharePoint Online 中和商務用 OneDrive 中的檔案。 客戶金鑰可協助您符合法規遵從性義務，因為您可以控制 Microsoft 用來解密資料的加密金鑰。 如需詳細資訊，請參閱 [Service encryption With Customer Key](https://go.microsoft.com/fwlink/?linkid=862702)。 
+<br/> <sup>8</sup> 客戶金鑰可讓您控制組織的加密金鑰，然後設定 microsoft 用來在 microsoft 資料中心內加密您的資料。 存放的資料包括 Exchange Online 資料和儲存在信箱的商務用 Skype 資料，以及儲存在 SharePoint Online 中和商務用 OneDrive 中的檔案。 客戶金鑰可協助您符合法規遵從性義務，因為您可以控制 Microsoft 用來解密資料的加密金鑰。 如需詳細資訊，請參閱 [Service encryption With Customer Key](/microsoft-365/compliance/customer-key-overview)。 
   
 ## <a name="feature-availability-across-skype-for-business-online-standalone-plans"></a>各 商務用 Skype Online 獨立方案中可用的功能
 
 下表列出各個獨立方案中的商務用 Skype Online 功能可用性。如需這些功能的描述，請參閱＜[商務用 Skype Online 功能](skype-for-business-online-features.md)＞。
   
 > [!NOTE]
-> 商務用 Skype Online 獨立方案 2 的授權使用者會得到商務用 Skype 基本用戶端，而非完整的商務用 Skype 用戶端。 如果您希望讓使用者擁有商務用 Skype 用戶端，您必須將他們升級為含有該用戶端的授權，例如企業版授權。 若要將商務用 Skype 用戶端部署至使用者，請參閱 [deploy The 商務用 skype client In Microsoft 365 或 Office 365](https://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409)。 
+> 商務用 Skype Online 獨立方案 2 的授權使用者會得到商務用 Skype 基本用戶端，而非完整的商務用 Skype 用戶端。 如果您希望讓使用者擁有商務用 Skype 用戶端，您必須將他們升級為含有該用戶端的授權，例如企業版授權。 若要將商務用 Skype 用戶端部署至使用者，請參閱 [deploy The 商務用 skype client In Microsoft 365 或 Office 365](/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365)。 
   
 | 功能 | 商務用 Skype Server 2015 | 商務用 Skype Online 獨立方案 &nbsp; 1 | 商務用 Skype Online 獨立方案 &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
@@ -281,7 +281,7 @@ ms.locfileid: "50726716"
 |Windows PowerShell  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft 365 系統管理中心中的商務用 Skype Online 報告  <br/> |否  <br/> |否<sup>4</sup> <br/> |否<sup>4</sup> <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included.  所有客戶皆可使用 Lync 2013 Basic。 Lync Basic 桌面用戶端是在本機安裝的應用程式，可針對包含商務用 Skype Online 的方案，提供目前狀態、立即訊息和會議功能。 Microsoft 365 應用程式 enterprise 和 Office 365 E3 包含完整的商務用 Skype (Lync) 應用程式，其中包含其他功能（包括高級電話語音支援、封存 &amp; 符合性功能）。 必須為每個使用者指派商務用 Skype Online 授權。 如需 Lync Basic 功能的詳細資訊，請參閱 [Lync Server 2013 的桌面用戶端比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included.  所有客戶皆可使用 Lync 2013 Basic。 Lync Basic 桌面用戶端是在本機安裝的應用程式，可針對包含商務用 Skype Online 的方案，提供目前狀態、立即訊息和會議功能。 Microsoft 365 應用程式 enterprise 和 Office 365 E3 包含完整的商務用 Skype (Lync) 應用程式，其中包含其他功能（包括高級電話語音支援、封存 &amp; 符合性功能）。 必須為每個使用者指派商務用 Skype Online 授權。 如需 Lync Basic 功能的詳細資訊，請參閱 [Lync Server 2013 的桌面用戶端比較表](/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
 <br/><sup>2</sup> ：商務用 Skype online 方案1使用者可能會參與共用會話（如果使用者受到商務用 Skype online 方案2使用者邀請）。 
 <br/> <sup>3</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
 description: 瞭解 Microsoft Exchange Online 中的規劃與部署。
-ms.openlocfilehash: 446d73f0fddcbdfe1795bbb97b6394ae6f05fef4
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: fb9a63fecd0a64e8b896fb63acfffeb873a56281
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293839"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173338"
 ---
 # <a name="planning-and-deployment"></a>規劃及部署
 
@@ -38,10 +38,10 @@ ms.locfileid: "48293839"
 
 Microsoft Exchange 2003、Exchange 2007、Exchange 2010，以及 Exchange 2013 均適用的內部組織，混合部署提供了部分使用者信箱裝載於內部佈署 Exchange 組織，部分使用者信箱託管於 Exchange Online 的長期共存設置，或者將所有使用者信箱託管於 Exchange Online 的遷移路徑。混合部署可讓組織將功能豐富的體驗，以及現有內部部署 Microsoft Exchange 組織所具有的管理控制延伸至雲端。混合部署之特色包括安全郵件傳輸、共用行事曆空閑／忙碌資訊，以及內部佈署和 Exchange Online 組織之間的郵件追蹤。
   
-如需有關混合部署的詳細資訊，請參閱 [Exchange Server 2013 混合部署](https://go.microsoft.com/fwlink/p/?LinkId=287035)。如果您使用 21Vianet 操作的 Office 365，請參閱 [使用 21Vianet 操作的 Office 365 設定 Exchange 混合部署](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409)。
+如需有關混合部署的詳細資訊，請參閱 [Exchange Server 2013 混合部署](/exchange/exchange-hybrid)。如果您使用 21Vianet 操作的 Office 365，請參閱 [使用 21Vianet 操作的 Office 365 設定 Exchange 混合部署](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409)。
   
 > [!IMPORTANT]
-> 內部部署 Exchange 2003 組織必須至少安裝一個 Exchange 2010 用戶端存取／郵件伺服器，以便設定和 Exchange Online 之混合部署。內部部署 Exchange 2007 組織必須至少安裝一個 Exchange 2010 或 Exchange 2013 用戶端存取及郵件伺服器，以便設定和 Exchange Online 之混合部署。內部部署 Exchange 2010 和及 Exchange 2013 組織原生支援和 Exchange Online 之混合部署。如需有關混合部署中 Exchange Server 相容性的詳細資訊，請參閱[混合部署必要條件](https://go.microsoft.com/fwlink/p/?LinkId=243541)。 > 內部佈署 Exchange 組織必須將其組織設定為混合部署。我們強烈建議管理者使用 Exchange Server 部署助理及混合設定精靈來設定混合部署。進一步了解 [Exchange Server 部署助理](https://go.microsoft.com/fwlink/p/?LinkId=287036)
+> 內部部署 Exchange 2003 組織必須至少安裝一個 Exchange 2010 用戶端存取／郵件伺服器，以便設定和 Exchange Online 之混合部署。內部部署 Exchange 2007 組織必須至少安裝一個 Exchange 2010 或 Exchange 2013 用戶端存取及郵件伺服器，以便設定和 Exchange Online 之混合部署。內部部署 Exchange 2010 和及 Exchange 2013 組織原生支援和 Exchange Online 之混合部署。如需有關混合部署中 Exchange Server 相容性的詳細資訊，請參閱[混合部署必要條件](/exchange/hybrid-deployment-prerequisites)。 > 內部佈署 Exchange 組織必須將其組織設定為混合部署。我們強烈建議管理者使用 Exchange Server 部署助理及混合設定精靈來設定混合部署。進一步了解 [Exchange Server 部署助理](/exchange/exchange-deployment-assistant)
   
 ## <a name="migration-options"></a>遷移選項
 
@@ -49,7 +49,7 @@ Microsoft Exchange 2003、Exchange 2007、Exchange 2010，以及 Exchange 2013 �
   
 - **IMAP 遷移** -將信箱資料從 IMAP 電子郵件系統移轉至 Exchange Online。 
     
-- 轉換**exchange 遷移**-將信箱從 exchange server 2003、exchange server 2007、exchange server 2010、exchange 2013 和主控 exchange 系統移轉至 exchange Online 的單一遷移。 
+- 轉換 **exchange 遷移**-將信箱從 exchange server 2003、exchange server 2007、exchange server 2010、exchange 2013 和主控 exchange 系統移轉至 exchange Online 的單一遷移。 
     
 - **分段 Exchange 遷移** -執行分段遷移，將信箱從 exchange server 2003 或 exchange server 2007 遷移到以 web 為基礎的遷移工具和對內部部署基礎結構的最小變更。 
     
@@ -122,7 +122,7 @@ Microsoft 提供數種工具以協助將現存電子郵件環境遷移至 Exchan
     
 - **Azure Active Directory 同步處理工具** -Azure Active directory 同步處理工具在遷移至混合式電子郵件案例時，會使用 exchange Online 和內部部署 Exchange 伺服器，對混合式電子郵件案例起起重要作用。 工具的作用為進行從內部部署 Active Directory 到 Exchange Online 的單向同步化。 遷移完成之後，管理員僅需使用 Exchange Online 來管理 Active Directory 使用者和群組。 此工具也可讓使用者維持一致的全域通訊清單 (GAL)，線上環境會持續和內部部署環境進行同步作業。 
     
-    如需 Azure Active Directory 同步處理工具的詳細資訊，請參閱[目錄同步處理：藍圖](https://go.microsoft.com/fwlink/p/?LinkId=287034)。
+    如需 Azure Active Directory 同步處理工具的詳細資訊，請參閱[目錄同步處理：藍圖](/azure/active-directory/hybrid/whatis-hybrid-identity)。
     
 - **混合** 式設定向導-混合式設定向導簡化混合式部署程式，方法是簡化功能和服務的內部部署和 Exchange Online 設定。 Introduced as part of Exchange Server 2010 Service Pack 2, the Hybrid Configuration Wizard is run only in on-premises organizations and has the following components: 
     
@@ -130,12 +130,10 @@ Microsoft 提供數種工具以協助將現存電子郵件環境遷移至 Exchan
     
   - 一組 Exchange Management Shell（EMS）指令，安排設定過程。
     
-    如需有關混合設定精靈的詳細資訊，請參閱[混合設定精靈](https://go.microsoft.com/fwlink/p/?LinkId=271734)。
+    如需有關混合設定精靈的詳細資訊，請參閱[混合設定精靈](/exchange/hybrid-configuration-wizard)。
     
 - **遠端 windows PowerShell** -做為 Exchange Online 12 月2011服務更新的一部分，遠端 windows PowerShell 可用來協助疑難排解遷移錯誤。 For instance, administrators can display diagnostic information for migration batches, as well as migration statistics and diagnostic information for users based on their primary SMTP addresses. 
     
 ## <a name="feature-availability"></a>功能可用性
 
 若要查看各個方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Exchange Online 服務說明](exchange-online-service-description.md)。
-  
-

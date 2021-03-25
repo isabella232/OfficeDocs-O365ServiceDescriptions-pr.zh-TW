@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: Web (以前 PowerPoint Web App 的 PowerPoint) 會將您的 Microsoft PowerPoint 體驗延伸至網頁瀏覽器，您可以在其中儲存簡報的網站上直接使用簡報。 具有網路的 Office 的 Microsoft 365 客戶可以在旅途中查看、建立及編輯檔案。
-ms.openlocfilehash: e7925e85feeb611895e5481f1d6b81917a1cfbd2
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 32ebb9f1ef3a9c68d5bc01314721f197a7f80cee
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294063"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172738"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint 網頁版
 
@@ -48,7 +48,7 @@ PowerPoint 編輯器是一個 web 前端元件，它會建立以瀏覽器為基�
   
 ## <a name="office-add-ins"></a>Office 增益集
 
-PowerPoint 網頁版僅支援 Office 的內容增益集。 內容增益集將網頁式功能整合為可在簡報中內嵌顯示的內容。 進一步了解[適用於 Office 的增益集類型](https://go.microsoft.com/fwlink/p/?LinkId=282310)。
+PowerPoint 網頁版僅支援 Office 的內容增益集。 內容增益集將網頁式功能整合為可在簡報中內嵌顯示的內容。 進一步了解[適用於 Office 的增益集類型](/previous-versions/office/office-2013-resource-kit/jj219429(v=office.15))。
   
 ## <a name="arrange-objects"></a>排列物件
 
@@ -210,4 +210,4 @@ PowerPoint 網頁會在每次進行變更時，儲存您的工作。 沒有 **�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [web 服務說明的 Office](office-online-service-description.md)。 
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [web 服務說明的 Office](office-online-service-description.md)。

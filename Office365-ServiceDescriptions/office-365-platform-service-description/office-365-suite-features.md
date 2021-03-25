@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主題中所列的功能是網頁式工具的集合，可協助您安全地在許多裝置和多個 Office 365 服務之間共同作業和通訊。 這些功能會協助在您的組織內進行新的連線，方法是整合數位內容建立、儲存及管理與用於在使用者之間探索及分享資訊的社交工具。
-ms.openlocfilehash: 17c6c5eca7023bc0fc1e43671841f7a6c716629e
-ms.sourcegitcommit: f98239a5631ba312d63753ffce83a7413a143ee5
+ms.openlocfilehash: fa139fe6a774979a37d6327198ebd6ceec11afdb
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50122183"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173978"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 
@@ -40,7 +40,7 @@ Microsoft 預約是一種線上及行動應用程式，適用于想要在約會�
 * 管理從可能擱置的電子郵件所識別的任務。
 * 在 [行事曆] 和 [靜音] 通知中，使用預約時間，充分發揮焦點的時間。
 
-簡報電子郵件會自動提供給 Exchange Online 的所有使用者。 若要深入瞭解，請參閱 [簡報電子郵件一覽](https://docs.microsoft.com/Briefing/be-overview)。
+簡報電子郵件會自動提供給 Exchange Online 的所有使用者。 若要深入瞭解，請參閱 [簡報電子郵件一覽](/Briefing/be-overview)。
 
 ## <a name="microsoft-power-automate"></a>Microsoft Power Automate
 
@@ -52,7 +52,7 @@ Microsoft Forms 可讓您快速且輕鬆地建立自訂測驗、調查、問卷�
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph API
 
-使用 Microsoft Graph API，透過單一端點，快速建立連線到大量資源、關聯性和智慧的應用程式： https://graph.microsoft.com 。 例如，您可以建立自訂的儀表板、工作流程，以及為您的組織取得資料的應用程式。 如需詳細資訊，請參閱 [Microsoft Graph 檔](https://go.microsoft.com/fwlink/?linkid=849595)。
+使用 Microsoft Graph API，透過單一端點，快速建立連線到大量資源、關聯性和智慧的應用程式： https://graph.microsoft.com 。 例如，您可以建立自訂的儀表板、工作流程，以及為您的組織取得資料的應用程式。 如需詳細資訊，請參閱 [Microsoft Graph 檔](/graph/overview)。
   
 ## <a name="microsoft-lists"></a>Microsoft 清單
 
@@ -126,5 +126,3 @@ Microsoft 白板是手繪多邊形，其中人員、內容及創意都會一起�
 ## <a name="feature-availability"></a>功能可用性
 
 若要查看不同方案中的功能可用性，請參閱 [Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
-  
-

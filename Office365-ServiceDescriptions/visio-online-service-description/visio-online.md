@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: 適用于網頁的 visio 會將您的 Microsoft Visio 體驗延伸至瀏覽器，您可以在此建立及編輯儲存在雲端中的圖表。 Microsoft 365 客戶可以在旅途中查看、列印和共用圖表和插入批註。
-ms.openlocfilehash: 6c0b05a7e2365ebf517048aeb008ebf098053a52
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 70e738a853a5550cf58a481c8cf1fca318539722
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132117"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172488"
 ---
 # <a name="visio-for-the-web"></a>Visio 網頁版
 
@@ -34,7 +34,7 @@ ms.locfileid: "45132117"
   
 ## <a name="build-mashup-solutions"></a>建立混合式解決方案
 
-Web JavaScript 混合 API 的 Visio 可讓開發人員存取及操作 Visio web 圖表、其頁面和其圖形。 如需詳細資訊，請參閱[Visio for web：常見問題](https://support.office.com/article/e6647040-2fca-42ec-9fa5-d16a4e39e0ee)。
+Web JavaScript 混合 API 的 Visio 可讓開發人員存取及操作 Visio web 圖表、其頁面和其圖形。 如需詳細資訊，請參閱 [Visio for web：常見問題](https://support.office.com/article/e6647040-2fca-42ec-9fa5-d16a4e39e0ee)。
   
 ## <a name="create-diagrams"></a>建立圖表
 
@@ -50,15 +50,15 @@ Web 的 Visio 包含豐富的編輯功能，您可以用來變更圖表。 您�
   
 ## <a name="embed-diagram-in-a-sharepoint-web-or-blog-page"></a>在 SharePoint、網頁或博客頁面上嵌入圖表
 
-您可以使用 Visio，在 SharePoint、網頁或博客頁面上插入 Visio 圖表（在 Visio 桌面應用程式中建立）。 如需詳細資訊，請參閱[Visio for web：常見問題](https://support.office.com/article/e6647040-2fca-42ec-9fa5-d16a4e39e0ee)。
+您可以使用 Visio 來插入 visio 桌面應用程式) SharePoint、網頁或博客頁面上建立的 Visio 圖表 (。 如需詳細資訊，請參閱 [Visio for web：常見問題](https://support.office.com/article/e6647040-2fca-42ec-9fa5-d16a4e39e0ee)。
   
 ## <a name="find"></a>尋找
 
-在 Visio for web 中，您可以選取**多個**（省略號按鈕）來搜尋頁面上的每個字、數位或片語，然後選取 [**尋找**] （或按 Ctrl + F）。 結果會顯示在您的圖表旁邊。 Visio 會搜尋圖形名稱、圖形文字、圖形資料和使用者定義的儲存格。
+在您的 web Visio 中，您可以選取 **其他** (省略號按鈕) 然後選取 [ **尋找** (] 或按 Ctrl + F) ，在頁面上搜尋每個字、數位或片語的位置。 結果會顯示在您的圖表旁邊。 Visio 會搜尋圖形名稱、圖形文字、圖形資料和使用者定義的儲存格。
   
 ## <a name="font-formatting"></a>字體格式化
 
-您可以在 Visio for web 中變更字型、字型大小及其他字型外觀屬性（如粗體、斜體、上標或底線）。
+您可以在 Visio for web 中變更字型、字型大小及其他字型外觀屬性 (例如粗體、斜體、上標或底線) 。
   
 ## <a name="hyperlinks"></a>Hyperlinks
 
@@ -74,7 +74,7 @@ Office 增益集尚未在 Visio for web 中使用。
   
 ## <a name="offline-viewing"></a>離線查看
 
-無法在 Visio for web 中使用。 Web 上的 Office 需要網際網路連線和網際網路瀏覽器。 您需要在您的電腦上安裝 Visio 桌面應用程式，以在與網際網路或組織的內部部署 Office Web Apps Server 中斷連線時，查看及編輯圖表。 如果您已安裝 Visio 桌面應用程式，您可以使用 Visio 的完整功能，以離線查看及編輯圖表。 當您儲存時，線上圖表會隨著您的變更而更新。 您也可以下載和儲存圖表的離線副本，但它不會與線上版本同步。 若要深入瞭解 Office Web Apps Server，請參閱[Office Web Apps server](https://docs.microsoft.com/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013)。
+無法在 Visio for web 中使用。 Web 上的 Office 需要網際網路連線和網際網路瀏覽器。 您需要在您的電腦上安裝 Visio 桌面應用程式，以在與網際網路或組織的內部部署 Office Web Apps Server 中斷連線時，查看及編輯圖表。 如果您已安裝 Visio 桌面應用程式，您可以使用 Visio 的完整功能，以離線查看及編輯圖表。 當您儲存時，線上圖表會隨著您的變更而更新。 您也可以下載和儲存圖表的離線副本，但它不會與線上版本同步。 若要深入瞭解 Office Web Apps Server，請參閱 [Office Web Apps server](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013)。
   
 ## <a name="print-to-pdf"></a>列印為 PDF
 
@@ -94,7 +94,7 @@ Office 增益集尚未在 Visio for web 中使用。
   
 ## <a name="share-a-diagram"></a>共用圖表
 
-如果圖表儲存在 SharePoint 文件庫或商務 OneDrive 中，則圖表是線上的，您可以透過傳送連結（而非電子郵件附件）來加以共用。 具有適當許可權的人員可以在網頁瀏覽器或行動裝置中查看。 只要選取右上角的 [**共用**] 即可。 我們建議共用連結，以避免建立重複的資料連線圖表。
+如果圖表儲存在 SharePoint 文件庫或商務 OneDrive 中，則圖表是線上的，您可以透過傳送連結（而非電子郵件附件）來加以共用。 具有適當許可權的人員可以在網頁瀏覽器或行動裝置中查看。 只要選取右上角的 [ **共用** ] 即可。 我們建議共用連結，以避免建立重複的資料連線圖表。
   
 ## <a name="smartart"></a>SmartArt
 
@@ -114,7 +114,7 @@ Visio for web 中提供復原和取消復原功能。
   
 ## <a name="view-shape-data"></a>View shape data
 
-您可以使用 Visio for web 來查看圖表的中繼資料：只要選取圖形，然後選取 [**圖形資訊**] 即可。
+您可以使用 Visio for web 來查看圖表的中繼資料：只要選取圖形，然後選取 [ **圖形資訊**] 即可。
   
 ## <a name="view-visio-files-in-the-browser"></a>在瀏覽器中查看 Visio 檔案
 
@@ -123,4 +123,3 @@ Visio for web 中提供復原和取消復原功能。
 ## <a name="zoom"></a>縮放
 
 Web 的 Visio 包含一個滑塊，可讓您放大和縮小。此外，您也可以使用 [掃視 &amp; 縮放功能] 來放大圖表的某個區域。
-  

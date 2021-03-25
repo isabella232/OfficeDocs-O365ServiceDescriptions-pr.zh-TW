@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 是一項訂閱服務，可為您提供您已熟悉的最新版 Office 桌面應用程式，例如 Word、Excel 及 PowerPoint。
-ms.openlocfilehash: 87834f6e48300839d6fdaaf74c50bd79dc74a4fe
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 405308fe734be548bcbb8fb98204467c5e50fcf7
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902022"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173898"
 ---
 # <a name="office-applications-service-description"></a>Office 應用程式服務說明
 
@@ -95,7 +95,7 @@ Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的�
 <sup>2</sup> Azure 資訊保護未包含在內，但可以以個別的附加元件形式購買，並且會啟用支援的資訊版權管理 (IRM) 功能。 部分 Azure 資訊保護功能需要訂閱 Microsoft 365 Apps for enterprise，但不包含在 Microsoft 365 Business Basic、Microsoft 365 Business Standard、Office 365 E1、Office 365 教育或 Office 365 F3 中。<br/>
 <sup>3</sup> Windows Server AD RMS 是內部部署伺服器，必須個別採購並管理，以便啟用支援的 IRM 功能。<br/>
 <sup>4</sup> 如果您有 Office 2013 Professional Plus 或獨立版本的 excel 2013，您可以使用 Power Map Preview for excel 2013，這是不受支援的增益集。 較舊版本的 Power Map Preview 已到期，無法搭配任何版本的 Excel 使用。 若您已安裝舊版，請從 [控制台] 中將其卸載，然後下載並安裝目前的 Power Map Preview 版本。 此版本的功能與使用 Microsoft 365 SP1 發行的 Power Map 版本相同。<br/> 
-<sup>5</sup> 商務用 Skype Basic 適用于所有客戶。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含商務用 Skype Online 的方案，提供目前狀態、立即訊息和會議功能。 Microsoft 365 應用程式（適用于企業）和 Office 365 E3 包含完整的 Skype 應用程式，其包含額外的功能，包括高級電話語音支援、封存及符合性功能。 必須為每個使用者指派商務用 Skype Online 授權。 如需功能及功能的比較，請參閱 [Lync Server 2013 的桌面用戶端比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。<br/> 
+<sup>5</sup> 商務用 Skype Basic 適用于所有客戶。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含商務用 Skype Online 的方案，提供目前狀態、立即訊息和會議功能。 Microsoft 365 應用程式（適用于企業）和 Office 365 E3 包含完整的 Skype 應用程式，其包含額外的功能，包括高級電話語音支援、封存及符合性功能。 必須為每個使用者指派商務用 Skype Online 授權。 如需功能及功能的比較，請參閱 [Lync Server 2013 的桌面用戶端比較表](/lyncserver/lync-server-2013-desktop-client-comparison-tables)。<br/> 
 <sup>6</sup> 有些學校可用於教育版（包括 Microsoft 365 應用程式的企業版），並可讓學生、教職員和員工在最多五部 PC 或 Mac 電腦上，以及在其他行動裝置（包括 Windows 平板和 iPad）上安裝最新版的 Office。 當學校透過註冊教育版解決方案、Open Value Subscription 教育版解決方案或學校合約，為全機構的教職人員授權 Office 時，學校即符合 Office 365 教育增強版的資格。 請注意，Access 和 Publisher 僅在 PC 上可供使用。 OneNote for Mac 可分別從 Mac App Store 下載。 <br/>
 <sup>7</sup> 可以安裝 Office for Mac 2011，但不能啟用。 <br/>
 <sup>8</sup> 使用者專用的虛擬桌面基礎結構（ (VDI) 支援，適用于企業的 Microsoft 365 應用程式）。 Microsoft 365 應用程式只有透過大量授權方案購買時，才支援 (RDS) 的遠端桌面服務。<br/>

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word for web (先前的 Word Web App) 會將您的 Microsoft Word 體驗延伸至網頁瀏覽器，您可以在其中儲存檔的網站上直接使用檔。
-ms.openlocfilehash: 3f4d2950284a866fc86d05be71976a57a6a17244
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 50d1e7ceeff9e6b117e127a0d62b208e9b1b325c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294049"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174148"
 ---
 # <a name="word-for-the-web"></a>Word 網頁版
 
@@ -150,7 +150,7 @@ Word for web 會顯示使用資訊版權管理 (IRM) 所保護的檔。 不過�
   
 ## <a name="offline-viewing-and-authoring"></a>離線檢視和撰寫
 
-在 Word 中無法使用網頁。 Web 上的 Office 需要網際網路連線和網際網路瀏覽器。 您的電腦上必須已安裝 Word 桌面應用程式，才可在斷開網際網路或組織的內部部署 Office Web Apps Server 時，查看及編輯檔。 如果您已安裝 Word 桌面應用程式，可以使用 Word 的完整功能以檢視及編輯文件。 儲存文件時，會以您的變更來更新線上文件。 您也可以下載文件並且另存為離線複本，但是該離線複本不會與線上版本同步。 進一步了解 [Office Web Apps 伺服器](https://go.microsoft.com/fwlink/p/?LinkId=282318)。
+在 Word 中無法使用網頁。 Web 上的 Office 需要網際網路連線和網際網路瀏覽器。 您的電腦上必須已安裝 Word 桌面應用程式，才可在斷開網際網路或組織的內部部署 Office Web Apps Server 時，查看及編輯檔。 如果您已安裝 Word 桌面應用程式，可以使用 Word 的完整功能以檢視及編輯文件。 儲存文件時，會以您的變更來更新線上文件。 您也可以下載文件並且另存為離線複本，但是該離線複本不會與線上版本同步。 進一步了解 [Office Web Apps 伺服器](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013)。
   
 ## <a name="page-breaks"></a>分頁頁
 
@@ -296,5 +296,4 @@ Word for web 會顯示使用資訊版權管理 (IRM) 所保護的檔。 不過�
 
 ## <a name="operating-parameter-limitations-and-specifications"></a>運作參數限制和規格
 
-如需運作參數限制的相關資訊，請參閱 [Word 中的指令引數限制和規格](https://docs.microsoft.com/office/troubleshoot/word/operating-parameter-limitation)。
-  
+如需運作參數限制的相關資訊，請參閱 [Word 中的指令引數限制和規格](/office/troubleshoot/word/operating-parameter-limitation)。

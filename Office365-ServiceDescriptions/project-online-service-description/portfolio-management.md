@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Project Online 中提供下列產品群組管理功能。
-ms.openlocfilehash: 50b8ec7e0cd8a0a8366ee2842a767d68c591ad4e
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: ef0f670e890a364ac4e85cc6cf79ff979e8a52db
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131227"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172688"
 ---
 # <a name="portfolio-management"></a>產品組合管理
 
 Project Online 中提供下列產品群組管理功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>分析專案並最佳化組合
 
@@ -32,11 +32,11 @@ Project Online 中提供下列產品群組管理功能。
   
 ## <a name="enterprise-resource-management"></a>企業資源管理
 
-資源是實現專案所需的人員、材料或成本。 Microsoft PPM 方案可讓資源管理員管理資源資料庫、規劃資源容量，以及核准、拒絕及修改傳入的資源參與要求。若要深入瞭解，請參閱[Add a resource To Project Web App](https://go.microsoft.com/fwlink/p/?LinkId=271320)。
+資源是實現專案所需的人員、材料或成本。 Microsoft PPM 方案可讓資源管理員管理資源資料庫、規劃資源容量，以及核准、拒絕及修改傳入的資源參與要求。若要深入瞭解，請參閱 [Add a resource To Project Web App](https://go.microsoft.com/fwlink/p/?LinkId=271320)。
   
 ## <a name="financial-management"></a>財務管理
 
-採用財務管理程序，以改善成本和效益估計值。有效追蹤成本效能以確定每一項專案都在預算內交付，並且公事包達到預期的結果。若要深入了解，請參閱[專案公事包管理方案指南 (白皮書)](https://go.microsoft.com/fwlink/p/?LinkId=402633)。
+採用財務管理程序，以改善成本和效益估計值。有效追蹤成本效能以確定每一項專案都在預算內交付，並且公事包達到預期的結果。若要深入了解，請參閱[專案公事包管理方案指南 (白皮書)](/project/project-server-2013-and-2016)。
   
 ## <a name="participate-in-workflow"></a>參與工作流程
 
@@ -44,13 +44,12 @@ Project Online 中提供下列產品群組管理功能。
   
 ## <a name="portfolio-analytics-and-selection"></a>組合分析和選擇
 
-有效識別、選取和交付最符合組織業務策略的專案公事包並最佳化投資回報率 (ROI)。若要深入了解，請參閱[專案公事包管理方案指南 (白皮書)](https://go.microsoft.com/fwlink/p/?LinkId=402633)。
+有效識別、選取和交付最符合組織業務策略的專案公事包並最佳化投資回報率 (ROI)。若要深入了解，請參閱[專案公事包管理方案指南 (白皮書)](/project/project-server-2013-and-2016)。
   
 ## <a name="program-management"></a>程式管理
 
-在計劃管理中，每個專案有一組專屬目標，當彼此結合時，可達成整體計劃的預期效益。若要深入了解，請參閱[專案公事包管理方案指南 (白皮書)](https://go.microsoft.com/fwlink/p/?LinkId=402633)。
+在計劃管理中，每個專案有一組專屬目標，當彼此結合時，可達成整體計劃的預期效益。若要深入了解，請參閱[專案公事包管理方案指南 (白皮書)](/project/project-server-2013-and-2016)。
   
 ## <a name="roadmap"></a>藍圖
 
-藍圖會結合多個瀑布和敏捷專案中的資訊，以提供高度直觀、匯總的時程表視圖。 若要深入瞭解，請參閱[歡迎使用藍圖](https://support.office.com/article/video-welcome-to-roadmap-57764149-51b8-468f-a50d-9ea6a4fd835a)。
-
+藍圖會結合多個瀑布和敏捷專案中的資訊，以提供高度直觀、匯總的時程表視圖。 若要深入瞭解，請參閱 [歡迎使用藍圖](https://support.office.com/article/video-welcome-to-roadmap-57764149-51b8-468f-a50d-9ea6a4fd835a)。

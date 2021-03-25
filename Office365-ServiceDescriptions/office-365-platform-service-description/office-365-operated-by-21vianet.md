@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: b03d6844943ed72aa56e4fe1d740dda9c11a66a2
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 7fe18fd929dbfa5410eed49ff8a4c6df72ae5b6a
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902058"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174058"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -23,12 +23,12 @@ ms.locfileid: "50902058"
 > [!NOTE]
 > 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
 
-Microsoft 不直接營運此項服務。 由 21Vianet 營運、提供並管理服務的提供。 世紀是中國最大的電信型網際網路資料中心服務提供者，提供主控、managed 網路服務和雲端計算基礎結構服務。 使用 Microsoft 技術授權，世紀可運作本機 Office 365 資料中心，以提供使用 Office 365 服務的能力，同時保留中國內的資料。 21Vianet 也提供[訂閱和計費服務以及支援](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products?view=o365-21vianet&tabs=phone&preserve-view=true)。
+Microsoft 不直接營運此項服務。 由 21Vianet 營運、提供並管理服務的提供。 世紀是中國最大的電信型網際網路資料中心服務提供者，提供主控、managed 網路服務和雲端計算基礎結構服務。 使用 Microsoft 技術授權，世紀可運作本機 Office 365 資料中心，以提供使用 Office 365 服務的能力，同時保留中國內的資料。 21Vianet 也提供[訂閱和計費服務以及支援](/Office365/Admin/contact-support-for-business-products?preserve-view=true&tabs=phone&view=o365-21vianet)。
 
 > [!NOTE]
 > 這些服務須遵守中國法律。
 
-由於中國服務的獨特性質（由中國內資料中心的合作夥伴運作），還有一些尚未啟用的功能。 經過一段時間後，客戶將會看到服務的功能逐漸完整。 有關的差異，請參閱服務描述註腳。 如需更高層級的差異概觀，請參閱[深入了解由 21Vianet 提供的 Office 365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china)。
+由於中國服務的獨特性質（由中國內資料中心的合作夥伴運作），還有一些尚未啟用的功能。 經過一段時間後，客戶將會看到服務的功能逐漸完整。 有關的差異，請參閱服務描述註腳。 如需更高層級的差異概觀，請參閱[深入了解由 21Vianet 提供的 Office 365](/office365/admin/services-in-china/services-in-china)。
 
 ## <a name="service-availability-within-each-plan"></a>每個方案中可用的服務
 
@@ -55,7 +55,7 @@ Microsoft 不直接營運此項服務。 由 21Vianet 營運、提供並管理�
 <sup>1</sup> 包含功能例如 Office 365 管理、Office 365 套件應用程式、使用者帳戶管理、網域、服務健康狀況和持續性、報告、服務更新、說明和訓練、網路等等。 如需詳細資訊，請參閱 [平台功能](office-365-operated-by-21vianet.md#platform-features)表。
 <br/><sup>2</sup> Project Online 並不包含在內，但可以當作附加服務來單獨購買，若是 Office 365 A1 方案，則可免費新增此功能。
 <br/><sup>3</sup> (view 功能) 可用的 Visio web 消耗量。 Visio 網頁版建立和編輯功能需要授權。 如需有關 web Visio 的詳細資訊，請參閱 [visio for web service description](../visio-online-service-description/visio-online-service-description.md)。
-<br/><sup>4</sup> AIP 在由世紀運作的 Office 365 部分支援。 如需詳細資訊，請參閱 [在由世紀運作的 Office 365 Azure 資訊保護之間的效驗和商業產品](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet&preserve-view=true)。
+<br/><sup>4</sup> AIP 在由世紀運作的 Office 365 部分支援。 如需詳細資訊，請參閱 [在由世紀運作的 Office 365 Azure 資訊保護之間的效驗和商業產品](/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?preserve-view=true&view=o365-21vianet)。
 
 ## <a name="system-requirements"></a>系統需求
 
@@ -83,7 +83,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 
 | 功能 | 由 21Vianet 運作的 Office 365 商務基本版 | 由 21Vianet 運作的 Office 365 商務版 | 由 21Vianet 運作的 Office 365 商務進階版 | 由 21Vianet 運作的 Office 365 A1 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | 由世紀運作的 Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**[Office 365 系統管理](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-21vianet&preserve-view=true#admin-center-features-and-settings)**||||||||
+|**[Office 365 系統管理](/office365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-21vianet#admin-center-features-and-settings)**||||||||
 |使用e Microsoft 365 系統管理中心或 Windows PowerShell 來管理 Office 365|是|是|是|是|是|是|是|
 |使用 AIP 保護內容|否|否|否|否|否|否|否|
 |透過機器翻譯手動翻譯郵件中心文章|是|是|是|是|是|是|是|
@@ -186,7 +186,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |威脅情報|否|否|否|否|否|否|否|
 |資訊管理-保留原則|是<sup>16</sup>|是<sup>16</sup>|是<sup>16</sup>|否|是<sup>16</sup>|是<sup>16</sup>|是|
 |資訊管理 (排除保留原則) |否|否|否|否|否|否|否|
-|**[合規性](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
+|**[合規性](/microsoft-365/compliance/offering-home)**||||||||
 |SAS 70 / SSAE16 評估|否|否|否|否|否|否|否|
 |ISO 27001 認證|是|是|是|是|是|是|是|
 |歐盟示範條款|否|否|否|否|否|否|否|
@@ -220,8 +220,8 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 <sup>13</sup> 正在消失的體驗。 If your organization is dependent upon Internet Explorer 8 or Internet Explorer 9 to access older web apps and services, you may want to consider upgrading to Internet Explorer 11 and evaluating Enterprise Mode for Internet Explorer 11. This update helps provide better backward compatibility for legacy web apps. <br/>
 <sup>14</sup> Outlook mobile (IOS 和 Android) 目前不支援多重要素驗證。 <br/>
 <sup>15</sup> OneNote 的類別筆記本是透過世紀提供，但是 OneNote 的類別筆記本工具列不適用於 Windows 10 應用程式、iPad 或網頁 OneNote。 <br/>
-由世紀運作的<sup>16</sup>位 Office 365 只支援保留原則。 不支援 Yammer 及小組位置的保留標籤或保留原則。 如需詳細資訊，請參閱 [使用保留原則快速入門](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-retention)。 <br/>
-<sup>17</sup> 在 microsoft 365 中的審計可讓組織深入瞭解 microsoft 365 中的不同服務所進行的各種審核活動類型。 使用 [安全性與 &amp; 合規性中心](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 審核記錄搜尋，以查看組織中的使用者和系統管理員活動。 您也可以使用 [Office 365 管理活動 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) ，從統一的審計記錄檔中取得事件。 當使用者或系統管理員執行已審核的活動時，會產生一個審計記錄，並將其儲存在客戶組織的審計記錄檔中。 在審核記錄) 中，保留審計記錄的時間長度 (及可供搜尋，取決於客戶的 Office 365 或 Microsoft 365 企業版訂閱，以及指派給特定使用者的授權類型。
+由世紀運作的<sup>16</sup>位 Office 365 只支援保留原則。 不支援 Yammer 及小組位置的保留標籤或保留原則。 如需詳細資訊，請參閱 [使用保留原則快速入門](/microsoft-365/compliance/get-started-with-retention)。 <br/>
+<sup>17</sup> 在 microsoft 365 中的審計可讓組織深入瞭解 microsoft 365 中的不同服務所進行的各種審核活動類型。 使用 [安全性與 &amp; 合規性中心](./office-365-securitycompliance-center.md) 審核記錄搜尋，以查看組織中的使用者和系統管理員活動。 您也可以使用 [Office 365 管理活動 API](/office/office-365-management-api/office-365-management-activity-api-reference) ，從統一的審計記錄檔中取得事件。 當使用者或系統管理員執行已審核的活動時，會產生一個審計記錄，並將其儲存在客戶組織的審計記錄檔中。 在審核記錄) 中，保留審計記錄的時間長度 (及可供搜尋，取決於客戶的 Office 365 或 Microsoft 365 企業版訂閱，以及指派給特定使用者的授權類型。
 
 ## <a name="office-365-application-features"></a>Office 365 應用程式功能 
 
@@ -288,7 +288,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 <sup>1</sup> 此版本的 Office 支援封存和相容性功能，但不包含 Exchange Online 和 SharePoint Online 方案，且必須另外購買或搭配支援的同等內部部署伺服器使用。
 <br/><sup>2</sup> Windows Server AD RMS 是內部部署伺服器，必須個別採購並管理，以便啟用支援的 IRM 功能。
 <br/><sup>3</sup> 如果您有 Office Professional Plus 2013 或獨立版本的 Excel 2013，則可以下載 [適用於 Excel 2013 的 Power Map 預覽版](https://www.microsoft.com/download/details.aspx?id=38395&amp;clcid=0x409)，並當作不受支援的增益集使用。
-<br/><sup>4</sup> 所有客戶皆可使用商務用 Skype Basic。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Office 365 專業增強版 和 Office 365 Enterprise E3 包含完整的 Skype 應用程式，其包含額外的功能，例如：進階電話語音支援、封存和法規遵循功能。 必須為每個使用者指派商務用 Skype Online 授權。 如需有關 Lync 基本功能的詳細資訊，請參閱[桌面用戶端比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) (英文)。
+<br/><sup>4</sup> 所有客戶皆可使用商務用 Skype Basic。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Office 365 專業增強版 和 Office 365 Enterprise E3 包含完整的 Skype 應用程式，其包含額外的功能，例如：進階電話語音支援、封存和法規遵循功能。 必須為每個使用者指派商務用 Skype Online 授權。 如需有關 Lync 基本功能的詳細資訊，請參閱[桌面用戶端比較表](/lyncserver/lync-server-2013-desktop-client-comparison-tables) (英文)。
 <br/><sup>5</sup> 有些學校可用於教育版（包括 Office 365 ProPlus），並可讓學生、教職員和員工在最多五部電腦或 Mac 電腦上，以及在其他行動裝置（包括 Windows 平板和 iPad）上安裝最新版的 Office。 當學校透過註冊教育版解決方案、Open Value Subscription 教育版解決方案或學校合約，為全機構的教職人員授權 Office 時，學校即符合 Office 365 教育增強版的資格。 請注意，Access 和 Publisher 僅在 PC 上可供使用。 OneNote for Mac 可分別從 Mac App Store 下載。
 <br/><sup>6</sup> 可安裝 Mac 版 Office 2011，但不可啟用。
 <br/><sup>7</sup> Office 365 ProPlus 支援使用者專用的虛擬桌面基礎結構 (VDI) 。 Office 365 當透過大量授權方案購買時，ProPlus 僅支援遠端桌面服務 (RDS)。
@@ -424,7 +424,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |遠端 Windows PowerShell 存取|是|是|是|是|是|是|是|
 |用於行動裝置的 ActiveSync 原則|是|是|是|是|是|是|是|
 |使用報告|是|是|是|是|是|是|是|
-|**[擴展服務 - 自訂、增益集和資源](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)**|**由 21Vianet 運作的 Office 365 商務基本版**|**由 21Vianet 運作的 Office 365 商務版**|**由 21Vianet 運作的 Office 365 商務進階版**|**由 21Vianet 運作的 Office 365 A1**|**由 21Vianet 運作的 Office 365 Enterprise E1**|**由 21Vianet 運作的 Office 365 Enterprise E3**|**由世紀運作的 Office 365 Enterprise F3**|
+|**[擴展服務 - 自訂、增益集和資源](../exchange-online-service-description/exchange-online-service-description.md)**|**由 21Vianet 運作的 Office 365 商務基本版**|**由 21Vianet 運作的 Office 365 商務版**|**由 21Vianet 運作的 Office 365 商務進階版**|**由 21Vianet 運作的 Office 365 A1**|**由 21Vianet 運作的 Office 365 Enterprise E1**|**由 21Vianet 運作的 Office 365 Enterprise E3**|**由世紀運作的 Office 365 Enterprise F3**|
 |Outlook 增益集和 Outlook MAPI|是<sup>1</sup>|是<sup>1</sup>|是<sup>1</sup>|是<sup>1</sup>|是<sup>1</sup>|是<sup>1</sup>|否|
 
 <sup>1</sup> 有些協力廠商的 web 元件和增益集可能無法使用。
@@ -436,12 +436,12 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 <br/><sup>7</sup> 針對 eDiscovery，您需要針對內部部署與雲端使用個別查詢。
 <br/><sup>8</sup> 支援 POP，但是不支援 IMAP。
 <br/><sup>9</sup> Office 365 商務基本版和商務版，不會提供與內部部署伺服器的使用方式存取權。 為了相容，客戶必須購買或已購買適當的 CAL，或升級至提供這些存取權的企業版 SKU。
-<br/><sup>10</sup> 混合式設定向導可用於 Exchange 2013 CU5 和較大的內部部署。 不過，有些混合式功能具有限制-請參閱 [說明] 主題。 如需詳細資訊，請參閱 [由世紀運作的 Office 365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet&preserve-view=true)。
+<br/><sup>10</sup> 混合式設定向導可用於 Exchange 2013 CU5 和較大的內部部署。 不過，有些混合式功能具有限制-請參閱 [說明] 主題。 如需詳細資訊，請參閱 [由世紀運作的 Office 365](/office365/admin/services-in-china/services-in-china?preserve-view=true&view=o365-21vianet)。
 <br/><sup>11</sup> 對於由世紀運作的 Office 365，LinkedIn 可供使用，但不能使用 Facebook。
-<br/><sup>12</sup> 混合式部署設定可透過 exchange 2013 CU5 的混合式設定向導取得，如果您有 exchange 2013 SP1，也可以手動設定。 如需詳細資訊，請參閱說明主題，請參閱 [由世紀運作的 Office 365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet&preserve-view=true)。
+<br/><sup>12</sup> 混合式部署設定可透過 exchange 2013 CU5 的混合式設定向導取得，如果您有 exchange 2013 SP1，也可以手動設定。 如需詳細資訊，請參閱說明主題，請參閱 [由世紀運作的 Office 365](/office365/admin/services-in-china/services-in-china?preserve-view=true&view=o365-21vianet)。
 <br/><sup>13</sup> 已連線的帳戶支援 POP &amp; IMAP 帳戶，但對 Outlook.com (Hotmail) 停用。
 <br/><sup>14</sup> 不支援使用 Cmdlet 來使用通訊清單及全域通訊清單。
-<br/><sup>15</sup> 目前的 Office 365 郵件加密 (OME) 功能是目前的資訊版權管理 (IRM) 和舊版的 OME 解決方案演變。 如需 OME 的詳細資訊，請參閱 [Office 365 Message ENCRYPTION FAQ](https://docs.microsoft.com/microsoft-365/compliance/ome-faq)。
+<br/><sup>15</sup> 目前的 Office 365 郵件加密 (OME) 功能是目前的資訊版權管理 (IRM) 和舊版的 OME 解決方案演變。 如需 OME 的詳細資訊，請參閱 [Office 365 Message ENCRYPTION FAQ](/microsoft-365/compliance/ome-faq)。
 
 ### <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -470,10 +470,10 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 - [Exchange ActiveSync limits ](../exchange-online-service-description/exchange-online-limits.md#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> - 套用至 Microsoft 365 組織的限制可能會因組織在服務中註冊的時間長短而有所不同。 如果在 Microsoft 資料中心內變更了某項限制，可能需要一些時間才能將變更套用至所有現有的客戶。
+> - 適用於 Microsoft 365 組織的限制可能會因為組織在服務中註冊的時間長短而有所不同。 如果在 Microsoft 資料中心內變更了某項限制，可能需要一些時間才能將變更套用至所有現有的客戶。
 > - 雖然您無法修改大部分的這些限制，不過您和使用者都應該注意這些限制。
 > - 這些限制同時適用於內部和外部收件者。
-> - Exchange Online Protection (EOP) 預設會保護 Exchange Online 信箱。 如需適用于 Exchange Online 中的 EOP 功能的限制，請參閱 [Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。
+> - Exchange Online Protection (EOP) 預設會保護 Exchange Online 信箱。 若要了解適用於 Exchange Online中 EOP 功能的限制，請參閱 [Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。
 
 ## <a name="exchange-online-protection-features"></a>Exchange Online Protection 功能
 
@@ -499,8 +499,8 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |[自訂反惡意程式碼原則](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|是|是|
 |[隔離](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine)：系統管理員管理|是|是|
 |[隔離](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine)：使用者自我管理|是|是|
-|[Outlook 的報告訊息增益集](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|是|是|
-|[Outlook 網頁版中的垃圾郵件報告](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|無<sup>7</sup>|無<sup>7</sup>|
+|[Outlook 的報告訊息增益集](/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|是|是|
+|[Outlook 網頁版中的垃圾郵件報告](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|無<sup>7</sup>|無<sup>7</sup>|
 |[在 Microsoft 和您自己的電子郵件伺服器之間路由傳送電子郵件](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|是|是|
 |[與信任的合作夥伴間的安全傳訊](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|是|是|
 |[安全列出夥伴的 IP 位址](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|是|是|
@@ -516,17 +516,17 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 <sup>1</sup> 郵件使用者會定義為「信箱」，而且可以連同外部郵件連絡人直接在 Exchange 系統管理中心 (EAC) 中新增、移除或管理。 <br/>
 <sup>2</sup> 沒有 RBAC 自訂。 僅限系統管理員角色。 <br/>
 <sup>3</sup> 在 EAC 中，可檢視受管理網域和編輯網域類型。 所有其他網域管理都必須在 Microsoft 365 系統管理中心完成。 <br/>
-<sup>4</sup> 郵件流程規則 (也稱為「傳輸規則」) 在 [Exchange Online Protection (傳輸規則) 中的郵件流程規則](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)中所述。 EOP 與 Exchange Online 之間的可用郵件流程規則條件、例外狀況和動作略有不同。 在 exchange Online 中和[郵件流程規則動作的](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)[郵件流程規則條件和例外狀況) 中](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)，會記下這些差異 (述詞。<br/>
+<sup>4</sup> 郵件流程規則 (也稱為「傳輸規則」) 在 [Exchange Online Protection (傳輸規則) 中的郵件流程規則](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)中所述。 EOP 與 Exchange Online 之間的可用郵件流程規則條件、例外狀況和動作略有不同。 在 exchange Online 中和[郵件流程規則動作的](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)[郵件流程規則條件和例外狀況) 中](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)，會記下這些差異 (述詞。<br/>
 <sup>5</sup> EOP 稽核報告是 Exchange Online 稽核報告的子集，但不包括信箱的相關資訊。 <br/>
 <sup>5</sup> EOP 稽核報告是 Exchange Online 稽核報告的子集，但不包括信箱的相關資訊。<br/>
-<sup>6</sup> 預設的內容篩選動作，就是將垃圾郵件移至收件者的 [垃圾郵件] 資料夾。 若要使用內部部署 Exchange 信箱，您也需要在內部部署 Exchange 組織中設定兩個傳輸規則，以偵測 EOP 新增的垃圾郵件頭。 如需詳細資訊，請參閱 [確定垃圾郵件路由傳送至每個使用者的垃圾郵件資料夾](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)。<br/>
+<sup>6</sup> 預設的內容篩選動作，就是將垃圾郵件移至收件者的 [垃圾郵件] 資料夾。 若要使用內部部署 Exchange 信箱，您也需要在內部部署 Exchange 組織中設定兩個傳輸規則，以偵測 EOP 新增的垃圾郵件頭。 如需詳細資訊，請參閱 [確定垃圾郵件路由傳送至每個使用者的垃圾郵件資料夾](/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)。<br/>
 <sup>7</sup> 透過 EOP 篩選其信箱的 Exchange Server 2013 Service Pack 1 (SP1) 客戶可以使用此功能，而且很快就可以供 Exchange Online 客戶使用。 <br/>
 <sup>8</sup> EOP 報告是 Exchange Online 報告的子集，但不包括信箱的相關資訊。 <br/>
 <sup>9</sup> 包括 DLP 報告。 <br/>
 <sup>10</sup> 會掃描輸入及輸出郵件，但不掃描從組織中寄件者傳送給組織中收件者的內部郵件。 <br/>
 <sup>11</sup> EOP 與 Exchange Online 可用的述詞和動作各不相同。 <br/>
 <sup>12</sup> 混合式安裝程式不能透過混合式精靈使用，但您可以手動設定 (如果您有 Exchange SP1)。
-<br/><sup>13</sup> 目前的 Office 365 郵件加密 (OME) 功能是目前的資訊版權管理 (IRM) 和舊版的 OME 解決方案演變。 如需 OME 的詳細資訊，請參閱 [Office 365 Message ENCRYPTION FAQ](https://docs.microsoft.com/microsoft-365/compliance/ome-faq)。
+<br/><sup>13</sup> 目前的 Office 365 郵件加密 (OME) 功能是目前的資訊版權管理 (IRM) 和舊版的 OME 解決方案演變。 如需 OME 的詳細資訊，請參閱 [Office 365 Message ENCRYPTION FAQ](/microsoft-365/compliance/ome-faq)。
 
 ## <a name="exchange-online-archiving-features"></a>Exchange Online 封存功能
 
@@ -537,8 +537,8 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 
 | 規劃 | 描述 |
 |:-----|:-----|
-|**Exchange Server for Office 365 (21Vianet 運作的 Office 365) 的 Exchange Online 封存**|雲端型封存，適用於在 Exchange Server 2013 或 Exchange 2010 (SP2 或更新版本) 中有主要信箱的使用者。  <br/> 如果您想要將雲端型封存新增至位於內部部署 Exchange 伺服器的主要信箱，您需要設定混合部署。 如需混合式部署的詳細資訊，請參閱 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。|
-|**Exchange Server for Office 365 (21Vianet 運作的 Office 365) 的 Exchange Online 封存**| 下列計劃已包含封存功能，不需要 Exchange Online Archiving做為附加元件：  <br/>  由 21Vianet 運作的 Office 365 A1  <br/>  由 21Vianet 運作的 Office 365 Enterprise E3  <br/>  由 21Vianet 運作的 Exchange Online Plan 2 for Office 365  <br/>  如需 Exchange Online 信箱封存功能的詳細資料，請參閱 [在 Exchange Online 中封存信箱](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview)。|
+|**Exchange Server for Office 365 (21Vianet 運作的 Office 365) 的 Exchange Online 封存**|雲端型封存，適用於在 Exchange Server 2013 或 Exchange 2010 (SP2 或更新版本) 中有主要信箱的使用者。  <br/> 如果您想要將雲端型封存新增至位於內部部署 Exchange 伺服器的主要信箱，您需要設定混合部署。 如需混合式部署的詳細資訊，請參閱 [Exchange Server 混合部署](/exchange/exchange-hybrid)。|
+|**Exchange Server for Office 365 (21Vianet 運作的 Office 365) 的 Exchange Online 封存**| 下列計劃已包含封存功能，不需要 Exchange Online Archiving做為附加元件：  <br/>  由 21Vianet 運作的 Office 365 A1  <br/>  由 21Vianet 運作的 Office 365 Enterprise E3  <br/>  由 21Vianet 運作的 Exchange Online Plan 2 for Office 365  <br/>  如需 Exchange Online 信箱封存功能的詳細資料，請參閱 [在 Exchange Online 中封存信箱](/office365/securitycompliance/eop/exchange-online-protection-overview)。|
 
 下表顯示由 21Vianet 運作的 Office 365 中可用的 Exchange Online Archiving 功能。<br><br>
 
@@ -761,7 +761,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |Microsoft Office 用戶端連線|是|是|是|是|是|是|是|
 |跨瀏覽器支援|是|是|是|是|是|是|是|
 |自訂管理路徑|否|否|否|否|否|否|否|
-|治理|是|是|是|是|是|是|是|
+|控管|是|是|是|是|是|是|是|
 |混合式應用程式啟動器|是|是|是|是|是|是|是<sup>15</sup>|
 |混合式 OneDrive 商務和網站|是|是|是|是|是|是|是<sup>15</sup>|
 |大量清單延展性和管理|是|是|是|是|是|是|是|
@@ -836,7 +836,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 下表列出可用於由 21Vianet 方案運作之 Office 365 的 Exchange Online 保護 (EOP) 商務用 Skype Online 功能。
 
 > [!NOTE]
-> - 此表格指出不同 Office 365 選項中的用戶端和服務可用性。 如果您想要比較各商務用 Skype 桌面用戶端、網頁用戶端和行動用戶端之間的個別功能，請參閱 [桌面用戶端比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) 及行動 [用戶端比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables)。
+> - 此表格指出不同 Office 365 選項中的用戶端和服務可用性。 如果您想要比較各商務用 Skype 桌面用戶端、網頁用戶端和行動用戶端之間的個別功能，請參閱 [桌面用戶端比較表](/lyncserver/lync-server-2013-desktop-client-comparison-tables) 及行動 [用戶端比較表](/lyncserver/lync-server-2013-mobile-client-comparison-tables)。
 > - 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
 
 | 功能 | 由 21Vianet 運作的 Office 365 商務基本版 | 由 21Vianet 運作的 Office 365 商務版 | 由 21Vianet 運作的 Office 365 商務進階版 | 由 21Vianet 運作的 Office 365 A1 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | 由世紀運作的 Office 365 Enterprise F3 |
@@ -937,7 +937,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |語音信箱|否|否|否|否|否|否|否|
 |[通話方案](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (國內通話方案，含有必要的附加元件購買) |否|否|否|否|否|否|否|
 |[通話方案](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (國際通話方案，含有必要的附加元件購買) |否|否|否|否|否|否|否|
-|[通訊點數](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)|否|否|否|否|否|否|否|
+|[通訊點數](/microsoftteams/what-are-communications-credits)|否|否|否|否|否|否|否|
 |商務用 Skype 語音|否|否|否|否|否|否|否|
 |**[安全性和封存](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**由 21Vianet 運作的 Office 365 商務基本版**|**由 21Vianet 運作的 Office 365 商務版**|**由 21Vianet 運作的 Office 365 商務進階版**|**由 21Vianet 運作的 Office 365 A1**|**由 21Vianet 運作的 Office 365 Enterprise E1**|**由 21Vianet 運作的 Office 365 Enterprise E3**|**由世紀運作的 Office 365 Enterprise F3**|
 |IM 與媒體加密|是|是|是|是|是|是|否|
@@ -965,7 +965,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |Windows PowerShell|是|是|是|是|是|是|否|
 |Microsoft 365 系統管理中心中的商務用 Skype Online 報告|是|是|是|是|是|是|否|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included.  所有客戶皆可使用 Lync 2013 Basic。 Lync Basic 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Office 365 專業增強版 和 Office 365 Enterprise E3 包含完整的 商務用 Skype (Lync) 應用程式，其包含額外的功能，例如：進階電話語音支援、封存、法規遵循功能。 必須為每個使用者指派 商務用 Skype Online 授權。 如需 Lync Basic 功能的詳細資訊，請參閱 [桌面用戶端比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included.  所有客戶皆可使用 Lync 2013 Basic。 Lync Basic 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Office 365 專業增強版 和 Office 365 Enterprise E3 包含完整的 商務用 Skype (Lync) 應用程式，其包含額外的功能，例如：進階電話語音支援、封存、法規遵循功能。 必須為每個使用者指派 商務用 Skype Online 授權。 如需 Lync Basic 功能的詳細資訊，請參閱 [桌面用戶端比較表](/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
 <br/><sup>2</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>3</sup> Only accessible through the Skype for Business admin center management interface.
 <br/><sup>4</sup> In Office 365 operated by 21Vianet, the Skype for Business client is supported for use with these subscription options, but it is not included. To access multiparty video (gallery view), OneNote meeting notes, recording, and calendar delegation features, users must have rights to the full Skype for Business client. You can obtain the full Skype for Business client by purchasing Office 2013 Professional Plus.
@@ -977,7 +977,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 
 > [!NOTE]
 > - 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
-> - 商務用 Skype Online 獨立方案 2 的授權使用者會得到商務用 Skype 基本用戶端，而非完整的商務用 Skype 用戶端。如果您希望讓使用者擁有商務用 Skype 用戶端，您必須將他們升級為含有該用戶端的授權，例如企業版授權。若要為使用者部署商務用 Skype 用戶端，請參閱[在 Office 365 部署商務用 Skype 用戶端](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365)。
+> - 商務用 Skype Online 獨立方案 2 的授權使用者會得到商務用 Skype 基本用戶端，而非完整的商務用 Skype 用戶端。如果您希望讓使用者擁有商務用 Skype 用戶端，您必須將他們升級為含有該用戶端的授權，例如企業版授權。若要為使用者部署商務用 Skype 用戶端，請參閱[在 Office 365 部署商務用 Skype 用戶端](/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365)。
 
 | 功能 | 商務用 Skype Online 21Vianet 運作的 Office 365 獨立方案 1 | 商務用 Skype Online 21Vianet 運作的 Office 365 獨立方案 2 |
 |:-----|:-----|:-----|
@@ -1066,7 +1066,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |Windows PowerShell|是|是|
 |Microsoft 365 系統管理中心中的商務用 Skype Online 報告|否<sup>4</sup>|否<sup>4</sup>|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included.  所有客戶皆可使用 Lync 2013 Basic。 The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus 和 Office 365 企業版 E3 包含完整的商務用 Skype (Lync) 應用程式，其中包含其他功能（包括高級電話語音支援、封存 &amp; 相容性功能）。 必須為每個使用者指派商務用 Skype Online 授權。 如需有關 Lync 基本功能的詳細資訊，請參閱[桌面用戶端比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) (英文)。
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included.  所有客戶皆可使用 Lync 2013 Basic。 The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus 和 Office 365 企業版 E3 包含完整的商務用 Skype (Lync) 應用程式，其中包含其他功能（包括高級電話語音支援、封存 &amp; 相容性功能）。 必須為每個使用者指派商務用 Skype Online 授權。 如需有關 Lync 基本功能的詳細資訊，請參閱[桌面用戶端比較表](/lyncserver/lync-server-2013-desktop-client-comparison-tables) (英文)。
 <br/><sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if they are invited by a Skype for Business Online Plan 2 user.
 <br/><sup>3</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
@@ -1166,10 +1166,10 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |[管理、部署和擴充性](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|否<sup>2</sup>|是|是|否|是|
 |[快速入門](../project-online-service-description/core-services-functionality.md#getting-started)|是|是|是|否|是|
 |[問題和風險管理 (適用於小組成員)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|是|是|是|否|是|
-|[Office 365 信任中心](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|否|否|否|N/A|N/A|
+|[Office 365 信任中心](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|否|否|否|不適用|不適用|
 |[PPM 合作夥伴生態系統](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|是|是|是|否|是|
-|[服務可靠性](../project-online-service-description/core-services-functionality.md#service-reliability)|是|是|是|N/A|N/A|
-|[服務更新](../project-online-service-description/core-services-functionality.md#service-updates)|是|是|是|N/A|N/A|
+|[服務可靠性](../project-online-service-description/core-services-functionality.md#service-reliability)|是|是|是|不適用|不適用|
+|[服務更新](../project-online-service-description/core-services-functionality.md#service-updates)|是|是|是|不適用|不適用|
 |[小組成員共同作業](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|是|是|是|否|是|
 |[時間和任務管理 (適用於小組成員)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|是|是|是|否|是|
 |**專案管理**|**Project Online 21Vianet 運作的 Office 365 基本版**|**Project Online 21Vianet 運作的 Office 365 專業版**|**Project Online 21Vianet 運作的 Office 365 進階版**|**21Vianet 運作的 Project Professional 2016 for Office 365**|**21Vianet 運作的 Project Server 2016 for Office 365**|

@@ -13,18 +13,18 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: 透過 Microsoft Office 365 for enterprise、business、教育和政府訂閱，Microsoft 支援服務提供全球技術、售前、帳單及訂閱支援。 線上透過 Microsoft365 系統管理中心，以及透過電話撥打付費和試用版訂閱，都有提供支援。 如需詳細資訊，請參閱 Microsoft 支援選項。
-ms.openlocfilehash: b7f4a0fffc903c65a2a51e2267b420c24fdd12b0
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: f2279db8689f30d6906f33d6c2531ddfb4223784
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261565"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172788"
 ---
 # <a name="support"></a>支援
 
-透過 Microsoft Office 365 for enterprise、business、教育和政府訂閱，Microsoft 支援服務提供全球技術、售前、帳單及訂閱支援。 線上透過 Microsoft 365 系統管理中心，以及透過電話撥打付費和試用版訂閱，都有提供支援。 如需詳細資訊，請參閱 [Microsoft 支援選項](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)。
+透過 Microsoft Office 365 for enterprise、business、教育和政府訂閱，Microsoft 支援服務提供全球技術、售前、帳單及訂閱支援。 線上透過 Microsoft 365 系統管理中心，以及透過電話撥打付費和試用版訂閱，都有提供支援。 如需詳細資訊，請參閱 [Microsoft 支援選項](/Office365/Admin/contact-support-for-business-products)。
   
-授權的系統管理員可以使用 Microsoft 365 系統管理中心，以線上提交服務要求、存取支援電話號碼，以及查看所有開啟及最近關閉的服務要求。 在系統管理中心中送出的服務要求，在要求關閉後，最多可重新開啟14天。 如需相關指示，請參閱 [聯繫 Microsoft 365 for business support](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)。
+授權的系統管理員可以使用 Microsoft 365 系統管理中心，以線上提交服務要求、存取支援電話號碼，以及查看所有開啟及最近關閉的服務要求。 在系統管理中心中送出的服務要求，在要求關閉後，最多可重新開啟14天。 如需相關指示，請參閱 [聯繫 Microsoft 365 for business support](/Office365/Admin/contact-support-for-business-products)。
   
 Microsoft 365 技術支援小組只會針對與 Microsoft 365 和 Office 365 相關的問題進行診斷。 來源於客戶網路的問題超出支援界限，在這些情況下，客戶必須與網路小組合作，或聯繫 [Microsoft 網路小組](https://support.microsoft.com/gp/contactus81?Audience=Commercial) 以尋求協助。
   
@@ -34,11 +34,11 @@ Microsoft 365 技術支援小組只會針對與 Microsoft 365 和 Office 365 相
   
 ## <a name="pre-sales-support"></a>售前支援
 
-售前支援提供有關訂閱功能和權益的協助、規劃比較、定價和授權，以及協助識別適當的解決方案以滿足您的業務需求。 此外，售前支援可以幫助您尋找合作夥伴，以及購買和註冊試用。 您可以在星期一到星期五當地營業時間內撥打電話。 售前支援和技術支援的服務電話號碼相同。 可在免費試用版的系統管理中心內找到支援電話號碼。 如需相關指示，請參閱 [聯繫 Microsoft 365 for business support](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)。
+售前支援提供有關訂閱功能和權益的協助、規劃比較、定價和授權，以及協助識別適當的解決方案以滿足您的業務需求。 此外，售前支援可以幫助您尋找合作夥伴，以及購買和註冊試用。 您可以在星期一到星期五當地營業時間內撥打電話。 售前支援和技術支援的服務電話號碼相同。 可在免費試用版的系統管理中心內找到支援電話號碼。 如需相關指示，請參閱 [聯繫 Microsoft 365 for business support](/Office365/Admin/contact-support-for-business-products)。
   
 ## <a name="billing-and-subscription-management-support"></a>帳務和訂閱管理支援
 
-您可透過線上支援或於週一至週五的當地營業時間內撥打電話，以取得帳務和訂閱管理問題的協助。 帳務和訂閱管理支援與技術支援的服務電話相同，且線上服務要求的提交程序也相同。 可在系統管理中心找到支援電話號碼。 如需相關指示，請參閱 [聯繫 Microsoft 365 for business support](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)。
+您可透過線上支援或於週一至週五的當地營業時間內撥打電話，以取得帳務和訂閱管理問題的協助。 帳務和訂閱管理支援與技術支援的服務電話相同，且線上服務要求的提交程序也相同。 可在系統管理中心找到支援電話號碼。 如需相關指示，請參閱 [聯繫 Microsoft 365 for business support](/Office365/Admin/contact-support-for-business-products)。
   
 下列為帳務和訂閱管理問題的部分範例：
   
@@ -64,7 +64,7 @@ Microsoft 365 訂閱的技術支援提供基本安裝、設定及一般技術使
 |組態  <br/> | 服務設定失敗問題  <br/>  佈建問題  <br/>  網域設定和重新委派  <br/>  服務設定問題  <br/>  單一登入 (SSO)  <br/>  Active Directory 同步處理  <br/> |
 
 > [!NOTE]
-> 您可以在這裡瞭解如何聯繫我們的技術支援： [與 Microsoft 365 聯繫以取得商務支援服務](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)。
+> 您可以在這裡瞭解如何聯繫我們的技術支援： [與 Microsoft 365 聯繫以取得商務支援服務](/Office365/Admin/contact-support-for-business-products)。
 >
 > 技術支援不包括疑難排解協力廠商服務或增益集。瞭解如何在 [Microsoft 社區](https://answers.microsoft.com)中尋找其他客戶的答案。
   
@@ -100,7 +100,7 @@ Microsoft 365 訂閱的技術支援提供基本安裝、設定及一般技術使
   
 ### <a name="technical-support-languages"></a>技術支援語言
 
-依地點和語言而定，大部分區域的營業時間內，支援工程師均可提供支援，某些情況下 24 小時待命。 如需詳細資訊，請參閱 [國際電話號碼](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products) 和 [Microsoft 支援選項](https://products.office.com/business/office-365-for-business-support-options)。 如需另外的翻譯協助，支援工程師可直接在線上為您安排翻譯人員加入通話。
+依地點和語言而定，大部分區域的營業時間內，支援工程師均可提供支援，某些情況下 24 小時待命。 如需詳細資訊，請參閱 [國際電話號碼](/Office365/Admin/contact-support-for-business-products) 和 [Microsoft 支援選項](https://products.office.com/business/office-365-for-business-support-options)。 如需另外的翻譯協助，支援工程師可直接在線上為您安排翻譯人員加入通話。
   
 ## <a name="shared-support-responsibilities"></a>共用支援責任
 
@@ -110,7 +110,7 @@ Microsoft 了解即時提供合格專業人員的技術支援是雲端服務的�
 
 只有 Microsoft 系統管理員角色的人員才有權存取系統 **管理中心的系統管理員區段，** 以及直接與 Microsoft 進行服務要求的通訊。
   
-使用 Office 365 for enterprise 和 Microsoft 365 Apps Plan，您可以指定多種類型的系統管理員來提供不同的功能。 此服務說明採用一般標題「管理員」來統稱所有類別的管理員。 如需有關管理員角色類型的詳細資訊，請參閱〈[指派管理員角色](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)〉。
+使用 Office 365 for enterprise 和 Microsoft 365 Apps Plan，您可以指定多種類型的系統管理員來提供不同的功能。 此服務說明採用一般標題「管理員」來統稱所有類別的管理員。 如需有關管理員角色類型的詳細資訊，請參閱〈[指派管理員角色](/office365/admin/add-users/assign-admin-roles)〉。
   
 管理員：
   
@@ -176,7 +176,7 @@ Microsoft 隨附的支援服務可滿足許多客戶的需求，具有更多高�
 
 ### <a name="partners"></a>協力程式
 
-您可以選取 Microsoft 合作夥伴，並委派系統管理職責，包括建立服務要求票證。如需詳細資訊，請參閱[協力程式](partners.md)服務說明和〈[新增、變更或刪除訂閱顧問合作夥伴](https://docs.microsoft.com/office365/admin/misc/add-partner)〉。
+您可以選取 Microsoft 合作夥伴，並委派系統管理職責，包括建立服務要求票證。如需詳細資訊，請參閱[協力程式](partners.md)服務說明和〈[新增、變更或刪除訂閱顧問合作夥伴](/office365/admin/misc/add-partner)〉。
   
 ### <a name="developers"></a>開發人員
 

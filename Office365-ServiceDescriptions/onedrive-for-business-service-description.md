@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看在哪些方案中可使用哪些 OneDrive 功能。
-ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: ab36eac2f24e8e7c213dfd8be1739d22c81727fb
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901948"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172728"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服務描述
 
@@ -85,7 +85,7 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
 > [!NOTE]
 > 您必須將至少一個授權指派給使用者，才能增加預設 OneDrive 儲存空間。 
   
-當您的個別使用者需要超過初始 5 TB 的雲端儲存空間，系統管理員可以向 [Microsoft 技術支援開啟案例](https://go.microsoft.com/fwlink/?linkid=869559)來要求。 將會授與額外的雲端儲存空間，如下所示： 
+當您的個別使用者需要超過初始 5 TB 的雲端儲存空間，系統管理員可以向 [Microsoft 技術支援開啟案例](/microsoft-365/admin/contact-support-for-business-products)來要求。 將會授與額外的雲端儲存空間，如下所示： 
   
 - 當使用者用盡 5 TB OneDrive 儲存空間的至少 90% 容量時，Microsoft 會將 OneDrive 中的預設儲存空間增加到每個使用者最多 25 TB (系統管理員也可以視意願設定較低的每位使用者限制)。 
     
@@ -101,7 +101,7 @@ OneDrive 是以每個使用者為基礎進行佈建，而且是設計來為個�
   
 ## <a name="onedrive-limits"></a>OneDrive 的限制
 
-若要了解檔案和同步處理的限制，請參閱 [SharePoint 限制](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)和[無效的檔案名稱和檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+若要了解檔案和同步處理的限制，請參閱 [SharePoint 限制](./sharepoint-online-service-description/sharepoint-online-limits.md)和[無效的檔案名稱和檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
   
 針對包含無限個別使用者雲端儲存空間的方案，請注意，限制可能會套用到非儲存空間功能。 
 
@@ -185,5 +185,4 @@ OneDrive 是以每個使用者為基礎進行佈建，而且是設計來為個�
 
 ## <a name="it-admin-security-and-compliance-features"></a>IT 系統管理員、安全性與合規性功能
 
-如需有關這些功能的資訊，請參閱 [SharePoint 服務描述](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description#security-and-compliance-features)。
-
+如需有關這些功能的資訊，請參閱 [SharePoint 服務描述](./sharepoint-online-service-description/sharepoint-online-service-description.md#security-and-compliance-features)。

@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: Yammer 中提供下列系統管理和安全性功能。
-ms.openlocfilehash: c4f7bc321de1abff3a260cd30922d305548cfc97
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 8043e18bcacb8056c4a109a1d909ddf190908e9c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132097"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173868"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Yammer 中的系統管理與安全性功能
 
 Yammer 中提供下列系統管理和安全性功能。
   
-如需詳細的說明和程式，請參閱[Yammer 系統管理](https://go.microsoft.com/fwlink/?LinkId=869688)說明。
+如需詳細的說明和程式，請參閱 [Yammer 系統管理](/yammer/)說明。
 
 ## <a name="admin-private-content-mode"></a>管理私人內容模式
 
-已驗證的 Yammer 網路管理員可以檢視整個網路中的私人郵件和群組。已驗證的管理員只有在為本身暫時授與私人內容存取權以調查問題時，才可以檢視私人內容。如需詳細資訊，請參閱[在 Yammer (已驗證的管理員) 中監視私人內容](https://go.microsoft.com/fwlink/?LinkId=627479)。
+已驗證的 Yammer 網路管理員可以檢視整個網路中的私人郵件和群組。已驗證的管理員只有在為本身暫時授與私人內容存取權以調查問題時，才可以檢視私人內容。如需詳細資訊，請參閱[在 Yammer (已驗證的管理員) 中監視私人內容](/yammer/manage-security-and-compliance/monitor-private-content)。
 
 ## <a name="analytics"></a>分析
 
@@ -54,7 +54,7 @@ Yammer 中提供下列系統管理和安全性功能。
 
 ## <a name="network-migration"></a>網路移轉
 
-合併多個 Yammer 網路成一個。 如需詳細資訊，請參閱[網路移轉：合併多個 Yammer 網路](https://go.microsoft.com/fwlink/?LinkID=617488)。
+合併多個 Yammer 網路成一個。 如需詳細資訊，請參閱[網路移轉：合併多個 Yammer 網路](/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)。
   
 > [!NOTE]
 > 不支援跨方案遷移 Yammer 網路。 
@@ -85,6 +85,4 @@ Yammer 中提供下列系統管理和安全性功能。
 
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Yammer 服務描述](yammer-service-description.md)。
-  
-
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Yammer 服務描述](yammer-service-description.md)。

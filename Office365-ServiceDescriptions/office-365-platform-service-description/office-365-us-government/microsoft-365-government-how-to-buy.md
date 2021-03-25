@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 政府的概述，並說明購買選項。
-ms.openlocfilehash: 46a53119dd93d49699c2f8f2292d1947a4c034c9
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
+ms.openlocfilehash: e3b859ce2b89af936fcd466e2285bb316942e187
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572709"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172998"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版-如何購買
 
@@ -88,14 +88,14 @@ Microsoft 365 政府可供合格的政府客戶和非政府組織，贊助用來
 若要深入瞭解 Microsoft 365 政府中可用的服務，請參閱下列資源：
 
 - [Office 365 政府服務說明](office-365-us-government.md)
-- [Enterprise 可移動性 + US 政府服務的安全性說明](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [適用于美國政府客戶的 Microsoft Defender for Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [政府-GCC 部署的團隊](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
-- [政府-GCC 高部署的團隊](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [政府 DoD 部署的團隊](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
-- [政府社區雲端中 iOS 和 Android 的 Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
-- [Microsoft PowerApps 美國政府版](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Power 「我們政府」自動化](https://docs.microsoft.com/flow/us-govt)
+- [Enterprise 可移動性 + US 政府服務的安全性說明](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [適用于美國政府客戶的 Microsoft Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [政府-GCC 部署的團隊](/MicrosoftTeams/plan-for-government-gcc)
+- [政府-GCC 高部署的團隊](/MicrosoftTeams/plan-for-government-gcc-high)
+- [政府 DoD 部署的團隊](/MicrosoftTeams/plan-for-government-dod)
+- [政府社區雲端中 iOS 和 Android 的 Outlook](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps 美國政府版](/power-platform/admin/powerapps-us-government)
+- [Microsoft Power 「我們政府」自動化](/flow/us-govt)
 - [Microsoft 365 政府產品頁面](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft 365 藍圖](https://www.microsoft.com/microsoft-365/roadmap)
 
@@ -173,14 +173,14 @@ Microsoft 365 政府可供合格的政府客戶和非政府組織，贊助用來
 請參閱下列資源，以瞭解更多關於 Microsoft 365 政府的資訊。
 
 - [Office 365 政府服務說明](office-365-us-government.md)
-- [Enterprise 可移動性 + US 政府服務的安全性說明](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [適用于美國政府客戶的 Microsoft Defender for Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [政府-GCC 部署的團隊](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
-- [政府-GCC 高部署的團隊](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [政府 DoD 部署的團隊](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
-- [政府社區雲端中 iOS 和 Android 的 Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
-- [Microsoft PowerApps 美國政府版](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Power 「我們政府」自動化](https://docs.microsoft.com/flow/us-govt)
+- [Enterprise 可移動性 + US 政府服務的安全性說明](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [適用于美國政府客戶的 Microsoft Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [政府-GCC 部署的團隊](/MicrosoftTeams/plan-for-government-gcc)
+- [政府-GCC 高部署的團隊](/MicrosoftTeams/plan-for-government-gcc-high)
+- [政府 DoD 部署的團隊](/MicrosoftTeams/plan-for-government-dod)
+- [政府社區雲端中 iOS 和 Android 的 Outlook](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps 美國政府版](/power-platform/admin/powerapps-us-government)
+- [Microsoft Power 「我們政府」自動化](/flow/us-govt)
 - [Microsoft 365 藍圖](https://www.microsoft.com/microsoft-365/roadmap)
 - [Microsoft 365 政府產品頁面](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft 政府行業頁面](https://www.microsoft.com/enterprise/government)

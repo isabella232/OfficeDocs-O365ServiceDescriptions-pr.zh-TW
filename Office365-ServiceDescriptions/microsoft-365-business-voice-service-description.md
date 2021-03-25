@@ -9,16 +9,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商務語音是一項增益集服務，可讓您使用 Microsoft 小組進行電話通話。 這會結合電話系統、國內通話方案、SMS 和音訊會議。
-ms.openlocfilehash: b1b547e7b02865136774e555f33be8e5750de4d4
-ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
+ms.openlocfilehash: 6c9c118b5786a8919f1156e650dbc9a82ddcd590
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/23/2020
-ms.locfileid: "49730741"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173548"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 商務版語音服務描述
 
-Microsoft 365 商務語音是一種可提供電話系統功能（例如通話駐留、來電轉接、自動語音應答、通話佇列、音訊會議及通話計畫）的 Microsoft 小組中雲端式電話語音解決方案。 您可以將商務語音新增至 Office 365 和 Microsoft 365 訂閱中，其中包括 Microsoft 團隊 (高達300個授權) 。 如需商務語音服務的詳細資訊，請參閱 [Microsoft 365 商務語音](https://docs.microsoft.com/MicrosoftTeams/business-voice/whats-business-voice)。
+Microsoft 365 商務語音是一種可提供電話系統功能（例如通話駐留、來電轉接、自動語音應答、通話佇列、音訊會議及通話計畫）的 Microsoft 小組中雲端式電話語音解決方案。 您可以將商務語音新增至 Office 365 和 Microsoft 365 訂閱中，其中包括 Microsoft 團隊 (高達300個授權) 。 如需商務語音服務的詳細資訊，請參閱 [Microsoft 365 商務語音](/MicrosoftTeams/business-voice/whats-business-voice)。
 
 您可以從兩個 Microsoft 365 商務語音選項中選擇：
 
@@ -69,4 +69,4 @@ Microsoft 365 商務語音可搭配下列訂閱和高達300授權：
 
 <sup>*</sup> 與協力廠商提供的通話方案搭配使用。
 
-<sup>**</sup> 免付費撥號和國際通話方案是使用 [通訊學分](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)以額外成本提供。 若要深入瞭解，請參閱 [免付費電話撥號](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) 和 [國際通話費率](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)。
+<sup>**</sup> 免付費撥號和國際通話方案是使用 [通訊學分](/microsoftteams/what-are-communications-credits)以額外成本提供。 若要深入瞭解，請參閱 [免付費電話撥號](/microsoftteams/toll-free-dialing-limitations-and-restrictions) 和 [國際通話費率](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)。

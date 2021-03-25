@@ -8,18 +8,18 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics 功能、分配、隱私權及必要條件
-ms.openlocfilehash: 204c16b82ce93a0660259c64bf5e283ba4837005
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 9b19dfd5eb40ab136f8491fc87fab02434b88d98
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902042"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173488"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 服務描述
 
 MyAnalytics 摘要說明您在工作中花費的時間，然後建議更聰明的運作方式。 MyAnalytics 提供這些透過您可以在 Microsoft Outlook 或透過網頁瀏覽器中存取之 [元素](#elements) 的洞察力。
 
-一些 MyAnalytics 的元素會自動提供給各種 Office 365 方案的使用者。 若要瞭解 Office 365 和 Microsoft 365 方案中包含哪些元素，請參閱 [MyAnalytics 方案和環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。  
+一些 MyAnalytics 的元素會自動提供給各種 Office 365 方案的使用者。 若要瞭解 Office 365 和 Microsoft 365 方案中包含哪些元素，請參閱 [MyAnalytics 方案和環境](/workplace-analytics/myanalytics/overview/plans-environments)。  
 
 MyAnalytics 會以保護員工隱私權的方式處理資訊。 如需詳細資訊，請參閱 [Data 隱私權](#data-privacy)。
 
@@ -31,10 +31,10 @@ MyAnalytics 會以保護員工隱私權的方式處理資訊。 如需詳細資�
 
 MyAnalytics 包含下列元素：
 
-* [儀表板](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2)：協助您反映您的工作模式，例如焦點工作、會議和電子郵件實踐，以及網路的時間。
-* [Outlook 增益集](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in)：提供 outlook 中可行動的觀點，可協助您掌握工作的最新資訊，並進一步完成。
-* [電子郵件摘要](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2)：提供每週電子郵件的工作模式重要重點。
-* [內嵌建議](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications)：在 Outlook 中，當您閱讀或撰寫電子郵件或會議邀請時，會出現在 Outlook 中，資料和 AI 導向的建議。
+* [儀表板](/workplace-analytics/myanalytics/use/dashboard-2)：協助您反映您的工作模式，例如焦點工作、會議和電子郵件實踐，以及網路的時間。
+* [Outlook 增益集](/workplace-analytics/myanalytics/use/add-in)：提供 outlook 中可行動的觀點，可協助您掌握工作的最新資訊，並進一步完成。
+* [電子郵件摘要](/workplace-analytics/myanalytics/use/email-digest-2)：提供每週電子郵件的工作模式重要重點。
+* [內嵌建議](/workplace-analytics/myanalytics/use/mya-notifications)：在 Outlook 中，當您閱讀或撰寫電子郵件或會議邀請時，會出現在 Outlook 中，資料和 AI 導向的建議。
 
 ## <a name="data-privacy"></a>資料隱私權
 
@@ -48,10 +48,10 @@ MyAnalytics 包含下列元素：
 * MyAnalytics 和 Delve 是獨立的應用程式，不具相互關係。
 * MyAnalytics 會提醒人們資料屬於私人且相當安全。
 
-如需詳細資訊，請參閱 [MyAnalytics 隱私權指南](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide)。
+如需詳細資訊，請參閱 [MyAnalytics 隱私權指南](/workplace-analytics/myanalytics/overview/privacy-guide)。
 
 [深入瞭解 MyAnalytics 可如何協助您更聰明地運作](https://products.office.com/business/myanalytics-personal-analytics)。
 
 ## <a name="prerequisites"></a>必要條件
 
-* [Microsoft Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)
+* [Microsoft Exchange Online](./exchange-online-service-description/exchange-online-service-description.md)

@@ -12,17 +12,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
-description: 使用 web 的 OneNote （先前 OneNote 稱為 Web App），在您可以從任何位置新增並輕鬆與其他人共用的 OneNote 筆記本中做筆記。 所有客戶均可使用 Office for web 來查看和輕微編輯 Office 檔案。
-ms.openlocfilehash: a85dcebbba52a14c0041f0cc514e557c8691161f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 使用 web (之前 OneNote Web App 的 OneNote，) 在您可以從任何位置新增並輕鬆與其他人共用的 OneNote 筆記本中做筆記。 所有客戶均可使用 Office for web 來查看和輕微編輯 Office 檔案。
+ms.openlocfilehash: c23edcb6107fd097bc6a72d173f96a451db1a6cd
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131307"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173888"
 ---
 # <a name="onenote-for-the-web"></a>OneNote 網頁版
 
-使用 web 的 OneNote （先前 OneNote 稱為 Web App），在您可以從任何位置新增並輕鬆與其他人共用的 OneNote 筆記本中做筆記。 所有客戶均可使用 Office for web 來查看和輕微編輯 Office 檔案。 
+使用 web (之前 OneNote Web App 的 OneNote，) 在您可以從任何位置新增並輕鬆與其他人共用的 OneNote 筆記本中做筆記。 所有客戶均可使用 Office for web 來查看和輕微編輯 Office 檔案。 
   
 ## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>進階的共同作業：將新內容顯示為未讀取、顯示狀態
 
@@ -34,7 +34,7 @@ ms.locfileid: "45131307"
   
 ## <a name="office-add-ins"></a>Office 增益集
 
-OneNote 網頁版僅支援 Office 的內容增益集。 內容增益集將網頁式功能整合為可在文件中內嵌顯示的內容。 進一步了解[適用於 Office 的增益集類型](https://go.microsoft.com/fwlink/p/?LinkId=282310)。
+OneNote 網頁版僅支援 Office 的內容增益集。 內容增益集將網頁式功能整合為可在文件中內嵌顯示的內容。 進一步了解[適用於 Office 的增益集類型](/previous-versions/office/office-2013-resource-kit/jj219429(v=office.15))。
   
 ## <a name="audio-notes-recording"></a>音訊備註錄製
 
@@ -58,7 +58,7 @@ OneNote 網頁版僅支援 Office 的內容增益集。 內容增益集將網頁
   
 ## <a name="create-and-manage-pages-and-sections"></a>建立和管理頁面和章節
 
-透過網頁 OneNote，您可以透過在筆記本中建立新的頁面或新的區段，輕鬆新增至新的或現有的筆記本。 您可以自訂、格式化、移動或複製筆記本之間的頁面和章節。 深入瞭解[使用網頁筆記本的 OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272945)。
+透過網頁 OneNote，您可以透過在筆記本中建立新的頁面或新的區段，輕鬆新增至新的或現有的筆記本。 您可以自訂、格式化、移動或複製筆記本之間的頁面和章節。 深入瞭解 [使用網頁筆記本的 OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272945)。
   
 ## <a name="download-copy-of-embedded-office-files"></a>下載嵌入的 Office 檔案副本
 
@@ -131,7 +131,7 @@ Web 的 OneNote 會在使用者輸入時自動檢查拼寫，並對拼錯的文�
   
 ## <a name="rights-management-apply-and-consume-irm-and-password-protection"></a>版權管理：套用和使用 IRM 和密碼保護功能
 
-網頁 OneNote 會顯示受資訊版權管理（IRM）保護的筆記本。 不過，這些筆記本無法在瀏覽器中編輯，而且您無法在網頁 OneNote 中建立受 IRM 保護的筆記本。 Web OneNote 無法開啟以密碼加密的檔。 僅 OneNote 桌面應用程式提供進階的文件保護功能 (例如：建立受 IRM 保護的筆記本和套用密碼保護)。
+OneNote 網頁會顯示受資訊版權管理 (IRM) 保護的筆記本。 不過，這些筆記本無法在瀏覽器中編輯，而且您無法在網頁 OneNote 中建立受 IRM 保護的筆記本。 Web OneNote 無法開啟以密碼加密的檔。 僅 OneNote 桌面應用程式提供進階的文件保護功能 (例如：建立受 IRM 保護的筆記本和套用密碼保護)。
   
 ## <a name="search-on-page-within-sections"></a>搜尋 (在頁面上、章節中)
 
@@ -163,7 +163,7 @@ Web 的 OneNote 會在使用者輸入時自動檢查拼寫，並對拼錯的文�
   
 ## <a name="undo-and-redo"></a>復原和取消復原
 
-您可以使用鍵盤復原（Ctrl+Z）或取消復原（Alt + F7）最近一頁的動作，該動作是針對網頁 OneNote 中已在使用中的筆記本中編輯。 針對 web 的 OneNote 會為您提供在使用中筆記本中編輯之每個頁面的個別復原歷程記錄。 您可以無限次復原各頁面上目前編輯工作階段的近期動作，直到有圖片插入或其他作者進行編輯。 移動和刪除頁面無法復原。 深入瞭解[網頁快速鍵的 OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272944)。
+您可以使用鍵盤復原 (Ctrl+Z) 或取消復原 (Alt + F7) 針對網頁 OneNote 的使用中筆記本中編輯之每個頁面最近的動作。 針對 web 的 OneNote 會為您提供在使用中筆記本中編輯之每個頁面的個別復原歷程記錄。 您可以無限次復原各頁面上目前編輯工作階段的近期動作，直到有圖片插入或其他作者進行編輯。 移動和刪除頁面無法復原。 深入瞭解 [網頁快速鍵的 OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272944)。
   
 ## <a name="video-playback"></a>視訊播放
 
@@ -175,6 +175,4 @@ Web 的 OneNote 會在使用者輸入時自動檢查拼寫，並對拼錯的文�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[web 服務說明的 Office](office-online-service-description.md)。
-  
-
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [web 服務說明的 Office](office-online-service-description.md)。

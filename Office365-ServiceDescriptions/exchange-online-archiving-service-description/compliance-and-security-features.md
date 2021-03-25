@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
 description: 請閱讀本文以瞭解 Microsoft Exchange Online 封存中提供的相容性功能。
-ms.openlocfilehash: 0826a2677dcc3d8c336ecea3901ed7486c71eda3
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: db2a6c515e5d438dce98a9a14d880ea40c25f505
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293619"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173308"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online 封存中的合規性和安全性功能
 
@@ -32,7 +32,7 @@ Exchange Online Archiving 提供兩種類型的原則：封存原則和刪除原
   
 使用 Outlook 2010 和更新版本和 Outlook 網頁版，使用者可以將保留原則套用至資料夾、交談或個別郵件，也可以在郵件上查看套用的保留原則和預期刪除日期。 其他電子郵件用戶端的使用者可根據系統管理員所佈建的伺服器端保留原則來刪除或封存電子郵件，但是沒有相同程度的檢視和控制能力。
   
-Exchange Online Archiving 提供的保留原則功能與 Exchange Server 2010 Service Pack 2 (SP2) 及更新版本所提供的相同。 系統管理員可以從內部部署 Exchange Server 2010 及更新版本的環境管理保留原則。 受管理的資料夾是 Exchange 2007 中引進的舊式郵件記錄管理方法，無法在 Exchange Online 封存中使用且不相容。 如需詳細資訊，請參閱〈[保留標記和保留原則](https://go.microsoft.com/fwlink/p/?LinkID=314153)〉。
+Exchange Online Archiving 提供的保留原則功能與 Exchange Server 2010 Service Pack 2 (SP2) 及更新版本所提供的相同。 系統管理員可以從內部部署 Exchange Server 2010 及更新版本的環境管理保留原則。 受管理的資料夾是 Exchange 2007 中引進的舊式郵件記錄管理方法，無法在 Exchange Online 封存中使用且不相容。 如需詳細資訊，請參閱〈[保留標記和保留原則](/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)〉。
   
 ### <a name="in-place-hold-and-litigation-hold"></a>就地保留與訴訟暫止
 
@@ -61,26 +61,26 @@ Exchange Online Archiving 提供的保留原則功能與 Exchange Server 2010 Se
 > [!NOTE]
 > 當您對信箱進行就地保留或訴訟資料暫留時，會同時保留主要和封存信箱。 
   
-如需詳細資訊，請參閱[原有範圍暫止](https://go.microsoft.com/fwlink/p/?LinkId=271746)。
+如需詳細資訊，請參閱[原有範圍暫止](/exchange/security-and-compliance/in-place-and-litigation-holds)。
   
 > [!NOTE]
 > 對於 Exchange Online Archiving使用者而言，[可復原的項目] 資料夾的預設配額為 100 GB。 
   
 ### <a name="in-place-ediscovery"></a>就地 eDiscovery
 
-Exchange Online Archiving 支援就地 eDiscovery，可供搜尋組織中的信箱內容。 系統管理員或經過授權的 Discovery 管理員可以從內部部署 Exchange 2013 伺服器，使用 Exchange 系統管理中心或遠端 Windows PowerShell 來搜尋各種信箱項目，包括電子郵件、附件、行事曆約會、工作及連絡人。 就地 eDiscovery 可以同時搜尋主要信箱和封存。 功能齊備的篩選功能包括寄件者、收件者、郵件類型、傳送日期、接收日期、副本及密件副本，另外還包括關鍵字查詢語法 (KQL) 語法。 如需詳細資訊，請參閱[就地 eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169)。
+Exchange Online Archiving 支援就地 eDiscovery，可供搜尋組織中的信箱內容。 系統管理員或經過授權的 Discovery 管理員可以從內部部署 Exchange 2013 伺服器，使用 Exchange 系統管理中心或遠端 Windows PowerShell 來搜尋各種信箱項目，包括電子郵件、附件、行事曆約會、工作及連絡人。 就地 eDiscovery 可以同時搜尋主要信箱和封存。 功能齊備的篩選功能包括寄件者、收件者、郵件類型、傳送日期、接收日期、副本及密件副本，另外還包括關鍵字查詢語法 (KQL) 語法。 如需詳細資訊，請參閱[就地 eDiscovery](/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery)。
   
-Exchange 系統管理中心或遠端 Windows PowerShell 一次最多可以在就地 eDiscovery 搜尋中搜尋 5,000 個信箱。如需使用遠端 Windows PowerShell 執行就地 eDiscovery 搜尋的詳細資料，請參閱 [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170)。 
+Exchange 系統管理中心或遠端 Windows PowerShell 一次最多可以在就地 eDiscovery 搜尋中搜尋 5,000 個信箱。如需使用遠端 Windows PowerShell 執行就地 eDiscovery 搜尋的詳細資料，請參閱 [New-MailboxSearch](/powershell/module/exchange/new-mailboxsearch)。 
   
 > [!NOTE]
-> 在遠端 Windows PowerShell 中， `Search-Mailbox` Cmdlet 可以用來搜尋 5,000 個以上的信箱。如需使用遠端 Windows PowerShell 搜尋大量信箱的詳細資訊，請參閱 [Search-Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314171)。 
+> 在遠端 Windows PowerShell 中， `Search-Mailbox` Cmdlet 可以用來搜尋 5,000 個以上的信箱。如需使用遠端 Windows PowerShell 搜尋大量信箱的詳細資訊，請參閱 [Search-Mailbox](/powershell/module/exchange/search-mailbox)。 
   
-就地 eDiscovery 搜尋的結果可在 Exchange 系統管理中心預覽、匯出為 .pst 檔案，或複製到名為探索信箱的特殊信箱中。系統管理員或符合性專員可以連到探索信箱來檢閱郵件。如需詳細資訊，請參閱[建立就地 eDiscovery 搜尋](https://go.microsoft.com/fwlink/p/?LinkId=314172)。
+就地 eDiscovery 搜尋的結果可在 Exchange 系統管理中心預覽、匯出為 .pst 檔案，或複製到名為探索信箱的特殊信箱中。系統管理員或符合性專員可以連到探索信箱來檢閱郵件。如需詳細資訊，請參閱[建立就地 eDiscovery 搜尋](/microsoft-365/compliance/content-search)。
   
 > [!NOTE]
 > 複製跨內部部署與雲端信箱或封存來執行之就地 eDiscovery 搜尋的搜尋結果時，您必須選取內部部署的探索信箱。內部部署主要信箱和雲端封存中的郵件會複製到內部部署的探索信箱。 
   
-系統管理員也可以搜尋並刪除寄送到整個組織中之多個信箱的不當電子郵件。例如，如果不小心將機密薪資資訊寄給所有員工，系統管理員就可以從使用者的信箱刪除電子郵件。此類型的搜尋不適用於 Exchange 系統管理中心。它必須使用遠端 PowerShell 執行。如需如何從使用者的信箱刪除郵件的詳細資訊，請參閱[搜尋並刪除郵件](https://go.microsoft.com/fwlink/p/?LinkId=314173)。
+系統管理員也可以搜尋並刪除寄送到整個組織中之多個信箱的不當電子郵件。例如，如果不小心將機密薪資資訊寄給所有員工，系統管理員就可以從使用者的信箱刪除電子郵件。此類型的搜尋不適用於 Exchange 系統管理中心。它必須使用遠端 PowerShell 執行。如需如何從使用者的信箱刪除郵件的詳細資訊，請參閱[搜尋並刪除郵件](/Exchange/policy-and-compliance/ediscovery/delete-messages)。
   
 ## <a name="security-features-in-exchange-online-archiving"></a>Exchange Online 封存中的安全性功能
 
@@ -126,10 +126,8 @@ Exchange Online Archiving提供兩種類型的內建稽核功能：
     
 Exchange 系統管理中心提供多份預先定義的稽核報告，包括系統管理員角色變更、訴訟資料暫留，以及非擁有者信箱存取。系統管理員可依日期與角色篩選報告，也可基於長期保留或自訂報告等目的，使用 XML 格式匯出指定信箱的所有稽核事件。
   
-系統管理員稽核記錄功能預設會開啟，但信箱稽核記錄功能預設會關閉。系統管理員可以使用遠端 Windows PowerShell 來啟用組織中部分或全部信箱的信箱稽核記錄功能。如需詳細資訊，請參閱[稽核報告](https://go.microsoft.com/fwlink/p/?LinkId=314175)。
+系統管理員稽核記錄功能預設會開啟，但信箱稽核記錄功能預設會關閉。系統管理員可以使用遠端 Windows PowerShell 來啟用組織中部分或全部信箱的信箱稽核記錄功能。如需詳細資訊，請參閱[稽核報告](/exchange/security-and-compliance/exchange-auditing-reports/exchange-auditing-reports)。
   
 ## <a name="feature-availability"></a>功能可用性
 
 若要查看不同計畫、獨立選項和內部部署方案中的功能可用性，請參閱 [Exchange Online 封存服務說明](exchange-online-archiving-service-description.md)。
-  
-

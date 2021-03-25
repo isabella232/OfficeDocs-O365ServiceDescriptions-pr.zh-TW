@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 瞭解 Microsoft Exchange Online 封存中可用的封存功能。
-ms.openlocfilehash: da7b9fd7583904424300dff010117e50a6193552
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 5abc6ed09d96b952439232a4c8ac091d2dccd07d
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293649"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173518"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online 封存中的封存功能
 
@@ -28,11 +28,11 @@ ms.locfileid: "48293649"
 
 Exchange Online Archiving 以封存信箱功能的形式，為使用者提供進階封存功能。 封存信箱是一種特殊的信箱，會出現在 Outlook 或網頁型 Outlook 中使用者的主要信箱資料夾旁。 使用者可以像存取主要信箱一樣來存取封存。 此外，使用者可以同時在封存和主要信箱中進行搜尋。
   
-系統管理員可以使用 Exchange 系統管理中心 (EAC) 或遠端 Windows PowerShell，為特定使用者啟用封存功能。如需詳細資訊，請參閱[啟用或停用 Exchange Online 中的封存信箱](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)。
+系統管理員可以使用 Exchange 系統管理中心 (EAC) 或遠端 Windows PowerShell，為特定使用者啟用封存功能。如需詳細資訊，請參閱[啟用或停用 Exchange Online 中的封存信箱](/office365/securitycompliance/enable-archive-mailboxes)。
   
 > [!IMPORTANT]
 >  禁止透過日誌記錄、傳輸規則或自動轉寄規則，將郵件複製到 Exchange Online Archiving信箱中進行封存。 <br/>
->  使用者的封存信箱僅供該使用者使用。 Microsoft 保留在使用者的封存信箱用來儲存其他使用者的封存資料或其他不適當用途的情況下，拒絕無限封存的權利。
+>  使用者的封存信箱僅供該使用者使用。 Microsoft 保留在使用者封存信箱中用來儲存其他使用者之封存資料的執行個體中或是其他不當使用案例中拒絕不受限封存的權限。
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>將郵件移至 Exchange Online 封存
 
@@ -48,10 +48,10 @@ Exchange Online Archiving 以封存信箱功能的形式，為使用者提供進
     
 - 將電子郵件訊息從主要信箱拖曳至封存中。
     
-- 讓封存原則根據電子郵件訊息的已存留時間，自動將郵件移出主要信箱。如需詳細資訊，請參閱[保留標記和保留原則](https://docs.microsoft.com/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)。
+- 讓封存原則根據電子郵件訊息的已存留時間，自動將郵件移出主要信箱。如需詳細資訊，請參閱[保留標記和保留原則](/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)。
     
 > [!NOTE]
-> 系統管理員也可以使用 Office 365 匯入服務，將 .pst 檔案匯入到使用者的雲端型封存信箱。如需詳細資訊，請參閱[使用網路上傳將 PST 檔案匯入 Office 365](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)。 
+> 系統管理員也可以使用 Office 365 匯入服務，將 .pst 檔案匯入到使用者的雲端型封存信箱。如需詳細資訊，請參閱[使用網路上傳將 PST 檔案匯入 Office 365](/office365/securitycompliance/use-network-upload-to-import-pst-files)。 
   
 ## <a name="deleted-item-recovery"></a>復原已刪除的項目
 
@@ -59,7 +59,7 @@ Exchange Online Archiving 以封存信箱功能的形式，為使用者提供進
   
 After an item has been removed from the archive's Deleted Items folder, the item is kept in the archive's Recoverable Items folder for an additional 14 days before being permanently removed. 使用者可以使用 Microsoft Outlook 或 web 上的 Outlook 中的 [ **復原刪除的郵件** ] 功能來復原這些專案。 
   
-如果使用者已從 [可復原的項目] 資料夾中手動清除某個郵件，則系統管理員可以透過名為「單一項目復原」的功能，同樣在這 14 天內復原郵件。此功能可讓系統管理員搜尋多個信箱來尋找已清除的郵件，然後使用  `Search-Mailbox` Windows PowerShell Cmdlet 將郵件從探索信箱移至使用者的信箱。如需詳細資訊，請參閱 [為信箱啟用或停用單一項目復原](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)。
+如果使用者已從 [可復原的項目] 資料夾中手動清除某個郵件，則系統管理員可以透過名為「單一項目復原」的功能，同樣在這 14 天內復原郵件。此功能可讓系統管理員搜尋多個信箱來尋找已清除的郵件，然後使用  `Search-Mailbox` Windows PowerShell Cmdlet 將郵件從探索信箱移至使用者的信箱。如需詳細資訊，請參閱 [為信箱啟用或停用單一項目復原](/office365/securitycompliance/use-network-upload-to-import-pst-files)。
   
 > [!NOTE]
 >  單一項目復原期間預設為 14 天，但在某些情況下，您可加以自訂。 <br/>
@@ -79,4 +79,3 @@ Exchange Online Archiving 中的封存信箱會複寫至多個資料庫副本 (�
 ## <a name="feature-availability"></a>功能可用性
 
 若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Exchange Online 封存服務說明](exchange-online-archiving-service-description.md)。
-  

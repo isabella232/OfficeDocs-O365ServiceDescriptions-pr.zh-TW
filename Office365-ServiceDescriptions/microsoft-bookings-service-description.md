@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 深入瞭解 Microsoft 預約中可用的計畫選項及功能。
-ms.openlocfilehash: 70ae22991cc017acc65f47805d3361365906b982
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 6a1fea2506a59e87ad74dd520ec59bc4310ab595
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460232"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173028"
 ---
 # <a name="microsoft-bookings-service-description"></a>Microsoft Bookings 服務描述
 
@@ -26,7 +26,7 @@ Microsoft 預約簡化了排程和管理約會的過程。 預約包含以 web �
 
 下表列出各種方案中可用的主要 Microsoft 預約功能。 適用某些注意事項。 如需詳細資訊，請參閱註腳。 此表格可能會變更，恕不另行通知。
 
-| 主要功能 | 小型企業版 | 企業方案 | GCC | GCC-High | DOD | 教育版 |
+| 主要功能 | 小型企業版 | 企業方案 | GCC | GCC-High | DOD | 教育 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 以 Web 為基礎的排程頁面 (預約頁面)  | 是 | 是 | 是 | 否 | 否 | 是 |
 | 僅限租使用者) 的預約頁面存取控制 ( | 是 | 是 | 是 | 否 | 否 | 是 |
@@ -46,8 +46,8 @@ Microsoft 預約簡化了排程和管理約會的過程。 預約包含以 web �
 
 如需 Microsoft 預約的技術資訊，請參閱下列資源：
 
-- [Microsoft 檔上的 microsoft 預約檔](https://docs.microsoft.com/microsoft-365/bookings/bookings-overview?view=o365-worldwide)
-- [Microsoft 圖表中的 microsoft 預約 API](https://docs.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-beta)
+- [Microsoft 檔上的 microsoft 預約檔](/microsoft-365/bookings/bookings-overview?view=o365-worldwide)
+- [Microsoft 圖表中的 microsoft 預約 API](/graph/api/resources/booking-api-overview?view=graph-rest-beta)
 - [預定產品頁面](https://www.microsoft.com/microsoft-365/business/scheduling-and-booking-app)
 - [Microsoft 技術社區中的預約博客](https://techcommunity.microsoft.com/t5/microsoft-bookings-blog/bg-p/Office365BusinessAppsBlog)
 
@@ -57,7 +57,7 @@ Microsoft 預約簡化了排程和管理約會的過程。 預約包含以 web �
 
 ### <a name="messaging"></a>消息
 
-若要追蹤即將到來的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪郵件中心。 如需詳細資訊，請參閱 [Message center](https://docs.microsoft.com/microsoft-365/admin/manage/message-center)。
+若要追蹤即將到來的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪郵件中心。 如需詳細資訊，請參閱 [Message center](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>協助工具
 

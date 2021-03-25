@@ -13,27 +13,27 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 和 Office 365 是雲端式服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。
-ms.openlocfilehash: 174d30152a56e799e053d117808e566a08346ffb
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 79b4eaf46edf1e43d8e350e7da2ac044dc5f0526
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460292"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172768"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服務描述 
 
 Microsoft 365 和 Office 365 是雲端式服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。 
   
-此文件庫中的文章提供 Microsoft 365 和 Office 365 提供之服務和功能的詳細說明。 如需 Microsoft Dynamics 365 商務應用程式的詳細資訊，請參閱 [Microsoft dynamics 365 檔](https://docs.microsoft.com/dynamics365/)。
+此文件庫中的文章提供 Microsoft 365 和 Office 365 提供之服務和功能的詳細說明。 如需 Microsoft Dynamics 365 商務應用程式的詳細資訊，請參閱 [Microsoft dynamics 365 檔](/dynamics365/)。
 
 若要跨方案比較功能，請參閱以下清單中的 [功能強大的工具來支援您的企業](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 或相關的服務描述。 
   
-如需支援文章和資訊，請參閱 [Office Help & 訓練](https://support.office.com/)、 [系統管理員和 it 專業人員的 office 檔](https://docs.microsoft.com/office/)，以及適用 [于系統管理員和 it 專業人員的 Microsoft 365 協助中心](https://docs.microsoft.com/microsoft-365/)。
+如需支援文章和資訊，請參閱 [Office Help & 訓練](https://support.office.com/)、 [系統管理員和 it 專業人員的 office 檔](/office/)，以及適用 [于系統管理員和 it 專業人員的 Microsoft 365 協助中心](/microsoft-365/)。
   
 > [!NOTE]
 > 如果您正在尋找服務描述比較試算表，它已經停用。 每個服務描述頁面上的產品功能可用性表格已更新，可更好地協助您選擇符合您需求的 Office 365 版本。 
   
-Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTrack 中心權益。 此權益可讓您遠端與 Microsoft 專家合作，讓您的 Office 365 環境做好使用。 如需詳細資訊，請參閱 [適用於 Office 365 的 FastTrack 中心權益](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
+Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTrack 中心權益。 此權益可讓您遠端與 Microsoft 專家合作，讓您的 Office 365 環境做好使用。 如需詳細資訊，請參閱 [適用於 Office 365 的 FastTrack 中心權益](/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
 若要開始進行，請參閱下列服務說明：
   
@@ -81,9 +81,8 @@ Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTr
 
 
 > [!NOTE]
-> <sup>1</sup> 包含 [套件功能](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features)的可用性，例如 Office Delve、Microsoft MyAnalytics、Microsoft Sway 和 Microsoft Teams。
+> <sup>1</sup> 包含 [套件功能](./office-365-platform-service-description/office-365-suite-features.md)的可用性，例如 Office Delve、Microsoft MyAnalytics、Microsoft Sway 和 Microsoft Teams。
   
 ## <a name="disclaimer"></a>免責聲明
 
 &copy; 2018 Microsoft Corporation。 著作權所有，並保留一切權利。 Microsoft、Office 365 及其他產品和服務名稱為或可能為美國及/或其他國家/地區的註冊商標及/或商標。 本處提供之資訊僅供參考用，並且代表 Microsoft Corporation 在本文件最後發行或修訂日期當時的最新觀點。 這不是服務合約的計畫，也不會將 Microsoft 或客戶認可于本文所述的任何功能、功能或責任。 MICROSOFT 對本文件中的資訊不作任何擔保、明示、默示或法定之擔保。
- 

@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 瞭解 Microsoft 365 和獨立方案的 SharePoint 限制。
-ms.openlocfilehash: 12baba7f9da374e88825b97aef30182f9b2014f5
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 60a9fc63c60952ef8a71706d79ddac055fecc887
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726758"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172608"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -72,7 +72,7 @@ ms.locfileid: "50726758"
 使用者可以隸屬于每個網站的5000群組 (網站集合) ，且每個群組可以有最多5000個使用者。 每個網站 (網站集合) 最多可以有10000個群組。
 
 > [!NOTE]
-> 針對 Azure AD 群組限制，請參閱 [AZURE ad 服務限制和限制](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) ，因為這類限制可能會影響公用和私人群組網站成員資格管理。
+> 針對 Azure AD 群組限制，請參閱 [AZURE ad 服務限制和限制](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) ，因為這類限制可能會影響公用和私人群組網站成員資格管理。
 
 ### <a name="managed-metadata"></a>受管理的中繼資料
 
@@ -87,7 +87,7 @@ ms.locfileid: "50726758"
 每個網站 2000 (網站集合) 。 我們建議您建立網站，並將其組織成中樞，而不是建立子網站。 如果您使用子網站，建議您限制其數目 (尤其是) 大量 trafficked 網站。
 
 > [!NOTE]
-> 您的組織限制為 2000 hub 網站。 您可能不需要每個功能的中樞網站，在建立 hub 之前，請務必先進行一些規劃。 如需詳細資訊，請造訪 [規劃您的 SharePoint hub 網站](https://docs.microsoft.com/sharepoint/planning-hub-sites)。
+> 您的組織限制為 2000 hub 網站。 您可能不需要每個功能的中樞網站，在建立 hub 之前，請務必先進行一些規劃。 如需詳細資訊，請造訪 [規劃您的 SharePoint hub 網站](/sharepoint/planning-hub-sites)。
 
 ### <a name="sharepoint-hosted-applications"></a>主控應用程式 SharePoint
 
@@ -98,8 +98,8 @@ ms.locfileid: "50726758"
 每個網站集合2000000。
 
 > [!NOTE]
-> 您可以邀請的 SharePoint 網站的客人數目沒有明顯限制。 如需外部共用的詳細資訊，請參閱 [外部共用一覽](https://docs.microsoft.com/sharepoint/external-sharing-overview)。
+> 您可以邀請的 SharePoint 網站的客人數目沒有明顯限制。 如需外部共用的詳細資訊，請參閱 [外部共用一覽](/sharepoint/external-sharing-overview)。
 
 ## <a name="see-also"></a>另請參閱
 
-[SharePoint 的搜尋限制](https://docs.microsoft.com/sharepoint/search-limits)
+[SharePoint 的搜尋限制](/sharepoint/search-limits)

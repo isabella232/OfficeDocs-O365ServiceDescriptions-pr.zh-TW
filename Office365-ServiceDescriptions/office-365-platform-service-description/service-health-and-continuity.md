@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的時間。 服務健康資訊可隨時登入。
-ms.openlocfilehash: bb9e789cd8f72a792ce43f952d35c3f47323b2f8
-ms.sourcegitcommit: 4cb96a615ca98bee0b0657bef77b03357e118c52
+ms.openlocfilehash: ea9beb020d2f868eb51638c4729924a7ac873b7b
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50031257"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174138"
 ---
 # <a name="service-health-and-continuity"></a>服務健康狀況和持續性
 
@@ -27,7 +27,7 @@ Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的�
   
 ## <a name="view-status-of-services"></a>查看服務的狀態
 
-服務健康情況區段會顯示服務的目前狀態，以及服務中斷及中斷的詳細資料。 計畫的維護資訊可在訊息中心上取得。 如需詳細資訊，請參閱[檢視您服務的狀態](https://docs.microsoft.com/office365/enterprise/view-service-health)。 
+服務健康情況區段會顯示服務的目前狀態，以及服務中斷及中斷的詳細資料。 計畫的維護資訊可在訊息中心上取得。 如需詳細資訊，請參閱[檢視您服務的狀態](/office365/enterprise/view-service-health)。 
   
 ## <a name="service-incidents"></a>服務事件
 
@@ -79,9 +79,9 @@ Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的�
   
 ## <a name="service-health-communication-channels"></a>服務健康情況通道
 
-### <a name="admin-app"></a>管理應用程式
+### <a name="admin-app"></a>系統管理應用程式
 
-組織管理員的系統管理員應用程式可讓您在旅途上連線到組織的 Microsoft 服務狀態。 Microsoft 系統管理員可以從其行動裝置查看服務健康情況資訊與維護狀態更新。 如需詳細資訊，請造訪[系統管理 App 常見問題集](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app)。
+組織管理員的系統管理員應用程式可讓您在旅途上連線到組織的 Microsoft 服務狀態。 Microsoft 系統管理員可以從其行動裝置查看服務健康情況資訊與維護狀態更新。 如需詳細資訊，請造訪[系統管理 App 常見問題集](/office365/admin/admin-overview/admin-mobile-app)。
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2 的 Office 365 管理組件
 
@@ -95,7 +95,7 @@ Office 365 服務通訊 API 可讓您以您想要的方式存取服務通訊。 
     
 - 訊息中心通訊
     
-如需詳細資訊，請參閱 [Office 365 服務通訊 API 參考](https://docs.microsoft.com/office/office-365-management-api/office-365-service-communications-api-reference)。 
+如需詳細資訊，請參閱 [Office 365 服務通訊 API 參考](/office/office-365-management-api/office-365-service-communications-api-reference)。 
   
 ## <a name="post-incident-reviews"></a>事件後續檢閱
 
@@ -158,4 +158,3 @@ Microsoft 開發和作業團隊是以專屬支援組織為依據，這在提供�
 ## <a name="feature-availability"></a>功能可用性
 
 若要查看不同方案中的功能可用性，請參閱 [Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
-  

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office 是一套強大的服務產品，能協助您想出最棒的點子、完成工作並在行動間保持聯繫。只要登入以使用個人化體驗，所有最新的 Office 應用程式，以及新的增強功能都將持續加入。
-ms.openlocfilehash: ec2373a988d66102ba2b2b50d957e659be12e5aa
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 860241d88cb986ff427b9b75b57bb09d7a4f8a6e
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294169"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172758"
 ---
 # <a name="office-applications"></a>Office 應用程式
 
@@ -54,7 +54,7 @@ Microsoft Access 是適用於 Windows 作業系統的資料庫管理解決方案
   
 ## <a name="skype-for-business"></a>商務用 Skype
 
-商務用 Skype 是立即訊息用戶端與整合通訊應用程式。 請參閱 [商務用 Skype Server 2019 的新功能](https://docs.microsoft.com/skypeforbusiness/whats-new)。
+商務用 Skype 是立即訊息用戶端與整合通訊應用程式。 請參閱 [商務用 Skype Server 2019 的新功能](/skypeforbusiness/whats-new)。
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
@@ -85,4 +85,3 @@ Windows 10 行動裝置應用程式的 Office 10 行動裝置應用程式已針�
 ## <a name="feature-availability"></a>功能可用性
 
 若要查看不同計畫、獨立選項和內部部署方案中的功能可用性，請參閱 [Office 應用程式服務說明](office-applications-service-description.md)。
-  

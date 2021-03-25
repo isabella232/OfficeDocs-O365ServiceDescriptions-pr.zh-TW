@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online 中提供下列核心功能功能。
-ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+ms.openlocfilehash: cdcb5354790f228e0f1601aab0f7d476c761442c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411582"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172708"
 ---
 # <a name="core-functionality"></a>核心功能
 
@@ -34,7 +34,7 @@ Project Online 中提供下列核心功能功能。
   
 ## <a name="click-to-run"></a>隨選即用
 
-透過網際網路、內部網路、本機檔案系統或從離線媒體快速安裝 Project Online，以確定您使用 Project 桌面應用程式的最新版本。 若要深入了解，請參閱[隨選即用](https://go.microsoft.com/fwlink/p/?LinkId=271596)。
+透過網際網路、內部網路、本機檔案系統或從離線媒體快速安裝 Project Online，以確定您使用 Project 桌面應用程式的最新版本。 若要深入了解，請參閱[隨選即用](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15))。
   
 ## <a name="contextual-right-click-menus"></a>按右鍵內容功能表
 

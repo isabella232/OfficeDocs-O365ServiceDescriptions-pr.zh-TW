@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Microsoft 工作場所分析為您組織的通訊和共同作業趨勢提供豐富且有可操作性的洞察力，以協助您進行更有效率的商務決策。
-ms.openlocfilehash: 1698590614c202075532de9977077da2195c3ebe
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 4bb007df02c1773045c1cb60a0cb77326b9878a2
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132927"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174048"
 ---
 # <a name="workplace-analytics-service-description"></a>工作場所分析服務描述
 
@@ -44,7 +44,7 @@ Microsoft 工作場所分析為您組織的通訊和共同作業趨勢提供豐�
 
 工作場所分析提供隱私權控制，以符合您的需求和合規性，以保護您的資料。 客戶決定要分析哪些人口，並維持對資料匯總和取消識別標準的控制。 工作場所分析只會分析 Microsoft 中繼資料。 資料 viewability 及匯總層級是以角色和客戶喜好設定為基礎。
 
-如需詳細資訊，請參閱[工作場所分析](https://go.microsoft.com/fwlink/?linkid=852492)。 若要深入瞭解如何使用 Workplace Analytics，請參閱[Workplace analytics 檔](https://docs.microsoft.com/workplace-analytics/)。
+如需詳細資訊，請參閱[工作場所分析](https://go.microsoft.com/fwlink/?linkid=852492)。 若要深入瞭解如何使用 Workplace Analytics，請參閱 [Workplace analytics 檔](/workplace-analytics/)。
   
 ## <a name="licensing-requirements"></a>授權需求
 

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
-ms.openlocfilehash: 7fccd99b34860b0f07604e2dc7b079e932625fc4
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: dc3dd3828e31bd6f3e146a63aafc750197f4b927
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726748"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173658"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -27,10 +27,10 @@ ms.locfileid: "50726748"
 > [!NOTE]
 > 如果您需要某項工作的協助，或是您要對問題進行疑難排解，您可能會發現下列資源有所説明： <br/>
 [電子郵件](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed)，用於協助建立及傳送電子郵件。 <br/> 
-[管理電子郵件和行事曆](https://docs.microsoft.com/office365/admin/email/email)<br/> 
+[管理電子郵件和行事曆](/office365/admin/email/email)<br/> 
 [關於 Microsoft 支援與修復助理](https://diagnostics.office.com/)<br/> 
-[Exchange Online 中的電子郵件未傳遞回報](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
-[Exchange Online 說明](https://docs.microsoft.com/exchange/exchange-online)
+[Exchange Online 中的電子郵件未傳遞回報](/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
+[Exchange Online 說明](/exchange/exchange-online)
   
 Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsoft Exchange Server 功能作為雲端式服務。它可讓使用者從個人電腦、Web 和行動裝置存取電子郵件、行事曆、連絡人與工作。它與 Active Directory 完全整合，可讓系統管理員使用群組原則以及其他管理工具，進而在其整個環境中管理 Exchange Online 功能。
   
@@ -39,11 +39,11 @@ Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsof
 若要跨方案比較功能，請參閱 [強大的工具來支援您的企業](https://products.office.com/business/compare-more-office-365-for-business-plans)。 若要比較 Office 365 Germany 的方案，請參閱 [Office 365 Germany 訂閱方案](https://go.microsoft.com/fwlink/?linkid=839016)。
   
 > [!TIP]
-> 您可以在 Microsoft 服務描述中匯出、儲存及列印頁面。 瞭解如何 [匯出內容搜尋結果](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。 
+> 您可以在 Microsoft 服務描述中匯出、儲存及列印頁面。 瞭解如何 [匯出內容搜尋結果](/office365/securitycompliance/export-search-results)。 
   
 ## <a name="whats-new-in-exchange-admin-center"></a>Exchange 系統管理中心的新功能
 
-如需 Exchange 系統管理中心中新功能的相關資訊，請參閱 [exchange 系統管理中心的新](https://docs.microsoft.com/exchange/whats-new)功能。
+如需 Exchange 系統管理中心中新功能的相關資訊，請參閱 [exchange 系統管理中心的新](/exchange/whats-new)功能。
   
 ## <a name="plans-for-exchange-online"></a>Exchange Online 的計畫
 
@@ -54,7 +54,7 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需啟�
 會議室和共用信箱不須使用者訂閱。這些特殊的信箱類型沒有登入認證。而是透過委派，由具有適當權限的授權使用者來管理及存取。
 
 **Microsoft 365 F1 使用者信箱使用許可權** <br/>
-Microsoft 365 F1 不包括對 Exchange 信箱的許可權。 為了啟用完整的團隊體驗，M365 F1 授權可能隨附 Exchange Online K1 service plan。 雖然 Exchange Online K1 服務方案將為使用者布建信箱，但 M365 的 F1 使用者無權使用該信箱。 建議您透過 [這些步驟](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) 停用 Outlook 網頁版，並要求您的使用者不要透過其他任何方法存取 Exchange 信箱。
+Microsoft 365 F1 不包括對 Exchange 信箱的許可權。 為了啟用完整的團隊體驗，M365 F1 授權可能隨附 Exchange Online K1 service plan。 雖然 Exchange Online K1 服務方案將為使用者布建信箱，但 M365 的 F1 使用者無權使用該信箱。 建議您透過 [這些步驟](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) 停用 Outlook 網頁版，並要求您的使用者不要透過其他任何方法存取 Exchange 信箱。
   
 ## <a name="system-requirements-for-exchange-online"></a>Exchange Online 的系統需求
 
@@ -183,7 +183,7 @@ Microsoft 365 F1 不包括對 Exchange 信箱的許可權。 為了啟用完整�
 <sup>3</sup> Windows Server AD RMS 是內部部署伺服器，必須個別採購並管理，以便啟用支援的 IRM 功能。 <br/>
 <sup>4</sup> 傳輸規則是由彈性準則所組成，可讓您定義條件和例外狀況，以及依據準則所採取的動作。 MO_ExchangeOnline 和 Microsoft ExchangeServer2013 之間可用的準則和動作並不相同。 如需可用準則和動作的清單，請參閱每一個產品對應的準則和動作主題。 <br/>
 <sup>5</sup> 針對 exchange 2013，DLP 需要 Exchange 企業用戶端存取許可證 (CAL) 。 如需 Cal 和伺服器授權的詳細資訊，請參閱 [Exchange 授權 FAQs](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)。 <br/>
-<sup>6</sup> exchange server 2013 的內建反垃圾郵件功能，與 Exchange server 2010 相同。 如需透過內部部署產品進行 Exchange 主控垃圾郵件篩選的優點資訊，請參閱 exchange [Server 2013 上 Exchange Online Protection 中 Anti-Spam 功能的優點](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)。 <br/>
+<sup>6</sup> exchange server 2013 的內建反垃圾郵件功能，與 Exchange server 2010 相同。 如需透過內部部署產品進行 Exchange 主控垃圾郵件篩選的優點資訊，請參閱 exchange [Server 2013 上 Exchange Online Protection 中 Anti-Spam 功能的優點](/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)。 <br/>
 <sup>7</sup> 只能透過直接存取 Exchange 系統管理中心 (EAC) 管理介面進行存取。 <br/>
 <sup>8</sup> Exchange Server 2013 只會使用 Microsoft 反惡意程式碼引擎。 Exchange Online 使用多個反惡意程式碼引擎，來掃描輸入、輸出和內部訊息中是否有惡意程式碼。 <br/>
 <sup>9</sup> 針對需要非使用中信箱或封存功能的每個信箱，可另外購買 EOA 訂閱。<br/>
@@ -199,7 +199,7 @@ Microsoft 365 F1 不包括對 Exchange 信箱的許可權。 為了啟用完整�
 <sup>19</sup> 某些協力廠商的 web 元件和增益集可能無法使用。 <br/>
 <sup>20</sup> 針對 eDiscovery，您需要針對內部部署與雲端使用個別查詢。 <br/>
 <sup>21</sup> 該表會指出用戶端是否與相關聯的計畫一起運作。 其並不代表這些計劃的採購中必須包含用戶端。 <br/>
-<sup>22</sup> 如需詳細資訊，請參閱 [Service Encryption with Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
+<sup>22</sup> 如需詳細資訊，請參閱 [Service Encryption with Customer Key](/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
 <sup>23</sup> 透過從客戶運作 SBCs 直接連線到協力廠商 PBX 系統的 EXCHANGE Online UM 支援會在2019年4月結束。 如需詳細資訊，請參閱 exchange [Online 整合通訊中的 exchange 小組博客終止支援會話邊界控制器](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)。 <br/>
 <sup>24</sup> a F3 使用者無法將委派新增至自己的信箱，但他們可以存取另一個信箱 (包括共用信箱) 並執行已委派給它們的任何動作。<br/>
 <sup>25</sup> exchange server 2013 和 exchange server 2016 也需要 Microsoft 365 應用程式適用于企業訂閱。<br/>
@@ -313,7 +313,7 @@ Microsoft 365 F1 不包括對 Exchange 信箱的許可權。 為了啟用完整�
 |Outlook 增益集和 Outlook MAPI|是|是|是<sup>21</sup>|是<sup>21</sup>|否|
 
 <sup>1</sup> 傳輸規則是由彈性準則所組成，可讓您定義條件和例外狀況，以及依據準則所採取的動作。 MO_ExchangeOnline 和 Microsoft ExchangeServer2013 之間可用的準則和動作並不相同。 如需可用準則和動作的清單，請參閱每一個產品對應的準則和動作主題。 <br/>
-<sup>2</sup> 如需 exchange 主控垃圾郵件篩選透過內部部署產品的優點資訊，請參閱 exchange [Server 2013 上 exchange Online Protection 中 Anti-Spam 功能的優點](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)。 <br/>
+<sup>2</sup> 如需 exchange 主控垃圾郵件篩選透過內部部署產品的優點資訊，請參閱 exchange [Server 2013 上 exchange Online Protection 中 Anti-Spam 功能的優點](/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)。 <br/>
 <sup>3</sup> SharePoint 必須部署在內部部署 Exchange 組織中。 <br/>
 <sup>4</sup> SharePoint Online 必須包含在訂閱計畫中。 <br/>
 <sup>5</sup> 對於每一個具有雲端式封存的內部部署信箱使用者，需要一個 Exchange Online 封存訂閱。 <br/>
@@ -328,7 +328,7 @@ Microsoft 365 F1 不包括對 Exchange 信箱的許可權。 為了啟用完整�
 <sup>14</sup> 執行 Exchange Server 2013 或更新版本的客戶必須下載並安裝最新的累計更新 (CU) 或最近一次的 cu，才能存取 OWA 和裝置 owa 中的檔指紋和原則提示。 <br/>
 <sup>15</sup> 適用于執行 Exchange Server 2013 或更新版本的客戶。 <br/>
 <sup>16</sup> Exchange Server 2013 支援 BitLocker 磁片磁碟機加密，但系統管理員必須啟用該功能。 <br/>
-<sup>17</sup> Exchange Online Plan 1 在 [信箱和封存上有大小限制](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)。 Exchange online 封存 for Exchange Online 附加元件會新增無限的雲端式封存，並 [In-Place 暫](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold)止。 <br/>
+<sup>17</sup> Exchange Online Plan 1 在 [信箱和封存上有大小限制](./exchange-online-limits.md)。 Exchange online 封存 for Exchange Online 附加元件會新增無限的雲端式封存，並 [In-Place 暫](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold)止。 <br/>
 <sup>18</sup> 只有透過 OWA 才能存取或共用 Exchange Online Kiosk 行事曆。 <br/>
 <sup>19</sup> 已連線的帳戶支援 POP &amp; IMAP 帳戶，但在 Outlook.com (Hotmail) 中已停用。 <br/>
 <sup>20</sup> 使用 Exchange Online 中的指令程式 PowerShell 自訂預設通訊清單，但不支援預設全域通訊清單 (GAL) 。 <br/>

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 請參閱哪些 SharePoint 功能可用於哪些方案。
-ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901930"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174098"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服務描述
 
@@ -32,7 +32,7 @@ Microsoft 365 中的 SharePoint 可協助組織共用及管理內容、知識及
   
 如需可讓使用者 SharePoint 之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。 如需 Microsoft 365 的系統需求，請參閱 [microsoft 365 和 Office 資源](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)。
 
-若要深入瞭解我們政府雲端客戶的 SharePoint 功能差異，請參閱 [SharePoint FOR us 政府環境](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)。
+若要深入瞭解我們政府雲端客戶的 SharePoint 功能差異，請參閱 [SharePoint FOR us 政府環境](../office-365-platform-service-description/office-365-us-government/sharepoint.md)。
   
 ## <a name="whats-new"></a>新增功能
 
@@ -54,7 +54,7 @@ Microsoft 365 中的 OneDrive 是為組織內的個別使用者提供線上存�
 
 ## <a name="apps"></a>應用程式
 
-若要同步處理電腦上的 SharePoint 檔案，使用者可以使用 Windows 或 Mac [OneDrive 同步應用程式](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) 。 如需同步處理應用程式中功能可用性的相關資訊，請參閱 [OneDrive 服務描述](/office365/servicedescriptions/onedrive-for-business-service-description)。 
+若要同步處理電腦上的 SharePoint 檔案，使用者可以使用 Windows 或 Mac [OneDrive 同步應用程式](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) 。 如需同步處理應用程式中功能可用性的相關資訊，請參閱 [OneDrive 服務描述](../onedrive-for-business-service-description.md)。 
 
 若要在行動裝置上使用 SharePoint 網站，他們可以 [為 iOS、Android 或 Windows 安裝 SharePoint 行動應用程式](https://products.office.com/sharepoint/mobile-app)。 
   
@@ -81,7 +81,7 @@ Microsoft 365 中的 OneDrive 是為組織內的個別使用者提供線上存�
 
 若要深入瞭解 Microsoft Power Apps 和 Power availability 的可用性，請參閱 [Power app 及 power availability FAQs 的授權](/power-platform/admin/powerapps-flow-licensing-faq)。
 
-若要深入瞭解 Microsoft Graph 的可用性，請參閱 [microsoft 365 和 Office 365 平臺服務說明](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)。
+若要深入瞭解 Microsoft Graph 的可用性，請參閱 [microsoft 365 和 Office 365 平臺服務說明](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans)。
 
 ## <a name="it-admin-features"></a>IT 系統管理功能
 
@@ -110,7 +110,7 @@ Microsoft 365 中的 OneDrive 是為組織內的個別使用者提供線上存�
 
 如需 FastTrack 遷移服務可用性的相關資訊，請參閱 [合格的服務與計畫](/fasttrack/m365-eligible-services-and-plans)。 
 
-如需與共享相關之功能的相關資訊，請參閱 [OneDrive 服務描述](/office365/servicedescriptions/onedrive-for-business-service-description)。
+如需與共享相關之功能的相關資訊，請參閱 [OneDrive 服務描述](../onedrive-for-business-service-description.md)。
 
 如需 SharePoint 的系統管理員説明，請參閱 [SharePoint Online admin](/sharepoint/sharepoint-online)。
 
@@ -127,9 +127,9 @@ Microsoft 365 中的 OneDrive 是為組織內的個別使用者提供線上存�
 - [將文件庫還原至上一個時間點](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [病毒掃描](/office365/securitycompliance/virus-detection-in-spo)
 
-如需與共享相關之功能的相關資訊，請參閱 [OneDrive 服務描述](/office365/servicedescriptions/onedrive-for-business-service-description)。
+如需與共享相關之功能的相關資訊，請參閱 [OneDrive 服務描述](../onedrive-for-business-service-description.md)。
 
-SharePoint 會與 Microsoft 365 的高級安全性和相容性功能整合。 如需有關下列功能可用性的資訊，請參閱 [安全性 & 規範服務說明](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)：
+SharePoint 會與 Microsoft 365 的高級安全性和相容性功能整合。 如需有關下列功能可用性的資訊，請參閱 [安全性 & 規範服務說明](../office-365-platform-service-description/office-365-securitycompliance-center.md)：
 
 - [客戶加密箱](/microsoft-365/compliance/customer-lockbox-requests)
 - [資料外洩防護 (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
@@ -188,7 +188,7 @@ SharePoint 會與 Microsoft 365 的高級安全性和相容性功能整合。 �
 
 若要深入瞭解 Microsoft Power Apps 和 Power availability 的可用性，請參閱 [Power app 及 power availability FAQs 的授權](/power-platform/admin/powerapps-flow-licensing-faq)。
 
-如需與共享相關之功能的相關資訊，請參閱 [OneDrive 服務描述](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features)。
+如需與共享相關之功能的相關資訊，請參閱 [OneDrive 服務描述](../onedrive-for-business-service-description.md#sharing-and-collaboration-features)。
 
 ## <a name="search-features"></a>搜尋功能
 
@@ -202,6 +202,4 @@ SharePoint 會與 Microsoft 365 的高級安全性和相容性功能整合。 �
 - [搜尋中心 (傳統搜尋) ](/sharepoint/manage-search-center)
 - [搜尋架構 (傳統和新式搜尋) ](/sharepoint/manage-search-schema)
 
-如需 Delve 的資訊，請參閱 [Microsoft 365 和 Office 365 平臺服務說明](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。 
-
-
+如需 Delve 的資訊，請參閱 [Microsoft 365 和 Office 365 平臺服務說明](../office-365-platform-service-description/office-365-platform-service-description.md)。

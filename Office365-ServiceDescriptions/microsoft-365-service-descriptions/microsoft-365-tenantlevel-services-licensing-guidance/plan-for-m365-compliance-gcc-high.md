@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用于促進美國聯邦政府機構中的 Office 365 部署的 IT 專業人員，或是處理政府規定和需求之資料的其他實體，其使用 Microsoft 365 政府– GCC 高的方式，都適用于符合這些需求。
-ms.openlocfilehash: 9b4e4deec0ef79a124cc73679709970f01e73e4d
-ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
+ms.openlocfilehash: 14c92229fa5ec147ff995d0cebe991cfdce0de70
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601760"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173078"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>規劃 Microsoft 365 合規性– GCC 高
 
@@ -33,7 +33,7 @@ Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 �
 
 您可以在 [Office 365 政府版方案](https://products.office.com/government/compare-office-365-government-plans)（包括資格要求）中找到有關 Microsoft 365 政府– GCC 優質產品的詳細資訊。
 
-[Office 365 US 政府服務描述](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)說明平臺的優點，其位於美國的符合規範需求。
+[Office 365 US 政府服務描述](../../office-365-platform-service-description/office-365-us-government/office-365-us-government.md)說明平臺的優點，其位於美國的符合規範需求。
 
 > [!TIP]
 > 您可能想要將服務描述中的資訊表格傳輸到 Excel 活頁簿中，並新增兩欄： **適用于我的組織，y/n** 及 **符合我的組織的需求**。 然後您可以與同事一起查看此清單，以確認此服務符合您組織的需求。
@@ -55,7 +55,7 @@ Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 �
 
 **決策點**： *決定是否要修改任何預設的 Microsoft 365 政府– GCC-High 安全性設定，並解決以先瞭解可能進行的任何變更的影響。*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>步驟 4： 瞭解 Microsoft 365 政府中目前可使用或已停用的功能為何功能-GCC-高<sup>1</sup>
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>步驟 4. 瞭解 Microsoft 365 政府中目前可使用或已停用的功能為何功能-GCC-高<sup>1</sup>
 
 為了符合我們政府雲端客戶的需求，Microsoft 365 政府– GCC-High 和企業方案之間有一些差異。 請參閱下表，以查看哪些功能可供使用。 請參閱 [這裡](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent) ，以取得 Microsoft 365 藍圖發佈的最新規範產品更新。<br><br>
 
@@ -63,7 +63,7 @@ Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 �
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **資訊保護**              | 統一的標籤用戶端和掃描器         | 可以使用              |
 |                                         | 完全相符的資料          | 可以使用              |
-|                                         | 自動分類及標籤，供 Exchange Online、SharePoint 線上及 OneDrive                      | 正在推出              |
+|                                         | 自動分類及標籤，供 Exchange Online、SharePoint 線上及 OneDrive                      | 推出中              |
 |                                         | 自動分類及標籤 for Office app (Word、Excel、PowerPoint、Outlook) 跨 web、Android、iOS、Windows 及 Mac            | 在開發 |
 |                                         | 自動分類及標記 Office 用戶端 (行動)                                        | 在工程處理積壓工作              |
 |                                         | 小組的自動分類和標籤                            | 在工程處理積壓工作 |
@@ -80,7 +80,7 @@ Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 �
 |                                         | 資料遺失防護 (檔和電子郵件的 DLP)          | 可以使用 |
 |                                         | DLP 用於小組聊天及通道交談 | 在工程處理積壓工作 |
 |                                         | DLP 端點 | 在工程處理積壓工作 |
-| **資訊管理** | 資訊管理：電子郵件封存                                       | 可以使用              |
+| **資訊控管** | 資訊管理：電子郵件封存                                       | 可以使用              |
 |                                         | 資訊管理：保留鎖定          | 可以使用              |
 |                                         | 資訊管理：匯入 PST                      | 可以使用              |
 |                                         | 資訊管理：手動非記錄保留標籤            | 可以使用 |
@@ -101,7 +101,7 @@ Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 �
 |                                         | 記錄管理：法規記錄                         | 在工程處理積壓工作 |
 |                                         | 記錄管理：多階段處置評審 | 在工程處理積壓工作 |
 |                                         | 記錄管理：使用 SharePoint Syntex 分類套用記錄標籤 | 在工程處理積壓工作 |
-| **有問必答風險管理**             | 客戶加密箱                                | 可以使用            |
+| **內部風險管理**             | 客戶加密箱                                | 可以使用            |
 |                                         | 有問必答風險管理：小組、SharePoint 網站、電子郵件訊息的 Office 指示器                         | 在開發 |
 |                                         | 內部使用者風險管理：透過使用者竊取資料                        | 在開發 |
 |                                         | 有問必答風險管理：一般資料洩漏                                | 在開發              |
@@ -123,9 +123,9 @@ Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 �
 |                                         | 通訊相容性 (包括。監察原則) ：存取警示;通知範本;通訊原則儀表板 | 在開發  |
 |                                         | 通訊相容性 (包括。監察原則) ：提升以進行調查以取得高級電子檔探索 | 在開發 |
 |                                         | 通訊相容性 (包括。監察原則) ：偵測成人內容 | 在開發 |
-|                                         | 通訊相容性 (包括。監察原則) ：偵測一段時間的重複行為違反代碼 | 正在推出 |
-|                                         | 通訊相容性 (包括。監察原則) ：支援更細微的許可權 | 正在推出 |
-|                                         | 通訊相容性 (包括。監察原則) ：分析小組與部署信箱的使用者聊天資料 | 正在推出 |
+|                                         | 通訊相容性 (包括。監察原則) ：偵測一段時間的重複行為違反代碼 | 推出中 |
+|                                         | 通訊相容性 (包括。監察原則) ：支援更細微的許可權 | 推出中 |
+|                                         | 通訊相容性 (包括。監察原則) ：分析小組與部署信箱的使用者聊天資料 | 推出中 |
 |                                         | 通訊相容性 (包括。監察原則) ：利益衝突範本 | 在工程處理積壓工作 |
 |                                         | 通訊相容性 (包括。監察原則) ：能夠忽略電子郵件簽章或免責聲明 | 在工程處理積壓工作 |
 |                                         | 通訊相容性 (包括。監察原則) ：「內部人員風險管理」手持 | 在工程處理積壓工作 |
@@ -160,7 +160,7 @@ Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 �
 |                                         | Advanced eDiscovery：審閱資料 (查詢資料、智慧標籤、儀表板) 及批註 (密文)                                      | 可以使用 |
 |                                         | Advanced eDiscovery：搜尋字詞報告                             | 可以使用 |
 |                                         | Advanced eDiscovery：單一專案錯誤修正                        | 可以使用 |
-|                                         | Advanced eDiscovery：支援 PST 匯出                              | 正在推出 |
+|                                         | Advanced eDiscovery：支援 PST 匯出                              | 推出中 |
 |                                         | Advanced eDiscovery：從 OneDrive 和 SharePoint 線上 (新式附件支援連結內容)                               | 可以使用 |
 |                                         | Advanced eDiscovery：標記                              | 可以使用 |
 |                                         | Advanced eDiscovery：承租人報告                              | 可以使用 |
@@ -174,7 +174,7 @@ Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 �
 |                                         | 高級審核：對重要事件的存取 (例如，mailitemsaccessed)                               | 可以使用 |
 |                                         | 高級審核：增加管理活動 API 的頻寬                              | 可以使用 |
 |                                         | 高級審計：小組私人通道郵件的法律封存                              | 可以使用 |
-|                                         | 高級審核：記錄保留 (1 年)                               | 正在推出 |
+|                                         | 高級審核：記錄保留 (1 年)                               | 推出中 |
 |                                         | 高級審核：安全性與合規性中心可用性                              | 可以使用 |
 |                                         | 高級審核：審核記錄的字詞保留時間 (10 年)                               | 在工程處理積壓工作 |
 |                                         | 高級審計：郵件轉寄和郵件傳送事件                              | 在工程處理積壓工作 |
@@ -182,7 +182,7 @@ Microsoft 365 政府版高環境符合美國政府對雲端服務的需求。 �
 |                                         | 高級審計：在 Exchange Online 中和 SharePoint Online 中搜尋字詞事件                              | 在工程處理積壓工作 |
 |    **規範管理**            | Microsoft 365 安全性與合規性中心                              | 可以使用 |
 |                                         | 合規性管理員                                 | 可以使用              |
-|                                         | Microsoft 雲端應用程式安全性                                 | 可以使用              |
+|                                         | Microsoft 雲端 App 安全性                                 | 可以使用              |
 |                                         | 雙位元組字元支援                                 | 在工程處理積壓工作              |
 |    **生態**            | 適用于 Advanced eDiscovery 的圖形 APIs                              | 在開發 |
 |                                         | 第一方資料連線器                                 | 在工程處理積壓工作              |

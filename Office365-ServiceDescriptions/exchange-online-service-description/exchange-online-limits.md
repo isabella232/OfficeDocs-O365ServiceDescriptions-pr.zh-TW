@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
-ms.openlocfilehash: 8b4b888b3b8830092095c710d82579daf5f6ee32
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 06017db419d1f62c907e5bd5004d8d2eef2f54c1
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901908"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173708"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -27,10 +27,10 @@ ms.locfileid: "50901908"
 > [!NOTE]
 > 如果您需要某項工作的協助，或是要針對某個問題進行疑難排解，您可能會發現下列文章很實用：
 > - [電子郵件](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) (用於協助建立及傳送電子郵件)
->- [商務用 Microsoft 365 的電子郵件 - 系統管理說明](https://go.microsoft.com/fwlink/?linkid=529722)
+>- [商務用 Microsoft 365 的電子郵件 - 系統管理說明](/microsoft-365/admin/email/)
 >- [使用 Microsoft 支援及修復小幫手修正 Outlook 與 Microsoft 365 問題](https://diagnostics.office.com/)
->- [電子郵件未傳遞回報](https://go.microsoft.com/fwlink/?linkid=526653)
->- [Exchange Online 說明](https://go.microsoft.com/fwlink/?linkid=825607)
+>- [電子郵件未傳遞回報](/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)
+>- [Exchange Online 說明](/exchange/exchange-online)
 
 Microsoft Exchange Online 中的限制屬於下列其中一個類別：
 
@@ -117,7 +117,7 @@ Microsoft Exchange Online 中的限制屬於下列其中一個類別：
 |群組信箱|50 GB|50 GB|50 GB|50 GB|50 GB|50 GB|
 
 > [!NOTE]
-> <sup>1</sup> 每位使用者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://go.microsoft.com/fwlink/?linkid=844060)。 <br/> <sup>2</sup> 若要存取共用信箱，使用者必須有 Exchange Online 授權，但是共用信箱不需要個別授權。 若沒有授權，共用信箱的限制為 50 GB。 若要將大小限制增加到 100 GB，則共用信箱必須獲指派 Exchange Online 方案 2 授權或具有 Exchange Online 封存附加元件授權的 Exchange Online 方案 1 授權。 這也可讓您啟用自動展開封存功能，以使用無限制的封存儲存容量。 同樣地，如果您想要讓共用信箱處於訴訟資料暫留狀態，則共用信箱必須有 Exchange Online 方案 2 授權或具有 Exchange Online 封存附加元件授權的 Exchange Online 方案 1 授權。 如果您想要套用進階功能，例如適用於 Office 365 的 Microsoft Defender、進階電子文件探索或自動保留原則，則共用信箱必須獲得這些功能的授權。 <br/> <sup>3</sup> 資源信箱不需要授權。 不過，若沒有授權，資源信箱的限制為 50 GB。 若要增加信箱大小，必須指派 E3 或 E5 授權。 這樣會將信箱增加至 100 GB。 <br/> <sup>4</sup> Exchange Online Kiosk 中未包含封存信箱。 但可以透過 Exchange Online 封存以附加元件形式購買。 如需詳細資訊，請參閱 [Exchange Online 封存服務描述](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)。 <br/> <sup>5</sup> 網站信箱已在 2017 年從 Exchange Online 和 SharePoint Online 中移除。 <br/> <sup>6</sup> 您最多可以有 1000 個公用資料夾信箱，而且所有公用資料夾信箱的大小總和上限為 100 TB。 階層服務信箱的限制為 100 個公用資料夾信箱。 <br/> <sup>7</sup> 封存信箱僅可用來封存已套用授權之單一使用者或實體 (例如共用信箱) 的郵件。 禁止使用封存信箱來儲存多個使用者或實體的郵件。 例如，IT 系統管理員不能建立共用信箱，再由使用者純粹為了封存的目的來複製它 (透過 [副本] 或 [密件副本] 欄位，或透過傳輸規則)。 請注意，多人使用的共用信箱不會實際儲存個別使用者的電子郵件。 多個使用者可以存取，且傳送電子郵件做為共用信箱。 因此，只有傳送至共用信箱或從共用信箱寄出的電子郵件會儲存在共用信箱中，*做為* 共用信箱。 <br/> <sup>8</sup>如果您已在 Exchange Online 中建立保留原則，則只有當使用者的主要信箱大於 10 MB 時，系統才會自動將郵件移到使用者的封存信箱。 若信箱小於 10 MB，則保留原則不會不該信箱自動執行。 <br/> <sup>9</sup> 共用信箱和資源信箱不需要授權。 不過，若沒有授權，這些信箱的限制為 50 GB。 若要增加信箱大小，必須指派 E3 或 E5 授權。 這樣會將信箱增加至 100 GB。 <br/> <sup>10</sup> 根據預設，共用信箱有相關聯使用中使用者帳戶，具有系統產生的 (未知) 密碼。 若要封鎖相關聯共用信箱帳戶的登入，請參閱[封鎖共用信箱帳戶的登入](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)。
+> <sup>1</sup> 每位使用者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](/microsoft-365/compliance/unlimited-archiving)。 <br/> <sup>2</sup> 若要存取共用信箱，使用者必須有 Exchange Online 授權，但是共用信箱不需要個別授權。 若沒有授權，共用信箱的限制為 50 GB。 若要將大小限制增加到 100 GB，則共用信箱必須獲指派 Exchange Online 方案 2 授權或具有 Exchange Online 封存附加元件授權的 Exchange Online 方案 1 授權。 這也可讓您啟用自動展開封存功能，以使用無限制的封存儲存容量。 同樣地，如果您想要讓共用信箱處於訴訟資料暫留狀態，則共用信箱必須有 Exchange Online 方案 2 授權或具有 Exchange Online 封存附加元件授權的 Exchange Online 方案 1 授權。 如果您想要套用進階功能，例如適用於 Office 365 的 Microsoft Defender、進階電子文件探索或自動保留原則，則共用信箱必須獲得這些功能的授權。 <br/> <sup>3</sup> 資源信箱不需要授權。 不過，若沒有授權，資源信箱的限制為 50 GB。 若要增加信箱大小，必須指派 E3 或 E5 授權。 這樣會將信箱增加至 100 GB。 <br/> <sup>4</sup> Exchange Online Kiosk 中未包含封存信箱。 但可以透過 Exchange Online 封存以附加元件形式購買。 如需詳細資訊，請參閱 [Exchange Online 封存服務描述](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)。 <br/> <sup>5</sup> 網站信箱已在 2017 年從 Exchange Online 和 SharePoint Online 中移除。 <br/> <sup>6</sup> 您最多可以有 1000 個公用資料夾信箱，而且所有公用資料夾信箱的大小總和上限為 100 TB。 階層服務信箱的限制為 100 個公用資料夾信箱。 <br/> <sup>7</sup> 封存信箱僅可用來封存已套用授權之單一使用者或實體 (例如共用信箱) 的郵件。 禁止使用封存信箱來儲存多個使用者或實體的郵件。 例如，IT 系統管理員不能建立共用信箱，再由使用者純粹為了封存的目的來複製它 (透過 [副本] 或 [密件副本] 欄位，或透過傳輸規則)。 請注意，多人使用的共用信箱不會實際儲存個別使用者的電子郵件。 多個使用者可以存取，且傳送電子郵件做為共用信箱。 因此，只有傳送至共用信箱或從共用信箱寄出的電子郵件會儲存在共用信箱中，*做為* 共用信箱。 <br/> <sup>8</sup>如果您已在 Exchange Online 中建立保留原則，則只有當使用者的主要信箱大於 10 MB 時，系統才會自動將郵件移到使用者的封存信箱。 若信箱小於 10 MB，則保留原則不會不該信箱自動執行。 <br/> <sup>9</sup> 共用信箱和資源信箱不需要授權。 不過，若沒有授權，這些信箱的限制為 50 GB。 若要增加信箱大小，必須指派 E3 或 E5 授權。 這樣會將信箱增加至 100 GB。 <br/> <sup>10</sup> 根據預設，共用信箱有相關聯使用中使用者帳戶，具有系統產生的 (未知) 密碼。 若要封鎖相關聯共用信箱帳戶的登入，請參閱[封鎖共用信箱帳戶的登入](/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)。
 
 ### <a name="storage-limits-across-standalone-plans"></a>不同獨立方案的儲存限制
 
@@ -131,7 +131,7 @@ Microsoft Exchange Online 中的限制屬於下列其中一個類別：
 |群組信箱|50 GB|50 GB|50 GB|50 GB|
 
 > [!NOTE]
-> <sup>1</sup> 這是 Exchange Server 2013 組織的預設信箱大小。 系統管理員可以為其組織變更此值。 內部部署信箱並無儲存空間上限。 <br/> <sup>2</sup> 每位使用者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://go.microsoft.com/fwlink/?linkid=844060)。 如需自動展開封存的可用性詳細資訊，請參閱 [Microsoft 365 藍圖](https://go.microsoft.com/fwlink/?LinkId=509914)。 <br/> <sup>3</sup> 若要存取共用信箱，使用者必須有 Exchange Online 授權，但是共用信箱不需要個別授權。 若沒有授權，共用信箱的限制為 50 GB。 若要將大小限制增加到 100 GB，則共用信箱必須獲指派 Exchange Online 方案 2 授權或具有 Exchange Online 封存附加元件授權的 Exchange Online 方案 1 授權。 這也可讓您啟用自動展開封存功能，以使用無限制的封存儲存容量。 同樣地，如果您想要讓共用信箱處於訴訟資料暫留狀態，則共用信箱必須有 Exchange Online 方案 2 授權或具有 Exchange Online 封存附加元件授權的 Exchange Online 方案 1 授權。 如果您想要套用進階功能，例如適用於 Office 365 的 Microsoft Defender、進階電子文件探索或自動保留原則，則共用信箱必須獲得這些功能的授權。 <br/> <sup>4</sup> 資源信箱不需要授權。 不過，若沒有授權，資源信箱的限制為 50 GB。 若要增加信箱大小，必須指派 Exchange Online 方案 2 授權。 這樣會將信箱增加至 100 GB。 <br/> <sup>5</sup> Exchange Online Kiosk 中未包含封存信箱。 但可以透過 Exchange Online 封存以附加元件形式購買。 如需詳細資訊，請參閱 [Exchange Online 封存服務描述](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)。 <br/> <sup>6</sup> 這是 Microsoft Exchange Server 2013 組織的預設信箱大小。 系統管理員可以為其組織變更此值。 在 Exchange Server 2013您最多可以有 100 個公用資料夾信箱，而且所有公用資料夾信箱的大小總和上限為 50 TB。 <br/> <sup>7</sup> 在 Exchange Online 中，您最多可以有 1,000 個公用資料夾信箱，而且所有公用資料夾信箱的大小總和上限為 50 TB。  <br/> <sup>8</sup> 封存信箱僅可用來封存已套用授權之單一使用者或實體的郵件。 禁止使用封存信箱來儲存多個使用者或實體的郵件。 例如，IT 系統管理員不能建立共用信箱，再由使用者純粹為了封存的目的來複製 (透過 [副本] 或 [密件副本] 欄位，或透過傳輸規則) 共用信箱。 <br/> <sup>9</sup> 如果您已在 Exchange Online 中建立保留原則，則只有當使用者的主要信箱大於 10 MB 時，系統才會自動將郵件移到使用者的封存信箱。 若信箱小於 10 MB，則保留原則不會不該信箱自動執行。 <br/> <sup>10</sup> 共用信箱和資源信箱不需要授權。 不過，若沒有授權，這些信箱的限制為 50 GB。 若要增加信箱大小，必須指派 Exchange Online 方案 2 授權。 這樣會將信箱增加至 100 GB。 <br/> <sup>11</sup> 根據預設，共用信箱有相關聯使用中使用者帳戶，具有系統產生的 (未知) 密碼。 若要封鎖相關聯共用信箱帳戶的登入，請參閱[封鎖共用信箱帳戶的登入](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)。
+> <sup>1</sup> 這是 Exchange Server 2013 組織的預設信箱大小。 系統管理員可以為其組織變更此值。 內部部署信箱並無儲存空間上限。 <br/> <sup>2</sup> 每位使用者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](/microsoft-365/compliance/unlimited-archiving)。 如需自動展開封存的可用性詳細資訊，請參閱 [Microsoft 365 藍圖](https://go.microsoft.com/fwlink/?LinkId=509914)。 <br/> <sup>3</sup> 若要存取共用信箱，使用者必須有 Exchange Online 授權，但是共用信箱不需要個別授權。 若沒有授權，共用信箱的限制為 50 GB。 若要將大小限制增加到 100 GB，則共用信箱必須獲指派 Exchange Online 方案 2 授權或具有 Exchange Online 封存附加元件授權的 Exchange Online 方案 1 授權。 這也可讓您啟用自動展開封存功能，以使用無限制的封存儲存容量。 同樣地，如果您想要讓共用信箱處於訴訟資料暫留狀態，則共用信箱必須有 Exchange Online 方案 2 授權或具有 Exchange Online 封存附加元件授權的 Exchange Online 方案 1 授權。 如果您想要套用進階功能，例如適用於 Office 365 的 Microsoft Defender、進階電子文件探索或自動保留原則，則共用信箱必須獲得這些功能的授權。 <br/> <sup>4</sup> 資源信箱不需要授權。 不過，若沒有授權，資源信箱的限制為 50 GB。 若要增加信箱大小，必須指派 Exchange Online 方案 2 授權。 這樣會將信箱增加至 100 GB。 <br/> <sup>5</sup> Exchange Online Kiosk 中未包含封存信箱。 但可以透過 Exchange Online 封存以附加元件形式購買。 如需詳細資訊，請參閱 [Exchange Online 封存服務描述](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)。 <br/> <sup>6</sup> 這是 Microsoft Exchange Server 2013 組織的預設信箱大小。 系統管理員可以為其組織變更此值。 在 Exchange Server 2013您最多可以有 100 個公用資料夾信箱，而且所有公用資料夾信箱的大小總和上限為 50 TB。 <br/> <sup>7</sup> 在 Exchange Online 中，您最多可以有 1,000 個公用資料夾信箱，而且所有公用資料夾信箱的大小總和上限為 50 TB。  <br/> <sup>8</sup> 封存信箱僅可用來封存已套用授權之單一使用者或實體的郵件。 禁止使用封存信箱來儲存多個使用者或實體的郵件。 例如，IT 系統管理員不能建立共用信箱，再由使用者純粹為了封存的目的來複製 (透過 [副本] 或 [密件副本] 欄位，或透過傳輸規則) 共用信箱。 <br/> <sup>9</sup> 如果您已在 Exchange Online 中建立保留原則，則只有當使用者的主要信箱大於 10 MB 時，系統才會自動將郵件移到使用者的封存信箱。 若信箱小於 10 MB，則保留原則不會不該信箱自動執行。 <br/> <sup>10</sup> 共用信箱和資源信箱不需要授權。 不過，若沒有授權，這些信箱的限制為 50 GB。 若要增加信箱大小，必須指派 Exchange Online 方案 2 授權。 這樣會將信箱增加至 100 GB。 <br/> <sup>11</sup> 根據預設，共用信箱有相關聯使用中使用者帳戶，具有系統產生的 (未知) 密碼。 若要封鎖相關聯共用信箱帳戶的登入，請參閱[封鎖共用信箱帳戶的登入](/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)。
 
 ## <a name="capacity-alerts"></a>容量警示
 
@@ -209,7 +209,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |每一公用資料夾的子資料夾數目警告|9000|9000|9000|9000|9000|無法使用|
 
 > [!NOTE]
-> <sup>1</sup> 這是 [可復原的項目] 資料夾的儲存配額，而非整個封存信箱的配額。 對於使用 Exchange Online 方案 2 授權的使用者或同時擁有 Exchange Online 方案 1 和 Exchange Online 封存授權的使用者，封存信箱的儲存配額是無限制的。 如需增加可復原的項目配額的詳細資訊，請參閱[為保留中信箱增加可復原的項目配額](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)。 <br/> <sup>2</sup> 封存信箱中 [可復原的項目] 資料夾的初始儲存配額是 100 GB。 開啟自動展開封存時，當 [可復原項目] 資料夾達到儲存容量時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://go.microsoft.com/fwlink/?linkid=844060)。 如需自動展開封存的可用性詳細資訊，請參閱 [Microsoft 365 藍圖](https://go.microsoft.com/fwlink/?LinkId=509914)。
+> <sup>1</sup> 這是 [可復原的項目] 資料夾的儲存配額，而非整個封存信箱的配額。 對於使用 Exchange Online 方案 2 授權的使用者或同時擁有 Exchange Online 方案 1 和 Exchange Online 封存授權的使用者，封存信箱的儲存配額是無限制的。 如需增加可復原的項目配額的詳細資訊，請參閱[為保留中信箱增加可復原的項目配額](/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)。 <br/> <sup>2</sup> 封存信箱中 [可復原的項目] 資料夾的初始儲存配額是 100 GB。 開啟自動展開封存時，當 [可復原項目] 資料夾達到儲存容量時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](/microsoft-365/compliance/unlimited-archiving)。 如需自動展開封存的可用性詳細資訊，請參閱 [Microsoft 365 藍圖](https://go.microsoft.com/fwlink/?LinkId=509914)。
 > <sup>2</sup> 這是儲存限制；是其中一項信箱圖形限制。 任何指定父項只能有 10000 個直接子系資料夾。 無論移轉或其他建立資料夾的用戶端，都適用這個條件。
 
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>不同獨立方案的信箱資料夾限制
@@ -233,7 +233,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |每一公用資料夾的子資料夾數目警告|不適用|900|900|無|
 
 > [!NOTE]
-> <sup>1</sup> Microsoft 建議每個信箱資料夾的郵件數不要超過 1,000,000 封。 > <br/> <sup>2</sup> 這是 [可復原的項目] 資料夾的儲存配額，而非整個封存信箱的配額。 對於使用 Exchange Online 方案 2 授權的使用者或同時擁有 Exchange Online 方案 1 和 Exchange Online 封存授權的使用者，封存信箱的儲存配額是無限制的。 如需增加可復原的項目配額的詳細資訊，請參閱[為保留中信箱增加可復原的項目配額](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)。 <br/> <sup>3</sup> 封存信箱中 [可復原的項目] 資料夾的初始儲存配額是 100 GB。 開啟自動展開封存時，當 [可復原項目] 資料夾達到儲存容量時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](https://go.microsoft.com/fwlink/?linkid=844060)。 如需自動展開封存的可用性詳細資訊，請參閱 [Microsoft 365 藍圖](https://go.microsoft.com/fwlink/?LinkId=509914)。
+> <sup>1</sup> Microsoft 建議每個信箱資料夾的郵件數不要超過 1,000,000 封。 > <br/> <sup>2</sup> 這是 [可復原的項目] 資料夾的儲存配額，而非整個封存信箱的配額。 對於使用 Exchange Online 方案 2 授權的使用者或同時擁有 Exchange Online 方案 1 和 Exchange Online 封存授權的使用者，封存信箱的儲存配額是無限制的。 如需增加可復原的項目配額的詳細資訊，請參閱[為保留中信箱增加可復原的項目配額](/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)。 <br/> <sup>3</sup> 封存信箱中 [可復原的項目] 資料夾的初始儲存配額是 100 GB。 開啟自動展開封存時，當 [可復原項目] 資料夾達到儲存容量時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [在 Office 365 中的無限制封存的概觀](/microsoft-365/compliance/unlimited-archiving)。 如需自動展開封存的可用性詳細資訊，請參閱 [Microsoft 365 藍圖](https://go.microsoft.com/fwlink/?LinkId=509914)。
 
 ## <a name="message-limits"></a>郵件限制
 
@@ -360,7 +360,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 > [!NOTE]
 > <sup>1</sup> 達到收件人比率限制之後，就無法從信箱傳送郵件，除非收到郵件的收件者人數在過去 24 小時內減少到上限範圍內。 例如，使用者在上午 09:00 傳送電子郵件給 5000 個收件者，然後在上午 10:00 傳送其他郵件給 2500 個收件者，再於上午 11:00 傳送其他郵件給 2500 個收件者，達到 10000 封郵件的限制。 到隔天的上午 09:00 之前，使用者無法再傳送郵件。  
 > <sup>2</sup> 您可以針對現有信箱以及未來將建立的新信箱，將收件者限制自訂為 1 到 1000 之間。 使用 Exchange 系統管理中心個別或大量編輯現有信箱的收件者限制，並透過遠端 PowerShell 自訂新信箱的預設設定。 如需詳細資訊，請參閱 [Office 365 中的可自訂收件者限制](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228)。  
-> <sup>3</sup> 當輸出郵件數量超過郵件速率限制時，郵件提交中任何超過的項目都會受到節流，並接續轉到接下來的時間。 這通常不會封鎖寄件者的帳戶，但是 Exchange Online 不適合用於大量郵寄案例。 針對此使用案例，建議您改為使用[這裡](https://docs.microsoft.com/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365)的選項 2 和 3。
+> <sup>3</sup> 當輸出郵件數量超過郵件速率限制時，郵件提交中任何超過的項目都會受到節流，並接續轉到接下來的時間。 這通常不會封鎖寄件者的帳戶，但是 Exchange Online 不適合用於大量郵寄案例。 針對此使用案例，建議您改為使用[這裡](/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365)的選項 2 和 3。
 
 #### <a name="sending-limits-across-standalone-options"></a>不同獨立選項的傳送限制
 
@@ -377,7 +377,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 ## <a name="reporting-and-message-trace-limits"></a>報告和郵件追蹤限制
 
-如需報告和郵件追蹤限制，請參閱 [Exchange Online Protection 的報告和郵件追蹤](https://go.microsoft.com/fwlink/p/?LinkId=394248)中的「報告和郵件追蹤資料可用性和延遲」一節。
+如需報告和郵件追蹤限制，請參閱 [Exchange Online Protection 的報告和郵件追蹤](/microsoft-365/security/office-365-security/reporting-and-message-trace-in-exchange-online-protection)中的「報告和郵件追蹤資料可用性和延遲」一節。
 
 ## <a name="retention-limits"></a>保留限制
 
@@ -489,7 +489,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |收件匣規則|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|
 
 > [!NOTE]
-> <sup>1</sup> 如果信箱已遷移至 Exchange Online，則可能會將收件匣規則限制設定為低於預設 EXO 值的值。 如果是這種情況，可以增加收件匣規則值。 如需相關指示，請參閱[修改 Exchange Online 中收件匣規則使用的空間](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-on-the-web/increase-the-space-used-by-inbox-rules)。 
+> <sup>1</sup> 如果信箱已遷移至 Exchange Online，則可能會將收件匣規則限制設定為低於預設 EXO 值的值。 如果是這種情況，可以增加收件匣規則值。 如需相關指示，請參閱[修改 Exchange Online 中收件匣規則使用的空間](/exchange/clients-and-mobile-in-exchange-online/outlook-on-the-web/increase-the-space-used-by-inbox-rules)。 
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>不同獨立選項的日誌、傳輸和收件匣規則限制
 

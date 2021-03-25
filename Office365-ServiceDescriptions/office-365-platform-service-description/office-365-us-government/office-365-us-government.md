@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已建立 Office 365 美國政府方案 (或 Office 365 政府) 。 本文概要說明 Office 365 政府美國環境所特有的功能。
-ms.openlocfilehash: 92d2bd7b4197c096f6f87cc792e6f052247d7274
-ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
+ms.openlocfilehash: a2568a77406954a2d3461a0e33f7ca5f3e9160d8
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49779997"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172958"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -98,13 +98,13 @@ Microsoft 系統管理員對 Office 365 政府客戶內容的存取權僅限於�
 
 - 核心上架-這些是租使用者設定的工作，以及與 Azure Active Directory (Azure AD) （如有需要）的整合所需的工作。 核心上架也能成為將其他合格之服務上架的基準。
 
-- 服務上架和遷移-服務上架工作會啟用您租使用者中的案例。 資料移轉 (包含) 的電子郵件和[檔案。](https://aka.ms/whatcanmigrate)<sup>2</sup>
+- 服務上架和遷移-服務上架工作會啟用您租使用者中的案例。 資料移轉 (包含) 的電子郵件和[檔案。](/FastTrack/data-migration)<sup>2</sup>
 
 使用者採用服務是由為您提供指導方針，以確保您的使用者瞭解合格服務，並可使用這些服務來推動商業價值的任務。 這項協助會與上架活動同時進行。
 
-您可以在 [這裡](https://aka.ms/whatistheprocess)找到 FastTrack 中心流程的特定資訊。 如需預訂角色和責任的細分，請複習 [FastTrack 責任](https://aka.ms/whatdoesftcdo) 以及 [您的責任](https://aka.ms/whatdowedo)。
+您可以在 [這裡](/FastTrack/us-gov-appendix-overview)找到 FastTrack 中心流程的特定資訊。 如需預訂角色和責任的細分，請複習 [FastTrack 責任](/FastTrack/us-gov-appendix-fasttrack-responsibilities) 以及 [您的責任](/FastTrack/us-gov-appendix-your-responsibilities)。
 
-> <sup>1</sup> 您必須從可接收 FastTrack 服務的 [合格方案](https://aka.ms/whocanbenefit) 清單中至少購買50個授權。
+> <sup>1</sup> 您必須從可接收 FastTrack 服務的 [合格方案](/fasttrack/eligibility) 清單中至少購買50個授權。
 <br/><sup>2</sup> 資料移轉服務可用於具有500或更多授權的 Office 365 承租人。
 
 ## <a name="data-migrations-performed-by-fasttrack"></a>FastTrack 所執行的資料移轉
@@ -123,9 +123,9 @@ Microsoft 系統管理員對 Office 365 政府客戶內容的存取權僅限於�
 
 Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以私下連線到支援的 Office 365 服務，而不是透過公用網際網路進行連接。
 
-如需詳細資訊，例如支援的提供者、價格模型等等，請參閱 [Azure ExpressRoute 資訊](https://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409)。
+如需詳細資訊，例如支援的提供者、價格模型等等，請參閱 [Azure ExpressRoute 資訊](/azure/expressroute/)。
 
-如需 Office 365 Azure ExpressRoute 支援的詳細資訊，請參閱 [azure ExpressRoute For Office 365](https://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409)
+如需 Office 365 Azure ExpressRoute 支援的詳細資訊，請參閱 [azure ExpressRoute For Office 365](/microsoft-365/enterprise/azure-expressroute)
 
 ## <a name="system-requirements"></a>系統需求
 
@@ -261,7 +261,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |安全分數<sup>14</sup>|是<sup>9，15</sup>|是<sup>9</sup>|是<sup>9，15</sup>|是<sup>9，15</sup>|
 |Office 郵件加密|否|是|是|否|
 |威脅情報|無<sup>12</sup>|無<sup>12</sup>|是|無<sup>12</sup>|
-|**[合規性](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**|||||
+|**[合規性](/microsoft-365/compliance/offering-home)**|||||
 |SAS 70 / SSAE16 評估|是|是|是|是|
 |ISO 27001 認證|是|是|是|是|
 |歐盟示範條款|是|是|是|是|
@@ -284,7 +284,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 <br/><sup>2</sup> 現有的 BBCS 和 BIS 客戶可以繼續使用服務。 不接受新的客戶。
 <br/><sup>3</sup> 如果您是使用目錄同步處理，則必須使用 Active Directory (非使用 Office 365 入口網站) 或使用 Windows PowerShell 的 Azure Active Directory 模組來刪除帳戶或變更密碼。
 <br/><sup>4</sup> 如果使用密碼同步化，使用者必須在本機 Active Directory 中變更其密碼。
-<br/><sup>5</sup> 若要了解如何為使用者設定自助式密碼管理原則，請參閱 [在 Azure AD 中管理密碼](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)。
+<br/><sup>5</sup> 若要了解如何為使用者設定自助式密碼管理原則，請參閱 [在 Azure AD 中管理密碼](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password)。
 <br/><sup>6</sup> 您在 Office 365 只能有一個公用網站，除非您已從舊版 Office 365 升級。 在後者情況下，您有兩個公用網站，但只有一個能以自訂的網域名稱裝載。 如需就商務版訂閱來使用這兩個網站的詳細資訊，請參閱 [使用您的兩個 Office 365 公用網站](https://go.microsoft.com/fwlink/p/?LinkID=271589)。 如果您有不同的訂閱，請到 [Office 365 的公用網站說明](https://go.microsoft.com/fwlink/p/?LinkID=325009)深入了解公用網站。
 <br/><sup>7</sup> 若減少以折扣條件購買的基座，有可能需支付提前終止訂閱的費用。 這不適用於每月付款的訂閱。
 <br/><sup>8</sup> 下列方案不支援來自 Microsoft 365 系統管理中心的授權基座變更： Office 365 政府版 G1，Office 365 政府版 G3，Office 365 政府 F3。
@@ -293,7 +293,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 <br/><sup>11</sup> 尚未提供于 Office 365 政府方案中，但即將推出。
 <br/><sup>12</sup> 不包含在內，但可以在 GCC 中以個別的附加元件形式購買。
 <br/><sup>13</sup> 不支援 Office 365 政府版服務。
-<br/><sup>14</sup> 可供使用 [https://securescore.office.com](https://securescore.office.com) 。 需要系統管理員許可權。 如需詳細資訊，請參閱 [Office 365 安全分數簡介](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)。
+<br/><sup>14</sup> 可供使用 [https://securescore.office.com](https://securescore.office.com) 。 需要系統管理員許可權。 如需詳細資訊，請參閱 [Office 365 安全分數簡介](/microsoft-365/security/mtp/microsoft-secure-score)。
 ).
 <br/><sup>15</sup> 在 DoD 環境中尚未提供，但即將推出。
 <br/><sup>16</sup> 系統管理中心不包括 DOD 或 GCC 高環境中的流量分析。
@@ -360,9 +360,9 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 
 > <sup>1</sup> Azure 資訊保護未包含在內，但能以個別的附加元件形式購買，並且會啟用支援的資訊版權管理 (IRM) 功能。 部分 Azure 資訊保護功能需要訂閱 Microsoft 365 Apps for enterprise，不包含在 Office 365 政府版 G1 或 Office 365 政府 F3 中。
 <br/><sup>2</sup> WINDOWS SERVER AD RMS 是內部部署伺服器，必須個別採購並管理，以便啟用支援的 IRM 功能。
-<br/><sup>3</sup> 商務用 Skype Basic 適用于所有客戶。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Microsoft 365 應用程式（適用于企業）和 Office 365 企業版 E3 包含完整的 Skype 應用程式，其包含額外的功能，例如高級電話語音支援、封存及合規性功能。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).
+<br/><sup>3</sup> 商務用 Skype Basic 適用于所有客戶。 商務用 Skype 桌面用戶端是在本機安裝的應用程式，可針對包含 商務用 Skype Online 的 Office 365 方案，提供目前狀態、立即訊息和會議功能。 Microsoft 365 應用程式（適用于企業）和 Office 365 企業版 E3 包含完整的 Skype 應用程式，其包含額外的功能，例如高級電話語音支援、封存及合規性功能。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](/lyncserver/lync-server-2013-desktop-client-comparison-tables).
 <br/><sup>4</sup> 在 GCC 高或 DoD 環境中尚未提供，但即將推出。
-<br/><sup>5</sup> 如需詳細資訊，請參閱 [使用 Outlook For iOS 和 Android In 政府社區雲端](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) 。
+<br/><sup>5</sup> 如需詳細資訊，請參閱 [使用 Outlook For iOS 和 Android In 政府社區雲端](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) 。
 <br/><sup>6</sup> Office 365 DoD 環境中尚未提供，但即將推出。
 <br/><sup>7</sup> 應用程式在政府群中完全可用，但目前無法使用的特定功能例外。 如需詳細資訊，請參閱 [Office 應用程式功能可用性](#office-application-and-feature-availability-in-government-plans) 。
 
@@ -448,7 +448,7 @@ Office 365 美國政府客戶可以使用 Azure 政府 ExpressRoute 服務，以
 |與共同作者的內容聊天：與檔內的共同撰寫人員聊天|否|否|否|
 |聽寫|否<sup>1</sup>|否<sup>1</sup>|否<sup>1</sup>|
 
-如需在 GCC/GCC 高端/DoD 中的 Microsoft 團隊功能可用性，請造訪 [Microsoft 團隊服務說明](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description)。
+如需在 GCC/GCC 高端/DoD 中的 Microsoft 團隊功能可用性，請造訪 [Microsoft 團隊服務說明](../../teams-service-description.md)。
 > <sup>1</sup> 可用性即將推出。
 <br/><sup>2</sup> 在本機 Surface Hub 上的可用性 (未登入) 中。
 <br/><sup>3</sup> 可供 GCC 環境使用外部共用。 深入瞭解如何 [關閉或開啟組織的 Microsoft 表單](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) 。 已停用 GCC 高和 DOD 環境的外部共用;您組織內的使用者可能會執行下列動作：完成表單並提交回應、 [複製表單並將表單共用做為範本](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)、 [共同撰寫表單或在表單上共同](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)作業，以及 [存取表單結果](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)。

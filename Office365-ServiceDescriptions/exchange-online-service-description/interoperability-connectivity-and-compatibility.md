@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 5308770ff7fc6ab6c44f27293ff89ebbffa6e72f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 21df7d4747ae0b92f21a9da56c0d4bc9ff96ccaf
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132747"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173318"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>互通性、連線性和相容性
 
@@ -31,7 +31,7 @@ ms.locfileid: "45132747"
     
 - 語音信箱互通性
     
-如需要更多關於如何利用 Exchange Online 設定 商務用 Skype Server 2015 的資訊，請參閱[設定內部部署商務用 Skype Server 2015 與 Exchange Online 的整合](https://go.microsoft.com/fwlink/p/?LinkId=271804)。如需混合式組態的詳細資訊，請參閱[支援的商務用 Skype Server 2015 混合式組態](https://go.microsoft.com/fwlink/?LinkID=513084)。
+如需要更多關於如何利用 Exchange Online 設定 商務用 Skype Server 2015 的資訊，請參閱[設定內部部署商務用 Skype Server 2015 與 Exchange Online 的整合](/skypeforbusiness/deploy/integrate-with-exchange-server/outlook-web-app)。如需混合式組態的詳細資訊，請參閱[支援的商務用 Skype Server 2015 混合式組態](/skypeforbusiness/skype-for-business-hybrid-solutions/integration-with-exchange-and-sharepoint)。
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
@@ -57,6 +57,4 @@ Exchange Online 可以當作 SMTP 傳遞服務使用，用以轉送從傳真閘�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
-  
-
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Exchange Online 服務說明](exchange-online-service-description.md)。

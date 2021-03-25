@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Project Online 中提供下列專案管理功能。
-ms.openlocfilehash: 3a6e49d3b373646524f4f1f96e955bd4b78e1677
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 358d6b3889917e98015b2c4d03838a38e915ef72
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294096"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174118"
 ---
 # <a name="project-management"></a>專案管理
 
@@ -24,7 +24,7 @@ Project Online 中提供下列專案管理功能。
   
 ## <a name="issues-and-risk-management"></a>問題和風險管理
 
-Project Online 和 Project Server 2013 包括功能，可預防、識別和降低潛在的業務或專案相關風險及問題。若要深入了解，請參閱[在 Project Web App 中管理議題、風險以及文件](https://go.microsoft.com/fwlink/?LinkId=402634)。
+Project Online 和 Project Server 2013 包括功能，可預防、識別和降低潛在的業務或專案相關風險及問題。若要深入了解，請參閱[在 Project Web App 中管理議題、風險以及文件](/previous-versions/office/project-server-2010/hh767484(v=office.14))。
   
 ## <a name="manage-project-resources"></a>管理專案資源
 
@@ -32,7 +32,7 @@ Project Online 和 Project Server 2013 包括功能，可預防、識別和降�
   
 ## <a name="reporting-and-business-intelligence"></a>報告和商業智慧
 
-With Microsoft PPM solutions, you have several options for viewing and creating reports and working with Project Server 2013 data. Some reports are available automatically, and you can easily create your own reports using lots of reporting tools. To learn more, see [What reporting tools can I use with project data?](https://go.microsoft.com/fwlink/?LinkId=402642).
+With Microsoft PPM solutions, you have several options for viewing and creating reports and working with Project Server 2013 data. Some reports are available automatically, and you can easily create your own reports using lots of reporting tools. To learn more, see [What reporting tools can I use with project data?](/ProjectOnline/what-reporting-tools-can-i-use-with-project-data).
   
 ## <a name="schedule-management"></a>排程管理
 

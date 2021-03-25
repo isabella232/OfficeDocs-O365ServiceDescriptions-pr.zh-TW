@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: 若要瞭解 Microsoft Exchange Online Protection (EOP) 中的郵件原則和符合性功能，請閱讀本文。
-ms.openlocfilehash: 0609c1fe48404035907096eb047e3947a1bf7ace
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: a1ed14ed555adb17801014141a3f66616e17d2e1
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293799"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173728"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Exchange Online Protection 中的郵件原則及符合性
 
@@ -26,11 +26,11 @@ Microsoft Exchange Online Protection (EOP) 提供可協助您管理電子郵件�
 
 ## <a name="mail-flow-rules"></a>郵件流程規則
 
-郵件流程規則 (也稱為傳輸) 規則，可讓您靈活地將自己公司特有的原則套用至電子郵件。 郵件流程規則是由彈性準則所組成，可讓您根據準則定義要採取的條件、例外狀況和動作。 如需詳細資訊，請參閱 [Exchange Online Protection 中的郵件流程規則 (傳輸規則)](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)。
+郵件流程規則 (也稱為傳輸) 規則，可讓您靈活地將自己公司特有的原則套用至電子郵件。 郵件流程規則是由彈性準則所組成，可讓您根據準則定義要採取的條件、例外狀況和動作。 如需詳細資訊，請參閱 [Exchange Online Protection 中的郵件流程規則 (傳輸規則)](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)。
 
 ## <a name="audit-logging"></a>稽核記錄
 
-稽核記錄可讓您追蹤系統管理員對您組織所做的特定變更。 這些報告可協助您符合法規、規範和訴訟需求。 如需詳細資訊，請參閱 [EOP 中的稽核報告](https://docs.microsoft.com/microsoft-365/security/office-365-security/auditing-reports-in-eop)。
+稽核記錄可讓您追蹤系統管理員對您組織所做的特定變更。 這些報告可協助您符合法規、規範和訴訟需求。 如需詳細資訊，請參閱 [EOP 中的稽核報告](/microsoft-365/security/office-365-security/auditing-reports-in-eop)。
 
 ## <a name="data-loss-prevention-dlp"></a>資料外洩防護 (DLP)
 
@@ -57,7 +57,7 @@ Microsoft Exchange Online Protection (EOP) 提供可協助您管理電子郵件�
 > [!NOTE]
 > DLP 原則只會套用至進出組織的郵件。組織內部 (內部) 郵件不會套用 DLP 原則，除非您在內部部署 DLP 的情況下執行 Exchange Server 2013。這項條件也適用於 DLP 原則提示，這些提示會在機密資料誤送至未授權收件者之前，通知使用者可能會發生的原則違規情形。
 
-若要深入瞭解 DLP，請參閱 [資料遺失防護 In Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)。
+若要深入瞭解 DLP，請參閱 [資料遺失防護 In Exchange Online](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)。
 
 ## <a name="office-365-message-encryption"></a>Office 365 郵件加密
 
@@ -73,7 +73,7 @@ Office 365 郵件加密是 Azure 資訊保護的一部分，是一項線上服�
 |Office 365 郵件加密|是<sup>4</sup>|是|是<sup>4</sup>|
 
 > [!NOTE]
-> <sup>1</sup> EOP 與 Exchange Online 可用的郵件流程規則條件、例外狀況和動作稍有不同。 在 exchange Online 中和[郵件流程規則動作的](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)[郵件流程規則條件和例外狀況) 中](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)，會記下這些差異 (述詞。 <br/>
+> <sup>1</sup> EOP 與 Exchange Online 可用的郵件流程規則條件、例外狀況和動作稍有不同。 在 exchange Online 中和[郵件流程規則動作的](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)[郵件流程規則條件和例外狀況) 中](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)，會記下這些差異 (述詞。 <br/>
 > <sup>2</sup> EOP 稽核報告是 Exchange Online 稽核報告的子集，但不包括信箱的相關資訊。 <br/>
 > <sup>3</sup> DLP 原則祕訣不適用於 Exchange Enterprise CAL with Services 客戶。 <br/>
 > <sup>4</sup> 對於購買 Azure 資訊保護附加元件和使用 Exchange online Protection 透過 exchange online 路由電子郵件的內部部署客戶提供支援。 針對桌面體驗，除了 Azure 資訊保護附加元件之外，還需要購買適用于企業的 Microsoft 365 應用程式。 <br/>

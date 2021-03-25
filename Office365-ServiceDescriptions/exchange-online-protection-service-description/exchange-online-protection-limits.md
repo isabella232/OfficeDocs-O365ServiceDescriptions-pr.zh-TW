@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Exchange Online Protection 目前已存在下列限制。 除非另有指定，否則無法設定這些限制。
-ms.openlocfilehash: 555177349005c275fcbf91a1e70467ebcc25f2be
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 6c399c359d39f50a4bd359833fdf595415872bff
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261488"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173798"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 限制
 
@@ -25,7 +25,7 @@ Exchange Online Protection 目前已存在下列限制。 除非另有指定，�
 > [!TIP]
 > 如需 Exchange Online 中限制的相關資訊，請參閱 [Exchange Online 限制](../exchange-online-service-description/exchange-online-limits.md)。 傳輸規則限制也適用於獨立式 EOP 客戶。 Exchange Online 的收件者流量和郵件流量限制不適用於獨立式 EOP 客戶。 
   
-- **網域限制** -您最多可以針對每個承租人新增900個網域。 子網域可以納入這項 900 個網域的限制內，或者視需要做為 catch-all 選項相符子網域的一部分。 如需詳細資訊，請參閱 [管理 EOP 中公認的網域](https://go.microsoft.com/fwlink/p/?LinkId=282239)。
+- **網域限制** -您最多可以針對每個承租人新增900個網域。 子網域可以納入這項 900 個網域的限制內，或者視需要做為 catch-all 選項相符子網域的一部分。 如需詳細資訊，請參閱 [管理 EOP 中公認的網域](/microsoft-365/security/office-365-security/exchange-online-protection-overview)。
 
 - **遠端網域限制** -您每個租使用者最多可以新增200個遠端網域。
     
@@ -43,7 +43,7 @@ Exchange Online Protection 目前已存在下列限制。 除非另有指定，�
     
 - **使用者垃圾郵件隔離通知** -依預設，如果啟用，則每3天會傳送一次使用者垃圾郵件隔離通知。 可以將它們設定為每隔 1 到 15 天傳送一次。 
     
-- **報告和郵件追蹤限制** -針對報告和郵件追蹤限制，請參閱 [reporting and Message Trace In Exchange Online Protection 中](https://go.microsoft.com/fwlink/?LinkId=394248)的「報告和郵件追蹤資料可用性和延遲」一節。
+- **報告和郵件追蹤限制** -針對報告和郵件追蹤限制，請參閱 [reporting and Message Trace In Exchange Online Protection 中](/microsoft-365/security/office-365-security/reporting-and-message-trace-in-exchange-online-protection)的「報告和郵件追蹤資料可用性和延遲」一節。
     
 ### <a name="limits-across-eop-options"></a>不同 EOP 選項的限制
 
@@ -59,5 +59,3 @@ Exchange Online Protection 目前已存在下列限制。 除非另有指定，�
 |郵件延期限制  <br/> |1天，每15分鐘重試一次  <br/> |1天，每15分鐘重試一次  <br/> |1天，每15分鐘重試一次  <br/> |
 |垃圾郵件隔離保留期限  <br/> |預設為30天，但可降低  <br/> |預設為30天，但可降低  <br/> |預設為30天，但可降低  <br/> |
 |使用者垃圾郵件隔離通知  <br/> |預設為 3 天，可設定為 1 到 15 天  <br/> |預設為 3 天，可設定為 1 到 15 天  <br/> |預設為 3 天，可設定為 1 到 15 天  <br/> |
-   
-

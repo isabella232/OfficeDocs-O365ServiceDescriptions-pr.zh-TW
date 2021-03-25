@@ -9,18 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 深入瞭解美國政府雲端客戶的 OneDrive 功能可用性。
-ms.openlocfilehash: 0094edfed04bd6c8195d6ede2cf611c9b5420541
-ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
+ms.openlocfilehash: 66e3e45ccd15d0486370c2f4049648fdbb0e01c5
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49624534"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172938"
 ---
 # <a name="onedrive-for-us-government-environments"></a>適用于美國政府環境的 OneDrive
 
-本文概要說明美國政府雲端與商業性雲端之間的功能差異，如 [OneDrive 服務說明](/office365/servicedescriptions/onedrive-for-business-service-description)所示。 OneDrive 可用於政府社區雲端 (GCC) 、GCC High 及 DoD 環境。 
+本文概要說明美國政府雲端與商業性雲端之間的功能差異，如 [OneDrive 服務說明](../../onedrive-for-business-service-description.md)所示。 OneDrive 可用於政府社區雲端 (GCC) 、GCC High 及 DoD 環境。 
 
-如需政府雲端（包括資格和購買）的詳細資訊，請參閱 [Microsoft 365 政府-如何購買](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)。 若要比較 Office 365 政府方案，請參閱 [office 365 政府方案](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
+如需政府雲端（包括資格和購買）的詳細資訊，請參閱 [Microsoft 365 政府-如何購買](./microsoft-365-government-how-to-buy.md)。 若要比較 Office 365 政府方案，請參閱 [office 365 政府方案](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
 
 若要深入瞭解管理網路連線時所需的端點，請參閱 [office 365 美國政府版高端點](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) 或 [Office 365 美國政府 DoD 端點](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)。
 
@@ -35,7 +35,7 @@ ms.locfileid: "49624534"
 
 ## <a name="sharing-features"></a>共用功能
 
-如需商業雲端和政府雲端環境之間的功能差異，請參閱檔案 [共用](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing)。
+如需商業雲端和政府雲端環境之間的功能差異，請參閱檔案 [共用](./gcc-high-and-dod.md#file-sharing)。
 
 ## <a name="web-features"></a>Web 功能
 
@@ -59,5 +59,3 @@ ms.locfileid: "49624534"
 ## <a name="security-compliance-and-administration-features"></a>安全性、規範和管理功能
 
 如需商業雲端和政府雲端環境之間的功能差異，請參閱 [適用于美國政府環境的 SharePoint](sharepoint.md)
-
-

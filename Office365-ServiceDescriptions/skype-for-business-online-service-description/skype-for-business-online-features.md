@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 如果您是系統管理員，您可以在設定商務用 Skype Online 中，找到設定商務用 Skype Online 功能的詳細指示。
-ms.openlocfilehash: 0ed4c057ba8421a14a4848993159587506abeeac
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
+ms.openlocfilehash: 079a4c24ee2abcb9af96cac0cd3336d3110eaa52
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572699"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172668"
 ---
 # <a name="skype-for-business-online-features"></a>商務用 Skype Online 功能
 
@@ -29,7 +29,7 @@ ms.locfileid: "50572699"
     
 - 若要瞭解行動裝置上的商務用 Skype 選項，請參閱在行動 [裝置上安裝商務用 skype](https://go.microsoft.com/fwlink/?linkid=847564)。
     
-- 如需商務用 Skype 桌面和網頁用戶端的詳細比較，請參閱 [商務用 Skype Online 用戶端比較表](https://go.microsoft.com/fwlink/?linkid=829754)。 如需商務用 Skype mobile 用戶端的詳細比較，請參閱行動 [用戶端比較表](https://go.microsoft.com/fwlink/?linkid=846932)。
+- 如需商務用 Skype 桌面和網頁用戶端的詳細比較，請參閱 [商務用 Skype Online 用戶端比較表](/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison)。 如需商務用 Skype mobile 用戶端的詳細比較，請參閱行動 [用戶端比較表](/skypeforbusiness/plan-your-deployment/clients-and-devices/mobile-feature-comparison)。
     
 若要為您的行動裝置、電腦或 Mac 下載用戶端，請移至 [所有裝置上的下載商務用 Skype](https://go.microsoft.com/fwlink/?linkid=846929)。
   
@@ -57,7 +57,7 @@ ms.locfileid: "50572699"
 
 商務用 skype external connectivity (同盟) 可讓商務用 skype 使用者與其他組織中使用商務用 Skype 的使用者，以及主控其專屬商務用 Skype 伺服器的使用者。 同盟連絡人可看見顯示狀態、使用 IM 溝通，以及進行「Skype 對 Skype」的音訊與視訊通話。 在使用存取 Proxy 伺服器的 IM 系統之間所進行的所有同盟通訊，均已進行加密。 當郵件傳遞至同盟協力廠商的商務用 Skype 伺服器或協力廠商網路) 時，Microsoft 不會控制將郵件傳遞至同盟夥伴的網路 (後的加密。
   
-商務用 Skype 外部連線性需要同意和正確設定同盟關聯的雙方。 雙方管理員設定同盟後，每個組織中的使用者便可看到目前狀態，並與其他組織中的使用者進行通訊。 同盟只在其他商務用 Skype 環境之間支援，且具有適當設定的 Access Proxy 或 Edge server。 若要深入瞭解 Edge server 設定，請參閱 [Lync server 2013 中的外部使用者存取所需的元件](https://docs.microsoft.com/lyncserver/lync-server-2013-components-required-for-external-user-access)。
+商務用 Skype 外部連線性需要同意和正確設定同盟關聯的雙方。 雙方管理員設定同盟後，每個組織中的使用者便可看到目前狀態，並與其他組織中的使用者進行通訊。 同盟只在其他商務用 Skype 環境之間支援，且具有適當設定的 Access Proxy 或 Edge server。 若要深入瞭解 Edge server 設定，請參閱 [Lync server 2013 中的外部使用者存取所需的元件](/lyncserver/lync-server-2013-components-required-for-external-user-access)。
   
 ## <a name="skype-for-business-online-meetings"></a>Skype 商務線上會議
 
@@ -112,15 +112,15 @@ Microsoft 流量 (會使用傳輸層安全性 (TLS) 通訊協定) 加密信號�
 
 音訊會議是指至少一位參與者使用電話撥入音訊部分的任何會議。 使用電話來存取會議的功能，適用于旅行中的使用者，或是無法使用行動裝置或電腦參加會議。 在其他情況下，使用電話也可以是較佳的選項，例如，當 internet 連線能力有限或會議只是音訊時。
   
-透過音訊會議，組織中的使用者可以主持或建立包含撥入電話號碼的會議。 接下來，來電者可以使用這些電話號碼，使用電話撥入會議 (使用者只會在會議中取得音訊，而不會取得立即訊息、共用桌面或檔案) 中共用的檔案。 您只需要為計畫排程或領導會議的使用者設定電話撥入式會議。 除非召集人已鎖定會議，否則具有撥入號碼和會議識別碼的任何人都可以加入會議。 如需詳細資訊，請參閱音訊 [會議的快速](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) 入門和電話 [撥入號碼（適用于音訊會議](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)）。
+透過音訊會議，組織中的使用者可以主持或建立包含撥入電話號碼的會議。 接下來，來電者可以使用這些電話號碼，使用電話撥入會議 (使用者只會在會議中取得音訊，而不會取得立即訊息、共用桌面或檔案) 中共用的檔案。 您只需要為計畫排程或領導會議的使用者設定電話撥入式會議。 除非召集人已鎖定會議，否則具有撥入號碼和會議識別碼的任何人都可以加入會議。 如需詳細資訊，請參閱音訊 [會議的快速](/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json) 入門和電話 [撥入號碼（適用于音訊會議](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)）。
   
 您可以使用 Microsoft 做為電話撥入式會議提供者，或使用協力廠商的電話撥入式會議提供者 (也稱為音訊會議提供者，或 ACP) 來啟用電話撥入式會議。
   
-所有國家或地區皆無法使用音訊會議。 如需您可以在其中購買音訊會議之國家或地區的清單，請參閱您可以在 [何處取得音訊會議？](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409)。
+所有國家或地區皆無法使用音訊會議。 如需您可以在其中購買音訊會議之國家或地區的清單，請參閱您可以在 [何處取得音訊會議？](/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json)。
   
 ## <a name="calling-plans"></a>通話方案
 
-商務用 Skype 包含在公用交換電話網路 (PSTN) 上找到的呼叫功能。 通話方案是 [電話系統](https://docs.microsoft.com/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-features#phone-system-in-office-365) 的附加元件，可讓您搜尋、取得及指派電話號碼給組織中的使用者，以便他們可以直接從 Office 365 撥打和接聽來自組織內部和外部人員的來電。 獲指派電話號碼的使用者可以撥打所有商務用 Skype 裝置的語音通話，包括 VoIP 電話、電腦和行動裝置。 他們也可以透過靜音/取消靜音、保留/繼續、來電轉接及來電轉接功能來控制來電，並在必要時撥打緊急電話。 
+商務用 Skype 包含在公用交換電話網路 (PSTN) 上找到的呼叫功能。 通話方案是 [電話系統](#phone-system-in-office-365) 的附加元件，可讓您搜尋、取得及指派電話號碼給組織中的使用者，以便他們可以直接從 Office 365 撥打和接聽來自組織內部和外部人員的來電。 獲指派電話號碼的使用者可以撥打所有商務用 Skype 裝置的語音通話，包括 VoIP 電話、電腦和行動裝置。 他們也可以透過靜音/取消靜音、保留/繼續、來電轉接及來電轉接功能來控制來電，並在必要時撥打緊急電話。 
   
 如需可用通話方案的詳細資訊，請移至 [Office 365 的通話方案](https://products.office.com/skype-for-business/pstn-calling-plans)。 如需詳細資訊以及設定通話方案，請參閱哪一種 [通話方案最適合您？](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是一種靈活的線上方案，可用於專案產品群組管理 (PPM) 和日常工作。 透過 Office 365 傳遞，Project Online 可提供強大的專案管理功能，以用於規劃、排定專案與專案組合的投資，甚至幾乎任何裝置上幾乎都沒有任何地方。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: 961aa648ccd5cf0f143016baddf659ae9d5082b4
-ms.sourcegitcommit: 188932c7600cb860db47a1046b5f7d0f6f078502
+ms.openlocfilehash: 448ca9c170e1969f0bdf430064e5df1d8e5b45c3
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "49905146"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172678"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -190,7 +190,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以最符合貴組織�
 |使用者管理 | 管理專案、小組和組織層級的使用者和群組角色和許可權。 | 否 | 是 |
 |服務管理 | 規劃、安裝及設定、維護和擴充您的 Microsoft Project 環境做為 Office 365<sup>1</sup> 環境的一部分。 | 否 | 是 |
 
-#### <a name="notes"></a>注意事項
+#### <a name="notes"></a>附註
 
 <sup>1</sup> 需要 Office 或 Microsoft 365 商務版訂閱。</br>
 <sup>2</sup> 獨立購買 Azure 板卡。</br>
@@ -242,7 +242,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以最符合貴組織�
 |排序和群組 | 使用自訂排序和群組可取得專案、任務和資源的焦點視圖。|
 |**自訂和整合**||
 |自訂欄位 | 在專案、任務及資源層級新增自訂欄位，以追蹤對您的組織及專案非常重要的資料。 |
-|Forms | 建立及部署自訂表單，以捕獲重要的專案資料。 |
+|表單 | 建立及部署自訂表單，以捕獲重要的專案資料。 |
 |公式 | 使用跨任務和專案的公式，計算及捕獲重要的資料。 |
 |範本 | 建立常見專案（包括專案計劃、小組和工作分派）的範本。 |
 |mpp 匯入/匯出 | 從現有的 mpp 檔案建立新專案，或建立現有專案的 mpp 檔案。 |
@@ -285,7 +285,7 @@ Web 的專案需要使用 Microsoft Dataverse 儲存其資料。 Microsoft Datav
 
 ### <a name="data-backup-and-retention"></a>資料備份和保留
 
-Web 和 Project Online 的專案都具有與 Office 365 相同的資料備份和保留原則。 如需詳細資訊，請參閱 [Office 365 中的資料保留、刪除及銷毀](https://docs.microsoft.com/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview)。
+Web 和 Project Online 的專案都具有與 Office 365 相同的資料備份和保留原則。 如需詳細資訊，請參閱 [Office 365 中的資料保留、刪除及銷毀](/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview)。
 
 ### <a name="project-for-the-web-boundaries-and-limitations"></a>Web 界限和限制的專案
 

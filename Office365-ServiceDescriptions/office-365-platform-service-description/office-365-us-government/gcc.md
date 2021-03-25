@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 為了符合美國聯邦、State、Local 和部落政府的獨特和不斷演變的需求，以及承包商代表美國政府持有或處理資料，Microsoft 提供 Office 365 美國政府社區 (GCC) 服務。 可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 試用版目前僅供美國政府實體使用。
-ms.openlocfilehash: 5c6c139272b4c13a91894174986b55cd993b2e54
-ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
+ms.openlocfilehash: 0c283631baa613e83619efff4423609ae8a3a59f
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "48818653"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173038"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -59,6 +59,6 @@ Office 365 人員並未存取 Office 365 政府版 GCC 環境中所主控的客�
   
 ## <a name="office-365-government-gcc-customer-support"></a>Office 365 政府版 GCC 客戶支援
 
-Office 365 GCC 客戶支援提供與 [全球版本的 Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/support)相同的條款及條件，包括不支援代理程式實體位置或公民保證。 Office 365 GCC 會搭配 Azure Public 雲端運作，這在下列[條款與條件](https://azure.microsoft.com/support/plans/)下支援。
+Office 365 GCC 客戶支援提供與 [全球版本的 Office 365](../support.md)相同的條款及條件，包括不支援代理程式實體位置或公民保證。 Office 365 GCC 會搭配 Azure Public 雲端運作，這在下列[條款與條件](https://azure.microsoft.com/support/plans/)下支援。
 
 Microsoft 會提醒您不要以支援人員身分共用任何受控制、機密或機密的資訊，使其成為 Office 365 GCC 相關支援事件的一部分，直到您確認他們的授權可以查看或存取這類資料為止。 Microsoft 致力於 [保護您的隱私權](https://privacy.microsoft.com/privacystatement)。 Office 365 GCC 客戶支援並未包含在服務資格鑒定界限內，也不會提供 FedRAMP、SRG、ITAR、IRS 1075 或 CJIS 資料處理和/或法規遵從性的保證。

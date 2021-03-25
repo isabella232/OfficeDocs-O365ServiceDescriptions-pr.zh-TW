@@ -1,5 +1,5 @@
 ---
-title: SharePoint Syntex 服務說明
+title: SharePoint Syntex 服務描述 (部分機器翻譯)
 ms.author: office365servicedesc
 author: pamelaar
 ms.audience: ITPro
@@ -7,14 +7,14 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 365 中的 SharePoint Syntex 使用高級人工智慧 (AI) 和加工教學，以 amplify 人力專業知識、自動化內容處理，以及將內容轉換為知識。
-ms.openlocfilehash: 938e00a49080885c8a15722adf368397b91dc5fb
-ms.sourcegitcommit: fa262c8ada1b545e124b91b184911028e1c50f65
+ms.openlocfilehash: 76da52c2a7021ca0bc48272f8983401da39b4136
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "50084726"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174088"
 ---
-# <a name="sharepoint-syntex-service-description"></a>SharePoint Syntex 服務說明 
+# <a name="sharepoint-syntex-service-description"></a>SharePoint Syntex 服務描述 (部分機器翻譯) 
 
 Microsoft 365 中的 SharePoint Syntex 使用高級人工智慧 (AI) 和加工教學，以 amplify 人力專業知識、自動化內容處理，以及將內容轉換為知識。
 
@@ -30,7 +30,7 @@ Syntex 可透過多個訂閱計畫取得，以符合組織的需求。 每個計
 
 針對 Microsoft PowerApps AI 產生器表單處理，具有300或更多授權使用者 Syntex 的承租人將每月收到 1M AI 產生器學分，以及存取 Microsoft Dataverse。 每個租使用者（而不是依據使用者）分配這些信用，所以不會隨著使用者數目的增加而擴大。
 
-下表顯示可以新增 Syntex 的方案。 如需其他計畫詳細資料，請參閱 [Microsoft 365 和 Office 365 方案選項](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)。<br><br>
+下表顯示可以新增 Syntex 的方案。 如需其他計畫詳細資料，請參閱 [Microsoft 365 和 Office 365 方案選項](../office-365-platform-service-description/office-365-plan-options.md)。<br><br>
 
 
 | 小型企業方案            | 企業方案         | 教育計畫     |
@@ -55,7 +55,7 @@ Syntex 可透過多個訂閱計畫取得，以符合組織的需求。 每個計
 |--|--|--|--|
 | [Syntex 內容中心](sharepoint-syntex-features.md#syntex-content-center) | 是 | 是 | 是 |
 | [物件識別](sharepoint-syntex-features.md#object-recognition) | 是 | 是 | 是 |
-| [檔瞭解](sharepoint-syntex-features.md#document-understanding) | 是 | 是 | 是 |
+| [文件瞭解](sharepoint-syntex-features.md#document-understanding) | 是 | 是 | 是 |
 | [表單處理](sharepoint-syntex-features.md#form-processing) | 是 | 是 | 是 |
 | [Microsoft Graph 內容連接器](sharepoint-syntex-features.md#microsoft-graph-content-connectors) | 是 | 是 | 是 |
 | [高級分類法服務](sharepoint-syntex-features.md#advanced-taxonomy-services) | 是 | 是 | 是 |

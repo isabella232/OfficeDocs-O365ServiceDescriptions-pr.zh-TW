@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: 本文說明可自訂 Exchange Online 設定並保持組織的 Exchange Online 環境為已啟動、執行及目前狀態的管理控制和支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
-ms.openlocfilehash: 19ec50b3f502ee111de05e1a115d17f16fec3569
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 169752df12564131e4b5fb0f95b94f62273cd5ff
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132998"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173668"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 設定與管理
 
@@ -44,19 +44,19 @@ ms.locfileid: "45132998"
   
 ### <a name="microsoft-365-admin-center"></a>Microsoft 365 系統管理中心
 
-Microsoft 365 系統管理中心是一個網頁入口網站，每個公司的服務管理員可以從該入口網站管理每個訂閱的 Microsoft 服務的使用者帳戶和設定。 在 Microsoft 365 系統管理中心內，管理員可以追蹤 Exchange 系統管理中心（EAC）的連結，以便在其中管理 Exchange Online 特有的設定。 如需使用 Microsoft 365 系統管理中心開始及執行的詳細資訊，請參閱下列影片： [Office 365 Enterprise 簡介](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
+Microsoft 365 系統管理中心是一個網頁入口網站，每個公司的服務管理員可以從該入口網站管理每個訂閱的 Microsoft 服務的使用者帳戶和設定。 在 Microsoft 365 系統管理中心內，管理員可以追蹤 Exchange 系統管理中心的連結 (EAC) ，可在其中管理 Exchange Online 的特定設定。 如需使用 Microsoft 365 系統管理中心開始及執行的詳細資訊，請參閱下列影片： [Office 365 Enterprise 簡介](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
   
 ### <a name="exchange-admin-center"></a>Exchange 系統管理中心
 
 Exchange Online 提供單一整合的管理主控台，讓使用者更方便使用且最佳化內部部署、線上或混合部署的管理。Exchange 系統管理中心 (EAC) 是管理員管理 Exchange 專屬設定的地方。
   
-如需有關如何使用 EAC 管理 Exchange Online 的詳細資訊，請參閱 [Exchange 系統管理中心](https://go.microsoft.com/fwlink/p/?LinkId=271807)。
+如需有關如何使用 EAC 管理 Exchange Online 的詳細資訊，請參閱 [Exchange 系統管理中心](/exchange/exchange-admin-center)。
   
 ### <a name="remote-windows-powershell-for-exchange-online"></a>Exchange Online 的遠端 Windows PowerShell
 
-管理員可以使用遠端 Windows PowerShell 連線至 Exchange Online，以執行使用 EAC 無法提供或無法實際執行的管理工作。這些包括能夠自動執行重複性工作、擷取用於自訂報告的資料、自訂原則，以及連線 Exchange Online 至現有基礎結構和程序。如需詳細資訊，請參閱[使用遠端 PowerShell 連線到 Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=308994)。
+管理員可以使用遠端 Windows PowerShell 連線至 Exchange Online，以執行使用 EAC 無法提供或無法實際執行的管理工作。這些包括能夠自動執行重複性工作、擷取用於自訂報告的資料、自訂原則，以及連線 Exchange Online 至現有基礎結構和程序。如需詳細資訊，請參閱[使用遠端 PowerShell 連線到 Exchange Online](/powershell/exchange/connect-to-exchange-online-powershell)。
   
-Exchange Online 使用的 Windows PowerShell cmdlet 與 Exchange Server 2013 相同，但某些命令和參數無法使用，因為在 Exchange Online 中這些功能並不適用。如需可與 Exchange Online 搭配使用的 Cmdlet 清單，請參閱 [Exchange Online Cmdlet](https://go.microsoft.com/fwlink/p/?LinkId=271808)。
+Exchange Online 使用的 Windows PowerShell cmdlet 與 Exchange Server 2013 相同，但某些命令和參數無法使用，因為在 Exchange Online 中這些功能並不適用。如需可與 Exchange Online 搭配使用的 Cmdlet 清單，請參閱 [Exchange Online Cmdlet](/powershell/exchange/exchange-online-powershell)。
   
 系統管理員無須安裝任何 Exchange Server 管理或移轉工具，即可使用遠端 Windows PowerShell。不過，系統管理員的電腦必須執行 Windows Management Framework 3.0 (其包含 Windows PowerShell v3 和 WinRM 3.0) 以及 Windows .NET Framework 4.5。執行 Windows 8 或 Windows Server 2012 的電腦上已安裝有這些元件。系統管理員可針對執行 Windows 7 或 Windows Server 2008 R2 的電腦，手動下載這些元件。
   
@@ -73,7 +73,7 @@ Exchange Online 針對行動裝置所支援的 ActiveSync 原則與 Exchange Ser
   
 ### <a name="message-tracking-for-exchange-online"></a>Exchange Online 的郵件追蹤
 
-透過「傳遞回報」功能進行的郵件追蹤會在下列主題中說明：[報告功能和疑難排解工具](reporting-features-and-troubleshooting-tools.md)。
+透過「傳遞回報」功能進行的郵件追蹤會在下列主題中說明： [報告功能和疑難排解工具](reporting-features-and-troubleshooting-tools.md)。
   
 ### <a name="usage-reporting-for-exchange-online"></a>Exchange Online 的使用報告
 
@@ -87,11 +87,11 @@ Exchange Online 針對行動裝置所支援的 ActiveSync 原則與 Exchange Ser
     
 開頭為「get-」的遠端 Windows PowerShell Cmdlet 可以從 Exchange Online 系統擷取資料。系統管理員可以透過 Windows PowerShell 以 .csv 格式匯出此資訊，以進行進階分析或報告。
   
-如需有關可與 Exchange Online 搭配使用的 Windows PowerShell Cmdlet 的詳細資訊，請參閱 [Exchange Online Cmdlet](https://go.microsoft.com/fwlink/p/?LinkId=271808)。
+如需有關可與 Exchange Online 搭配使用的 Windows PowerShell Cmdlet 的詳細資訊，請參閱 [Exchange Online Cmdlet](/powershell/exchange/exchange-online-powershell)。
   
 ### <a name="auditing-for-exchange-online"></a>Exchange Online 的稽核
 
-下列主題說明「審核記錄」功能：[報告功能和疑難排解工具](reporting-features-and-troubleshooting-tools.md)。
+下列主題說明「審核記錄」功能： [報告功能和疑難排解工具](reporting-features-and-troubleshooting-tools.md)。
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Exchange Online 的服務和產品升級
 
@@ -101,5 +101,4 @@ Exchange Online 客戶享有定期升級至最新 Exchange 技術的權益，包
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 服務說明](exchange-online-service-description.md)。
-  
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Exchange Online 服務說明](exchange-online-service-description.md)。
