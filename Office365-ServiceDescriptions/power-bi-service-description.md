@@ -11,12 +11,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI 是雲端架構的業務分析工具套件，讓任何人都能夠以更快的速度、更快的速度及更深入的方式，進行資料的連線、視覺化及分析。 該服務透過方便使用的儀表板將使用者連結到廣泛的即時資料、提供互動式報表與無可比擬的的視覺化效果，讓資料栩栩如生。
-ms.openlocfilehash: 6cc1968764a2aa21c471ce139fcf7870f356f2b5
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 5b676088256645db856a6bff70e11c6c2a256a82
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901978"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215872"
 ---
 # <a name="power-bi-service-description"></a>Power BI 服務說明
 
@@ -28,7 +28,7 @@ Power BI 是雲端架構的業務分析工具套件，讓任何人都能夠以�
 
 下表顯示包含 Power BI 的計畫，以便您可以選擇最符合組織需求的解決方案。 如需詳細的計畫資訊，請參閱 [強大的工具來支援您的企業](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans)。
 
-如需可為使用者提供 Power BI 之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
+如需可為使用者提供 Power BI 之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
  
 ## <a name="power-bi-plans"></a>Power BI 方案
 

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: 請閱讀本文以瞭解 Microsoft Exchange Online 封存。
-ms.openlocfilehash: 0b0a3baed41ba416f80933181a8aedbd22847b95
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 374076fa79ca021d75ebd2375511579be5ae49dc
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173368"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215766"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online 封存服務說明
 
@@ -30,7 +30,7 @@ Microsoft Exchange Online 封存是 Microsoft 365 雲端型企業級封存解決
   
 ## <a name="available-plans"></a>可用計畫
 
-如需可讓使用者進行 Exchange Online 封存之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
+如需可讓使用者進行 Exchange Online 封存之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
 > [!TIP]
 > 您可以匯出、儲存及列印服務描述中的頁面。 瞭解如何 [匯出內容搜尋結果](/office365/securitycompliance/export-search-results)。 

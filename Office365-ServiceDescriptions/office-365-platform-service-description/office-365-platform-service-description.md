@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組織的需求。 如果您正在尋找方案（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
-ms.openlocfilehash: f94076fc71861bc797b9b67bfd9dca670db1f22f
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 219bda9792a2b3c0fd8941b6ed4949f84a514ff9
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174008"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215852"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服務說明
 
@@ -26,7 +26,7 @@ Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組
   
 Microsoft 365 和 Office 365 可將雲端生產力的功能提供給各種規模的企業，協助節約時間、金錢，並釋放價值資源。 Microsoft 365 和 Office 365 方案將熟悉的 Microsoft Office 桌面套件與雲端架構版本的 Microsoft 新一代通訊和共同作業服務（包括 Microsoft Exchange Online、Microsoft SharePoint Online、web Office）和 Microsoft 商務用 Skype Online 結合在一起，以協助使用者從幾乎任何地方透過網際網路進行生產力。
   
-如需啟用 Microsoft 365 和 Office 365 平臺之使用者之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。 如需更詳細的功能清單，請參閱 [Microsoft 365 和 Office 365 服務說明](../office-365-service-descriptions-technet-library.md)底下的相關服務說明。
+如需啟用 Microsoft 365 和 Office 365 平臺之使用者之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。 如需更詳細的功能清單，請參閱 [Microsoft 365 和 Office 365 服務說明](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)底下的相關服務說明。
   
 - 如需 Office 365 教育方案的詳細資訊，請從 [Office 365 教育](office-365-education.md) 版頁面開始。 
     

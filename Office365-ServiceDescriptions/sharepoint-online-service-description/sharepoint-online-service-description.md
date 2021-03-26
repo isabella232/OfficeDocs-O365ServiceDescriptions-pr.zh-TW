@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 請參閱哪些 SharePoint 功能可用於哪些方案。
-ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: a109b6f0eb83757b703dbe934301c55d1a3096e6
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174098"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215736"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服務描述
 
@@ -30,7 +30,7 @@ Microsoft 365 中的 SharePoint 可協助組織共用及管理內容、知識及
 
 如需快速概觀，請參閱[什麼是 SharePoint？](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-如需可讓使用者 SharePoint 之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。 如需 Microsoft 365 的系統需求，請參閱 [microsoft 365 和 Office 資源](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)。
+如需可讓使用者 SharePoint 之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。 如需 Microsoft 365 的系統需求，請參閱 [microsoft 365 和 Office 資源](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)。
 
 若要深入瞭解我們政府雲端客戶的 SharePoint 功能差異，請參閱 [SharePoint FOR us 政府環境](../office-365-platform-service-description/office-365-us-government/sharepoint.md)。
   
@@ -81,7 +81,7 @@ Microsoft 365 中的 OneDrive 是為組織內的個別使用者提供線上存�
 
 若要深入瞭解 Microsoft Power Apps 和 Power availability 的可用性，請參閱 [Power app 及 power availability FAQs 的授權](/power-platform/admin/powerapps-flow-licensing-faq)。
 
-若要深入瞭解 Microsoft Graph 的可用性，請參閱 [microsoft 365 和 Office 365 平臺服務說明](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans)。
+若要深入瞭解 Microsoft Graph 的可用性，請參閱 [microsoft 365 和 Office 365 平臺服務說明](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)。
 
 ## <a name="it-admin-features"></a>IT 系統管理功能
 

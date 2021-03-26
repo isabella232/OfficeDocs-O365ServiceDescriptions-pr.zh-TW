@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是一種靈活的線上方案，可用於專案產品群組管理 (PPM) 和日常工作。 透過 Office 365 傳遞，Project Online 可提供強大的專案管理功能，以用於規劃、排定專案與專案組合的投資，甚至幾乎任何裝置上幾乎都沒有任何地方。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: 448ca9c170e1969f0bdf430064e5df1d8e5b45c3
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: e5b893190a0cdd0335962b3a7bd9109f9fd393cc
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172678"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215806"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -57,7 +57,7 @@ Project Online 的小組成員功能可透過 Project Online 基本版或 Projec
 - 提交時程表
 - 共用檔，並與 Microsoft 團隊或商務用 Skype 使用者共同作業
 
-Project Online 基本版不包含 web 的專案。 專案計劃1包含用於 web 的專案。
+Project Online 基本版不包含 web 的專案。 專案方案1包含 web 和 Project Online 基本版的兩個專案。
 
 ### <a name="project-online-desktop-client"></a>Project Online 桌面用戶端
 
@@ -128,7 +128,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以最符合貴組織�
 
 ### <a name="project-online-features"></a>Project Online 功能
 
-本節中所列的功能只會與 Project Online SharePoint 資料儲存區中的資料互動。<br><br>
+本節中所列的功能只會與 Project Online SharePoint 資料儲存區中的資料互動。 具有 Project Online 基本版或 Project 方案1的小組成員訂閱可以執行某些 Project Online 功能。 如需詳細資訊，請參閱 [Microsoft Project service description-服務說明 |Microsoft](https://docs.microsoft.com/office365/servicedescriptions/project-online-service-description/project-online-service-description#project-online)檔。<br><br>
 
 |功能 | 描述 | 專案計劃3 | 專案方案5 |
 |--------|-------------|-----------------------------|------------------------|

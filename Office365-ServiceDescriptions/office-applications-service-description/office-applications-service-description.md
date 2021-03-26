@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 是一項訂閱服務，可為您提供您已熟悉的最新版 Office 桌面應用程式，例如 Word、Excel 及 PowerPoint。
-ms.openlocfilehash: 405308fe734be548bcbb8fb98204467c5e50fcf7
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 8f2898ac3668f9ec1868d3c99d5ef04567d7c6f5
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173898"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215756"
 ---
 # <a name="office-applications-service-description"></a>Office 應用程式服務說明
 
@@ -28,7 +28,7 @@ Microsoft 365 是一項訂閱服務，可為您提供您已熟悉的最新版 Of
   
 Office 應用程式有 32 位元和 64 位元版本可供使用。
   
-如需可讓使用者使用 Office 應用程式服務說明的詳細計畫資訊，請參閱 [完整訂閱比較表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
+如需可讓使用者使用 Office 應用程式服務說明的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
 ## <a name="feature-availability-across-plans"></a>不同方案中可用的功能
 
