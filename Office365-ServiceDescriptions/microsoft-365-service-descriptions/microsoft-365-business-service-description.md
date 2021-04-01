@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務版是整合式解決方案，利用高級安全性和裝置管理功能，將一流的生產力整合在一起，以協助保護您的企業。 此服務描述說明方案選項及功能。
-ms.openlocfilehash: 1103836d01e162d3e4ccf497363294953606b0eb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: bbd797a777ca6126ad74be3386ca0897fc882e6f
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173538"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484816"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 商務進階版服務描述
 
@@ -43,7 +43,7 @@ Microsoft 365 商務版基本上包含 Microsoft 365 商務標準中所有可用
 |Microsoft Stream  <br/> |是<sup>6</sup>  <br/> |是<sup>6</sup>  <br/> |
 |[Microsoft 365 管理](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Microsoft 365 商務標準版** <br/> |**Microsoft 365 商務進階版** <br/> |
 |Azure AD Connect sync 工具<br/> |是  <br/> |是  <br/> |
-|共用電腦啟用 <br/> |否 <br/> |是  <br/> |
+|[共用電腦啟用](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation) <br/> |否 <br/> |是  <br/> |
 |[郵件原則及合規性](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Microsoft 365 商務標準版** <br/> |**Microsoft 365 商務進階版** <br/> |
 |以 Exchange Online 為基礎的信箱長期封存  <br/> |否  <br/> |是<sup>3</sup> <br/> |
 |Azure 資訊保護方案1 |否 <br/>|是<sup>2</sup> </br>|
