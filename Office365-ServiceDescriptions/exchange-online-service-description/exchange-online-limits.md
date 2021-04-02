@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 尋找不同服務區域的 Exchange Online 限制，包括通訊錄限制、信箱儲存限制以及報告與郵件追蹤限制，以上所列僅是其中幾例。
-ms.openlocfilehash: 06017db419d1f62c907e5bd5004d8d2eef2f54c1
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 47f56be9b431b6f2b5e0340291ea6e3d156674d8
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173708"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484836"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -81,7 +81,7 @@ Microsoft Exchange Online 中的限制屬於下列其中一個類別：
 
 ### <a name="address-book-limits"></a>通訊錄限制
 
-| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 企業版 E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
+| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 Enterprise E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |通訊清單限制|1000|1000|1000|1000|1000|1000|
 |離線通訊錄 (OAB) 限制|250|250|250|250|250|250|
@@ -106,7 +106,7 @@ Microsoft Exchange Online 中的限制屬於下列其中一個類別：
 
 ### <a name="storage-limits"></a>儲存限制
 
-| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 企業版 E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
+| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 Enterprise E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |使用者信箱|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
 |封存信箱<sup>7、8</sup>|50 GB|50 GB|50 GB|無限制<sup>1</sup>|Unlimited<sup>1</sup>|無法使用<sup>4</sup>|
@@ -145,7 +145,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 ### <a name="capacity-alerts"></a>容量警示
 
-| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 企業版 E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
+| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 Enterprise E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |警告|49 GB|49 GB|49 GB|98 GB|98 GB|1.96 GB|
 |禁止傳送|49.5 GB|49.5 GB|49.5 GB|99 GB|99 GB|1.98 GB|
@@ -190,7 +190,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 ### <a name="mailbox-folder-limits"></a>信箱資料夾限制
 
-| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 企業版 E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
+| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 Enterprise E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |每一信箱資料夾的郵件數目上限|1 百萬|1 百萬|1 百萬|1 百萬|1 百萬|1 百萬|
 |每一信箱資料夾的郵件數目警告|900,000|900,000|900,000|900,000|900,000|900,000|
@@ -261,7 +261,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 ### <a name="message-limits"></a>郵件限制
 
-| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 企業版 E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
+| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 Enterprise E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |郵件大小限制 - Outlook|150 MB<sup>1、2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1、2</sup>|
 |郵件大小限制 - OWA|112 MB<sup>1、3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|
@@ -321,9 +321,9 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 ### <a name="receiving-limits"></a>接收限制
 
-接受限制會套用至使用者、群組或公用資料夾每小時能接收的訊息數量。 這會同時套用至從網際網路和內部部署伺服器接收的訊息。 當超過接收限制時，任何傳送到該信箱的電子郵件將會收到未傳遞報告，指出信箱已超過最大傳遞臨界值。 一個小時之後，將會重新整理限制，而信箱就能夠再度接收郵件。
+接受限制會套用至使用者、群組或公用資料夾每小時能 *從任何和所有來源* 接收的訊息數量。 這包括來自內部寄件者的郵件、來自網際網路的郵件和來自內部部署伺服器的郵件。 當信箱超過接收限制時，傳送至信箱的郵件將在未傳遞回報 (也稱為 NDR 或退回的郵件) 中退回給寄件者，說明信箱已超過最大傳遞閾值。 一個小時之後，將會重新整理限制，而信箱就能夠再度接收郵件。
 
-| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 Office | Office 365 企業版 E1 | Office 365 企業版 E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
+| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 Office | Office 365 企業版 E1 | Office 365 Enterprise E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |已接收的訊息|每小時 3,600 封訊息|每小時 3,600 封訊息|每小時 3,600 封訊息|每小時 3,600 封訊息|每小時 3,600 封訊息|每小時 3600 封訊息|
 
@@ -350,7 +350,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 #### <a name="sending-limits"></a>傳送限制
 
-| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 企業版 E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
+| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 Enterprise E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |收件者速率限制<sup>1</sup>|每天 10,000 位收件者|每天 10,000 位收件者|每天 10,000 位收件者|每天 10,000 位收件者|每天 10,000 位收件者|每天 10,000 位收件者|
 |收件者限制<sup>2</sup>|可自訂最多 1000 個收件者|可自訂最多 1000 個收件者|可自訂最多 1000 個收件者|可自訂最多 1000 個收件者|可自訂最多 1000 個收件者|可自訂最多 1000 個收件者|
@@ -369,7 +369,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |收件者流量限制|沒有限制<sup>1</sup>|每天 10,000 位收件者<sup>2</sup>|每天 10,000 位收件者<sup>2</sup>|每天 10,000 位收件者<sup>2</sup>|
 |收件者限制|1000 位收件者<sup>1</sup>|1000 位收件者|1000 位收件者|1000 位收件者|
 |收件者 proxy 位址限制|400|400|400|400|
-|郵件速率限制|每分鐘 30 封郵件|每分鐘 30 封郵件|每分鐘 30 封郵件|每分鐘 30 封郵件|
+|郵件速率限制|無限制|每分鐘 30 封郵件|每分鐘 30 封郵件|每分鐘 30 封郵件|
 
 > [!NOTE]
 > <sup>1</sup> 這是 Exchange Server 2013 組織的預設限制。 系統管理員可以為其組織變更此值。<br/>
@@ -394,7 +394,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 ### <a name="retention-limits"></a>保留限制
 
-| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 企業版 E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
+| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 Enterprise E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[刪除的郵件] 資料夾保留期間|沒有限制<sup>1</sup>|沒有限制<sup>1</sup>|沒有限制<sup>1</sup>|沒有限制<sup>1</sup>|沒有限制<sup>1</sup>|沒有限制<sup>1</sup>|
 |從 [刪除的郵件] 資料夾移除之項目的保留期間|14 天<sup>1</sup>|14 天<sup>1</sup>|14 天<sup>1</sup>|14 天<sup>1</sup>|14 天<sup>1</sup>|14 天<sup>1</sup>|
@@ -426,7 +426,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 ### <a name="distribution-group-limits"></a>通訊群組限制
 
-| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 企業版 E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
+| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 Enterprise E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |通訊群組成員數目上限<sup>1</sup>|100,000 位成員|100,000 位成員|100,000 位成員|100,000 位成員|100,000 位成員|100,000 位成員|
 |傳送郵件給大型通訊群組的限制|5,000 位以上成員|5,000 位以上成員|5,000 位以上成員|5,000 位以上成員|5,000 位以上成員|5,000 位以上成員|
@@ -474,7 +474,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 ### <a name="journal-transport-and-inbox-rule-limits"></a>日誌、傳輸和收件匣規則限制
 
-| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 企業版 E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
+| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 Enterprise E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |日誌規則數目上限|300 條規則|300 條規則|300 條規則|300 條規則|300 條規則|300 條規則|
 |傳輸規則數目上限|300 條規則|300 條規則|300 條規則|300 條規則|300 條規則|300 條規則|
@@ -520,7 +520,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 ### <a name="moderation-limits"></a>仲裁限制
 
-| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 企業版 E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
+| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 Enterprise E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |仲裁信箱的大小上限|10 GB|10GB|10GB|10GB|10GB|10GB|
 |仲裁者人數上限|10 位仲裁者|10 位仲裁者|10 位仲裁者|10 位仲裁者|10 位仲裁者|10 位仲裁者|
@@ -549,7 +549,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 
 ### <a name="exchange-activesync-limits"></a>Exchange ActiveSync 限制
 
-| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 企業版 E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
+| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 Enterprise E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Exchange ActiveSync 裝置限制|100|100|100|100|100|100|
 |Exchange ActiveSync 裝置刪除限制|20|20|20|20|20|20|
