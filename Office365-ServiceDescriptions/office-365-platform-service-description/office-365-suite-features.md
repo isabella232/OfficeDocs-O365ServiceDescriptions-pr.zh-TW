@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主題中所列的功能是網頁式工具的集合，可協助您安全地在許多裝置和多個 Office 365 服務之間共同作業和通訊。 這些功能會協助在您的組織內進行新的連線，方法是整合數位內容建立、儲存及管理與用於在使用者之間探索及分享資訊的社交工具。
-ms.openlocfilehash: fa139fe6a774979a37d6327198ebd6ceec11afdb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: c74505833ab40d29612c710360d3073ea9313cb1
+ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173978"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51599045"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 
@@ -25,12 +25,6 @@ ms.locfileid: "51173978"
 ## <a name="delve"></a>Delve
 
 Delve 可讓使用者根據個人化的觀點，搜尋並探索 Microsoft 365 的內容。 Delve 是 Office Graph 提供的第一個體驗。 若要深入瞭解 Delve，請移至 [何謂 delve？](https://go.microsoft.com/fwlink/?LinkId=511463)。
-
-## <a name="microsoft-bookings"></a>Microsoft Bookings
-
-Microsoft 預約是一種線上及行動應用程式，適用于想要在約會基礎上為客戶提供服務的企業。 這類公司的範例包括頭髮美容、牙科辦事處、spa、法律公司、金融服務提供者、顧問、保健專業人員、教育機構和汽車店。 Microsoft 預約可供美國和加拿大的客戶使用 Microsoft 365 for business 訂閱。
-  
-如需 Microsoft 預約的詳細資訊，請移至 [線上使用 microsoft 預約發佈您的商務行事曆](https://support.office.com/article/47403d64-a067-4754-9ae9-00157244c27d)。
 
 ## <a name="microsoft-briefing-email"></a>Microsoft 簡報電子郵件
 
@@ -69,7 +63,7 @@ Microsoft Planner 是可讓使用者以視覺化方法組織團隊合作事宜�
   
 ## <a name="microsoft-power-apps"></a>Microsoft Power Apps
 
-Microsoft Power Apps 是一種企業服務，可協助您快速建立、整合及共用在任何裝置上運作的應用程式。 電源應用程式可讓您使用內建連線或公司所建立的連線，將應用程式連線至雲端和內部部署服務，包括 Microsoft 365 和 Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle 資料庫等等。 只要輸入電子郵件地址，您就可以輕鬆地與同事共用您的 Power App。 若要深入瞭解，請移至 Microsoft [Power Apps 網站](https://powerapps.microsoft.com/)。
+Microsoft Power Apps 是一種企業服務，可協助您快速建立、整合及共用在任何裝置上運作的應用程式。 電源應用程式可讓您使用內建連線或公司所建立的連線，將應用程式連線至雲端和內部部署服務，包括 Microsoft 365 和 Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle 資料庫等等。 您可以輸入電子郵件地址，輕鬆地與同事共用您的 Power App。 若要深入瞭解，請移至 Microsoft [Power Apps 網站](https://powerapps.microsoft.com/)。
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -77,7 +71,7 @@ Microsoft Stream 是企業的影片服務，貴組織中的人員可使用它來
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-Microsoft Sway 是一種適用于商務用的專業數位 storytelling 應用程式，可協助您和您的同事使用互動式、以 web 為基礎的畫布表達創意。 Microsoft Sway 的內建設計引擎可協助您產生專業、視覺衝擊力的報表、簡報，而且不需要大量的格式或其他訓練。 您也可以修改結果，以取得您想要的獨特外觀和感覺。 Microsoft Sway 可讓您在任何畫面的任何瀏覽器上建立，而且只要傳送連結，就能與同事及客戶共用。 Microsoft Sway 可協助您找出併合並所有種類的內容，而不需離開應用程式，因此您可以將圖像、文字、影片和圖表放在畫布上。 若要深入瞭解，請參閱 [Sway](https://sway.com)。 [Office 365 德國](office-365-germany.md)尚未提供 Microsoft Sway。
+Microsoft Sway 是一種適用于商務用的專業數位 storytelling 應用程式，可協助您和您的同事使用互動式、以 web 為基礎的畫布表達創意。 Microsoft Sway 的內建設計引擎可協助您產生專業、視覺衝擊力的報表、簡報，而且不需要大量的格式或其他訓練。 您也可以修改結果，以取得您想要的獨特外觀和感覺。 Microsoft Sway 可讓您在任何畫面上的任何瀏覽器中建立美觀的外觀，也可以透過傳送連結來與同事和客戶共用。 Microsoft Sway 可協助您找出併合並所有種類的內容，而不需離開應用程式，因此您可以將圖像、文字、影片和圖表放在畫布上。 若要深入瞭解，請參閱 [Sway](https://sway.com)。 [Office 365 德國](office-365-germany.md)尚未提供 Microsoft Sway。
   
 ## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 Apps 企業版
 
