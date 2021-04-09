@@ -2,6 +2,7 @@
 title: 工作管理
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,60 +12,60 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: Project Online 中提供下列任務管理功能。
-ms.openlocfilehash: 803721cda7498c7acf876471ebc679bab5b5a577
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 7fbe93f48d02eb35ab3606d6252d106dedaa8cd6
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131067"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651058"
 ---
-# <a name="task-management"></a><span data-ttu-id="4888c-103">工作管理</span><span class="sxs-lookup"><span data-stu-id="4888c-103">Task management</span></span>
+# <a name="task-management"></a><span data-ttu-id="fc18a-103">工作管理</span><span class="sxs-lookup"><span data-stu-id="fc18a-103">Task management</span></span>
 
-<span data-ttu-id="4888c-104">Project Online 中提供下列任務管理功能。</span><span class="sxs-lookup"><span data-stu-id="4888c-104">The following task management features are available in Project Online.</span></span>
+<span data-ttu-id="fc18a-104">Project Online 中提供下列任務管理功能。</span><span class="sxs-lookup"><span data-stu-id="fc18a-104">The following task management features are available in Project Online.</span></span>
   
-<span data-ttu-id="4888c-105">尋找所有 Project Online 功能的相關資訊嗎？</span><span class="sxs-lookup"><span data-stu-id="4888c-105">Looking for information about all Project Online features?</span></span> <span data-ttu-id="4888c-106">請參閱[Project Online 服務說明](project-online-service-description.md)。</span><span class="sxs-lookup"><span data-stu-id="4888c-106">See the [Project Online service description](project-online-service-description.md).</span></span>
+<span data-ttu-id="fc18a-105">尋找所有 Project Online 功能的相關資訊嗎？</span><span class="sxs-lookup"><span data-stu-id="fc18a-105">Looking for information about all Project Online features?</span></span> <span data-ttu-id="fc18a-106">請參閱 [Project Online 服務說明](project-online-service-description.md)。</span><span class="sxs-lookup"><span data-stu-id="fc18a-106">See the [Project Online service description](project-online-service-description.md).</span></span>
   
-## <a name="active-and-inactive-tasks"></a><span data-ttu-id="4888c-107">Active and inactive tasks</span><span class="sxs-lookup"><span data-stu-id="4888c-107">Active and inactive tasks</span></span>
+## <a name="active-and-inactive-tasks"></a><span data-ttu-id="fc18a-107">Active and inactive tasks</span><span class="sxs-lookup"><span data-stu-id="fc18a-107">Active and inactive tasks</span></span>
 
-<span data-ttu-id="4888c-p102">當您停用任務時，任務會保留在專案計劃內，但不會影響下列項目：資源可用性、專案排程或其他已排程的任務。深入了解[停用任務](https://go.microsoft.com/fwlink/p/?LinkId=271335)。</span><span class="sxs-lookup"><span data-stu-id="4888c-p102">When you inactivate a task, it stays in the project plan but does not affect the following: resource availability, the project schedule, or how other tasks are scheduled. Learn more about [inactivating a task](https://go.microsoft.com/fwlink/p/?LinkId=271335).</span></span>
+<span data-ttu-id="fc18a-p102">當您停用任務時，任務會保留在專案計劃內，但不會影響下列項目：資源可用性、專案排程或其他已排程的任務。深入了解[停用任務](https://go.microsoft.com/fwlink/p/?LinkId=271335)。</span><span class="sxs-lookup"><span data-stu-id="fc18a-p102">When you inactivate a task, it stays in the project plan but does not affect the following: resource availability, the project schedule, or how other tasks are scheduled. Learn more about [inactivating a task](https://go.microsoft.com/fwlink/p/?LinkId=271335).</span></span>
   
-## <a name="auto-complete"></a><span data-ttu-id="4888c-110">自動完成</span><span class="sxs-lookup"><span data-stu-id="4888c-110">Auto-complete</span></span>
+## <a name="auto-complete"></a><span data-ttu-id="fc18a-110">自動完成</span><span class="sxs-lookup"><span data-stu-id="fc18a-110">Auto-complete</span></span>
 
-<span data-ttu-id="4888c-111">鍵入時可取得任務或資源名稱的建議。</span><span class="sxs-lookup"><span data-stu-id="4888c-111">Get suggestions for task or resource names as you type.</span></span> 
+<span data-ttu-id="fc18a-111">鍵入時可取得任務或資源名稱的建議。</span><span class="sxs-lookup"><span data-stu-id="fc18a-111">Get suggestions for task or resource names as you type.</span></span> 
   
-## <a name="automatic-scheduling"></a><span data-ttu-id="4888c-112">自動排程</span><span class="sxs-lookup"><span data-stu-id="4888c-112">Automatic scheduling</span></span>
+## <a name="automatic-scheduling"></a><span data-ttu-id="fc18a-112">自動排程</span><span class="sxs-lookup"><span data-stu-id="fc18a-112">Automatic scheduling</span></span>
 
-<span data-ttu-id="4888c-113">使用 [自動排程] 模式，來自動排程任務。</span><span class="sxs-lookup"><span data-stu-id="4888c-113">Use Auto Schedule mode to schedule your tasks automatically.</span></span> <span data-ttu-id="4888c-114">深入了解 [Project 如何排程任務](https://go.microsoft.com/fwlink/p/?LinkId=271331)。</span><span class="sxs-lookup"><span data-stu-id="4888c-114">Learn more about [how Project schedules tasks](https://go.microsoft.com/fwlink/p/?LinkId=271331).</span></span> 
+<span data-ttu-id="fc18a-113">使用 [自動排程] 模式，來自動排程任務。</span><span class="sxs-lookup"><span data-stu-id="fc18a-113">Use Auto Schedule mode to schedule your tasks automatically.</span></span> <span data-ttu-id="fc18a-114">深入了解 [Project 如何排程任務](https://go.microsoft.com/fwlink/p/?LinkId=271331)。</span><span class="sxs-lookup"><span data-stu-id="fc18a-114">Learn more about [how Project schedules tasks](https://go.microsoft.com/fwlink/p/?LinkId=271331).</span></span> 
   
-## <a name="calendar-date-extended-to-2149"></a><span data-ttu-id="4888c-115">行事曆日期延長至 2149</span><span class="sxs-lookup"><span data-stu-id="4888c-115">Calendar date extended to 2149</span></span>
+## <a name="calendar-date-extended-to-2149"></a><span data-ttu-id="fc18a-115">行事曆日期延長至 2149</span><span class="sxs-lookup"><span data-stu-id="fc18a-115">Calendar date extended to 2149</span></span>
 
-<span data-ttu-id="4888c-116">專案任務現在可以使用的行事曆日期到 2149 年。</span><span class="sxs-lookup"><span data-stu-id="4888c-116">Project tasks can now use calendar dates up to 2149.</span></span> 
+<span data-ttu-id="fc18a-116">專案任務現在可以使用的行事曆日期到 2149 年。</span><span class="sxs-lookup"><span data-stu-id="fc18a-116">Project tasks can now use calendar dates up to 2149.</span></span> 
   
-## <a name="cross-project-critical-path"></a><span data-ttu-id="4888c-117">跨專案的關鍵路徑</span><span class="sxs-lookup"><span data-stu-id="4888c-117">Cross-project critical path</span></span>
+## <a name="cross-project-critical-path"></a><span data-ttu-id="fc18a-117">跨專案的關鍵路徑</span><span class="sxs-lookup"><span data-stu-id="fc18a-117">Cross-project critical path</span></span>
 
-<span data-ttu-id="4888c-p104">關鍵路徑是必須定期完成的一連串任務，讓專案可以定期完成。您可以建立、編輯和刪除與其他專案任務的相依性關係。</span><span class="sxs-lookup"><span data-stu-id="4888c-p104">A critical path is the series of tasks that must be completed on schedule for a project to finish on schedule. You can create, edit, and delete a dependency relationship with a task in another project.</span></span> 
+<span data-ttu-id="fc18a-p104">關鍵路徑是必須定期完成的一連串任務，讓專案可以定期完成。您可以建立、編輯和刪除與其他專案任務的相依性關係。</span><span class="sxs-lookup"><span data-stu-id="fc18a-p104">A critical path is the series of tasks that must be completed on schedule for a project to finish on schedule. You can create, edit, and delete a dependency relationship with a task in another project.</span></span> 
   
-## <a name="task-inspector"></a><span data-ttu-id="4888c-120">任務稽查員</span><span class="sxs-lookup"><span data-stu-id="4888c-120">Task inspector</span></span>
+## <a name="task-inspector"></a><span data-ttu-id="fc18a-120">任務稽查員</span><span class="sxs-lookup"><span data-stu-id="fc18a-120">Task inspector</span></span>
 
-<span data-ttu-id="4888c-121">檢視影響任務排程的要素 (如已變更的開始日期或錯誤訊息)。</span><span class="sxs-lookup"><span data-stu-id="4888c-121">View factors that affect the scheduling of a task, such as a changed start date or error messages.</span></span>
+<span data-ttu-id="fc18a-121">檢視影響任務排程的要素 (如已變更的開始日期或錯誤訊息)。</span><span class="sxs-lookup"><span data-stu-id="fc18a-121">View factors that affect the scheduling of a task, such as a changed start date or error messages.</span></span>
   
-## <a name="task-path-analysis"></a><span data-ttu-id="4888c-122">任務路徑分析</span><span class="sxs-lookup"><span data-stu-id="4888c-122">Task path analysis</span></span>
+## <a name="task-path-analysis"></a><span data-ttu-id="fc18a-122">任務路徑分析</span><span class="sxs-lookup"><span data-stu-id="fc18a-122">Task path analysis</span></span>
 
-<span data-ttu-id="4888c-p105">透過在整個專案中醒目提示任務路徑，藉此查看某個任務與其他任務的連接方式。深入了解[醒目提示如何將任務連結到其他任務](https://go.microsoft.com/fwlink/p/?LinkId=271345)。</span><span class="sxs-lookup"><span data-stu-id="4888c-p105">See how one task connects to other tasks by highlighting its task path throughout the project. Learn more about [highlighting how tasks link to other tasks](https://go.microsoft.com/fwlink/p/?LinkId=271345).</span></span>
+<span data-ttu-id="fc18a-p105">透過在整個專案中醒目提示任務路徑，藉此查看某個任務與其他任務的連接方式。深入了解[醒目提示如何將任務連結到其他任務](https://go.microsoft.com/fwlink/p/?LinkId=271345)。</span><span class="sxs-lookup"><span data-stu-id="fc18a-p105">See how one task connects to other tasks by highlighting its task path throughout the project. Learn more about [highlighting how tasks link to other tasks](https://go.microsoft.com/fwlink/p/?LinkId=271345).</span></span>
   
-## <a name="top-down-summary-tasks"></a><span data-ttu-id="4888c-125">由上而下摘要任務</span><span class="sxs-lookup"><span data-stu-id="4888c-125">Top-down summary tasks</span></span>
+## <a name="top-down-summary-tasks"></a><span data-ttu-id="fc18a-125">由上而下摘要任務</span><span class="sxs-lookup"><span data-stu-id="fc18a-125">Top-down summary tasks</span></span>
 
-<span data-ttu-id="4888c-126">建立摘要任務的資源分派。</span><span class="sxs-lookup"><span data-stu-id="4888c-126">Create a resource assignment on a summary task.</span></span> <span data-ttu-id="4888c-127">深入了解[由上而下規劃](https://go.microsoft.com/fwlink/p/?LinkId=271333)。</span><span class="sxs-lookup"><span data-stu-id="4888c-127">Learn more about [top-down planning](https://go.microsoft.com/fwlink/p/?LinkId=271333).</span></span>
+<span data-ttu-id="fc18a-126">建立摘要任務的資源分派。</span><span class="sxs-lookup"><span data-stu-id="fc18a-126">Create a resource assignment on a summary task.</span></span> <span data-ttu-id="fc18a-127">深入了解[由上而下規劃](https://go.microsoft.com/fwlink/p/?LinkId=271333)。</span><span class="sxs-lookup"><span data-stu-id="fc18a-127">Learn more about [top-down planning](https://go.microsoft.com/fwlink/p/?LinkId=271333).</span></span>
   
-## <a name="update-progress"></a><span data-ttu-id="4888c-128">更新進度</span><span class="sxs-lookup"><span data-stu-id="4888c-128">Update progress</span></span>
+## <a name="update-progress"></a><span data-ttu-id="fc18a-128">更新進度</span><span class="sxs-lookup"><span data-stu-id="fc18a-128">Update progress</span></span>
 
-<span data-ttu-id="4888c-129">更新任務進度以顯示已完成百分比。</span><span class="sxs-lookup"><span data-stu-id="4888c-129">Update the progress on a task to show percent completed.</span></span>
+<span data-ttu-id="fc18a-129">更新任務進度以顯示已完成百分比。</span><span class="sxs-lookup"><span data-stu-id="fc18a-129">Update the progress on a task to show percent completed.</span></span>
   
-## <a name="user-controlled-and-manual-scheduling"></a><span data-ttu-id="4888c-130">使用者控制和手動排程</span><span class="sxs-lookup"><span data-stu-id="4888c-130">User-controlled and manual scheduling</span></span>
+## <a name="user-controlled-and-manual-scheduling"></a><span data-ttu-id="fc18a-130">使用者控制和手動排程</span><span class="sxs-lookup"><span data-stu-id="fc18a-130">User-controlled and manual scheduling</span></span>
 
-<span data-ttu-id="4888c-131">使用 [手動排程] 模式，來手動排程任務。</span><span class="sxs-lookup"><span data-stu-id="4888c-131">Use Manually Schedule mode to schedule tasks manually.</span></span> <span data-ttu-id="4888c-132">請參閱 [Project 如何排程任務](https://go.microsoft.com/fwlink/p/?LinkId=271331)。</span><span class="sxs-lookup"><span data-stu-id="4888c-132">See [How Project schedules tasks](https://go.microsoft.com/fwlink/p/?LinkId=271331).</span></span>
+<span data-ttu-id="fc18a-131">使用 [手動排程] 模式，來手動排程任務。</span><span class="sxs-lookup"><span data-stu-id="fc18a-131">Use Manually Schedule mode to schedule tasks manually.</span></span> <span data-ttu-id="fc18a-132">請參閱 [Project 如何排程任務](https://go.microsoft.com/fwlink/p/?LinkId=271331)。</span><span class="sxs-lookup"><span data-stu-id="fc18a-132">See [How Project schedules tasks](https://go.microsoft.com/fwlink/p/?LinkId=271331).</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="4888c-133">功能可用性</span><span class="sxs-lookup"><span data-stu-id="4888c-133">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="fc18a-133">功能可用性</span><span class="sxs-lookup"><span data-stu-id="fc18a-133">Feature availability</span></span>
 
-<span data-ttu-id="4888c-134">若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。</span><span class="sxs-lookup"><span data-stu-id="4888c-134">To view feature availability across plans, standalone options, and on-premises solutions, see [Project Online service description](project-online-service-description.md).</span></span>
+<span data-ttu-id="fc18a-134">若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Project Online 服務說明](project-online-service-description.md)。</span><span class="sxs-lookup"><span data-stu-id="fc18a-134">To view feature availability across plans, standalone options, and on-premises solutions, see [Project Online service description](project-online-service-description.md).</span></span>
   
