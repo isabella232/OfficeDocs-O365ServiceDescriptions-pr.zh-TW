@@ -2,6 +2,7 @@
 title: Microsoft 365 和 Office 365 平台服務說明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組織的需求。 如果您正在尋找方案（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
-ms.openlocfilehash: 219bda9792a2b3c0fd8941b6ed4949f84a514ff9
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 3129edbf47ab148d08b466c047096be5cdac88b4
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215852"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653195"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服務說明
 
@@ -89,7 +90,7 @@ Microsoft 365 和 Office 365 可將雲端生產力的功能提供給各種規模
 Microsoft 365 for business 方案中的幾個都是您可以為訂閱購買的附加元件。 附加元件可為訂閱提供額外的功能。 如需詳細資訊，請參閱 [購買或管理](/microsoft-365/commerce/buy-or-edit-an-add-on)附件。
 <br><br>
   
-| 功能 | Microsoft 365 商務基本版 | Microsoft 365 Apps 商務版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 企業版 E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
+| 功能 | Microsoft 365 商務基本版 | Microsoft 365 Apps 商務版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 Enterprise E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Microsoft 365 管理](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** <br/> ||||||||
 |使用e Microsoft 365 系統管理中心或 Windows PowerShell 來管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |

@@ -2,6 +2,7 @@
 title: Excel 網頁版
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: 網頁版 excel (先前的 Excel Web App) 會將您的 Microsoft Excel 體驗延伸至網頁瀏覽器，您可以在其中儲存活頁簿的網站上直接使用活頁簿。 所有客戶均可使用 Office for web 來查看和輕微編輯 Office 檔案。
-ms.openlocfilehash: 88b379e5752ec665cf60966c0556c8c5e1b28727
-ms.sourcegitcommit: 6afe3622d72f6047c3d8d6659ad6b90764142ced
+ms.openlocfilehash: aae8584e7b4296d917fda680d563c4d274b05771
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49586636"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652357"
 ---
 # <a name="excel-for-the-web"></a>Excel 網頁版
 

@@ -2,6 +2,7 @@
 title: 網頁版 Visio 服務描述
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: 在 Visio 中比較使用 Visio 桌面應用程式的網站功能。
-ms.openlocfilehash: bc360ef3348179aaeba4eb1111004e4088707f63
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: c490e0fbb891c09cfa73706002d6f5b7b3b33452
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276662"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653618"
 ---
 # <a name="visio-for-the-web-service-description"></a>網頁版 Visio 服務描述
 

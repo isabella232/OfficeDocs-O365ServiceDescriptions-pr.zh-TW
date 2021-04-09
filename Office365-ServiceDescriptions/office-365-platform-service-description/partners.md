@@ -2,6 +2,7 @@
 title: 協力程式
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 身為 Microsoft 授權合作夥伴，Microsoft Office 365 可提供機會讓您擴展客群，並與客戶建立長久的關係。您的客戶只要付月費或年費給您，就能夠使用雲端式服務，而不需要管理資料備份、伺服器硬體和伺服器更新。您可用的服務取決於您有權提供的服務類型。
-ms.openlocfilehash: e9de8e6b3aadc5c1dcc7ef9d3949439336220f32
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: adb7e7d8587ffa6ffc6e0e6d39023bae554b095a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131687"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653425"
 ---
 # <a name="partners"></a>協力程式
 
@@ -52,5 +53,5 @@ Microsoft Partner Network 致力於滿足合作夥伴的需求。若要加入網
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Microsoft 365 和 Office 365 方案的功能可用性，請參閱[microsoft 365 和 office 365 平臺服務說明](office-365-platform-service-description.md)。
+若要查看跨 Microsoft 365 和 Office 365 方案的功能可用性，請參閱 [microsoft 365 和 office 365 平臺服務說明](office-365-platform-service-description.md)。
   

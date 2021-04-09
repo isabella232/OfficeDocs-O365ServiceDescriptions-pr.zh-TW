@@ -2,6 +2,7 @@
 title: Yammer 中的設定檔功能
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Yammer 中提供下列設定檔功能。
-ms.openlocfilehash: 4a3b0dc2a73a7d05b1acbee27ad23e732c127e02
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: ac686eccca1536c3c06b3211c401b6f1822a8703
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133027"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653005"
 ---
 # <a name="profile-features-in-yammer"></a>Yammer 中的設定檔功能
 

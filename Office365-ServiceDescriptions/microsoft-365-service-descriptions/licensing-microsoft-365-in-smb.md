@@ -2,18 +2,19 @@
 title: 中小型企業的 Microsoft 365 授權
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商務版 Premium 是適用于中小型企業客戶的 Microsoft 一流服務。 Microsoft 365 商務版特優整合解決方案，結合了 Microsoft 365 生產力、高級安全性和裝置管理。
-ms.openlocfilehash: 1cd0fa1c8ef351eb6a54f4d2b9cb58f2d6e400f4
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 5b3c1b69135801699ba53b020f0461ed83d7bd90
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518834"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653275"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>中小型企業的 Microsoft 365 授權
 

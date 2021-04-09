@@ -2,17 +2,18 @@
 title: Microsoft Teams 服務描述
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 深入瞭解 microsoft 團隊服務和所有 Microsoft 365 和 Office 365 方案中的功能可用性。
-ms.openlocfilehash: d745ba704d190415b480207880dde18400852c05
-ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
+ms.openlocfilehash: 5a57288f068d877ab7dd646be3444cba35957a01
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51484856"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653565"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服務描述
 

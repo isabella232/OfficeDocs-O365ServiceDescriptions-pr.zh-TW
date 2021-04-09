@@ -2,17 +2,18 @@
 title: 通用列印服務描述
 ms.author: office365servicedesc
 author: Benzicald
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 通用列印，Microsoft 365 雲端列印服務會移除內部部署列印伺服器的需求。
-ms.openlocfilehash: da911d3beedfcafc8fad85a4d2d273cd3e858e41
-ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
+ms.openlocfilehash: 4c716c706dd2383ed64fa867399ca88ee459d912
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51599025"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653605"
 ---
 # <a name="universal-print-service-description"></a>通用列印服務描述
 

@@ -2,6 +2,7 @@
 title: Exchange Online 服務說明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
-ms.openlocfilehash: dc3dd3828e31bd6f3e146a63aafc750197f4b927
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 15e991d261fe81edcfb1abba4caf376e54b23fb9
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173658"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653355"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -70,7 +71,7 @@ Microsoft 365 F1 不包括對 Exchange 信箱的許可權。 為了啟用完整�
 
 如需 Microsoft 365 商務版 Premium 中的功能可用性，請參閱 [microsoft 365 商務版服務說明](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)。<br/><br/>
   
-| 功能 | Exchange Server 2013 | Exchange Server 2016 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 企業版 E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
+| 功能 | Exchange Server 2013 | Exchange Server 2016 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Office 365 企業版 E1 | Office 365 Enterprise E3 | Office 365 企業版 E5 | Office 365 企業版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[規劃及部署](planning-and-deployment.md)**|||||||||
 |支援混合部署|是|是|是<sup>16</sup>|是<sup>16</sup>|是|是|是|是<sup>16</sup>|

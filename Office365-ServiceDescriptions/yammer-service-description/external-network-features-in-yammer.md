@@ -2,6 +2,7 @@
 title: Yammer 中的外部網路功能
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c60a8507-72d2-43aa-a15b-aed053d5851f
 description: Yammer 中提供下列外部網路功能。
-ms.openlocfilehash: 99e17c6ed601f4876a81195bbd2f08b947afeab3
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 79d546c4896f036a2aa6c61083acc750356c597d
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133057"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653617"
 ---
 # <a name="external-network-features-in-yammer"></a>Yammer 中的外部網路功能
 
@@ -32,4 +33,4 @@ Yammer 中提供下列外部網路功能。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Yammer 服務描述](yammer-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Yammer 服務描述](yammer-service-description.md)。

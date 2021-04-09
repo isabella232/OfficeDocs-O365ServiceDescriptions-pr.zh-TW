@@ -2,6 +2,7 @@
 title: Office 365 GCC
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 為了符合美國聯邦、State、Local 和部落政府的獨特和不斷演變的需求，以及承包商代表美國政府持有或處理資料，Microsoft 提供 Office 365 美國政府社區 (GCC) 服務。 可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 試用版目前僅供美國政府實體使用。
-ms.openlocfilehash: 0c283631baa613e83619efff4423609ae8a3a59f
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: ec2ae92fb334acb56b94c35e5e0651396e959260
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173038"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653165"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 

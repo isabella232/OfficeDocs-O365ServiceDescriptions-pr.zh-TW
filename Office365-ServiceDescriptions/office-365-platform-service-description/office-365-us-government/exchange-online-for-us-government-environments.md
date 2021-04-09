@@ -2,18 +2,19 @@
 title: 適用于美國政府環境的 Exchange Online
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概要說明美國政府雲端與商業性雲端之間的功能差異（如 Exchange Online 服務說明所列）。
-ms.openlocfilehash: 2ecef2aeaa9c216e715f1084be022c5c4d0cce32
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: cf1b995f8497ff2249504b195ecaf1b2f7c6f62c
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173968"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653285"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>適用于美國政府環境的 Exchange Online
 

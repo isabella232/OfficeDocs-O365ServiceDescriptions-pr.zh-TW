@@ -2,6 +2,7 @@
 title: Office 365 Germany
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德國是一種可在歐洲使用的 Office 365 服務的區別選項。 它可協助您利用德國法律所規定的獨特資料受信者模型，為數字工作（從德文資料中心）提供業界領先的生產力服務，以在德國、歐盟 (EU) 和歐盟自由交易協會 (EFTA) 中，協助滿足最受管制客戶的需求。
-ms.openlocfilehash: 00e2861130283c6917d307e6793beb9dfa09c058
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 9ef9b295840bcbf7f2a216dd07c16b44c955d74b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173858"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653495"
 ---
 # <a name="office-365-germany"></a>Office 365 德國
 
@@ -726,7 +727,7 @@ Office 365 德國遵循 Office 365 的雲端安全性和符合性標準。 Offic
 |Connections to Microsoft Office Clients|是|是|是|是|是|是|是|是|
 |跨瀏覽器支援|是|是|是|是|是|是|是|是|
 |自訂管理路徑|否|否|否|否|否|否|否|否|
-|控管|是|是|是|是|是|是|是|是|
+|治理|是|是|是|是|是|是|是|是|
 |混合式應用程式啟動器|是|是|是|是|是|是|是|是<sup>19</sup>|
 |商務和網站的混合式 OneDrive|是|是|是|是|是|是|是|是<sup>19</sup>|
 |大量清單延展性和管理|是|是|是|是|是|是|是|是|

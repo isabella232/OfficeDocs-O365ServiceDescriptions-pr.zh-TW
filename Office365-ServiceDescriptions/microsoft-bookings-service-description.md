@@ -2,17 +2,18 @@
 title: Microsoft Bookings 服務描述
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 深入瞭解 Microsoft 預約中可用的計畫選項及功能。
-ms.openlocfilehash: 6a1fea2506a59e87ad74dd520ec59bc4310ab595
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: f0382a575714d73a915b8ada2b832516326b5348
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173028"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653375"
 ---
 # <a name="microsoft-bookings-service-description"></a>Microsoft Bookings 服務描述
 
@@ -26,7 +27,7 @@ Microsoft 預約簡化了排程和管理約會的過程。 預約包含以 web �
 
 下表列出各種方案中可用的主要 Microsoft 預約功能。 適用某些注意事項。 如需詳細資訊，請參閱註腳。 此表格可能會變更，恕不另行通知。
 
-| 主要功能 | 小型企業版 | 企業方案 | GCC | GCC-High | DOD | 教育 |
+| 主要功能 | 小型企業版 | 企業方案 | GCC | GCC-High | DOD | Education |
 | --- | --- | --- | --- | --- | --- | --- |
 | 以 Web 為基礎的排程頁面 (預約頁面)  | 是 | 是 | 是 | 否 | 否 | 是 |
 | 僅限租使用者) 的預約頁面存取控制 ( | 是 | 是 | 是 | 否 | 否 | 是 |

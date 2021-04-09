@@ -2,6 +2,7 @@
 title: 服務等級協定
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,16 +13,16 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: 50f48c895a0f4f856f531f4f08bbcf4c981908b8
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: a8ddf782fca857d81c91d717dffbcb774a31a2f0
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172838"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652437"
 ---
 # <a name="service-level-agreement"></a>服務等級協定
 
-## <a name="microsoft-online-services-level-agreement"></a>Microsoft Online Service 等級協定
+## <a name="microsoft-online-services-level-agreement"></a>Microsoft 線上服務等級協定
 
 我們提供財務支援，以落實我們對達成並維持各項服務之服務等級的承諾。如果我們未能達成和維護每個服務的服務等級 (如服務等級協定中所述)，那麼您可能有資格獲得每月服務費用的一部分折扣。若要進一步了解我們各項服務的服務等級協定，請下載 [Microsoft Online Service 服務等級協定](https://go.microsoft.com/fwlink/?linkid=272026)。如需系統執行時間的概觀資訊，以及安全性、隱私權和相容性資訊，請參閱 [Office 365 的透明化作業](./service-health-and-continuity.md)。
   

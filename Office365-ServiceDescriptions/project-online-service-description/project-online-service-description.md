@@ -2,6 +2,7 @@
 title: Microsoft Project 服務說明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: End User
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是一種靈活的線上方案，可用於專案產品群組管理 (PPM) 和日常工作。 透過 Office 365 傳遞，Project Online 可提供強大的專案管理功能，以用於規劃、排定專案與專案組合的投資，甚至幾乎任何裝置上幾乎都沒有任何地方。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: e5b893190a0cdd0335962b3a7bd9109f9fd393cc
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 992da5d280066914e1744ec31cd8d1ca341a98dd
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215806"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652257"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -27,7 +28,7 @@ ms.locfileid: "51215806"
 Microsoft Project 提供下列應用程式，協助滿足您組織的專案和工作管理的需求：
 
 - Project 網頁版
-- Microsoft Project Online 
+- Project Online 
 - Project Online 桌面用戶端
 
 本文將協助您瞭解每個專案訂閱中提供的應用程式，以及每個應用程式提供的功能。
@@ -40,7 +41,7 @@ Web 的專案是以 Microsoft Power 平臺為基礎。 電源平臺包括 PowerA
 
 可透過三個訂閱取得 web 的專案：專案方案1、專案方案3及專案方案5。 [Web 功能的 project](#project-for-the-web-features)中所列的功能只會與 web 資料儲存區中的資料進行互動。
 
-### <a name="project-online"></a>Microsoft Project Online
+### <a name="project-online"></a>Project Online
  
 Project Online 是一種靈活的線上方案，可用於專案產品群組管理 (PPM) 和日常工作。 Project Online 可提供強大的專案管理功能，以在 &mdash; 幾乎任何裝置上的幾乎任何地方規劃、排序及管理專案與專案產品群組的投資。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
 
@@ -80,7 +81,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以最符合貴組織�
 |產品 | 方案 1 | 方案3 | 方案5 |
 |--------|-----------------------------|------------------------|------------------------|
 |Project 網頁版 |**x**  | **x x** | **x x** |
-|Microsoft Project Online |**x** |**x x**| **x x x** |
+|Project Online |**x** |**x x**| **x x x** |
 |Project Online 桌面用戶端 | |**x**|**x**|
 
 在上表中， (**x**) 的檢查數目會指出方案所提供的一般功能層級。 例如，針對 Project Online，方案5提供的功能比方案3多。

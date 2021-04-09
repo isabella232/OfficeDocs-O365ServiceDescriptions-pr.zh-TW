@@ -2,18 +2,19 @@
 title: 如何購買 Microsoft 365 政府版
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 政府的概述，並說明購買選項。
-ms.openlocfilehash: e3b859ce2b89af936fcd466e2285bb316942e187
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: b76e77cf4471c8e3ca36af38cec0368e380a6962
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172998"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653445"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版-如何購買
 
@@ -89,7 +90,7 @@ Microsoft 365 政府可供合格的政府客戶和非政府組織，贊助用來
 
 - [Office 365 政府服務說明](office-365-us-government.md)
 - [Enterprise 可移動性 + US 政府服務的安全性說明](/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [適用于美國政府客戶的 Microsoft Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [適用於美國政府客戶的適用於端點的 Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [政府-GCC 部署的團隊](/MicrosoftTeams/plan-for-government-gcc)
 - [政府-GCC 高部署的團隊](/MicrosoftTeams/plan-for-government-gcc-high)
 - [政府 DoD 部署的團隊](/MicrosoftTeams/plan-for-government-dod)
@@ -174,7 +175,7 @@ Microsoft 365 政府可供合格的政府客戶和非政府組織，贊助用來
 
 - [Office 365 政府服務說明](office-365-us-government.md)
 - [Enterprise 可移動性 + US 政府服務的安全性說明](/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [適用于美國政府客戶的 Microsoft Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [適用於美國政府客戶的適用於端點的 Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [政府-GCC 部署的團隊](/MicrosoftTeams/plan-for-government-gcc)
 - [政府-GCC 高部署的團隊](/MicrosoftTeams/plan-for-government-gcc-high)
 - [政府 DoD 部署的團隊](/MicrosoftTeams/plan-for-government-dod)

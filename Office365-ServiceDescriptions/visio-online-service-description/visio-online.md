@@ -2,6 +2,7 @@
 title: Visio 網頁版
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: 適用于網頁的 visio 會將您的 Microsoft Visio 體驗延伸至瀏覽器，您可以在此建立及編輯儲存在雲端中的圖表。 Microsoft 365 客戶可以在旅途中查看、列印和共用圖表和插入批註。
-ms.openlocfilehash: 70e738a853a5550cf58a481c8cf1fca318539722
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 936b08c6b00532d85b6e0426ae11e29d45a78cda
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172488"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653635"
 ---
 # <a name="visio-for-the-web"></a>Visio 網頁版
 

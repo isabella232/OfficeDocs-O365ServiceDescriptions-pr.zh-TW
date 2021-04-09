@@ -2,6 +2,7 @@
 title: 最近的服務描述變更
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: 下表列出最近對服務描述內容所做的變更。
-ms.openlocfilehash: c4f8635af11b41bcd9e12e147d5fe04b394dbe12
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: cafd18087588922fa561cc432625dbcbd3e65d6d
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174108"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651038"
 ---
 # <a name="recent-service-descriptions-changes"></a>最近的服務描述變更
 

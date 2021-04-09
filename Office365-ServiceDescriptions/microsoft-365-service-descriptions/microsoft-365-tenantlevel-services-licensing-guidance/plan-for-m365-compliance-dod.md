@@ -2,18 +2,19 @@
 title: 規劃 Microsoft 365 合規性 - DoD 部署
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用于促進美國聯邦政府機構中的 Office 365 部署的 IT 專業人員，或其他處理政府法規和需求之資料的實體，也就是使用 Microsoft 365 政府– DoD 適用于符合這些需求的地方。
-ms.openlocfilehash: 0730ecf23d4c2fd167edf9f0e8b0dc5dcf67b646
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 74907afc24dd468111e3f530dc316346784b2996
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173528"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652617"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>規劃 Microsoft 365 合規性 - DoD 部署
 

@@ -2,6 +2,7 @@
 title: 報告
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Microsoft 的系統管理員可以查看顯示組織如何使用 Microsoft 服務的報告。 您能使用這些報告來發出小組網站問題、篩選資料並下載資料至 Microsoft Excel。 您也可以使用 Microsoft 365 報表 web 服務，建立自己的報表。 Exchange Online 和 Exchange Online Protection (EOP) 系統管理員可以使用郵件保護報告來查看有關惡意程式碼、垃圾郵件和規則偵測的資料。
-ms.openlocfilehash: b3a83bf310c3cec7fed4ebd36bacc2202ff8ec79
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: d9c4b82952882e02142d386120347f7de554b45b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172828"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652497"
 ---
 # <a name="reports"></a>報告
 

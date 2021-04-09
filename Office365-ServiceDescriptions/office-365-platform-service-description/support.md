@@ -2,6 +2,7 @@
 title: 支援
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: 透過 Microsoft Office 365 for enterprise、business、教育和政府訂閱，Microsoft 支援服務提供全球技術、售前、帳單及訂閱支援。 線上透過 Microsoft365 系統管理中心，以及透過電話撥打付費和試用版訂閱，都有提供支援。 如需詳細資訊，請參閱 Microsoft 支援選項。
-ms.openlocfilehash: f2279db8689f30d6906f33d6c2531ddfb4223784
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: c43658f47d2dc2644228d3b4cb87396757137428
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172788"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652427"
 ---
 # <a name="support"></a>支援
 

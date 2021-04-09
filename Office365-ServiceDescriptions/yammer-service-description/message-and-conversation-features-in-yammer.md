@@ -2,6 +2,7 @@
 title: Yammer 中的訊息與交談
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Yammer 中提供下列郵件和交談功能。
-ms.openlocfilehash: 3da9f412a963793caf2fe3373d5d72f3b5d549a8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e2ed250a6cd112a0fe8e8ca18da8b3565b8a32d4
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133037"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653595"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer 中的訊息與交談
 
@@ -56,5 +57,5 @@ Yammer 中提供下列郵件和交談功能。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看功能可用性計畫、獨立選項和內部部署解決方案，請參閱[Yammer 服務描述](yammer-service-description.md)。
+若要查看功能可用性計畫、獨立選項和內部部署解決方案，請參閱 [Yammer 服務描述](yammer-service-description.md)。
   

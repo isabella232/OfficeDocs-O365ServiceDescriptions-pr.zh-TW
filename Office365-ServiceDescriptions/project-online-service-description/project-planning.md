@@ -2,6 +2,7 @@
 title: 專案規劃
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Project Online 中提供下列專案規劃功能。
-ms.openlocfilehash: 8016984662d42935249e024550296b68479756c2
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e4bc924484bbebf48f5308c2ed406b65f6fc9887
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131097"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651048"
 ---
 # <a name="project-planning"></a>專案規劃
 
 Project Online 中提供下列專案規劃功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
   
 ## <a name="baseline-rollup"></a>基準匯總
 
@@ -62,5 +63,5 @@ Project Online 中提供下列專案規劃功能。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Project Online 服務說明](project-online-service-description.md)。
   

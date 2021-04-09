@@ -2,6 +2,7 @@
 title: Yammer 中的支援功能
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Yammer 中提供下列支援功能。
-ms.openlocfilehash: cefb03ae4a3edcb70f2c2182adec8625ef4fdf76
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: fe95a1f768e4ac12dd9c4dcd72c684784e21b45b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131997"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653515"
 ---
 # <a name="support-features-in-yammer"></a>Yammer 中的支援功能
 
@@ -37,7 +38,7 @@ Yammer Enterprise 系統管理員負責維護帳戶，並且有權直接與 Micr
    
 ## <a name="fasttrack-center"></a>FastTrack Center
 
-Microsoft FastTrack 服務可協助您的組織移至 Microsoft 雲端，方法是在每個步驟中提供協助。 FastTrack 可讓您以戰略計畫的部署方案，快速提升新服務，以及上架新使用者。 如需詳細資訊，請造訪 [FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)。 如需建立 Yammer 網路（包括預先啟動、啟動和支援檔及活動）的詳細資訊，請移至 [[構想：識別案例](https://fasttrack.microsoft.com/office/envision/identify-scenarios)] 頁面，然後選取 [**將組織移到一起**]。
+Microsoft FastTrack 服務可協助您的組織移至 Microsoft 雲端，方法是在每個步驟中提供協助。 FastTrack 可讓您以戰略計畫的部署方案，快速提升新服務，以及上架新使用者。 如需詳細資訊，請造訪 [FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)。 如需建立 Yammer 網路（包括預先啟動、啟動和支援檔及活動）的詳細資訊，請移至 [ [構想：識別案例](https://fasttrack.microsoft.com/office/envision/identify-scenarios) ] 頁面，然後選取 [ **將組織移到一起**]。
 
 ## <a name="support-features-across-yammer-plans"></a>不同 Yammer 計劃中的支援功能
 

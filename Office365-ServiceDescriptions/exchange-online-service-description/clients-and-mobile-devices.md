@@ -2,6 +2,7 @@
 title: 用戶端和行動裝置
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
 description: Exchange Online 可搭配桌面和 mobile 版本的 Outlook 以及網頁上的 Outlook 使用。
-ms.openlocfilehash: 4f72bb4f598a0c274b352163142f72b562fa2518
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 3aa0c2bbdf9b55b6a3544919143fd9d5e5cfed24
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173688"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653115"
 ---
 # <a name="clients-and-mobile-devices"></a>用戶端和行動裝置
 
@@ -71,7 +72,7 @@ Exchange Online 適用于適用于 iOS、Android 和 Windows Phone 的 Outlook a
 |:-----|:-----|:-----|:-----|
 |Outlook 行動應用程式可用性  <br/> |是  <br/> [取得適用于 Android 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |是  <br/> [取得 iOS 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |內建  <br/> |
 |與 Exchange Online 相容的內建電子郵件應用程式  <br/> |Gmail app/Samsung 電子郵件應用程式  <br/> |iOS 郵件應用程式  <br/> |Outlook 郵件、行事曆、連絡人  <br/> |
-|詳細資訊  <br/> |[Android mobile 設定](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone 或 iPad 安裝程式](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone 設定](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
+|其他資訊  <br/> |[Android mobile 設定](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone 或 iPad 安裝程式](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone 設定](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
 
 此外，還有一些搭配使用 Exchange Online 和裝置（包括 Blackberry）的選項。
   

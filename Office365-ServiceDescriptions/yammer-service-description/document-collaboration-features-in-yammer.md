@@ -2,6 +2,7 @@
 title: Yammer 中的文件共同作業功能
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Yammer 中提供下列檔協同作業功能。
-ms.openlocfilehash: 3eb187a72179c108516b86934388ff6460324191
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 69864fe18e83dd84f20869d2b454c7fc07d73e50
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132087"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653535"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Yammer 中的文件共同作業功能
 
@@ -42,5 +43,5 @@ Yammer 中提供下列檔協同作業功能。
 
 ## <a name="recent-changes"></a>最近變更
 
-您可以快速查看 [**最近的變更**] 窗格中每個合作者對檔所做的所有編輯。 隨時還原至先前的版本。
+您可以快速查看 [ **最近的變更** ] 窗格中每個合作者對檔所做的所有編輯。 隨時還原至先前的版本。
   

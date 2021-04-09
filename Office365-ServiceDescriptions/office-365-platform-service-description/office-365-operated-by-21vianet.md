@@ -2,6 +2,7 @@
 title: 21Vianet 運作的 Office 365
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: 7fe18fd929dbfa5410eed49ff8a4c6df72ae5b6a
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: d08e68877caa6281a050c39a67755f626919cb67
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174058"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653205"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -761,7 +762,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 |Microsoft Office 用戶端連線|是|是|是|是|是|是|是|
 |跨瀏覽器支援|是|是|是|是|是|是|是|
 |自訂管理路徑|否|否|否|否|否|否|否|
-|控管|是|是|是|是|是|是|是|
+|治理|是|是|是|是|是|是|是|
 |混合式應用程式啟動器|是|是|是|是|是|是|是<sup>15</sup>|
 |混合式 OneDrive 商務和網站|是|是|是|是|是|是|是<sup>15</sup>|
 |大量清單延展性和管理|是|是|是|是|是|是|是|

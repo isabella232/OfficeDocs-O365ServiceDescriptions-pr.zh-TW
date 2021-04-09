@@ -2,6 +2,7 @@
 title: 安全性 & 合規性的 Microsoft 365 授權指南
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.reviewer: v-trscho
 audience: ITPro
 ms.topic: reference
@@ -11,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 87eeaf51e18b74150416bdfc51bc6f97e94cd2db
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 755fc9701a270f7c1f5651643f01c5b1937bf5dc
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173397"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652657"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>安全性合規性的 Microsoft 365 授權指南 &amp;
 

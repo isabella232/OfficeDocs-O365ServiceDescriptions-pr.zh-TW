@@ -2,6 +2,7 @@
 title: PowerPoint 網頁版
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: Web (以前 PowerPoint Web App 的 PowerPoint) 會將您的 Microsoft PowerPoint 體驗延伸至網頁瀏覽器，您可以在其中儲存簡報的網站上直接使用簡報。 具有網路的 Office 的 Microsoft 365 客戶可以在旅途中查看、建立及編輯檔案。
-ms.openlocfilehash: 32ebb9f1ef3a9c68d5bc01314721f197a7f80cee
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: e0ab38fd633e44be01f38da0398affbf81e01e7b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172738"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652337"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint 網頁版
 

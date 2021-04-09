@@ -2,6 +2,7 @@
 title: User account management
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft 支援下列方式來建立、管理及驗證使用者。
-ms.openlocfilehash: 31fe2a1df472b6fc22df5cb7ff29b8658519cbc7
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 16c12692107e789692b28351eed7dae5b32b18d9
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172778"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652407"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -71,7 +72,7 @@ Microsoft 有兩個系統可用於使用者身分識別：
     
 Microsoft 使用以表單為基礎的驗證，而且透過網路驗證流量永遠使用埠 443 TLS/SSL 加密。 驗證流量使用的是不計的 Microsoft 服務頻寬百分比。 
   
-### <a name="multi-factor-authentication"></a>Multi-Factor 驗證
+### <a name="multi-factor-authentication"></a>多重要素驗證
 
 使用 Multi-Factor 驗證，使用者在正確輸入密碼後，必須先在其 smartphone 上認可電話、文字訊息或代理程式更新。 Only after this second authentication can the user sign in. Microsoft 系統管理員可在 Microsoft 365 系統管理中心中，註冊多重要素驗證的使用者。 深入瞭解 [Multi-Factor 驗證](/office365/admin/security-and-compliance/set-up-multi-factor-authentication)。
   

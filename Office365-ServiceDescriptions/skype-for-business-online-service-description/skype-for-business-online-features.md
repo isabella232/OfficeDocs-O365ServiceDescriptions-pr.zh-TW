@@ -2,6 +2,7 @@
 title: 商務用 Skype Online 功能
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 如果您是系統管理員，您可以在設定商務用 Skype Online 中，找到設定商務用 Skype Online 功能的詳細指示。
-ms.openlocfilehash: 079a4c24ee2abcb9af96cac0cd3336d3110eaa52
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: aa460f5338a74c65cc90212b91bcbd1ae2f8f947
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172668"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651018"
 ---
 # <a name="skype-for-business-online-features"></a>商務用 Skype Online 功能
 
@@ -120,7 +121,7 @@ Microsoft 流量 (會使用傳輸層安全性 (TLS) 通訊協定) 加密信號�
   
 ## <a name="calling-plans"></a>通話方案
 
-商務用 Skype 包含在公用交換電話網路 (PSTN) 上找到的呼叫功能。 通話方案是 [電話系統](#phone-system-in-office-365) 的附加元件，可讓您搜尋、取得及指派電話號碼給組織中的使用者，以便他們可以直接從 Office 365 撥打和接聽來自組織內部和外部人員的來電。 獲指派電話號碼的使用者可以撥打所有商務用 Skype 裝置的語音通話，包括 VoIP 電話、電腦和行動裝置。 他們也可以透過靜音/取消靜音、保留/繼續、來電轉接及來電轉接功能來控制來電，並在必要時撥打緊急電話。 
+商務用 Skype 包含在公用交換電話網路 (PSTN) 上找到的呼叫功能。 通話方案是 [電話系統](#phone-system) 的附加元件，可讓您搜尋、取得及指派電話號碼給組織中的使用者，以便他們可以直接從 Office 365 撥打和接聽來自組織內部和外部人員的來電。 獲指派電話號碼的使用者可以撥打所有商務用 Skype 裝置的語音通話，包括 VoIP 電話、電腦和行動裝置。 他們也可以透過靜音/取消靜音、保留/繼續、來電轉接及來電轉接功能來控制來電，並在必要時撥打緊急電話。 
   
 如需可用通話方案的詳細資訊，請移至 [Office 365 的通話方案](https://products.office.com/skype-for-business/pstn-calling-plans)。 如需詳細資訊以及設定通話方案，請參閱哪一種 [通話方案最適合您？](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   

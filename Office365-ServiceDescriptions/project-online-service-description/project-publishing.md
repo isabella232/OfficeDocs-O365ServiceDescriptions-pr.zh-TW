@@ -2,6 +2,7 @@
 title: 專案發佈
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
 description: Project Online 中提供下列 SharePoint 和商務用 Skype 互通性功能。
-ms.openlocfilehash: da4b75c49ab270a6fff3f6bc4ef5b6285a2972a8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 6c3538a2829d1367713763391ffb4fd960792412
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131147"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651186"
 ---
 # <a name="project-publishing"></a>專案發佈
 
 Project Online 中提供下列 SharePoint 和商務用 Skype 互通性功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
   
 ## <a name="create-a-project-site"></a>建立專案網站
 
@@ -50,6 +51,6 @@ Project Online 中提供下列 SharePoint 和商務用 Skype 互通性功能。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務說明](project-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Project Online 服務說明](project-online-service-description.md)。
   
 

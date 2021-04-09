@@ -2,6 +2,7 @@
 title: BlackBerry
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,17 +12,17 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry® 智慧型手機可以存取 Office 365 中的電子郵件和文件。
-ms.openlocfilehash: df7c477a64da2d2460f869f8a45e5a9697b41a0d
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 4c76e00364351b601a7566446b040ac5bd461535
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132357"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653385"
 ---
 # <a name="blackberry"></a>BlackBerry
 
 > [!NOTE]
-> 如果您使用的是由世紀運作的 Office 365，您可以使用 Microsoft Exchange ActiveSync 裝置或從行動（向內 BlackBerry 無線電子郵件解決方案）進行調查，以執行 Blackberry Enterprise Server （BE）。 
+> 如果您使用的是由世紀運作的 Office 365，您可以使用 Microsoft Exchange ActiveSync 裝置或從 (平行的方式從調查中 BlackBerry 無線電子郵件解決方案) 執行 Blackberry Enterprise Server (#) 。 
   
 BlackBerry® 智慧型手機可以存取 Office 365 中的電子郵件和文件。
   
@@ -29,11 +30,11 @@ BlackBerry® 智慧型手機可以存取 Office 365 中的電子郵件和文件�
 
 BlackBerry 10 智慧型手機可以使用 Microsoft Exchange ActiveSync 直接連線到 Exchange Online。
   
-如需詳細資訊，請參閱[Set up email on a BlackBerry](https://go.microsoft.com/fwlink/?linkid=863394)。
+如需詳細資訊，請參閱 [Set up email on a BlackBerry](https://go.microsoft.com/fwlink/?linkid=863394)。
   
 ## <a name="blackberry-7-and-earlier-smartphones-with-microsoft-exchange-online"></a>BlackBerry ® 7 及更舊版智慧型手機搭配 Microsoft Exchange Online
 
-您可以使用 BlackBerry®網際網路服務（BIS）將 BlackBerry 7 及更早版本的 smartphone 連接至 Exchange Online。 BIS 允許 BlackBerry 使用者透過 IMAP 或 POP 透過網際網路存取其電子郵件帳戶。
+您可以使用 BlackBerry®網際網路服務 (BIS) 將 BlackBerry 7 及更早版本的 smartphone 連線至 Exchange Online。 BIS 允許 BlackBerry 使用者透過 IMAP 或 POP 透過網際網路存取其電子郵件帳戶。
   
 大多數行動裝置操作員都已設定 BIS。 使用者將需要使用下列知識庫文章中的指示，設定電子郵件、行事曆及連絡人的同步處理：
   
@@ -52,5 +53,5 @@ BlackBerry 10 智慧型手機可以使用 Microsoft Exchange ActiveSync 直接�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同 Office 365 方案中的功能可用性，請參閱[Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
+若要查看不同 Office 365 方案中的功能可用性，請參閱 [Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
   

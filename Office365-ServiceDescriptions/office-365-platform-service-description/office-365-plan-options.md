@@ -2,6 +2,7 @@
 title: Microsoft 365 和 Office 365 方案選項 (部分機器翻譯)
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
-ms.openlocfilehash: 9ef5b54b96e9c75e76f3327b6b8f511a71818c97
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 1adcb5aaf9584889299e38943cc0355c0a82caed
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174018"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653485"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 和 Office 365 方案選項 (部分機器翻譯)
 
@@ -30,7 +31,7 @@ Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組
 
 下表列出 Microsoft 365 和 Office 365 中提供的不同服務系列與方案。 如需功能及定價資訊的高層級綜述，或與線上服務代表交談，請選取 [方案] 欄中的任何連結。<br><br>
   
-| Office 365 服務系列 | 規劃 |
+| Office 365 服務系列 | 方案 |
 |:-----|:-----|
 |**商務 (最多300使用者)** <br/>     |[Microsoft 365 商務](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) 版 (，以前稱為 Office 365 商務基本版)  <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) (以前的 Office 365 商務版)  <br/> [Microsoft 365 商務版](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-premium?activetab=pivot%3aoverviewtab) (以前是 Microsoft 365 商務)  <br/> [Microsoft 365 應用程式商務](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) 用 (，以前稱為 Office 365 商務)  <br/> |
 |**企業 (使用者數目不受限制)** <br/> |[Office 365 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 F3](https://products.office.com/business/office-365-f1) <br/> [Microsoft 365 F1](https://www.microsoft.com/en-us/microsoft-365/enterprise/f1?activetab=pivot%3aoverviewtab) <br/> [Microsoft 365 F3 (包含 Office 365 F3) ](https://www.microsoft.com/en-us/microsoft-365/enterprise/f3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E3 (包含 Office 365 E3) ](https://www.microsoft.com/en-us/microsoft-365/enterprise/E3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E5 (包含 Office 365 E5) ](https://www.microsoft.com/en-us/microsoft-365/enterprise/E5?activetab=pivot:overviewtab) <br/> [適用于企業的 Microsoft 365 應用程式](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-apps-for-enterprise?rtc=1&activetab=pivot%3aoverviewtab) (以前的 Office 365 ProPlus)  <br/> |
@@ -109,7 +110,7 @@ Microsoft 365 和 Office 365 可提供各種方案，以最大程度滿足您組
 
 下列線上服務是以獨立方案形式提供。 他們也可以新增至尚未包含的商務和企業服務系列方案。 如需定價資訊，或與線上代表交談，請選取下表列出的任何計畫。<br><br>
   
-| 服務 | 規劃 |
+| 服務 | 方案 |
 |:-----|:-----|
 |Exchange Online  <br/> |[Exchange Online 方案 1](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online 方案 2](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) <br/> [適用於 Office 365 的 Microsoft Defender](https://www.microsoft.com/microsoft-365/security/office-365-defender) <br/> [Exchange Online 封存](https://products.office.com/exchange/microsoft-exchange-online-archiving-email) <br/> [Exchange Online Kiosk](https://products.office.com/business/office-365-f1) <br/> |
 |SharePoint Online  <br/> |[SharePoint Online 計劃 1](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online 計劃 2](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
