@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 瞭解 Microsoft 365 和獨立方案的 SharePoint 限制。
-ms.openlocfilehash: 08d0f2f69e1f1b096b2dcd2f66cf083fa239a52e
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: e48ce75a9656ca173ef74ddb32df619509629e27
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653405"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767473"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -77,7 +77,7 @@ ms.locfileid: "51653405"
 
 ### <a name="managed-metadata"></a>受管理的中繼資料
 
-200000術語存放區中的術語，1000全域字片語，1000群組。
+1000000總字詞總數為2000000的字詞標籤及1000000字詞屬性 (這些限制是針對全域 & 網站層級) 的組合。 1000全域字片語和1000通用群組。
 
 ### <a name="overall-site-metadata"></a>整體網站中繼資料
 

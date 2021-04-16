@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 深入瞭解 microsoft 團隊服務和所有 Microsoft 365 和 Office 365 方案中的功能可用性。
-ms.openlocfilehash: 5a57288f068d877ab7dd646be3444cba35957a01
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 8828199a8af848dcd2bf6945b111e0fd082c7a95
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653565"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767453"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服務描述
 
@@ -22,6 +22,8 @@ Microsoft 團隊是 Microsoft 365 中合作的中心。 小組服務可讓您立
 商務用 Skype Online 停用於2021年7月30日（從 2019 [宣佈](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) ）。 Microsoft 團隊是一種全新的服務，其從頭開始使用 Azure 和 Microsoft 的其他服務創新，從頭為雲端構建。 Microsoft 團隊是以 Microsoft 365 群組、Microsoft Graph，以及與 Office 365 的其餘部分相同的企業層級安全性、合規性和可管理性來建立。 小組利用 Azure Active Directory (Azure AD) 中儲存的身分識別。 這些服務是由 Microsoft 資料中心提供，可供使用者從公司網路內部或透過網際網路內部的各種裝置存取。 如需詳細資訊，請參閱 [Microsoft 團隊 IT 架構和電話語音解決方案海報](/microsoftteams/teams-architecture-solutions-posters)。
 
 此服務說明會詳細說明各雲端安裝所提供服務之間的主要差異。 Microsoft 小組核心功能不會有不同的訂閱。 相容性功能的可用性取決於您的訂閱等級。 若要深入瞭解小組的安全性和合規性，請參閱 [Microsoft 小組中的安全性和符合性](/microsoftteams/security-compliance-overview)。
+
+如果使用者已完全線上遷移，他們必須同時擁有小組和商務用 Skype Online 授權，以取得完整小組的功能，即使不使用商務用 Skype Online 也是一樣。
 
 ## <a name="available-plans"></a>可用計畫
 
