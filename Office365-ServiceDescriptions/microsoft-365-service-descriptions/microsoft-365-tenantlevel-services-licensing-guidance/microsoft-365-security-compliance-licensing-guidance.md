@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未經許可存取而造成的潛在服務中斷。
-ms.openlocfilehash: 755fc9701a270f7c1f5651643f01c5b1937bf5dc
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ed78acd8cf94b03b36fbc42b13526ac78a759d0d
+ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652657"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900763"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>安全性合規性的 Microsoft 365 授權指南 &amp;
 
@@ -26,7 +26,7 @@ ms.locfileid: "51652657"
 > [!NOTE]
 > 部分租用戶服務目前無法將權益限制在特定使用者。 應該努力將服務權益限制在取得授權的使用者。 這麼做有助於在鎖定功能可用時避免對組織造成潛在的服務中斷。
 
-若要查看授權您的使用者從 Microsoft 365 規範功能受益于2020年4月1日的選項，請下載詳細的 Microsoft 365 相容性授權比較。 [ (PDF) ](https://www.microsoft.com/download/details.aspx?id=102403)  | [ (Excel) ](https://www.microsoft.com/download/details.aspx?id=102427)
+若要查看授權您的使用者受益于 Microsoft 365 相容性功能的選項，請下載詳細的 Microsoft 365 相容性授權比較。 [ (PDF) ](https://www.microsoft.com/download/details.aspx?id=103010)  | [ (Excel) ](https://www.microsoft.com/download/details.aspx?id=103006)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -218,7 +218,7 @@ SecOps 分析員和安全性專業人員受益于 Microsoft Defender for Endpoin
 
 Microsoft Defender for Endpoint 系統管理員可以使用以角色為基礎的存取控制 (RBAC) ，在安全性作業小組中建立角色和群組，以授與 Microsoft Defender 安全中心的適當存取權。 如需詳細資訊，請參閱 [使用以角色為基礎的存取控制管理入口網站存取](/windows/security/threat-protection/microsoft-defender-atp/rbac)。
 
-## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Microsoft 365 資料分類分析：內容 &amp; 活動瀏覽器  
+## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Microsoft 365 資料分類分析：內容 &amp; 活動瀏覽器
 
 資料分類的分析功能可在 Microsoft 365 規範中心體驗內使用。 [一覽表] 顯示數位內容的位置，以及最常見的敏感資訊類型及標籤的位置。 內容瀏覽器提供敏感性資料數量和類型的可見度，並可讓使用者依標籤或敏感度類型進行篩選，以取得儲存敏感性資料位置的詳細資訊。 活動瀏覽器顯示與敏感性資料和標籤相關的活動，例如標籤降級或外部共用，可將內容公開至風險。
 
