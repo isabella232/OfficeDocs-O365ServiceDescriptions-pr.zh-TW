@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: d08e68877caa6281a050c39a67755f626919cb67
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: be29bc918e8db388e51d44e39dab88018706bbda
+ms.sourcegitcommit: 1bdc4b442c34cfd291872760d5b7a01b207cd716
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653205"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52001789"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -67,7 +67,7 @@ Microsoft 365 規範中心可讓您輕鬆地存取所需的工具，以管理組
 
 - 資料外洩防護 (DLP)
 - 保留
-- 稽核
+- 使用 Azure Active Directory 和 Exchange 中的資料進行審核
 - Microsoft 資訊保護 (使用 AIP 整合標籤用戶端的 Office 用戶端和 Outlook 的 MIP) 和敏感度標籤
 
 > [!NOTE]
