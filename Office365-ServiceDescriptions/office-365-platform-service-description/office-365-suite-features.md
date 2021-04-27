@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主題中所列的功能是網頁式工具的集合，可協助您安全地在許多裝置和多個 Office 365 服務之間共同作業和通訊。 這些功能會協助在您的組織內進行新的連線，方法是整合數位內容建立、儲存及管理與用於在使用者之間探索及分享資訊的社交工具。
-ms.openlocfilehash: f304c2ae023296bad80080034cda88589c23d803
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 21506d9eb46ced4a5d55300374a872cff28fd0e0
+ms.sourcegitcommit: 683fe4d94cf244651c5716c3fb760b3190843a94
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653175"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "52023568"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 
@@ -111,6 +111,18 @@ Microsoft 若要做的工作是一項工作管理應用程式，可讓客戶從�
 * 共用清單並指派任務給同事、朋友和家人
 
 若要深入瞭解，請參閱：待辦 [事項](https://to-do.microsoft.com/)
+
+## <a name="windows-update-for-business-deployment"></a>企業版部署的 Windows 更新  
+
+Windows Update for Business deployment service 提供對 Windows Update 所傳遞內容的核准、排程和保護功能的控制。 其設計目的是與現有的 Windows Update for Business 原則搭配使用，以提供對個別更新的豐富控制權。 部署服務提供的功能包括：
+
+* 排程在特定日期開始的功能更新部署
+* 使用豐富的運算式，一段天數或數周的階段部署
+* 略過預先設定的 Windows Update for Business 原則，立即部署整個組織的安全性更新
+* 透過專為您獨特的設備人口量身定制的部署，確定貴組織中的硬體和軟體涵蓋範圍
+* 自動識別及暫停裝置的部署，這些裝置可能會受到 [安全保護暫](/windows/deployment/update/safeguard-holds)止的影響
+
+您可以透過 Microsoft Graph APIs 和與 Microsoft 端點管理員整合，取得這些功能。 若要深入瞭解，請參閱 [Windows Update For Business deployment Service 一覽](https://aka.ms/wufb/deployment-service)。
 
 ## <a name="whiteboard"></a>Whiteboard
 
