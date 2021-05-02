@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主題中所列的功能是網頁式工具的集合，可協助您安全地在許多裝置和多個 Office 365 服務之間共同作業和通訊。 這些功能會協助在您的組織內進行新的連線，方法是整合數位內容建立、儲存及管理與用於在使用者之間探索及分享資訊的社交工具。
-ms.openlocfilehash: 21506d9eb46ced4a5d55300374a872cff28fd0e0
-ms.sourcegitcommit: 683fe4d94cf244651c5716c3fb760b3190843a94
+ms.openlocfilehash: 99c744f92cc7c100f6889c927fc340512d9b40d8
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52023568"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074474"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 
@@ -74,7 +74,7 @@ Microsoft Stream 是企業的影片服務，貴組織中的人員可使用它來
 
 Microsoft Sway 是一種適用于商務用的專業數位 storytelling 應用程式，可協助您和您的同事使用互動式、以 web 為基礎的畫布表達創意。 Microsoft Sway 的內建設計引擎可協助您產生專業、視覺衝擊力的報表、簡報，而且不需要大量的格式或其他訓練。 您也可以修改結果，以取得您想要的獨特外觀和感覺。 Microsoft Sway 可讓您在任何畫面上的任何瀏覽器中建立美觀的外觀，也可以透過傳送連結來與同事和客戶共用。 Microsoft Sway 可協助您找出併合並所有種類的內容，而不需離開應用程式，因此您可以將圖像、文字、影片和圖表放在畫布上。 若要深入瞭解，請參閱 [Sway](https://sway.com)。 [Office 365 德國](office-365-germany.md)尚未提供 Microsoft Sway。
   
-## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 Apps 企業版
+## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 企業版應用程式
 
 Microsoft 365 應用程式企業版是一套現有的桌面應用程式，您已知道 (包括 Word、PowerPoint、Excel、Outlook 和團隊) 提供訂閱。 Microsoft 365 應用程式企業版包含獨佔的智慧功能，如 [**Excel 中的創意**](https://go.microsoft.com/fwlink/p/?linkid=2109915)、Word 中的 [**研究**](https://go.microsoft.com/fwlink/p/?linkid=2109916)工具、 [**即時共同**](https://go.microsoft.com/fwlink/p/?linkid=2109917)作業、小組做為小組合作的中心，以及高級安全性功能。 以使用者為基礎的授權，您最多可以在五台電腦或 Mac、五台平板電腦和五部行動裝置上部署 Office。 透過 1 TB 的 OneDrive 雲端儲存空間，您可以從任何位置存取及共同作業您的檔案。
 
@@ -112,7 +112,7 @@ Microsoft 若要做的工作是一項工作管理應用程式，可讓客戶從�
 
 若要深入瞭解，請參閱：待辦 [事項](https://to-do.microsoft.com/)
 
-## <a name="windows-update-for-business-deployment"></a>企業版部署的 Windows 更新  
+## <a name="windows-update-for-business-deployment-service"></a>Windows Update for Business deployment service 
 
 Windows Update for Business deployment service 提供對 Windows Update 所傳遞內容的核准、排程和保護功能的控制。 其設計目的是與現有的 Windows Update for Business 原則搭配使用，以提供對個別更新的豐富控制權。 部署服務提供的功能包括：
 

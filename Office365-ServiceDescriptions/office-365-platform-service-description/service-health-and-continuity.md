@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的時間。 服務健康資訊可隨時登入。
-ms.openlocfilehash: 6b4d854eebe4a3f07d1aac9dc3751dcaa6b62937
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ec8e03d31a300755ab741723b81651d6d6969b37
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652447"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074494"
 ---
 # <a name="service-health-and-continuity"></a>服務健康狀況和持續性
 
@@ -43,6 +43,14 @@ Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的�
 ### <a name="recent-worldwide-uptimes"></a>最近世界上線時間
 
 移至雲端服務不一定意味著會失去知道即將發生的功能。 使用 Office 365 時，它不會。 我們的作業中的目標是透明的，因此您可以監視服務的狀態、追蹤問題，並提供可用性的歷史視圖。 下表顯示最近的全球運作時間資料。
+
+**2021**
+
+| 季度 | 推出 | Q3 | Q4 |
+|:-----|:-----|:-----|:-----|
+| 99.97% <br/> | | | |
+
+<br>
 
 **2020**
 

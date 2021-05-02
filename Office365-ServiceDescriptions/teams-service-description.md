@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 深入瞭解 microsoft 團隊服務和所有 Microsoft 365 和 Office 365 方案中的功能可用性。
-ms.openlocfilehash: 8828199a8af848dcd2bf6945b111e0fd082c7a95
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: 721c4bd99fd8f81e471ea79e6725c2d6c53d1791
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767453"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074484"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服務描述
 
@@ -25,7 +25,7 @@ Microsoft 團隊是 Microsoft 365 中合作的中心。 小組服務可讓您立
 
 如果使用者已完全線上遷移，他們必須同時擁有小組和商務用 Skype Online 授權，以取得完整小組的功能，即使不使用商務用 Skype Online 也是一樣。
 
-## <a name="available-plans"></a>可用計畫
+## <a name="available-plans"></a>可用規劃
 
 如需啟用小組使用者之訂閱的詳細計畫資訊，請參閱尋找適用于 [貴公司的 Microsoft 團隊](https://www.microsoft.com/microsoft-teams/compare-microsoft-teams-options)。 您可以在 [Microsoft 解決方案比較表](https://go.microsoft.com/fwlink/?linkid=2139145)中找到其他詳細資料。
 
@@ -59,7 +59,7 @@ Microsoft 團隊並非獨立服務提供。
 <sup>1</sup> Microsoft 小組 in GCC-High 和 DOD 支援個別小組的2500成員。<br/>
 <sup>2</sup> Microsoft Planner 目前無法存取私人通道。<br/>
 <sup>3</sup> 必須為 Microsoft 團隊設定 Direct 路由，才能在 GCCH 和 DoD 中使用。<br/>
-<sup>4</sup> 此時不提供這些雲中的協力廠商應用程式和應用程式發佈。<br/>
+<sup>4</sup> 此時不提供這些雲中的協力廠商應用程式和應用程式發佈。 GCCH 和 DOD 不支援連接器。<br/>
 目前 GCC-High 或 DOD 未提供<sup>5</sup>項 Live 事件。<br/>
 
 ### <a name="cloud-voice-features"></a>雲端語音功能
@@ -68,7 +68,7 @@ Microsoft 團隊並非獨立服務提供。
 
 ### <a name="live-events"></a>即時活動
 
-這項 Office 365 中的產品會取代退休的 Skype 會議廣播。 即時事件功能適用于 Stream service 中詳細的授權方案。 如需詳細資訊，請參閱 [Microsoft Stream 授權概述](/stream/license-overview)。 即時事件服務可透過 Stream、Yammer 或 Microsoft 小組進行存取。 若要深入瞭解即時事件功能，請參閱在 [Yammer、Microsoft 團隊和 Microsoft Stream 中跨 Microsoft 365 的即時事件](/stream/live-event-m365)。
+這項 Office 365 中的產品會取代退休的 Skype 會議廣播。 即時事件功能適用于 Stream service 中詳細的授權方案。 如需詳細資訊，請參閱 [Microsoft Stream 授權概述](/stream/license-overview)。 即時事件服務可透過 Stream、Yammer 或 Microsoft 小組進行存取。 若要深入瞭解即時事件功能，請參閱在 [Yammer、Microsoft 團隊和 Microsoft Stream 中跨 Microsoft 365 的即時事件](/stream/live-event-m365)。 若要深入瞭解規劃即時事件（包括授權需求），請參閱 [在 Microsoft 小組中規劃 live 事件](/microsoftteams/teams-live-events/plan-for-teams-live-events)。
 
 ## <a name="learn-more"></a>深入了解
 
