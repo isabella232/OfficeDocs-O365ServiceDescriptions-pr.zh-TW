@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 為專案產品群組管理 (PPM) 及日常運作的彈性線上解決方案。 透過 Project Online Office 365 提供強大的專案管理功能，可用於規劃、排定專案與專案組合的投資，甚至幾乎任何裝置上幾乎都沒有任何的裝置。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: cd38d462c714191576328f50e38b6fe7812cdbba
-ms.sourcegitcommit: a64ecf7fa2c27e8e8d2670ef6f10812dd2b0c2b1
+ms.openlocfilehash: 7758e35acee798463fba6168624c9b0d7e730f99
+ms.sourcegitcommit: 073ce0a092023eb4727274f22ceb8ca2b806df58
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52247971"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52266363"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -122,6 +122,10 @@ Microsoft Project 可透過三種不同的訂閱取得，以符合組織的需�
 |自訂視圖和表單 <sup>4</sup> | 在現成的 Project 應用程式中，只自訂視圖和表單。 | 僅供檢視 | 是 | 是 | 是 |
 |使用自訂欄 | View、新增、更新或刪除加入至表格的欄中的資料。 | 僅供檢視 | 僅供檢視 | 是 | 是 |
 |使用自訂表格格 <sup>5</sup> | 建立及定義自訂表格格，以保留專案、產品群組等所需的其他資料。 | 否 | 僅供檢視 | 是 | 是 |
+|**Power Automate 工作流程和商務程式流程** <sup>7</sup> ||||||
+| | 定義及使用使用 Project 資料（包括自訂表格格和欄）的 Power Automate 雲端流量。 | 否 | 是 | 是 | 是 |
+| | 定義利用 Project 資料（包括自訂表格格和欄）的 Power Automate 商務流程流程。 | 否 | 否 | 是 | 是 |
+| | 使用使用 Project 資料 Power Automate 商務程式流程。 | 否 | 是 | 是 | 是 |
 |**安全性和使用者管理**||||||
 |Office新式群組 | 組建專案小組以共同作業，並輕鬆地設定小組成員共用的資源集合。 | 是 | 是 | 是 | 是 |
 |**Third-Party 應用程式**||||||
@@ -199,7 +203,14 @@ Microsoft Project 可透過三種不同的訂閱取得，以符合組織的需�
 <sup>4</sup>建立並使用個別的 Power Apps，而不是現成 Project 應用程式（存取 web 或 Project Online 客戶資料的 Project）需要個別的 Power Apps 訂閱。</br>
 <sup>5</sup> 限制為5個自訂表格格。</br>
 <sup>6</sup> Project Online 外部使用者的授權遵循與內部使用者相同的原則。 Project Online 網站上的任何互動都需要 Project 方案3或 Project 方案5訂閱。</br>
-<sup>7</sup>使用 Project 網頁數據的 Power Automate 自動化和整合商務程式，需要 Power Automate 訂閱及 Project 方案3或 Project 方案5訂閱。</br>
+<sup>7</sup> Power Automate 在 Project 內使用限制于 Project 應用程式的內容。 這表示，針對觸發器和動作，包含的流程權利 Project 都可以：
+
+- 連線 Project 應用程式的使用許可權內的任何資料來源：
+  - 透過標準連接器可使用的資料來源
+  - 透過 Microsoft Dataverse connector Project 資料
+- 透過內建觸發器/動作直接在 Project 應用程式 (中觸發) 
+
+如果流程是孤立的，且與 Project 應用程式沒有任何作用，將需要購買平臺授權。</br>
 <sup>8</sup>使用 Project 方案3或 Project 方案5訂閱的使用者可以提交資源預訂要求。 他們無法複查、履行或核准資源預訂要求。</br>
 <sup>9</sup>具有 Project 方案5訂閱的使用者可以查看、履行和核准資源預訂要求。</br>
 <sup>10</sup> Active Directory 需要個別的訂閱。 </br>
