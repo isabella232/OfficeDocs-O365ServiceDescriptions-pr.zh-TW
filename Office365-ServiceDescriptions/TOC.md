@@ -66,6 +66,7 @@
 ### [遵循與安全性功能](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [適用於 Office 365 的 Microsoft Defender 服務描述](office-365-advanced-threat-protection-service-description.md)
 ## [Microsoft Teams 服務描述](teams-service-description.md)
+### [Microsoft 365 商務語音服務描述](microsoft-365-business-voice-service-description.md)
 ## [OneDrive 服務描述](onedrive-for-business-service-description.md)
 ## [SharePoint 服務描述](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [SharePoint 限制](sharepoint-online-service-description/sharepoint-online-limits.md)
@@ -103,7 +104,6 @@
 ### [Yammer 中的系統管理與安全性功能](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Yammer 中的支援功能](yammer-service-description/support-features-in-yammer.md)
 ## Microsoft 365 服務描述
-### [Microsoft 365 商務版語音服務描述](microsoft-365-business-voice-service-description.md)
 ### [Microsoft 365 商務進階版服務描述](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 ### [中小型企業的 Microsoft 365 授權](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
