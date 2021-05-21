@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 是一種雲端式電子郵件篩選服務，可協助您的組織抵禦未知惡意程式碼和病毒，方法是提供強健的零日保護，並提供功能，以即時保護您的組織不受有害連結。
-ms.openlocfilehash: 4db8ecf7d4906144d133e3ce83c7f8197194efdc
-ms.sourcegitcommit: e153b2c502bcee66640a8b1988ced8fd2a345deb
+ms.openlocfilehash: 76b4d2e53c8a2942d4b974c5289c9ae4c8854b72
+ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "52304411"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545970"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>適用於 Office 365 的 Microsoft Defender 服務描述
 
@@ -189,7 +189,7 @@ Explorer 包含一些視圖，例如電子郵件和內容) 、提交、網路釣
 
 [攻擊模擬訓練](/microsoft-365/security/office-365-security/attack-simulation-training-get-started) 是一種可自動建立及管理網路釣魚模擬的智慧社交風險管理工具。 模擬會使用實際的世界釣魚網絡 lures 和超目標訓練來協助客戶偵測、設定優先順序和修正網路釣魚風險，以變更員工的行為。
 
-- 現在 WW 和 GCC 都提供攻擊模擬訓練。
+- 現在，WW 已提供攻擊模擬訓練，GCC (將會從6月21日) GCC。
 - 如需如何開始的詳細資訊，請參閱 [使用攻擊模擬訓練](/microsoft-365/security/office-365-security/attack-simulation-training-get-started)。
 - 可以使用各種套用取消 weaponized、真實世界網路釣魚負載的攻擊技術，以複製真實世界的攻擊者行為，以進行網路釣魚模擬。
 - 這項服務可供有 Microsoft 365 E5、Office 365 E5 或[Microsoft Defender Office 365 方案2授權的](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2)組織使用。 將功能的子集提供給 E3 客戶以進行試用。

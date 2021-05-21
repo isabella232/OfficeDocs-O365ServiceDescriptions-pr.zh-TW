@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 政府的概述，並說明購買選項。
-ms.openlocfilehash: 0d054441cede496c18b9b8a526e0967e1ee85113
-ms.sourcegitcommit: 15f8d2eb34dab74bbe4f888f6700336143ab6cf7
+ms.openlocfilehash: f2519466b8037a7ab3871fe924c65fbd84b1ebb1
+ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52286522"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545933"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365政府-如何購買
 
@@ -140,6 +140,7 @@ GCC 和 GCC 的高產品皆可供任何可供 Microsoft 政府雲端使用的客
 - Caci
 - Carahsoft
 - CGI 聯邦 Inc.。
+- Conquest 網路
 - Dox 電子 Inc.。
 - F1 方案 Inc.。
 - 四個點的技術，LLC
