@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已 Office 365 美國政府方案 (或 Office 365 政府版) 中建立的。 本文概要說明 Office 365 政府版 US 環境所特有的功能。
-ms.openlocfilehash: a1c5ed6e166ec3a893c716e5de18e9bc81a3865f
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 415c3c76c7362c12b2da7ec33c88db1a930be405
+ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545932"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625640"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -151,7 +151,7 @@ Office 365我們的政府客戶可以使用 Azure 政府 ExpressRoute 服務，�
 |Skype for Business (Instant Messaging &amp; Presence)|是<sup>1</sup>|是|是|是<sup>1</sup>|
 |語音電話系統、音訊會議|否<sup>2</sup>|否<sup>2</sup>|是<sup>5</sup>|否|
 |Power BI Pro|否<sup>2</sup>|否<sup>2</sup>|是|否<sup>2</sup>|
-|Project Online|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|
+|Microsoft Project Online|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|
 |Visio 網頁版|否<sup>6</sup>|否<sup>6</sup>|否<sup>6</sup>|否<sup>6</sup>|
 |Yammer Enterprise|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|
 
@@ -413,7 +413,9 @@ Office 365我們的政府客戶可以使用 Azure 政府 ExpressRoute 服務，�
 |3D 模型和3D 內嵌動畫|否|否|否|
 |圖表：地圖|否|否|否|
 |智慧數位墨水|否|否|否|
-|PowerPoint 中的 Live 字幕和副標題|否|否|否|
+|PowerPoint 中的 Live 字幕和副標題|是|是|否|
+|即時簡報|否|否|否|
+|沈浸式閱讀程式|否|否|否|
 |簡報者指導|否|否|否|
 |Shared with Me|否|否|否|
 |與共享的商務用 Skype 整合|否|否|否|
