@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看在哪些方案中可使用哪些 OneDrive 功能。
-ms.openlocfilehash: f6433dce28ab4f33bd072a40a1c83ad0decc9795
-ms.sourcegitcommit: 453d8175e2f05146bcf5d1f124a4c8eb1c2bf7c2
+ms.openlocfilehash: 5668b79696d94c18d90cba41d3f3a68b8cbe392c
+ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52264791"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625620"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服務描述
 
@@ -50,8 +50,7 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
 - Microsoft 365 Apps 商務版
 - Microsoft 365 商務標準版
 - Microsoft 365 Apps 企業版
-- Office 365 A1
-- Office 365 企業版 E1
+- Office 365 Enterprise E1
 - Office 365 政府版 G1
 - 適用於非營利組織的 Microsoft 365 商務基本版
 - 適用於非營利組織的 Microsoft 365 商務標準版
@@ -66,6 +65,7 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
 
 - Office 365 Enterprise E3
 - Office 365 企業版 E5
+- Office 365 A1
 - Office 365 A3
 - Office 365 A5
 - Office 365 美國政府版 G3
@@ -86,11 +86,11 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
 > [!NOTE]
 > 您必須將至少一個授權指派給使用者，才能增加預設 OneDrive 儲存空間。 
   
-當您的個別使用者需要超過初始 5 TB 的雲端儲存空間，系統管理員可以向 [Microsoft 技術支援開啟案例](/microsoft-365/admin/contact-support-for-business-products)來要求。 將會授與額外的雲端儲存空間，如下所示： 
+如果您需要超過個人使用者初始 5 TB 的雲端儲存空間，系統管理員可以[向 Microsoft 技術支援開啟案例](/microsoft-365/admin/contact-support-for-business-products)以提出要求。將如下所示授與額外的雲端儲存空間： 
   
 - 當使用者用盡 5 TB OneDrive 儲存空間的至少 90% 容量時，Microsoft 會將 OneDrive 中的預設儲存空間增加到每個使用者最多 25 TB (系統管理員也可以視意願設定較低的每位使用者限制)。 
     
-- 對於達到 25 TB OneDrive 儲存空間至少 90% 容量的使用者，可以以 25 TB SharePoint 小組網站的形式提供額外的雲端儲存空間給個別使用者。 如需資訊和協助，請連絡 Microsoft 技術支援人員。
+- 對於達到 25 TB OneDrive 儲存空間至少 90% 容量的使用者，將以 25 TB SharePoint 小組網站的形式，提供額外的雲端儲存空間給個別使用者。請連絡 Microsoft 技術支援人員以取得資訊和協助。
     
 若要查看個別使用者的儲存空間和使用量，請在 OneDrive 同步處理應用程式中移至 [管理儲存空間][](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68)。 若要查看整個組織的使用者使用的儲存空間量，請移至 Microsoft 365 系統管理中心的 [OneDrive 使用量報告](/office365/admin/activity-reports/onedrive-for-business-usage)。 
    
@@ -135,13 +135,13 @@ OneDrive 是以每個使用者為基礎進行佈建，而且是設計來為個�
 
 - [存取要求](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
 - [「所有人」連結](/Office365/Enterprise/best-practices-anonymous-sharing) (可設定為需要到期) 
-- [註解中的 @ 提及](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows)。 需要包含適用於 Office 365 網路版或 Office 365 傳統型應用程式的方案。
+- [註解中的 @提及](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows)。需要包含 Office 365 網頁版或 Office 365 傳統型應用程式的方案。
 - [檔案要求](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - 管理預設共用連結 (在[組織層級](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links)和[每一網站](/sharepoint/change-default-sharing-link))
 - 管理外部共用 (在[組織層級](/sharepoint/turn-external-sharing-on-or-off)和[每一網站](/sharepoint/change-external-sharing-site)或 [OneDrive](/onedrive/user-external-sharing-settings))
 - [管理共用項目的權限](https://support.office.com/article/0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 - [Microsoft Teams 整合](/MicrosoftTeams/sharepoint-onedrive-interact)用於在交談中傳送檔案。 需要包含 Office 365 的訂閱，且需要使用者取得 Teams 的授權。
-- [新式附件](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC)。 需要包含 Outlook 網頁版或 Outlook 傳統型應用程式的方案。
+- [現代化附件](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC)。需要包含 Outlook 網頁版或 Outlook 傳統型應用程式的方案。
 - 在組織或網站層級[依網域限制共用](/sharepoint/restricted-domains-sharing)
 - [共用報告](/sharepoint/sharing-reports)
 - [驗證碼](/sharepoint/external-sharing-overview#what-happens-when-users-share)
