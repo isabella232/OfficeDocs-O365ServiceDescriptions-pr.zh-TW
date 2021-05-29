@@ -9,26 +9,26 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: 安全性與 &amp; 合規性中心的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-ms.openlocfilehash: 15f6ff5889644c0818f42666227fa36df88d065d
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: 安全性與 &amp; 合規性中心的設計目的是協助您跨組織的 Office 365 管理規範功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
+ms.openlocfilehash: 9f4c644905f606d00e6a40d23ded56744e397c50
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653475"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699099"
 ---
 # <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 
-[安全性與 &amp; 合規性中心](https://protection.office.com/)的設計目的是協助您管理組織的 Office 365 的相容性功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
+[安全性與 &amp; 合規性中心](https://protection.office.com/)的設計目的是協助您跨組織的 Office 365 管理規範功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
 
-若要查看授權您的使用者從 Microsoft 365 規範功能受益于2020年4月1日的選項，請下載詳細的 Microsoft 365 相容性授權比較。 [ (PDF) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-  
+若要查看授權您的使用者受益 Microsoft 365 規範功能的選項，請下載[Microsoft 365 比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
+
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>&amp;商務和企業方案的安全性與合規性中心可用性
 
-| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Microsoft 365 商務進階版 | Office 365 E1，Office 365 美國政府版 G1 | Office 365 E3，Office 365 美國政府版 G3 | Office 365 E5 |Office 365 G5 | Office 365 F3，Office 365 美國政府（F3）|
+| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Microsoft 365 商務進階版 | Office 365E1，Office 365 美國政府版 G1 | Office 365E3，Office 365 美國政府版 G3 | Office 365 E5 |Office 365G5 | Office 365F3，Office 365 美國政府 F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[存取安全性與合規性中心](/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |是   |
 |[Office 365 雲端 App 安全性](/cloud-app-security/what-is-cloud-app-security) | 否 | 否 |否 | 否 | 否 | 是 | 是  |   |
@@ -36,8 +36,8 @@ ms.locfileid: "51653475"
 |[高級威脅管理，例如網路釣魚活動的威脅瀏覽器](/microsoft-365/security/office-365-security/office-365-ti)<sup>6</sup> | 否 | 否 |否 | 否 | 否 | 是 | 是 | 否 |
 |[客戶加密箱](/microsoft-365/compliance/customer-lockbox-requests) | 否 | 否 | 否 | 否 | 否 | 是 | 是  | 否  |
 |[行動裝置管理](/microsoft-365/admin/basic-mobility-security/set-up) | 是 | 是 | 是 | 是 | 是 | 是 | 是 | 是 |
-|Business<sup>7，9</sup>的[Exchange Online、SharePoint Online 和 OneDrive 資料遺失防護](/microsoft-365/compliance/data-loss-prevention-policies) | 否 | 是 | 是 | 否 | 是 | 是 | 否 | 否 |
-|[Microsoft 小組的通訊資料遺失防護](/microsoft-365/compliance/dlp-microsoft-teams) | 否 | 否 | 否 | 否 | 否 | 是 | 否 |  |
+|[Exchange Online、SharePoint 線上及商務用 OneDrive](/microsoft-365/compliance/data-loss-prevention-policies)<sup>7，9</sup>的資料遺失防護 | 否 | 是 | 是 | 否 | 是 | 是 | 否 | 否 |
+|[Microsoft Teams 的通訊資料遺失防護](/microsoft-365/compliance/dlp-microsoft-teams) | 否 | 否 | 否 | 否 | 否 | 是 | 否 |  |
 |[手動敏感度標籤](/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 否 | 否 | 否 | 是 | 是 | 是 | 是 | 否 |
 |自動敏感度標籤 | 否 | 否 |否 | 否 | 否 | 是 | 是 | 否 |
 |[資訊屏障](/microsoft-365/compliance/information-barriers) | 否 | 否  |否  | 否 | 否 | 是 | 否  | 否  |
@@ -58,9 +58,9 @@ ms.locfileid: "51653475"
 |[特殊許可權存取管理](/microsoft-365/compliance/privileged-access-management-overview)  |否 |否 |否 |否 |否 |是 |否 |否 |
 |[客戶金鑰](/microsoft-365/compliance/customer-key-overview)  |否 |否 |否 |否 |否 |是 |否 |否 |
 
-<sup>1</sup> 除了 E5) 之外，所有包含基本 (審核的計畫的審計記錄會保留90天。 因為 E5 包含高級審計，所以審計記錄會保留最多一年。 此外，您也可以使用 [Office 365 管理活動 API](/office/office-365-management-api/office-365-management-activity-api-reference) ，從統一的審計記錄檔中取得事件。
+<sup>1</sup> 除了 E5) 之外，所有包含基本 (審核的計畫的審計記錄會保留90天。 因為 E5 包含高級審計，所以審計記錄會保留最多一年。 此外，您也可以使用[Office 365 管理活動 API](/office/office-365-management-api/office-365-management-activity-api-reference) ，從統一的審計記錄檔中取得事件。
 
-<sup>2</sup> 需要 Office 365 資料遺失防護附加元件。
+<sup>2</sup>需要 Office 365 資料遺失防護] 增益集。
 
 <sup>3</sup> 在 Azure 資訊保護 P1 和 P2 中也會包含靈敏度標籤。
 
@@ -74,8 +74,8 @@ ms.locfileid: "51653475"
 |[高級威脅管理](/office365/securitycompliance/office-365-ti)，例如網路釣魚活動的威脅瀏覽器   |否   |否   |否   |否   |否   |否   |否   |否   |否  |
 |[客戶加密箱](/office365/securitycompliance/customer-lockbox-requests)  |否   |否   |否   |否   |否   |否   |否   |否   |否   |
 |[行動裝置管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |是   |是   |是   |是   |是   |是   |是   |是   |是   |
-|[資料遺失防護，適用于 Exchange online、SharePoint 線上及 OneDrive 商務](/office365/securitycompliance/data-loss-prevention-policies)用<sup>9</sup>  |否   |是   |否   |否   |是 <sup>7<sup>  |否  |是<sup>10</sup> |否   |是   |
-|[Microsoft 小組的通訊資料遺失防護](/microsoft-365/compliance/dlp-microsoft-teams)  |否   |否   |否   |否   |否   |否   |否   |否   |否   |
+|[Exchange Online、SharePoint 線上及商務用 OneDrive 9 的資料遺失防護](/office365/securitycompliance/data-loss-prevention-policies)<sup> </sup>  |否   |是   |否   |否   |是 <sup>7<sup>  |否  |是<sup>10</sup> |否   |是   |
+|[Microsoft Teams 的通訊資料遺失防護](/microsoft-365/compliance/dlp-microsoft-teams)  |否   |否   |否   |否   |否   |否   |否   |否   |否   |
 |[資訊屏障](/office365/securitycompliance/information-barriers)  |否   |否   |否   |否   |否   |否   |否   |否   |否   |
 |[資訊管理](/office365/securitycompliance/retention-policies)<sup>1</sup>  |是<sup>2</sup>  |是   |是   |是   |是   |是<sup>10</sup>  |是<sup>10</sup>  |是   |是   |
 |[高級資訊管理](/office365/securitycompliance/labels)<sup>3</sup>  |否   |否   |否   |否   |否   |否   |否   |否   |否   |
@@ -92,32 +92,32 @@ ms.locfileid: "51653475"
 |[Office 365 進階郵件加密](/microsoft-365/compliance/ome-advanced-message-encryption)  |否   |否   |否   |否   |是   |否   |否|否|否|
 |[特殊許可權存取管理](/microsoft-365/compliance/privileged-access-management-overview)  |否   |否   |否   |否   |是   |否   |否|否|否|
 
-<sup>1</sup> 資訊管理可讓使用者建立、發佈和手動將標籤套用至檔;使用磁片磁碟機運送或透過網路匯入資料。 您可以在 E3 和 E5 使用這些功能，只在 E1 中使用有限的可用性。 如需 E1、E3 及 E5 中可用之功能的完整清單，請參閱詳細的 Microsoft 365 相容性授權比較。 [ (PDF) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+<sup>1</sup> 資訊管理可讓使用者建立、發佈和手動將標籤套用至檔;使用磁片磁碟機運送或透過網路匯入資料。 您可以在 E3 和 E5 使用這些功能，只在 E1 中使用有限的可用性。 如需 E1、E3 及 E5 中可用之功能的完整清單，請參閱詳細 Microsoft 365 規範授權比較。 [ (PDF) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
-<sup>2</sup> 需要購買 Exchange Online 封存附加元件。
+<sup>2</sup>需要購買 Exchange Online 封存附加元件。
 
 <sup>3</sup> 高級資訊管理可讓您根據保留或刪除原則或兩者來分類資訊，保留重要資訊並刪除不重要的資訊。 它包含智慧/自動化的動作，例如推薦原則、自動將標籤套用至資料、套用標籤的敏感資料類型或查詢、處置檢查，以及使用智慧匯入篩選。 其中也包含監督功能，可讓您針對安全性與合規性目的檢閱員工通訊。
 
-<sup>4</sup> 會將 Skype 交談儲存為信箱的一部分。
+<sup>4</sup> Skype 的對話會儲存為信箱的一部分。
 
-<sup>5</sup> 「高級 eDiscovery」需要 Office 365 E5 或附加元件授權。
+<sup>5</sup> Advanced eDiscovery 需要 Office 365 E5 或附加元件授權。
 
-<sup>6</sup> Skype 封存位於使用者的信箱內。
+<sup>6</sup> Skype 封存位於使用者信箱內。
 
-<sup>7</sup> 包括儲存在 Microsoft 團隊存放庫中的檔案。
+<sup>7</sup>包括儲存在 Microsoft Teams 存放庫中的檔案。
 
-<sup>8</sup> 所有包含基本審核之方案的審計記錄會保留90天。 此外，您也可以使用 [Office 365 管理活動 API](/office/office-365-management-api/office-365-management-activity-api-reference) ，從統一的審計記錄檔中取得事件。
+<sup>8</sup> 所有包含基本審核之方案的審計記錄會保留90天。 此外，您也可以使用[Office 365 管理活動 API](/office/office-365-management-api/office-365-management-activity-api-reference) ，從統一的審計記錄檔中取得事件。
 
-<sup>9</sup> 需要 Office 365 資料遺失防護附加元件。
+<sup>9</sup>需要 Office 365 資料遺失防護附加元件。
 
-<sup>10</sup> 僅限儲存在商務 OneDrive 中的檔案。
+<sup>10</sup>限制儲存在商務用 OneDrive 中的檔案。
 
-<sup>11</sup> 使用保留原則將使用者信箱保留，需要 Exchange online 方案2或 exchange online 封存授權。
+<sup>11</sup>使用保留原則將使用者信箱設為保留原則，則需要 Exchange Online 方案2或 Exchange Online 封存授權。
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
-「合規性中心」是由世紀運作之 Office 365 的 E3 計畫中提供的。
+在由世紀運作的 Office 365 的 E3 計畫中提供合規性中心。
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-安全性 & 規範中心可用於 Office 365 德國。 如需有關 Office 365 德國的資訊，請參閱 [office 365 德國](office-365-germany.md)。
+Office 365 德國可取得安全性 & 規範中心。 如需 Office 365 德國的詳細資訊，請參閱[Office 365 德國](office-365-germany.md)。
