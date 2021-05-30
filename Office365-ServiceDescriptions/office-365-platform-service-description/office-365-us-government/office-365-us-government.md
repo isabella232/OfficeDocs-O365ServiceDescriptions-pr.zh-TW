@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已 Office 365 美國政府方案 (或 Office 365 政府版) 中建立的。 本文概要說明 Office 365 政府版 US 環境所特有的功能。
-ms.openlocfilehash: 415c3c76c7362c12b2da7ec33c88db1a930be405
-ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
+ms.openlocfilehash: 1a69b6a2366a8855970775b6ca3af7b8f507a6d8
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625640"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699079"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -105,7 +105,7 @@ Office 365<sup>1</sup>的 FastTrack 中心受益，您可以與 FastTrack 專家
 
 您可以在 [這裡](/FastTrack/us-gov-appendix-overview)找到 FastTrack 中心流程的特定資訊。 如需預訂角色和責任的細分，請複習 [FastTrack 責任](/FastTrack/us-gov-appendix-fasttrack-responsibilities) 以及 [您的責任](/FastTrack/us-gov-appendix-your-responsibilities)。
 
-> <sup>1</sup> 您必須從可接收 FastTrack 服務的 [合格方案](/fasttrack/eligibility) 清單中至少購買50個授權。
+> <sup>1</sup> 您必須從可接收 FastTrack 服務的 [合格方案](/fasttrack/eligibility) 清單中至少購買150個授權。
 <br/><sup>2</sup>資料移轉服務可用於 Office 365 含500或更多授權的承租人。
 
 ## <a name="data-migrations-performed-by-fasttrack"></a>FastTrack 所執行的資料移轉
@@ -453,7 +453,7 @@ Office 365我們的政府客戶可以使用 Azure 政府 ExpressRoute 服務，�
 |與共同作者的內容聊天：與檔內的共同撰寫人員聊天|否|否|否|
 |聽寫|是|是|否<sup>1</sup>|
 
-如需 GCC/GCC 高/DoD 中 Microsoft Teams 的功能可用性，請流覽[Microsoft Teams 服務描述](../../teams-service-description.md)。
+如需 GCC/GCC 高/DoD 中 Microsoft Teams 的功能可用性，請造訪[Microsoft Teams 服務描述](../../teams-service-description.md)。
 > <sup>1</sup> 可用性即將推出。
 <br/><sup>2</sup>在本機 Surface Hub 上可用 (未登入) 。
 <br/><sup>3</sup> GCC 環境可使用外部共用。 深入瞭解如何 [關閉或開啟組織的 Microsoft 表單](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) 。 GCC 高和 DOD 環境會停用外部共用;您組織內的使用者可能會執行下列動作：完成表單並提交回應、[複製表單並將表單共用做為範本](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)、[共同撰寫表單或在表單上共同](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)作業，以及[存取表單結果](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)。

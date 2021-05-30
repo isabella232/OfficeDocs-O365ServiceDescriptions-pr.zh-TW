@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未授權存取的潛在服務中斷。
-ms.openlocfilehash: d4ddb9c492cccef13c86e450c64a2eb6efe61eaa
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: d1bbf0d60d78d12d0d48ce909dba72ef2478a0c0
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52546010"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699059"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>安全規範的 Microsoft 365 授權指導方針 &amp;
 
@@ -26,7 +26,7 @@ ms.locfileid: "52546010"
 > [!NOTE]
 > 部分租用戶服務目前無法將權益限制在特定使用者。 應該努力將服務權益限制在取得授權的使用者。 這麼做有助於在鎖定功能可用時避免對組織造成潛在的服務中斷。
 
-若要查看授權您的使用者受益 Microsoft 365 規範功能的選項，請下載詳細的 Microsoft 365 相容性授權比較。 [ (PDF) ](https://www.microsoft.com/download/details.aspx?id=103010)  | [ (Excel) ](https://www.microsoft.com/download/details.aspx?id=103006)
+若要查看授權您的使用者受益 Microsoft 365 規範功能的選項，請下載[Microsoft 365 比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -267,7 +267,7 @@ Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business 進階版、Enterprise Mobility +
 
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 規範、Microsoft 365 E5/A5/G5 資訊保護和控管、Office 365 E5、Enterprise Mobility + Security E5/A5/G5，以及 AIP Plan 2 為使用者提供的權力，可從自動敏感度標記中受益。
 
-如需授權的特定權利，請參閱詳細 Microsoft 365 規範授權比較。 [ (PDF) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)不包含根據機器學習 (trainable 分類器) 自動分類的許可權。
+資訊保護不包含根據機器學習 (trainable 分類器) 自動分類的許可權。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
