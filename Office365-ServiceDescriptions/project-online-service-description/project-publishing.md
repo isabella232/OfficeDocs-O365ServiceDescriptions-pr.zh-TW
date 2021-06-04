@@ -23,7 +23,7 @@ ms.locfileid: "51651186"
 
 Project Online 中提供下列 SharePoint 和商務用 Skype 互通性功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務描述](project-online-service-description.md)。
   
 ## <a name="create-a-project-site"></a>建立專案網站
 
@@ -35,15 +35,15 @@ Project Online 中提供下列 SharePoint 和商務用 Skype 互通性功能。
   
 ## <a name="presence-with-skype-for-business"></a>使用商務用 Skype 的目前狀態
 
-使用傳訊功能與專案的小組成員溝通。 深入了解[專案中的 IM 對談](https://go.microsoft.com/fwlink/p/?LinkId=271351)。
+使用傳訊功能與專案的小組成員溝通。深入了解[專案中的 IM 對談](https://go.microsoft.com/fwlink/p/?LinkId=271351)。
   
-## <a name="publish-projects-on-project-server-or-project-online"></a>在 Project Server 或 Project Online 上發佈專案
+## <a name="publish-projects-on-project-server-or-project-online"></a>在 Project 伺服器或 Project Online 上發佈專案
 
-使用 Project Web App 發佈專案。 深入了解[儲存專案並將專案發佈到 Project Web App](https://go.microsoft.com/fwlink/p/?LinkId=271354)。
+使用 Project Web App 發佈專案。深入了解[儲存專案並將專案發佈到 Project Web App](https://go.microsoft.com/fwlink/p/?LinkId=271354)。
   
-## <a name="save-a-project-mpp-file-on-sharepoint"></a>將 Project MPP 檔案儲存在 SharePoint
+## <a name="save-a-project-mpp-file-on-sharepoint"></a>在 SharePoint 上儲存 Project 的 MPP 檔案
 
-將專案儲存在 SharePoint 文件庫中，以與不具備 Project Server 的小組成員共用。 深入了解[與 SharePoint 任務清單同步](https://go.microsoft.com/fwlink/p/?LinkId=271353)。
+將專案儲存在 SharePoint 文件庫中，以與沒有 Project 伺服器的小組成員共用。 深入了解[與 SharePoint 任務清單同步](https://go.microsoft.com/fwlink/p/?LinkId=271353)。
   
 ## <a name="task-list-sync-to-sharepoint"></a>工作清單同步處理至 SharePoint
 
@@ -51,6 +51,6 @@ Project Online 中提供下列 SharePoint 和商務用 Skype 互通性功能。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Project Online 服務說明](project-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務描述](project-online-service-description.md)。
   
 

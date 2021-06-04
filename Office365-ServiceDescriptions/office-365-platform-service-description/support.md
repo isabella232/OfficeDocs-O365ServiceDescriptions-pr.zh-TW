@@ -13,33 +13,33 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: 透過 Microsoft Office 365 for enterprise、business、教育和政府訂閱，Microsoft 支援服務提供全球技術、售前、帳單及訂閱支援。 線上透過 Microsoft365 系統管理中心，以及透過電話撥打付費和試用版訂閱，都有提供支援。 如需詳細資訊，請參閱 Microsoft 支援選項。
-ms.openlocfilehash: c43658f47d2dc2644228d3b4cb87396757137428
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: 透過企業、商務、教育和政府訂閱的每一種 Microsoft Office 365，Microsoft 支援服務提供全球性的技術、售前、帳單及訂閱支援。 線上透過 Microsoft 365 系統管理中心，以及透過電話撥打付費和試用版訂閱，都有線上支援。 如需詳細資訊，請參閱 Microsoft 支援選項。
+ms.openlocfilehash: aee2ff37c2fb531e506a2cb18a5e92a6528785c7
+ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652427"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721197"
 ---
 # <a name="support"></a>支援
 
-透過 Microsoft Office 365 for enterprise、business、教育和政府訂閱，Microsoft 支援服務提供全球技術、售前、帳單及訂閱支援。 線上透過 Microsoft 365 系統管理中心，以及透過電話撥打付費和試用版訂閱，都有提供支援。 如需詳細資訊，請參閱 [Microsoft 支援選項](/Office365/Admin/contact-support-for-business-products)。
+針對企業、商務、frontline、教育版和政府的每一個 Microsoft 365 和 Office 365 訂閱，Microsoft 支援提供全球技術、售前、帳單及訂閱支援。 線上透過 Microsoft 365 系統管理中心，以及透過電話撥打付費和試用版訂閱，都有線上支援。 如需詳細資訊，請參閱 [Microsoft 支援選項](/Office365/Admin/contact-support-for-business-products)。
+
+授權的系統管理員可以使用 Microsoft 365 系統管理中心，以線上提交服務要求、存取支援電話號碼，以及查看所有開啟及最近關閉的服務要求。 在系統管理中心中送出的服務要求，在要求關閉後，最多可重新開啟14天。 如需相關指示，請參閱[business support 的連絡人 Microsoft 365](/Office365/Admin/contact-support-for-business-products)。
   
-授權的系統管理員可以使用 Microsoft 365 系統管理中心，以線上提交服務要求、存取支援電話號碼，以及查看所有開啟及最近關閉的服務要求。 在系統管理中心中送出的服務要求，在要求關閉後，最多可重新開啟14天。 如需相關指示，請參閱 [聯繫 Microsoft 365 for business support](/Office365/Admin/contact-support-for-business-products)。
-  
-Microsoft 365 技術支援小組只會針對與 Microsoft 365 和 Office 365 相關的問題進行診斷。 來源於客戶網路的問題超出支援界限，在這些情況下，客戶必須與網路小組合作，或聯繫 [Microsoft 網路小組](https://support.microsoft.com/gp/contactus81?Audience=Commercial) 以尋求協助。
+Microsoft 365 的技術支援小組只會針對與 Microsoft 365 和 Office 365 相關的問題進行診斷。 來源於客戶網路的問題超出支援界限，在這些情況下，客戶必須與網路小組合作，或聯繫 [Microsoft 網路小組](https://support.microsoft.com/gp/contactus81?Audience=Commercial) 以尋求協助。
   
 ## <a name="community-and-self-service-support-options"></a>社群和自助支援選項
 
-自助支援可用於所有方案，包含疑難排解工具和影片、協助文章和影片，以及 [Microsoft 365 社區](https://go.microsoft.com/fwlink/p/?LinkID=279811)中的論壇和 wiki。 如需自助支援資源的相關資訊，請參閱 [Help and 訓練](help-and-training.md) 服務描述。
+自助支援可用於所有方案，包含疑難排解工具和影片、協助文章和影片，以及[Microsoft 365 社區](https://go.microsoft.com/fwlink/p/?LinkID=279811)中的論壇和 wiki。 如需自助支援資源的相關資訊，請參閱 [Help and 訓練](help-and-training.md) 服務描述。
   
 ## <a name="pre-sales-support"></a>售前支援
 
-售前支援提供有關訂閱功能和權益的協助、規劃比較、定價和授權，以及協助識別適當的解決方案以滿足您的業務需求。 此外，售前支援可以幫助您尋找合作夥伴，以及購買和註冊試用。 您可以在星期一到星期五當地營業時間內撥打電話。 售前支援和技術支援的服務電話號碼相同。 可在免費試用版的系統管理中心內找到支援電話號碼。 如需相關指示，請參閱 [聯繫 Microsoft 365 for business support](/Office365/Admin/contact-support-for-business-products)。
+售前支援提供有關訂閱功能和權益的協助、規劃比較、定價和授權，以及協助識別適當的解決方案以滿足您的業務需求。 此外，售前支援可以幫助您尋找合作夥伴，以及購買和註冊試用。 您可以在星期一到星期五當地營業時間內撥打電話。 售前支援和技術支援的服務電話號碼相同。 可在免費試用版的系統管理中心內找到支援電話號碼。 如需相關指示，請參閱[business support 的連絡人 Microsoft 365](/Office365/Admin/contact-support-for-business-products)。
   
 ## <a name="billing-and-subscription-management-support"></a>帳務和訂閱管理支援
 
-您可透過線上支援或於週一至週五的當地營業時間內撥打電話，以取得帳務和訂閱管理問題的協助。 帳務和訂閱管理支援與技術支援的服務電話相同，且線上服務要求的提交程序也相同。 可在系統管理中心找到支援電話號碼。 如需相關指示，請參閱 [聯繫 Microsoft 365 for business support](/Office365/Admin/contact-support-for-business-products)。
+您可透過線上支援或於週一至週五的當地營業時間內撥打電話，以取得帳務和訂閱管理問題的協助。 帳務和訂閱管理支援與技術支援的服務電話相同，且線上服務要求的提交程序也相同。 可在系統管理中心找到支援電話號碼。 如需相關指示，請參閱[business support 的連絡人 Microsoft 365](/Office365/Admin/contact-support-for-business-products)。
   
 下列為帳務和訂閱管理問題的部分範例：
   
@@ -61,13 +61,13 @@ Microsoft 365 訂閱的技術支援提供基本安裝、設定及一般技術使
   
 | 支援類別 | 範例 |
 |:-----|:-----|
-|安裝和設定  <br/> | Exchange Online:  <br/>  信箱移轉  <br/>  收件者設定 (信箱權限、設定信箱轉寄功能、設定共用信箱)  <br/>  自動探索設定  <br/>  SharePoint Online:  <br/>  權限和使用者群組  <br/>  設定外部使用者  <br/>  商務用 Skype Online:  <br/>  安裝和建立連絡人  <br/>  Microsoft 365 應用程式企業版：安裝和設定協助  <br/> |
+|安裝和設定  <br/> | Exchange Online:  <br/>  信箱移轉  <br/>  收件者設定 (信箱權限、設定信箱轉寄功能、設定共用信箱)  <br/>  自動探索設定  <br/>  SharePoint Online:  <br/>  權限和使用者群組  <br/>  來賓的設定  <br/>  商務用 Skype Online:  <br/>  安裝和建立連絡人  <br/>  Microsoft 365 Apps 企業版：安裝和設定協助  <br/> |
 |組態  <br/> | 服務設定失敗問題  <br/>  佈建問題  <br/>  網域設定和重新委派  <br/>  服務設定問題  <br/>  單一登入 (SSO)  <br/>  Active Directory 同步處理  <br/> |
 
 > [!NOTE]
-> 您可以在這裡瞭解如何聯繫我們的技術支援： [與 Microsoft 365 聯繫以取得商務支援服務](/Office365/Admin/contact-support-for-business-products)。
+> 您可以在這裡瞭解如何與技術支援部門聯繫：[請聯繫我們 Microsoft 365 以取得商務支援](/Office365/Admin/contact-support-for-business-products)。
 >
-> 技術支援不包括疑難排解協力廠商服務或增益集。瞭解如何在 [Microsoft 社區](https://answers.microsoft.com)中尋找其他客戶的答案。
+> 技術支援不包括疑難排解協力廠商服務或增益集。瞭解如何在[Microsoft Community](https://answers.microsoft.com)中尋找其他客戶的答案。
   
 ### <a name="technical-support-case-handling"></a>技術支援案例的處理
 
@@ -83,25 +83,25 @@ Microsoft 365 訂閱的技術支援提供基本安裝、設定及一般技術使
 
 初始回應時間是以上述所述的嚴重性層級，以及訂閱類型為基礎。 下表說明了回應時間目標。<br><br>
   
-| 嚴重層級 | Microsoft 365 商務基本版<sup>1</sup><br> Microsoft 365 商務應用程式<sup>1</sup><br> Microsoft 365 商務標準版<sup>1</sup> | Office 365 E1<sup>2</sup><br> Office 365 E3<sup>2</sup><br> Office 365 政府 G2<sup>2</sup><br> Office 365 美國政府版 E3<sup>2</sup><br> Office 365 教育版<sup>2</sup> | Office 365 F1<sup>2</sup><br> Office 365 美國政府 K1<sup>2</sup> | 提升支援選項<sup>3</sup> |
-|:-----|:-----|:-----|:-----|:-----|
-| 嚴重度 A (重大)  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：1 小時  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：1 小時  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：1 小時  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：1 小時  <br/> |
-|嚴重度 B (高)  <br/> |可用：上班時間  <br/> 回應時間：未承諾  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：明天  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：明天  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：2 小時  <br/> |
-|嚴重度 C (中)  <br/> |可用：上班時間  <br/> 回應時間：未承諾  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：未承諾  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：未承諾  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：4 小時  <br/> |
+| 嚴重層級 | Microsoft 365 商務基本版<sup>1</sup><br> Microsoft 365 Apps 商務版<sup>1</sup><br> Microsoft 365 商務標準版<sup>1</sup><br> Microsoft 365 商務進階版<sup>1</sup> | 所有 Microsoft 365 和 Office 365 企業版 (E) ，<br/> Frontline (F) ，<br/> 政府 (G) 和<br/> 教育 () 計畫 | 提升支援選項<sup>3</sup> |
+|:-----|:-----|:-----|:-----|
+| 嚴重度 A (重大)  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：1 小時  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：1 小時  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：1 小時  <br/> |
+|嚴重度 B (高)  <br/> |可用：上班時間  <br/> 回應時間：未承諾  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：明天  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：2 小時  <br/> |
+|嚴重度 C (中)  <br/> |可用：上班時間  <br/> 回應時間：未承諾  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：未承諾  <br/> |可用：全年無休<sup>4</sup> <br/> 回應時間：4 小時  <br/> |
 
 > [!NOTE]
 > <sup>1</sup> 商務方案包括從 Microsoft 取得的所有非重大問題和24/7 電話支援的上班時間支援。<br/>
-> <sup>2</sup> 企業版方案包括來自 Microsoft 的24/7 電話支援，以解決所有問題。<br/>
+> <sup>2</sup> Enterprise 方案包括來自 Microsoft 的24/7 電話支援，以解決所有問題。<br/>
 > <sup>3</sup> 如需較高支援選項的描述，請參閱 [其他支援選項](support.md#additional-support-options)。<br/>
 > <sup>4</sup> 通話和服務要求在大部分的國家和地區中每天24小時、每週7天處理一次。
   
 ### <a name="support-for-standalone-plans"></a>獨立計劃支援
 
-以企業服務系列中的計畫，處理付費獨立計畫的支援和回應時間目標。 如需獨立計劃的清單，請參閱[Standalone services](office-365-plan-options.md#standalone-services)。
+支援付費獨立計畫的處理方式，與 Enterprise 服務系列中的計畫的支援和回應時間目標相同。 如需獨立計劃的清單，請參閱[Standalone services](office-365-plan-options.md#standalone-services)。
   
 ### <a name="technical-support-languages"></a>技術支援語言
 
-依地點和語言而定，大部分區域的營業時間內，支援工程師均可提供支援，某些情況下 24 小時待命。 如需詳細資訊，請參閱 [國際電話號碼](/Office365/Admin/contact-support-for-business-products) 和 [Microsoft 支援選項](https://products.office.com/business/office-365-for-business-support-options)。 如需另外的翻譯協助，支援工程師可直接在線上為您安排翻譯人員加入通話。
+依地點和語言而定，大部分區域的營業時間內，支援工程師均可提供支援，某些情況下 24 小時待命。 如需詳細資訊，請參閱[國際性電話號碼](/Office365/Admin/contact-support-for-business-products)和[Microsoft 支援選項](https://products.office.com/business/office-365-for-business-support-options)。 如需另外的翻譯協助，支援工程師可直接在線上為您安排翻譯人員加入通話。
   
 ## <a name="shared-support-responsibilities"></a>共用支援責任
 
@@ -111,7 +111,7 @@ Microsoft 了解即時提供合格專業人員的技術支援是雲端服務的�
 
 只有 Microsoft 系統管理員角色的人員才有權存取系統 **管理中心的系統管理員區段，** 以及直接與 Microsoft 進行服務要求的通訊。
   
-使用 Office 365 for enterprise 和 Microsoft 365 Apps Plan，您可以指定多種類型的系統管理員來提供不同的功能。 此服務說明採用一般標題「管理員」來統稱所有類別的管理員。 如需有關管理員角色類型的詳細資訊，請參閱〈[指派管理員角色](/office365/admin/add-users/assign-admin-roles)〉。
+使用適用于 enterprise 和 Microsoft 365 Apps 計畫的 Office 365，您可以指定多種具有不同功能的系統管理員類型。 此服務說明採用一般標題「管理員」來統稱所有類別的管理員。 如需有關管理員角色類型的詳細資訊，請參閱〈[指派管理員角色](/office365/admin/add-users/assign-admin-roles)〉。
   
 管理員：
   
@@ -181,10 +181,10 @@ Microsoft 隨附的支援服務可滿足許多客戶的需求，具有更多高�
   
 ### <a name="developers"></a>開發人員
 
-開發人員可以深入瞭解在 [MSDN Microsoft 開發人員網路](https://developer.microsoft.com/office/docs)上開發 Office 和 SharePoint 應用程式。 開發人員支援可透過線上博客和論壇中的開發人員社區、Premier 或 Partner Support 資源，或直接透過 Microsoft 取得。 如需開發人員支援選項的連結，請參閱 [支援資源](https://developer.microsoft.com/office/docs)。
+開發人員可以深入瞭解在[MSDN Microsoft 開發人員網路](https://developer.microsoft.com/office/docs)上開發 Office 和 SharePoint 應用程式。 開發人員支援可透過線上博客和論壇中的開發人員社區、Premier 或 Partner Support 資源，或直接透過 Microsoft 取得。 如需開發人員支援選項的連結，請參閱 [支援資源](https://developer.microsoft.com/office/docs)。
   
 > [!NOTE]
-> Microsoft 小組不支援腳本 (例如，像是 JavaScript、VBScript 等腳本技術或 VBA) 。 如果您需要使用指令碼的協助，請連絡 [Microsoft 支援](https://support.microsoft.com/)。 如需 Office 應用程式使用方式支援，請參閱 [訂閱者的 Microsoft Office 應用程式問題支援選項](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f)。
+> Microsoft 小組不支援腳本 (例如，像是 JavaScript、VBScript 等腳本技術或 VBA) 。 如果您需要使用指令碼的協助，請連絡 [Microsoft 支援](https://support.microsoft.com/)。 如需 Office 的應用程式使用方式支援，請參閱[支援選項，以瞭解訂戶 Microsoft Office 應用程式的問題](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f)。
   
 ### <a name="volume-licensing"></a>大量授權
 
@@ -200,4 +200,4 @@ Microsoft 隨附的支援服務可滿足許多客戶的需求，具有更多高�
 
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案中的功能可用性，請參閱 [Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
+若要查看不同方案中的功能可用性，請參閱[Microsoft 365 和 Office 365 platform service description](office-365-platform-service-description.md)。

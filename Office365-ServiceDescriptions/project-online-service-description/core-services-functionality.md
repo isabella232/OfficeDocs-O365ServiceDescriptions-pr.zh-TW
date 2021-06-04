@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
-description: Project Online 中提供下列核心服務功能功能。
+description: Project Online 提供下列核心服務功能功能。
 ms.openlocfilehash: 685c14a18af853c206bb9db0aaa294b7f96b1dfe
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652287"
 ---
 # <a name="core-services-functionality"></a>核心服務功能
 
-Project Online 中提供下列核心服務功能功能。
+Project Online 提供下列核心服務功能功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務描述](project-online-service-description.md)。
   
 ## <a name="active-directory-integration"></a>Active Directory 整合
 
@@ -41,7 +41,7 @@ Project Online 和 Project Server 2013 包括功能，可預防、識別和降�
   
 ## <a name="office-365-trust-center"></a>Office 365 信任中心
 
-您的資料就是您的。 我們會維護和保護您的隱私權。 請參閱 [Office 365 信任中心](https://go.microsoft.com/fwlink/?LinkId=402637)。
+您的資料就是您的。我們會維護和保護您的隱私權。請參閱 [Office 365 信任中心](https://go.microsoft.com/fwlink/?LinkId=402637)。
   
 ## <a name="ppm-partner-ecosystem"></a>PPM Partner ecosystem
 
@@ -57,7 +57,7 @@ Microsoft PPM 方案受到上千家 Microsoft 合作夥伴的支援，這些合�
   
 ## <a name="team-member-collaboration"></a>小組成員協同合作
 
-小組共同作業支援並驅動整體專案成功和效率。 若要查看 Project Server 2013 如何讓組織在專案上共同作業，請參閱 [影片：與您的小組共同](https://go.microsoft.com/fwlink/?LinkId=402628)作業。
+小組共同作業支援並驅動整體專案成功和效率。 若要瞭解 Project Server 2013 如何讓組織在專案上共同作業，請參閱[影片：與您的小組共同](https://go.microsoft.com/fwlink/?LinkId=402628)作業。
   
 ## <a name="time-and-task-management-for-team-members"></a>時間和工作管理 (適用於小組成員)
 

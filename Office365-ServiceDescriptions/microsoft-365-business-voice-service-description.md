@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 商務版語音服務描述
+title: Microsoft 365 商務語音服務描述
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -17,7 +17,7 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 05/07/2021
 ms.locfileid: "52266353"
 ---
-# <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 商務版語音服務描述
+# <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 商務語音服務描述
 
 Microsoft 365 商務語音是雲端式電話語音 Microsoft Teams 解決方案，可提供電話系統功能（例如通話駐留、來電轉接、自動語音應答、通話佇列、音訊會議及通話計畫）。 您可以將商務語音新增至 Office 365 和 Microsoft 365 訂閱，其中包含 Microsoft Teams (高達300個授權) 。 如需商務語音服務的詳細資訊，請參閱[Microsoft 365 商務語音](/MicrosoftTeams/business-voice/whats-business-voice)。
 

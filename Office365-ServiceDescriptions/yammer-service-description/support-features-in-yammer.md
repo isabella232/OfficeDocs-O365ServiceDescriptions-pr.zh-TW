@@ -34,11 +34,11 @@ Yammer Enterprise 系統管理員負責維護帳戶，並且有權直接與 Micr
 
 ## <a name="customer-support"></a>客戶支援
 
-我們有技術支援人員可以快速回答客戶問題及解決問題。 Yammer 客戶可以在公開支援論壇上進行發佈，它會以一天24小時、每週7天的技術支援代理程式來獲得支援。 如果您是需要支援的 Yammer 客戶，請參閱＜[Yammer 公用支援](https://go.microsoft.com/fwlink/p/?LinkId=330921)＞。
+我們有技術支援人員可以快速回答客戶問題及解決問題。 Yammer 客戶可以在公開支援論壇上發表支援，這會在一天24小時、每週7天，由支援代理程式進行監視。 如果您是需要支援的 Yammer 客戶，請參閱＜[Yammer 公用支援](https://go.microsoft.com/fwlink/p/?LinkId=330921)＞。
    
 ## <a name="fasttrack-center"></a>FastTrack Center
 
-Microsoft FastTrack 服務可協助您的組織移至 Microsoft 雲端，方法是在每個步驟中提供協助。 FastTrack 可讓您以戰略計畫的部署方案，快速提升新服務，以及上架新使用者。 如需詳細資訊，請造訪 [FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)。 如需建立 Yammer 網路（包括預先啟動、啟動和支援檔及活動）的詳細資訊，請移至 [ [構想：識別案例](https://fasttrack.microsoft.com/office/envision/identify-scenarios) ] 頁面，然後選取 [ **將組織移到一起**]。
+Microsoft FastTrack 服務可協助您的組織移至 Microsoft 雲端，方法是在每個步驟中提供協助。 FastTrack 可讓您以戰略計畫的部署方案，快速提升新服務，以及上架新使用者。 如需詳細資訊，請造訪 [FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)。 如需建立 Yammer 網路（包括預先啟動、啟動和支援檔及活動）的詳細資訊，請移至 [[構想：識別案例](https://fasttrack.microsoft.com/office/envision/identify-scenarios)] 頁面，然後選取 [**將組織移到一起**]。
 
 ## <a name="support-features-across-yammer-plans"></a>不同 Yammer 計劃中的支援功能
 
@@ -56,7 +56,7 @@ Microsoft FastTrack 服務可協助您的組織移至 Microsoft 雲端，方法�
   
 |**嚴重層級**|**描述**|**範例**|
 |:-----|:-----|:-----|
-|嚴重度 A (重大)  <br/> |大多數使用者都無法使用服務。  <br/> |Yammer 平臺已停機。  <br/> |
+|嚴重度 A (重大)  <br/> |大多數使用者都無法使用服務。  <br/> |Yammer 平臺已關機。  <br/> |
 |嚴重度 B (高)  <br/> |服務可以使用，但是嚴重受損。  <br/> |張貼到摘要並未如預期般運作。  <br/> |
 |嚴重度 C (中)  <br/> |服務並未如預期般運作，但有因應措施可克服。  <br/> |檔案預覽未如預期般顯示。  <br/> |
 

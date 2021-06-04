@@ -25,7 +25,7 @@ Microsoft 支援下列網路功能。
   
 ## <a name="ports-protocols-and-ip-addresses"></a>連接埠、通訊協定和 IP 位址
 
-Microsoft 使用 IPv4 和 IPv6 位址。 IPv6 位址指定的使用是選用的，且不是連線 Office 365 的必要條件。 使用 IPv6，並非所有的 Microsoft 365 功能都已完全啟用。 如需 Ipv6 支援的詳細資訊，請參閱 [Microsoft 服務中的 IPv6 支援](/office365/enterprise/ipv6-support)。
+Microsoft 使用 IPv4 和 IPv6 位址。 IPv6 位址指定的使用是選用的，且不是連線 Office 365 的必要條件。 使用 IPv6 並不會完全啟用所有的 Microsoft 365 功能。 如需 Ipv6 支援的詳細資訊，請參閱[Microsoft 服務中的 IPv6 支援](/office365/enterprise/ipv6-support)。
   
 Microsoft 會在 Microsoft 協助中維護允許的 IP 位址清單。 如需詳細資訊，請參閱 [URLs 和 IP 位址範圍](/office365/enterprise/urls-and-ip-address-ranges)。 對於 21Vianet 運作的 Office 365，請參閱〈[21Vianet 運作的 Office 365 的 URL 及 IP 位址](/office365/enterprise/managing-office-365-endpoints)〉。 如需了解 Office 365 Germany，請參閱〈[Office 365 Germany 端點](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8)〉。
   
@@ -64,4 +64,4 @@ Microsoft 網路基礎結構由大量的資料中心、伺服器、內容發佈�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案中的功能可用性，請參閱 [Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
+若要查看不同方案中的功能可用性，請參閱[Microsoft 365 和 Office 365 platform service description](office-365-platform-service-description.md)。

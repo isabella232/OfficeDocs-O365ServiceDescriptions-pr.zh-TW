@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: 若要瞭解 Microsoft Exchange Online Protection (EOP) 中的郵件流程，請閱讀本文。
+description: 請閱讀本文以瞭解 Microsoft Exchange Online Protection (EOP) 中的郵件流程。
 ms.openlocfilehash: 0923f31ccb639271303654cbdccf4890b2a55062
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,11 +23,11 @@ ms.locfileid: "51653135"
 
 針對使用 Microsoft 的大多陣列織，我們會主控您的信箱並處理郵件流程。 這是最簡單的設定，並表示 Microsoft 管理所有的信箱和篩選。 不過，某些組織基於業務需求而需要將所有信箱保留在內部。 Exchange Online Protection (EOP) 可讓您執行此作業，並在雲端中提供防病毒和反垃圾郵件的郵件處理。 如需詳細資訊並購買 EOP，請移至 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)。
   
-尋找網域管理還是目錄架構邊緣封鎖 (DBEB) 的詳細資訊？ 請參閱 [收件者、網域和公司管理](recipient-domain-and-company-management.md)。 若要深入瞭解所有 EOP 功能，請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
+尋找網域管理還是目錄架構邊緣封鎖 (DBEB) 的詳細資訊？ 請參閱 [收件者、網域和公司管理](recipient-domain-and-company-management.md)。 若要深入瞭解所有 EOP 功能，請參閱[Exchange Online Protection 服務描述](exchange-online-protection-service-description.md)。
   
 ## <a name="routing-email-between-microsoft-and-your-own-email-servers"></a>在 Microsoft 和您自己的電子郵件伺服器之間路由傳送電子郵件
 
-您可以設定連接器，以啟用 Microsoft (之間的郵件流程，包括 Exchange Online 或 EOP) 以及以 SMTP 為基礎的電子郵件伺服器（如 Exchange）。 如需相關的詳細資訊，請參閱[Do I need a connector](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)？ 和 [設定連接器，以在 Microsoft 和您自己的電子郵件伺服器之間路由傳送郵件](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)。
+您可以設定連接器，以啟用包含 Exchange Online 或 EOP) 和 SMTP 型電子郵件伺服器（如 Exchange）的 Microsoft (之間的郵件流程。 如需相關的詳細資訊，請參閱[Do I need a connector](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)？ 和 [設定連接器，以在 Microsoft 和您自己的電子郵件伺服器之間路由傳送郵件](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)。
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>與信任的合作夥伴間的安全傳訊
 
@@ -53,4 +53,4 @@ ms.locfileid: "51653135"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Exchange Online Protection 服務說明](exchange-online-protection-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online Protection 服務描述](exchange-online-protection-service-description.md)。

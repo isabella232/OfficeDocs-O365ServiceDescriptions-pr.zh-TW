@@ -19,13 +19,13 @@ ms.locfileid: "51653435"
 ---
 # <a name="onedrive-for-us-government-environments"></a>適用于美國政府環境的 OneDrive
 
-本文概要說明美國政府雲端與商業性雲端之間的功能差異，如 [OneDrive 服務說明](../../onedrive-for-business-service-description.md)所示。 OneDrive 可用於政府社區雲端 (GCC) 、GCC High 及 DoD 環境。 
+本文概要說明美國政府雲端與商業性雲端之間的功能差異，如[OneDrive 服務說明](../../onedrive-for-business-service-description.md)所示。 OneDrive 可用於政府社群雲端 (GCC) 、GCC 高及 DoD 的環境。 
 
-如需政府雲端（包括資格和購買）的詳細資訊，請參閱 [Microsoft 365 政府-如何購買](./microsoft-365-government-how-to-buy.md)。 若要比較 Office 365 政府方案，請參閱 [office 365 政府方案](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
+如需政府雲端（包括資格和購買）的詳細資訊，請參閱[Microsoft 365 政府–如何購買](./microsoft-365-government-how-to-buy.md)。 若要比較 Office 365 政府版計畫，請參閱[Office 365 政府版計畫](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
 
-若要深入瞭解管理網路連線時所需的端點，請參閱 [office 365 美國政府版高端點](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) 或 [Office 365 美國政府 DoD 端點](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)。
+若要在管理網路連線時瞭解必要的端點，請參閱[Office 365 美國政府 GCC 高階端點](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business)或[Office 365 美國政府 DoD 端點](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)。
 
-除了享受 Office 365 的功能之外，組織還會受益于美國政府雲端環境獨有的下列功能：
+除了享受 Office 365 的功能和功能之外，組織還會受益于美國政府雲端環境所獨有的下列功能：
 
 -   您組織的客戶內容與 Microsoft 的商業 Office 365 服務中的客戶內容有邏輯隔離。
 -   組織的客戶內容儲存於美國境內。
@@ -42,14 +42,14 @@ ms.locfileid: "51653435"
 
 以下是商業客戶和政府雲端客戶之 web 功能之間的差異：
 
-- 在 GCC 高端和 DoD 環境中無法使用檔案卡
-- 在功能窗格中 SharePoint 文件庫存取 ( 「共用庫」) 在 GCC 高端及 DoD 環境中不可用
+- 在 GCC 高和 DoD 環境中無法使用檔案卡
+- 在功能窗格中 SharePoint 文件庫存取 ( 「共用庫」) 在 GCC 的高和 DoD 環境中不可用
 
 ## <a name="mobile-features"></a>行動功能
 
 以下是商業客戶行動裝置功能和政府雲端客戶的行動裝置功能之間的差異：
 
-- 「適用于 XBox One、HoloLens、Surface Hub 和平板電腦的 Windows 10 應用程式」不適用於政府環境 (GCC、GCC High 和 DoD) 。
+- 適用于 HoloLens、Surface Hub 和平板電腦的 Windows 10 應用程式不適用於政府環境 (GCC、GCC 高及 DoD) 。
 
 ## <a name="sync-features"></a>同步處理功能
 
@@ -59,4 +59,4 @@ ms.locfileid: "51653435"
 
 ## <a name="security-compliance-and-administration-features"></a>安全性、規範和管理功能
 
-如需商業雲端和政府雲端環境之間的功能差異，請參閱 [適用于美國政府環境的 SharePoint](sharepoint.md)
+如需商業雲端和政府雲端環境之間的功能差異，請參閱[適用于美國政府環境的 SharePoint](sharepoint.md)

@@ -28,7 +28,7 @@ ms.locfileid: "52545920"
 Microsoft Project 提供下列應用程式，協助滿足您組織的專案和工作管理需求：
 
 - Project 網頁版
-- Project Online 
+- Microsoft Project Online 
 - Project Online 桌面用戶端
 
 本文將協助您瞭解每個 Project 訂閱中提供哪些應用程式，以及每個應用程式所提供的功能。
@@ -41,7 +41,7 @@ web 的 Project 是以 Microsoft Power 平臺為基礎。 [電源平臺] 包含 
 
 web 的 Project 可透過三個訂閱取得： Project 方案1、Project 方案3及 Project 方案5。 在[web 功能 Project](#project-for-the-web-features)中列出的功能只會與 web 資料儲存區 Project 中的資料互動。
 
-### <a name="project-online"></a>Project Online
+### <a name="project-online"></a>Microsoft Project Online
  
 Project Online 是 Project 產品群組管理 (PPM) 及日常運作的靈活線上解決方案。 Project Online 提供強大的專案管理功能，以在 &mdash; 幾乎任何裝置上的幾乎任何地方規劃、排定專案與專案組合的投資，以及管理專案與專案的投資。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
 
@@ -81,7 +81,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以符合組織的需�
 |產品 | 方案 1 | 方案3 | 方案5 |
 |--------|-----------------------------|------------------------|------------------------|
 |Project 網頁版 |**x**  | **x x** | **x x** |
-|Project Online |**x** |**x x**| **x x x** |
+|Microsoft Project Online |**x** |**x x**| **x x x** |
 |Project Online 桌面用戶端 | |**x**|**x**|
 
 在上表中， (**x**) 的檢查數目會指出方案所提供的一般功能層級。 例如，針對 Project Online，plan 5 提供的功能比方案3多。

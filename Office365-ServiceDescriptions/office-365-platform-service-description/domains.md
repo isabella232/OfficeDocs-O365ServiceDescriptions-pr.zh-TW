@@ -31,11 +31,11 @@ ms.locfileid: "51652567"
   
 ### <a name="second-and-third-level-domains"></a>第二層和第三層網域
 
-使用 Office 365 Enterprise 和 Microsoft 365 應用程式時，您可以新增任何層級的網域，包括 marketing.contoso.com 等第三層級的網域。 請參閱 [將自訂子域或多個網域新增至 Microsoft](/office365/admin/setup/domains-faq)。 如果您使用 21Vianet 運作的 Office 365，請參閱[將自訂的子網域或多個網域新增到 21Vianet 運作的 Office 365](/office365/admin/setup/domains-faq)。
+使用 Office 365 企業版和 Microsoft 365 Apps 商務版，您可以新增任何層級的網域，包括 marketing.contoso.com 等第三層級的網域。 請參閱 [將自訂子域或多個網域新增至 Microsoft](/office365/admin/setup/domains-faq)。 如果您使用 21Vianet 運作的 Office 365，請參閱[將自訂的子網域或多個網域新增到 21Vianet 運作的 Office 365](/office365/admin/setup/domains-faq)。
   
 ## <a name="domain-verification-and-managing-dns-records"></a>網域驗證和管理 DNS 記錄
 
-使用 Microsoft 365，您可以在您的 DNS 主機服務提供者管理所有的 DNS 記錄，或選擇讓 Microsoft 為您設定和管理您網域的 DNS 記錄。 如果您繼續記錄管理，請視需要將特定記錄變更為指向 [Microsoft 服務]。 如需提供新增記錄的逐步指示（包括每筆記錄使用的特定值）的網域註冊機構清單，請參閱 [CREATE dns](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) record; 如果您使用的是由世紀運作的 office 365，請參閱 CREATE a dns record At the office 365 （由世紀運作）的任何提供者。 
+透過 Microsoft 365，您可以在您的 dns 主機服務提供者管理所有的 dns 記錄，或選擇讓 Microsoft 為您設定和管理您網域的 dns 記錄。 如果您繼續記錄管理，您視需要變更特定記錄，使其指向 Microsoft 服務。 如需提供新增記錄的逐步指示（包括每筆記錄使用的特定值）的網域註冊機構清單，請參閱[create dns](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) record; 如果您使用的是由世紀運作的 Office 365，請參閱在任何提供者處建立 dns 記錄（如果您使用的是由世紀運作的 Office 365）。 
   
 如果 Microsoft 為您管理網域的 DNS 記錄，您必須先切換網域的名稱伺服器記錄，以指向 Microsoft，然後 Microsoft 會設定您的服務，然後在 Microsoft 管理您網域的 DNS 記錄。
   
@@ -43,18 +43,18 @@ ms.locfileid: "51652567"
   
 不論您的 DNS 記錄的主控位置為何，您都可以設定 DNS 記錄，以將您的網域用於 Microsoft 或其他主機服務提供者所主控之公用網站的 URL。 
   
-Microsoft 主動檢查您的 DNS 記錄，以尋找及協助修正 DNS 問題。 如果您的 DNS 記錄不符合我們預期的記錄，您會在 Microsoft 365 系統管理中心收到通知，以及告訴您如何修正已識別的可能問題的資訊。
+Microsoft 主動檢查您的 DNS 記錄，以尋找及協助修正 DNS 問題。 如果您的 DNS 記錄不符合我們預期的記錄，您會收到 Microsoft 365 系統管理中心的通知，以及告訴您如何修正已識別的可能問題的資訊。
   
-如需詳細資訊，請參閱 [Microsoft 如何管理 dns 記錄](/office365/admin/setup/domains-faq) ，或在由世紀運作的 Office 365。 [管理 dns 記錄時，請參閱建立 OFFICE 365 的 DNS 記錄](/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records)。
+如需詳細資訊，請參閱[Microsoft 如何管理 dns 記錄](/office365/admin/setup/domains-faq)，或在由世紀運作的 Office 365 中，查看[當您管理 dns 記錄時 Office 365 建立 dns 記錄](/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records)。
   
 ## <a name="sharing-a-domain"></a>共用網域
 
 您可以在 Microsoft 上試驗某個網域的某些電子郵件地址，以及您先前的電子郵件提供者。 建議僅在試驗期間使用此選項，因為它需要額外的設定步驟，且對 Microsoft 服務有一些限制。 如需詳細資訊，請參閱：
   
-- [試用 Microsoft 365 小型企業版](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
+- [適用于小型企業的試驗 Microsoft 365](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     
-- [使用 FastTrack 進行大型商務 (試驗 Microsoft 365) ](https://fasttrack.office.com/onboard)
+- [使用 FastTrack) 大型商務 (試驗 Microsoft 365](https://fasttrack.office.com/onboard)
     
 ## <a name="feature-availability"></a>功能可用性
 
-若要針對商務方案、獨立選項和內部部署解決方案，查看跨 Microsoft 365 的功能可用性，請參閱 [Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
+若要針對商務方案、獨立選項和內部部署解決方案，查看不同 Microsoft 365 的功能可用性，請參閱[Microsoft 365 及 Office 365 platform service description](office-365-platform-service-description.md)。

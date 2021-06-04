@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
-description: Yammer 中提供下列系統管理和安全性功能。
+description: Yammer 提供下列系統管理和安全性功能。
 ms.openlocfilehash: e31e3df763ef4fa2fd17522a634b5a66e4be6958
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51653555"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Yammer 中的系統管理與安全性功能
 
-Yammer 中提供下列系統管理和安全性功能。
+Yammer 提供下列系統管理和安全性功能。
   
-如需詳細的說明和程式，請參閱 [Yammer 系統管理](/yammer/)說明。
+如需詳細的說明和程式，請參閱[Yammer 系統管理員](/yammer/)說明。
 
 ## <a name="admin-private-content-mode"></a>管理私人內容模式
 
@@ -55,7 +55,7 @@ Yammer 中提供下列系統管理和安全性功能。
 
 ## <a name="network-migration"></a>網路移轉
 
-合併多個 Yammer 網路成一個。 如需詳細資訊，請參閱[網路移轉：合併多個 Yammer 網路](/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)。
+合併多個 Yammer 網路成一個。如需詳細資訊，請參閱[網路移轉：合併多個 Yammer 網路](/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)。
   
 > [!NOTE]
 > 不支援跨方案遷移 Yammer 網路。 
@@ -74,7 +74,7 @@ Yammer 中提供下列系統管理和安全性功能。
 
 ## <a name="single-identity"></a>單一身分識別
 
-當您選擇 Yammer 做為組織的預設社交經驗時，員工會對應至其現有的 Yammer 帳戶。 這表示他們在 Office 365 中瀏覽至 Yammer 時無需重新登入。 當員工 &mdash; 從 Office 365 存取 yammer （透過 yammer 行動應用程式），或流覽至 Yammer.com 時， &mdash; 會根據現有的組織認證自動登入。
+當您選擇 Yammer 做為組織的預設社交經驗時，會將員工對應至其現有的 Yammer 帳戶。 這表示他們在 Office 365 中瀏覽至 Yammer 時無需重新登入。 當員工 &mdash; 從 Office 365 Yammer 行動應用程式，或流覽至 Yammer 時，會自動登入的 Yammer。 .com &mdash; 會根據現有的組織認證自動登入。
 
 ## <a name="usage-policy"></a>使用原則
 
@@ -86,4 +86,4 @@ Yammer 中提供下列系統管理和安全性功能。
 
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Yammer 服務描述](yammer-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Yammer 服務描述](yammer-service-description.md)。

@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: Project Online 中提供下列核心功能功能。
+description: Project Online 提供下列核心功能功能。
 ms.openlocfilehash: bb379be082439793fcfba0a24cc4728181537ed8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,13 +21,13 @@ ms.locfileid: "51652297"
 ---
 # <a name="core-functionality"></a>核心功能
 
-Project Online 中提供下列核心功能功能。
+Project Online 提供下列核心功能功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務描述](project-online-service-description.md)。
   
 ## <a name="add-columns"></a>新增欄
 
-將欄新增到檢視中。 若要深入了解，請參閱[隱藏或取消隱藏專案檢視中的欄](https://go.microsoft.com/fwlink/p/?LinkId=271343)。
+將欄新增到檢視中。若要深入了解，請參閱[隱藏或取消隱藏專案檢視中的欄](https://go.microsoft.com/fwlink/p/?LinkId=271343)。
   
 ## <a name="backstage"></a>Backstage
 
@@ -35,7 +35,7 @@ Project Online 中提供下列核心功能功能。
   
 ## <a name="click-to-run"></a>隨選即用
 
-透過網際網路、內部網路、本機檔案系統或從離線媒體快速安裝 Project Online，以確定您使用 Project 桌面應用程式的最新版本。 若要深入了解，請參閱[隨選即用](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15))。
+透過網際網路、內部網路、本機檔案系統或從離線媒體快速安裝 Project Online，以確定您使用最新版的 Project 桌面應用程式。 若要深入了解，請參閱[隨選即用](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15))。
   
 ## <a name="contextual-right-click-menus"></a>按右鍵內容功能表
 
@@ -55,7 +55,7 @@ Project Online 中提供下列核心功能功能。
   
 ## <a name="user-interface-the-ribbon"></a>使用者介面、功能區
 
-使用功能區，以快速尋找及使用專案功能和控制項的選項卡介面，提高生產力。
+使用功能區來提高生產力，您可以用來快速尋找及使用 Project 功能和控制項的 tab 鍵介面。
 
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
@@ -63,19 +63,19 @@ Project Online 中提供下列核心功能功能。
   
 ## <a name="network-diagram-view"></a>網狀圖檢視
 
-以 [網狀圖] 檢視，檢視專案的工作、依存性和關鍵路徑。 請參閱[建立網狀圖](https://go.microsoft.com/fwlink/p/?LinkId=271338)。
+以 [網狀圖] 檢視，檢視專案的工作、依存性和關鍵路徑。請參閱[建立網狀圖](https://go.microsoft.com/fwlink/p/?LinkId=271338)。
   
-## <a name="office-store"></a>Office 存放區
+## <a name="office-store"></a>Office 儲存區
 
-需要應用程式協助您使用 Project 嗎？ 在 Office store 中尋找 Project 的新應用程式。 請參閱 [Project 增益集](https://go.microsoft.com/fwlink/?LinkId=273883)。
+需要應用程式協助您使用 Project 嗎？ 在 Office 存放區中尋找 Project 的新應用程式。 請參閱 [Project 增益集](https://go.microsoft.com/fwlink/?LinkId=273883)。
   
 ## <a name="online-help"></a>線上說明
 
-您可以在 Office.com 或 (project 的快速入門手冊中取得專案説明。 **選取 [** 檔案] [ \> **新增** ]) 。 [觀賞這些影片以切換至專案 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325)。
+Project Help is available in Office.com or in Getting Started Guides directly in Project (select **File** \> **New**). [觀賞這些影片，使參數成為 Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325)。
   
 ## <a name="pdf-and-xps-output"></a>PDF 和 XPS 輸出
 
-將專案檔案儲存為 PDF 或 XPS 檔案。 請參閱[將專案檔案儲存為 PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350)。
+將 Project 檔案另存為 PDF 或 XPS 檔案。 請參閱[將專案檔案儲存為 PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350)。
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
@@ -91,11 +91,11 @@ Project 2013 顯示一站式中心用於開始專案，而不是提供空白專�
   
 ## <a name="text-wrap"></a>自動換行
 
-任務或資源名稱換行，以便它們換到第二行。 請參閱[變更列高以自動換行](https://go.microsoft.com/fwlink/p/?LinkId=271344)。
+任務或資源名稱換行，以便它們換到第二行。請參閱[變更列高以自動換行](https://go.microsoft.com/fwlink/p/?LinkId=271344)。
   
 ## <a name="timeline-view"></a>Timeline view
 
-建立和自訂時間表檢視，以視覺化排程詳細資料並與專案關係人通訊。 請參閱[影片：建立時間表](https://go.microsoft.com/fwlink/?LinkId=402912)。
+建立和自訂時間表檢視，以視覺化排程詳細資料並與專案關係人通訊。請參閱[影片：建立時間表](https://go.microsoft.com/fwlink/?LinkId=402912)。
   
 ## <a name="zoom-controls"></a>縮放控制項
 
@@ -103,4 +103,4 @@ Project 2013 顯示一站式中心用於開始專案，而不是提供空白專�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Project Online 服務說明](project-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務描述](project-online-service-description.md)。

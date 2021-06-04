@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
-description: Yammer 中提供下列檔協同作業功能。
+description: Yammer 提供下列檔協同作業功能。
 ms.openlocfilehash: 69864fe18e83dd84f20869d2b454c7fc07d73e50
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,7 +21,7 @@ ms.locfileid: "51653535"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Yammer 中的文件共同作業功能
 
-Yammer 中提供下列檔協同作業功能。
+Yammer 提供下列檔協同作業功能。
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>不同 Yammer 計劃中的文件協同作業功能
 
@@ -35,7 +35,7 @@ Yammer 中提供下列檔協同作業功能。
 
 ## <a name="files"></a>檔案
 
-跨團隊共用 Microsoft Office 檔、Pdf、影像和影片，並立即取得意見反應。 上傳新版本，確保每個人均可看見最新草稿並隨時存取較舊版本。
+分享各小組 Microsoft Office 檔、pdf、影像和影片，並立即取得意見反應。 上傳新版本，確保每個人均可看見最新草稿並隨時存取較舊版本。
   
 ## <a name="official-content"></a>官方內容
 

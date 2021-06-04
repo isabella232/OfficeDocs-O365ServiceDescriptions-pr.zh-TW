@@ -24,7 +24,7 @@ ms.locfileid: "52074494"
 Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的時間。 服務健康資訊可隨時登入。
   
 > [!NOTE]
-> 如果您使用 21Vianet 所操作的 Office 365，以下的部分資訊可能不適用。 相反地，請參閱 [21Vianet 服務層次協議](https://www.21vbluecloud.com/office365/O365-SLA/)。 
+> 如果您使用 21Vianet 所操作的 Office 365，以下的部分資訊可能不適用。相反地，請參閱 [21Vianet 服務層次協議](https://www.21vbluecloud.com/office365/O365-SLA/)。 
   
 ## <a name="view-status-of-services"></a>查看服務的狀態
 
@@ -36,7 +36,7 @@ Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的�
   
 服務可能無法使用時，有兩種通知類型：
   
-- **計畫的維護事件：** 規劃維護是針對基礎結構和軟體應用程式的定期 Microsoft 發起服務更新。 規劃的維護通知會告知客戶可能會影響 Microsoft 服務功能的服務運作。 透過 Microsoft 365 系統管理中心的郵件中心，所有的計畫維護都有超過五天后，客戶便會收到通知。 根據區域時區的情形，Microsoft 一般會規劃維護，以瞭解服務的使用頻率為最低。 
+- **計畫的維護事件：** 規劃維護是針對基礎結構和軟體應用程式的定期 Microsoft 發起服務更新。 規劃的維護通知會告知客戶可能會影響 Microsoft 服務功能的服務運作。 透過「Microsoft 365 系統管理中心」上的郵件中心，所有的計畫維護都有超過五天后，客戶便會收到通知。 根據區域時區的情形，Microsoft 一般會規劃維護，以瞭解服務的使用頻率為最低。 
     
 - **意外停機時間：** 當其中一個服務無法使用或無回應時，就會發生意外的服務事件。 
 
@@ -94,7 +94,7 @@ Microsoft 系統管理員可以查看服務的狀態，並找出維護排程的�
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2 的 Office 365 管理組件
 
-Microsoft System Center 是可協助您管理資料中心、用戶端裝置和混合雲端 IT 環境的整合式管理平台。 使用 System Center 的 Microsoft 系統管理員現在可以選擇匯入 Office 365 管理元件，讓他們可以在 System Center 的 Operations Manager 中查看所有服務通訊。 使用此工具可讓您存取您已訂閱服務的狀態、作用中及已解決服務事件及訊息中心通訊。 如需詳細資訊，請在 Microsoft 下載中心取得 [Microsoft System Center Management Pack For Office 365](https://www.microsoft.com/download/details.aspx?id=43708) 。 
+Microsoft System Center 是可協助您管理資料中心、用戶端裝置和混合雲端 IT 環境的整合式管理平台。 使用 System Center 的 Microsoft 系統管理員現在可以選擇匯入 Office 365 管理元件，讓他們可以查看 System Center 中 Operations Manager 內的所有服務通訊。 使用此工具可讓您存取您已訂閱服務的狀態、作用中及已解決服務事件及訊息中心通訊。 如需詳細資訊，請在 microsoft 下載中心取得[Office 365 的 microsoft System Center Management Pack](https://www.microsoft.com/download/details.aspx?id=43708) 。 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 服務通訊 API
 
@@ -104,7 +104,7 @@ Office 365 服務通訊 API 可讓您以您想要的方式存取服務通訊。 
     
 - 訊息中心通訊
     
-如需詳細資訊，請參閱 [Office 365 服務通訊 API 參考](/office/office-365-management-api/office-365-service-communications-api-reference)。 
+如需詳細資訊，請參閱[Office 365 服務通訊 API 參考](/office/office-365-management-api/office-365-service-communications-api-reference)。 
   
 ## <a name="post-incident-reviews"></a>事件後續檢閱
 
@@ -136,7 +136,7 @@ Microsoft 可確保客戶資料在需要時可透過下列功能取用：
   
 - **資料儲存與備援：** 透過健全的資料備份保護功能，客戶資料可儲存於備援環境中，以提供可用性、企業持續性和快速的回復能力。將實作多階層的資料備援，範圍從防止本機磁碟故障的備援磁碟到持續性、完整的資料複寫，到依地理位置不同的資料中心。 
     
-- **資料監視：** Microsoft 服務會透過監控，維持高效能效能： 
+- **資料監控：** 透過監視 Microsoft 服務維護高層次的效能： 
     
   - 資料庫
     
@@ -166,4 +166,4 @@ Microsoft 開發和作業團隊是以專屬支援組織為依據，這在提供�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案中的功能可用性，請參閱 [Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
+若要查看不同方案中的功能可用性，請參閱[Microsoft 365 和 Office 365 platform service description](office-365-platform-service-description.md)。

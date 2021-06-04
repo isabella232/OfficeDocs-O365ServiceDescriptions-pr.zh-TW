@@ -18,13 +18,13 @@ ms.locfileid: "51652597"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 服務描述
 
-MyAnalytics 摘要說明您在工作中花費的時間，然後建議更聰明的運作方式。 MyAnalytics 提供這些透過您可以在 Microsoft Outlook 或透過網頁瀏覽器中存取之 [元素](#elements) 的洞察力。
+MyAnalytics 摘要說明您在工作中花費的時間，然後建議更聰明的運作方式。 MyAnalytics 提供這些透過您可以在 Microsoft Outlook 或透過網頁瀏覽器存取的[元素](#elements)的洞察力。
 
-一些 MyAnalytics 的元素會自動提供給各種 Office 365 方案的使用者。 若要瞭解 Office 365 和 Microsoft 365 方案中包含哪些元素，請參閱 [MyAnalytics 方案和環境](/workplace-analytics/myanalytics/overview/plans-environments)。  
+一些 MyAnalytics 的專案會自動提供給各種 Office 365 方案的使用者。 若要瞭解哪些元素包含 Office 365 和 Microsoft 365 計畫，請參閱[MyAnalytics 方案和環境](/workplace-analytics/myanalytics/overview/plans-environments)。  
 
 MyAnalytics 會以保護員工隱私權的方式處理資訊。 如需詳細資訊，請參閱 [Data 隱私權](#data-privacy)。
 
-## <a name="available-plans"></a>可用計畫
+## <a name="available-plans"></a>可用規劃
 
 如需可讓使用者 MyAnalytics 之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
@@ -33,9 +33,9 @@ MyAnalytics 會以保護員工隱私權的方式處理資訊。 如需詳細資�
 MyAnalytics 包含下列元素：
 
 * [儀表板](/workplace-analytics/myanalytics/use/dashboard-2)：協助您反映您的工作模式，例如焦點工作、會議和電子郵件實踐，以及網路的時間。
-* [Outlook 增益集](/workplace-analytics/myanalytics/use/add-in)：提供 outlook 中可行動的觀點，可協助您掌握工作的最新資訊，並進一步完成。
+* [Outlook 增益集](/workplace-analytics/myanalytics/use/add-in)：為您提供可協助您瞭解工作和完成工作的 Outlook 可行動的見解。
 * [電子郵件摘要](/workplace-analytics/myanalytics/use/email-digest-2)：提供每週電子郵件的工作模式重要重點。
-* [內嵌建議](/workplace-analytics/myanalytics/use/mya-notifications)：在 Outlook 中，當您閱讀或撰寫電子郵件或會議邀請時，會出現在 Outlook 中，資料和 AI 導向的建議。
+* [內嵌建議](/workplace-analytics/myanalytics/use/mya-notifications)：在您閱讀或撰寫電子郵件或會議邀請時，Outlook 會顯示這段簡短的資料及 AI 導向建議。
 
 ## <a name="data-privacy"></a>資料隱私權
 
@@ -46,7 +46,7 @@ MyAnalytics 包含下列元素：
 * MyAnalytics 資料會經過處理並儲存在員工的 Exchange Online 信箱。
 * MyAnalytics 支援一般資料保護規定 (GDPR) 合規性。
 * 您可以將 MyAnalytics 設定為每個人都必須自行選擇加入。
-* MyAnalytics 和 Delve 是獨立的應用程式，不具相互關係。
+* MyAnalytics 和 Delve 是個別沒有相互依賴性的應用程式。
 * MyAnalytics 會提醒人們資料屬於私人且相當安全。
 
 如需詳細資訊，請參閱 [MyAnalytics 隱私權指南](/workplace-analytics/myanalytics/overview/privacy-guide)。

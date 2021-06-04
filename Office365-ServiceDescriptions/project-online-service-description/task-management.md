@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: Project Online 中提供下列任務管理功能。
+description: Project Online 提供下列任務管理功能。
 ms.openlocfilehash: 7fbe93f48d02eb35ab3606d6252d106dedaa8cd6
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51651058"
 ---
 # <a name="task-management"></a>工作管理
 
-Project Online 中提供下列任務管理功能。
+Project Online 提供下列任務管理功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務描述](project-online-service-description.md)。
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
@@ -35,7 +35,7 @@ Project Online 中提供下列任務管理功能。
   
 ## <a name="automatic-scheduling"></a>自動排程
 
-使用 [自動排程] 模式，來自動排程任務。 深入了解 [Project 如何排程任務](https://go.microsoft.com/fwlink/p/?LinkId=271331)。 
+使用 [自動排程] 模式，來自動排程任務。深入了解 [Project 如何排程任務](https://go.microsoft.com/fwlink/p/?LinkId=271331)。 
   
 ## <a name="calendar-date-extended-to-2149"></a>行事曆日期延長至 2149
 
@@ -53,9 +53,9 @@ Project Online 中提供下列任務管理功能。
 
 透過在整個專案中醒目提示任務路徑，藉此查看某個任務與其他任務的連接方式。深入了解[醒目提示如何將任務連結到其他任務](https://go.microsoft.com/fwlink/p/?LinkId=271345)。
   
-## <a name="top-down-summary-tasks"></a>由上而下摘要任務
+## <a name="top-down-summary-tasks"></a>由上至下摘要任務
 
-建立摘要任務的資源分派。 深入了解[由上而下規劃](https://go.microsoft.com/fwlink/p/?LinkId=271333)。
+建立摘要任務的資源分派。深入了解[由上而下規劃](https://go.microsoft.com/fwlink/p/?LinkId=271333)。
   
 ## <a name="update-progress"></a>更新進度
 
@@ -63,9 +63,9 @@ Project Online 中提供下列任務管理功能。
   
 ## <a name="user-controlled-and-manual-scheduling"></a>使用者控制和手動排程
 
-使用 [手動排程] 模式，來手動排程任務。 請參閱 [Project 如何排程任務](https://go.microsoft.com/fwlink/p/?LinkId=271331)。
+使用 [手動排程] 模式，來手動排程任務。請參閱 [Project 如何排程任務](https://go.microsoft.com/fwlink/p/?LinkId=271331)。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Project Online 服務說明](project-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務描述](project-online-service-description.md)。
   

@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft 365 和 Office 365 是雲端式服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。
+description: Microsoft 365 和 Office 365 是雲端架構服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。
 ms.openlocfilehash: 7a51d0914774455ad6f78bbd362633a48094ebf3
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,18 +23,18 @@ ms.locfileid: "51652387"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服務描述 
 
-Microsoft 365 和 Office 365 是雲端式服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。 
+Microsoft 365 和 Office 365 是雲端架構服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。 
   
-此文件庫中的文章提供 Microsoft 365 和 Office 365 提供之服務和功能的詳細說明。 如需 Microsoft Dynamics 365 商務應用程式的詳細資訊，請參閱 [Microsoft dynamics 365 檔](/dynamics365/)。
+此文件庫中的文章提供 Microsoft 365 和 Office 365 可用之服務和功能的詳細說明。 如需 Microsoft Dynamics 365 商務應用程式的詳細資訊，請參閱 [Microsoft dynamics 365 檔](/dynamics365/)。
 
 若要跨方案比較功能，請參閱以下清單中的 [功能強大的工具來支援您的企業](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 或相關的服務描述。 
   
-如需支援文章和資訊，請參閱 [Office Help & 訓練](https://support.office.com/)、 [系統管理員和 it 專業人員的 office 檔](/office/)，以及適用 [于系統管理員和 it 專業人員的 Microsoft 365 協助中心](/microsoft-365/)。
+如需支援文章和資訊，請參閱[Office 協助 & 訓練](https://support.office.com/)、 [Office 檔給系統管理員和 it 專業人員](/office/)，以及[Microsoft 365 説明中心以取得系統管理員和 it 專業人員](/microsoft-365/)。
   
 > [!NOTE]
 > 如果您正在尋找服務描述比較試算表，它已經停用。 每個服務描述頁面上的產品功能可用性表格已更新，可更好地協助您選擇符合您需求的 Office 365 版本。 
   
-Microsoft 為適用于合格方案中的合格服務提供 Office 365 的 FastTrack 中心權益。 此權益可讓您遠端與 Microsoft 專家合作，讓您的 Office 365 環境做好使用。 如需詳細資訊，請參閱 [適用於 Office 365 的 FastTrack 中心權益](/fasttrack/O365-fasttrack-benefit-for-office-365)。
+Microsoft 為合格方案中的合格服務提供 Office 365 的 FastTrack 中心權益。 此權益可讓您與 Microsoft 專家遠端合作，讓您的 Office 365 環境做好使用。 如需詳細資訊，請參閱 [適用於 Office 365 的 FastTrack 中心權益](/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
 若要開始進行，請參閱下列服務說明：
   

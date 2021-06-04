@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
-description: Project Online 中提供下列資源管理功能。
+description: Project Online 提供下列資源管理功能。
 ms.openlocfilehash: e78321691bae498db92dda3c76343f17a3e0ea1f
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51651203"
 ---
 # <a name="project-resource-management"></a>專案資源管理
 
-Project Online 中提供下列資源管理功能。
+Project Online 提供下列資源管理功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務描述](project-online-service-description.md)。
   
 ## <a name="cost-resources"></a>成本資源
 
@@ -39,15 +39,15 @@ Project Online 中提供下列資源管理功能。
   
 ## <a name="resource-sheet-and-usage-views"></a>資源工作表和使用量檢視
 
-使用資源使用狀況、工作表、圖形和表單檢視，以圖形方式呈現資源資訊。 請參閱[挑選適合的報表](https://go.microsoft.com/fwlink/?LinkId=402920)。
+使用資源使用狀況、工作表、圖形和表單檢視，以圖形方式呈現資源資訊。請參閱[挑選適合的報表](https://go.microsoft.com/fwlink/?LinkId=402920)。
   
 ## <a name="resource-substitution"></a>資源替換
 
-使用木匠等實際人員來取代一般資源。 請參閱[建立與共用資源資料庫](https://go.microsoft.com/fwlink/?LinkId=402921)。
+使用木匠等實際人員來取代一般資源。請參閱[建立與共用資源資料庫](https://go.microsoft.com/fwlink/?LinkId=402921)。
   
 ## <a name="team-resources"></a>團隊資源
 
-將資源新增至小組的專案 (如電腦和水泥這類材料資源)。 深入了解[新增人員至專案](https://go.microsoft.com/fwlink/p/?LinkId=271347)。
+將資源新增至小組的專案 (如電腦和水泥這類材料資源)。深入了解[新增人員至專案](https://go.microsoft.com/fwlink/p/?LinkId=271347)。
   
 ## <a name="work-generic-and-material-resources"></a>工作資源、一般資源和材料資源
 
@@ -55,6 +55,6 @@ Project Online 中提供下列資源管理功能。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Project Online 服務說明](project-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務描述](project-online-service-description.md)。
   
 

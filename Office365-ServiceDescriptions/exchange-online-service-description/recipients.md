@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
-description: 本主題說明 Microsoft Exchange Online 中包含的收件者相關功能。 其中包括電子郵件、連絡人、通訊群組，以及行事曆與排程功能。
+description: 本主題說明 Microsoft Exchange Online 包含的收件者相關功能。 其中包括電子郵件、連絡人、通訊群組，以及行事曆與排程功能。
 ms.openlocfilehash: 5771fd11a51ecfb8bff2b1be8a86dd3d87a51f81
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,7 +21,7 @@ ms.locfileid: "51653305"
 ---
 # <a name="recipients"></a>收件者
 
-本主題說明 Microsoft Exchange Online 中包含的收件者相關功能。 其中包括電子郵件、連絡人、通訊群組，以及行事曆與排程功能。
+本主題說明 Microsoft Exchange Online 包含的收件者相關功能。 其中包括電子郵件、連絡人、通訊群組，以及行事曆與排程功能。
   
 ## <a name="email"></a>電子郵件
 
@@ -34,7 +34,7 @@ ms.locfileid: "51653305"
 
 每位使用者可使用的信箱儲存量和預設信箱大小由信箱類型和使用者的訂閱授權而定。管理員可降低單一使用者或全域的最高信箱大小。當使用者的信箱接近容量限制或達到容量限制時，Exchange Online 也會提供通知。
   
-如需詳細資訊，請參閱本主題中的「信箱儲存限制」和「容量警示」一節中的 [Exchange Online 限制](exchange-online-limits.md)。
+如需詳細資訊，請參閱主題中的「信箱儲存限制」和「容量警示」區段中的「 [Exchange Online 限制](exchange-online-limits.md)」。
   
 ### <a name="mailtips"></a>MailTips
 
@@ -42,7 +42,7 @@ ms.locfileid: "51653305"
   
 ### <a name="delegate-access"></a>委派存取
 
-Exchange Online 支援委任存取－允許他人管理使用者電子郵件與行事曆的能力。 委任存取常用於經理與助理之間，因助理需處理經理的電子郵件並安排經理的行事曆。 您可以透過 Outlook 或 Outlook 網頁版中的 Exchange Online 使用者，或 Exchange 系統管理中心中的管理員來啟用委派存取。 
+Exchange Online 支援委任存取－允許他人管理使用者電子郵件與行事曆的能力。 委任存取常用於經理與助理之間，因助理需處理經理的電子郵件並安排經理的行事曆。 您可以 Exchange Online 網頁上 Outlook 或 Outlook 的使用者，或是 Exchange 系統管理中心中的系統管理員，來啟用委派存取。 
   
 委任存取有兩種類型：
   
@@ -54,7 +54,7 @@ Exchange Online 支援委任存取－允許他人管理使用者電子郵件與�
   
 ### <a name="inbox-rules"></a>收件匣規則
 
-Exchange Online 允許使用者建立收到電子郵件時的收件匣規則，自動執行特定、以標準為基礎的動作。 舉例來說，若郵件發送給特定通訊群組，即可建立規則以自動移動所有郵件至特定資料夾。 使用者在 Outlook 或網頁上的 Outlook 中管理收件匣規則。 管理員可藉停用伺服器端轉寄及/或伺服器端自動回覆來封鎖特定收件匣規則類型。 例如，停用伺服器端轉寄可防止使用者自動轉寄電子郵件至個人帳戶。 相同地，停用伺服器端的自動回覆可防止外部人士使用這些回覆來辨識有效的電子郵件地址。 這些變更將透過 Windows PowerShell 完成。
+Exchange Online 允許使用者建立收到電子郵件時的收件匣規則，自動執行特定、以標準為基礎的動作。 舉例來說，若郵件發送給特定通訊群組，即可建立規則以自動移動所有郵件至特定資料夾。 使用者從網頁上的 Outlook 或 Outlook 管理收件匣規則。 管理員可藉停用伺服器端轉寄及/或伺服器端自動回覆來封鎖特定收件匣規則類型。 例如，停用伺服器端轉寄可防止使用者自動轉寄電子郵件至個人帳戶。 相同地，停用伺服器端的自動回覆可防止外部人士使用這些回覆來辨識有效的電子郵件地址。 這些變更將透過 Windows PowerShell 完成。
   
 ### <a name="clutter"></a>雜亂資料
 
@@ -62,7 +62,7 @@ Exchange Online 允許使用者建立收到電子郵件時的收件匣規則，�
   
 ### <a name="connected-accounts"></a>連結帳戶
 
-「已連線的帳戶」功能可讓 Exchange Online 使用者將外部電子郵件帳戶 (（例如個人帳戶）) 至 Exchange Online 中的內部電子郵件帳戶，然後使用網頁上的 Outlook 以單一位置與其所有郵件互動。 連線的帳戶會在登入至網頁型 Outlook 時自動同步處理。使用者也可以手動從網頁上的 Outlook 同步處理帳戶。 管理員可透過 [Exchange 系統管理中心](/exchange/exchange-admin-center)為特定使用者或所有使用者啟用或停用此功能。
+[已連接的帳戶] 功能可讓 Exchange Online 使用者將外部電子郵件帳戶 (（例如，) 的個人帳戶）連線到 Exchange Online 中的內部電子郵件帳戶，然後使用網頁上的 Outlook，以在一個位置與其所有的郵件互動。 連線的帳戶會自動在網路上的 Outlook 登入同步處理。使用者也可以手動同步處理 Outlook 網頁上的帳戶。 管理員可透過 [Exchange 系統管理中心](/exchange/exchange-admin-center)為特定使用者或所有使用者啟用或停用此功能。
   
 ### <a name="inactive-mailboxes"></a>非使用中的信箱
 
@@ -89,11 +89,11 @@ Exchange Online 可供使用者無限期保留已刪除信箱的內容。此功�
   
 ### <a name="address-book-policies"></a>通訊錄原則
 
-Exchange Online 支援通訊錄原則。 通訊錄原則 (ABP) 允許您將使用者分入特定群組以提供您組織的全域通訊清單 (GAL) 之自訂檢視。 建立 ABP 時，您要指定 GAL、離線通訊錄 (OAB)、會議室清單和一個以上的通訊清單給該原則。 然後，您可以將 ABP 指派給信箱使用者，讓他們可以存取 Outlook 和網頁型 Outlook 中的自訂 GAL。 管理員可以使用遠端 Windows PowerShell 來設定通訊錄原則。 若要深入了解通訊錄原則，請參閱 [Exchange Online 中的通訊錄](/exchange/address-books/address-books)。
+Exchange Online 支援通訊錄原則。 通訊錄原則 (ABP) 允許您將使用者分入特定群組以提供您組織的全域通訊清單 (GAL) 之自訂檢視。 建立 ABP 時，您要指定 GAL、離線通訊錄 (OAB)、會議室清單和一個以上的通訊清單給該原則。 然後，您可以將 ABP 指派給信箱使用者，讓他們可以存取自訂的 GAL，在 web 上的 Outlook 和 Outlook 中。 管理員可以使用遠端 Windows PowerShell 來設定通訊錄原則。 若要深入了解通訊錄原則，請參閱 [Exchange Online 中的通訊錄](/exchange/address-books/address-books)。
   
 ### <a name="address-lists"></a>通訊清單
 
-Exchange Online 支援通訊清單和 Gal 的自訂。 GAL 是所有擁有郵件功能的使用者、通訊群組和外部連絡人的全組織目錄。 系統管理員可以使用目錄同步作業工具或遠端 Windows PowerShell，隱藏 GAL 中的使用者、通訊群組和連絡人。
+Exchange Online 支援通訊清單和 gal 的自訂。 GAL 是所有擁有郵件功能的使用者、通訊群組和外部連絡人的全組織目錄。 系統管理員可以使用目錄同步處理工具或遠端 Windows PowerShell，隱藏 GAL 中的使用者、通訊群組和連絡人。
   
 ### <a name="hierarchical-address-books"></a>階層式通訊錄
 
@@ -127,7 +127,7 @@ Exchange Online 支援通訊清單和 Gal 的自訂。 GAL 是所有擁有郵件
 
 ### <a name="resource-mailboxes"></a>資源信箱
 
-資源信箱（例如會議室與實體設備）代表公司的會議室或其他設施或資源。 使用者可以在 Outlook 或網頁型 Outlook 中新增資源的電子郵件別名到會議邀請中，以預約會議室或資源。 會議室和資源會出現在 Outlook 和 Outlook 網頁版的 GAL 中。
+資源信箱（例如會議室與實體設備）代表公司的會議室或其他設施或資源。 使用者可以在 web 上的 Outlook 或 Outlook 中，將資源的電子郵件別名新增至會議邀請，以保留會議室或資源。 會議室和資源會出現在 Outlook 和 Outlook 網頁上的 GAL 中。
   
 管理員可使用 Exchange 系統管理中心或遠端 Windows PowerShell 來建立資源信箱。信箱可自內部部署的 Active Directory 與 Exchange Online 同步。
   
@@ -141,7 +141,7 @@ Exchange Online 支援通訊清單和 Gal 的自訂。 GAL 是所有擁有郵件
 
 Exchange Online 包含自動化會議室與其他資源排程的 Resource Booking Attendant (RBA)。受 RBA 設定的資源信箱將根據資源的行事曆時間來接受、拒絕或認可來自會議組織人的會議請求。 
   
-管理員可以自訂自動會議室回應，並在網頁上的 Outlook 中設定預約原則。 這些原則包含可排定資源的人、可排程的時間、在資源行事曆上顯示的會議資訊、以及允許的排程衝突百分比。 管理員可停用 Resource Booking Attendant 並指定特定使用者以手動管理關於會議室的會議請求。
+管理員可以在 web 上的 Outlook 自訂自動會議室回應及設定預約原則。 這些原則包含可排定資源的人、可排程的時間、在資源行事曆上顯示的會議資訊、以及允許的排程衝突百分比。 管理員可停用 Resource Booking Attendant 並指定特定使用者以手動管理關於會議室的會議請求。
   
 Ad管理員需透過遠端 Windows PowerShell 來定義並管理 RBA 設定。
   
@@ -153,7 +153,7 @@ Ad管理員需透過遠端 Windows PowerShell 來定義並管理 RBA 設定。
 
 使用者可以下列方式之一分享其個人行事曆：
   
-- **共用同盟行事曆** 同盟指的是支援同盟共用的基礎信任基礎結構，對 Exchange 使用者而言，這是與其他外部同盟組織中的收件者共用空閒/忙碌行事曆資料和連絡人資訊的簡易方法。 其中包括 Exchange Online 組織或在內部部署執行 Exchange Server 2010 或 Exchange Server 2013 組織。 Exchange Online 系統管理員不需要設定 Microsoft Federation Gateway 的信任，因為建立 Microsoft 服務時，會為所有 Exchange Online 客戶預先設定此信任。 預設共用原則可讓使用者從網頁上的 Outlook 或 Outlook 2010 傳送行事曆共用邀請。 管理員使用遠端 Windows PowerShell 來停用此原則或設定使用者可共享的空閒／忙碌行事曆資料層級。 管理員也可與其他同盟組織建立組織對組織的關係，允許每個使用者的空閒／忙碌資訊層級顯示於跨組織平台上，而無需讓個別使用者建立共享邀請。 在管理員定義的共享原則及／或組織對組織關係的範圍內，使用者可進一步個別限制其共享詳情。 
+- **共用同盟行事曆** 同盟指的是支援同盟共用的基礎信任基礎結構，對 Exchange 使用者而言，這是與其他外部同盟組織中的收件者共用空閒/忙碌行事曆資料和連絡人資訊的簡易方法。 其中包括 Exchange Online 組織或在內部部署執行 Exchange Server 2010 或 Exchange Server 2013 組織。 Exchange Online 系統管理員不需要在 Microsoft 同盟閘道中設定信任，因為建立 Microsoft service 時，會為所有 Exchange Online 客戶預先設定此信任。 預設共用原則可讓使用者從網頁上的 Outlook 或 Outlook 2010 傳送行事曆共用邀請。 管理員使用遠端 Windows PowerShell 來停用此原則或設定使用者可共享的空閒／忙碌行事曆資料層級。 管理員也可與其他同盟組織建立組織對組織的關係，允許每個使用者的空閒／忙碌資訊層級顯示於跨組織平台上，而無需讓個別使用者建立共享邀請。 在管理員定義的共享原則及／或組織對組織關係的範圍內，使用者可進一步個別限制其共享詳情。 
     
 - **共用網際網路行事曆** Exchange Online 允許使用者使用 iCal 格式由組織內或組織外的使用者進行匿名存取以發佈行事曆。 收件者可使用 Exchange、其他平台或單純使用網路瀏覽器。 Exchange Online 使用者也可以訂閱其他人透過 iCal 發佈到網際網路位置的行事曆。 此個人行事曆共享與由管理員設定同盟行事曆共享不同，並提供組織對組織的空閒／忙碌共享。 在管理員設定並套用允許的共用原則之後，使用者才可以以 iCal 格式發佈行事歷數據。 管理員可使用 Windows PowerShell 為組織中的使用者停用 iCal 發布與 iCal 訂閱。
     
@@ -169,4 +169,4 @@ Exchange Online 支援 Outlook 2010 的會議室尋找工具功能，將會議�
     
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Exchange Online 服務說明](exchange-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 服務描述](exchange-online-service-description.md)。

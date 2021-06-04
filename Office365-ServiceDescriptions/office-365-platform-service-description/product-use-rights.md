@@ -34,6 +34,6 @@ ms.locfileid: "51652517"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案中的功能可用性，請參閱 [Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
+若要查看不同方案中的功能可用性，請參閱[Microsoft 365 和 Office 365 platform service description](office-365-platform-service-description.md)。
   
 

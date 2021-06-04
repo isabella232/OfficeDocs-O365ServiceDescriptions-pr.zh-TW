@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-description: 瞭解 Microsoft Exchange Online 中的規劃與部署。
+description: 深入瞭解 Microsoft Exchange Online 中的規劃與部署。
 ms.openlocfilehash: eabef8014f64295058b4f41ccd9835a8dea473d8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -27,9 +27,9 @@ ms.locfileid: "51652697"
   
 ## <a name="deployment-options"></a>部署選項
 
-- **僅限雲端的部署** -您的組織已在 Exchange Online 中主控所有使用者信箱。 
+- **僅限雲端部署**-您的組織在 Exchange Online 中主控所有使用者信箱。 
     
-- **Exchange 混合式部署** -您的組織中有一些使用者信箱裝載于內部部署 Exchange 組織中，而某些使用者信箱裝載于 Exchange Online 中。 
+- **Exchange 混合式部署**-您的組織中有一些使用者信箱裝載于內部部署 Exchange 組織和 Exchange Online 中主控的某些使用者信箱。 
     
 ### <a name="cloud-only"></a>僅雲端
 
@@ -48,13 +48,13 @@ Microsoft Exchange 2003、Exchange 2007、Exchange 2010，以及 Exchange 2013 �
 
 組織選擇遷移選項時，應基於來源電子郵件系統、希望的結束狀態（完全託管或部分託管）、遷移的使用者人數，以及結束狀態必須多快完成。可能遷移選項：
   
-- **IMAP 遷移** -將信箱資料從 IMAP 電子郵件系統移轉至 Exchange Online。 
+- **IMAP 遷移**-將信箱資料從 IMAP 型電子郵件系統移轉至 Exchange Online。 
     
-- 轉換 **exchange 遷移**-將信箱從 exchange server 2003、exchange server 2007、exchange server 2010、exchange 2013 和主控 exchange 系統移轉至 exchange Online 的單一遷移。 
+- 轉換 **Exchange 遷移**-從 Exchange Server 2003，Exchange Server 2007，Exchange Server 2010，Exchange 2013 和主控 Exchange 系統，以進行單一完全遷移。 
     
-- **分段 Exchange 遷移** -執行分段遷移，將信箱從 exchange server 2003 或 exchange server 2007 遷移到以 web 為基礎的遷移工具和對內部部署基礎結構的最小變更。 
+- **分段 Exchange 遷移**-執行分段遷移，將信箱從 Exchange Server 2003 或 Exchange Server 2007 遷移到以 web 為基礎的遷移工具和對內部部署基礎結構的最小變更。 
     
-- **遠端移動遷移** -在 exchange 混合式部署中，將內部部署 exchange 信箱遷移至 exchange Online。 您必須具有 Exchange 混合部署，才能使用遠端移動移轉。 
+- **遠端移動遷移**-將內部部署 Exchange 信箱遷移至 Exchange 混合式部署中 Exchange Online。 您必須具有 Exchange 混合部署，才能使用遠端移動移轉。 
     
 如需將電子郵件和信箱遷移至 Exchange Online 的詳細資訊，請參閱[將電子郵件移轉到 Exchange Online ](https://support.office.com/article/-a3e3bddb-582e-4133-8670-e61b9f58627e)。
   
@@ -109,7 +109,7 @@ Exchange Online 提供網路架構工具，以便從內部部署 Exchange Server
 
 Microsoft 提供數種工具以協助將現存電子郵件環境遷移至 Exchange Online。至於合適者為哪些，將視組織目前環境與內部部署目的而定：
   
-- **遷移儀表板** -系統管理員可以使用 exchange 系統管理中心中的遷移儀表板，在轉換或分段 exchange 遷移中管理信箱遷移至 Exchange Online。 管理員也可以使用儀表板，將使用者信箱內容從內部部署 IMAP 伺服器移轉至現有的 Exchange Online 信箱。 儀表板為管理員提供了以下功能： 
+- **遷移儀表板**-系統管理員可以使用 Exchange 系統管理中心的遷移儀表板，來管理信箱遷移，以在轉換或分段 Exchange 遷移中 Exchange Online。 管理員也可以使用儀表板，將使用者信箱內容從內部部署 IMAP 伺服器移轉至現有的 Exchange Online 信箱。 儀表板為管理員提供了以下功能： 
     
   - **建立和啟動多個遷移批次** -系統管理員可以建立及列隊最多100個遷移批次。 一次只執行一個遷移批次，不過管理員能將多重批次排入佇列，因此當一個遷移批次執行完畢，下一個佇列批次便能開始。 
     
@@ -119,13 +119,13 @@ Microsoft 提供數種工具以協助將現存電子郵件環境遷移至 Exchan
     
   - **開啟遷移報告** -管理員可以從儀表板開啟遷移批次的遷移統計資料或遷移錯誤報表。 
     
-  - **編輯遷移批次** -如果分段 Exchange 遷移或 IMAP 遷移的遷移批次在遷移佇列中，但目前並未執行，系統管理員可以編輯遷移批次。 
+  - **編輯遷移批次**-如果分段 Exchange 遷移或 IMAP 遷移的遷移批次在遷移佇列中，但目前並未執行，系統管理員可以編輯遷移批次。 
     
-- **Azure Active Directory 同步處理工具** -Azure Active directory 同步處理工具在遷移至混合式電子郵件案例時，會使用 exchange Online 和內部部署 Exchange 伺服器，對混合式電子郵件案例起起重要作用。 工具的作用為進行從內部部署 Active Directory 到 Exchange Online 的單向同步化。 遷移完成之後，管理員僅需使用 Exchange Online 來管理 Active Directory 使用者和群組。 此工具也可讓使用者維持一致的全域通訊清單 (GAL)，線上環境會持續和內部部署環境進行同步作業。 
+- **Azure Active Directory 同步處理工具**-Azure Active Directory 同步處理工具在遷移至混合式電子郵件案例時，會使用這兩種 Exchange Online 和內部部署 Exchange Server 的重要角色。 工具的作用為進行從內部部署 Active Directory 到 Exchange Online 的單向同步化。 遷移完成之後，管理員僅需使用 Exchange Online 來管理 Active Directory 使用者和群組。 此工具也可讓使用者維持一致的全域通訊清單 (GAL)，線上環境會持續和內部部署環境進行同步作業。 
     
     如需 Azure Active Directory 同步處理工具的詳細資訊，請參閱[目錄同步處理：藍圖](/azure/active-directory/hybrid/whatis-hybrid-identity)。
     
-- **混合** 式設定向導-混合式設定向導簡化混合式部署程式，方法是簡化功能和服務的內部部署和 Exchange Online 設定。 Introduced as part of Exchange Server 2010 Service Pack 2, the Hybrid Configuration Wizard is run only in on-premises organizations and has the following components: 
+- **混合** 式設定向導-混合式設定向導簡化了混合式部署程式，方法是簡化了功能和服務的內部部署和 Exchange Online 設定。 Introduced as part of Exchange Server 2010 Service Pack 2, the Hybrid Configuration Wizard is run only in on-premises organizations and has the following components: 
     
   - [Exchange 系統管理中心 (EAC)] 精靈會引導管理員透過完整的程序，進行混合部署的設定。
     
@@ -133,8 +133,8 @@ Microsoft 提供數種工具以協助將現存電子郵件環境遷移至 Exchan
     
     如需有關混合設定精靈的詳細資訊，請參閱[混合設定精靈](/exchange/hybrid-configuration-wizard)。
     
-- **遠端 windows PowerShell** -做為 Exchange Online 12 月2011服務更新的一部分，遠端 windows PowerShell 可用來協助疑難排解遷移錯誤。 For instance, administrators can display diagnostic information for migration batches, as well as migration statistics and diagnostic information for users based on their primary SMTP addresses. 
+- **remote Windows PowerShell** -Exchange Online 年12月 2011 Service 更新的一部分，遠端 Windows PowerShell 可用於協助疑難排解遷移錯誤。 For instance, administrators can display diagnostic information for migration batches, as well as migration statistics and diagnostic information for users based on their primary SMTP addresses. 
     
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各個方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Exchange Online 服務說明](exchange-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 服務描述](exchange-online-service-description.md)。

@@ -53,5 +53,5 @@ Microsoft Partner Network 致力於滿足合作夥伴的需求。若要加入網
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Microsoft 365 和 Office 365 方案的功能可用性，請參閱 [microsoft 365 和 office 365 平臺服務說明](office-365-platform-service-description.md)。
+若要查看不同 Microsoft 365 和 Office 365 計畫中的功能可用性，請參閱[Microsoft 365 及 Office 365 platform service description](office-365-platform-service-description.md)。
   

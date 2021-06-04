@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
-description: Project Online 中提供下列專案規劃功能。
+description: Project Online 提供下列專案規劃功能。
 ms.openlocfilehash: e4bc924484bbebf48f5308c2ed406b65f6fc9887
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,13 +21,13 @@ ms.locfileid: "51651048"
 ---
 # <a name="project-planning"></a>專案規劃
 
-Project Online 中提供下列專案規劃功能。
+Project Online 提供下列專案規劃功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務描述](project-online-service-description.md)。
   
 ## <a name="baseline-rollup"></a>基準匯總
 
-基準資料可彙總或總結在一個摘要列上。 深入了解[設定和儲存基準](https://go.microsoft.com/fwlink/p/?LinkId=271346)。
+基準資料可彙總或總結在一個摘要列上。深入了解[設定和儲存基準](https://go.microsoft.com/fwlink/p/?LinkId=271346)。
   
 ## <a name="budget-planning"></a>預算規劃
 
@@ -39,19 +39,19 @@ Project Online 中提供下列專案規劃功能。
   
 ## <a name="deadlines"></a>截止日期
 
-針對專案的主要目標標記里程碑。 深入了解[新增里程碑](https://go.microsoft.com/fwlink/p/?LinkId=271339)。
+針對專案的主要目標標記里程碑。深入了解[新增里程碑](https://go.microsoft.com/fwlink/p/?LinkId=271339)。
   
 ## <a name="filtering"></a>篩選
 
-依計劃中的任何值篩選專案計劃。 深入了解[建立自訂篩選器](https://go.microsoft.com/fwlink/p/?LinkId=271341)。
+依計劃中的任何值篩選專案計劃。深入了解[建立自訂篩選器](https://go.microsoft.com/fwlink/p/?LinkId=271341)。
   
 ## <a name="formulas-and-graphical-indicators"></a>公式和圖形指標
 
-將圖片新增至欄，以指示排程進度。 深入了解[新增指標](https://go.microsoft.com/fwlink/p/?LinkId=271340)。
+將圖片新增至欄，以指示排程進度。深入了解[新增指標](https://go.microsoft.com/fwlink/p/?LinkId=271340)。
   
 ## <a name="group-and-sort-project-data"></a>分組和排序專案資料
 
-將多個群組列套用至專案計劃。 深入了解[群組任務或資源](https://go.microsoft.com/fwlink/p/?LinkId=271326)。
+將多個群組列套用至專案計劃。深入了解[群組任務或資源](https://go.microsoft.com/fwlink/p/?LinkId=271326)。
   
 ## <a name="reports"></a>報告
 
@@ -63,5 +63,5 @@ Project Online 中提供下列專案規劃功能。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Project Online 服務說明](project-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Project Online 服務描述](project-online-service-description.md)。
   

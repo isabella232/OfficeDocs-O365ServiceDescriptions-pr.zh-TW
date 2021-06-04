@@ -35,7 +35,7 @@ Microsoft 工作場所分析為您組織的通訊和共同作業趨勢提供豐�
 
 ## <a name="gain-objective-actionable-insights"></a>取得目標，以行動的洞察力
 
-查看您的組織如何花時間與從 Office 365 的空前深入資訊，在內部和外部進行處理。 工作場所分析提供許多有關時間及網路的可行動行為指標，以通知各種策略決策，包括分組模型、資源配置和工作區規劃。
+請參閱您的組織如何花時間與從 Office 365 以空前的觀點從內部及從外通力進行。 工作場所分析提供許多有關時間及網路的可行動行為指標，以通知各種策略決策，包括分組模型、資源配置和工作區規劃。
 
 ## <a name="drive-organizational-change-with-data"></a>利用資料促進組織的變更
 
@@ -49,4 +49,4 @@ Microsoft 工作場所分析為您組織的通訊和共同作業趨勢提供豐�
   
 ## <a name="licensing-requirements"></a>授權需求
 
-Exchange Online Plan 1 或 Plan 2 是必要條件。
+Exchange Online方案1或計畫2是必要條件。

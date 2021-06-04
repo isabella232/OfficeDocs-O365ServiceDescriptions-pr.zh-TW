@@ -7,7 +7,7 @@ ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
-description: 通用列印，Microsoft 365 雲端列印服務會移除內部部署列印伺服器的需求。
+description: 通用列印功能 Microsoft 365 雲端列印服務，不再需要內部部署列印伺服器。
 ms.openlocfilehash: 4c716c706dd2383ed64fa867399ca88ee459d912
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -17,7 +17,7 @@ ms.locfileid: "51653605"
 ---
 # <a name="universal-print-service-description"></a>通用列印服務描述
 
-[通用列印](https://www.microsoft.com/microsoft-365/windows/universal-print)，Microsoft 365 雲端列印服務會移除內部部署列印伺服器的需求。 此服務可讓已加入 workplace 的 Windows 10 端點選取及列印至 Azure AD 已註冊印表機，而不需要安裝其他用戶端軟體。
+[通用列印](https://www.microsoft.com/microsoft-365/windows/universal-print)功能 Microsoft 365 雲端列印服務，不再需要內部部署列印伺服器。 此服務可讓工作地點加入 Windows 10 端點，以選取及列印至 Azure AD 已註冊印表機，而不需要安裝其他用戶端軟體。
 
 使用者受益于 driverless 列印、簡化位置型印表機探索，以及直觀的列印體驗，不會利用其裝置上現有列印流程的教學。
 
@@ -27,10 +27,10 @@ ms.locfileid: "51653605"
 
 通用列印包含在下列訂閱中，以盡可能滿足廣泛組織的需求。
 
-| 小型企業版                 | Enterprise Microsoft 365     | 教育版 Microsoft 365 |
+| 小型企業版                 | Enterprise Microsoft 365     | 教育 Microsoft 365 |
 |--------------------------------|------------------------------|-------------------------|
-| Microsoft 365 商務進階版 | Windows 10 企業版 E3     | Windows 10 教育版 E3 |
-|                                | Windows 10 企業版 E5     | Windows 10 教育版 E5 |
+| Microsoft 365 商務進階版 | Windows 10 企業版E3     | Windows 10 教育版E3 |
+|                                | Windows 10 企業版E5     | Windows 10 教育版E5 |
 |                                | Microsoft 365 F3             | Microsoft 365 A3        |
 |                                | Microsoft 365 E3             | Microsoft 365 A5        |
 |                                | Microsoft 365 E5             |                         |
@@ -39,11 +39,11 @@ ms.locfileid: "51653605"
 
 如需所有通用列印功能的完整清單，請參閱 [通用列印檔案](/universal-print/)。
 
-| 功能                                  | 小型企業方案 | 企業方案 | 教育計畫 |
+| 功能                                  | 小型企業方案 | Enterprise 方案 | 教育計畫 |
 |------------------------------------------|----------------------|------------------|-----------------|
 | [核心列印功能](/universal-print/)             | 是                  | 是              | 是             |
 | [文件轉換](/universal-print/fundamentals/universal-print-document-conversion)                  | 是                  | 是              | 是             |
-| [通用列印連接器軟體](/universal-print/fundamentals/universal-print-connector-overview)   | 是                  | 是              | 是             |
+| [通用列印連線程式軟體](/universal-print/fundamentals/universal-print-connector-overview)   | 是                  | 是              | 是             |
 | [通用列印 PowerShell 腳本](/universal-print/fundamentals/universal-print-powershell) | 是                  | 是              | 是             |
 
 ## <a name="learn-more"></a>深入了解
@@ -52,7 +52,7 @@ ms.locfileid: "51653605"
 
 - [通用列印夥伴整合](/universal-print/fundamentals/universal-print-partner-integrations)
 - [通用列印 API 參考](/graph/universal-print-concept-overview)
-- [通用列印技術群組](https://techcommunity.microsoft.com/t5/universal-print/ct-p/UniversalPrint)
+- [通用列印技術 Community](https://techcommunity.microsoft.com/t5/universal-print/ct-p/UniversalPrint)
 
 ### <a name="licensing-terms"></a>授權條款
 
@@ -64,4 +64,4 @@ ms.locfileid: "51653605"
 
 ### <a name="accessibility"></a>協助工具
 
-Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](https://www.microsoft.com/trust-center/compliance/accessibility) 。 如需詳細資訊，請參閱 [Microsoft 信任中心](https://www.microsoft.com/trust-center) 和 [Office 協助工具中心](https://support.microsoft.com/topic/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](https://www.microsoft.com/trust-center/compliance/accessibility) 。 如需詳細資訊，請參閱[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 協助工具中心](https://support.microsoft.com/topic/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。

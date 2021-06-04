@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
-description: Project Online 中提供下列產品群組管理功能。
+description: Project Online 提供下列產品群組管理功能。
 ms.openlocfilehash: 1554659494a6ad6afbeb35690deee61346bf6e55
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652277"
 ---
 # <a name="portfolio-management"></a>產品組合管理
 
-Project Online 中提供下列產品群組管理功能。
+Project Online 提供下列產品群組管理功能。
   
-尋找所有 Project Online 功能的相關資訊嗎？ 請參閱 [Project Online 服務說明](project-online-service-description.md)。
+尋找所有 Project Online 功能的相關資訊嗎？ 請參閱[Project Online 服務描述](project-online-service-description.md)。
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>分析專案並最佳化組合
 
@@ -29,11 +29,11 @@ Project Online 中提供下列產品群組管理功能。
   
 ## <a name="create-and-edit-projects"></a>建立和編輯專案
 
-以多種方式建立專案。 如需詳細資訊，請參閱[在 Project Web 應用程式中建立專案](https://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409)。
+以多種方式建立專案。如需詳細資訊，請參閱[在 Project Web 應用程式中建立專案](https://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409)。
   
 ## <a name="enterprise-resource-management"></a>企業資源管理
 
-資源是實現專案所需的人員、材料或成本。 Microsoft PPM 方案可讓資源管理員管理資源資料庫、規劃資源容量，以及核准、拒絕及修改傳入的資源參與要求。若要深入瞭解，請參閱 [Add a resource To Project Web App](https://go.microsoft.com/fwlink/p/?LinkId=271320)。
+資源是實現專案所需的人員、材料或成本。 Microsoft PPM 解決方案可讓資源管理員管理資源資料庫、規劃資源容量，以及核准、拒絕及修改傳入的資源參與要求。若要深入瞭解，請參閱[Add a resource to Project Web App](https://go.microsoft.com/fwlink/p/?LinkId=271320)。
   
 ## <a name="financial-management"></a>財務管理
 

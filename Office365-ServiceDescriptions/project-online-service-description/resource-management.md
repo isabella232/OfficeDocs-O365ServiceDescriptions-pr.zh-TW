@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a16d95d3-61af-4481-9bd2-f20cd02275a9
-description: Project Online 中提供下列資源管理功能。
+description: Project Online 提供下列資源管理功能。
 ms.openlocfilehash: 62b64e672dc9acb1e86415d47cad9c8ead053330
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,7 +19,7 @@ ms.locfileid: "51651085"
 ---
 # <a name="resource-management"></a>資源管理
 
-Project Online 中提供下列資源管理功能。
+Project Online 提供下列資源管理功能。
   
 ## <a name="approverejectmodify-incoming-resource-engagement-requests"></a>核准/拒絕/修改連入的資源參與要求
 
@@ -35,7 +35,7 @@ Project Online 中提供下列資源管理功能。
   
 ## <a name="request-resource-agreements"></a>要求資源協議
 
-讓您能夠有系統地要求資源的時間。 如需詳細資訊，請參閱[要求資源的時間](https://go.microsoft.com/fwlink/?LinkID=823663&amp;clcid=0x409)。
+讓您能夠有系統地要求資源的時間。如需詳細資訊，請參閱[要求資源的時間](https://go.microsoft.com/fwlink/?LinkID=823663&amp;clcid=0x409)。
   
 ## <a name="view-available-resources-and-build-teams"></a>檢視可用的資源並建置小組
 

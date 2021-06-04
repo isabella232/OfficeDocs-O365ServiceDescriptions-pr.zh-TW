@@ -24,7 +24,7 @@ ms.locfileid: "51652417"
 > [!NOTE]
 > 本主題不適用於 21Vianet 運作的 Office 365。若要深入了解服務更新，請參閱[取得 21Vianet 運作的 Office 365 的技術、帳單及訂閱支援](/microsoft-365/admin/contact-support-for-business-products)。 
   
-若要瞭解剛剛發行或即將發行的功能，請參閱 [Microsoft 365 藍圖](https://go.microsoft.com/fwlink/?LinkId=509914)。
+若要瞭解剛剛發行或即將發行的功能，請參閱[Microsoft 365 藍圖](https://go.microsoft.com/fwlink/?LinkId=509914)。
   
 > [!NOTE]
 > 根據許多因素，例如地理、語言、資料中心及訂閱，更新及升級會向客戶推出。 這表示現有客戶無法立即取得所有更新 。 
@@ -37,10 +37,10 @@ ms.locfileid: "51652417"
 
 Microsoft 致力於進行任何需要系統管理員採取行動以維持服務正常運作的變更，以通知客戶。 除非另有說明，否則 Microsoft 會在有更新需要系統管理員採取動作時，事先 (至少 30 天前) 透過[訊息中心](/office365/admin/manage/message-center)發出通知。 
   
-大部分的服務更新是 bug 修正、效能提升及安全性更新，需要代表客戶執行零動作。 您可以在 [Microsoft 365 for business 藍圖](https://roadmap.office.com/)上找到新的和改良的功能。
+大部分的服務更新是 bug 修正、效能提升及安全性更新，需要代表客戶執行零動作。 在[商務藍圖的 Microsoft 365](https://roadmap.office.com/)上會找到新的和改善的功能。
   
 請注意，Microsoft 遵循 [線上生命週期原則](https://support.microsoft.com/lifecycle#gp/osslpolicy)。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案中的功能可用性，請參閱 [Microsoft 365 和 Office 365 平臺服務說明](office-365-platform-service-description.md)。
+若要查看不同方案中的功能可用性，請參閱[Microsoft 365 和 Office 365 platform service description](office-365-platform-service-description.md)。

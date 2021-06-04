@@ -28,7 +28,7 @@ ms.locfileid: "51652717"
   
 內部部署的 Lync Server 2010 和 Lync Server 2013 可以使用另外兩種方式與 Exchange Online 交互操作：
   
-- Outlook 網頁版中的 IM 和目前狀態互通性
+- 網頁 Outlook 中的 IM 和目前狀態互通性
     
 - 語音信箱互通性
     
@@ -36,7 +36,7 @@ ms.locfileid: "51652717"
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-若客戶已部署 Microsoft SharePoint Server 或 SharePoint 線上做為訂閱計畫的一部分，SharePoint 可連線至 Exchange Online 的整合式服務。
+針對已部署 Microsoft SharePoint Server 或 SharePoint 做為訂閱計畫一部分之線上的客戶，SharePoint 可連接至整合服務的 Exchange Online。
   
 如需有關如何將 SharePoint 與 Exchange Online 連線的更多資訊，請參閱[在自訂網域中使用 SharePoint Online 與其他服務](https://go.microsoft.com/fwlink/?LinkId=271805)。
   
@@ -58,4 +58,4 @@ Exchange Online 可以當作 SMTP 傳遞服務使用，用以轉送從傳真閘�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Exchange Online 服務說明](exchange-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 服務描述](exchange-online-service-description.md)。

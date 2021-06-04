@@ -32,11 +32,11 @@ Microsoft Exchange Online 可以透過內部部署伺服器或託管服務 (有�
 如需詳細資訊，請參閱 [設定連接器以在 Microsoft 和您自己的電子郵件伺服器之間路由傳送郵件](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)。
   
 > [!IMPORTANT]
-> Exchange Online 可以傳送在您的組織中進出的郵件。 如果您的收件者網域主控于 Exchange Online 中，且 DNS MX 記錄指向 Exchange Online Protection，則來自您租使用者的郵件流程將不會透過網際網路傳送。
+> Exchange Online 可以傳送在您的組織中進出的郵件。 如果您的收件者網域是在 Exchange Online 中主控，且 DNS MX 記錄指向 Exchange Online Protection，則來自租使用者的郵件流向收件者將不會透過網際網路傳送。
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>與信任的合作夥伴間的安全傳訊
 
-做為 Exchange Online 客戶時，您可以使用 Microsoft 連接器設定安全的郵件流程與信任的合作夥伴。 Microsoft 會透過傳輸層安全性 (TLS) 來支援安全通訊，而且您可以建立連接器，透過 TLS 強制加密。 [TLS](/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) 是一種加密通訊協定，可為透過網際網路的通訊提供安全性。 您可以使用連接器，同時設定使用自我簽署或經過憑證授權單位 (CA) 驗證之憑證的強制內送和外寄 TLS。 您也可以套用其他安全性限制 (像是指定合作夥伴組織傳送郵件所用的網域名稱或 IP 位址範圍)。 
+身為 Exchange Online 客戶，您可以使用 Microsoft 連接器設定安全的郵件流程與信任的合作夥伴。 Microsoft 會透過傳輸層安全性 (TLS) 來支援安全通訊，而且您可以建立連接器，透過 TLS 強制加密。 [TLS](/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) 是一種加密通訊協定，可為透過網際網路的通訊提供安全性。 您可以使用連接器，同時設定使用自我簽署或經過憑證授權單位 (CA) 驗證之憑證的強制內送和外寄 TLS。 您也可以套用其他安全性限制 (像是指定合作夥伴組織傳送郵件所用的網域名稱或 IP 位址範圍)。 
   
 如需詳細資訊，請參閱＜[Set up connectors for secure mail flow with a partner organization](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)＞。
   
@@ -65,7 +65,7 @@ Microsoft Exchange Online 可以透過內部部署伺服器或託管服務 (有�
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>具有內部部署路由控制的共用位址空間 (MX 點至內部部署)
 
-具有 On-Premises 路由控制的共用位址空間 (MX 點 On-Premises) 是混合式部署郵件路由案例，在此案例中，您的信箱已部分主控于 Exchange Online 和部分內部部署中，而且傳入和傳出網際網路郵件流程會透過內部部署 Exchange 組織進行路由傳送。 這種案例也稱為集中式郵件傳輸。 在此案例中，會使用 EOP 來布建 Exchange Online，而且傳入的網際網路郵件會路由傳送至您的內部部署郵件伺服器，然後才會路由傳送至 EOP，最後傳送至 Exchange Online 中主控的信箱。 此外，來自 Exchange Online 信箱的外寄郵件會透過內部部署 Exchange 組織進行路由，以使郵件傳送至外部收件者。 您可以透過這個設定，將單一 SMTP 網域命名空間使用於內部部署 Exchange 組織和 Exchange Online 組織中的所有信箱。 
+具有 On-Premises 路由控制的共用位址空間 (MX 點 On-Premises) 是混合式部署郵件路由案例，在此案例中，您的信箱以部分的方式主控于 Exchange Online 和部分內部部署，且傳入和傳出網際網路郵件流程會透過內部部署 Exchange 組織進行路由傳送。 這種案例也稱為集中式郵件傳輸。 在此案例中，會使用 EOP 布建 Exchange Online，並將內送網際網路郵件路由傳送至您的內部部署郵件伺服器，然後再將其路由傳送至 EOP，最後傳送 Exchange Online 中的信箱。 此外，來自 Exchange Online 信箱的外寄郵件會透過內部部署 Exchange 組織進行路由，以使郵件傳送至外部收件者。 您可以透過這個設定，將單一 SMTP 網域命名空間使用於內部部署 Exchange 組織和 Exchange Online 組織中的所有信箱。 
   
 如需有關混合部署中傳輸選項的詳細資訊，請參閱 [Exchange 混合部署的傳輸選項](/exchange/transport-options)。
   
@@ -96,4 +96,4 @@ Microsoft Exchange Online 可以透過內部部署伺服器或託管服務 (有�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱 [Exchange Online 服務說明](exchange-online-service-description.md)。
+若要查看不同方案、獨立選項和內部部署方案中的功能可用性，請參閱[Exchange Online 服務描述](exchange-online-service-description.md)。
