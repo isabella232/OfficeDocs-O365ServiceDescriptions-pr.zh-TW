@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未授權存取的潛在服務中斷。
-ms.openlocfilehash: d1bbf0d60d78d12d0d48ce909dba72ef2478a0c0
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 76b85a49f9a1dd5c48db471d7be3a21559d93d77
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699059"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798469"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>安全規範的 Microsoft 365 授權指導方針 &amp;
 
@@ -303,8 +303,6 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 規範、Microsoft 365 資訊保
 
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 相容性、Microsoft 365 E5/A5/G5 資訊保護及控管，可提供使用者的權力，以根據 trainable 分類器自動套用保留標籤。
 
-如需授權的特定權利，請參閱詳細 Microsoft 365 規範授權比較。 [ (PDF) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
 根據預設，會在租使用者中的所有使用者的租使用者層級上啟用資訊管理功能。 如需設定資訊管理以套用授權使用者的 autolabeling 和原則的資訊，請參閱[Microsoft information 控管 in Microsoft 365](/microsoft-365/compliance/manage-information-governance)。
@@ -322,8 +320,6 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 相容性、Microsoft 365 E5/A5/
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 規範、Microsoft 365 資訊保護和控管 E5/g5，及 Office 365 E5/a5/g5 為使用者提供的權力，包括宣告專案為記錄或法規記錄、自動套用保留或記錄標籤，以及執行處置審閱程式 (排除自動套用以 trainable 分類器為基礎的保留標籤。
 
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 規範，以及 Microsoft 365 資訊保護和控管，可為使用者提供權力，以根據 trainable 的分類器自動套用保留或記錄標籤。
-
-如需授權的特定權利，請參閱詳細 Microsoft 365 規範授權比較。 [ (PDF) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 

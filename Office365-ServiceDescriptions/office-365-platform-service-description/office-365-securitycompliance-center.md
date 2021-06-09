@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全性與 &amp; 合規性中心的設計目的是協助您跨組織的 Office 365 管理規範功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-ms.openlocfilehash: 9f4c644905f606d00e6a40d23ded56744e397c50
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 8fc8c0a6d127dd1565a954a5368b56fc37bcc47d
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699099"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798459"
 ---
 # <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 
@@ -116,7 +116,7 @@ ms.locfileid: "52699099"
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
-在由世紀運作的 Office 365 的 E3 計畫中提供合規性中心。
+在[由世紀運作的 Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-operated-by-21vianet)的 E3 計畫中提供合規性中心。
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 

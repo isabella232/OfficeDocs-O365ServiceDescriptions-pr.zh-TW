@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 為專案產品群組管理 (PPM) 及日常運作的彈性線上解決方案。 透過 Project Online Office 365 提供強大的專案管理功能，可用於規劃、排定專案與專案組合的投資，甚至幾乎任何裝置上幾乎都沒有任何的裝置。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: 3b8748a07bee29e12552d096e56eae84cfdc4c04
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 6fce6aca852f0c8bac6572b130a6f7da1b89ef79
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545920"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798479"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -127,7 +127,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以符合組織的需�
 |**安全性和使用者管理**||||||
 |Office新式群組 | 組建專案小組以共同作業，並輕鬆地設定小組成員共用的資源集合。 | 是 | 是 | 是 | 是 |
 |**Third-Party 應用程式**||||||
-|使用第三 <sup>方應用程式</sup> *Project 網頁* 連線 | 使用自訂或協力廠商應用程式來查看、建立、更新或刪除任何原生 Project 表中 Project 資料。 | 否 | 是 | 是 | 是 |
+|使用第三 <sup>方應用程式</sup> *Project 網頁* 連線 | 使用自訂或協力廠商應用程式來查看、建立、更新或刪除任何原生 Project 表中 Project 資料。 | 只查看<sup>11</sup> | 是 | 是 | 是 |
 
 ### <a name="project-online-features"></a>Project Online 功能
 
@@ -193,7 +193,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以符合組織的需�
 |使用者管理 | 管理專案、小組和組織層級的使用者和群組角色和許可權。 | 否 | 是 |
 |服務管理 | 規劃、安裝及設定、維護和擴充 Microsoft Project 環境為 Office 365<sup>1</sup>環境的一部分。 | 否 | 是 |
 
-#### <a name="notes"></a>Notes
+#### <a name="notes"></a>附註
 
 <sup>1</sup>需要 Office 或 Microsoft 365 商務訂閱。</br>
 <sup>2</sup> Azure Boards 個別購買。</br>
@@ -212,6 +212,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以符合組織的需�
 <sup>8</sup>使用 Project 方案3或 Project 方案5訂閱的使用者可以提交資源預訂要求。 他們無法複查、履行或核准資源預訂要求。</br>
 <sup>9</sup>具有 Project 方案5訂閱的使用者可以查看、履行和核准資源預訂要求。</br>
 <sup>10</sup> Active Directory 需要個別的訂閱。 </br>
+<sup>11</sup> 只從電源 App 內授與僅限查看權利。 </br>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online 桌面用戶端功能
 
