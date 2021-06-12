@@ -1,5 +1,5 @@
 ---
-title: Visio 網頁版
+title: Visio 功能詳細資料
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: 網頁 Visio 會將您的 Microsoft Visio 體驗擴充至瀏覽器，您可以在其中建立及編輯儲存在雲端中的圖表。 Microsoft 365 客戶可以在旅途中查看、列印和共用圖表和插入批註。
-ms.openlocfilehash: 936b08c6b00532d85b6e0426ae11e29d45a78cda
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: e8e395c91d0bb7c018dd4451a6491c2b209ec4f2
+ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653635"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52906759"
 ---
-# <a name="visio-for-the-web"></a>Visio 網頁版
+# <a name="visio-features-detail"></a>Visio 功能詳細資料
 
 網頁 Visio 會將您的 Microsoft Visio 體驗擴充至瀏覽器，您可以在其中建立及編輯儲存在雲端中的圖表。 Microsoft 365 客戶可以在旅途中查看、列印和共用圖表和插入批註。 如果您有 Visio 訂閱，您可以使用其他功能，例如下列各節所述的功能。
   

@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未授權存取的潛在服務中斷。
-ms.openlocfilehash: 76b85a49f9a1dd5c48db471d7be3a21559d93d77
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: 2f1f048de8dd0de2416c87f2fbf985d8ee47b9b2
+ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798469"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52906749"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>安全規範的 Microsoft 365 授權指導方針 &amp;
 
@@ -297,7 +297,17 @@ Microsoft 365 E5/A5/G5/E3/A3/Business 進階版，Office 365 E5/A5/G5/E3/，Exch
 
 Microsoft 365 E5/A5/G5/E3/A3、Office 365 E5/A5/G5/E3/和 SharePoint 方案2，可讓使用者受益于基本 SharePoint 或 OneDrive 保留原則，以及/或手動將非記錄保留標籤套用至 SharePoint 或 OneDrive 中的檔案。
 
-Microsoft 365 E5/A5/G5/E3/A3 和 Office 365 E5/A5/G5/E3/Teams 為使用者提供的權力，可從保留原則中受益。
+組織可以根據其原則，使用保留原則來保留或刪除 Teams 郵件。 這包括在 Teams 聊天和交談中管理郵件。
+
+下列授權可讓使用者從 Teams 保留原則中受益的權利如下：
+
+- Microsoft 365 E5/G5/A5/E3/G3/A3
+- Office 365E5/G5/A5/E3/G3/A3/F3/E1/G1
+
+請注意，針對具有下列授權的使用者，支援的最低保留或刪除期限為30天：
+
+- Microsoft 365 F1/F3，商務基本，商務標準和商務進階版
+- Office 365E1/G1 和 F3
 
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 規範、Microsoft 365 資訊保護和控管 E5/a5/G5，及 Office 365 E5/a5 為使用者提供的許可權，可讓使用者受益于自動套用保留標籤或原則。套用預設保留標籤或原則，根據自訂事件開始保留標籤的保留期間，在標籤保留期間結束時觸發手動處置檢查、將協力廠商資料匯入到原生資料連線器、宣告檔案 a 記錄、探索標示的內容，以及監視標記活動。
 
