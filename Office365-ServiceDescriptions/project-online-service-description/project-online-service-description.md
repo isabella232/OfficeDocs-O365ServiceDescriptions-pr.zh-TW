@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 為專案產品群組管理 (PPM) 及日常運作的彈性線上解決方案。 透過 Project Online Office 365 提供強大的專案管理功能，可用於規劃、排定專案與專案組合的投資，甚至幾乎任何裝置上幾乎都沒有任何的裝置。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: 6fce6aca852f0c8bac6572b130a6f7da1b89ef79
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: fde1441db90bd24316c5b5d3ba9316f8717ac650
+ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798479"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53021996"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -297,6 +297,11 @@ web 的 Project 需要使用 Microsoft Dataverse 儲存其資料。 Microsoft Da
 ### <a name="data-backup-and-retention"></a>資料備份和保留
 
 web 和 Project Online 的 Project 與 Office 365 具有相同的資料備份和保留原則。 如需詳細資訊，請參閱[Office 365 中的資料保留、刪除及銷毀](/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview)。
+
+### <a name="data-encryption"></a>資料加密
+
+- 若要深入瞭解 Project Online 中的資料加密[，請參閱商務用 OneDrive 中的資料加密，以及 SharePoint 線上 Microsoft 365 相容性 |Microsoft](/microsoft-365/compliance/data-encryption-in-odb-and-spo)檔
+- 若要深入瞭解網頁 Project 中的資料加密，請參閱[Microsoft Dynamics 365-Microsoft 365 合規性中的加密 |Microsoft](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)檔
 
 ### <a name="project-for-the-web-boundaries-and-limitations"></a>網頁界限和限制的 Project
 

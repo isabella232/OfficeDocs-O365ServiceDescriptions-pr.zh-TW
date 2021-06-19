@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未授權存取的潛在服務中斷。
-ms.openlocfilehash: dc52a66990114f9c74ca815c9525f34175e7995b
-ms.sourcegitcommit: 0bf671ec5b5ba16bcdc730b88e2607d85a3d4497
+ms.openlocfilehash: 00124a252a0e14a4ac78854385817a6c949e9f67
+ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52950162"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53021966"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>安全規範的 Microsoft 365 授權指導方針 &amp;
 
@@ -260,7 +260,9 @@ Microsoft 365 E3/A3/G3 和 Office 365 E3/A3/G3 允許使用者只從內容 Explo
 
 Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium，Enterprise 可移動性 + Security F3/E3/E5，Office 365 E5/A5/E3/A3/F3，AIP Plan 1，and AIP Plan 2 為使用者提供從手動敏感度標記中受益的權利。
 
-Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium、Enterprise 可移動性 + Security F3/E3/E5、AIP Plan 1 和 AIP Plan 2 為使用者提供的權力，可讓使用者在 Power BI 中套用和查看敏感度標籤，並在將資料從 Power BI 匯出至 Excel、PowerPoint 或 PDF 時，加以受益。 
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium、Enterprise 可移動性 + Security F3/E3/E5、AIP Plan 1 和 AIP Plan 2 為使用者提供的權力，可讓使用者在 Power BI 中套用和查看敏感度標籤，並在將資料從 Power BI 匯出至 Excel、PowerPoint 或 PDF 時，加以受益。
+
+Microsoft 365 商務版和企業行動能力提供使用 [AIPService](/powershell/azure/aip/overview#aipservice) PowerShell 模組來管理 Azure 資訊保護 Azure rights Management protection service 的權利。
 
 > [!NOTE]
 > Power BI 隨附于 Microsoft 365 E5/A5/G5;在所有其他計畫中，Power BI 必須另行授權。
@@ -275,9 +277,11 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/g5 相容性、Microsoft 365 E5/A5/
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-除了使用 AIP 掃描器功能時，您可以編輯原則，以防止未授權的使用者執行分類或標記功能。 如需如何限定 AIP 部署範圍的相關指示，請參閱[設定 Azure 資訊保護原則](/azure/information-protection/configure-policy)。
+除了使用 AIP 掃描器功能時，您可以編輯原則，以防止未授權的使用者執行分類或標記功能。
 
 針對 AIP 掃描器功能，Microsoft 並未承諾會為未授權的使用者提供檔案分類、標記或保護功能。
+
+如需詳細資訊，請參閱 [建立及發行敏感度標籤](/microsoft-365/compliance/create-sensitivity-labels#publish-sensitivity-labels-by-creating-a-label-policy) 及 [瞭解 Azure 資訊保護統一標記掃描器](/azure/information-protection/deploy-aip-scanner)。
 
 ## <a name="information-governance"></a>資訊管理
 
@@ -306,7 +310,7 @@ Microsoft 365 E5/A5/G5/E3/A3、Office 365 E5/A5/G5/E3/A3 和 SharePoint 方案2�
 
 請注意，針對具有下列授權的使用者，支援的最低保留或刪除期限為30天：
 
-- Microsoft 365 F1/F3，商務基本，商務標準和商務津貼
+- Microsoft 365 F1/F3、商務基本、商務標準和商務津貼
 - Office 365 E1/G1 及 F3
 
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/g5 符合性、Microsoft 365 資訊保護和控管 E5/A5/G5，以及 Office 365 E5/A5 為使用者提供的權力，可讓使用者從自動套用保留標籤或原則中受益。套用預設保留標籤或原則，根據自訂事件開始保留標籤的保留期間，在標籤保留期間結束時觸發手動處置檢查、將協力廠商資料匯入到原生資料連線器、宣告檔案 a 記錄、探索標示的內容，以及監視標記活動。
