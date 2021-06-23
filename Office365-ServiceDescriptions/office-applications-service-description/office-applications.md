@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office 是一套強大的服務產品，能協助您想出最棒的點子、完成工作並在行動間保持聯繫。只要登入以使用個人化體驗，所有最新的 Office 應用程式，以及新的增強功能都將持續加入。
-ms.openlocfilehash: 5d23343c076244d3a326ed447d2fbf4ff88ffa0c
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ba9da48b79d6b5350182caa347c8d0ce9d6873df
+ms.sourcegitcommit: f1adb57081ea5234e09de4890e756e17e09a2696
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652377"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "53069251"
 ---
 # <a name="office-applications"></a>Office 應用程式
 
@@ -27,31 +27,31 @@ Microsoft Office 是一套強大的服務產品，能協助您想出最棒的點
   
 ## <a name="microsoft-word"></a>Microsoft Word
 
-Microsoft Word 是適用於 Windows 和 Mac 作業系統的全功能型文字處理程式。 請參閱 word [2019 for Mac 的新功能 Windows](https://support.office.com/article/what-s-new-in-word-2019-for-windows-d3d31e5e-2bb8-4433-80bb-08279beef4b3)和[word 2019 for Mac 中的新功能](https://support.office.com/article/what-s-new-in-word-2019-for-mac-247e0cd4-a758-4b42-a157-42eb8853aef5)。
-  
+Microsoft Word 是適用於 Windows 和 Mac 作業系統的全功能型文字處理程式。 若要深入瞭解，請參閱[Word with Microsoft 365](https://www.microsoft.com/microsoft-365/word)。
+
 ## <a name="microsoft-excel"></a>Microsoft Excel
 
-Microsoft Excel 是適用於 Windows 和 Mac 作業系統的試算表程式，可提供計算、圖形工具、樞紐分析表和微程式設計語言等支援。 請參閱[Excel 2019 的新功能，以取得 Windows](https://support.office.com/article/what-s-new-in-excel-2019-for-windows-5a201203-1155-4055-82a5-82bf0994631f) ，以及[Excel 2019 for Mac 中的新功能](https://support.office.com/article/what-s-new-in-excel-2019-for-mac-5ce129d3-9e5c-417f-9545-fb6f7b72674d)。
+Microsoft Excel 是適用於 Windows 和 Mac 作業系統的試算表程式，可提供計算、圖形工具、樞紐分析表和微程式設計語言等支援。 如需詳細資訊，請參閱[Excel Microsoft 365](https://www.microsoft.com/microsoft-365/excel)。
   
 ## <a name="microsoft-powerpoint"></a>Microsoft PowerPoint
 
-Microsoft PowerPoint 是適用於 Windows 和 Mac 作業系統的簡報程式。 請參閱[PowerPoint 2019 的新功能，以取得 Windows](https://support.office.com/article/what-s-new-in-powerpoint-2019-for-windows-8355a56a-f643-42d2-8454-784fa9b3d109) ，以及[PowerPoint 2019 for Mac 中的新功能](https://support.office.com/article/what-s-new-in-powerpoint-2019-for-mac-5038ba79-48c5-40f0-adff-11489e5d6fed)。
-  
+Microsoft PowerPoint 是適用於 Windows 和 Mac 作業系統的簡報程式。 如需詳細資訊，請參閱[PowerPoint Microsoft 365](https://www.microsoft.com/microsoft-365/powerpoint)。
+
 ## <a name="microsoft-onenote"></a>Microsoft OneNote
 
-Microsoft OneNote 是 Windows 和 Mac 作業系統的自由格式筆記記錄程式。 請參閱[OneNote 的新增功能 Windows 10](https://support.office.com/article/what-s-new-in-onenote-for-windows-10-1477d5de-f4fd-4943-b18a-ff17091161ea)以及[Mac 版 OneNote 的新功能](https://support.office.com/article/see-what-s-new-in-onenote-for-mac-c82d3f15-252f-452a-89ba-e09fbe418829)。
+Microsoft OneNote 是 Windows 和 Mac 作業系統的自由格式筆記記錄程式。 如需詳細資訊，請參閱[OneNote](https://www.microsoft.com/microsoft-365/onenote/digital-note-taking-app)。
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook 是適用於 Windows 與 Mac 作業系統的電子郵件程式。 請參閱[Outlook 2019 的新功能，以取得 Windows](https://support.office.com/article/what-s-new-in-outlook-2019-for-windows-0c64df36-0908-4ff6-a7fc-573a62800525) ，以及[Outlook 2019 for Mac 中的新功能](https://support.office.com/article/what-s-new-in-outlook-2019-for-mac-05736033-f99e-4cb2-88aa-01e979b0736b)。
+Microsoft Outlook 是適用於 Windows 與 Mac 作業系統的電子郵件程式。 如需詳細資訊，請參閱[Outlook Microsoft 365](https://www.microsoft.com/microsoft-365/outlook/outlook-personal-email-plans)。
   
 ## <a name="microsoft-publisher"></a>Microsoft Publisher
 
-Microsoft Publisher 是適用於 Windows 作業系統的桌上出版程式。 請參閱[Microsoft Publisher](https://products.office.com/publisher)。
+Microsoft Publisher 是適用於 Windows 作業系統的桌上出版程式。 如需詳細資訊，請參閱[Publisher Microsoft 365](https://www.microsoft.com/microsoft-365/publisher)。
   
 ## <a name="microsoft-access"></a>Microsoft Access
 
-Microsoft Access 是適用於 Windows 作業系統的資料庫管理解決方案。 請參閱 [Access 2019 的新功能](https://support.office.com/article/what-s-new-in-access-2019-f52c5317-3494-4105-9c56-5a2abb8e0f87)。
+Microsoft Access 是適用於 Windows 作業系統的資料庫管理解決方案。 深入瞭解[Microsoft 365 的存取](https://www.microsoft.com/microsoft-365/access)。
   
 ## <a name="skype-for-business"></a>商務用 Skype
 

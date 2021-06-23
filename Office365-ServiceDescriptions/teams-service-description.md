@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 深入瞭解 Microsoft 365 和 Office 365 方案中的 Microsoft Teams 服務和功能可用性。
-ms.openlocfilehash: 12aaf9320b3cb1fe62b784b8900f6cafcccb4025
-ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
+ms.openlocfilehash: b2028fb4e2d2e74a56230a570a709a6731a0628c
+ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52906769"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077517"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服務描述
 
@@ -29,16 +29,17 @@ Microsoft Teams 是 Microsoft 365 團隊合作的中心。 Teams 服務可讓您
 
 | 功能 | 小型企業 | Enterprise 方案 | GCC | GCC-高 | DOD | 教育 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|聊天  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Teams  <br/> |是 <br/> |是 <br/> |是 <br/> |是<sup>1</sup>  <br/> |是<sup>1</sup>  <br/> |是  <br/> |
-|通道-標準  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通道-私人  <br/> |是  <br/> |是<sup>2</sup>  <br/> |是 <br/> |否  <br/> |否 <br/> |是  <br/> |
-|會議  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Audio/Video 桌面 PowerPoint 螢幕共用 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|語音  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是  <br/> |
-|音訊會議  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是  <br/> |
-|應用程式、Bot、& 連接器  <br/> |是  <br/> |是  <br/> |是<sup>5</sup>  <br/> |是<sup>5</sup>  <br/> |是<sup>4，5</sup>  <br/> |是  <br/> |
-|即時事件  <br/> |否  <br/> |是  <br/> |是  <br/> |否<sup>6</sup>  <br/> |否<sup>6</sup>  <br/> |是  <br/> |
+|聊天 |是 |是 |是 |是 |是 |是 |
+|Teams |是|是|是|是<sup>1</sup> |是<sup>1</sup> |是 |
+|通道-標準 |是 |是 |是 |是 |是 |是 |
+|通道-私人 |是 |是<sup>2</sup> |是|否 |否|是 |
+|會議 |是 |是 |是 |是 |是 |是 |
+|研討會 |是 |是 |否 |否 |否 |是 |
+|Audio/Video 桌面 PowerPoint 螢幕共用|是 |是 |是 |是 |是 |是 |
+|語音 |是 |是 |是 |是<sup>3</sup> |是<sup>3</sup> |是 |
+|音訊會議 |是 |是 |是 |是<sup>3</sup> |是<sup>3</sup> |是 |
+|應用程式、Bot、& 連接器 |是 |是 |是<sup>5</sup> |是<sup>5</sup> |是<sup>4，5</sup> |是 |
+|即時事件 |否 |是 |是 |否<sup>6</sup> |否<sup>6</sup> |是 |
 
 <sup>1</sup> Microsoft Teams 在個別小組中 GCC-High 和 DOD 支援2500成員。<br/>
 <sup>2</sup> Microsoft Planner 目前無法存取私人通道。<br/>
