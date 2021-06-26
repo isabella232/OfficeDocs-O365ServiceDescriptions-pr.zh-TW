@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 為專案產品群組管理 (PPM) 及日常運作的彈性線上解決方案。 透過 Project Online Office 365 提供強大的專案管理功能，可用於規劃、排定專案與專案組合的投資，甚至幾乎任何裝置上幾乎都沒有任何的裝置。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: fde1441db90bd24316c5b5d3ba9316f8717ac650
-ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
+ms.openlocfilehash: 1b8e8cf52636e9499281cf7944a84b420a2297a6
+ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53021996"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53140825"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -28,7 +28,7 @@ ms.locfileid: "53021996"
 Microsoft Project 提供下列應用程式，協助滿足您組織的專案和工作管理需求：
 
 - Project 網頁版
-- Microsoft Project Online 
+- Project Online 
 - Project Online 桌面用戶端
 
 本文將協助您瞭解每個 Project 訂閱中提供哪些應用程式，以及每個應用程式所提供的功能。
@@ -41,7 +41,7 @@ web 的 Project 是以 Microsoft Power 平臺為基礎。 [電源平臺] 包含 
 
 web 的 Project 可透過三個訂閱取得： Project 方案1、Project 方案3及 Project 方案5。 在[web 功能 Project](#project-for-the-web-features)中列出的功能只會與 web 資料儲存區 Project 中的資料互動。
 
-### <a name="project-online"></a>Microsoft Project Online
+### <a name="project-online"></a>Project Online
  
 Project Online 是 Project 產品群組管理 (PPM) 及日常運作的靈活線上解決方案。 Project Online 提供強大的專案管理功能，以在 &mdash; 幾乎任何裝置上的幾乎任何地方規劃、排定專案與專案組合的投資，以及管理專案與專案的投資。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
 
@@ -81,7 +81,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以符合組織的需�
 |產品 | 方案 1 | 方案3 | 方案5 |
 |--------|-----------------------------|------------------------|------------------------|
 |Project 網頁版 |**x**  | **x x** | **x x** |
-|Microsoft Project Online |**x** |**x x**| **x x x** |
+|Project Online |**x** |**x x**| **x x x** |
 |Project Online 桌面用戶端 | |**x**|**x**|
 
 在上表中， (**x**) 的檢查數目會指出方案所提供的一般功能層級。 例如，針對 Project Online，plan 5 提供的功能比方案3多。
@@ -315,7 +315,7 @@ web Project 有一些限制，如下表所述。<br><br>
 |麥克斯。 葉任務的工期 | 1250天 |
 |麥克斯。 摘要任務的工期 | 3650天 (10 年)  |
 |麥克斯。 可指派給任務的資源 | 20個資源 |
-|任務的支援日期範圍 | 1/1/1984 &ndash; 12/31/2149 |
+|任務的支援日期範圍 | 1/1/2000 &ndash; 12/31/2149 |
 |**Project** ||
 |麥克斯。 專案的任務總數 | 500 |
 |麥克斯。 專案的總持續時間 | 3650天 (10 年)  |
