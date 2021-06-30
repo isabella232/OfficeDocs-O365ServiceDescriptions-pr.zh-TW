@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 請參閱哪些 SharePoint 功能可用於哪些方案。
-ms.openlocfilehash: 3455c7d29697dc8cef1f99fa271f71defeb55bf2
-ms.sourcegitcommit: 3e9f333093f62467dabe9d2282121769406ebf53
+ms.openlocfilehash: a158debc41e35c07895d1d8e805994796c0e8a63
+ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52955635"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53204850"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服務描述
 
@@ -31,19 +31,19 @@ Microsoft 365 中的 SharePoint 可協助組織共用及管理內容、知識及
 
 如需快速概觀，請參閱[什麼是 SharePoint？](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-如需可讓使用者 SharePoint 之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。 如需 Microsoft 365 的系統需求，請參閱 [microsoft 365 和 Office 資源](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)。
+如需可讓使用者 SharePoint 之訂閱的詳細計畫資訊，請參閱[完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。 如需 Microsoft 365 系統需求，請參閱[Microsoft 365 和 Office 資源](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)。
 
-若要深入瞭解我們政府雲端客戶的 SharePoint 功能差異，請參閱 [SharePoint FOR us 政府環境](../office-365-platform-service-description/office-365-us-government/sharepoint.md)。
+若要深入瞭解我們政府雲端客戶的 SharePoint 功能差異，請參閱[SharePoint for us 政府環境](../office-365-platform-service-description/office-365-us-government/sharepoint.md)。
   
 ## <a name="whats-new"></a>新增功能
 
-如需有關所發行的最新功能的詳細資訊，請參閱 [SharePoint 的新](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)功能。
+如需有關所發行的最新功能的詳細資訊，請參閱[SharePoint 的新](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)功能。
   
 ## <a name="subscription-options"></a>訂閱選項
 
-Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需可讓使用者 SharePoint 之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
+Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需可讓使用者 SharePoint 之訂閱的詳細計畫資訊，請參閱[完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
-若要存取 SharePoint，您組織中的使用者必須獲指派包含 SharePoint 的授權。 Firstline 方案不是以獨立提供方式銷售，只是 [Office 365 f3](https://www.microsoft.com/microsoft-365/business/office-365-f1)、 [microsoft 365 F1](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) 或 [microsoft 365 F3](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab)的一部分。 
+若要存取 SharePoint，您組織中的使用者必須獲指派包含 SharePoint 的授權。 Firstline 方案不會做為獨立提供，只做為[Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1) [Microsoft 365 F1](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab)或[Microsoft 365 F3](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab)的一部分。 
   
 ## <a name="rights-of-guests"></a>來賓的權力
 
@@ -51,13 +51,13 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需可�
 
 ## <a name="onedrive"></a>OneDrive
 
-Microsoft 365 中的 OneDrive 是為組織內的個別使用者提供線上存放區。 在這裡，使用者可以輕鬆並安全地跨多個裝置來儲存、同步及分享工作檔案。 OneDrive 包含在 SharePoint 中，也可以以獨立方案形式購買。 若要瞭解每個計畫有多少 OneDrive 儲存空間，請參閱 [OneDrive 服務描述](../onedrive-for-business-service-description.md)。
+Microsoft 365 中的 OneDrive 為組織內的個別使用者的線上存放區。 在這裡，使用者可以輕鬆並安全地跨多個裝置來儲存、同步及分享工作檔案。 OneDrive 包含在 SharePoint 中，也可以以獨立方案形式購買。 若要瞭解每個計畫有多少 OneDrive 儲存空間，請參閱[OneDrive 服務描述](../onedrive-for-business-service-description.md)。
 
 ## <a name="apps"></a>應用程式
 
-若要同步處理電腦上的 SharePoint 檔案，使用者可以使用 Windows 或 Mac [OneDrive 同步應用程式](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) 。 如需同步處理應用程式中功能可用性的相關資訊，請參閱 [OneDrive 服務描述](../onedrive-for-business-service-description.md)。 
+若要同步處理電腦上的 SharePoint 檔案，使用者可以使用[OneDrive 同步處理應用程式](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88)Windows 或 Mac。 如需同步處理應用程式中功能可用性的相關資訊，請參閱[OneDrive 服務描述](../onedrive-for-business-service-description.md)。 
 
-若要在行動裝置上使用 SharePoint 網站，他們可以 [為 iOS、Android 或 Windows 安裝 SharePoint 行動應用程式](https://products.office.com/sharepoint/mobile-app)。 
+若要在行動裝置上使用 SharePoint 網站，他們可以[為 iOS、Android 或 Windows 安裝 SharePoint 行動應用程式](https://products.office.com/sharepoint/mobile-app)。 
   
   
 ## <a name="developer-features"></a>開發人員功能
@@ -67,22 +67,22 @@ Microsoft 365 中的 OneDrive 是為組織內的個別使用者提供線上存�
 - [增益集主控： Partner hosted 和 SharePoint 主控](/sharepoint/dev/sp-add-ins/choose-patterns-for-developing-and-hosting-your-sharepoint-add-in)
 - [應用程式發佈：應用程式目錄](/sharepoint/use-app-catalog)
 - [應用程式發佈： AppSource](https://appsource.microsoft.com/marketplace/apps?page=1&src=office&product=office%3Bsharepoint)
-- [Business Connectivity Services (BCS) ](/sharepoint/manage-business-connectivity-service-applications)。 需要 SharePoint 方案2、Office 365 Enterprise E3 或 Office 365 企業版 E5
+- [Business Connectivity 服務 (BCS) ](/sharepoint/manage-business-connectivity-service-applications)。 需要 SharePoint 方案2、Office 365 企業版 E3 或 Office 365 企業版 E5
 - [Managed 程式碼的用戶端物件模型](/sharepoint/dev/general-development/choose-the-right-api-set-in-sharepoint#client-object-models-for-managed-code)
 - [開發人員網站](/sharepoint/dev/sp-add-ins/create-a-developer-site-on-an-existing-office-365-subscription)
-- [InfoPath 表單服務](/office/client-developer/infopath/infopath-home)。 需要 SharePoint 方案2、Office 365 Enterprise E3 或 Office 365 企業版 E5
+- [InfoPath Forms Services](/office/client-developer/infopath/infopath-home)。 需要 SharePoint 方案2、Office 365 企業版 E3 或 Office 365 企業版 E5
 - [OAuth](/sharepoint/dev/sp-add-ins/creating-sharepoint-add-ins-that-use-low-trust-authorization)。 在您的國家/地區中，某些提供者可能被封鎖。
 - [REST 服務和 OData 查詢](/sharepoint/dev/sp-add-ins/get-to-know-the-sharepoint-rest-service)
 - [) 傳統網站的 SharePoint 設計工具 2013 (](https://support.office.com/article/66bf58fe-daeb-4fa6-ae84-fd600e0005c1)。 無法供 firstline 工作者使用。
-- [SPFx (SharePoint 架構) ](/sharepoint/dev/spfx/sharepoint-framework-overview)
+- [SharePoint 架構 (SPFx) ](/sharepoint/dev/spfx/sharepoint-framework-overview)
 - [網站設計和網站腳本](/sharepoint/dev/declarative-customization/site-design-overview)
 - [網站主題](/sharepoint/dev/declarative-customization/site-theming/sharepoint-site-theming-overview)
 
-如需自訂選項的概述，請參閱 [自訂 SharePoint](/sharepoint/extend-and-develop)。
+如需自訂選項的概述，請參閱[自訂 SharePoint](/sharepoint/extend-and-develop)。
 
-若要深入瞭解 Microsoft Power Apps 和 Power availability 的可用性，請參閱 [Power app 及 power availability FAQs 的授權](/power-platform/admin/powerapps-flow-licensing-faq)。
+若要深入瞭解 Microsoft Power Apps 和 Power Automate 的可用性，請參閱[Power Apps 和 Power Automate 授權 FAQs](/power-platform/admin/powerapps-flow-licensing-faq)。
 
-若要深入瞭解 Microsoft Graph 的可用性，請參閱 [microsoft 365 和 Office 365 平臺服務說明](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)。
+若要深入瞭解 Microsoft Graph 的可用性，請參閱[Microsoft 365 和 Office 365 platform service description](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)。
 
 
 ## <a name="it-admin-features"></a>IT 系統管理功能
@@ -104,17 +104,17 @@ Microsoft 365 中的 OneDrive 是為組織內的個別使用者提供線上存�
 - [程式設計網站布建](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [根網站取代](/sharepoint/modern-root-site)
 - [還原已刪除的網站](/sharepoint/restore-deleted-site-collection)
-- [SharePoint 系統管理中心](/sharepoint/get-started-new-admin-center)。 具有 Firstline 工作者的組織至少需要一個企業使用者，才能存取系統管理中心。
+- [SharePoint 系統管理中心](/sharepoint/get-started-new-admin-center)。 具有 Firstline 工作者的組織必須至少有一個 Enterprise 使用者存取系統管理中心。
 - [SharePoint 現代化掃描器](/sharepoint/dev/transform/modernize-scanner)
-- [SharePoint 線上管理命令](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true)介面。 具有 Firstline 工作者的組織至少需要一個企業使用者，才能存取系統管理中心。
+- [SharePoint 線上管理命令](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true)介面。 具有 Firstline 工作者的組織必須至少有一個 Enterprise 使用者存取系統管理中心。
 - [網站管理](/sharepoint/governance-overview) 
 - [字詞存放區-受管理的中繼資料](/sharepoint/managed-metadata)
 
 如需 FastTrack 遷移服務可用性的相關資訊，請參閱 [合格的服務與計畫](/fasttrack/m365-eligible-services-and-plans)。 
 
-如需與共享相關之功能的相關資訊，請參閱 [OneDrive 服務描述](../onedrive-for-business-service-description.md)。
+如需與共享相關之功能的相關資訊，請參閱[OneDrive 服務描述](../onedrive-for-business-service-description.md)。
 
-如需 SharePoint 的系統管理員説明，請參閱 [SharePoint Online admin](/sharepoint/sharepoint-online)。
+如需 SharePoint 的系統管理員説明，請參閱[SharePoint Online admin](/sharepoint/sharepoint-online)。
 
 ## <a name="security-and-compliance-features"></a>安全性和符合性功能
 
@@ -125,13 +125,13 @@ Microsoft 365 中的 OneDrive 是為組織內的個別使用者提供線上存�
 - [傳輸和靜止的加密](/office365/securitycompliance/data-encryption-in-odb-and-spo)
 - [空閒會話登出](/sharepoint/sign-out-inactive-users)
 - [資訊管理原則](https://support.office.com/article/EB501FE9-2EF6-4150-945A-65A6451EE9E9)
-- [資訊版權管理 (IRM) ](/office365/securitycompliance/set-up-irm-in-sp-admin-center)。 需要獨立或套件一部分的 Azure 資訊保護。 部分 Azure 資訊保護功能需要訂閱 Microsoft 365 應用程式的 enterprise。
+- [資訊版權管理 (IRM) ](/office365/securitycompliance/set-up-irm-in-sp-admin-center)。 需要獨立或套件一部分的 Azure 資訊保護。 有些 Azure 資訊保護功能需要訂閱 Microsoft 365 Apps 企業版。
 - [將文件庫還原至上一個時間點](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [病毒掃描](/office365/securitycompliance/virus-detection-in-spo)
 
-如需與共享相關之功能的相關資訊，請參閱 [OneDrive 服務描述](../onedrive-for-business-service-description.md)。
+如需與共享相關之功能的相關資訊，請參閱[OneDrive 服務描述](../onedrive-for-business-service-description.md)。
 
-SharePoint 會與 Microsoft 365 的高級安全性和相容性功能整合。 如需有關下列功能可用性的資訊，請參閱 [安全性 & 規範服務說明](../office-365-platform-service-description/office-365-securitycompliance-center.md)：
+SharePoint 會與 Microsoft 365 的高級安全性和符合性功能整合。 如需有關下列功能可用性的資訊，請參閱 [安全性 & 規範服務說明](../office-365-platform-service-description/office-365-securitycompliance-center.md)：
 
 - [客戶加密箱](/microsoft-365/compliance/customer-lockbox-requests)
 - [資料外洩防護 (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
@@ -190,7 +190,7 @@ SharePoint 會與 Microsoft 365 的高級安全性和相容性功能整合。 �
 
 若要深入瞭解 Microsoft Power Apps 和 Power Automate 的可用性，請參閱[Power Apps 和 Power Automate 授權 FAQs](/power-platform/admin/powerapps-flow-licensing-faq)。
 
-如需與共享相關之功能的相關資訊，請參閱[OneDrive 服務描述](../onedrive-for-business-service-description.md#sharing-and-collaboration-features)。
+如需與共享相關之功能的相關資訊，請參閱[OneDrive 服務描述](../onedrive-for-business-service-description.md)。
 
 ## <a name="search-features"></a>搜尋功能
 

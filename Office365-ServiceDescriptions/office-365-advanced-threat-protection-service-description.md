@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 是一種雲端式電子郵件篩選服務，可協助您的組織抵禦未知惡意程式碼和病毒，方法是提供強健的零日保護，並提供功能，以即時保護您的組織不受有害連結。
-ms.openlocfilehash: a4a83e8be24d0afd07f453a5e0fafd3c19aaa6ba
-ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
+ms.openlocfilehash: 5781f34419eb697cb97634c55fa486fd141d76dd
+ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53140815"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53204840"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>適用於 Office 365 的 Microsoft Defender 服務描述
 
-Microsoft Defender for Office 365 是一種雲端式電子郵件篩選服務，可協助您的組織抵禦未知惡意程式碼和病毒，方法是提供強健的零日保護，並提供功能，以即時保護您的組織不受有害連結。 Office 365 的 Defender 具備豐富的報告及 URL 追蹤功能，可讓系統管理員深入瞭解組織中發生的攻擊類型。
+Microsoft Defender for Office 365 是一種雲端式電子郵件篩選服務，可協助您的組織抵禦電子郵件和共同作業工具的高級威脅，例如網路釣魚、商務電子郵件洩漏和惡意程式碼攻擊。 Office 365 的 Defender 也提供調查、搜尋和修正功能，以協助安全性小組有效識別、優先考慮威脅，以及回應威脅。
 
 以下是您可以使用 Defender 進行郵件保護 Office 365 的主要方式：
 
@@ -31,185 +31,56 @@ Microsoft Defender for Office 365 是一種雲端式電子郵件篩選服務，�
 
 - 在混合式部署中，當您混合使用內部部署和雲端信箱與輸入電子郵件篩選的 Exchange Online Protection 時，可將 Office 365 的 Defender 設定為保護您的郵件環境和控制郵件路由。
 
-## <a name="microsoft-defender-for-office-365-availability"></a>用於 Office 365 可用性的 Microsoft Defender
-
-Office 365 方案2的 Microsoft Defender 包括 Office 365 E5、Office 365 A5、Microsoft 365 E5 安全性及 Microsoft 365 E5，如下所指定： [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](/microsoft-365/security/office-365-security/office-365-atp) 。 Microsoft 365 商務進階版中包含 Office 365 方案1的 Defender。
-
-您可以將 Office 365 的 Defender 新增至下列 Exchange 和 Microsoft 365 訂閱計畫：
-
-- Exchange Online Plan 1
-
-- Exchange Online Plan 2
-
-- Exchange Online Kiosk
-
-- Exchange Online Protection
-
-- Microsoft 365 商務基本版
-
-- Microsoft 365 商務標準版
-
-- Office 365 企業版 E1
-
-- Office 365 Enterprise E3
-
-- Office 365 企業版 F3
-
-- Office 365 A1
-
-- Office 365 A3
-
-若要為 Office 365 購買 microsoft defender，請參閱[microsoft defender for Office 365](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)。
+## <a name="available-plans"></a>可用規劃
 
 如需可讓使用者使用 Microsoft Defender Office 365 的訂閱詳細的計畫資訊，請參閱[完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
-## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Microsoft Defender Office 365 的新功能
+## <a name="feature-availability"></a>功能可用性
 
-我們會繼續為 Office 365 的 Defender 新增新功能。 若要深入瞭解 Office 365 (或 Microsoft 365 一般) 中的新功能，請參閱下列資源：
+下表列出適用于各種方案 Office 365 功能的主要 Microsoft Defender。 適用某些注意事項。 如需詳細資訊，請參閱註腳。 此表格可能會變更，恕不另行通知。 如需跨方案 Office 365 功能的最新完整清單，請參閱[microsoft defender for Office 365 features service description](microsoft-defender-for-office-365-features.md)。
 
-- [Microsoft 365 藍圖](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
-
-- [Microsoft Defender 的新增功能 Office 365-Office 365 |Microsoft 檔](/microsoft-365/security/office-365-security/whats-new-in-defender-for-office-365)
-
-## <a name="requirements-for-microsoft-defender-for-office-365"></a>Microsoft Defender Office 365 的需求
-
-Office 365 的 Defender 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Exchange Server。 如需 Office 365 的的作業系統、網頁瀏覽器及語言的相關資訊，請參閱[Exchange Online Protection 中 Exchange 系統管理中心](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop)的「支援的瀏覽器」和「支援的語言」一節。
-
-## <a name="which-users-or-mailboxes-need-to-be-licensed"></a>哪些使用者或信箱需要獲得授權？
-
-針對 Office 365 Plan 1 承租人的 Microsoft Defender，您必須針對在下列一或多個案例中的使用者或信箱取得授權：
-
-- 存取可從 Defender 取得 Office 365 防護功能之信箱的任何使用者。
-- 從 Office 365 保護的 Defender 受益的共用信箱。
-- 如果開啟 SharePoint、商務用 OneDrive 或 Teams 的保管庫附件保護，所有使用者都可以存取 SharePoint、商務用 OneDrive 或 Teams。
-- 啟用保管庫連結保護時，任何使用 Microsoft 365 Apps 或 Teams 的使用者。
-
-針對 Office 365 Plan 2 承租人的 Microsoft Defender，您必須針對在下列一或多個案例中的使用者或信箱取得授權：
-
-- 承租人上的所有 Exchange Online 使用者。 這是因為計畫2的功能和功能可保護租使用者中的所有使用者。
-- 租使用者上的所有共用信箱。
-- 如果開啟 SharePoint、商務用 OneDrive 或 Teams 的保管庫附件保護，所有使用者都可以存取 SharePoint、商務用 OneDrive 或 Teams。
-- 啟用保管庫連結保護時，任何使用 Microsoft 365 Apps 或 Teams 的使用者。
+| 功能 | 適用於 Office 365 的 Defender 方案 1 | 適用於 Office 365 的 Defender 方案 2 | Microsoft 365 E5/A5 安全性 |
+|---------|--------------------------------|--------------------------------|--------------------------------|
+| *設定、保護及偵測* | | | |
+| 預設的安全性原則和設定分析器 | 是 | 是 | 是 |
+| [安全附件](microsoft-defender-for-office-365-features.md#safe-attachments) | 是 | 是 | 是 |
+| 保管庫Teams 中的附件 | 是 | 是 | 是 |
+| [安全連結](microsoft-defender-for-office-365-features.md#safe-links) | 是 | 是 | 是 |
+| [安全文件](microsoft-defender-for-office-365-features.md#safe-documents) | 否 | 否 | 是 |
+| Teams 中的安全連結 | 是 | 是 | 是 |
+| 報告郵件 Add-In | 是 | 是 | 是 |
+| [保護 SharePoint、OneDrive 及 Microsoft Teams](microsoft-defender-for-office-365-features.md#protection-for-sharepoint-onedrive-and-microsoft-teams) | 是 | 是 | 是 |
+| [防網路釣魚原則](microsoft-defender-for-office-365-features.md#anti-phishing-policies) | 是 | 是 | 是 |
+| [即時報告](microsoft-defender-for-office-365-features.md#real-time-reports) | 是 | 是 | 是 |
+| 內部郵件的高級保護 | 是 | 是 | 是 |
+| *自動化、調查、修正及教育* | | | |
+| [威脅追蹤工具](microsoft-defender-for-office-365-features.md#threat-trackers) | 否 | 是 | 是 |
+| 行銷活動檢視 | 否 | 是 | 是 |
+| 威脅調查 (高級威脅調查)  | [即時偵測](microsoft-defender-for-office-365-features.md#real-time-detections) | [總管](microsoft-defender-for-office-365-features.md#threat-explorer) | [總管](microsoft-defender-for-office-365-features.md#threat-explorer) |
+| [自動調查 & 回應](microsoft-defender-for-office-365-features.md#automated-investigation--response) | 否 | 是 | 是 |
+| [攻擊模擬訓練](microsoft-defender-for-office-365-features.md#attack-simulation-training) | 否 | 是 | 是 |
+| *與 [Microsoft 365 Defender](/microsoft-365/security/defender/microsoft-365-defender)整合* | 否 | 是 | 是 |
 
 > [!NOTE]
-> Office 365 E5、Microsoft 365 E5 安全性及 Microsoft 365 E5 包含適用于 Office P2 授權的 microsoft defender，而且 Microsoft 365 商務進階版包含用於 Office 365 P1 授權的 microsoft defender。
+> Office 365 的 Microsoft Defender 是 Microsoft 365 Defender 的元件。 如需 Microsoft 365 Defender 的自動化跨網域安全性的詳細資訊，請參閱[Microsoft 365 Defender 需求](/microsoft-365/security/mtp/prerequisites)。
 
-## <a name="feature-availability-across-defender-for-office-365-plans"></a>每個 Office 365 計畫的 Defender 各項功能可用性
+## <a name="learn-more"></a>深入了解
 
-每項功能如下所列。提到 Exchange Online 時，通常是指 Office 365 企業版服務系列。<br><br>
+如需適用于 Office 365 的 Microsoft Defender 的詳細資訊，請參閱下列資源：
 
-| 功能 | 適用於 Office 365 的 Defender 方案 1 | 適用於 Office 365 的 Defender 方案 2 | Microsoft 365 E5/A5 安全性|
-|:-----|:-----|:-----|:-----|
-|*設定、保護及偵測*|
-|[安全附件](#safe-attachments)|是|是|是|
-|保管庫Teams 中的附件|是|是|是|
-|[安全連結](#safe-links)|是|是|是|
-|[安全文件](#safe-documents)|否|否|是|
-|Teams 中的安全連結|是|是|是|
-|[適用於 SharePoint、OneDrive 及 Microsoft Teams 的 ATP](#atp-for-sharepoint-onedrive-and-microsoft-teams)|是|是|是|
-|[防網路釣魚原則](#anti-phishing-policies)|是|是|是|
-|[即時報告](#real-time-reports)|是|是|是|
-|*自動化、調查、修正及教育*|
-|[威脅追蹤工具](#threat-trackers)|否|是|是|
-|威脅調查 (高級威脅調查) |[即時偵測](#real-time-detections)|[總管](#explorer)|[總管](#explorer)|
-|[自動化的事件回應](#automated-incident-response)|否|是|是|
-|[攻擊模擬訓練](#attack-simulation-training)|否|是|是|
-|*與 [Microsoft 365 Defender](/microsoft-365/security/mtp/microsoft-threat-protection)整合*|否|是|是|
+- [microsoft 檔上的 microsoft Defender for Office 365](/microsoft-365/security/office-365-security/defender-for-office-365)
+- [Microsoft Office 365 網站的 Defender](https://www.microsoft.com/security/business/threat-protection/office-365-defender)
+- [用於 Office 365 博客的 Microsoft Defender](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bg-p/MicrosoftDefenderforOffice365Blog)
+- [Office 365 論壇的 Microsoft Defender](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bd-p/MicrosoftDefenderforOffice365)
 
-> [!NOTE]
-> 若租使用者只有 Microsoft Defender for Office Plan P2 試用版授權或 Office 365 E5 試用版授權，但沒有 Microsoft 365 Defender 的其他合格授權，您將無法存取 Microsoft 365 Defender。 若要深入瞭解 MTP 授權，請參閱[Microsoft 365 Defender 需求](/microsoft-365/security/mtp/prerequisites)。
+### <a name="licensing-terms"></a>授權條款
 
-## <a name="defender-for-office-365-capabilities"></a>Office 365 功能的 Defender
+如需透過 Microsoft 商業大量授權方案購買之產品和服務的授權條款及條件，請參閱 [產品條款網站](https://www.microsoft.com/licensing/terms/)。
 
-### <a name="safe-attachments"></a>安全附件
+### <a name="messaging"></a>訊息
 
-[保管庫附件](/microsoft-365/security/office-365-security/atp-safe-attachments)可保護未知的惡意程式碼和病毒，並提供零的保護來保護郵件系統。 所有沒有已知病毒/惡意程式碼簽章的郵件和附件，都是路由傳送至特殊的環境，其中 Office 365 的 Defender 會使用各種機器學習和分析技術來偵測惡意目的。 如果未偵測到可疑活動，即會釋出訊息傳遞到信箱。
+若要瞭解即將進行的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪郵件中心。 如需詳細資訊，請參閱 [Message center](/microsoft-365/admin/manage/message-center)。
 
-> [!NOTE]
-> 保管庫附件掃描會在您的 Office 365 資料所在的相同區域中進行。 如需資料中心地理位置的詳細資訊，請參閱[您的資料位於何處？](https://products.office.com/where-is-your-data-located?geo=All)
+### <a name="accessibility"></a>協助工具
 
-### <a name="safe-links"></a>安全連結
-
-[保管庫連結](/microsoft-365/security/office-365-security/atp-safe-links)功能會主動保護您的使用者免受郵件中或 Office 檔中的惡意 URLs。 因為可動態封鎖惡意連結，允許存取無害連結，所以每次使用者選取連結時都能受到持續保護。
-
-下列應用程式的 URL 可使用安全連結：
-
-- Windows 或 Mac 上的 Microsoft 365 Apps 企業版
-
-- Office 網頁版 (Word 網頁版、Excel 網頁版、PowerPoint 網頁版和 OneNote 網頁版)
-
-- Windows 上的 Word、Excel 及 PowerPoint
-
-- Microsoft Teams 頻道與聊天
-
-> [!NOTE]
-> 使用者必須已取得 Office 365 的 Defender 授權 <sup>\*</sup> ，必須包含在保管庫連結原則中，而且必須登入其裝置上，才可進行保護。
->
-> <sup>\*</sup>針對 Office 365 授權的整個組織的 Defender (例如，ATP_ENTERPRISE_FACULTY) ，您不需要為個別使用者指派 Office 365 授權的 Defender。
->
-> 如需保管庫連結保護的詳細資訊，請參閱[保管庫 Microsoft Defender for Office 365 中的連結](/microsoft-365/security/office-365-security/atp-safe-links)。
-
-### <a name="safe-documents"></a>安全文件
-
-[保管庫檔](/microsoft-365/security/office-365-security/safe-docs)功能使用[Microsoft Defender for 端點](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)掃描在[受保護的檢視](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)中開啟的檔和檔案。
-
-開始之前有哪些須知？
-
-- 保管庫檔現在一般可供使用者使用 Office 版本 2004 (12730) 或以上！ 此功能預設為關閉，必須由安全性管理員啟用。
-
-- 此功能僅適用于具有 Microsoft 365 E5 或 Microsoft 365 E5 安全性授權 (的使用者，但不會包含在 Office 365 方案) 的 Defender 中。
-
-- Windows 上的 Word、Excel 及 PowerPoint
-
-- Microsoft Teams 頻道與聊天
-
-> [!NOTE]
-> 使用者必須要有 Microsoft 365 E5 或 Microsoft 365 E5 安全性的授權 <sup>\*</sup> ，必須包含在保管庫檔原則中，且必須登入其裝置，才可進行保護。
->
-> 如需保管庫檔案保護的詳細資訊，請參閱[Microsoft 365 E5 中的保管庫檔](/microsoft-365/security/office-365-security/safe-docs)。
-
-### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>適用於 SharePoint、OneDrive 及 Microsoft Teams 的 ATP
-
-[SharePoint、OneDrive 及 Microsoft Teams 的 ATP，](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)可協助偵測和封鎖在小組網站和文件庫中識別為惡意的檔案。 此外，保管庫的連結保護現在也可用於 Microsoft Teams 通道和聊天。
-
-### <a name="anti-phishing-policies"></a>防網路釣魚原則
-
-[反網路釣魚](/microsoft-365/security/office-365-security/atp-anti-phishing) 檢查內送郵件中是否有郵件可能是網路釣魚企圖。 當使用者在 Office 365 原則中涵蓋時 (保管庫附件、保管庫連結或反網路釣魚) 時，會透過分析郵件的多部機器教學模型評估內送郵件，並根據設定的原則採取適當的動作。
-
-### <a name="real-time-reports"></a>即時報告
-
-「安全性 & 合規性中心」 () 中提供的監控功能 [https://protection.office.com](https://protection.office.com) 包括 [即時報告和洞察力](/microsoft-365/security/office-365-security/view-reports-for-atp) ，可讓您的安全性和合規性問題著重于高優先順序問題，例如安全性攻擊或增加的可疑活動。 除了醒目提示問題之外，智慧報告和洞察力也包含建議和連結，以查看及流覽資料，也會快速採取動作。
-
-### <a name="explorer"></a>總管
-
-總管 (也稱為威脅總管) 是即時的報告，可讓授權的使用者識別並分析最近的威脅。 根據預設，此報告會顯示過去7天的資料;不過，您可以修改視圖，以顯示過去30天的資料。
-
-Explorer 包含一些視圖，例如電子郵件和內容) 、提交、網路釣魚和所有電子郵件的惡意程式碼 (。 若要查看 Explorer 如何與即時偵測相比較，請 [下載此 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
-
-如需 microsoft defender for a Office 365 plan 2) 和即時偵測 (的 microsoft defender 中的 Explorer (的詳細資訊，請參閱 Office 365 plan 1) 的[威脅瀏覽器和即時](/microsoft-365/security/office-365-security/threat-explorer)偵測。
-
-### <a name="real-time-detections"></a>即時偵測
-
-即時偵測是即時的報告，可讓授權的使用者識別並分析最近的威脅。 類似 Explorer，依預設，此報告會顯示過去7天的資料。
-
-即時偵測包含諸如電子郵件和內容) 、報送和網路釣魚的惡意程式碼 (的視圖。 若要查看即時檢測與瀏覽器的比較方式，請 [下載此 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
-
-如需 microsoft defender for a Office 365 plan 2) 和即時偵測 (的 microsoft defender 中的 Explorer (的詳細資訊，Office 365 plan 1) ，請參閱[威脅 Explorer (和即時偵測) ](/microsoft-365/security/office-365-security/threat-explorer)。
-
-### <a name="threat-trackers"></a>威脅追蹤工具
-
-[威脅](/microsoft-365/security/office-365-security/threat-trackers) 追蹤器是資訊性的小元件和視圖，可讓授權的使用者在可能影響組織的 cybersecurity 問題上使用情報。
-
-### <a name="automated-incident-response"></a>自動化的事件回應
-
-[自動化的事件回應](/microsoft-365/security/office-365-security/office-365-air) (適用于 Office 365 方案2的 AIR) 功能，可讓您執行自動調查處理程式，以回應目前存在的已知威脅。 透過自動化某些調查任務，您的安全性運作小組可以更有效率地運作。 修正動作（如刪除惡意電子郵件訊息）是由您的安全性運作小組核准。 若要深入瞭解，請參閱[Office 365 中的 AIR 的運作方式](/microsoft-365/security/office-365-security/automated-investigation-response-office)。
-
-### <a name="attack-simulation-training"></a>攻擊模擬訓練
-
-[攻擊模擬訓練](/microsoft-365/security/office-365-security/attack-simulation-training-get-started) 是一種可自動建立及管理網路釣魚模擬的智慧社交風險管理工具。 模擬會使用實際的世界釣魚網絡 lures 和超目標訓練來協助客戶偵測、設定優先順序和修正網路釣魚風險，以變更員工的行為。
-
-- 現在，WW 已提供攻擊模擬訓練，GCC (將會從6月21日) GCC。
-- 如需如何開始的詳細資訊，請參閱 [使用攻擊模擬訓練](/microsoft-365/security/office-365-security/attack-simulation-training-get-started)。
-- 可以使用各種套用取消 weaponized、真實世界網路釣魚負載的攻擊技術，以複製真實世界的攻擊者行為，以進行網路釣魚模擬。
-- 這項服務可供有 Microsoft 365 E5、Office 365 E5 或[Microsoft Defender Office 365 方案2授權的](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2)組織使用。 將功能的子集提供給 E3 客戶以進行試用。
-- 若要深入瞭解和嘗試類比，請參閱 [模擬網路釣魚攻擊](/microsoft-365/security/office-365-security/attack-simulation-training)。
+Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](https://www.microsoft.com/trust-center/compliance/accessibility) 。 如需詳細資訊，請參閱[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 協助工具中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
