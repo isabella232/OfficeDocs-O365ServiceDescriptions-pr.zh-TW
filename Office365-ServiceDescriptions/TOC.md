@@ -65,6 +65,7 @@
 ### [用戶端功能](exchange-online-archiving-service-description/client-features.md)
 ### [遵循與安全性功能](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [適用於 Office 365 的 Microsoft Defender 服務描述](office-365-advanced-threat-protection-service-description.md)
+### [適用於 Office 365 的 Microsoft Defender 功能服務描述](microsoft-defender-for-office-365-features.md)
 ## [Azure Active Directory 服務描述](azure-active-directory.md)
 ## [Microsoft Teams 服務描述](teams-service-description.md)
 ### [Microsoft 365 商務語音服務描述](microsoft-365-business-voice-service-description.md)
