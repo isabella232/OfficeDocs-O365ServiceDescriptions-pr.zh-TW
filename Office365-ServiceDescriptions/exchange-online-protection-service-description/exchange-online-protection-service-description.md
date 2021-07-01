@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 取得 Exchange Online Protection 的功能和需求的相關資訊。 包含提供 Exchange Online Protection 的方案清單，以及這些方案中的功能比較。
-ms.openlocfilehash: 172e07db12590e51720c2446974418244f3234e4
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: fbfbe39931e6037b358bb76c124937904a408783
+ms.sourcegitcommit: 427dbb27426a12e8c5dba7d8b4cbaf2bedb3aaba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653035"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53222480"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服務說明
 
 取得 Exchange Online Protection 的功能和需求的相關資訊。 包含提供 Exchange Online Protection 的方案清單，以及這些方案中的功能比較。
 
-Microsoft Exchange Online Protection (EOP) 是雲端式的電子郵件篩選服務，它能協助組織抵禦垃圾郵件和惡意軟體，同時也包括預防組織發生訊息原則違規的功能。EOP 能簡化訊息環境的管理，減輕維護內部部署硬體和軟體所衍生的繁重負擔。
+Microsoft Exchange OnlineProtection (EOP) 是雲端式的電子郵件篩選服務，可協助組織抵禦垃圾郵件和惡意程式碼，並包含保護您的組織不受郵件原則侵犯的功能。 EOP 能簡化訊息環境的管理，減輕維護內部部署硬體和軟體所衍生的繁重負擔。
 
 下列清單說明您可以使用 EOP 進行郵件保護的主要方式：
 
@@ -35,32 +35,15 @@ Microsoft Exchange Online Protection (EOP) 是雲端式的電子郵件篩選服�
 
 ## <a name="available-plans"></a>可用規劃
 
-如需可讓使用者 Exchange Online Protection 之訂閱的詳細計畫資訊，請參閱[完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
+下表顯示包含 Exchange Online Protection 的計畫，以便您可以選擇最符合組織需求的解決方案。 如需詳細的計畫資訊，請參閱[Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)。
 
-若要購買 Exchange Online Protection，請參閱 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)。
-
-> [!NOTE]
-> EOP 已取代 Forefront Online Protection for Exchange (FOPE) 。 所有 FOPE 客戶都已轉換成 EOP。
-
-## <a name="whats-new-in-exchange-online-protection-eop"></a>Exchange Online Protection (EOP) 的新功能
-
-[Microsoft 365 藍圖](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx)是找出即將推出之新功能之相關資訊的好資源。
-
-## <a name="exchange-online-protection-eop-plans"></a>Exchange Online Protection (EOP) 計劃
-
-EOP 可透過下列訂閱計劃取得：<br><br>
-
-| 規劃 | 描述 |
-|:-----|:-----|
-|[獨立式 EOP](https://products.office.com/exchange/exchange-email-security-spam-protection)|保護您的內部部署電子郵件組織的個別雲端式服務。|
-|[Exchange Online 中的 EOP 功能](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|Exchange Online 雲端主控信箱的內建保護。|
-|[Exchange Enterprise CAL with Services](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|您為內部部署 Exchange 組織購買的附加元件授權包括 EOP 及其他雲端式功能 (如需詳細資料) ，請參閱下一節。|
+如需可讓使用者 Exchange Online Protection 之訂閱的詳細計畫資訊，請參閱[完整訂閱比較表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
 
 ### <a name="exchange-enterprise-cal-with-services-features"></a>Exchange Enterprise CAL with Services 功能
 
 Microsoft Exchange Enterprise CAL with Services 提供 EOP 的電子郵件保護功能，以及下列其他雲端式功能：
 
-- [資料外洩防護 (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
+- [資料外洩防護](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
 
 - [使用 Web 服務報告](reporting-and-message-trace.md#reporting-using-web-services)
 
@@ -79,51 +62,89 @@ EOP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 如需 EOP 中的限制，請參閱[Exchange Online Protection 限制](exchange-online-protection-limits.md)。
 
-## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>各 Exchange Online Protection (EOP) 計劃中可用的功能
+## <a name="feature-availability"></a>功能可用性
 
-每項功能如下所列。如需 EOP 功能的詳細資訊，請按一下表格中的連結。提及 Exchange Online 時，通常是指 Office 365 企業版 服務系列。<br><br>
+下表列出各種方案中可用的主要 Exchange Online Protection 功能。 適用某些注意事項。 如需詳細資訊，請參閱註腳。 此表格可能會變更，恕不另行通知。 如需最新、完整的功能清單，請參閱 [強大的工具來支援您的企業](https://products.office.com/business/compare-more-office-365-for-business-plans)。
 
-| 功能 | 獨立式 EOP | Exchange Online 中的 EOP 功能 | Exchange Enterprise CAL with Services|
+| 功能 | 獨立 EOP | EOP in EE CAL （含服務） | Exchange Online 中的 EOP 功能 |
 |:-----|:-----|:-----|:-----|
-|[收件者](recipient-domain-and-company-management.md#mail-recipients)|是<sup>1</sup>|是<sup>1</sup>|是|
-|[系統管理角色群組權限](recipient-domain-and-company-management.md#admin-role-group-permissions)|是<sup>2</sup>|是|是|
-|[網域管理](recipient-domain-and-company-management.md#domain-management)|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|
-|[符合子網域](recipient-domain-and-company-management.md#match-subdomains)|是|是|否|
-|[目錄架構邊緣封鎖 (DBEB)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|是|是|是|
-|[郵件流程規則](../exchange-online-service-description/message-policy-and-compliance.md#mail-flow-rules)|是<sup>4</sup>|是<sup>4，6</sup>|是|
-|[稽核記錄](messaging-policy-and-compliance-servicedesc.md#audit-logging)|是<sup>5</sup>|是|是|
-|[資料外洩防護 (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|否|是|是<sup>6</sup>|
-|[Office 365 郵件加密](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|是<sup>12</sup>|是|是<sup>12</sup>|
-|[反垃圾郵件保護](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (內建)|是|是|是|
-|[自訂反垃圾郵件原則](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies)|是<sup>7</sup>|是|是|
-|[反惡意程式碼保護](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (內建)|是<sup>13</sup>|是|是|
-|[自訂反惡意程式碼原則](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|是|是|是|
-|[隔離](anti-spam-and-anti-malware-protection-eop.md#quarantine)：系統管理員管理|是|是|是|
-|[隔離](anti-spam-and-anti-malware-protection-eop.md#quarantine)：使用者自我管理|是|是|是|
-|[提交](anti-spam-and-anti-malware-protection-eop.md#report-messages-to-microsoft-for-analysis)|否|是|否|
-|[報告 Outlook 的郵件增益集](/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|是|是|是|
-|[網頁 Outlook 中的垃圾郵件報告](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|是|是|是|
-|[在 Microsoft 和您自己的電子郵件伺服器之間路由傳送電子郵件](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|是|是|是|
-|[與信任的合作夥伴間的安全傳訊](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|是|是|是|
-|[安全列出夥伴的 IP 位址](mail-flow-eop.md#safe-listing-a-partners-ip-address)|是|是|是|
-|[條件式郵件路由](mail-flow-eop.md#conditional-mail-routing)|是|是|是|
-|[混合郵件路由](mail-flow-eop.md#hybrid-mail-routing)|是|是|是|
-|[Microsoft 365 系統管理中心報告](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |是<sup>9</sup>|是<sup>10</sup>|是 <sup>9, 10</sup>|
-|[使用 Web 服務報告](reporting-and-message-trace.md#reporting-using-web-services)|否|是|是|
-|[郵件追蹤](reporting-and-message-trace.md#message-trace)|是<sup>15</sup>|是<sup>15</sup>|是|
-|[存取 Microsoft 365 系統管理中心](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)|是|是|是|
-|[存取 Exchange 系統管理中心](administration-and-management-eop.md#access-to-the-exchange-admin-center (EAC))|是|是|是|
-|[Remote Windows PowerShell access](administration-and-management-eop.md#remote-windows-powershell-access)|是|是|是|
+|**Protection**||||
+|) 內建及自訂的反惡意程式碼原則 (|是|是|是|
+|內建和自訂) 的輸入反垃圾郵件原則 (|是|是|是|
+|輸出反垃圾郵件原則 (內建和自訂) |是|是|是|
+|連線篩選 (IP 允許清單和 IP 封鎖清單) |是|是|是|
+|防網路釣魚原則 (內建和自訂) |是|是|是|
+|反欺騙保護 (內建和自訂) |是|是|是|
+|以零小時自動清除 (ZAP) ，以供傳遞的惡意程式碼、垃圾郵件和網路釣魚郵件<sup>10</sup>|否|否|是|
+|預設安全性原則|是|是|是|
+|保護原則的設定分析器|是|是|是|
+|承租人允許/封鎖清單|是|是|是|
+|郵件寄件者的封鎖清單|是|是|是|
+|允許郵件寄件者的清單|是|是|是|
+|Edge 封鎖|是|是|是|
+|不存在之收件者的目錄基礎 Edge 封鎖 (DBEB) |是|是|是|
+|**隔離和提交**||||
+|系統管理員提交<sup>10</sup>|否|否|是|
+|使用者提交 (自訂信箱) <sup>10</sup>|否|否|是|
+|系統管理員隔離|是|是|是|
+|使用者隔離|是|是|是|
+|報告郵件增益集及報告 Outlook 的網路釣魚增益集|是|是|是|
+|**郵件流程**||||
+|郵件流程規則 (傳輸規則) <sup>4</sup>|是|是<sup>6</sup>|是|
+|公認的網域<sup>3</sup> |是|是|是|
+|連接器|是|是|是|
+|針對連接器的增強篩選 (略過清單) |是|是|是|
+|**監視**||||
+|郵件追蹤|是|是|是|
+|Microsoft 365 系統管理中心中的電子郵件和安全性報告|是<sup>7</sup>|是<sup>7,8</sup>|是<sup>8</sup>|
+|Microsoft 365 安全性中心的安全性報告|是<sup>7</sup>|是<sup>7,8</sup>|是<sup>8</sup>|
+|EAC 中的電子郵件報告|是<sup>7</sup>|是<sup>7,8</sup>|是<sup>8</sup>|
+|管理員審核記錄<sup>5</sup>|是|是|是|
+|**Users**||||
+|郵件使用者和郵件連絡人<sup>1</sup>|是|是|是|
+|信箱|否|否|是<sup>1a</sup>|
+|以角色為基礎的存取控制 (RBAC) <sup>2</sup>|是|是|是|
+|**合規性**||||
+|電子郵件的資料遺失防護|否|是|是|
+|Office 365 郵件加密|無<sup>9</sup>|無<sup>9</sup>|是|
+|**系統管理**||||
+|Microsoft 365 系統管理中心|是|是|是|
+|Exchange 系統管理中心|是|是|是|
+|Microsoft 365 安全性中心|是|是|是|
+|獨立 Exchange Online Protection PowerShell|是|否|否|
+|Exchange Online PowerShell|否|是|是|
 
-<sup>1</sup> 郵件使用者會定義為「信箱」，而且可以連同外部郵件連絡人直接在 Exchange 系統管理中心 (EAC) 中新增、移除或管理。 <br/>
-<sup>2</sup> 沒有 RBAC 自訂。 僅限系統管理員角色。 <br/>
-<sup>3</sup> 在 EAC 中，可檢視受管理網域和編輯網域類型。 所有其他網域管理都必須在 Microsoft 365 系統管理中心完成。<br/>
-<sup>4</sup>郵件流程規則 (也稱為「傳輸規則」) 在 EOP 中的[郵件流程規則中所述 (傳輸規則) 于 Exchange Online Protection 中](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)。 EOP 和 Exchange Online 之間可用的郵件流程規則條件、例外狀況和動作稍有不同。 這些差異會記入[郵件流程規則條件和例外狀況 () 中 Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)和[郵件流程規則動作中 Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)。<br/>
-<sup>5</sup> EOP 稽核報告是 Exchange Online 稽核報告的子集，但不包括信箱的相關資訊。 <br/>
-<sup>6</sup> DLP 原則祕訣不適用於 Exchange Enterprise CAL with Services 客戶。  <br/>
-<sup>7</sup> 預設的內容篩選動作，就是將垃圾郵件移至收件者的 [垃圾郵件] 資料夾。 若要使用內部部署 Exchange 信箱，您也需要在內部部署 Exchange 組織中設定兩個傳輸規則，以偵測 EOP 新增的垃圾郵件頭。 如需詳細資訊，請參閱 [Configure 獨立 EOP 以將垃圾郵件傳遞至混合式環境中的 [垃圾郵件] 資料夾](/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)。 <br/>
-<sup>9</sup> EOP 報告是 Exchange Online 報告的子集，但不包括信箱的相關資訊。<br/>
-<sup>10</sup> 包括 DLP 報告。 <br/>
-<sup>12</sup>對於購買 Azure 資訊保護並使用 Exchange Online Protection 以透過 Exchange Online 路由傳送電子郵件的內部部署客戶提供支援。 <br/>
-<sup>13</sup> 掃描輸入及輸出郵件，但未掃描從組織中寄件者傳送給組織中收件者的內部郵件。 <br/>
-<sup>15</sup> 混合式安裝程式不能透過混合式精靈使用，但您可以手動設定 (如果您有 Exchange SP1)。
+<sup>1</sup> 您可以在 EAC 中建立、移除及編輯郵件使用者和郵件連絡人。 <br/>
+<sup>1a</sup>您可以在 Microsoft 365 系統管理中心中建立及移除信箱。 您可以在 EAC 中編輯現有的信箱。 <br/>
+<sup>2</sup>在獨立 EOP 和 EE CAL 搭配服務，沒有任何使用者角色或角色指派原則。<br/>
+<sup>3</sup>您新增及移除 Microsoft 365 系統管理中心中的網域。  在 EAC 中，您可以將網域設定為「授權」或「非授權」。<br/>
+<sup>4</sup>獨立 EOP 或使用服務 EE CAL 中的 EOP 無法使用一些規則條件、例外狀況和動作。 這些差異在 Exchange Online 郵件流程規則內容中已明確標明。 <br/>
+<sup>5</sup> In 獨立 EOP，並 EE CAL 與服務：
+
+- 信箱審核報告無法使用。
+- 系統管理員角色群組報告和系統管理員審核記錄報告為 EAC 中唯一的系統管理員審核報告。
+- 只能透過 PowerShell 使用審核記錄匯出。 <br/>
+
+<sup>6</sup> DLP 原則秘訣不適用於具有服務的 EE CAL。 <br/>
+<sup>7</sup>獨立 EOP 中的報告和 EE CAL 搭配服務是 Exchange Online 報告的子集， (與) 信箱相關的報告。<br/>
+<sup>8</sup> 包含 DLP 報告。 <br/>
+<sup>9</sup> 您可以購買 Azure 資訊保護做為附加元件訂閱，並在您設定內部部署電子郵件環境，以透過 EOP 將電子郵件路由傳送到網際網路，並使用 OME。 <br/>
+<sup>10</sup>此功能需要 Exchange Online 信箱。 <br/>
+
+## <a name="learn-more"></a>深入了解
+
+如需 Exchange Online Protection 的技術相關資訊，請參閱下列資源：
+
+[Microsoft 365 藍圖](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx)是找出即將推出之新功能之相關資訊的好資源。
+
+### <a name="licensing-terms"></a>授權條款
+
+如需透過 Microsoft 商業大量授權方案購買之產品和服務的授權條款及條件，請參閱 [產品條款網站](https://www.microsoft.com/licensing/terms/)。
+
+### <a name="messaging"></a>訊息
+
+若要追蹤即將到來的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪郵件中心。 如需詳細資訊，請參閱 [Message center](/microsoft-365/admin/manage/message-center)。
+
+### <a name="accessibility"></a>協助工具
+
+Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](https://www.microsoft.com/trust-center/compliance/accessibility) 。 如需詳細資訊，請參閱[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 協助工具中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
