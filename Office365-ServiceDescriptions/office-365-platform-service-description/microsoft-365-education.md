@@ -9,31 +9,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
-description: 深入瞭解 Microsoft 365 與 Office 365 教育版方案之間的差異。
-ms.openlocfilehash: 0fb0f1ccd686329010612b18107c6f5e5d2cb77c
-ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
+description: 深入瞭解 Microsoft 365 和 Office 365 教育版計畫之間的差異。
+ms.openlocfilehash: 89e5eedf56e0f2240c2e5de05f6e60e167b2b453
+ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53021976"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53290843"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
 Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如果您想要知道 Office 365 和 Microsoft 365 教育版方案有何差異，本文將說明各方案中包含的功能。
   
-Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterprise Mobility 及 Security。 下表列出 Office 365 教育版 A1、A3 和 A5 的功能，以及對應的 Microsoft 365 教育版 A3 和 A5 功能。 若要跨商務和企業方案比較功能，請參閱 [比較 Microsoft 365 for business 方案](https://go.microsoft.com/fwlink/?linkid=799177)，或如需更詳細的功能清單，請參閱 [Microsoft 365 和 Office 365 服務說明](../office-365-service-descriptions-technet-library.md)底下的相關服務說明。 若要搜尋支援文章和資訊，請參閱 [Office 協助 &amp; 訓練](https://support.office.com/)。
+Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterprise Mobility 及 Security。 下表列出 Office 365 教育版 A1、A3 和 A5 的功能，以及對應的 Microsoft 365 教育版 A3 和 A5 功能。 若要比較商務和企業方案中的功能，請參閱[compare Microsoft 365 for business 方案](https://go.microsoft.com/fwlink/?linkid=799177)，或如需更詳細的功能清單，請參閱[Microsoft 365 及 Office 365 服務說明](../office-365-service-descriptions-technet-library.md)的相關服務描述。 若要搜尋支援文章和資訊，請參閱[Office 協助 &amp; 訓練](https://support.office.com/)。
   
 ## <a name="services-and-features"></a>服務與功能
 
-每個 Microsoft 365 教育方案皆包含一些個別服務，例如 Exchange Online 和 SharePoint Online。 下表顯示每個 Office 365 和 Microsoft 365 方案所提供的服務，以便您選擇最符合需求的解決方案。 若要更詳細地複查服務和功能，請參閱 [Office 365 教育](office-365-education.md) 版服務說明。<br></br>
+每個 Microsoft 365 教育方案皆包含一些個別服務，例如 Exchange Online 和 SharePoint Online。 下表顯示每個 Office 365 和 Microsoft 365 方案所提供的服務，以便您選擇最符合需求的解決方案。 若要更詳細地複查服務和功能，請參閱[Office 365 教育版](office-365-education.md)服務描述。<br></br>
 
-| 服務 | Office 365 教育版 A1 | Office 365 Education A3 | Office 365 教育版 A5 | Microsoft 365 教育版 A3 | Microsoft 365 教育版 A5 | Office 365 A3 學生使用權益 | Office 365 A5 學員使用權益 | Microsoft 365 教育版學生使用權益 | Microsoft 365 教育版的學生使用權益 |
+| 服務 | Office 365 教育版 A1 | Office 365 Education A3 | Office 365 教育版 A5 | Microsoft 365 教育版 A3 | Microsoft 365 教育版 A5 | Office 365 A3 學生使用權益 | Office 365 A5 學生使用權益 | Microsoft 365 教育版A3 學生使用權益 | Microsoft 365 教育版A5 學生使用權益 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Office 365 平臺|是|是|是|是|是|是|是|是|是|
 |網頁版 Office|是|是|是|是|是|是|是|是|是|
 |Microsoft 365 Apps 企業版|否|是|是|是|是|是|是|是|是|
-|Exchange Online|是<sup>1</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>1</sup>|是<sup>1</sup>|是<sup>1</sup>|是<sup>1</sup>|
-|SharePoint Online|是<sup>3</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|
+|Exchange Online|是<sup>1</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>2</sup>|
+|SharePoint Online|是<sup>3</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|
 |商務用 OneDrive|是|是|是|是|是|是|是|是|是|
 |Microsoft Teams|是|是|是|是|是|是|是|是|是|
 |商務用 Skype Online|是|是|是|是|是|是|是|是|是|
@@ -66,7 +66,7 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 |Azure Active Directory Basic|是|是|是|是|是|是|是|是|是|
 |Azure Active Directory 方案 1|否|否|否|是|否|否|否|是|是|
 |Azure Active Directory 方案 2|否|否|否|否|是|否|否|否|是|
-|**合規性**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 學生使用權益**|**Office 365 A5 學員使用權益**|**Microsoft 365 教育版學生使用權益**|**Microsoft 365 教育版的學生使用權益**|
+|**合規性**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 學生使用權益**|**Office 365 A5 學生使用權益**|**Microsoft 365 教育版A3 學生使用權益**|**Microsoft 365 教育版A5 學生使用權益**|
 |Office 365 版權管理|是|是|是|是|是|是|是|是|是|
 |Azure 資訊保護方案1|否|否|否|是|否|否|否|否|否|
 |Azure 資訊保護方案 2|否|否|否|否|是|否|否|否|否|
@@ -76,7 +76,7 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 |進階 eDiscovery|否|否|是|否|是|否|否|否|否|
 |資料遺失防護 (的電子郵件和檔案的 DLP) |是|是|是|是|是|是|是|是|是|
 |Endpoint DLP|否|否|否|否|是|否|否|否|否|
-|通訊 DLP (小組聊天) |否|否|是|否|是|否|否|否|否|
+|通訊 DLP (Teams 聊天) |否|否|是|否|是|否|否|否|否|
 |通訊合規性|否|否|是|否|是|否|否|否|否|
 |客戶金鑰|否|否|是|否|是|否|否|否|否|
 |基本審核|是|是|是|是|是|是|是|是|是|

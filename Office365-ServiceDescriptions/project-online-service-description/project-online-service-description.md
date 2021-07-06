@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 為專案產品群組管理 (PPM) 及日常運作的彈性線上解決方案。 透過 Project Online Office 365 提供強大的專案管理功能，可用於規劃、排定專案與專案組合的投資，甚至幾乎任何裝置上幾乎都沒有任何的裝置。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: 1b8e8cf52636e9499281cf7944a84b420a2297a6
-ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
+ms.openlocfilehash: 0c2d1d68767a6b4dedd6b75fd77ca36ba38d6baf
+ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53140825"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53290853"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -108,6 +108,10 @@ Microsoft Project 可透過三種不同的訂閱取得，以符合組織的需�
 |Microsoft Teams 整合 | 在 Microsoft Teams 中為專案進行共同作業。<sup>1</sup> | 是 | 是 | 是 | 是 |
 |**資源和程式管理** ||||||
 |Project 小組設定 | 新增及移除成員，並設定工作行事曆，以管理專案小組。 | 否 | 是 | 是 | 是 |
+|建立資源要求<sup>12</sup> |  | 僅供檢視 | 僅供檢視 | 是 | 是 |
+|接受預約提案<sup>12</sup> |  | 僅供檢視 | 僅供檢視 | 是 | 是 |
+|建立和更新預定以滿足資源要求<sup>12</sup> |  | 僅供檢視 | 僅供檢視 | 僅供檢視 | 是 |
+|管理您資源上的技能/proficiencies |  | 僅供檢視 | 僅供檢視 | 是 | 是 |
 |藍圖 | 從 Microsoft Project Online、網頁 Microsoft Project，以及 Azure Boards 專案中，建立跨專案的視覺、互動的路標。<sup>2</sup>使用 Project 方案1您可以取得藍圖的唯讀許可權。 使用 Project 方案3或 Project 方案5，您也可以建立路標。 | 僅檢視 | 僅檢視 | 是 | 是 |
 |**報告**<sup>3</sup> ||||||
 |從 web 資料的 *Project* 讀取報表 | 查看現成或自訂的報表，以及可瞭解專案、計畫、產品群組和資源資料的儀表板。 | 是 | 是 | 是 | 是 |
@@ -195,12 +199,12 @@ Microsoft Project 可透過三種不同的訂閱取得，以符合組織的需�
 
 #### <a name="notes"></a>附註
 
-<sup>1</sup>需要 Office 或 Microsoft 365 商務訂閱。</br>
-<sup>2</sup> Azure Boards 個別購買。</br>
-<sup>3</sup> Project 使用 Power BI 的 web 和 Project Online 報告需要 Power BI 授權。</br>
-<sup>4</sup>建立並使用個別的 Power Apps，而不是現成 Project 應用程式（存取 web 或 Project Online 客戶資料的 Project）需要個別的 Power Apps 訂閱。</br>
-<sup>5</sup> 限制為5個自訂表格格。</br>
-<sup>6</sup> Project Online 外部使用者的授權遵循與內部使用者相同的原則。 Project Online 網站上的任何互動都需要 Project 方案3或 Project 方案5訂閱。</br>
+<sup>1</sup>需要 Office 或 Microsoft 365 商務訂閱。<br/>
+<sup>2</sup> Azure Boards 個別購買。<br/>
+<sup>3</sup> Project 使用 Power BI 的 web 和 Project Online 報告需要 Power BI 授權。<br/>
+<sup>4</sup>建立並使用個別的 Power Apps，而不是現成 Project 應用程式（存取 web 或 Project Online 客戶資料的 Project）需要個別的 Power Apps 訂閱。<br/>
+<sup>5</sup> 限制為5個自訂表格格。<br/>
+<sup>6</sup> Project Online 外部使用者的授權遵循與內部使用者相同的原則。 Project Online 網站上的任何互動都需要 Project 方案3或 Project 方案5訂閱。<br/>
 <sup>7</sup> Power Automate 在 Project 內使用限制于 Project 應用程式的內容。 這表示，針對觸發器和動作，包含的流程權利 Project 都可以：
 
 - 連線 Project 應用程式的使用許可權內的任何資料來源：
@@ -208,11 +212,12 @@ Microsoft Project 可透過三種不同的訂閱取得，以符合組織的需�
   - 透過 Microsoft Dataverse connector Project 資料
 - 透過內建觸發器/動作直接在 Project 應用程式 (中觸發) 
 
-如果流程是孤立的，且與 Project 應用程式沒有任何作用，將需要購買平臺授權。</br>
-<sup>8</sup>使用 Project 方案3或 Project 方案5訂閱的使用者可以提交資源預訂要求。 他們無法複查、履行或核准資源預訂要求。</br>
-<sup>9</sup>具有 Project 方案5訂閱的使用者可以查看、履行和核准資源預訂要求。</br>
-<sup>10</sup> Active Directory 需要個別的訂閱。 </br>
-<sup>11</sup> 只從電源 App 內授與僅限查看權利。 </br>
+如果流程是孤立的，且與 Project 應用程式沒有任何作用，將需要購買平臺授權。<br/>
+<sup>8</sup>使用 Project 方案3或 Project 方案5訂閱的使用者可以提交資源預訂要求。 他們無法複查、履行或核准資源預訂要求。<br/>
+<sup>9</sup>具有 Project 方案5訂閱的使用者可以查看、履行和核准資源預訂要求。<br/>
+<sup>10</sup> Active Directory 需要個別的訂閱。 <br/>
+<sup>11</sup> 只從電源 App 內授與僅限查看權利。 <br/>
+<sup>12</sup>使用 Microsoft Project 3/5 方案 (s) 的客戶，只允許使用通用資源排程，以在專案的內容中排程 Project 和任務表格。 <br/>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online 桌面用戶端功能
 

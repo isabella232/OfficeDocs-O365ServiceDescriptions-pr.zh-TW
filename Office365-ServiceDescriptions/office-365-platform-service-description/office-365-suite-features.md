@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主題中所列的功能是網頁式工具的集合，可協助您安全地在許多裝置和多個 Office 365 服務之間共同作業和通訊。 這些功能會協助在您的組織內進行新的連線，方法是整合數位內容建立、儲存及管理與用於在使用者之間探索及分享資訊的社交工具。
-ms.openlocfilehash: 99c744f92cc7c100f6889c927fc340512d9b40d8
-ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
+ms.openlocfilehash: e1218f35d26b44a88bfbe35dd80cf3003f28a529
+ms.sourcegitcommit: 5eaf3ca8db0aac7f5882f1e242018a94a359fe27
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52074474"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53275602"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 
@@ -90,10 +90,6 @@ Microsoft 365 中的群組可將使用者與同事、資訊和應用程式相連
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
 Microsoft Kaizala 是一種簡單且安全的行動裝置工作管理應用程式，將獨特的功能提供給 Microsoft 365，其能夠在組織的目錄內外同時連線及接洽人員–包括合約工作者、廠商、合作夥伴、供應商、客戶和公民–使用大型且[靈活的群組類型](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)。 Kaizala 的 open 目錄模型可讓您以電話號碼為基礎的身分識別，便於上架，以及郵件和工作管理的簡易使用者體驗。 Kaizala 行動裝置應用程式可讓使用者傳送立即訊息和附件，例如圖片、檔、影片、音訊檔等等，也就是使用智慧卡來進行調查、投票、工作指派、宣告、培訓等等。 [Kaizala](https://products.office.com/en/business/microsoft-kaizala)會在 iPhone 和 Android 上運作。 若要深入瞭解，請前往[Kaizala 網站](https://products.office.com/en/business/microsoft-kaizala)。
-
-## <a name="office-365-video"></a>Office 365 影片
-
-Office 365影片是一種安全、全公司的目的地，您可以透過 Microsoft Azure 媒體服務，在裝置上傳、共用及探索影片。 Office 365 影片可讓觀看者投入並掌握資訊、廣泛交換想法，並且讓組織維持一致。 若要深入了解，請參閱[介紹 Office 365 影片](https://go.microsoft.com/fwlink/?linkid=2144056)。
 
 ## <a name="onenote-class-notebook"></a>OneNote 課程筆記本
 
