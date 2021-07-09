@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 瞭解 Microsoft 365 和獨立方案的 SharePoint 限制。
-ms.openlocfilehash: e48ce75a9656ca173ef74ddb32df619509629e27
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: 44571cedf74b2a094231173b87731916d9e26975
+ms.sourcegitcommit: 10699cc17ddfed6af78ce1466f478b2bd67ba26a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767473"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53338336"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -50,7 +50,11 @@ ms.locfileid: "51767473"
 
 ### <a name="file-size-and-file-path-length"></a>檔案大小及檔案路徑長度
 
-250 GB。 若要深入瞭解使用新的 OneDrive 同步處理應用程式 (OneDrive.exe) 時的限制和限制，請參閱[不正確檔案名和檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+- **250 GB-檔案上傳限制。** 適用于每一個上傳至 Microsoft Teams 檔案] 索引標籤、SharePoint 文件庫、OneDrive 資料夾及 Yammer 交談的個別檔案。
+
+- **250 MB-附加至清單專案的檔案。** 適用于 Microsoft 清單和 SharePoint 清單-這兩者都是以相同清單平臺為基礎。
+
+若要深入瞭解使用 new OneDrive 同步處理 app (OneDrive.exe) 時的限制和限制，請參閱[不正確檔案名和檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
 
 ### <a name="moving-and-copying-across-sites"></a>跨網站移動及複製
 
