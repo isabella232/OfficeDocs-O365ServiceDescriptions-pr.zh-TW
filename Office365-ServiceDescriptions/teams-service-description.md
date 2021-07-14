@@ -8,26 +8,26 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 深入瞭解 Microsoft 365 和 Office 365 方案中的 Microsoft Teams 服務和功能可用性。
-ms.openlocfilehash: b2028fb4e2d2e74a56230a570a709a6731a0628c
-ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
+ms.openlocfilehash: 45ab0e018cc76fc0232cca55e5d8fbdfcf77acbd
+ms.sourcegitcommit: 8b6aad7edf3730a12fb0607e80bb19f0811bd06c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53077517"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409680"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服務描述
 
 Microsoft Teams 是 Microsoft 365 團隊合作的中心。 Teams 服務可讓您立即訊息、音訊和影片通話、豐富的線上會議、行動經驗和大量的 web 會議功能。 此外，Teams 提供檔案與資料共同作業及擴充功能，並與 Microsoft 365 和其他 Microsoft 和合作夥伴應用程式整合。
 
-## <a name="available-plans"></a>可用規劃
+## <a name="available-plans"></a>可用方案
 
-如需啟用 Microsoft 預約使用者之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
+如需啟用 Microsoft Stream 使用者之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出各種方案中可用的主要 Microsoft Teams 功能。 適用某些注意事項。 如需詳細資訊，請參閱註腳。 此表格可能會變更，恕不另行通知。 請參閱 Microsoft 365 訊息中心通知，以取得核心服務變更訊息和[Microsoft 授權條款參考檔](https://www.microsoft.com/licensing/product-licensing/products)。<br><br>
+下表列出各種方案中可用的主要 Microsoft Teams 功能。 適用某些注意事項。 如需進一步資訊，請參閱註腳。 此表格可能會變更而不另行通知。 請參閱 Microsoft 365 訊息中心通知，以取得核心服務變更訊息和[Microsoft 授權條款參考檔](https://www.microsoft.com/licensing/product-licensing/products)。<br><br>
 
-| 功能 | 小型企業 | Enterprise 方案 | GCC | GCC-高 | DOD | 教育 |
+| 功能 | 小型企業 | Enterprise 方案 | GCC | GCC-高 | DOD | 教育版 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |聊天 |是 |是 |是 |是 |是 |是 |
 |Teams |是|是|是|是<sup>1</sup> |是<sup>1</sup> |是 |
@@ -52,7 +52,7 @@ Microsoft Teams 是 Microsoft 365 團隊合作的中心。 Teams 服務可讓您
 
 商務用 Skype線上將于2021年7月31日（已于年7月 30 2019 日[宣佈](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)）終止。 Microsoft Teams 是一種全新的服務，其從頭開始使用 Azure 及其他 Microsoft 的服務創新，從頭開始為雲端構建全新服務。 Microsoft Teams 是以 Microsoft 365 的群組、Microsoft Graph，以及與其他 Office 365 相同的企業層級安全性、合規性和可管理性來建立。 Teams 利用 Azure Active Directory (Azure AD) 中儲存的身分識別。 這些服務是由 Microsoft 資料中心提供，可供使用者從公司網路內部或透過網際網路內部的各種裝置存取。 如需詳細資訊，請參閱[Microsoft Teams IT 架構和電話語音解決方案海報](/microsoftteams/teams-architecture-solutions-posters)。
 
-Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](https://www.microsoft.com/trust-center/compliance/accessibility) 。 如需詳細資訊，請參閱[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 協助工具中心](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 持續致力於您的資料安全性，以及我們服務的[協助工具](https://www.microsoft.com/trust-center/compliance/accessibility)。 如需詳細資訊，請參閱 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 協助工具中心](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
 
 如需可讓使用者 Microsoft Teams 之訂閱的詳細計畫資訊，請參閱[完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。 如需政府方案中的其他 Office 365，請參閱[Office 365 政府版計畫](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)。 Office 365G1 到 G5 包括 Teams 功能的存取權。
 
@@ -74,12 +74,12 @@ Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](
 
 ### <a name="licensing-terms"></a>授權條款
 
-如需透過 Microsoft 商業大量授權方案購買之產品和服務的授權條款及條件，請參閱 [產品條款網站](https://www.microsoft.com/licensing/terms/)。
+如需透過 Microsoft 商用大量授權方案購買的產品和服務的授權條款及條件，請參閱[產品條款網站](https://www.microsoft.com/licensing/terms/)。
 
 ### <a name="messaging"></a>訊息
 
-若要追蹤即將到來的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪郵件中心。 如需詳細資訊，請參閱 [Message center](/microsoft-365/admin/manage/message-center)。
+若要追蹤即將發生的變更，包括新功能和變更的功能、計劃中的維護或其他重要的公告，請造訪訊息中心。 如需詳細資訊，請參閱[訊息中心](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>協助工具
 
-Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](https://www.microsoft.com/trust-center/compliance/accessibility) 。 如需詳細資訊，請參閱[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 協助工具中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 持續致力於您的資料安全性，以及我們服務的[協助工具](https://www.microsoft.com/trust-center/compliance/accessibility)。 如需詳細資訊，請參閱 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 協助工具中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
