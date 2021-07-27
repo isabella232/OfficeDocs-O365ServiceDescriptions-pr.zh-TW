@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已 Office 365 美國政府方案 (或 Office 365 政府版) 中建立的。 本文概要說明 Office 365 政府版 US 環境所特有的功能。
-ms.openlocfilehash: 1a69b6a2366a8855970775b6ca3af7b8f507a6d8
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: d958835f906fa256ff5bfce3435f8c6d36458407
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699079"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537229"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -151,7 +151,7 @@ Office 365我們的政府客戶可以使用 Azure 政府 ExpressRoute 服務，�
 |Skype for Business (Instant Messaging &amp; Presence)|是<sup>1</sup>|是|是|是<sup>1</sup>|
 |語音電話系統、音訊會議|否<sup>2</sup>|否<sup>2</sup>|是<sup>5</sup>|否|
 |Power BI Pro|否<sup>2</sup>|否<sup>2</sup>|是|否<sup>2</sup>|
-|Microsoft Project Online|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|
+|Project Online|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|
 |Visio 網頁版|否<sup>6</sup>|否<sup>6</sup>|否<sup>6</sup>|否<sup>6</sup>|
 |Yammer Enterprise|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|
 
@@ -169,7 +169,7 @@ Office 365我們的政府客戶可以使用 Azure 政府 ExpressRoute 服務，�
 |功能|Office 365 Government G1|Office 365 Government G3|Office 365 政府版 G5|Office 365 政府版鍵|
 |---|---|---|---|---|
 |**Office 365 管理**|||||
-|使用 Microsoft 365 系統管理中心來管理 Office 365|是<sup>16</sup>|是<sup>16</sup>|是|是<sup>16</sup>|
+|使用 Microsoft 365 系統管理中心管理 Office 365|是<sup>16</sup>|是<sup>16</sup>|是|是<sup>16</sup>|
 |從 Office 365 管理核心服務設定|是|是|是|是|
 |使用 Windows PowerShell 管理 Office 365|是|是|是|是|
 |使用 Azure 資訊保護 來保護內容|否<sup>1</sup>|是<sup>15</sup>|是<sup>15</sup>|否<sup>1</sup>|
@@ -371,87 +371,87 @@ Office 365我們的政府客戶可以使用 Azure 政府 ExpressRoute 服務，�
 
 政府雲彩中提供下列 Office 應用程式;不過，有些雲端式功能可能無法使用，如表格中所示。<br><br>
 
-|Application/feature|GCC|GCC High|DOD|
-|---|---|---|---|
-|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel)完全可用於政府雲彩，但下列功能除外 **，但目前無法使用：**||||
-|3D 內嵌動畫和3D 模型|否|否|否|
-|資料類型|否|否|否|
-|Flash 填滿|否|否|否|
-|觀點 (真知灼見服務) |否|否|否|
-|Power BI (自訂視覺效果改善整合，從 Excel 直接建立 PBI 圖表) |否|否|否|
-|智慧數位墨水|否|否|否|
-|Office 365 群組|否|否|否|
-|PivotCharts 資料連線至 PivotTables|否|否|否|
-|PowerPivot|否|否|否|
-|發佈至 Power BI|否|否|否|
-|即時共同作業 (目前狀態、一般共同作業、檔聊天室) |否|否|否|
-|Shared with Me|否|否|否|
-|智慧查閱|否|否|否|
-|圖表：旭日樹狀圖、瀑布、長條圖、地圖、時程表、漏斗|否|否|否|
-|版本歷程記錄|否|否|否|
-|[**Microsoft 表單**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) 完全可用於政府雲彩，但 **無法使用下列** 功能：|**GCC**|**GCC High**|**DOD**|
-|電子郵件通知|否<sup>1</sup>|否<sup>1</sup>|否|
-|插入圖片|否<sup>1</sup>|否<sup>1</sup>|否|
-|插入影片|否<sup>1</sup>|否<sup>1</sup>|否|
-|數學|否<sup>1</sup>|否<sup>1</sup>|否|
-|Office 整合|否<sup>1</sup>|否<sup>1</sup>|否|
-|最近的群組表單|否<sup>4</sup>|是|是|
-|外部共用<sup>3</sup>|是|否|否|
-|表單 Pro|否|否|否|
-|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote)完全可用於政府雲彩，但下列功能除外 **，但目前無法使用：**|**GCC**|**GCC High**|**DOD**|
-|研究工具|否|否|否|
-|智慧數位墨水|否|否|否|
-|將電子郵件傳送至 OneNote (me@onenote.com) |否|否|否|
-|Web Clipper|否|否|否|
-|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook)完全可用於政府群中，但下列功能除外，並非下表所示的所有政府雲彩中提供。|**GCC**|**GCC High**|**DOD**|
-|Office 聲音 (部分) |否|否|否|
-|動態資料 Exchange (DDE) 預設為停用|否|否|否|
-|聽寫|是|是|否<sup>1</sup>|
-|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)完全可用於政府群中，但下列功能除外，並非下表所示的所有政府雲彩中提供。|**GCC**|**GCC High**|**DOD**|
-|智慧查閱|否|否|否|
-|Office 聲音 (部分) |否|否|否|
-|3D 模型和3D 內嵌動畫|否|否|否|
-|圖表：地圖|否|否|否|
-|智慧數位墨水|否|否|否|
-|PowerPoint 中的 Live 字幕和副標題|是|是|否|
-|即時簡報|否|否|否|
-|沈浸式閱讀程式|否|否|否|
-|簡報者指導|否|否|否|
-|Shared with Me|否|否|否|
-|與共享的商務用 Skype 整合|否|否|否|
-|版本歷程記錄|否|否|否|
-|Office 365 群組|否|否|否|
-|即時共同作業 (目前狀態、一般共同作業、檔聊天室) |否|否|否|
-|聽寫|是|是|否<sup>1</sup>|
-|重複使用滑動片|否|否|否|
-|目前只有 Hub 用戶端（而不是桌面）提供政府雲端的 **Microsoft Whiteboard** 。|**GCC**<sup>2</sup>|**GCC 高**<sup>2</sup>|**DOD**<sup>2</sup>|
-|插入粘滯便箋、文字和圖像|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
-|手寫的圖案和墨蹟至表格|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
-|筆跡 beautification|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
-|將圖像轉換成筆跡|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
-|協助工具檢查程式|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
-|動態範本 (看板、SWOT 等等) |否|否|否|
-|即時合作|否|否|否|
-|即時目前狀態|否|否|否|
-|內容的反應|否|否|否|
-|白板的板圖庫（包括與您共用）|否|否|否|
-|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word)完全可用於政府群中，除了下列功能之外，並非所有政府群中的可用，如下表所示。|**GCC**|**GCC High**|**DOD**|
-|智慧查閱|否|否|否|
-|研究工具|否|否|否|
-|Office 聲音|否|否|否|
-|3D 模型|否|否|否|
-|3D 嵌入動畫|否|否|否|
-|點選|否|否|否|
-|簡歷小幫手|否|否|否|
-|地圖圖表|否|否|否|
-|智慧數位墨水|否|否|否|
-|Shared with Me|否|否|否|
-|轉換|是<sup>5</sup>|是<sup>5</sup>|是<sup>5</sup>|
-|與共享的商務用 Skype 整合|否|否|否|
-|版本歷程記錄|否|否|否|
-|Office 365 群組|否|否|否|
-|與共同作者的內容聊天：與檔內的共同撰寫人員聊天|否|否|否|
-|聽寫|是|是|否<sup>1</sup>|
+|Application/feature|協助工具功能|GCC|GCC High|DOD|
+|---|---|---|---|---|
+|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel)完全可用於政府雲彩，但下列功能除外 **，但目前無法使用：**|||||
+|3D 內嵌動畫和3D 模型|是|否|否|否|
+|資料類型||否|否|否|
+|Flash 填滿||否|否|否|
+|觀點 (真知灼見服務) |是|否|否|否|
+|Power BI (自訂視覺效果改善整合，從 Excel 直接建立 PBI 圖表) ||否|否|否|
+|智慧數位墨水|是|否|否|否|
+|Office 365 群組||否|否|否|
+|PivotCharts 資料連線至 PivotTables||否|否|否|
+|PowerPivot||否|否|否|
+|發佈至 Power BI||否|否|否|
+|即時共同作業 (目前狀態、一般共同作業、檔聊天室) |一些|否|否|否|
+|Shared with Me||否|否|否|
+|智慧查閱|是|否|否|否|
+|圖表：旭日樹狀圖、瀑布、長條圖、地圖、時程表、漏斗||否|否|否|
+|版本歷程記錄|是|否|否|否|
+|[**Microsoft 表單**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) 完全可用於政府雲彩，但 **無法使用下列** 功能：||**GCC**|**GCC High**|**國防部**|
+|電子郵件通知||否<sup>1</sup>|否<sup>1</sup>|否|
+|插入圖片||否<sup>1</sup>|否<sup>1</sup>|否|
+|插入影片||否<sup>1</sup>|否<sup>1</sup>|否|
+|數學||否<sup>1</sup>|否<sup>1</sup>|否|
+|Office 整合||否<sup>1</sup>|否<sup>1</sup>|否|
+|最近的群組表單||否<sup>4</sup>|是|是|
+|外部共用<sup>3</sup>||是|否|否|
+|表單 Pro||否|否|否|
+|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote)完全可用於政府雲彩，但下列功能除外 **，但目前無法使用：**||**GCC**|**GCC High**|**國防部**|
+|研究工具|是|否|否|否|
+|智慧數位墨水|是|否|否|否|
+|將電子郵件傳送至 OneNote (me@onenote.com) |是|否|否|否|
+|Web Clipper||否|否|否|
+|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook)完全可用於政府群中，但下列功能除外，並非下表所示的所有政府雲彩中提供。||**GCC**|**GCC High**|**國防部**|
+|Office 聲音 (部分) |是|否|否|否|
+|動態資料 Exchange (DDE) 預設為停用||否|否|否|
+|聽寫|是|是|是|否<sup>1</sup>|
+|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)完全可用於政府群中，但下列功能除外，並非下表所示的所有政府雲彩中提供。||**GCC**|**GCC High**|**國防部**|
+|智慧查閱|是|否|否|否|
+|Office 聲音 (部分) ||否|否|否|
+|3D 模型和3D 內嵌動畫||否|否|否|
+|圖表：地圖||否|否|否|
+|智慧數位墨水|是|否|否|否|
+|PowerPoint 中的 Live 字幕和副標題|是|是|是|否|
+|即時簡報||否|否|否|
+|沈浸式閱讀程式|是|否|否|否|
+|簡報者指導|是|否|否|否|
+|Shared with Me||否|否|否|
+|與共享的商務用 Skype 整合||否|否|否|
+|版本歷程記錄|是|否|否|否|
+|Office 365 群組||否|否|否|
+|即時共同作業 (目前狀態、一般共同作業、檔聊天室) |一些|否|否|否|
+|聽寫|是|是|是|否<sup>1</sup>|
+|重複使用滑動片||否|否|否|
+|目前只有 Hub 用戶端（而不是桌面）提供政府雲端的 **Microsoft Whiteboard** 。||**GCC**<sup>2</sup>|**GCC 高**<sup>2</sup>|**DOD**<sup>2</sup>|
+|插入粘滯便箋、文字和圖像||是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
+|手寫的圖案和墨蹟至表格|是|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
+|筆跡 beautification|是|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
+|將圖像轉換成筆跡|是|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
+|協助工具檢查程式|是|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
+|動態範本 (看板、SWOT 等等) |是|否|否|否|
+|即時合作|是|否|否|否|
+|即時目前狀態|是|否|否|否|
+|內容的反應|是|否|否|否|
+|白板的板圖庫（包括與您共用）||否|否|否|
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word)完全可用於政府群中，除了下列功能之外，並非所有政府群中的可用，如下表所示。||**GCC**|**GCC High**|**國防部**|
+|智慧查閱|是|否|否|否|
+|研究工具|是|否|否|否|
+|Office 聲音||否|否|否|
+|3D 模型||否|否|否|
+|3D 嵌入動畫||否|否|否|
+|點選||否|否|否|
+|簡歷小幫手|是|否|否|否|
+|地圖圖表||否|否|否|
+|智慧數位墨水|是|否|否|否|
+|Shared with Me||否|否|否|
+|轉換||是<sup>5</sup>|是<sup>5</sup>|是<sup>5</sup>|
+|與共享的商務用 Skype 整合||否|否|否|
+|版本歷程記錄|是|否|否|否|
+|Office 365 群組||否|否|否|
+|與共同作者的內容聊天：與檔內的共同撰寫人員聊天||否|否|否|
+|聽寫|是|是|是|否<sup>1</sup>|
 
 如需 GCC/GCC 高/DoD 中 Microsoft Teams 的功能可用性，請造訪[Microsoft Teams 服務描述](../../teams-service-description.md)。
 > <sup>1</sup> 可用性即將推出。

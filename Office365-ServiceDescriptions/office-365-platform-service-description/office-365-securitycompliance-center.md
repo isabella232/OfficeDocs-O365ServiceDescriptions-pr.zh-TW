@@ -10,25 +10,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全性與 &amp; 合規性中心的設計目的是協助您跨組織的 Office 365 管理規範功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-ms.openlocfilehash: 8fc8c0a6d127dd1565a954a5368b56fc37bcc47d
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: f0bb01722e2540e3a895c9c220f97c3e8b703fd1
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798459"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537209"
 ---
 # <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 
-[安全性與 &amp; 合規性中心](https://protection.office.com/)的設計目的是協助您跨組織的 Office 365 管理規範功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-  
-> [!NOTE]
-> Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
+以協助工具和易用性為設計，使用[Microsoft 365 的安全性中心](https://sip.security.microsoft.com/homepage)、 [Microsoft 365 合規性中心](https://sip.compliance.microsoft.com/homepage)及[Exchange 系統管理中心](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx)，針對整合的安全性、規範和郵件流程管理，在 Microsoft 365 服務中包含現有的功能和新的增強體驗。 這些新的中心會逐漸取代 Office 365 安全性與 &amp; 合規性中心 (protection.office.com) 。 您可以在 [[安全性中心](https://sip.security.microsoft.com/homepage)] 或 [[規範中心](https://sip.compliance.microsoft.com/homepage)] 中立即開啟自動重新導向，所以組織中的系統管理員會立即從 Office 365 安全性與合規性中心的功能重新導向 &amp; 至新中心的對應功能。
 
 若要查看授權您的使用者受益 Microsoft 365 規範功能的選項，請下載[Microsoft 365 比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>&amp;商務和企業方案的安全性與合規性中心可用性
 
-| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Microsoft 365 商務進階版 | Office 365E1，Office 365 美國政府版 G1 | Office 365E3，Office 365 美國政府版 G3 | Office 365 E5 |Office 365G5 | Office 365F3，Office 365 美國政府 F3|
+| 功能 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Microsoft 365 商務進階版 | Office 365 E1，Office 365 美國政府版 G1 | Office 365 E3，Office 365 美國政府版 G3 | Office 365 E5 |Office 365G5 | Office 365F3，Office 365 美國政府 F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[存取安全性與合規性中心](/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |是   |
 |[Office 365 雲端 App 安全性](/cloud-app-security/what-is-cloud-app-security) | 否 | 否 |否 | 否 | 否 | 是 | 是  |   |

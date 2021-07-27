@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 政府的概述，並說明購買選項。
-ms.openlocfilehash: f2519466b8037a7ab3871fe924c65fbd84b1ebb1
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 546416b4b8222af55b5b774fa4bff66fd8429035
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545933"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537239"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365政府-如何購買
 
@@ -136,24 +136,34 @@ GCC 和 GCC 的高產品皆可供任何可供 Microsoft 政府雲端使用的客
 - Accenture 聯邦服務，LLC
 - Agile IT，Inc.。
 - 套用的資訊科學，Inc.。
+- Booz Allen Hamilton，Inc.。
 - C3 整合式解決方案
 - Caci
 - Carahsoft
+- CyberSheath Services 國際、LLC
 - CGI 聯邦 Inc.。
 - Conquest 網路
 - Dox 電子 Inc.。
+- Enlighten IT 諮詢，LLC
 - F1 方案 Inc.。
 - 四個點的技術，LLC
 - 一般 Dynamics Information 技術協會 Inc.。
 - Imager 軟體，Inc. ISC
+- Hypori，Inc.。
 - Jackpine
 - 賈斯珀
+- Johnson 技術系統（Inc.）。
+- Kamind IT，Inc.。
 - KTL 解決方案，Inc.。
 - LiftOff、LLC
+- ManTech Advanced Systems 國際，Inc.。
+- NIMBUS 邏輯，LLC
 - 諾斯羅普·格魯
 - Novetta
+- Perspecta Enterprise 方案 LLC
 - 行星技術-Inc.。
 - 平靜專業人員，LLC
+- R3，LLC
 - 紅色河
 - 上汽
 - Smartronix
@@ -171,7 +181,7 @@ GCC 和 GCC 的高產品皆可供任何可供 Microsoft 政府雲端使用的客
 - [Office 365。](https://aka.ms/gcctrial) 僅適用于 GCC 的免費一月試用版。  
 - Microsoft 不會向商業客戶提供 GCC Office 365 的實驗，也沒有 GCC 高或 DoD 的實驗。
 
-## <a name="where-can-i-learn-more"></a>何處提供詳細資訊？
+## <a name="where-can-i-learn-more"></a>我可以在哪裡找到詳細資訊？
 
 請參閱下列資源，以進一步瞭解 Microsoft 365 政府。
 

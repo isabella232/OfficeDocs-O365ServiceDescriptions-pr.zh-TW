@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 為專案產品群組管理 (PPM) 及日常運作的彈性線上解決方案。 透過 Project Online Office 365 提供強大的專案管理功能，可用於規劃、排定專案與專案組合的投資，甚至幾乎任何裝置上幾乎都沒有任何的裝置。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: 0c2d1d68767a6b4dedd6b75fd77ca36ba38d6baf
-ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
+ms.openlocfilehash: 3717ff4d908d61e27bbb42af6fbc6615b5dbc548
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2021
-ms.locfileid: "53290853"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537259"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -298,6 +298,8 @@ web 的 Project 需要使用 Microsoft Dataverse 儲存其資料。 Microsoft Da
 | Dataverse 記錄：包含/租使用者                                     | 2 GB        | 2 GB        | 2 GB        |
 | Dataverse 檔案：包含/租使用者                                    | 20 GB       | 20 GB       | 20 GB       |
 | Dataverse 檔案：累算/USL                                        | 400 MB      | 2 GB        | 2 GB        |
+
+除了 entitle Dataverse storage 容量之外，還有其他 Microsoft 訂閱超過 Project。 如需其他 Dataverse 儲存容量權利，請參閱[Dynamics 365 授權指南](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409)和[Power Apps Power Automate 及 Power Virtual Agents 授權指南](https://go.microsoft.com/fwlink/?LinkId=2085130&clcid=0x409)。
 
 ### <a name="data-backup-and-retention"></a>資料備份和保留
 
