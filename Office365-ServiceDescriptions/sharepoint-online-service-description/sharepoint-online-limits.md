@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 了解 Microsoft 365 和獨立計畫的 SharePoint 限制。
-ms.openlocfilehash: c228774bbbb1db9b6edc1d3cc05ff159b1ca9a3e
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: 44571cedf74b2a094231173b87731916d9e26975
+ms.sourcegitcommit: 10699cc17ddfed6af78ce1466f478b2bd67ba26a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537219"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53338336"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -34,7 +34,7 @@ ms.locfileid: "53537219"
 <br/><sup>2</sup> 我們建議您監控並定期清空「資源回收筒」。 其使用的儲存空間也是組織中總儲存空間上限的一部份。 
 <br/> <sup>3</sup> 如果您有訂閱 Microsoft 365 和 Office 365 額外檔案儲存空間附加元件，儲存空間容量會累加。 
 <br/> <sup>4</sup> 這是單一網站的儲存空間 *限制*，而非每個網站所 *提供* 的儲存空間總量。 這項限制適用於所有類型的網站，包括 Office 365 群組連結的小組網站和 OneDrive。 SharePoint 系統管理員可以[手動設定降低儲存體限制](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)。 
-<br/> <sup>5</sup> Frontline 工作者無法管理 SharePoint 網站。 
+<br/> <sup>5</sup> 第一線員工無法管理 SharePoint 網站集合。 
 <br/> <sup>6</sup> 不包括為每個授權使用者建立的 OneDrive。 
 <br/> <sup>7</sup> 如果您有 500,000 位以上的使用者，請連絡 Microsoft 代表。 
   
