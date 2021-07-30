@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI 是雲端架構的業務分析工具套件，可讓任何人以更快的速度、效能及瞭解來連線、視覺化及分析資料。 該服務透過方便使用的儀表板將使用者連結到廣泛的即時資料、提供互動式報表與無可比擬的的視覺化效果，讓資料栩栩如生。
-ms.openlocfilehash: addac672ec7cb12537d41041c85752ee3690e544
-ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
+ms.openlocfilehash: c3ef96972ed31585a5fe58e04bb20d96c5ad19cb
+ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52906739"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661611"
 ---
 # <a name="power-bi-service-description"></a>Power BI 服務說明
 
@@ -33,7 +33,7 @@ Power BI 是雲端架構的業務分析工具套件，可讓任何人以更快�
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出各種方案中可用的主要 Power BI 功能。 適用某些注意事項。 如需詳細資訊，請參閱註腳。 此表格可能會變更，恕不另行通知。 如需最新、完整的功能清單，請參閱[Power BI 定價](https://powerbi.microsoft.com/pricing/)。
+下表列出各種方案中可用的主要 Power BI 功能。 適用某些注意事項。 如需進一步資訊，請參閱註腳。 此表格可能會變更而不另行通知。 如需最新、完整的功能清單，請參閱[Power BI 定價](https://powerbi.microsoft.com/pricing/)。
 
 | 功能 | Power BI Pro | Power BI Premium Per User | 每個容量的 Power BI Premium |
 |---------|--------------|---------------------------|-------------------------------|
@@ -57,7 +57,7 @@ Power BI 是雲端架構的業務分析工具套件，可讓任何人以更快�
 | **管理** | | | |
 | 資料安全性和加密 | 是 | 是 | 是 |
 | 內容建立、消費和發佈的計量 | 是 | 是 | 是 |
-| 應用程式生命週期管理 | 否 | 否 | 是 |
+| 應用程式生命週期管理的部署管線 | 否 | 否 | 是 |
 | 多地理位置部署管理 | 否 | 否 | 是 |
 | 在 BYOK) 上帶您自己的金鑰 ( | 否 | 否 | 是 |
 | 自動縮放增益集可用性 (預覽)  | 否 | 否 | 是 |
@@ -77,12 +77,12 @@ Power BI 是雲端架構的業務分析工具套件，可讓任何人以更快�
 
 ### <a name="licensing-terms"></a>授權條款
 
-如需透過 Microsoft 商業大量授權方案購買之產品和服務的授權條款及條件，請參閱 [產品條款網站](https://www.microsoft.com/licensing/terms/)。 
+如需透過 Microsoft 商用大量授權方案購買的產品和服務的授權條款及條件，請參閱[產品條款網站](https://www.microsoft.com/licensing/terms/)。 
 
 ### <a name="messaging"></a>訊息
 
-若要追蹤即將到來的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪郵件中心。 如需詳細資訊，請參閱 [Message center](/microsoft-365/admin/manage/message-center)。
+若要追蹤即將發生的變更，包括新功能和變更的功能、計劃中的維護或其他重要的公告，請造訪訊息中心。 如需詳細資訊，請參閱[訊息中心](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>協助工具
 
-Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](https://www.microsoft.com/trust-center/compliance/accessibility) 。 如需詳細資訊，請參閱[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 協助工具中心](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 持續致力於您的資料安全性，以及我們服務的[協助工具](https://www.microsoft.com/trust-center/compliance/accessibility)。 如需詳細資訊，請參閱 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 協助工具中心](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。

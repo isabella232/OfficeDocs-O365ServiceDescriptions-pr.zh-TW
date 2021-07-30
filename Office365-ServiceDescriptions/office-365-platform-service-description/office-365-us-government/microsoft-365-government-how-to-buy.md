@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 政府的概述，並說明購買選項。
-ms.openlocfilehash: 546416b4b8222af55b5b774fa4bff66fd8429035
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: 3dae61b362f63126b8d93589e88ccba9cb57502f
+ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537239"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661631"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365政府-如何購買
 
@@ -140,16 +140,16 @@ GCC 和 GCC 的高產品皆可供任何可供 Microsoft 政府雲端使用的客
 - C3 整合式解決方案
 - Caci
 - Carahsoft
-- CyberSheath Services 國際、LLC
 - CGI 聯邦 Inc.。
 - Conquest 網路
+- CyberSheath Services 國際、LLC
 - Dox 電子 Inc.。
 - Enlighten IT 諮詢，LLC
 - F1 方案 Inc.。
 - 四個點的技術，LLC
 - 一般 Dynamics Information 技術協會 Inc.。
-- Imager 軟體，Inc. ISC
 - Hypori，Inc.。
+- Imager 軟體，Inc. ISC
 - Jackpine
 - 賈斯珀
 - Johnson 技術系統（Inc.）。
