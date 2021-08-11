@@ -13,19 +13,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: 透過企業、商務、教育和政府訂閱的每一種 Microsoft Office 365，Microsoft 支援服務提供全球性的技術、售前、帳單及訂閱支援。 線上透過 Microsoft 365 系統管理中心，以及透過電話撥打付費和試用版訂閱，都有線上支援。 如需詳細資訊，請參閱 Microsoft 支援選項。
-ms.openlocfilehash: aee2ff37c2fb531e506a2cb18a5e92a6528785c7
-ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
+description: 透過企業、商務、教育和政府訂閱的每一種 Microsoft Office 365，Microsoft 支援服務提供全球性的技術、售前、帳單及訂閱支援。 您可以透過 Microsoft 365 系統管理中心線上，以及透過電話撥打付費和試用訂閱的支援。 如需詳細資訊，請參閱 Microsoft 支援選項。
+ms.openlocfilehash: 55c947fde5004c876f2dfcb95ad2e9f47fe71e31da8026d91a2ab541e1aac566
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721197"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701652"
 ---
 # <a name="support"></a>支援
 
-針對企業、商務、frontline、教育版和政府的每一個 Microsoft 365 和 Office 365 訂閱，Microsoft 支援提供全球技術、售前、帳單及訂閱支援。 線上透過 Microsoft 365 系統管理中心，以及透過電話撥打付費和試用版訂閱，都有線上支援。 如需詳細資訊，請參閱 [Microsoft 支援選項](/Office365/Admin/contact-support-for-business-products)。
+針對企業、商務、frontline、教育版和政府的每一個 Microsoft 365 和 Office 365 訂閱，Microsoft 支援提供全球技術、售前、帳單及訂閱支援。 您可以透過 Microsoft 365 系統管理中心線上，以及透過電話撥打付費和試用訂閱的支援。 如需詳細資訊，請參閱 [Microsoft 支援選項](/Office365/Admin/contact-support-for-business-products)。
 
-授權的系統管理員可以使用 Microsoft 365 系統管理中心，以線上提交服務要求、存取支援電話號碼，以及查看所有開啟及最近關閉的服務要求。 在系統管理中心中送出的服務要求，在要求關閉後，最多可重新開啟14天。 如需相關指示，請參閱[business support 的連絡人 Microsoft 365](/Office365/Admin/contact-support-for-business-products)。
+授權的系統管理員可以使用 Microsoft 365 系統管理中心線上提交服務要求、存取支援電話號碼，以及查看所有開啟和最近關閉的服務要求。 在系統管理中心中送出的服務要求，在要求關閉後，最多可重新開啟14天。 如需相關指示，請參閱[business support 的連絡人 Microsoft 365](/Office365/Admin/contact-support-for-business-products)。
   
 Microsoft 365 的技術支援小組只會針對與 Microsoft 365 和 Office 365 相關的問題進行診斷。 來源於客戶網路的問題超出支援界限，在這些情況下，客戶必須與網路小組合作，或聯繫 [Microsoft 網路小組](https://support.microsoft.com/gp/contactus81?Audience=Commercial) 以尋求協助。
   

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft 支援下列方式來建立、管理及驗證使用者。
-ms.openlocfilehash: 16c12692107e789692b28351eed7dae5b32b18d9
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5a4b242046503df691587919284454a670f817821eab1b3a6692f542bdcefadb
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652407"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702042"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -48,7 +48,7 @@ Microsoft 有兩個系統可用於使用者身分識別：
   
 ### <a name="custom-domains-and-identity-options"></a>自訂網域和身分選項
 
-當您建立新的使用者時，使用者的登入名稱和電子郵件地址會指派給 Microsoft 365 系統管理中心內設定的預設網域。 若要深入瞭解，請參閱 [新增您的使用者和網域](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)。 
+當您建立新的使用者時，使用者的登入名稱和電子郵件地址會指派給 Microsoft 365 系統管理中心中所設定的預設網域。 若要深入瞭解，請參閱 [新增您的使用者和網域](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)。 
   
 根據預設，訂閱使用以該帳戶建立的 <*公司名稱* > **onmicrosoft.com** 網域。 如果您使用的是中國所運作的 Office 365，預設網域 *是 <* > **onmsChina.cn**。 如果您正在使用 Office 365 德國，預設網域 *是 <* > **onmicrosoft.de**。 您可以將一或多個自訂網域新增至 Microsoft，而不是保留 **onmicrosoft.com** 網域，而且可以指派使用者使用任何驗證的網域登入。 每個使用者的指派網域是將會出現在傳送和接收的電子郵件訊息上的電子郵件地址。 
   
@@ -74,7 +74,7 @@ Microsoft 使用以表單為基礎的驗證，而且透過網路驗證流量永�
   
 ### <a name="multi-factor-authentication"></a>多重要素驗證
 
-使用 Multi-Factor 驗證，使用者在正確輸入密碼後，必須先在其 smartphone 上認可電話、文字訊息或代理程式更新。 Only after this second authentication can the user sign in. Microsoft 系統管理員可以在 Microsoft 365 系統管理中心內，註冊多重要素驗證的使用者。 深入瞭解 [Multi-Factor 驗證](/office365/admin/security-and-compliance/set-up-multi-factor-authentication)。
+使用 Multi-Factor 驗證，使用者在正確輸入密碼後，必須先在其 smartphone 上認可電話、文字訊息或代理程式更新。 Only after this second authentication can the user sign in. Microsoft 系統管理員可以為 Microsoft 365 系統管理中心中的多重要素驗證註冊使用者。 深入瞭解 [Multi-Factor 驗證](/office365/admin/security-and-compliance/set-up-multi-factor-authentication)。
   
 ### <a name="rich-client-authentication"></a>豐富型用戶驗證
 
@@ -102,7 +102,7 @@ Microsoft 使用以表單為基礎的驗證，而且透過網路驗證流量永�
 |Outlook 2010 或 Office Outlook 2007 在 Windows Vista  <br/> |登入每個工作階段 <sup>1</sup> <br/> |登入每個工作階段 <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |登入每個工作階段 <sup>1</sup> <br/> |登入每個工作階段 <sup>2</sup> <br/> |
 |POP、IMAP、Outlook for Mac  <br/> |登入每個工作階段 <sup>1</sup> <br/> |登入每個工作階段 <sup>2</sup> <br/> |
-|網頁體驗：在 web/SharePoint 線上/Office 網頁版上 Microsoft 365 系統管理員中心/Outlook  <br/> |登入每個瀏覽器工作階段<sup>4</sup> <br/> |登入每個工作階段 <sup>3</sup> <br/> |
+|網頁體驗： Microsoft 365 系統管理中心/Outlook 網頁版/SharePoint 線上/Office 網頁版  <br/> |登入每個瀏覽器工作階段<sup>4</sup> <br/> |登入每個工作階段 <sup>3</sup> <br/> |
 |Office 2010 或 Office 2007 使用 SharePoint Online  <br/> |登入每個 SharePoint Online 工作階段 <sup>4</sup> <br/> |登入每個 SharePoint Online 工作階段<sup>3</sup> <br/> |
 |商務用 Skype Online  <br/> |登入每個工作階段 <sup>1</sup> <br/> |無提示  <br/> |
 |Mac 版 Outlook  <br/> |登入每個工作階段 <sup>1</sup> <br/> |登入每個工作階段 <sup>2</sup> <br/> |
@@ -115,7 +115,7 @@ Microsoft 使用以表單為基礎的驗證，而且透過網路驗證流量永�
   
 ## <a name="create-user-accounts"></a>Create user accounts
 
-有多種方式可以讓您新增使用者。 若要深入瞭解，請參閱在 Microsoft 365 管理中心預覽中[個別新增使用者或在大量系統管理中](/office365/admin/add-users/add-users)[新增、移除及管理使用者](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3)。 如果您在中國使用由 21Vianet 提供的 Office 365，請參閱[在由 21Vianet 提供的 Office 365 中建立或編輯使用者帳戶 - 管理中心說明](/office365/admin/add-users/add-users)。
+有多種方式可以讓您新增使用者。 若要深入瞭解，請參閱在 Microsoft 365 系統管理中心預覽中[個別個別新增使用者或在大量系統管理員的協助中](/office365/admin/add-users/add-users)[新增、移除及管理使用者](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3)。 如果您在中國使用由 21Vianet 提供的 Office 365，請參閱[在由 21Vianet 提供的 Office 365 中建立或編輯使用者帳戶 - 管理中心說明](/office365/admin/add-users/add-users)。
   
 ## <a name="delete-user-accounts"></a>刪除使用者帳戶
 
@@ -145,9 +145,9 @@ Microsoft 使用以表單為基礎的驗證，而且透過網路驗證流量永�
   
 - 系統 **管理員重設密碼**-如果使用者遺失或遺忘密碼，系統管理員可以在系統管理中心或使用 Windows PowerShell 重設使用者密碼。 使用者必須知道自己的現有密碼，才能變更密碼。 
     
-    針對企業方案，如果系統管理員丟失或忘記其密碼，具有全域系統管理員角色的不同系統管理員可以在 Microsoft 365 系統管理中心或使用 Windows PowerShell 中重設系統管理員密碼。 有關詳細資訊，請參閱[重置管理員密碼](/office365/admin/add-users/reset-passwords)。 如果您在中國使用 21Vianet 運作的 Office 365，請參閱[在 21Vianet 運作的 Office 365 中建立或重設密碼](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)。
+    針對企業方案，如果系統管理員丟失或忘記其密碼，具有全域系統管理員角色的不同系統管理員可以在 Microsoft 365 系統管理中心中或使用 Windows PowerShell，重設系統管理員的密碼。 有關詳細資訊，請參閱[重置管理員密碼](/office365/admin/add-users/reset-passwords)。 如果您在中國使用 21Vianet 運作的 Office 365，請參閱[在 21Vianet 運作的 Office 365 中建立或重設密碼](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)。
     
-- **使用者使用網頁上的 Outlook 變更密碼**-[web 選項] 頁面上的 [Outlook] 包含 [變更密碼] 超連結，可將使用者重新導向至 [**變更密碼**] 頁面。 使用者必須知道他們先前的密碼。 如需詳細資訊，請參閱 [ 變更密碼 ](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c)。 如果您在中國使用 21Vianet 運作的 Office 365，請參閱[在 21Vianet 運作的 Office 365 中建立或重設密碼](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)。
+- **使用者使用 Outlook 網頁版變更密碼**-「Outlook 網頁版選項」頁面包含 [變更密碼] 超連結，可將使用者重新導向至 [**變更密碼**] 頁面。 使用者必須知道他們先前的密碼。 如需詳細資訊，請參閱 [ 變更密碼 ](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c)。 如果您在中國使用 21Vianet 運作的 Office 365，請參閱[在 21Vianet 運作的 Office 365 中建立或重設密碼](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)。
     
 - 以 **角色為基礎的重設密碼權力**-針對企業方案，可將「**重設密碼**」使用者權利和使用預先定義或自訂角色變更密碼的許可權指派給使用者，而不會成為完全服務管理員。 依預設，在企業方案中，具有全域管理員、密碼管理員或使用者管理系統管理員角色的系統管理員可以變更密碼。 For more information, see [Assigning admin roles](/office365/admin/add-users/assign-admin-roles).
     
@@ -155,7 +155,7 @@ Microsoft 使用以表單為基礎的驗證，而且透過網路驗證流量永�
     
 ### <a name="federated-identity-password-management"></a>同盟身分識別密碼管理
   
-使用同盟身分時，密碼會在 Active Directory 中管理。 內部部署 Security Token Service 會以同盟閘道來協商驗證，而不需透過網際網路將使用者的本機 Active Directory 密碼傳遞至 Office 365。 使用本機密碼原則，或如果是網頁用戶端則使用雙因素驗證。 網頁上的 Outlook 不包含 [變更密碼] 超連結。 使用者變更密碼，使用標準的內部部署工具，或經由桌面 PC 登入選項。
+使用同盟身分時，密碼會在 Active Directory 中管理。 內部部署 Security Token Service 會以同盟閘道來協商驗證，而不需透過網際網路將使用者的本機 Active Directory 密碼傳遞至 Office 365。 使用本機密碼原則，或如果是網頁用戶端則使用雙因素驗證。 Outlook 網頁版不包含 [變更密碼] 超連結。 使用者變更密碼，使用標準的內部部署工具，或經由桌面 PC 登入選項。
   
 若您的組織環境中已啟用 [單一登入的目錄同步處理 (SSO) ](/previous-versions/azure/azure-services/dn441213(v=azure.100)) ，且發生中斷，會影響同盟身分識別提供者，同盟登入的密碼同步備份可讓您選擇手動將網域切換至密碼同步處理。使用密碼同步處理會在修復中斷時，存取您的使用者。 瞭解 [如何從單一 Sign-On 切換到密碼同步](https://go.microsoft.com/fwlink/p/?LinkId=509832)處理。
   
@@ -167,7 +167,7 @@ Microsoft 計費管理員可對訂閱詳細資料進行變更，例如使用者�
   
 ## <a name="group-management"></a>群組管理
 
-安全性群組使用於 SharePoint Online 以控制制對網站之存取。 安全性群組可以在 Microsoft 365 系統管理中心建立。 有關安全性群組的詳細資訊，請參閱[建立、編輯或刪除安全性群組](/office365/admin/email/create-edit-or-delete-a-security-group)。
+安全性群組使用於 SharePoint Online 以控制制對網站之存取。 安全性群組可以在 Microsoft 365 系統管理中心中建立。 有關安全性群組的詳細資訊，請參閱[建立、編輯或刪除安全性群組](/office365/admin/email/create-edit-or-delete-a-security-group)。
   
 ## <a name="administrator-roles"></a>系統管理員角色
 

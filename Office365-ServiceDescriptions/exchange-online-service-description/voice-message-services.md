@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 23cc82d51d1afcbd2662e86dd6bc2aeebfb22346
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 42a92a444a49b19d4589dd733426505c92c59e563776728f2ecf02aef53a7b36
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652677"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663586"
 ---
 # <a name="voice-message-services"></a>語音訊息服務
 
@@ -30,17 +30,17 @@ Microsoft Exchange Online 提供託管語音信箱服務，可提供：
     
 - 來電者的撥入介面 (自動語音應答)
     
-託管語音訊息服務可讓公司將其內部部署電話系統連線至 Exchange Online 提供的語音信箱服務。 語音信箱訊息會記錄並儲存在 Exchange Online 基礎結構中，讓使用者能夠從 Outlook、Outlook 網頁或行動電話存取語音訊息。 電話與 Exchange Online 之間的所有連線都需要 Voice-over-IP (VoIP) 通訊協定。 系統管理員可使用 VoIP 媒體閘道和工作階段邊界控制器 (SBC)，將內部部署 IP PBX 或 PBX 電話系統連線至 Exchange Online。 如果客戶已部署 IP PBX 或者 PBX 直接支援 VoIP，且可與 Exchange 語音訊息服務互通，則不需要 VoIP 媒體閘道。 SBC 會部署在客戶網路的周圍，以連接內部部署電話網路並協助保護通訊 (和客戶網路)，防止遭到竊聽和入侵。 此外，也支援與 Microsoft Lync Server 2010 和 2013 語音功能的互通性。
+託管語音訊息服務可讓公司將其內部部署電話系統連線至 Exchange Online 提供的語音信箱服務。 語音信箱訊息會記錄並儲存在 Exchange Online 基礎結構中，允許使用者從 Outlook、Outlook 網頁版或行動電話存取其語音訊息。 電話與 Exchange Online 之間的所有連線都需要 Voice-over-IP (VoIP) 通訊協定。 系統管理員可使用 VoIP 媒體閘道和工作階段邊界控制器 (SBC)，將內部部署 IP PBX 或 PBX 電話系統連線至 Exchange Online。 如果客戶已部署 IP PBX 或者 PBX 直接支援 VoIP，且可與 Exchange 語音訊息服務互通，則不需要 VoIP 媒體閘道。 SBC 會部署在客戶網路的周圍，以連接內部部署電話網路並協助保護通訊 (和客戶網路)，防止遭到竊聽和入侵。 此外，也支援與 Microsoft Lync Server 2010 和 2013 語音功能的互通性。
   
 Exchange Online 中所提供的語音訊息服務功能，與內部部署 Exchange Server 2016 中提供的功能類似。 包括：
   
-- 在電話上播放 Outlook 和 Outlook 網頁。
+- 在電話上播放 Outlook 和 Outlook 網頁版。
     
 - 未接來電通知。
     
 - 來電顯示 (使用全域通訊清單、使用者個人連絡人、自訂 [連絡人] 資料夾及來自外部社交網路之連絡人中的資訊)。
     
-- 從網頁上的 Outlook 和 Outlook (的語音信箱 pin，請參閱[重設語音信箱 pin](/exchange/voice-mail-unified-messaging/set-outlook-voice-access-pin-security/reset-a-voice-mail-pin)) 。
+- 從 Outlook 網頁版和 Outlook 重設語音信箱 pin (請參閱[重設語音信箱 pin](/exchange/voice-mail-unified-messaging/set-outlook-voice-access-pin-security/reset-a-voice-mail-pin)) 。
     
 - 郵件等待指示器 (如需詳細資訊，請參閱 [Exchange Online 中的 MWI](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/mwi-in-exchange-online))。 
     

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: 深入瞭解 Exchange Online 中的郵件原則及符合性。
-ms.openlocfilehash: 22de08fb350785b63db97da7271182eb62980cae
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 135a928aef14695e5dd4d459c3ac60f24ea81a0b91585a3017f6e50591b03226
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652707"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663766"
 ---
 # <a name="message-policy-and-compliance"></a>郵件原則及合規性
 
@@ -25,9 +25,9 @@ ms.locfileid: "51652707"
 
 Exchange Online 信箱位於雲端，封存這些信箱需要獨特的主控環境。在某些情況下，Exchange Online 也可用來封存雲端中的內部部署信箱。本節將說明使用 Exchange Online 封存的選項。
   
-Exchange Online 提供內建的封存功能來封存雲端式信箱，包括提供使用者方便的地方來儲存舊電子郵件訊息的「就地封存」。 In-Place 封存是一種特殊類型的信箱，與使用者的主要信箱資料夾一起出現在 Outlook 和網頁 Outlook 網頁上。 使用者存取和搜尋封存的方式與存取和搜尋主要信箱相同。 可用的功能取決於使用的用戶端：
+Exchange Online 提供內建的封存功能來封存雲端式信箱，包括提供使用者方便的地方來儲存舊電子郵件訊息的「就地封存」。 In-Place 封存是一種特殊類型的信箱，它會顯示在 Outlook 和 Outlook 網頁版中使用者的主要信箱資料夾旁。 使用者存取和搜尋封存的方式與存取和搜尋主要信箱相同。 可用的功能取決於使用的用戶端：
   
-- **Outlook 2016，Outlook 2013，Outlook 2010，以及網頁上的 Outlook** 使用者可以存取封存的完整功能，以及相關的合規性功能，例如控制保留和封存原則。 
+- **Outlook 2016、Outlook 2013、Outlook 2010 及 Outlook 網頁版** 使用者可以存取封存的完整功能，以及相關的合規性功能，例如控制保留和封存原則。 
     
 - **Outlook 2007** 使用者可使用就地封存的基本支援，但並非所有封存和符合性功能都可使用。例如，使用者無法將保留或封存原則套用到信箱項目，而必須改為依賴系統管理員所佈建的原則。 
     
@@ -57,13 +57,13 @@ Exchange Online 提供內建的封存功能來封存雲端式信箱，包括提�
   
 ## <a name="retention-tags-and-retention-policies"></a>保留標記和保留原則
 
-Exchange Online 提供保留原則，可協助組織減少電子郵件和其他通訊相關的責任。 透過這些原則，系統管理員可以將保留設定套用到使用者收件匣中的特定資料夾。 管理員也可以將保留原則的功能表提供給使用者，並讓他們使用 Outlook 2010 或更新版本，或是網頁上 Outlook，將原則套用至特定專案、交談或資料夾。
+Exchange Online 提供保留原則，可協助組織減少電子郵件和其他通訊相關的責任。 透過這些原則，系統管理員可以將保留設定套用到使用者收件匣中的特定資料夾。 管理員也可以將保留原則的功能表提供給使用者，並讓他們使用 Outlook 2010 或更新版本或 Outlook 網頁版，將原則套用至特定專案、交談或資料夾。
   
 在 Exchange Online 中，系統管理員可以使用 Exchange 系統管理中心 (EAC) 或遠端 Windows PowerShell 來管理保留原則。
   
 Exchange Online 提供兩種原則類型：封存原則和刪除原則。您可以在同一個項目或資料夾上結合使用這兩種類型。例如，使用者可以將電子郵件訊息標記在指定天數後自動移到就地封存，並在過了另一段天數之後刪除。
   
-使用 Outlook 2010 或更新版本，以及在網頁上 Outlook，使用者可以將保留原則套用至資料夾、交談或個別郵件。 他們也可以檢視套用的保留原則以及郵件的預定刪除日期。 其他電子郵件用戶端的使用者則只能根據系統管理員設定的伺服器端保留原則刪除或封存電子郵件訊息。
+在 Outlook 2010 或更新版本以及 Outlook 網頁版中，使用者可以將保留原則套用至資料夾、交談或個別郵件。 他們也可以檢視套用的保留原則以及郵件的預定刪除日期。 其他電子郵件用戶端的使用者則只能根據系統管理員設定的伺服器端保留原則刪除或封存電子郵件訊息。
   
 Exchange Online 提供的保留原則功能與 Exchange Server 2010 Service Pack 2 RU4 所提供的相同。系統管理員可以使用遠端 Windows PowerShell，將保留原則從內部部署 Exchange Server 2010 或更新版本的環境移轉到 Exchange Online。
   
@@ -192,7 +192,7 @@ Exchange Online 可讓客戶使用網路型介面搜尋整個組織中的信箱�
     
 - 使用「文件指紋」偵測敏感表單資料。「文件指紋」會協助您根據可用於定義傳輸規則和 DLP 原則的文字型表單，輕易地建立自訂敏感資訊類型。
     
-- 新增原則提示，其可讓您在 Outlook 2016 上顯示通知、Outlook 2013、Outlook 網頁上的通知，以及裝置使用者的 OWA，也可以透過允許誤報的方式，來改善資料遺失的效能。 
+- 新增原則提示，它會向您的 Outlook 2016 （Outlook 2013、Outlook 網頁版和 OWA for 裝置使用者）顯示通知，以協助減少資料遺失，也可以透過允許誤報，提高原則的效能。 
     
 - 檢閱 DLP 報告中的事件資料，或使用產生事件報告動作來新增您自己的特定報告。
     

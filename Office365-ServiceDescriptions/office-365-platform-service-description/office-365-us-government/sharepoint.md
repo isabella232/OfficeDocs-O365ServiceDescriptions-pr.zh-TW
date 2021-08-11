@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 深入瞭解美國政府雲端客戶的 SharePoint 功能可用性。
-ms.openlocfilehash: cec996804ab0d402d2bcccd89b8bbfb5e7f70905
-ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
+ms.openlocfilehash: ed8c3581411a99631b328e6aceca50bcb7c6e446227266824a0f66916fa62216
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "51900773"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701822"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>適用于美國政府環境的 SharePoint
 
@@ -39,7 +39,7 @@ ms.locfileid: "51900773"
 商業客戶的開發人員功能和政府雲端客戶的開發人員功能都沒有已知的差異。
 
 - 外部應用程式的連線（如增益集的資料來源）會受限於位於政府環境所支援之系統安全性界限內的來源。
-- 在您的雲端服務安全性界限內可存取資料來源的情況下，支援 Business Connectivity Services (BCS) 功能。
+- Business Connectivity在您的雲端服務安全性界限內可存取資料來源的連線情況下，可支援服務 (BCS) 功能。
 
 如果您在網站上使用協力廠商應用程式，請在評估組織的適當使用服務時，複查協力廠商所提供的隱私權和符合性聲明。 協力廠商的應用程式和服務可能涉及在政府雲端以外的協力廠商系統上儲存、傳送和處理組織的客戶資料，因此不在其合規性和資料保護承諾範圍內。 
 
@@ -81,7 +81,7 @@ ms.locfileid: "51900773"
 
 以下是商務客戶與政府雲端客戶之搜尋功能之間的差異：
 
-- 在 GCC 中無法使用 Microsoft 搜尋。
+- GCC 中無法使用 Microsoft 搜尋。
 
 ## <a name="sharing-and-sync"></a>共用及同步處理
 
@@ -94,5 +94,5 @@ ms.locfileid: "51900773"
 ## <a name="deploy-sharepoint-for-collaboration"></a>部署協同 SharePoint 以進行共同作業
 
 在 Microsoft US 政府雲端中設定組織之後，請遵循[SharePoint 採用資源中心](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/)中所述的建議部署途徑。 請務必與您的採用和變更管理擁護者接洽。
-您也可以使用 [FastTrack](https://www.microsoft.com/fasttrack) 或您所選的合作夥伴，向您的使用者推出服務。
+您也可以使用[FastTrack](https://www.microsoft.com/fasttrack)或您所選的合作夥伴，向您的使用者推出服務。
 若要深入瞭解 Microsoft 的安全性、隱私權及合規性，請造訪 [Microsoft 信任中心](https://www.microsoft.com/trust-center) ，以瞭解如何讓組織為客戶服務的核心原則。

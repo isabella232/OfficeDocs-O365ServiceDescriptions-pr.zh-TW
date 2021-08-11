@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: 78d6b6a448c1602bad52739aafa26512d5a90816
-ms.sourcegitcommit: 74fda292066b57169e19c846f0a315221f1a8334
+ms.openlocfilehash: 4d3f9ff8f649a748668c3f3156166cb913612acd6a72811a9870604de4d560d2
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/26/2021
-ms.locfileid: "53590127"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701635"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 

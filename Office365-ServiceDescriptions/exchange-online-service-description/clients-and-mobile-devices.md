@@ -11,13 +11,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-description: Exchange Online 可搭配 Outlook 的桌面和行動版本，以及網頁上的 Outlook 使用。
-ms.openlocfilehash: 3aa0c2bbdf9b55b6a3544919143fd9d5e5cfed24
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Exchange Online 可搭配 Outlook 的桌面和行動版本，以及 Outlook 網頁版使用。
+ms.openlocfilehash: 3e612d9f157cb4109dfc2bef9bfa462445674dd9d19954ca9fe6ac32004ad515
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653115"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664046"
 ---
 # <a name="clients-and-mobile-devices"></a>用戶端和行動裝置
 
@@ -54,9 +54,9 @@ Outlook 網頁版是網路架構版本的 Outlook 電子郵件程式，搭配 Ex
   
 Outlook 網頁版有兩種用戶端版本，皆可搭配 Exchange Online 使用：
   
-- **Outlook 網頁** 版-Outlook 網頁上的標準版，可提供 Exchange Online 的使用者，其訊息經驗與 Outlook 使用者的訊息經驗類似。 它支援最新的網路瀏覽器，無論使用平板電腦、智慧型手機、桌上型電腦和筆電，都提供高效能運用。 使用者可以讀取和傳送郵件、組織連絡人，以及排定約會與會議。 預設的以活動為基礎的逾時是設定為 6 小時，但是可以 [由系統管理員在 Windows PowerShell 中設定](/powershell/module/exchange/set-organizationconfig)，從 5 分鐘到 8 小時不等。 此超時取決於 web 應用程式中的使用者互動，例如選取按鈕或選取郵件。 另外也有由安全性驅動的個別逾時，這個逾時無法設定且不論使用者活動如何都會發生。 如果使用者已經登入長達 8 小時，OWA 將會自動把使用者登出並要求重新驗證。 
+- **Outlook 網頁版**-Outlook 網頁版 standard 版本可提供 Exchange Online 的使用者與 Outlook 使用者類似的訊息經驗。 它支援最新的網路瀏覽器，無論使用平板電腦、智慧型手機、桌上型電腦和筆電，都提供高效能運用。 使用者可以讀取和傳送郵件、組織連絡人，以及排定約會與會議。 預設的以活動為基礎的逾時是設定為 6 小時，但是可以 [由系統管理員在 Windows PowerShell 中設定](/powershell/module/exchange/set-organizationconfig)，從 5 分鐘到 8 小時不等。 此超時取決於 web 應用程式中的使用者互動，例如選取按鈕或選取郵件。 另外也有由安全性驅動的個別逾時，這個逾時無法設定且不論使用者活動如何都會發生。 如果使用者已經登入長達 8 小時，OWA 將會自動把使用者登出並要求重新驗證。 
 
-- **web 上 Outlook 的燈光版本**-Outlook 網頁上的輕量，可 Exchange Online 讓使用者使用幾乎任何網頁瀏覽器存取信箱。 使用者可以讀取和傳送郵件、組織連絡人，以及排定約會與會議。 預設的以活動為基礎的逾時是設定為 6 小時，但是可以 [由系統管理員在 Windows PowerShell 中設定](/powershell/module/exchange/set-organizationconfig)，從 5 分鐘到 8 小時不等。 此超時取決於 web 應用程式中的使用者互動，例如選取按鈕或選取郵件。 另外也有由安全性驅動的個別逾時，這個逾時無法設定且不論使用者活動如何都會發生。 如果使用者已經登入長達 8 小時，精簡版的 OWA 將會自動把使用者登出並要求重新驗證。 
+- **Outlook 網頁版** 的精簡版 Outlook 網頁版提供 Exchange Online 使用者使用幾乎任何網頁瀏覽器存取信箱的功能。 使用者可以讀取和傳送郵件、組織連絡人，以及排定約會與會議。 預設的以活動為基礎的逾時是設定為 6 小時，但是可以 [由系統管理員在 Windows PowerShell 中設定](/powershell/module/exchange/set-organizationconfig)，從 5 分鐘到 8 小時不等。 此超時取決於 web 應用程式中的使用者互動，例如選取按鈕或選取郵件。 另外也有由安全性驅動的個別逾時，這個逾時無法設定且不論使用者活動如何都會發生。 如果使用者已經登入長達 8 小時，精簡版的 OWA 將會自動把使用者登出並要求重新驗證。 
 
 Outlook 網頁版也有行動版本。如需詳細資訊，請參閱[此頁面](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409)。
   
@@ -72,7 +72,7 @@ Exchange Online 可搭配適用于 iOS、Android 及 Windows Phone Outlook 應�
 |:-----|:-----|:-----|:-----|
 |Outlook 行動應用程式可用性  <br/> |是  <br/> [取得 Android 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |是  <br/> [取得 iOS 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |內建  <br/> |
 |與 Exchange Online 相容的內建電子郵件應用程式  <br/> |Gmail app/Samsung 電子郵件應用程式  <br/> |iOS 郵件應用程式  <br/> |Outlook郵件、行事曆、連絡人  <br/> |
-|其他相關資訊  <br/> |[Android mobile 設定](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone 或 iPad 安裝程式](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone 安裝程式](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
+|詳細資訊  <br/> |[Android mobile 設定](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone 或 iPad 安裝程式](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone 安裝程式](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
 
 您也可以使用具有裝置（包括 Blackberry）的 Exchange Online 的選項。
   

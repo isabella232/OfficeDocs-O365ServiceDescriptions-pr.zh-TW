@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft 十分重視與客戶之間的合作關係，且致力於保護客戶資料的隱私和安全性。如需詳細資訊，請參閱 Microsoft 信任中心。
-ms.openlocfilehash: d3a9552d30bc947da36306b1a37fd53fc9d28319
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 06ca7c3afa81aa31b559c115972d9c2c02b2b06757032282672e536f78d0dd1a
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652527"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701832"
 ---
 # <a name="privacy-security-and-transparency"></a>隱私權、安全性和透明化
 
@@ -54,7 +54,7 @@ Customer Lockbox 隨附於 Office 365 企業版 5 計劃，您也可以隨著其
   
 ## <a name="microsoft-defender-for-office-365"></a>適用於 Office 365 的 Microsoft Defender
 
-Office 365 的 Defender 可協助您的組織抵禦惡意程式碼和病毒。 Office 365 的 Defender 包含[安全的連結](/office365/securitycompliance/atp-safe-links)、[安全附件](/office365/securitycompliance/atp-safe-attachments)、[反網路釣魚](/office365/securitycompliance/atp-anti-phishing)和[欺騙性智慧](/office365/securitycompliance/learn-about-spoof-intelligence)功能。 安全連結可主動保護使用者免受郵件中惡意的超連結，並在每次選取連結時提供保護。 安全附件可防止未知的惡意程式碼和病毒，將所有沒有已知病毒/惡意程式碼簽名的郵件和附件路由傳送至特殊環境，而 Office 365 的 Defender 可偵測惡意目的。 如需有關 Office 365 的 Defender 的詳細資訊，請參閱[Microsoft defender for Office 365 service description](../office-365-advanced-threat-protection-service-description.md)。
+Office 365 的 Defender 可協助您的組織抵禦惡意程式碼和病毒。 Office 365 的 Defender 包括[保管庫連結](/office365/securitycompliance/atp-safe-links)、[保管庫附件](/office365/securitycompliance/atp-safe-attachments)、[反網路釣魚](/office365/securitycompliance/atp-anti-phishing)和[欺騙的智慧](/office365/securitycompliance/learn-about-spoof-intelligence)功能。 保管庫連結會主動保護您的使用者免受郵件中惡意的超連結，並在每次選取連結時提供保護。 保管庫附件可防止未知惡意程式碼和病毒，將所有未已知病毒/惡意程式碼簽名的郵件和附件路由傳送至特殊環境，而 Office 365 的 Defender 可偵測惡意目的。 如需有關 Office 365 的 Defender 的詳細資訊，請參閱[Microsoft defender for Office 365 service description](../office-365-advanced-threat-protection-service-description.md)。
   
 ## <a name="feature-availability"></a>功能可用性
 

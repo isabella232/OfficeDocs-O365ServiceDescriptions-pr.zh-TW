@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Yammer 中提供下列設定檔功能。
-ms.openlocfilehash: ac686eccca1536c3c06b3211c401b6f1822a8703
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 473264db67c0b4d7555e49a2a0a1d1154a5244b969168ed4f691f29c0398cc84
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653005"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702292"
 ---
 # <a name="profile-features-in-yammer"></a>Yammer 中的設定檔功能
 

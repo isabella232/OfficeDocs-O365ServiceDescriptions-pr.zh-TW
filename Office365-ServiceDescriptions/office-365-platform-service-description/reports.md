@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Microsoft 的系統管理員可以查看顯示組織如何使用 Microsoft 服務的報表。 您能使用這些報告來發出小組網站問題、篩選資料並下載資料至 Microsoft Excel。 您也可以使用 Microsoft 365 報告 web 服務來建立您自己的報表。 Exchange Online 和 Exchange Online Protection (EOP) 系統管理員可以使用郵件保護報告來查看有關惡意程式碼、垃圾郵件和規則偵測的資料。
-ms.openlocfilehash: d9c4b82952882e02142d386120347f7de554b45b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 7dc7dcea9a7d09304f06740157213705bf8ca73dfd42d21c9353d554de0525c3
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652497"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702002"
 ---
 # <a name="reports"></a>報告
 

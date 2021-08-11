@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics 功能、分配、隱私權及必要條件
-ms.openlocfilehash: a63528b3cf3da8328380bbfd309675e49f099fab
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: eaf1d962afd24b92eecb952f4d5e58204d981c691ffce7170d71527936591245
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652597"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663086"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 服務描述
 
@@ -42,7 +42,7 @@ MyAnalytics 包含下列元素：
 遵循下列指導方針時，MyAnalytics 會保護員工隱私權，並支援與當地法規的相容性：
 
 * MyAnalytics 並非設計用來進行員工評估、追蹤、自動化決策、分析或監控。
-* MyAnalytics 不會讓員工能夠存取其他同事上的新個人身分識別資訊。
+* MyAnalytics 不會讓員工存取其他同事新的可識別個人資訊。
 * MyAnalytics 資料會經過處理並儲存在員工的 Exchange Online 信箱。
 * MyAnalytics 支援一般資料保護規定 (GDPR) 合規性。
 * 您可以將 MyAnalytics 設定為每個人都必須自行選擇加入。
@@ -53,6 +53,6 @@ MyAnalytics 包含下列元素：
 
 [深入瞭解 MyAnalytics 可如何協助您更聰明地運作](https://products.office.com/business/myanalytics-personal-analytics)。
 
-## <a name="prerequisites"></a>必要條件
+## <a name="prerequisites"></a>先決條件
 
 * [Microsoft Exchange Online](./exchange-online-service-description/exchange-online-service-description.md)

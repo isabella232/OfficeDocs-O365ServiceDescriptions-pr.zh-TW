@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 如果您是系統管理員，您可以在線上商務用 Skype 中找到設定商務用 Skype 線上功能的詳細指示。
-ms.openlocfilehash: aa460f5338a74c65cc90212b91bcbd1ae2f8f947
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 4ce4e1e35f4a091677f5ee53b2073d1a702065fc91fcb4c6deed05d35d9aa38d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651018"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702462"
 ---
 # <a name="skype-for-business-online-features"></a>商務用 Skype Online 功能
 
@@ -87,9 +87,9 @@ Microsoft 流量 (會使用傳輸層安全性 (TLS) 通訊協定) 加密信號�
   
 在某些訂閱者案中，商務用 Skype 可以與 Exchange Online 整合通訊 (UM) 整合，以：
   
-- 將語音訊息與電子郵件合併到可從商務用 Skype 用戶端取得的單一郵件基礎結構。 ExchangeUM 和商務用 Skype 協同運作，以提供呼叫回應、Outlook 語音存取和自動語音應答服務。
+- 將語音訊息與電子郵件合併到可從商務用 Skype 用戶端取得的單一郵件基礎結構。 ExchangeUM 和商務用 Skype 協同運作以提供呼叫回應、Outlook 語音存取和自動語音應答服務。
     
-- 在 web 上啟用 Outlook，以提供 IM、顯示狀態、根據 Exchange 行事曆資訊進行更新，以及商務用 Skype 會議排程。
+- 啟用 Outlook 網頁版以提供 IM、顯示狀態、根據 Exchange 行事曆資訊的更新狀態，以及商務用 Skype 會議排程。
     
 商務用 Skype 會與內部部署 Microsoft SharePoint Server 進行交互操作，以進行目前狀態，以及 SharePoint 網站中的按一下與通訊。 此互通性需要在使用者桌面上執行商務用 Skype 用戶端。 
   

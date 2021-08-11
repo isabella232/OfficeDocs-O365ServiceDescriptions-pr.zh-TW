@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel 網頁版 (過去 Excel 的 web App) 會將您的 Microsoft Excel 體驗延伸至網頁瀏覽器，您可以在其中儲存活頁簿的網站上直接使用活頁簿。 所有客戶皆可使用 Office 網頁版來查看及輕微編輯 Office 檔案。
-ms.openlocfilehash: 208ae8703441a2544eeac4549f52597ced1e4259
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: fcb8211f8f37a6ce5b96ba2788ac72ebbd74c82b7dd857e58611547342670779
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699069"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702012"
 ---
 # <a name="excel-for-the-web"></a>Excel 網頁版
 

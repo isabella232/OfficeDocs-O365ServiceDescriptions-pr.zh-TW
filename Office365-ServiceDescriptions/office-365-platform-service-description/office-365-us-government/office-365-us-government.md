@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已 Office 365 美國政府方案 (或 Office 365 政府版) 中建立的。 本文概要說明 Office 365 政府版 US 環境所特有的功能。
-ms.openlocfilehash: d958835f906fa256ff5bfce3435f8c6d36458407
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: e9d0b23037cb3b033e55fe143c98830707efb45a29b4fc25d6f6f2a4e727bc4f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537229"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701891"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -91,7 +91,7 @@ Office 365 提供的功能，可將協力廠商應用程式整合至 SharePoint 
 
 Microsoft 系統管理員 Office 365 政府版客戶內容的存取權僅限於已遮罩式的人員。 如需詳細的篩選層級詳細資料，請參閱每個個別環境 (GCC 或 GCC 高及 DoD) 的 [服務描述] 頁面。
 
-## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack 中心上架協助
+## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack中心上架協助
 
 Office 365<sup>1</sup>的 FastTrack 中心受益，您可以與 FastTrack 專家遠端合作，讓您的 Office 365 環境做好使用，並規劃組織內的首展和使用方式。 FastTrack 程序提供上架和使用者採用服務。
 
@@ -103,14 +103,14 @@ Office 365<sup>1</sup>的 FastTrack 中心受益，您可以與 FastTrack 專家
 
 使用者採用服務是由為您提供指導方針，以確保您的使用者瞭解合格服務，並可使用這些服務來推動商業價值的任務。 這項協助會與上架活動同時進行。
 
-您可以在 [這裡](/FastTrack/us-gov-appendix-overview)找到 FastTrack 中心流程的特定資訊。 如需預訂角色和責任的細分，請複習 [FastTrack 責任](/FastTrack/us-gov-appendix-fasttrack-responsibilities) 以及 [您的責任](/FastTrack/us-gov-appendix-your-responsibilities)。
+您可以在[這裡](/FastTrack/us-gov-appendix-overview)找到 FastTrack 中心流程的特定資訊。 如需預訂角色和責任的細分，請複習[FastTrack 責任](/FastTrack/us-gov-appendix-fasttrack-responsibilities)以及[您的責任](/FastTrack/us-gov-appendix-your-responsibilities)。
 
-> <sup>1</sup> 您必須從可接收 FastTrack 服務的 [合格方案](/fasttrack/eligibility) 清單中至少購買150個授權。
+> <sup>1</sup>您必須從可接收 FastTrack 服務的[合格方案](/fasttrack/eligibility)清單中至少購買150個授權。
 <br/><sup>2</sup>資料移轉服務可用於 Office 365 含500或更多授權的承租人。
 
 ## <a name="data-migrations-performed-by-fasttrack"></a>FastTrack 所執行的資料移轉
 
-選擇 [FastTrack](https://fasttrack.microsoft.com/) 遷移權益的客戶將需要授與管理其資料移轉的小組存取權。 在為 Office 365 美國政府服務的客戶執行遷移之前，這些人員都是美國公民，並會進行下列背景檢查。<br><br>
+選擇[FastTrack](https://fasttrack.microsoft.com/)遷移權益的客戶將需要授與管理其資料移轉的小組存取權。 在為 Office 365 美國政府服務的客戶執行遷移之前，這些人員都是美國公民，並會進行下列背景檢查。<br><br>
 
 |背景遮罩|GCC|GCC High 和 DoD|
 |---|---|---|

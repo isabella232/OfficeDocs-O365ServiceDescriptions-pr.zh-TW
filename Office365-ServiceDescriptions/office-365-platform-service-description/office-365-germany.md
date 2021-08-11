@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365德國是一種不同的選項，來自歐洲已提供的 Office 365 服務。 它可協助您利用德國法律所規定的獨特資料受信者模型，為數字工作（從德文資料中心）提供業界領先的生產力服務，以在德國、歐盟 (EU) 和歐盟自由交易協會 (EFTA) 中，協助滿足最受管制客戶的需求。
-ms.openlocfilehash: 9ef9b295840bcbf7f2a216dd07c16b44c955d74b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: d2e3e06483ca0a09cfe4f5f9e6028948dc8f03983281420786c535f5f1479d48
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653495"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701672"
 ---
 # <a name="office-365-germany"></a>Office 365 德國
 
@@ -45,7 +45,7 @@ Office 365德國是一種不同的選項，來自歐洲已提供的 Office 365 �
 |Azure 資訊保護|否|否|否|否|否|否|否|否|
 
 > [!NOTE]
-> <sup>1</sup>雲端式訂閱服務與相關的功能，包括可以在其中設定使用者和網域的 Microsoft 365 系統管理中心。 <br/>
+> <sup>1</sup>雲端式訂閱服務與相關的功能，包括您可以設定使用者和網域的 Microsoft 365 系統管理中心。 <br/>
 <sup>2</sup> 您可以單獨購買 Office 365 專業增強版 計劃。 Office 365 專業增強版 隨附於 Office 365 Germany 企業版 E3 和 Office 365 Germany 企業版 E4。 [必須啟用新式驗證](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a)，才能搭配 Office 365 Germany 使用。 <br/>
 <sup>3</sup> Project Online 和 Power BI 並不包含在內，但可以當做附加服務來單獨購買，若是 Office 365 Germany 教育版 A1 方案，則可免費新增此功能。<br/>
 <sup>4</sup> Visio 網頁消費 (view 功能) 可供免費使用。 Visio 網頁版建立和編輯功能需要授權。 如需有關 web Visio 的詳細資訊，請參閱[web 服務說明的 Visio](../visio-online-service-description/visio-online-service-description.md)。
@@ -415,7 +415,7 @@ Office 365德國遵循 Office 365 的雲端安全性和符合性標準。 Office
 |公用資料夾|是|是|是|是|是|是|是|否|
 |**[用戶端和行動裝置](../exchange-online-service-description/clients-and-mobile-devices.md)**|**Office 365 Germany 商務基本版**|**Office 365 Germany 商務版**|**Office 365 Germany 商務進階版**|**Office 365 Germany 教育版 A1**|**Office 365 Germany 企業版 E1**|**Office 365 Germany 企業版 E3**|**Office 365 Germany 企業版 E4**|**Office 365 Germany 企業版 K1**|
 |Windows<sup>14</sup>的 Outlook|是|是|是|是|是|是|是| 無 <sup>11</sup>|
-|網頁<sup>14</sup>上的 Outlook|是|是|是|是|是|是|是|是|
+|Outlook 網頁版<sup>14</sup>|是|是|是|是|是|是|是|是|
 |Mac 版 Outlook<sup>14</sup>|是|是|是|是|是|是|是|是|
 |iOS 和 Android<sup>14</sup>的 Outlook|否|否|否|否|否|否|否|否|
 |Exchange ActiveSync|是|是|是|是|是|是|是|是|
@@ -488,7 +488,7 @@ Office 365德國遵循 Office 365 的雲端安全性和符合性標準。 Office
 |[隔離](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine)：使用者自我管理|是|是|是|
 |[高級資料管理](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|否|是|是|
 |[Office 365 威脅情報](/microsoft-365/security/office-365-security/office-365-ti)<sup>18</sup>|否|是|是|
-|[網頁 Outlook 中的垃圾郵件報告](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|是<sup>8</sup>|無<sup>8</sup>|無<sup>8</sup>|
+|[Outlook 網頁版中的垃圾郵件報告](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|是<sup>8</sup>|無<sup>8</sup>|無<sup>8</sup>|
 |[在 Microsoft 和您自己的電子郵件伺服器之間路由傳送電子郵件](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|是|是|是|
 |[與信任的合作夥伴間的安全傳訊](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|是|是|是|
 |[安全列出夥伴的 IP 位址](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|是|是|是|
@@ -504,7 +504,7 @@ Office 365德國遵循 Office 365 的雲端安全性和符合性標準。 Office
 > [!NOTE]
 > <sup>1</sup> 郵件使用者會定義為「信箱」，而且可以連同外部郵件連絡人直接在 Exchange 系統管理中心 (EAC) 中新增、移除或管理。<br/>
 <sup>2</sup> 沒有 RBAC 自訂。 僅限系統管理員角色。<br/>
-<sup>3</sup> 在 EAC 中，可檢視受管理網域和編輯網域類型。 所有其他網域管理都必須在 Microsoft 365 系統管理中心完成。<br/>
+<sup>3</sup> 在 EAC 中，可檢視受管理網域和編輯網域類型。 所有其他網域管理都必須在 Microsoft 365 系統管理中心中完成。<br/>
 <sup>4</sup>郵件流程規則 (也稱為「傳輸規則」) 在 EOP 中的[郵件流程規則中所述 (傳輸規則) 于 Exchange Online Protection 中](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)。 EOP 和 Exchange Online 之間可用的郵件流程規則條件、例外狀況和動作稍有不同。 這些差異會記入[郵件流程規則條件和例外狀況 () 中 Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)和[郵件流程規則動作中 Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)。<br/>
 <sup>5</sup> EOP 稽核報告是 Exchange Online 稽核報告的子集，但不包括信箱的相關資訊。<br/>
 <sup>6</sup> DLP 原則祕訣不適用於 Exchange Enterprise CAL with Services 客戶。<br/>
@@ -727,7 +727,7 @@ Office 365德國遵循 Office 365 的雲端安全性和符合性標準。 Office
 |Connections to Microsoft Office Clients|是|是|是|是|是|是|是|是|
 |跨瀏覽器支援|是|是|是|是|是|是|是|是|
 |自訂管理路徑|否|否|否|否|否|否|否|否|
-|治理|是|是|是|是|是|是|是|是|
+|控管|是|是|是|是|是|是|是|是|
 |混合式應用程式啟動器|是|是|是|是|是|是|是|是<sup>19</sup>|
 |商務和網站的混合式 OneDrive|是|是|是|是|是|是|是|是<sup>19</sup>|
 |大量清單延展性和管理|是|是|是|是|是|是|是|是|

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: 當您新增網域時，逐步嚮導會協助您新增使用者，並將您的電子郵件地址和其他服務轉換為您的公司名稱。 當您完成該嚮導後，您的企業電子郵件會從 Microsoft 開始，而不是移至目前的電子郵件提供者。 若要深入瞭解，請參閱將您的使用者與網域新增至 Microsoft。 如果使用 21Vianet 運作的 Office 365，請參閱驗證您的網域。
-ms.openlocfilehash: 72ea4e88d659d7a6004888c45bb233832978fd34
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 591364950fda2ebc070255a010435a74c4f2e6c41882236a1e35b987ba54c605
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652567"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54662986"
 ---
 # <a name="domains"></a>網域
 
@@ -43,7 +43,7 @@ ms.locfileid: "51652567"
   
 不論您的 DNS 記錄的主控位置為何，您都可以設定 DNS 記錄，以將您的網域用於 Microsoft 或其他主機服務提供者所主控之公用網站的 URL。 
   
-Microsoft 主動檢查您的 DNS 記錄，以尋找及協助修正 DNS 問題。 如果您的 DNS 記錄不符合我們預期的記錄，您會收到 Microsoft 365 系統管理中心的通知，以及告訴您如何修正已識別的可能問題的資訊。
+Microsoft 主動檢查您的 DNS 記錄，以尋找及協助修正 DNS 問題。 如果您的 DNS 記錄不符合我們預期的記錄，您會收到 Microsoft 365 系統管理中心中的通知，以及告訴您如何修正已識別的可能問題的資訊。
   
 如需詳細資訊，請參閱[Microsoft 如何管理 dns 記錄](/office365/admin/setup/domains-faq)，或在由世紀運作的 Office 365 中，查看[當您管理 dns 記錄時 Office 365 建立 dns 記錄](/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records)。
   

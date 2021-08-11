@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: 深入瞭解 Microsoft 365 和 Office 365 教育版計畫之間的差異。
-ms.openlocfilehash: 89e5eedf56e0f2240c2e5de05f6e60e167b2b453
-ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
+ms.openlocfilehash: c5bd3717da582fa2483f423b6519c72641143ad0a320c3e5697aed0c5eb1dbc8
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2021
-ms.locfileid: "53290843"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54662996"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -66,7 +66,7 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 |Azure Active Directory Basic|是|是|是|是|是|是|是|是|是|
 |Azure Active Directory 方案 1|否|否|否|是|否|否|否|是|是|
 |Azure Active Directory 方案 2|否|否|否|否|是|否|否|否|是|
-|**合規性**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 學生使用權益**|**Office 365 A5 學生使用權益**|**Microsoft 365 教育版A3 學生使用權益**|**Microsoft 365 教育版A5 學生使用權益**|
+|**合規性**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 學生使用權益**|**Office 365 A5 學員使用權益**|**Microsoft 365 教育版學生使用權益**|**Microsoft 365 教育版的學生使用權益**|
 |Office 365 版權管理|是|是|是|是|是|是|是|是|是|
 |Azure 資訊保護方案1|否|否|否|是|否|否|否|否|否|
 |Azure 資訊保護方案 2|否|否|否|否|是|否|否|否|否|
@@ -76,7 +76,7 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 |進階 eDiscovery|否|否|是|否|是|否|否|否|否|
 |資料遺失防護 (的電子郵件和檔案的 DLP) |是|是|是|是|是|是|是|是|是|
 |Endpoint DLP|否|否|否|否|是|否|否|否|否|
-|通訊 DLP (Teams 聊天) |否|否|是|否|是|否|否|否|否|
+|通訊 DLP (小組聊天) |否|否|是|否|是|否|否|否|否|
 |通訊合規性|否|否|是|否|是|否|否|否|否|
 |客戶金鑰|否|否|是|否|是|否|否|否|否|
 |基本審核|是|是|是|是|是|是|是|是|是|

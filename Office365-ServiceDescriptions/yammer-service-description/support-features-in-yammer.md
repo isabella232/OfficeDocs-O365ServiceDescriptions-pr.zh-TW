@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Yammer 中提供下列支援功能。
-ms.openlocfilehash: fe95a1f768e4ac12dd9c4dcd72c684784e21b45b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 22def2d6dd1eccbff98503703fbd6e44878ad1092769efd80795c0705196ac05
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653515"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702172"
 ---
 # <a name="support-features-in-yammer"></a>Yammer 中的支援功能
 

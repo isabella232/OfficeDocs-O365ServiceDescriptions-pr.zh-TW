@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 深入瞭解 Office 365 GCC 高和 DoD 環境的獨特承諾和差異，與 Office 365 的商業環境相較。
-ms.openlocfilehash: 5446d5d1e6e10649a75f001c92f0d970e2fae842
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: b7e3934f20d5d7c489391fac99f5c323b7f553040d4d52ff4df1826e5cb3d830
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653455"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664406"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC 高和 DoD
 
@@ -83,7 +83,7 @@ GCC 高和 DoD 環境中的訂閱包含核心 Exchange Online、SharePoint 及�
 - [透過直接路由電話系統](/microsoftteams/here-s-what-you-get-with-phone-system)
 - [適用於 GCC High 和 DoD 的音訊會議搭配直接路由](/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
 
-### <a name="identity"></a>Identity
+### <a name="identity"></a>身分識別
 
 由於使用了多重要素驗證的同盟識別身分模型，因此可支援 PIV 和 CAC 卡的使用。
   

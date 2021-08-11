@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 為了符合美國聯邦、State、Local 和部落政府的獨特和不斷演變的需求，以及承包商代表美國政府持有或處理資料，Microsoft 提供 Office 365 美國政府 Community (GCC) 服務。 可透過包括大量授權等多個管道提供，有需要的組織請在建立環境之前通過驗證程序，以確保資格。 試用版目前僅供美國政府實體使用。
-ms.openlocfilehash: ec2ae92fb334acb56b94c35e5e0651396e959260
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 83c96657bf45e68578f8bf85da257104bcb1412178bcf7f145e335dd80d47165
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653165"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701882"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -41,7 +41,7 @@ Office 365 人員無法存取主控于 Office 365 政府版 GCC 環境中的客�
 |工作經歷檢查  <br/> |七 (7) 年工作經驗的驗證  <br/> |
 |教育驗證  <br/> |取得之最高學位驗證  <br/> |
 | (SSN) 搜尋的社會安全號碼  <br/> |所提供之 SSN 為有效的驗證  <br/> |
-|刑事病史檢查  <br/> |州、郡及地方層級和聯邦層級之重刑和民事案件的七 (7) 年刑事案件記錄  <br/> |
+|刑事案件記錄檢查  <br/> |州、郡及地方層級和聯邦層級之重刑和民事案件的七 (7) 年刑事案件記錄  <br/> |
 |海外資產控制辦公室 (OFAC)  <br/> |美國人民不允許參與貿易或財務交易之財政部團體清單驗證  <br/> |
 |工業和安全局清單 (BIS)  <br/> |商務部禁止從事出口活動之個人與實體清單驗證  <br/> |
 |防衛辦公室貿易控制排除人員清單 (DDTC)  <br/> |國務院禁止從事國防工業相關之出口活動的個人與實體清單驗證  <br/> |

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。 如果您想要知道 Office 365 教育版方案有何差異，本文將說明各方案中包含的功能。 Office 365 與知名的 Microsoft Office 桌面套件結合，搭載 Microsoft 新一代通訊與共同作業服務的雲端架構版本 (包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office 網頁版，以及 Microsoft 商務用 Skype Online)，讓使用者可透過網際網路在任何地點執行工作。
-ms.openlocfilehash: 259f6823fd414230d3653051f94f8982661417c3
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 7955cf1d3d2aa2d9599d5b43cfa103a68f3b15f4f94545c8c8aff08790074853
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653215"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663016"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -489,7 +489,7 @@ Microsoft Exchange Online 中的限制屬於下列其中一個類別：
 可用的信箱儲存容量取決於信箱類型和使用者的訂閱授權。管理員可降低單一使用者或全域的最高信箱大小。
   
 > [!NOTE]
-> 不允許使用日誌記錄、傳輸規則或自動轉寄規則將郵件複製到 Exchange Online 信箱以進行封存。 使用者的封存信箱僅供該使用者使用。 Microsoft 保留在使用者封存信箱中用來儲存其他使用者之封存資料的執行個體中或是其他不當使用案例中拒絕不受限封存的權限。
+> 不允許使用日誌記錄、傳輸規則或自動轉寄規則將郵件複製到 Exchange Online 信箱以進行封存。使用者的封存信箱僅供該使用者使用。當使用者的封存信箱用於為其他使用者儲存封存資料或在其他不當使用情況下，Microsoft 保留拒絕無限制封存的權利。。
   
 | 功能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -587,7 +587,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 - **檔附件大小限制** -單一附件的檔案大小上限。 
     
     > [!NOTE] 
-    > 這是單一附件的檔案大小上限。 個別用戶端方案 (包括網頁版 Outlook) 可能會規定附件大小需低於此上限。 Exchange ActiveSync 未針對個別附件實作附件大小限制。 Exchange ActiveSync 郵件的所有附件大小總和必須小於郵件大小限制。 
+    > 這是單一附件的檔案大小上限。個別用戶端方案 (包括 Outlook 網頁版) 可能會規定附件大小需低於此上限。Exchange ActiveSync 未針對個別附件實作附件大小限制。Exchange ActiveSync 郵件的所有附件大小總和必須小於郵件大小限制。 
   
 - **多部分郵件限制** -MIME 多部分郵件中允許的郵件內文部分數目上限。 此限制也會控制郵件允許的檔案附件數目上限。 
     
@@ -696,7 +696,7 @@ Exchange Online 在使用者信箱接近容量上限或已達上限時提供三�
 |使用者可以建立的群組數目上限  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 如果您是使用 Azure Active Directory DirSync，則您可以從內部部署 Active Directory 同步到 Azure Active Directory 的通訊群組成員最大數量為 15,000。 如果您使用的是 Azure AD Connect，則該數量為 50,000。 <br/> 
+> <sup>1</sup> 如果您是使用 Azure Active Directory DirSync，則您可以從內部部署 Active Directory 同步到 Azure Active Directory 的通訊群組成員最大數量為 15,000。如果您使用的是 Azure AD Connect，則該數量為 50,000。<br/> 
 <sup>2</sup> 這項限制也適用於系統管理員。
 
 #### <a name="journal-transport-and-inbox-rule-limits"></a>日誌、傳輸和收件匣規則限制

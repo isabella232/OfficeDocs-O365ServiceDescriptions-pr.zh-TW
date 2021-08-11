@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: 您可以使用各種方案中的 Microsoft 365 和 Office 365，以最大程度滿足您組織的需求。 如果您正在尋找計畫（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
-ms.openlocfilehash: 00223253b0115ef31f2b4a8db939061d154d11eb
-ms.sourcegitcommit: fc58d29a2429d04d3a1f8d51dbf6c2b063bc66a9
+ms.openlocfilehash: 801bc4baf71897360b6ed9753f541268f09785ab8c2f7f42417bb824f5bc609a
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53383706"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701682"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服務說明
 

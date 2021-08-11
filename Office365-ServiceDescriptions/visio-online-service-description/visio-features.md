@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: 網頁 Visio 會將您的 Microsoft Visio 體驗擴充至瀏覽器，您可以在其中建立及編輯儲存在雲端中的圖表。 Microsoft 365 客戶可以在旅途中查看、列印和共用圖表和插入批註。
-ms.openlocfilehash: 329909219647b4edc61495fd7deb70945d184af7
-ms.sourcegitcommit: b6c8ebe962cbabb93faab459e79b3f2d94191a9f
+ms.openlocfilehash: c4980675f64f02abae6d0f8e5ef2250a3d2327ab8b016a65cac30137d25558bd
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53096338"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702232"
 ---
 # <a name="visio-features"></a>Visio特徵
 

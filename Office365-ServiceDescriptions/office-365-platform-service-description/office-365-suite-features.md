@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主題中所列的功能是網頁式工具的集合，可協助您安全地在許多裝置和多個 Office 365 服務之間共同作業和通訊。 這些功能會協助在您的組織內進行新的連線，方法是整合數位內容建立、儲存及管理與用於在使用者之間探索及分享資訊的社交工具。
-ms.openlocfilehash: e1218f35d26b44a88bfbe35dd80cf3003f28a529
-ms.sourcegitcommit: 5eaf3ca8db0aac7f5882f1e242018a94a359fe27
+ms.openlocfilehash: c12977bc68ea8871779a3615b1f3f121541b01658b273c42736d67da4894d20e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275602"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664486"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 
@@ -41,7 +41,7 @@ Delve 可讓使用者根據個人化觀點，在 Microsoft 365 上搜尋及探�
 
 Microsoft Power Automate 可讓您跨應用程式自動化工作流程。 您可以使用 Flow 與電子郵件及 IM 警訊連線、同步應用程式間的檔案、在兩個服務間複製檔案，以及從一個應用程式收集資料，然後資料儲存至另一個應用程式等等。 範本可協助您入門。 若要深入瞭解 Flow 功能及其使用方式，請前往[Power Automate 網站](https://preview.flow.microsoft.com/)。
   
-## <a name="microsoft-forms"></a>Microsoft Forms
+## <a name="microsoft-forms"></a>Microsoft 表單
 
 Microsoft Forms 可讓您快速且輕鬆地建立自訂測驗、調查、問卷、登記等等。 當您建立測驗或表單時，您可以邀請其他人使用任何網頁瀏覽器，甚至是行動裝置，來進行回應。 提交結果之後，您可以使用內建分析來評估回應。 表單資料（如測驗結果）可以輕易地匯出至 Excel，以進行其他分析或評分。 若要深入瞭解，請參閱 [什麼是 Microsoft Forms？](https://support.office.com/forms)。
   
@@ -51,7 +51,7 @@ Microsoft Forms 可讓您快速且輕鬆地建立自訂測驗、調查、問卷�
   
 ## <a name="microsoft-lists"></a>Microsoft 清單
 
-Microsoft 清單是一 Microsoft 365 的應用程式，可協助您追蹤資訊及組織工作。 清單是簡單、靈活且靈活的，可讓您掌握最重要的專案。 使用可自訂的視圖和智慧規則，追蹤問題、資產、常式、連絡人、庫存及其他資訊，讓每個人都能獲得通知及同步處理。使用現成的範本，您可以在線上、新行動應用程式上或 Microsoft Teams 中快速開始製作清單。 就像 Microsoft 365 的一部分一樣，您可以依靠企業就緒的安全性和符合性。
+Microsoft 清單是一種可協助您追蹤資訊及組織作品的 Microsoft 365 應用程式。 清單是簡單、靈活且靈活的，可讓您掌握最重要的專案。 使用可自訂的視圖和智慧規則，追蹤問題、資產、常式、連絡人、庫存及其他資訊，讓每個人都能獲得通知及同步處理。使用現成的範本，您可以在線上、新行動應用程式上或 Microsoft Teams 中快速開始製作清單。 就像 Microsoft 365 的一部分一樣，您可以依靠企業就緒的安全性和符合性。
 
 如需詳細資訊，請參閱：
 

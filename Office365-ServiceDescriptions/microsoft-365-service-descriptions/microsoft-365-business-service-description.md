@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務進階版是整合的解決方案，利用高級安全性和裝置管理功能，將一流的生產力整合在一起，以協助保護您的企業。 此服務描述說明方案選項及功能。
-ms.openlocfilehash: 2822f93ce488c180b1cdb0bf6fefefb061138f5b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 658bfe634163bb7b0df423f65973c40a3289aec9cc81134ff97ea51403ae8ee4
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652667"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663346"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 商務進階版服務描述
 
@@ -59,7 +59,7 @@ Microsoft 365 商務進階版基本上包含 Microsoft 365 商務標準版中所
 |適用於 Office 365 的 Microsoft Defender 方案 1 <br/> |否  <br/> |是<sup>7</sup> <br/> |
 |安全分數<sup>4</sup> <br/> |是  <br/> |是  <br/> |
 |適用於 Office 365 的 Microsoft Defender 方案 2 <br/> |否  <br/> |否 <br/> |
-|**Azure AD 進階版 P1 可供 Microsoft 365 商務進階版客戶使用。**<br/>|**Microsoft 365 商務標準版** <br/> |**Microsoft 365 商務進階版** <br/> |**企業行動力 + 安全性 E3** <br/> |
+|**Microsoft 365 商務進階版客戶可以使用 Azure AD Premium P1。**<br/>|**Microsoft 365 商務標準版** <br/> |**Microsoft 365 商務進階版** <br/> |**企業行動力 + 安全性 E3** <br/> |
 |Azure Multi-Factor Authentication (MFA)  <br/> |否  <br/> |是 <br/> |是  <br/> |
 |管理單位  <br/> |否  <br/> |是 <br/> |是  <br/> |
 |雲端應用程式探索  <br/> |否  <br/> |是 <br/> |是  <br/> |
@@ -91,7 +91,7 @@ Microsoft 365 商務進階版基本上包含 Microsoft 365 商務標準版中所
 |訂閱啟用  <br/> |是  <br/> |
 |閒置時裝置畫面的組織控制  <br/> |是  <br/> |
 |從 Microsoft Store 對應用程式的使用者存取進行組織控制  <br/> |是  <br/> |
-|使用者存取 Cortana 的組織控制  <br/> |是  <br/> |
+|組織控制使用者對 Cortana 的存取權  <br/> |是  <br/> |
 |組織對來自 Microsoft 的 Windows 秘訣和廣告的控制權  <br/> |是  <br/> |
 |Windows 10 裝置會自動保持最新狀態  <br/> |是  <br/> |
 |**Windows 10安全** <br/> |**Microsoft 365 商務進階版** <br/> |
@@ -101,12 +101,12 @@ Microsoft 365 商務進階版基本上包含 Microsoft 365 商務標準版中所
 |保護資料夾來抵擋勒索軟體等威脅 <br/> |是  <br/> |
 |協助保護電腦上的檔案和資料夾免受未授權的 Bitlocker 存取 <br/> |是  <br/> |
 
-### <a name="notes"></a>Notes
+### <a name="notes"></a>附註
 <sup>1</sup>包括 Exchange Online 方案1。<br/>
 <sup>2</sup> Azure 資訊保護 (AIP) 會啟用支援的資訊版權管理 (IRM) 功能。 AIP 方案1包含在 Microsoft 365 商務進階版中。 <br/>
 <sup>3</sup> Microsoft 365 商務進階版包括 Exchange Online 封存訂閱。 每位 Exchange Online Archiving 訂閱者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [無限制封存的概觀](/office365/securitycompliance/unlimited-archiving)。 <br/>
 <sup>4</sup> 可用於 [https://securescore.office.com](https://securescore.office.com) 。 需要系統管理員許可權。 如需詳細資訊，請參閱 [Microsoft 安全分數](/office365/securitycompliance/microsoft-secure-score)。<br/>
-<sup>5</sup>簡化的 Windows 10 裝置管理 Microsoft 365 系統管理中心內建。 在裝置管理中心內建的 iOS、Android、macOS 及其他跨平臺裝置管理功能，也有授權可搭配 Microsoft 365 商務進階版使用的 Intune 管理功能。 協力廠商應用程式和設定 WiFi 設定檔和 VPN 憑證等內容也可在裝置管理系統管理中心中進行管理。 <br/>
+<sup>5</sup>簡化 Microsoft 365 系統管理中心內建的 Windows 10 裝置管理。 在裝置管理中心內建的 iOS、Android、macOS 及其他跨平臺裝置管理功能，也有授權可搭配 Microsoft 365 商務進階版使用的 Intune 管理功能。 協力廠商應用程式和設定 WiFi 設定檔和 VPN 憑證等內容也可在裝置管理系統管理中心中進行管理。 <br/>
 <sup>6</sup> 此方案隨附 Microsoft Stream plan 2，其中包括影片入口網站、文字偵測語音、深入搜尋及面對面偵測。<br/>
 <sup>7</sup> Microsoft 365 隨附 Microsoft Defender for Office 365 Plan 1。 如需詳細資訊，請參閱[Microsoft 365 商務進階版安全性與合規性功能](/microsoft-365/business/security-features)。<br/>
 <sup>8</sup> Microsoft 365 商務進階版訂閱者授權使用 iOS、Android、MacOS 及其他跨平臺裝置管理的完整 Intune 功能。 在 Microsoft 365 商務進階版中無法使用的功能，例如，協力廠商應用程式管理和 WiFi 設定檔的設定、VPN 憑證等等）都可以在完整的 Intune 主控台中管理。</br>

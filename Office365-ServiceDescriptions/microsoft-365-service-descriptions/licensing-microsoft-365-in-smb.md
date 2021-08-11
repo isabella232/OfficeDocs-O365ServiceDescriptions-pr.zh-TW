@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商務進階版是適用于中小型企業客戶的 Microsoft 一流服務。 Microsoft 365 商務進階版是整合的解決方案，可共同 Microsoft 365 生產力、高級安全性和裝置管理。
-ms.openlocfilehash: 5b3c1b69135801699ba53b020f0461ed83d7bd90
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 96a826ef61c283ad2aa402f5ef3c93bb96e519da4a8937944d9e5dc0c99e9983
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653275"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663566"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>中小型企業的 Microsoft 365 授權
 
@@ -86,7 +86,7 @@ Microsoft 365 商務進階版是適用于中小型企業 (SMB) 客戶的 Microso
 
 <sup>3</sup> 自動擴充開啟時可無限封存。
 
-## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>功能比較： Microsoft 365 商務標準版、Microsoft 365 商務進階版和 Office 365 E3
+## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>功能比較： Microsoft 365 商務標準版、Microsoft 365 商務進階版及 Office 365 E3
 
 |**服務區域**   |**功能** | **Microsoft 365 商務標準版** | **Microsoft 365 商務進階版** | **Office 365 E3** |
 |---|-------------|---------------------------------|----------------------------|-------------------|
@@ -148,7 +148,7 @@ Microsoft 365 商務進階版是適用于中小型企業 (SMB) 客戶的 Microso
 |**合規性** | 無限制的電子郵件封存<sup>2</sup> | 否 | 是 | 是 | 是 |
 |   | 進階電子文件探索、客戶加密箱、進階資料控管 | 否 | 否 | 否 | 是 |
 |**Analytics** | Power BI Pro、MyAnalytics | 否 | 否 | 否 | 是 |
-| | 透過 MyAnalytics 的真知灼見 | 是 | 是 | 是 | 是 |
+| | Insights MyAnalytics | 是 | 是 | 是 | 是 |
 |**Assistance** | 簡報電子郵件 | 是 | 是 | 是 | 是 |
 |**聲音** | PSTN 會議，雲端 PBX | 否 | 否 | 否 | 是 |
 
@@ -167,7 +167,7 @@ Microsoft 365 商務進階版是適用于中小型企業 (SMB) 客戶的 Microso
 | PowerPoint       | 是                     | 是                    |
 | OneNote          | 是                     | 是                    |
 | Outlook          | 是                     | 是                    |
-| 發行者        | 是                     | 是                    |
+| Publisher        | 是                     | 是                    |
 | Access           | 是                     | 是                    |
 | Microsoft Teams  | 是                     | 是                    |
 | **進階版值**                             | **Microsoft 365 Apps 商務版** | **Microsoft 365 Apps 企業版** |

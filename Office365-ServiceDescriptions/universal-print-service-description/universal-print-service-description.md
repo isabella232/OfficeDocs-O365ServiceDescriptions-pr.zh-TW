@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 通用列印功能 Microsoft 365 雲端列印服務，不再需要內部部署列印伺服器。
-ms.openlocfilehash: 4c716c706dd2383ed64fa867399ca88ee459d912
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 1262952b582df8ec6d3ddd97f9cf15916adaa31f65f721e1a3da2c0582c97c2c
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653605"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702432"
 ---
 # <a name="universal-print-service-description"></a>通用列印服務描述
 
@@ -56,7 +56,7 @@ ms.locfileid: "51653605"
 
 ### <a name="licensing-terms"></a>授權條款
 
-如需透過 Microsoft 商業大量授權方案購買之產品和服務的授權條款及條件，請參閱 [產品條款網站](https://www.microsoft.com/licensing/terms/)。 
+如需透過 Microsoft 商用大量授權方案購買的產品和服務的授權條款及條件，請參閱[產品條款網站](https://www.microsoft.com/licensing/terms/)。 
 
 ### <a name="service-updates"></a>服務更新
 
@@ -64,4 +64,4 @@ ms.locfileid: "51653605"
 
 ### <a name="accessibility"></a>協助工具
 
-Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](https://www.microsoft.com/trust-center/compliance/accessibility) 。 如需詳細資訊，請參閱[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 協助工具中心](https://support.microsoft.com/topic/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 持續致力於您的資料安全性，以及我們服務的[協助工具](https://www.microsoft.com/trust-center/compliance/accessibility)。 如需詳細資訊，請參閱 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 協助工具中心](https://support.microsoft.com/topic/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。

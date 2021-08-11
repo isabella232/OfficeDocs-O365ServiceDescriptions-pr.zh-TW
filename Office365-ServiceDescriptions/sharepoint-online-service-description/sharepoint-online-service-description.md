@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 請參閱哪些 SharePoint 功能可用於哪些方案。
-ms.openlocfilehash: a158debc41e35c07895d1d8e805994796c0e8a63
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: e5dca0f6e5ef5b7c621ac5944b7358bd8c2afaa3c2397080cd0fde19dc4348a6
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204850"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702582"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服務描述
 
@@ -110,7 +110,7 @@ Microsoft 365 中的 OneDrive 為組織內的個別使用者的線上存放區�
 - [網站管理](/sharepoint/governance-overview) 
 - [字詞存放區-受管理的中繼資料](/sharepoint/managed-metadata)
 
-如需 FastTrack 遷移服務可用性的相關資訊，請參閱 [合格的服務與計畫](/fasttrack/m365-eligible-services-and-plans)。 
+如需 FastTrack 遷移服務可用性的相關資訊，請參閱[合格的服務與計畫](/fasttrack/m365-eligible-services-and-plans)。 
 
 如需與共享相關之功能的相關資訊，請參閱[OneDrive 服務描述](../onedrive-for-business-service-description.md)。
 
@@ -139,7 +139,7 @@ SharePoint 會與 Microsoft 365 的高級安全性和符合性功能整合。 �
 - [資訊屏障](/microsoft-365/compliance/information-barriers)
 - [適用於 Office 365 的 Microsoft Defender](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [保留標籤和原則](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
-- [敏感度標籤](/microsoft-365/compliance/sensitivity-labels)
+- [敏感性標籤](/microsoft-365/compliance/sensitivity-labels)
 - [統一的審計](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (審核 SharePoint 使用者和系統管理員活動) 
 
 如需 [Azure 資訊保護](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)的詳細資訊，請參閱 [azure 資訊保護的需求](/azure/information-protection/requirements)

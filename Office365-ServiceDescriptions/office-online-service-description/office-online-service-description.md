@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office 網頁版 (先前 Office 的 web 應用程式) 會在網頁瀏覽器中開啟 Word、Excel、OneNote 和 PowerPoint 檔。 Office 網頁版使得從任何地方使用網際網路連線，以及從幾乎任何裝置共用 Office 檔案變得更容易。 Microsoft 365 使用 Word、Excel、OneNote 或 PowerPoint 的客戶，可以在旅途中查看、建立及編輯檔案。
-ms.openlocfilehash: c4eaf4b2c482504ffa3e53f0177c1215b8c36da6
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 6cc468d2d40b54a7f8a6b1bb4e8ba77bb917950142796e6976d3135c856297b2
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699109"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702092"
 ---
 # <a name="office-for-the-web-service-description"></a>網頁版 Office 服務描述
 

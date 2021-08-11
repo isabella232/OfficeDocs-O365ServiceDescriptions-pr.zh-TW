@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 取得 Exchange Online Protection 的功能和需求的相關資訊。 包含提供 Exchange Online Protection 的方案清單，以及這些方案中的功能比較。
-ms.openlocfilehash: fbfbe39931e6037b358bb76c124937904a408783
-ms.sourcegitcommit: 427dbb27426a12e8c5dba7d8b4cbaf2bedb3aaba
+ms.openlocfilehash: 2a7f5bd6c2750d4ce5d348e7fc8438a335533a46466fccc16318a133e1639e4e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53222480"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664226"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服務說明
 
@@ -64,7 +64,7 @@ EOP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出各種方案中可用的主要 Exchange Online Protection 功能。 適用某些注意事項。 如需詳細資訊，請參閱註腳。 此表格可能會變更，恕不另行通知。 如需最新、完整的功能清單，請參閱 [強大的工具來支援您的企業](https://products.office.com/business/compare-more-office-365-for-business-plans)。
+下表列出各種方案中可用的主要 Exchange Online Protection 功能。 適用某些注意事項。 如需進一步資訊，請參閱註腳。 此表格可能會變更而不另行通知。 如需最新、完整的功能清單，請參閱 [強大的工具來支援您的企業](https://products.office.com/business/compare-more-office-365-for-business-plans)。
 
 | 功能 | 獨立 EOP | EOP in EE CAL （含服務） | Exchange Online 中的 EOP 功能 |
 |:-----|:-----|:-----|:-----|
@@ -78,7 +78,7 @@ EOP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 |以零小時自動清除 (ZAP) ，以供傳遞的惡意程式碼、垃圾郵件和網路釣魚郵件<sup>10</sup>|否|否|是|
 |預設安全性原則|是|是|是|
 |保護原則的設定分析器|是|是|是|
-|承租人允許/封鎖清單|是|是|是|
+|租用戶允許/封鎖清單|是|是|是|
 |郵件寄件者的封鎖清單|是|是|是|
 |允許郵件寄件者的清單|是|是|是|
 |Edge 封鎖|是|是|是|
@@ -100,7 +100,7 @@ EOP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 |Microsoft 365 安全性中心的安全性報告|是<sup>7</sup>|是<sup>7,8</sup>|是<sup>8</sup>|
 |EAC 中的電子郵件報告|是<sup>7</sup>|是<sup>7,8</sup>|是<sup>8</sup>|
 |管理員審核記錄<sup>5</sup>|是|是|是|
-|**Users**||||
+|**使用者**||||
 |郵件使用者和郵件連絡人<sup>1</sup>|是|是|是|
 |信箱|否|否|是<sup>1a</sup>|
 |以角色為基礎的存取控制 (RBAC) <sup>2</sup>|是|是|是|
@@ -139,12 +139,12 @@ EOP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 
 ### <a name="licensing-terms"></a>授權條款
 
-如需透過 Microsoft 商業大量授權方案購買之產品和服務的授權條款及條件，請參閱 [產品條款網站](https://www.microsoft.com/licensing/terms/)。
+如需透過 Microsoft 商用大量授權方案購買的產品和服務的授權條款及條件，請參閱[產品條款網站](https://www.microsoft.com/licensing/terms/)。
 
 ### <a name="messaging"></a>訊息
 
-若要追蹤即將到來的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪郵件中心。 如需詳細資訊，請參閱 [Message center](/microsoft-365/admin/manage/message-center)。
+若要追蹤即將發生的變更，包括新功能和變更的功能、計劃中的維護或其他重要的公告，請造訪訊息中心。 如需詳細資訊，請參閱[訊息中心](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>協助工具
 
-Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](https://www.microsoft.com/trust-center/compliance/accessibility) 。 如需詳細資訊，請參閱[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 協助工具中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 持續致力於您的資料安全性，以及我們服務的[協助工具](https://www.microsoft.com/trust-center/compliance/accessibility)。 如需詳細資訊，請參閱 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 協助工具中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。

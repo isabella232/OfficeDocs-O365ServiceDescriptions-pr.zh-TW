@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: 使用 Visio 桌面應用程式，比較網頁 Visio 的功能。
-ms.openlocfilehash: 85d46d55c1de4509330db78cb63d7352eb26376f
-ms.sourcegitcommit: b6c8ebe962cbabb93faab459e79b3f2d94191a9f
+ms.openlocfilehash: 2eac005bd71e86f708b197b782e614ee0755c1319df35b8cc6133280802fb58d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53095557"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702422"
 ---
 # <a name="visio-service-description"></a>Visio 服務說明
 
@@ -29,7 +29,7 @@ ms.locfileid: "53095557"
   
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出可在 web 和桌面應用程式中使用的主要 Visio 功能。 適用某些注意事項。 如需詳細資訊，請參閱註腳。 此表格可能會變更，恕不另行通知。 如需跨方案的 Visio 功能的最新清單，請參閱[Compare Visio Options](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)。<br><br> 
+下表列出可在 web 和桌面應用程式中使用的主要 Visio 功能。 適用某些注意事項。 如需進一步資訊，請參閱註腳。 此表格可能會變更而不另行通知。 如需跨方案的 Visio 功能的最新清單，請參閱[Compare Visio Options](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)。<br><br> 
 
 | 應用程式功能 | Visio 網頁版 | Visio 桌面應用程式 |
 |:-----|:-----|:-----|
@@ -84,12 +84,12 @@ ms.locfileid: "53095557"
 
 ### <a name="licensing-terms"></a>授權條款
 
-如需透過 Microsoft 商業大量授權方案購買之產品和服務的授權條款及條件，請參閱 [產品條款網站](https://www.microsoft.com/licensing/terms/)。
+如需透過 Microsoft 商用大量授權方案購買的產品和服務的授權條款及條件，請參閱[產品條款網站](https://www.microsoft.com/licensing/terms/)。
 
 ### <a name="messaging"></a>訊息
 
-若要瞭解即將進行的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪郵件中心。 如需詳細資訊，請參閱 [Message center](/microsoft-365/admin/manage/message-center)。
+若要瞭解即將進行的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪郵件中心。 如需詳細資訊，請參閱[訊息中心](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>協助工具
 
-Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](https://www.microsoft.com/trust-center/compliance/accessibility) 。 如需詳細資訊，請參閱[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 協助工具中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 持續致力於您的資料安全性，以及我們服務的[協助工具](https://www.microsoft.com/trust-center/compliance/accessibility)。 如需詳細資訊，請參閱 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 協助工具中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。

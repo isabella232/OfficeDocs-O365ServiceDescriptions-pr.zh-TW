@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: Yammer 中提供下列群組功能。
-ms.openlocfilehash: c4ac4005f21bd5ce06b8babec0163c367e9a9d4f
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 20a2fe01542494544642f369c5013d49cbd7a8e0205f8adcb49009eb9d93a5b9
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653015"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702212"
 ---
 # <a name="group-features-in-yammer"></a>Yammer 中的群組功能
 
 Yammer 中提供下列群組功能。
   
-## <a name="announcements"></a>公告
+## <a name="announcements"></a>宣告
 
 與群組分享公告，以便立即向成員通知重要更新。 系統管理員可以將宣告鎖定至群組，以方便探索。
   

@@ -1,5 +1,5 @@
 ---
-title: SharePoint Syntex 服務描述 (部分機器翻譯)
+title: SharePoint Syntex 服務描述
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -7,19 +7,19 @@ ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
-description: SharePointSyntex in Microsoft 365 使用高級人工智慧 (AI) 和機器教學來 amplify 人力專業知識、自動化內容處理，以及將內容轉換為知識。
-ms.openlocfilehash: 5606fec3e825fbb09d2a19a686bec5df61754b46
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Microsoft 365 中 SharePoint Syntex 使用高級人工智慧 (AI) 和加工教學，以 amplify 人工專業知識、自動化內容處理，以及將內容轉換為知識。
+ms.openlocfilehash: 79d145aa9efac09db8b6982ff8a11cf0282c1b66301b170b31cd3680c431af3b
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653395"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702481"
 ---
-# <a name="sharepoint-syntex-service-description"></a>SharePoint Syntex 服務描述 (部分機器翻譯) 
+# <a name="sharepoint-syntex-service-description"></a>SharePoint Syntex 服務描述 
 
-SharePointSyntex in Microsoft 365 使用高級人工智慧 (AI) 和機器教學來 amplify 人力專業知識、自動化內容處理，以及將內容轉換為知識。
+Microsoft 365 中 SharePoint Syntex 使用高級人工智慧 (AI) 和加工教學，以 amplify 人工專業知識、自動化內容處理，以及將內容轉換為知識。
 
-Syntex 組建的 SharePoint，可提供高容量內容處理的高級功能、解壓縮程式自動化的中繼資料，以及改善安全性和符合性。 而且它是以 microsoft 搜尋的智慧來建立，其中包含[microsoft Graph 連接器](/microsoftsearch/connectors-overview)的連結。
+Syntex 組建的 SharePoint，可提供高容量內容處理的高級功能、解壓縮程式自動化的中繼資料，以及改善安全性和符合性。 它會以 Microsoft 搜尋的智慧來建立，並提供[Microsoft Graph 連接器](/microsoftsearch/connectors-overview)的連結。
 
 如需詳細的概覽及其他產品詳細資料，請參閱[SharePoint Syntex 產品頁面](https://aka.ms/sharepointsyntex)。
 
@@ -50,7 +50,7 @@ Syntex 可透過多個訂閱計畫取得，以符合組織的需求。 每個計
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出各種方案中可用的主要 Syntex 功能。 適用某些注意事項。 此表格可能會變更，恕不另行通知。 如需最新的完整功能清單，請參閱[SharePoint Syntex 方案及定價] 頁面](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)。<br><br>
+下表列出各種方案中可用的主要 Syntex 功能。 適用某些注意事項。 此表格可能會變更而不另行通知。 如需最新、完整的功能清單，請參閱[SharePoint Syntex 方案和價格頁面](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)。<br><br>
 
 | 功能 | 小型企業方案 | Enterprise 方案 | 教育計畫 |
 |--|--|--|--|
@@ -65,9 +65,9 @@ Syntex 可透過多個訂閱計畫取得，以符合組織的需求。 每個計
 
 如需 Syntex 的詳細資訊，請參閱下列資源：
 
-  - 若要開始規劃 Syntex 部署，請造訪 Microsoft Tech Community Resource Center 中的 [ [SharePoint Syntex] 頁面](https://resources.techcommunity.microsoft.com/sharepoint-syntex/)。
+  - 若要開始規劃 Syntex 部署，請造訪 Microsoft Tech Community 資源中心中的 [ [SharePoint Syntex] 頁面](https://resources.techcommunity.microsoft.com/sharepoint-syntex/)。
 
-  - 若要深入瞭解 Syntex 及如何使用它，請參閱[SharePoint Syntex 產品檔](/microsoft-365/contentunderstanding/)。
+  - 若要深入瞭解 Syntex 及如何使用它，請參閱[SharePoint Syntex 的產品檔](/microsoft-365/contentunderstanding/)。
 
   - 若要掌握最新的 Syntex 功能，請流覽我們的[Microsoft 365 博客](https://go.microsoft.com/fwlink/?linkid=2084915)。
 
@@ -75,12 +75,12 @@ Syntex 可透過多個訂閱計畫取得，以符合組織的需求。 每個計
 
 Syntex 可做為以使用者為基礎的 Microsoft 365 方案的附加元件。 若要註冊免費試用版或購買 Syntex，請造訪[SharePoint Syntex 產品頁面](https://aka.ms/sharepointsyntex)。
 
-如需透過 Microsoft 商業大量授權方案購買之產品和服務的授權條款及條件，請參閱 [產品條款網站](https://www.microsoft.com/licensing/terms/)。
+如需透過 Microsoft 商用大量授權方案購買的產品和服務的授權條款及條件，請參閱[產品條款網站](https://www.microsoft.com/licensing/terms/)。
 
 ### <a name="messaging"></a>訊息
 
-若要瞭解即將進行的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪 [郵件中心](https://go.microsoft.com/fwlink/p/?linkid=2070717)。 如需詳細資訊，請參閱 [Message center](/microsoft-365/admin/manage/message-center)。
+若要瞭解即將進行的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪 [郵件中心](https://go.microsoft.com/fwlink/p/?linkid=2070717)。 如需詳細資訊，請參閱[訊息中心](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>協助工具
 
-Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](https://www.microsoft.com/trust-center/compliance/accessibility) 。 如需詳細資訊，請參閱[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 協助工具中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 持續致力於您的資料安全性，以及我們服務的[協助工具](https://www.microsoft.com/trust-center/compliance/accessibility)。 如需詳細資訊，請參閱 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 協助工具中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。

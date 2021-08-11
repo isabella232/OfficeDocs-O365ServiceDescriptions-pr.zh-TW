@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: 使用 OneNote 網頁版 (舊 OneNote 的 web App) ，在您可以從任何位置新增並輕鬆與其他人共用的 OneNote 筆記本中做筆記。 所有客戶皆可使用 Office 網頁版來查看及輕微編輯 Office 檔案。
-ms.openlocfilehash: 96d240e7911991a605303ec2f62c0444cbb7ed9b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 4bde15a3b2c291c07aa2d4322826f710db7fc4ac1a51278cabac5e909c152f29
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652347"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702032"
 ---
 # <a name="onenote-for-the-web"></a>OneNote 網頁版
 
@@ -114,7 +114,7 @@ OneNote 網頁版中無法使用連結記事記錄的功能，也就是隱藏檔
 
 OneNote 網頁版不支援與 Microsoft Outlook 搭配使用的命令，例如電子郵件頁面、Outlook 工作或會議詳細資料。
   
-## <a name="paragraph-formatting"></a>段落格式設定
+## <a name="paragraph-formatting"></a>段落格式化
 
 透過 OneNote 網頁版，您可以變更段落的對齊方式、增加或減少左邊界的縮排，或從左至右變更文字方向。 進一步了解[在瀏覽器中和 OneNote 桌面應用程式中使用筆記本的差異](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   
@@ -154,7 +154,7 @@ OneNote 網頁版會顯示受資訊版權管理 (IRM) 保護的筆記本。 不�
 
 透過 OneNote 網頁版，您可以輕鬆地套用文字樣式以快速格式化。 進一步了解[在瀏覽器中和 OneNote 桌面應用程式中使用筆記本的差異](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   
-## <a name="tables"></a>資料表
+## <a name="tables"></a>表格
 
 透過 OneNote 網頁版，您可以插入表格、編輯表格文字，以及輕鬆編輯基本的表格結構，例如新增或刪除列和欄。 如需進階的表格功能 (例如：將表格轉換為 Excel 試算表或儲存格網底、標題列，以及在表格儲存格中排序資料)，請使用 OneNote 桌面應用程式。 進一步了解[在瀏覽器中和 OneNote 桌面應用程式中使用筆記本的差異](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   

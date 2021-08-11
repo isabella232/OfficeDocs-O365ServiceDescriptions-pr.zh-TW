@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Yammer 提供下列郵件和交談功能。
-ms.openlocfilehash: e2ed250a6cd112a0fe8e8ca18da8b3565b8a32d4
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5d0b9859bb2486f300354c4c21fb883db5428d0e67913bdd9d78d1043d63e7ed
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653595"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702192"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer 中的訊息與交談
 
@@ -27,7 +27,7 @@ Yammer 提供下列郵件和交談功能。
 
 通知其他同事，並透過 @提及 他們的姓名讓他們加入對話。
 
-## <a name="events"></a>事件
+## <a name="events"></a>Events
 
 組織會議和事件，與同事共用會議和事件，並保持出勤追蹤。 事件可以新增至 Outlook、Google、yahoo！及 iCal 行事曆。
   
@@ -47,7 +47,7 @@ Yammer 提供下列郵件和交談功能。
 
 與一或多位同事展開私人對話。您可以隨時增加多位參與者。
 
-## <a name="publisher"></a>發行者
+## <a name="publisher"></a>Publisher
 
 使用發行者來共用更新、新增檔、發佈投票、稱讚人員或張貼事件。
     

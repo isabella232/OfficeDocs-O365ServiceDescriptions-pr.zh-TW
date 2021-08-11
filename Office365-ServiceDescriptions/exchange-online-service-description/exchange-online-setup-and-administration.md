@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: 本文說明可用於自訂 Exchange Online 設定，以及讓組織的 Exchange Online 環境保持在最新狀態及目前狀態的管理控制和支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
-ms.openlocfilehash: 56d7dbc7e5e6300172d120bbf1464fd2bbf0daf0
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 24edb5a4c1855acd990ddc427e218cb601dc45aab34a5f6a83cf76cb561dbffe
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652727"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663946"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 設定與管理
 
@@ -45,7 +45,7 @@ ms.locfileid: "51652727"
   
 ### <a name="microsoft-365-admin-center"></a>Microsoft 365 系統管理中心
 
-Microsoft 365 系統管理中心是網頁入口網站，每個公司的服務管理員都可以從其預訂的每個 Microsoft 服務管理使用者帳戶和設定。 在 Microsoft 365 系統管理中心內，管理員可以追蹤 Exchange 系統管理中心 (EAC) 的連結，以便在其中管理 Exchange Online 的專用設定。 如需使用 Microsoft 365 系統管理中心來啟動及執行的詳細資訊，請參閱下列影片：[介紹 Office 365 企業版簡介](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
+Microsoft 365 系統管理中心是一個網頁入口網站，每個公司的服務管理員都可以管理其所訂閱之每個 Microsoft 服務的使用者帳戶和設定。 在 Microsoft 365 系統管理中心內，管理員可以追蹤 Exchange 系統管理中心 (EAC) 的連結，以便在其中管理 Exchange Online 的專用設定。 如需使用 Microsoft 365 系統管理中心來開始及執行的詳細資訊，請參閱下列影片：[引入 Office 365 企業版](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
   
 ### <a name="exchange-admin-center"></a>Exchange 系統管理中心
 

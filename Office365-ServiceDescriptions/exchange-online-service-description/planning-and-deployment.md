@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
 description: 深入瞭解 Microsoft Exchange Online 中的規劃與部署。
-ms.openlocfilehash: eabef8014f64295058b4f41ccd9835a8dea473d8
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 60edd1a35112f7344eaf4e0badf8a49f04c0daa99d7b11b94220ed9973b6faf6
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652697"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663666"
 ---
 # <a name="planning-and-deployment"></a>規劃及部署
 

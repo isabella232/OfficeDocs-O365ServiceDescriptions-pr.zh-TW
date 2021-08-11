@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 是一種雲端式電子郵件篩選服務，可協助您的組織抵禦未知惡意程式碼和病毒，方法是提供強健的零日保護，並提供功能，以即時保護您的組織不受有害連結。
-ms.openlocfilehash: 5781f34419eb697cb97634c55fa486fd141d76dd
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: 823527f1ef0fbd0284fb1b703d3c6e9f7dfdad440138b6d724077ad5badb9bca
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204840"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663096"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>適用於 Office 365 的 Microsoft Defender 服務描述
 
@@ -37,13 +37,13 @@ Microsoft Defender for Office 365 是一種雲端式電子郵件篩選服務，�
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出適用于各種方案 Office 365 功能的主要 Microsoft Defender。 適用某些注意事項。 如需詳細資訊，請參閱註腳。 此表格可能會變更，恕不另行通知。 如需跨方案 Office 365 功能的最新完整清單，請參閱[microsoft defender for Office 365 features service description](microsoft-defender-for-office-365-features.md)。
+下表列出適用于各種方案 Office 365 功能的主要 Microsoft Defender。 適用某些注意事項。 如需進一步資訊，請參閱註腳。 此表格可能會變更而不另行通知。 如需跨方案 Office 365 功能的最新完整清單，請參閱[microsoft defender for Office 365 features service description](microsoft-defender-for-office-365-features.md)。
 
 | 功能 | 適用於 Office 365 的 Defender 方案 1 | 適用於 Office 365 的 Defender 方案 2 | Microsoft 365 E5/A5 安全性 |
 |---------|--------------------------------|--------------------------------|--------------------------------|
 | *設定、保護及偵測* | | | |
 | 預設的安全性原則和設定分析器 | 是 | 是 | 是 |
-| [安全附件](microsoft-defender-for-office-365-features.md#safe-attachments) | 是 | 是 | 是 |
+| [安全附件](microsoft-defender-for-office-365-features.md#safe-attachments) (部分機器翻譯) | 是 | 是 | 是 |
 | 保管庫Teams 中的附件 | 是 | 是 | 是 |
 | [安全連結](microsoft-defender-for-office-365-features.md#safe-links) | 是 | 是 | 是 |
 | [安全文件](microsoft-defender-for-office-365-features.md#safe-documents) | 否 | 否 | 是 |
@@ -75,12 +75,12 @@ Microsoft Defender for Office 365 是一種雲端式電子郵件篩選服務，�
 
 ### <a name="licensing-terms"></a>授權條款
 
-如需透過 Microsoft 商業大量授權方案購買之產品和服務的授權條款及條件，請參閱 [產品條款網站](https://www.microsoft.com/licensing/terms/)。
+如需透過 Microsoft 商用大量授權方案購買的產品和服務的授權條款及條件，請參閱[產品條款網站](https://www.microsoft.com/licensing/terms/)。
 
 ### <a name="messaging"></a>訊息
 
-若要瞭解即將進行的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪郵件中心。 如需詳細資訊，請參閱 [Message center](/microsoft-365/admin/manage/message-center)。
+若要瞭解即將進行的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪郵件中心。 如需詳細資訊，請參閱[訊息中心](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>協助工具
 
-Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](https://www.microsoft.com/trust-center/compliance/accessibility) 。 如需詳細資訊，請參閱[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 協助工具中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 持續致力於您的資料安全性，以及我們服務的[協助工具](https://www.microsoft.com/trust-center/compliance/accessibility)。 如需詳細資訊，請參閱 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 協助工具中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。

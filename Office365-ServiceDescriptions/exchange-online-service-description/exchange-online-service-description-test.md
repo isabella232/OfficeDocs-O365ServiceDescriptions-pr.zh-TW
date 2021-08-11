@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: 深入瞭解 Microsoft 365 和 Office 365 方案中的 Microsoft Exchange Online 服務和功能可用性。
-ms.openlocfilehash: b24bd70ce81b68a895cf70bc04d3f8dc0bd3f332
-ms.sourcegitcommit: 2cdaef22baa43ba09300fdafa99b3918f2d8cf8f
+ms.openlocfilehash: 6e7629dd01b05ef06bda492127c3b6d04733e340a042b5f465a4a79097197cc3
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51414877"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664006"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -33,7 +33,7 @@ Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsof
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出各種方案中可用的主要 Exchange Online 功能。 某些告誡會套用 *。 此表格可能會變更，恕不另行通知。 如需跨方案的 Exchange Online 功能的最新清單，請參閱[比較 Exchange Online 計畫](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)。<br><br>
+下表列出各種方案中可用的主要 Exchange Online 功能。 某些告誡會套用 *。 此表格可能會變更而不另行通知。 如需跨方案的 Exchange Online 功能的最新清單，請參閱[比較 Exchange Online 計畫](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)。<br><br>
   
 | 功能 | 小型企業方案 | Enterprise 方案 | 教育計畫 | GCC | GCC-High | DOD | 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -62,12 +62,12 @@ Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsof
 
 ### <a name="licensing-terms"></a>授權條款
 
-如需透過 Microsoft 商業大量授權方案購買之產品和服務的授權條款及條件，請參閱 [產品條款網站](https://www.microsoft.com/licensing/terms/)。 
+如需透過 Microsoft 商用大量授權方案購買的產品和服務的授權條款及條件，請參閱[產品條款網站](https://www.microsoft.com/licensing/terms/)。 
 
 ### <a name="messaging"></a>訊息
 
-若要瞭解即將進行的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪郵件中心。 如需詳細資訊，請參閱 [Message center](/microsoft-365/admin/manage/message-center)。
+若要瞭解即將進行的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪郵件中心。 如需詳細資訊，請參閱[訊息中心](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>協助工具
 
-Microsoft 仍會致力於保護您的資料和我們的服務的可存取性。 如需詳細資訊，請參閱[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 協助工具中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 持續致力於您的資料安全性，以及我們服務的協助工具。 如需詳細資訊，請參閱 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 協助工具中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。

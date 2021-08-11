@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用于在美國聯邦政府機構或其他實體中，處理政府規定和需求的 Office 365 的 IT 專業人員，其使用 Microsoft 365 政府– DoD，以符合這些需求。
-ms.openlocfilehash: bc6d69c32db6801763e47984c0513da9c16ba0f8
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 039fef8da2de151828cf9aa3c2cb7e39efb4789012f70666811a8a2ae5d24238
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52546000"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663326"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>規劃 Microsoft 365 合規性 - DoD 部署
 
@@ -109,7 +109,7 @@ Microsoft 365 政府 DoD 環境符合美國政府對雲端服務的需求。
 | | 記錄管理：記錄版本設定 | 可以使用 |
 | | 記錄管理：法規記錄 | 可以使用 |
 | | 記錄管理：使用 SharePoint Syntex 分類套用記錄標籤 | 在工程處理積壓工作 |
-| **內部風險管理** | 客戶加密箱 | 可以使用 |
+| **有問必答風險管理** | 客戶加密箱 | 可以使用 |
 | | 內部人員風險管理：案例儀表板、內容瀏覽器和通知範本 | 逐步推出 |
 | | 有問必答風險管理：逐級 Advanced eDiscovery 調查 | 逐步推出 |
 | | 內部使用者風險管理：透過使用者竊取資料 | 逐步推出 |
@@ -190,7 +190,7 @@ Microsoft 365 政府 DoD 環境符合美國政府對雲端服務的需求。
 | | 高級審核：審核記錄的字詞保留時間 (10 年)  | 在開發 |
 | | 高級審計： Exchange Online 和 SharePoint Online 中的搜尋字詞事件 | 在工程處理積壓工作 |
 | **規範管理** | Microsoft 365安全性與合規性中心 | 可以使用 |
-| | Microsoft 雲端 App 安全性 | 在開發 |
+| | Microsoft Cloud App Security | 在開發 |
 | | 合規性管理員 | 可以使用 |
 | | 雙位元組字元支援 | 可以使用 |
 | **生態** | 第一方資料連線器： HR | 可以使用 |

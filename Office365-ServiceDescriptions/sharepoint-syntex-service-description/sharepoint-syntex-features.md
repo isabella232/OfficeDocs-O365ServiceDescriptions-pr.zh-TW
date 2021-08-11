@@ -1,5 +1,5 @@
 ---
-title: SharePoint Syntext 功能 (部分機器翻譯)
+title: SharePoint Syntext 功能
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -8,16 +8,16 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 深入瞭解合格的 Microsoft 365、Office 365 和 SharePoint 的線上方案中提供的主要 SharePoint Syntex 功能。
-ms.openlocfilehash: 2ffc3ccb52d074434c89424a151e63c7698b62c2
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 7febd3615d61fd2aa219ea8a5075f0d591fe41df5a179a8ca2f2f0d74007f5e7
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651028"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702522"
 ---
-# <a name="sharepoint-syntex-features"></a>SharePoint Syntext 功能 (部分機器翻譯) 
+# <a name="sharepoint-syntex-features"></a>SharePoint Syntext 功能 
 
-下列各節說明適用于符合條件 Microsoft 365、Office 365 和 SharePoint 線上方案的主要[SharePoint Syntex](sharepoint-syntex-service-description.md)功能。 可用的功能可能會變更，恕不另行通知。 如需最新的完整功能清單，請參閱[SharePoint Syntex 方案及定價] 頁面](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)。
+下列各節說明符合條件 Microsoft 365、Office 365 和 SharePoint 線上方案中可用的主要[SharePoint Syntex](sharepoint-syntex-service-description.md)功能。 可用的功能可能會變更，恕不另行通知。 如需最新、完整的功能清單，請參閱[SharePoint Syntex 方案和價格頁面](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)。
 
 ## <a name="syntex-content-center"></a>Syntex 內容中心
 
@@ -49,7 +49,7 @@ Syntex 包含功能強大的表單處理引擎，以 AI 產生器為基礎，可
 
 Syntex 使用 microsoft Graph 連接器整合遠端來源 &mdash; ，例如檔案共用、Azure SQL 或協力廠商來源（如 Box 和 IBM FileNet &mdash; ）到 Microsoft Graph 中，使其可供搜尋並供整個 Microsoft 365 使用。
 
-透過 microsoft Graph 連接器，客戶可以在外部存放庫中索引項目目，以包含在 microsoft 搜尋結果中。 Microsoft 365 E5 和 Office 365 E5 包含的功能是使用 microsoft Search (（不含于 A5) ）為 microsoft Search 的 microsoft Graph 連接器編制索引最多500個專案。 任何具有套件或獨立授權（包括 SharePoint 或 OneDrive 計畫）的使用者，都可以查看 microsoft 搜尋的 microsoft Graph 連接器中的搜尋結果。
+透過 Microsoft Graph 連接器，客戶可以在外部存放庫中索引項目目，以包含在 Microsoft 搜尋結果中。 Microsoft 365 E5 和 Office 365 E5 包括使用 Microsoft Graph 連接器為 Microsoft 搜尋 (（未包含在 A5) 中）為500專案編制索引的功能。 任何具有套件或獨立授權（包括 SharePoint 或 OneDrive 計畫）的使用者，都可以從 Microsoft Graph 連接器查看 Microsoft 搜尋的搜尋結果。
 
 現在，Microsoft 或我們的其中一個合作夥伴提供超過130個來源的連接器。 若要深入瞭解，請參閱[Microsoft Graph connector 的概述](/MicrosoftSearch/connectors-overview)。
 

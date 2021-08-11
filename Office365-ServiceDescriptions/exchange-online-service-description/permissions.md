@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online 使用角色型存取控制 (RBAC) 模式，讓組織管理員可以準確地控制哪些使用者與 IT 員工可在服務中作業。例如，如果法務人員負責信箱搜尋要求，系統管理員可以透過 RBAC 將管理功能委派給法務人員。Exchange Online 使用相同的 RBAC 框架作為 Microsoft Exchange Server 2013。
-ms.openlocfilehash: a9c326e647470e1941f448a9ae61598fd746709e
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: e5a67e8d0c6fc649080ddfa0db7f1909e7d933eb832ad030aa864b8033fd5d39
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653315"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663686"
 ---
 # <a name="permissions"></a>權限
 

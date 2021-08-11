@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 提供下列說明和訓練資源。
-ms.openlocfilehash: 380986f2cc6f962245ea8ae5be12b7c43b9bf2bb
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: d2cf7dfda21fe01cd6d9197a9f5e760bf007311edc8d356e15e91e832b44735f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653235"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663006"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -25,7 +25,7 @@ Microsoft Office 365 提供下列說明和訓練資源。
   
 ## <a name="online-help"></a>線上說明
 
-您可以從服務中的任何內嵌說明連結取得說明文章和影片，包括 Office 365 入口網站的上方導覽列中的 [說明] 圖示及 Microsoft 365 系統管理中心。 您也可以前往 [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) 搜尋所有 Office 365 說明。 
+您可以從服務中的任何內嵌說明連結取得説明文章和影片，包括 Office 365 入口網站的上方導覽列中的 [說明] 圖示及 Microsoft 365 系統管理中心。 您也可以前往 [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) 搜尋所有 Office 365 說明。 
   
 ## <a name="training"></a>訓練
 

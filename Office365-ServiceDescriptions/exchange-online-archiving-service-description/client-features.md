@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: 請閱讀本文以瞭解 Microsoft Exchange Online 封存中可用的用戶端功能。
-ms.openlocfilehash: 54f066562b08eeeed90b8c9b465c4740bcc3f0df
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: df71da18d5eb2304496bc72ac2556bb3cc325e50e49cccb14ba6b5191cc95b1d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293635"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664666"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online 封存中的用戶端功能
 
@@ -32,7 +32,7 @@ Microsoft Outlook 是一款功能豐富的電子郵件程式，可支援行事�
 - **Outlook** 無所不在-Outlook anywhere 可讓 Outlook 使用者透過網際網路連線到 Exchange Server 及 Exchange Online 封存，而不需要 VPN 連線。 Outlook 與 Exchange Online Archiving之間是透過 SSL 安全保護通道，使用 RPC-over-HTTP Windows 網路元件進行通訊。    
 - **自動** 探索-Exchange 自動探索服務會自動設定 Outlook 以搭配 Exchange Online 封存使用。 自動探索可讓 Outlook 使用者在第一次 Exchange (時，) 以其電子郵件地址和密碼登入時，直接從接收其必要的設定檔設定。 
 
-Outlook 2010 和更新版本，以及在網路上 Outlook 可為使用者提供封存的完整功能，以及保留和封存原則等相關功能。
+Outlook 2010 和更新版本，Outlook 網頁版為使用者提供封存的完整功能，以及保留和封存原則等相關功能。
   
 Outlook 2007 可提供對封存的基本支援，但是並非所有封存和法規遵循功能都可以在 Outlook 2007 中使用。例如在 Outlook 2007，使用者無法對其信箱中的項目套用保留或封存原則，而必須仰賴管理員佈建的原則。Outlook 2007 使用者必須要有 2011 年 2 月的 Office 2007 累計更新，才能存取封存。
   
@@ -62,9 +62,9 @@ Outlook 2007 可提供對封存的基本支援，但是並非所有封存和法�
 
 ## <a name="outlook-on-the-web"></a>Outlook 網頁版
 
-Outlook 網頁版是網路架構版本的 Outlook 電子郵件程式，搭配 Exchange Online 使用。 任何使用者在家裡、辦公室或旅途中連線到網際網路的任何地方 &mdash; ， &mdash; 都可以透過網頁上的 Outlook 來存取其電子郵件。
+Outlook 網頁版是網路架構版本的 Outlook 電子郵件程式，搭配 Exchange Online 使用。 任何使用者在家裡、辦公室或旅途中連線到網際網路的地方 &mdash; ， &mdash; 都可以透過 Outlook 網頁版存取其電子郵件。
   
-使用者可以使用相同的 URL) ，登入內部部署 (上的 Outlook，以存取他們的封存。 封存會沿著其主要信箱的 Outlook 網頁上顯示。 沒有直接從網頁 Outlook 存取封存的明確方式。
+使用者可以使用相同的 URL) ，登入 Outlook 網頁版內部部署 (來存取其封存。 封存會顯示在 Outlook 網頁版中的主要信箱旁。 沒有直接從 Outlook 網頁版存取封存的明確方式。
   
 ## <a name="feature-availability"></a>功能可用性
 

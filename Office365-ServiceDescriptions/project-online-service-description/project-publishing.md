@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
 description: Project Online 中提供下列 SharePoint 和商務用 Skype 互通性功能。
-ms.openlocfilehash: 6c3538a2829d1367713763391ffb4fd960792412
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 445e539dbb479072fd8c39794a92d787570e4cb2efb0c1d6c435853fa3918a38
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651186"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702662"
 ---
 # <a name="project-publishing"></a>專案發佈
 

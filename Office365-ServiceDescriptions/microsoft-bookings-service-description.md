@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 深入瞭解 Microsoft 預約中可用的計畫選項及功能。
-ms.openlocfilehash: f0382a575714d73a915b8ada2b832516326b5348
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: b2125c2c2b0eb163cfcefce472c2eb299cb87e090bd507baa0f857b5ababdbaf
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653375"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663246"
 ---
 # <a name="microsoft-bookings-service-description"></a>Microsoft Bookings 服務描述
 
@@ -25,23 +25,23 @@ Microsoft 預約簡化了排程和管理約會的過程。 預約包含以網路
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出各種方案中可用的主要 Microsoft 預約功能。 適用某些注意事項。 如需詳細資訊，請參閱註腳。 此表格可能會變更，恕不另行通知。
+下表列出各種方案中可用的主要 Microsoft 預約功能。 適用某些注意事項。 如需進一步資訊，請參閱註腳。 此表格可能會變更而不另行通知。
 
-| 主要功能 | 小型企業版 | Enterprise 方案 | GCC | GCC-High | DOD | 教育 |
+| 主要功能 | 小型企業版 | Enterprise 方案 | GCC | GCC-High | DOD | 教育版 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 以 Web 為基礎的排程頁面 (預約頁面)  | 是 | 是 | 是 | 否 | 否 | 是 |
 | 僅限租使用者) 的預約頁面存取控制 ( | 是 | 是 | 是 | 否 | 否 | 是 |
 | 透過 Skype 和 Teams<sup>1</sup>進行線上會議 <br/> | 是 | 是 | 是 | 否 | 否 | 是 |
 | 群組預約 (1 位人員： N 位客戶)  | 是 | 是 | 是 | 否 | 否 | 是 |
 | 約會通知電子郵件 | 是 | 是 | 是 | 否 | 否 | 是 |
-| 約會通知簡訊 | 是<sup>2</sup> <br/> | 是<sup>2</sup> <br/> | 是<sup>2</sup> <br/> | 否 | 否 | 是 |
+| 約會通知 SMS | 是<sup>2</sup> <br/> | 是<sup>2</sup> <br/> | 是<sup>2</sup> <br/> | 否 | 否 | 是 |
 | 人員/服務管理 | 是 | 是 | 是 | 否 | 否 | 是 |
 | 使用者資料收集中的自訂欄位 | 是 | 是 | 是 | 否 | 否 | 是 |
 | Microsoft Graph 中的預約 API | 是 | 是 | 否 | 否 | 否 | 是 |
 | Teams 中的預定應用程式 | 是 | 是 | 否 | 否 | 否 | 是 |
 
 <sup>1</sup>線上會議需要預約人員加入 Microsoft Teams 或商務用 Skype 授權，以便建立會議。
-<br/><sup>2</sup>簡訊通知目前是 Beta 版，只適用于北美。
+<br/><sup>2</sup> SMS 通知目前在 Beta 中，僅適用于北美。
 
 ## <a name="learn-more"></a>深入了解
 
@@ -54,12 +54,12 @@ Microsoft 預約簡化了排程和管理約會的過程。 預約包含以網路
 
 ### <a name="licensing-terms"></a>授權條款
 
-如需透過 Microsoft 商業大量授權方案購買之產品和服務的授權條款及條件，請參閱 [產品條款網站](https://www.microsoft.com/microsoft-365)。
+如需透過 Microsoft 商用大量授權方案購買的產品和服務的授權條款及條件，請參閱[產品條款網站](https://www.microsoft.com/microsoft-365)。
 
 ### <a name="messaging"></a>訊息
 
-若要追蹤即將到來的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪郵件中心。 如需詳細資訊，請參閱 [Message center](/microsoft-365/admin/manage/message-center)。
+若要追蹤即將發生的變更，包括新功能和變更的功能、計劃中的維護或其他重要的公告，請造訪訊息中心。 如需詳細資訊，請參閱[訊息中心](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>協助工具
 
-Microsoft 仍會致力於保護您的資料和我們的服務的 [可存取性](https://www.microsoft.com/trust-center/compliance/accessibility) 。 如需詳細資訊，請參閱[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 協助工具中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 持續致力於您的資料安全性，以及我們服務的[協助工具](https://www.microsoft.com/trust-center/compliance/accessibility)。 如需詳細資訊，請參閱 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 協助工具中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。

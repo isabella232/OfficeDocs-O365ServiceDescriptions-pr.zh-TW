@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概要說明美國政府雲端與商業性雲端之間的功能差異，如 Exchange Online 服務說明所示。
-ms.openlocfilehash: d8f5879a82fbe2d74746e48cb7ecafced8d8e8aa
-ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
+ms.openlocfilehash: 238ef71762c5a6cb3c6a08a515a5bf611535547c7c2e7f69ba8a53eaa56be2c3
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721207"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664456"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>適用于美國政府環境的 Exchange Online
 
@@ -58,7 +58,7 @@ ms.locfileid: "52721207"
 |手動保留原則、標籤和標記 |是|是|是||
 |靜態資料的加密 (BitLocker)|是|是|是||
 |使用 Azure 資訊保護 的 IRM|是|是|是|如需 GCC 高及 DoD 中 AIP 限制的詳細資訊，請參閱<a href="/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description">Azure 資訊保護進階版政府服務描述</a>。<br><br>Azure 資訊保護並未包含在 G1/F3 中，但可以以個別的附加元件形式購買，並且會啟用支援的資訊版權管理 (IRM) 功能。 有些 Azure 資訊保護功能需要訂閱 Office 365 專業增強版，但不包含 Office 365 政府版 G1 或 Office 365 政府版 F3。|
-|使用 Windows Server AD RMS 的 IRM|是|是|是|Windows伺服器 AD RMS 是內部部署伺服器，必須個別採購並管理，以便啟用支援的 IRM 功能。|
+|使用 Windows Server AD RMS 的 IRM|是|是|是|Windows Server ADRMS 是內部部署伺服器，必須個別採購並管理，以便啟用支援的 IRM 功能。|
 |Office 365 郵件加密|是|是|是|請參閱本文中[GCC 高/DoD 界限內的 Office 365 郵件加密行為](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary)，以及<a href="/microsoft-365/compliance/ome-version-comparison#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">Office 365 郵件加密的獨特特性，在</a>GCC 高/Office 365 郵件加密和非 GCC 的高/DoD 使用者之間傳送郵件時，其檔行為的細微差別。|
 |客戶金鑰|是|是|是|需要 G5 服務方案。|
 |S/MIME|是|是|是||
@@ -114,7 +114,7 @@ ms.locfileid: "52721207"
 |**[用戶端和行動裝置](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC High**|**DoD**|**主要考慮**|
 |網頁上的 To Do|是|否|否||
 |Windows 版 Outlook|是|是|是|為了符合 GCC 高和 DoD 規範的需求，您必須執行最低版本1803的 Office 365 專業增強版。 Office 365 專業增強版不包含 G1 或 F3。|
-|Outlook 網頁版|是|是|是||
+|Outlook 網頁版<sup>1</sup>|是|是|是||
 |Mac 版 Outlook|是|是|是|為了符合 GCC 高和 DoD 規範的需求，您必須執行最低版本1803的 Office 365 專業增強版。 Office 365 專業增強版不包含 G1 或 F3。|
 |iOS 和 Android 版 Outlook|是|是|是||
 |Exchange ActiveSync|是|是|是||
@@ -147,6 +147,8 @@ ms.locfileid: "52721207"
 |**[擴展服務 - 自訂、增益集和資源](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC High**|**DoD**|**主要考慮**|
 |Outlook 增益集和 Outlook MAPI|是|是|是|只有部分 OWA 和 Outlook 增益集可用 GCC 高及 DoD。 請參閱本文中[Outlook 和 Outlook Web App 中的增益集](#add-insin-outlook-and-outlook-web-app)。|
 
+<sup>1</sup> Outlook 在案例中 Outlook Windows 因跨界限限制而無法顯示受 IRM 保護的郵件時， (GCC 高/非 GCC 高案例) 。
+
 ## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>GCC 高和 DoD 環境中的功能細微差別
 
 ### <a name="connectivity-with-third-party-services"></a>與協力廠商服務的連線能力  
@@ -175,9 +177,9 @@ Azure Active Directory目前只有位於 Azure US 政府雲端且支援 B2B 共�
 
 - 將加密的電子郵件從 GCC 高或 DoD 傳送至相同環境中的收件者時：
     
-    - 寄件者可以在 Outlook 中手動加密電子郵件，以供 PC 和 Mac 和網頁上 Outlook，或是組織可以設定使用 Exchange 郵件流程規則來加密電子郵件的原則。
+    - 寄件者可以在 Outlook 針對電腦及 Mac 和 Outlook 網頁版手動加密電子郵件，或組織可以設定使用 Exchange 郵件流程規則來加密電子郵件的原則。
     
-    - GCC 高/DoD 內的收件者會收到與其他所有 Office 365 使用者在網頁上相同的內嵌讀取體驗 Outlook 中的電腦及 Mac 和 Outlook。
+    - GCC 高/DoD 內的收件者會收到與其他所有 Office 365 使用者相同的電腦及 Mac 和 Outlook 網頁版 Outlook 的內文讀取體驗。
 
 <!-- end list -->
 

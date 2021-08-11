@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南適用于在美國聯邦政府機構或其他實體中，處理政府規定和需求的 Office 365 的 IT 專業人員，其使用 Microsoft 365 政府– GCC 高，以符合這些需求。
-ms.openlocfilehash: 357cf30350ff2a3b21d7d9326e91c2c01d119b21
-ms.sourcegitcommit: f7874215059c1e5a9d383da0539f87b6f85a57e6
+ms.openlocfilehash: ba60ebf026ed3985ead28abba1c426bd8de53e7ba1acf51501b63c1d4c6d1d27
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52001909"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663286"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>規劃 Microsoft 365 合規性– GCC 高
 
@@ -110,7 +110,7 @@ Microsoft 365 政府 GCC 高環境符合美國政府對雲端服務的需求。 
 | 記錄管理 | 記錄版本設定 | 可以使用 |
 | 記錄管理 | 法規記錄 | 可以使用 |
 | 記錄管理 | 使用 SharePoint Syntex 分類套用記錄標籤 | 在工程處理積壓工作 |
-| **內部風險管理** | 客戶加密箱 | 可以使用 |
+| **有問必答風險管理** | 客戶加密箱 | 可以使用 |
 | 通訊合規性 | 能夠忽略電子郵件簽章或免責聲明 | 在開發 |
 | 通訊合規性 | 能夠設定通訊相容性原則的保留期間 | 在開發 |
 | 通訊合規性 | 存取警示;通知範本;通訊原則儀表板 | 可以使用 |
@@ -204,7 +204,7 @@ Microsoft 365 政府 GCC 高環境符合美國政府對雲端服務的需求。 
 | **規範管理** | Microsoft 365安全性與合規性中心 | 可以使用 |
 | | 合規性管理員 | 可以使用 |
 | | 雙位元組字元支援 | 可以使用 |
-| | Microsoft 雲端 App 安全性 | 可以使用 |
+| | Microsoft Cloud App Security | 可以使用 |
 | **生態** | GraphAdvanced eDiscovery 的 APIs | 在開發 |
 | | GraphTeams 匯出資料的 APIs | 在工程處理積壓工作 |
 | | 第一方資料連線器 | 在工程處理積壓工作 |

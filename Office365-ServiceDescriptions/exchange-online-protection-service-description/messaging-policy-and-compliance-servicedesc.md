@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: 請閱讀本文以瞭解 Microsoft Exchange Online Protection (EOP) 中的郵件原則和符合性功能。
-ms.openlocfilehash: 81228b13036e831df630cca6f27b4ad285705f29
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: fa2e4cfc9345a2dfc7d0ebf2d12a31c5aeb1da532a889a815a0ec3d6d5880c2b
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653345"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664106"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Exchange Online Protection 中的郵件原則及符合性
 
@@ -51,7 +51,7 @@ Microsoft Exchange OnlineProtection (EOP) 提供可協助您管理電子郵件�
 
 - 使用「文件指紋」偵測敏感表單資料。 檔指紋可協助您根據您可以用來定義郵件流程規則和 DLP 原則的文字型表單，輕鬆建立自訂機密資訊類型。
 
-- 新增原則提示，它會向您的 Outlook 2013、Outlook 網頁上和 OWA for 裝置使用者顯示通知，以協助減少資料遺失，也可以透過允許誤報，提高原則的效能。
+- 新增原則提示，它會向您的 Outlook 2013、Outlook 網頁版和 OWA for Devices 使用者顯示通知，以協助減少資料遺失，也可以透過允許誤報，提高原則的效能。
 
 - 檢閱 DLP 報告中的事件資料，或使用產生事件報告動作來新增您自己的特定報告。
 

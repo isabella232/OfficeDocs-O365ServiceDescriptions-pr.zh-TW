@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
-ms.openlocfilehash: 003d86033382e8ed15895c85cc36e5b15c19083a
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 596d0663c91a7ed3c2e423301a90fddaee7908b5d1da04e4d04f860c0c31ae14
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699089"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663986"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -55,7 +55,7 @@ Microsoft 365 提供各種可滿足您組織需求的最佳方案。 如需可�
 會議室和共用信箱不須使用者訂閱。這些特殊的信箱類型沒有登入認證。而是透過委派，由具有適當權限的授權使用者來管理及存取。
 
 **Microsoft 365 F1使用者信箱使用許可權** <br/>
-Microsoft 365 F1 不包含 Exchange 信箱的許可權。 為了啟用完整的 Teams 體驗，M365 F1 授權可能會附帶 Exchange Online K1 service plan 的啟用狀態。 雖然 Exchange Online K1 服務方案將為使用者布建信箱，但 M365 的 F1 使用者無權使用該信箱。 建議您透過[這些步驟](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)停用網頁上的 Outlook，並要求您的使用者不要透過任何其他方式存取 Exchange 信箱。
+Microsoft 365 F1 不包含 Exchange 信箱的許可權。 為了啟用完整的 Teams 體驗，M365 F1 授權可能會附帶 Exchange Online K1 service plan 的啟用狀態。 雖然 Exchange Online K1 服務方案將為使用者布建信箱，但 M365 的 F1 使用者無權使用該信箱。 建議您透過[這些步驟](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)停用 Outlook 網頁版，並要求您的使用者不要透過任何其他方式存取 Exchange 信箱。
   
 ## <a name="system-requirements-for-exchange-online"></a>Exchange Online 的系統需求
 
@@ -67,7 +67,7 @@ Microsoft 365 F1 不包含 Exchange 信箱的許可權。 為了啟用完整的 
   
 ## <a name="feature-availability"></a>功能可用性
 
-如果您的組織目前具有 Office 365 Small Business、Office 365 Small Business Premium 或 Office 365 Midsize Business 的訂閱，請造訪 Microsoft 365 系統管理中心內的郵件中心，或與您的提供者交談，以取得新 Microsoft 365 Apps 計畫如何影響您的詳細資訊。 若要深入瞭解新的 Microsoft 365 Apps 計畫系列，請參閱[小型和中型企業的新方案](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)。
+如果您的組織目前具有 Office 365 Small Business、Office 365 Small Business Premium 或 Office 365 Midsize Business 的訂閱，請造訪 Microsoft 365 系統管理中心中的訊息中心，或與您的提供者交談，以取得新 Microsoft 365 Apps 計畫如何影響您的詳細資訊。 若要深入瞭解新的 Microsoft 365 Apps 計畫系列，請參閱[小型和中型企業的新方案](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)。
 
 如需 Microsoft 365 商務進階版的功能可用性，請參閱[Microsoft 365 商務進階版服務描述](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)。<br/><br/>
   
@@ -309,7 +309,7 @@ Microsoft 365 F1 不包含 Exchange 信箱的許可權。 為了啟用完整的 
 |用於行動裝置的 ActiveSync 原則|是|是|是|是|是|
 |使用報告|是|是|是|是|是|
 |**擴充服務自訂、增益集及資源**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online方案 &nbsp; 1**|**Exchange Online方案 &nbsp; 2**|**Exchange Online Kiosk**|
-|網頁上的 Outlook Web 組件|是|是|是|是|是|
+|Outlook 網頁版 Web 組件|是|是|是|是|是|
 |Outlook 增益集和 Outlook MAPI|是|是|是<sup>21</sup>|是<sup>21</sup>|否|
 
 <sup>1</sup> 傳輸規則是由彈性準則所組成，可讓您定義條件和例外狀況，以及依據準則所採取的動作。 MO_ExchangeOnline 和 Microsoft ExchangeServer2013 之間可用的準則和動作並不相同。 如需可用準則和動作的清單，請參閱每一個產品對應的準則和動作主題。 <br/>
