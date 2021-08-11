@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI 是雲端架構的業務分析工具套件，可讓任何人以更快的速度、效能及瞭解來連線、視覺化及分析資料。 該服務透過方便使用的儀表板將使用者連結到廣泛的即時資料、提供互動式報表與無可比擬的的視覺化效果，讓資料栩栩如生。
-ms.openlocfilehash: c3ef96972ed31585a5fe58e04bb20d96c5ad19cb
-ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
+ms.openlocfilehash: b95a17ffccd284e0cfad2a432db5c80344a2cbbcccb78905ab18baa3d3059a9f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "53661611"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702862"
 ---
 # <a name="power-bi-service-description"></a>Power BI 服務說明
 

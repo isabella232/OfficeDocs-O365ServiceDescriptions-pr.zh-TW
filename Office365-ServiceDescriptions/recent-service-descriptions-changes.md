@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: 下表列出最近對服務描述內容所做的變更。
-ms.openlocfilehash: cafd18087588922fa561cc432625dbcbd3e65d6d
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 343ea3ddeb84451bad4c6e152a920b4cc9689cdf1c357b1c02aeadee8de28f99
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651038"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702892"
 ---
 # <a name="recent-service-descriptions-changes"></a>最近的服務描述變更
 
@@ -49,7 +49,7 @@ ms.locfileid: "51651038"
 |:-----|:-----|:-----|
 |**服務描述** <br/> |**主題** <br/> |**變更** <br/> |
 |Office 365 平台  <br/> |[Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |將多地理位置資訊新增至平臺服務說明。  <br/> |
-||[Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |新增 Microsoft 365 商務版。  <br/> |
+||[Office 365 平台服務說明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |新增 Microsoft 365 商務。  <br/> |
 ||[安全性與 &amp; 合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Microsoft 365 商務基本版和 Microsoft 365 商務標準版，已將封存限制專案變更為「是」。  <br/> |
 ||[安全性與 &amp; 合規性中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |已將「高級安全性管理」變更為「Office 365 雲端 App 安全性。」  <br/> |
 |Office 網頁版  <br/> |[Excel 網頁版](office-online-service-description/excel-online.md) <br/> |變更第一個附注：在 Microsoft Office SharePoint Online 中，無法從 Excel 網頁版中查看超過 30 mb (MB) 的活頁簿。 先前的附注說的是 10 MB。  <br/> |
@@ -100,7 +100,7 @@ ms.locfileid: "51651038"
 ||[服務更新](office-365-platform-service-description/service-updates.md) <br/> |「第一次發行」現在是「目標發行」。 更新 Office 365 發行程式的連結] 頁面。  <br/> |
 |Exchange Online  <br/> |[Exchange Online 服務說明](exchange-online-service-description/exchange-online-service-description.md) <br/> |闡明支援 Office 365 企業版 F1 和 Exchange Online Kiosk 計畫的混合部署。  <br/> |
 |商務用 OneDrive  <br/> |[商務用 OneDrive 服務說明](onedrive-for-business-service-description.md) <br/> |新增 Office 365 企業版 F1 的商務用 OneDrive 可用性 (這些使用者已 2GB OneDrive 空間) 。  <br/> |
-|SharePoint Online  <br/> |[SharePoint Online 服務說明](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |已變更 BCS：從「是」到「否」 SharePoint 內部部署方案的 SharePoint Server 2013 Standard CAL 中的商務資料 webpart 可用性。  <br/> |
+|SharePoint Online  <br/> |[SharePoint Online 服務說明](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |已變更 BCS：從「是」到「否」 SharePoint 內部部署方案的 SharePoint Server 2013 Standard CAL 中的商務資料 webpart 可用性  <br/> |
    
 ## <a name="november-2017"></a>2017 年 11 月
 

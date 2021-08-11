@@ -1,5 +1,5 @@
 ---
-title: Microsoft Planner 服務說明
+title: Microsoft Project 服務說明
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: ''
 description: Microsoft Planner 是一種直觀、共同作業的工作管理工具，可讓人員規劃、管理及完成以工作為基礎的計畫。
-ms.openlocfilehash: e8f8433e00e7d659d267af8eb897b71ae4659d1e
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: 7b98ca5fc471bc309f26fe888cb103f027b321ce10b606c25e55ede64b0939d0
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537270"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702832"
 ---
-# <a name="microsoft-planner-service-description"></a>Microsoft Planner 服務說明
+# <a name="microsoft-planner-service-description"></a>Microsoft Project 服務說明
 
 Microsoft Planner 是一種直觀、共同作業的工作管理工具，可讓人員規劃、管理及完成以工作為基礎的計畫。 使用者可以使用任務卡片，在看板上指派及管理工作，並以各種重要的計畫資訊（例如到期日期、狀態、檢查清單、標籤和檔案附件）進行填入。 Planner 會與數個 Microsoft 解決方案（包括 Microsoft Teams）整合。 以 web 為基礎的工具，規劃人員可以從任何位置存取，也可以作為 iOS 和 Android 的行動應用程式。
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word 網頁版 (先前的 Word web App) 將您的 Microsoft Word 體驗延伸至網頁瀏覽器，您可以在其中儲存檔的網站上直接使用檔。
-ms.openlocfilehash: 31be8622ae5c3b072eea0a660bc75afc962315e5
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 181135b0bfcb1ea2cf8492e3853e4914d8efb2d1f214b4747dae00de6d287b05
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652327"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702882"
 ---
 # <a name="word-for-the-web"></a>Word 網頁版
 
@@ -139,7 +139,7 @@ Word 網頁版會顯示使用資訊版權管理 (IRM) 所保護的檔。 不過�
   
 ## <a name="learning-tools"></a>學習工具
 
-學習工具是專門設計來協助您改善閱讀技巧的功能，其方式是提升您的發音為正確的發音、快速而準確地閱讀，以及瞭解您閱讀的專案。 
+Learning工具的設計目的是為了協助您改善閱讀技能，方法是提升您的發音為正確的發音，快速且準確閱讀，以及瞭解您閱讀的專案。 
   
 ## <a name="lists"></a>清單
 
@@ -171,7 +171,7 @@ Word 網頁版會顯示使用資訊版權管理 (IRM) 所保護的檔。 不過�
 
 在 Word 網頁版和 Word 桌面應用程式中的檔內插入頁碼。 您也可以對文件第一頁以外的所有頁面套用頁碼。 若要深入瞭解在 Word 網頁版中使用頁碼，請參閱[Word 網頁版的新功能](https://go.microsoft.com/fwlink/?LinkId=389520)。
   
-## <a name="paragraph-formatting"></a>段落格式設定
+## <a name="paragraph-formatting"></a>段落格式化
 
 透過 Word 網頁版，您可以將段落靠左、靠右或置中對齊;從右至左執行文字;增加或減少縮排;將段落格式化為專案符號或編號清單。 您還可以清除格式設定。 您無法調整 Word 網頁版中的行距。 進一步了解[在瀏覽器中和 Word 中使用文件的差異](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
   

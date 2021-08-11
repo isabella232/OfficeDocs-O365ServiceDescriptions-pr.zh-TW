@@ -8,18 +8,18 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 深入瞭解 Microsoft 365 和 Office 365 方案中的 Microsoft Teams 服務和功能可用性。
-ms.openlocfilehash: 45ab0e018cc76fc0232cca55e5d8fbdfcf77acbd
-ms.sourcegitcommit: 8b6aad7edf3730a12fb0607e80bb19f0811bd06c
+ms.openlocfilehash: 0c1a7e833e257f9dff2f4123cc5142b99a85cf9799bc2e526d8d6e4d9e90f8ed
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53409680"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702902"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服務描述
 
 Microsoft Teams 是 Microsoft 365 團隊合作的中心。 Teams 服務可讓您立即訊息、音訊和影片通話、豐富的線上會議、行動經驗和大量的 web 會議功能。 此外，Teams 提供檔案與資料共同作業及擴充功能，並與 Microsoft 365 和其他 Microsoft 和合作夥伴應用程式整合。
 
-## <a name="available-plans"></a>可用方案
+## <a name="available-plans"></a>可用規劃
 
 如需啟用 Microsoft Stream 使用者之訂閱的詳細計畫資訊，請參閱 [完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 

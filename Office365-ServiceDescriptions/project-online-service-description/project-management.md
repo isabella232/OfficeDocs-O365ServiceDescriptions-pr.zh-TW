@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Project Online 提供下列專案管理功能。
-ms.openlocfilehash: 77f5e4e0478f20eabe89f4b3c3a578733f3d93f8
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 0f737ad27b5735d794b9f9900dc8dca426a89d2b5b3a697e5bdb6762943975ff
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652267"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702682"
 ---
 # <a name="project-management"></a>專案管理
 

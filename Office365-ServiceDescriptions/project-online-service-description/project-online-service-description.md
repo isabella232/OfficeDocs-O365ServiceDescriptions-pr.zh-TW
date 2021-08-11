@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 為專案產品群組管理 (PPM) 及日常運作的彈性線上解決方案。 透過 Project Online Office 365 提供強大的專案管理功能，可用於規劃、排定專案與專案組合的投資，甚至幾乎任何裝置上幾乎都沒有任何的裝置。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: 3717ff4d908d61e27bbb42af6fbc6615b5dbc548
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: a6c4e9b5602f32d9751fab3cd40a580d9465fc472f41f317cd1a635a48eb3793
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537259"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702795"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
