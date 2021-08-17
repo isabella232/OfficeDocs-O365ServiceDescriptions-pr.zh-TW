@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概要說明美國政府雲端與商業性雲端之間的功能差異，如 Exchange Online 服務說明所示。
-ms.openlocfilehash: 238ef71762c5a6cb3c6a08a515a5bf611535547c7c2e7f69ba8a53eaa56be2c3
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 1c0b3c415b388f1c84c49e09aae0ed243e436b6f
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664456"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363609"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>適用于美國政府環境的 Exchange Online
 
@@ -215,7 +215,7 @@ GCC 高端及 DoD 環境也可使用 iOS 和 Android 的 Outlook。 若要深入
 
 ## <a name="feature-nuances-within-gcc-environments-for-microsoft-to-do"></a>Microsoft To Do GCC 環境中的功能細微差別
 
-| 功能 | 描述 | Ww | GCC 中的可用性 |
+| 功能 | 描述 | WW | GCC 中的可用性 |
 |:-----|:-----|:-----|:-----|
 |支援的平臺|Web、Android、iOS、Mac Windows|全部|僅限網頁|
 |M365 hub 支援|與 Outlook、Teams、規劃器的整合|全部|Outlook、Planner (Teams 可搭配 Teams 工作應用程式使用) |

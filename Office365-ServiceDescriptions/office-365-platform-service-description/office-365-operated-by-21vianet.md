@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: 4d3f9ff8f649a748668c3f3156166cb913612acd6a72811a9870604de4d560d2
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 1bac942dcf8923f07197a3617e057c7fc409081c
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701635"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363630"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -38,7 +38,7 @@ Microsoft 不直接營運此項服務。 由 21Vianet 營運、提供並管理�
 > [!NOTE]
 > 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
 
-| 服務 | 由世紀運作的 Microsoft 365 商務基本版 | Microsoft 365 Apps 商務版 | Microsoft 365 商務標準版 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | Office 365 企業版由世紀運作的 F3 |
+| Service | 由世紀運作的 Microsoft 365 商務基本版 | 由世紀運作的 Microsoft 365 Apps 商務版 | 由世紀運作的 Microsoft 365 商務標準版 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | Office 365 企業版由世紀運作的 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | Office 365 平臺<sup>1</sup> | 是 | 是 | 是 | 是 | 是 | 是 |
 | Exchange Online | 是 | 否 | 是 | 是 | 是 | 是 |
@@ -81,13 +81,13 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 > [!NOTE]
 > 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
 
-| 功能 | 由世紀運作的 Microsoft 365 商務基本版 | Microsoft 365 Apps 商務版 | Microsoft 365 商務標準版 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | Office 365 企業版由世紀運作的 F3 |
+| 功能 | 由世紀運作的 Microsoft 365 商務基本版 | 由世紀運作的 Microsoft 365 Apps 商務版 | 由世紀運作的 Microsoft 365 商務標準版 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | Office 365 企業版由世紀運作的 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | **[Office 365 系統管理](/office365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-21vianet#admin-center-features-and-settings)** | | | | | | |
 | 使用e Microsoft 365 系統管理中心或 Windows PowerShell 來管理 Office 365 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 使用 AIP 保護內容 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 透過機器翻譯手動翻譯郵件中心文章 | 是 | 是 | 是 | 是 | 是 | 是 |
-| **[Office 365 套件功能](office-365-suite-features.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[Office 365 套件功能](office-365-suite-features.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | Microsoft Bookings | 否 | 否 | 是 | 否 | 否 | 否 |
 | Microsoft 簡報電子郵件 | 否 | 否 | 是 | 否 | 否 | 否 |
 | Microsoft Power Automate | 否 | 否 | 否 | 否 | 否 | 否 |
@@ -103,7 +103,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | Office 365 群組 | 是 | 否 | 是 | 是 | 是 | 是 |
 | Office 365 影片 | 否 | 否 | 否 | 是 | 是 | 是<sup>2</sup> |
 | OneNote 課程筆記本 | 否 | 否 | 否 | 否 | 否 | 否 |
-| **[使用者帳戶管理](user-account-management.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[使用者帳戶管理](user-account-management.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 雲端身分識別、同盟身分識別或多重要素驗證<sup>14</sup> | 是 | 是 | 是 | 是 | 是 | 是 |
 | Office 365 桌面設定 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 使用 .csv 檔大量上傳 | 是 | 是 | 是 | 是 | 是 | 是 |
@@ -116,7 +116,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 多個可用的管理員角色 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 允許合作夥伴代替您管理 Office 365 | 否 | 否 | 否 | 否 | 否 | 否 |
 | Azure Active Directory 服務 | 是 | 是 | 是 | 是 | 是 | 是 |
-| **[網域](domains.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[網域](domains.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 新增自訂的第 2 層網域，如 fourthcoffee.com | 是 | 是 | 是 | 是 | 是 | 是 |
 | 新增自訂的第 3 層網域，如 marketing.fourthcoffee.com | 是 | 是 | 是 | 是 | 是 | 是 |
 | 最多可新增 900 個自訂網域 | 是 | 是 | 是 | 是 | 是 | 是 |
@@ -131,11 +131,11 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 以自訂的網域名稱裝載多個 SharePoint Online 公用網站<sup>5</sup> | 否 | 否 | 否 | 否 | 否 | 否 |
 | 自訂網域需要網域所有權驗證 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 自動化網域購買和網域驗證功能可用於透過 Go Daddy 購買的網域 | 否 | 否 | 否 | 否 | 否 | 否 |
-| **[服務健康狀況和持續性](service-health-and-continuity.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[服務健康狀況和持續性](service-health-and-continuity.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 可在 **[服務健康狀況]** 或 **[服務狀態]** 頁面上獲取狀態資訊 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 可在 Microsoft 365 系統管理中心儀表板上獲取個別警示狀態 | 是 | 是 | 是 | 是 | 是 | 是 |
 | **服務健康狀況** RSS 摘要 | 是 | 是 | 是 | 是 | 是 | 是 |
-| **[報告](reports.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[報告](reports.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 使用中和非使用中的信箱 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 新增和已刪除的信箱 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 新的和已刪除的群組 | 是 | 是 | 是 | 是 | 是 | 是 |
@@ -160,20 +160,20 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 使用的瀏覽器 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 使用的作業系統 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 使用 Microsoft 365 報告 web 服務來建立您自己的報表 | 是 | 是 | 是 | 是 | 是 | 是 |
-| **[服務更新](service-updates.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[服務更新](service-updates.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 提供給所有客戶的定期更新 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 需要採取動作時傳送至訊息中心的通知、解決問題、部署功能或您的服務變更 | 是 | 是 | 是 | 是 | 是 | 是 |
 | [Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) 一些服務更新 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 開啟已設定目標發行的選項 | 否 | -- | 否 | 是 | 是 | 是 |
-| **[說明與訓練](help-and-training.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[說明與訓練](help-and-training.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 線上說明 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 社群 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 其他自助資源<sup>12</sup> | 是 | 是 | 是 | 是 | 是 | 是 |
 | 自訂進度訓練 | 是 | 是 | 是 | 是 | 是 | 是 |
-| **[網路功能](networking.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[網路功能](networking.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | IPv4 通訊協定 | 是 | 是 | 是 | 是 | 是 | 是 |
 | IPv6 通訊協定 | 否 | 否 | 否 | 否 | 否 | 否 |
-| **信任** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **信任** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | **[隱私權、安全性及透明性](privacy-security-and-transparency.md)** | 是 | 是 | 是 | 是 | 是 | 是 |
 | 進階資料管理 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 進階安全性管理 | 否 | 否 | 否 | 否 | 否 | 否 |
@@ -196,7 +196,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | Microsoft 資料處理協議 | 否 | 否 | 否 | 否 | 否 | 否 |
 | PCI 規範 PAN 資料 | 否 | 否 | 否 | 否 | 否 | 否 |
 | **[服務連續性](service-health-and-continuity.md)** | | | | | | |
-| **[BlackBerry](blackberry.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[BlackBerry](blackberry.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 使用 BlackBerry Internet Service (BIS) | 是 | 是 | 是 | 是 | 是 | 是 |
 | **[協力程式](partners.md)** | | | | | | |
 | 針對正在使用指定計劃的客戶建立試用邀請和購買訂單 | 是 | 是 | 是 | 是 | 是 | 是 |
@@ -230,7 +230,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 > [!NOTE]
 > 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
 
-| 功能 | 21Vianet 運作的 Office Professional Plus 2013 | 21Vianet 運作的 Office Professional Plus 2016 | 由 21Vianet 運作的 Office 365 專業增強版 | Microsoft 365 Apps 商務版 | 由世紀運作的 Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | Office 365 企業版由世紀運作的 F3 |
+| 功能 | 21Vianet 運作的 Office Professional Plus 2013 | 21Vianet 運作的 Office Professional Plus 2016 | 由 21Vianet 運作的 Office 365 專業增強版 | 由世紀運作的 Microsoft 365 Apps 商務版 | 由世紀運作的 Microsoft 365 商務基本版 | 由世紀運作的 Microsoft 365 商務標準版 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | Office 365 企業版由世紀運作的 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | **Office 應用程式** | | | | | | | | | |
 | [Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) | 是 | 是 | 是 | 是 | 否 | 是 | 否 | 是 | 否 |
@@ -253,7 +253,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | [Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) | 否 | 是 | 否 | 否 | 否 | 是 | 否 | 是 | 否 |
 | [適用於 Windows Phone 手機的 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) | 否 | 是 | 否 | 否 | 否 | 是 | 否 | 是 | 否 |
 | Outlook for Android | 否 | 是 | 是 | 是 | 否 | 是 | 否 | 是 | 否 |
-| **企業價值** | **21Vianet 運作的 Office Professional Plus 2013** | **21Vianet 運作的 Office Professional Plus 2016** | **由 21Vianet 運作的 Office 365 專業增強版** | **Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **企業價值** | **21Vianet 運作的 Office Professional Plus 2013** | **21Vianet 運作的 Office Professional Plus 2016** | **由 21Vianet 運作的 Office 365 專業增強版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 每個使用者可同時在 5 部 PC 或 Mac 上安裝 | 否 | 是 | 是<sup>6</sup> | 是<sup>6</sup> | 否 | 是 | 否 | 是 | 否 |
 | 自動化使用者帳戶的佈建 | 不適用 | 是 | 是 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 多種語系使用者介面 | 是 | 是 | 是 | 否 | 否 | 是 | 否 | 是 | 否 |
@@ -324,18 +324,18 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 > [!NOTE]
 > 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
 
-| 功能 | 由世紀運作的 Microsoft 365 商務基本版 | Microsoft 365 Apps 商務版 | Microsoft 365 商務標準版 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | Office 365 企業版由世紀運作的 F3 |
+| 功能 | 由世紀運作的 Microsoft 365 商務基本版 | 由世紀運作的 Microsoft 365 Apps 商務版 | 由世紀運作的 Microsoft 365 商務標準版 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | Office 365 企業版由世紀運作的 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | **[規劃及部署](../exchange-online-service-description/planning-and-deployment.md)** | | | | | | |
 | 支援混合部署 | 是<sup>9, 10</sup> | 是<sup>10</sup> | 是<sup>9, 10</sup> | 是<sup>10</sup> | 是<sup>10</sup> | 是<sup>10</sup> |
 | 支援 IMAP 移轉 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 支援完全移轉 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 支援階段性移轉 | 是 | 是 | 是 | 是 | 是 | 是 |
-| **[權限](../exchange-online-service-description/permissions.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[權限](../exchange-online-service-description/permissions.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 角色型權限 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 角色群組 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 角色指派原則 | 是 | 是 | 是 | 是 | 是 | 否 |
-| **[郵件原則及合規性](../exchange-online-service-description/message-policy-and-compliance.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[郵件原則及合規性](../exchange-online-service-description/message-policy-and-compliance.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 封存 Exchange Online 式信箱 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 雲端式封存內部部署信箱 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 保留標記和保留原則 | 是 | 是 | 是 | 是 | 是 | 是 |
@@ -349,7 +349,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 郵件流程規則 (傳輸規則) | 是<sup>3</sup> | 是<sup>3</sup> | 是<sup>3</sup> | 是<sup>3</sup> | 是<sup>3</sup> | 是<sup>3</sup> |
 | 資料遺失防護 | 否 | 否 | 否 | 否 | 是 | 否 |
 | 日誌 | 是 | 是 | 是 | 是 | 是 | 是 |
-| **[反垃圾郵件和反惡意程式碼防護](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[反垃圾郵件和反惡意程式碼防護](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 內建反垃圾郵件保護 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 自訂反垃圾郵件原則 | 是 | 是 | 是 | 是 | 是 | 是 <sup>4</sup> |
 | 內建反惡意程式碼保護 | 是<sup>5</sup> | 是<sup>5</sup> | 是<sup>5</sup> | 是<sup>5</sup> | 是<sup>5</sup> | 是<sup>5</sup> |
@@ -357,13 +357,13 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 隔離 - 系統管理員管理 | 是 | 是 | 是 | 是 | 是 | 是 <sup>4</sup> |
 | 隔離 - 使用者自我管理 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 進階威脅防護 | 否 | -- | 否 | 否 | 否 | 否 |
-| **[郵件流程](../exchange-online-service-description/mail-flow.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[郵件流程](../exchange-online-service-description/mail-flow.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 自訂輸出郵件的路由 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 與信任的合作夥伴間的安全傳訊 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 條件式郵件路由 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 新增合作夥伴到輸入安全清單 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 混合電子郵件路由 | 是<sup>9</sup> | -- | 是<sup>9</sup> | 是 | 是 | 是 |
-| **[收件者](../exchange-online-service-description/recipients.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[收件者](../exchange-online-service-description/recipients.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 容量警示 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 雜亂資料 | 是 | 是 | 是 | 是 | 是 | 是 |
 | MailTips | 是 | 是 | 是 | 是<sup>12</sup> | 是<sup>12</sup> | 是<sup>12</sup> |
@@ -384,17 +384,17 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 會議室管理 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 外出回覆 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 行事曆共用 | 是<sup>12</sup> | 是<sup>12</sup> | 是<sup>12</sup> | 是<sup>12</sup> | 是<sup>12</sup> | 是<sup>12</sup> |
-| **[報告功能和疑難排解工具](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[報告功能和疑難排解工具](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | Microsoft 365 系統管理中心報告 | 是 | 是 | 是 | 是 | 是 | 是 |
 | Excel 報告活頁簿 | 否 | 是 | 否 | 是 | 是 | 是 |
 | Web 服務報告 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 郵件追蹤 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 稽核報告 | 是 | 是 | 是 | 是 | 是 | 是 <sup>2</sup> |
 | 整合通訊報告 | 否 | 否 | 否 | 否 | 否 | 否 |
-| **[共用和協同合作](../exchange-online-service-description/sharing-and-collaboration.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[共用和協同合作](../exchange-online-service-description/sharing-and-collaboration.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 同盟共用 (包括行事曆發佈)  | 是<sup>12</sup> | 是<sup>12</sup> | 是<sup>12</sup> | 是<sup>12</sup> | 是<sup>12</sup> | 是<sup>12</sup> |
 | 公用資料夾 | 是 | 是 | 是 | 是 | 是 | 否 |
-| **[用戶端和行動裝置](../exchange-online-service-description/clients-and-mobile-devices.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[用戶端和行動裝置](../exchange-online-service-description/clients-and-mobile-devices.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | Microsoft Outlook | 是 | 是 | 是 | 是 | 是 | 否 <sup>6</sup> |
 | Outlook 網頁版 | 是 | 是 | 是 | 是 | 是 | 是 |
 | Exchange ActiveSync | 是 | 是 | 是 | 是 | 是 | 是 |
@@ -402,29 +402,29 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | SMTP | 是 | 是 | 是 | 是 | 是 | 是 |
 | EWS 應用程式支援 | 是 | 是 | 是 | 是 | 是 | 否 |
 | Mac 版 Outlook | 是 | 是 | 是 | 是 | 是 | 否 |
-| **[語音訊息服務](../exchange-online-service-description/voice-message-services.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[語音訊息服務](../exchange-online-service-description/voice-message-services.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 語音信箱 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 語音信箱與第三方傳真之間的整合 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 第三方語音信箱互通性 | 否 | 是 | 否 | 否 | 否 | 否 |
 | 商務用 Skype 整合 | 是 | 是 | 是 | 是 | 是 | 是 |
-| **[高可用性和業務連續性](../exchange-online-service-description/high-availability-and-business-continuity.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[高可用性和業務連續性](../exchange-online-service-description/high-availability-and-business-continuity.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 在資料中心複寫信箱 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 復原已刪除的信箱 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 復原已刪除的項目 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 單一項目復原 | 是 | 是 | 是 | 是 | 是 | 否 |
-| **[互通性、連線能力和相容性](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[互通性、連線能力和相容性](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | OWA 和 Outlook 中的商務用 Skype 顯示狀態 | 是 | 是 | 是 | 是 | 是 | 否 |
 | SharePoint 互通性 | 是 | 是 | 是 | 是 | 是 | 是 |
 | EWS 連線支援 | 是 | 是 | 是 | 是 | 是 | 是 |
 | SMTP 轉送支援 | 是 | 是 | 是 | 是 | 是 | 是 |
-| **[Exchange Online 設定與管理](../exchange-online-service-description/exchange-online-setup-and-administration.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[Exchange Online 設定與管理](../exchange-online-service-description/exchange-online-setup-and-administration.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | Microsoft Office 365 入口網站存取 | 是 | 是 | 是 | 是 | 是 | 是 |
 | Microsoft 365 系統管理中心存取 | 是 | 是 | 是 | 是 | 是 | 否 |
 | Exchange 系統管理中心存取 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 遠端 Windows PowerShell 存取 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 用於行動裝置的 ActiveSync 原則 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 使用報告 | 是 | 是 | 是 | 是 | 是 | 是 |
-| **[擴展服務 - 自訂、增益集和資源](../exchange-online-service-description/exchange-online-service-description.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[擴展服務 - 自訂、增益集和資源](../exchange-online-service-description/exchange-online-service-description.md)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | Outlook 增益集和 Outlook MAPI | 是<sup>1</sup> | 是<sup>1</sup> | 是<sup>1</sup> | 是<sup>1</sup> | 是<sup>1</sup> | 否 |
 
 <sup>1</sup> 有些協力廠商的 web 元件和增益集可能無法使用。
@@ -578,12 +578,15 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 > [!NOTE]
 > 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
 
-| 開發人員功能 | 由世紀運作的 Microsoft 365 商務基本版 | Microsoft 365 Apps 商務版 | Microsoft 365 商務標準版 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | Office 365 企業版由世紀運作的 F3 |
+| 開發人員功能 | 由世紀運作的 Microsoft 365 商務基本版 | 由世紀運作的 Microsoft 365 Apps 商務版 | 由世紀運作的 Microsoft 365 商務標準版 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | Office 365 企業版由世紀運作的 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | 應用程式目錄 (SharePoint) | 是 | 是 | 是 | 是 | 是 | 是 |
 | 應用程式部署：雲端託管的應用程式 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 應用程式部署：SharePoint 託管的應用程式 | 是 | 是 | 是 | 是 | 是 | 是 |
 | App Management Service | 是 | 是 | 是 | 是 | 是 | 是 |
+| 封存 | 是 | n/a | 是 | 是 | 是 | 否 |
+| 警示原則 | 否 | n/a | 否 | 否 | 否 | 否 |
+| 基本審核<sup>2</sup> | 是 | n/a | 是 | 是 | 是 | 是 |
 | BCS：外部清單警示 | 否 | 否 | 否 | 否 | 是 | 否 |
 | BCS：應用程式範圍外部內容類型 (ECTs) | 否 | 否 | 否 | 否 | 是 | 否 |
 | BCS：商務資料網頁組件 | 否 | 否 | 否 | 否 | 是 | 否 |
@@ -596,14 +599,22 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 以瀏覽器為基礎的自訂 | 是 | 是 | 是 | 是 | 是 | 是 |
 | Client Object Model (OM) | 是 | 是 | 是 | 是 | 是 | 是 |
 | 用戶端轉譯 (CSR) | 是 | 是 | 是 | 是 | 是 | 是 |
+| 內容搜尋 | 否 | n/a | 否 | 否 | 否 | 否 |
 | 自訂網站定義 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 自訂網站佈建頁面 | 否 | 否 | 否 | 否 | 否 | 否 |
+| Exchange Online、SharePoint Online 及商務用 OneDrive 適用的資料外洩防護 | 否 | n/a | 是 | 否 | 是 | 否 |
 | 開發人員網站 | 是 | 否 | 是 | 是 | 是 | 是 |
 | 表單型應用程式 | 是 | 否 | 是 | 是 | 是 | 是 |
 | 完全信任解決方案 | 否 | 否 | 否 | 否 | 否 | 否 |
+| 電子文件探索案例 | 否 | n/a | 否 | 否 | 否 | 否 |
+| 電子文件探索匯出 | 否 | n/a | 否 | 否 | 否 | 否 |
+| 電子文件探索保留 (包括查詢式 電子文件探索保留) | 否 | n/a | 否 | 否 | 否 | 否 |
+| 資訊管理<sup>1</sup> | 是 | n/a | 是 | 是 | 是 | 是 |
 | InfoPath Forms Services | 否 | 否 | 否 | 否 | 無<sup>14</sup> | 否 |
 | JavaScript Object Model | 是 | 是 | 是 | 是 | 是 | 是 |
 | 清單和程式庫 API | 是 | 是 | 是 | 是 | 是 | 是 |
+| 手動敏感度標籤 | 否 | n/a | 否 | 是 | 是 | 否 |
+| Office 365 郵件加密 (OME) 基本 | 否 | n/a | 否 | 否 | 是 | 否 |
 | 遠端事件接收器 | 是 | 否 | 是 | 是 | 是 | 是 |
 | REST API | 是 | 是 | 是 | 是 | 是 | 是 |
 | SharePoint Design Manager | 是 | 否 | 是 | 是 | 是 | 是 |
@@ -615,7 +626,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 工作負載 API：ECM API | 是 | 否 | 是 | 是 | 是 | 是 |
 | 工作負載 API：搜尋 API | 是 | 否 | 是 | 是 | 是 | 是 |
 | 工作負載 API：社交 API | 是 | 否 | 是 | 是 | 是 | 是 |
-| **IT 專業人員功能** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **IT 專業人員功能** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | Active Directory 同步處理 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 備用存取對應 (AAM)  | 否 | 否 | 否 | 否 | 否 | 否 |
 | 分析平臺 | 否 | 否 | 否 | 否 | 否 | 否 |
@@ -652,7 +663,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 升級評估網站集合 | 否 | 否 | 否 | 是 | 是 | 是 |
 | 使用報告和記錄 | 否 | 否 | 否 | 否 | 否 | 否 |
 | Windows PowerShell 支援 | 是 | 是 | 是 | 是 | 是 | 是 |
-| **內容功能** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **內容功能** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 協助工具標準支援 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 資產庫增強功能/視訊支援 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 稽核 | 是 | 是 | 是 | 是 | 是 | 是 |
@@ -706,7 +717,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | WCM：建議 | 是 | 否 | 是 | 是 | 是 | 是 |
 | WCM：搜尋引擎最佳化 (SEO) | 是 | 否 | 是 | 是 | 是 | 是 |
 | Word Automation Services | 否 | 否 | 否 | 否 | 否 | 否 |
-| **觀點功能** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **觀點功能** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | Business Intelligence Center | 否 | 否 | 否 | 否 | 否 | 否 |
 | 計算量值和成員 | 否 | 否 | 否 | 否 | 是 | 否 |
 | 資料連線庫 | 否 | 否 | 否 | 否 | 是 | 否 |
@@ -727,7 +738,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 使用包含資料模型的 Excel 活頁簿並與其互動 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 網頁<sup>14，15</sup>的 Visio | 是 | 是 | 是 | 是 | 是 | 是 |
 | Visio服務<sup>14</sup> | 否 | 否 | 否 | 否 | 否 | 否 |
-| **搜尋功能** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **搜尋功能** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 高級內容處理 | 是 | 否 | 是 | 是 | 是 | 是 |
 | Continuous crawls | 是 | 是 | 是 | 是 | 是 | 是 |
 | 自訂實體擷取 | 否 | 否 | 否 | 否 | 否 | 否 |
@@ -756,12 +767,12 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 垂直式搜尋：「人員」 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 垂直式搜尋： "影片" | 否 | 否 | 否 | 否 | 是 | 否 |
 | 「此清單」搜尋 | 是 | 是 | 是 | 是 | 是 | 是 |
-| **網站功能** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **網站功能** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 變更外觀 | 是 | 否 | 是 | 是 | 是 | 是 |
 | Microsoft Office 用戶端連線 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 跨瀏覽器支援 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 自訂管理路徑 | 否 | 否 | 否 | 否 | 否 | 否 |
-| 控管 | 是 | 是 | 是 | 是 | 是 | 是 |
+| 治理 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 混合式應用程式啟動器 | 是 | 是 | 是 | 是 | 是 | 是<sup>15</sup> |
 | 混合式 OneDrive 商務和網站 | 是 | 是 | 是 | 是 | 是 | 是<sup>15</sup> |
 | 大量清單延展性和管理 | 是 | 是 | 是 | 是 | 是 | 是 |
@@ -786,7 +797,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 網站使用頁面 | 否 | 否 | 否 | 否 | 否 | 否 |
 | Variations | 是 | 否 | 是 | 是 | 是 | 否 |
 | Work Management Service | 是 | 否 | 是 | 是 | 是 | 是 |
-| **社交功能** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **社交功能** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | Ask Me About | 否 | 否 | 否 | 否 | 否 | 否 |
 | 個人部落格 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 在社群中的聲譽、徽章授予及仲裁 | 否 | 否 | 否 | 否 | 否 | 否 |
@@ -810,7 +821,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 趨勢標記 | 否 | 否 | 否 | 否 | 否 | 否 |
 | Wikis | 否 | 否 | 否 | 否 | 否 | 否 |
 | Yammer | 否 | 否 | 否 | 否 | 否 | 否 |
-| **附加元件** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **附加元件** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 額外儲存空間 | 是 | 否 | 是 | 是 | 是 | 是 |
 | Azure 布建的應用程式： Access services<sup>3</sup> | 是 | 是 | 是 | 是 | 是 | 是 |
 | Azure 布建的應用程式： Azure 輕型 Web Role 中的自訂程式碼 (LWR)  | 是 | 是 | 是 | 是 | 是 | 是 |
@@ -839,7 +850,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 > - 此表格指出不同 Office 365 選項中的用戶端和服務可用性。 如果您想要在不同的商務用 Skype 桌面用戶端、網頁用戶端和行動用戶端之間進行個別功能的比較，請參閱[桌面用戶端比較表](/lyncserver/lync-server-2013-desktop-client-comparison-tables)及行動[用戶端比較表](/lyncserver/lync-server-2013-mobile-client-comparison-tables)。
 > - 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
 
-| 功能 | 由世紀運作的 Microsoft 365 商務基本版 | Microsoft 365 Apps 商務版 | Microsoft 365 商務標準版 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | Office 365 企業版由世紀運作的 F3 |
+| 功能 | 由世紀運作的 Microsoft 365 商務基本版 | 由世紀運作的 Microsoft 365 Apps 商務版 | 由世紀運作的 Microsoft 365 商務標準版 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | Office 365 企業版由世紀運作的 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | **[商務用 Skype Online 用戶端](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** | | | | | | |
 | 商務用 Skype | 是<sup>1</sup> | 是<sup>1</sup> | 是<sup>1</sup> | 是<sup>1, 4</sup> | 是 | 否 |
@@ -848,7 +859,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | Lync for Mac 2011 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 商務用 Skype 行動用戶端 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 商務用 Skype Web App | 是 | 是 | 是 | 是 | 是 | 否 |
-| **[立即訊息、 目前狀態及連絡人](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[立即訊息、 目前狀態及連絡人](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 「PC 對 PC」立即訊息與顯示狀態 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 多方立即訊息與顯示狀態 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 連絡人卡片設定 | 是 | 是 | 是 | 是 | 是 | 否 |
@@ -860,18 +871,18 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 通訊群組清單延伸 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 常設聊天室 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 寄件者/收件者的相片 | 是 | 是 | 是 | 是 | 是 | 否 |
-| **[Skype-Skype 音訊、 視訊和媒體](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[Skype-Skype 音訊、 視訊和媒體](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 透過以視訊為基礎的畫面共用 (VbSS) 的桌面共用 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 透過遠端桌面通訊協定 (RDP) 的桌面和應用程式共用 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 檔案傳輸 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 影片 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 網路服務品質 (QoS) - 區別服務代碼點 (DSCP) | 否 | 否 | 否 | 否 | 否 | 否 |
-| **[同盟和公用 IM 連線](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[同盟和公用 IM 連線](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | Office Communications Server 2007 R2 與 Lync Server 2010 (IM、顯示狀態、音訊、視訊及會議) | 是 | 否 | 是 | 是 | 是 | 否 |
 | XMPP (例如 Google Talk 所使用) 與 Sametime 同盟 | 否 | 否 | 否 | 否 | 否 | 否 |
 | Skype 同盟 | 否 | 否 | 否 | 否 | 否 | 否 |
 | AOL 和 Yahoo! 同盟 | 否 | 否 | 否 | 否 | 否 | 否 |
-| **[Skype 商務線上會議](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[Skype 商務線上會議](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 臨機操作和排程音訊會議 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 臨機操作和排程視訊會議 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 當前發言者視訊 | 是 | 是 | 是 | 是 | 是 | 否 |
@@ -900,7 +911,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 在 Outlook 網頁版中排程線上會議 | 是 | 是 | 是 | 是 | 是 | 否 |
 | Outlook 委派排程會議 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 從 Outlook 中使用靜態會議 ID 建立公開會議 | 否 | 否 | 否 | 否 | 否 | 否 |
-| **語音通話** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **語音通話** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 忙碌選項 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 分公司生存能力 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 通話許可控制 | 否 | 否 | 否 | 否 | 否 | 否 |
@@ -939,7 +950,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | [通話方案](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (國際通話方案，含有必要的附加元件購買)  | 否 | 否 | 否 | 否 | 否 | 否 |
 | [通訊點數](/microsoftteams/what-are-communications-credits) | 否 | 否 | 否 | 否 | 否 | 否 |
 | 商務用 Skype 語音 | 否 | 否 | 否 | 否 | 否 | 否 |
-| **[安全性和封存](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[安全性和封存](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | IM 與媒體加密 | 是 | 是 | 是 | 是 | 是 | 否 |
 | IM 與檔案篩選 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 用戶端版本控制 | 是 | 是 | 是 | 是 | 是 | 否 |
@@ -948,7 +959,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 應用程式共用和桌面共用封存 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 使用者層級的封存設定 | 否<sup>2</sup> | 否<sup>2</sup> | 否<sup>2</sup> | 否<sup>2</sup> | 否 | 否 |
 | 登入追蹤檔案 | 是 | 是 | 是 | 是 | 是 | 否 |
-| **[Exchange 和 SharePoint 互通性](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[Exchange 和 SharePoint 互通性](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | 與 Exchange Server 的目前狀態互通性 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 與 Exchange Online 的目前狀態互通性 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 與 Exchange Server 的整合通訊互通性 | 否 | 否 | 否 | 否 | 否 | 否 |
@@ -958,7 +969,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 與 Exchange Online 的封存互通性 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 使用 SharePoint 伺服器進行技能搜尋 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 線上的技能搜尋 SharePoint | 否 | 否 | 否 | 否 | 否 | 否 |
-| **[Skype 商務 Online 系統管理與管理](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** | **由世紀運作的 Microsoft 365 商務基本版** | **Microsoft 365 Apps 商務版** | **Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
+| **[Skype 商務 Online 系統管理與管理](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** | **由世紀運作的 Microsoft 365 商務基本版** | **由世紀運作的 Microsoft 365 Apps 商務版** | **由世紀運作的 Microsoft 365 商務標準版** | **由 21Vianet 運作的 Office 365 Enterprise E1** | **由 21Vianet 運作的 Office 365 Enterprise E3** | **Office 365 企業版由世紀運作的 F3** |
 | Microsoft Office 365 入口網站 | 是 | 是 | 是 | 是 | 是 | 否 |
 | Microsoft 365 系統管理中心 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 商務用 Skype 系統管理中心 | 是 | 是<sup>3</sup> | 是 | 是 | 是 | 否 |
@@ -1166,10 +1177,10 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 |[管理、部署和擴充性](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|否<sup>2</sup>|是|是|否|是|
 |[快速入門](../project-online-service-description/core-services-functionality.md#getting-started)|是|是|是|否|是|
 |[問題和風險管理 (適用於小組成員)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|是|是|是|否|是|
-|[Office 365 信任中心](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|否|否|否|N/A|N/A|
+|[Office 365 信任中心](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|否|否|否|不適用|不適用|
 |[PPM 合作夥伴生態系統](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|是|是|是|否|是|
-|[服務可靠性](../project-online-service-description/core-services-functionality.md#service-reliability)|是|是|是|N/A|N/A|
-|[服務更新](../project-online-service-description/core-services-functionality.md#service-updates)|是|是|是|N/A|N/A|
+|[服務可靠性](../project-online-service-description/core-services-functionality.md#service-reliability)|是|是|是|不適用|不適用|
+|[服務更新](../project-online-service-description/core-services-functionality.md#service-updates)|是|是|是|不適用|不適用|
 |[小組成員共同作業](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|是|是|是|否|是|
 |[時間和任務管理 (適用於小組成員)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|是|是|是|否|是|
 |**專案管理**|**Project Online 21Vianet 運作的 Office 365 基本版**|**Project Online 21Vianet 運作的 Office 365 專業版**|**Project Online 21Vianet 運作的 Office 365 進階版**|**21Vianet 運作的 Project Professional 2016 for Office 365**|**21Vianet 運作的 Project Server 2016 for Office 365**|

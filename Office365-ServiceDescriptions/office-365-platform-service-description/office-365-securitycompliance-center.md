@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全性與 &amp; 合規性中心的設計目的是協助您跨組織的 Office 365 管理規範功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-ms.openlocfilehash: a04ba0cb7c9160bc929c02475edd68146cc9a1de11648b75ea5d50df9cc8b974
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 53b1c2c0f9f2af8fd287a2466d33b076ae4ba039
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701622"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363600"
 ---
 # <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 
@@ -35,7 +35,7 @@ ms.locfileid: "54701622"
 |[行動裝置管理](/microsoft-365/admin/basic-mobility-security/set-up) | 是 | 是 | 是 | 是 | 是 | 是 | 是 | 是 |
 |[Exchange Online、SharePoint 線上及商務用 OneDrive](/microsoft-365/compliance/data-loss-prevention-policies)<sup>7，9</sup>的資料遺失防護 | 否 | 是 | 是 | 否 | 是 | 是 | 否 | 否 |
 |[Microsoft Teams 的通訊資料遺失防護](/microsoft-365/compliance/dlp-microsoft-teams) | 否 | 否 | 否 | 否 | 否 | 是 | 否 |  |
-|[手動敏感度標籤](/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 否 | 否 | 否 | 是 | 是 | 是 | 是 | 否 |
+|[手動敏感度標籤](/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 否 | 否 | 是 | 是 | 是 | 是 | 是 | 否 |
 |自動敏感度標籤 | 否 | 否 |否 | 否 | 否 | 是 | 是 | 否 |
 |[資訊屏障](/microsoft-365/compliance/information-barriers) | 否 | 否  |否  | 否 | 否 | 是 | 否  | 否  |
 |[資訊管理](/microsoft-365/compliance/manage-information-governance)<sup>1</sup> | 是<sup>11</sup> | 是<sup>11</sup>  |是<sup>11</sup>  | 是 | 是 | 是 | 是 | 是<sup>11</sup>  |
@@ -50,7 +50,7 @@ ms.locfileid: "54701622"
 |[基本審核](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |是 |是 |是 |是 |是 |是 |是 |是 |
 |[進階稽核](/microsoft-365/compliance/advanced-audit) |否 |否 |否 |否 |否 |是 |是 |否 |
 |[通訊合規性 (監察原則) ](/microsoft-365/compliance/supervision-policies) |否 |否 |否 |否 |否 |是 |是 |否 |
-|[Office 365 郵件加密 (OME) 基本](/microsoft-365/compliance/ome)  |否 |否 |否 |否 |是 |是 |是 |否 |
+|[Office 365 郵件加密 (OME) 基本](/microsoft-365/compliance/ome)  |否 |否 |是 |否 |是 |是 |是 |否 |
 |[Office 365 進階郵件加密](/microsoft-365/compliance/ome-advanced-message-encryption)  |否 |否 |否 |否 |否 |是 |是 |否 |
 |[特殊許可權存取管理](/microsoft-365/compliance/privileged-access-management-overview)  |否 |否 |否 |否 |否 |是 |否 |否 |
 |[客戶金鑰](/microsoft-365/compliance/customer-key-overview)  |否 |否 |否 |否 |否 |是 |否 |否 |

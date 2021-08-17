@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 政府的概述，並說明購買選項。
-ms.openlocfilehash: 29138c4cd9f572c1281ccb338ee034812365909ffd861c66609de03ea3a2b8f4
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 405bdf813387e78c8480634a463bb86518e04b3a
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701902"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363580"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365政府-如何購買
 
@@ -106,8 +106,8 @@ GCC 和 GCC 的高產品皆可供任何可供 Microsoft 政府雲端使用的客
 
 | 項目 | GCC | GCC High | DoD |
 |:-----|:-----|:-----|:-----|
-|**Sku** |適用于政府的 .gov，GOVCON （適用于商業性） |GCC-High |DOD | 
-|**通道** |EA (LSP) ，AOS-G，MPSA，Web Direct，CSP |EA (LSP) 、AOS-G |Ea |
+|**SKU** |適用于政府的 .gov，GOVCON （適用于商業性） |GCC-High |DOD | 
+|**通道** |EA (LSP) ，AOS-G，MPSA，Web Direct，CSP |EA (LSP) 、AOS-G |EA |
 
 ## <a name="how-do-i-buy-microsoft-365-government"></a>如何購買 Microsoft 365 政府版？
 
@@ -134,41 +134,50 @@ GCC 和 GCC 的高產品皆可供任何可供 Microsoft 政府雲端使用的客
 **AOS-G 合作夥伴 GCC 和 GCC 高 (500 座位)**
 
 - Accenture 聯邦服務，LLC
-- Agile IT，Inc.。
+- Agile IT，Inc。
+- 美洲技術服務，Inc.。
 - 套用的資訊科學，Inc.。
-- Booz Allen Hamilton，Inc.。
+- Arctic 資訊技術，Inc.。
+- 呸
 - C3 整合式解決方案
-- Caci
+- CACI
 - Carahsoft
+- Catapult Systems，Inc.。
 - CGI 聯邦 Inc.。
-- Conquest 網路
-- CyberSheath Services 國際、LLC
+- Conquest 網路 (UDT) 
+- CyberSheath
+- Daymark 解決方案，Inc.。
 - Dox 電子 Inc.。
-- Enlighten IT 諮詢，LLC
+- 啟發
 - F1 方案 Inc.。
 - 四個點的技術，LLC
-- 一般 Dynamics Information 技術協會 Inc.。
+- GDIT
+- 黃金五 LLC
 - Hypori，Inc.。
 - Imager 軟體，Inc. ISC
 - Jackpine
 - 賈斯珀
 - Johnson 技術系統（Inc.）。
-- Kamind IT，Inc.。
+- KAMIND IT，Inc.。
 - KTL 解決方案，Inc.。
 - LiftOff、LLC
-- ManTech Advanced Systems 國際，Inc.。
-- NIMBUS 邏輯，LLC
+- ManTech
+- MicroTechnologies，Inc.。
+- Nimbus 邏輯 LLC
 - 諾斯羅普·格魯
 - Novetta
-- Perspecta Enterprise 方案 LLC
+- Permuta 技術，Inc.。
+- Perspecta
 - 行星技術-Inc.。
 - 平靜專業人員，LLC
 - R3，LLC
 - 紅色河
 - 上汽
 - Smartronix
-- 峰會7
+- 峰會7系統
 - TechTrend，Inc.。
+- Valcom 鹽湖城，LC dba VCLM
+- VC3，INC。
 - Vexcel
 
 **附注：** 上述清單中 (lsp) 中的所有 Microsoft 授權方案提供者都可以透過 Enterprise 合約 (EA) ，以建立客戶價格表 (CPS) ，以 GCC 和 GCC 高的速度。 不符合 EA 的組織可以透過所列的 AOS-G 合作夥伴或 CSP 合作計畫，購買 GCC 授權。
@@ -177,7 +186,7 @@ GCC 和 GCC 的高產品皆可供任何可供 Microsoft 政府雲端使用的客
 
 ## <a name="what-trials-are-available"></a>哪些實驗可供使用？
 
-- [Ems。](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) 客戶可以在 EMS 頁面的右上方選取 [立即嘗試] 按鈕，以在 Office 商務入口網站上進行封閉註冊程式，該程式會將其路由傳送至 Azure Active Directory (AAD) 入口網站。
+- [EMS。](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) 客戶可以在 EMS 頁面的右上方選取 [立即嘗試] 按鈕，以在 Office 商務入口網站上進行封閉註冊程式，該程式會將其路由傳送至 Azure Active Directory (AAD) 入口網站。
 - [Office 365。](https://aka.ms/gcctrial) 僅適用于 GCC 的免費一月試用版。  
 - Microsoft 不會向商業客戶提供 GCC Office 365 的實驗，也沒有 GCC 高或 DoD 的實驗。
 
