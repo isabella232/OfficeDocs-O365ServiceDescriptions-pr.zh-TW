@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 365 中 SharePoint Syntex 使用高級人工智慧 (AI) 和加工教學，以 amplify 人工專業知識、自動化內容處理，以及將內容轉換為知識。
-ms.openlocfilehash: 79d145aa9efac09db8b6982ff8a11cf0282c1b66301b170b31cd3680c431af3b
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e746b3189513ea4c5f594382b6ce6392d648a334
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702481"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371750"
 ---
 # <a name="sharepoint-syntex-service-description"></a>SharePoint Syntex 服務描述 
 
@@ -34,32 +34,32 @@ Syntex 可透過多個訂閱計畫取得，以符合組織的需求。 每個計
 下表顯示可以新增 Syntex 的方案。 如需其他計畫詳細資料，請參閱[Microsoft 365 和 Office 365 計畫選項](../office-365-platform-service-description/office-365-plan-options.md)。<br><br>
 
 
-| 小型企業方案            | Enterprise 方案         | 教育計畫     |
-| ------------------------------- | ------------------------ | ------------------- |
-| Microsoft 365 商務基本版    | Office 365 E1            | Office 365 A1       |
-| Microsoft 365 商務標準版 | Office 365 E3            | Office 365 A3       |
-| Microsoft 365 商務進階版  | Office 365 E5            | Office 365 A5       |
-|                                 | Office 365鍵            |                     |
-|                                 | Microsoft 365 F1         |                     |
-|                                 | Microsoft 365 F3         |                     |
-|                                 | Microsoft 365 E3         |                     |
-|                                 | Microsoft 365 E5         |                     |
-|                                 | SharePoint Online 方案 1 |                     |
-|                                 | SharePoint Online 方案 2 |                     |
-|                                 | SharePoint Online Kiosk  |                     |
+| 小型企業方案            | Enterprise 方案         | 教育計畫     | 政府計畫         |
+| ------------------------------- | ------------------------ | ------------------- | ------------------------ |
+| Microsoft 365 商務基本版    | Office 365 E1            | Office 365 A1       | Office 365 政府版 G1 |
+| Microsoft 365 商務標準版 | Office 365 E3            | Office 365 A3       | Office 365 Government G3 |
+| Microsoft 365 商務進階版  | Office 365 E5            | Office 365 A5       | Office 365 政府版 G5 |
+|                                 | Office 365鍵            |                     | Office 365 政府版鍵 |
+|                                 | Microsoft 365 F1         |                     |                          |
+|                                 | Microsoft 365 F3         |                     |                          |
+|                                 | Microsoft 365 E3         |                     |                          |
+|                                 | Microsoft 365 E5         |                     |                          |
+|                                 | SharePoint Online 方案 1 |                     |                          |
+|                                 | SharePoint Online 方案 2 |                     |                          |
+|                                 | SharePoint Online Kiosk  |                     |                          |
 
 ## <a name="feature-availability"></a>功能可用性
 
 下表列出各種方案中可用的主要 Syntex 功能。 適用某些注意事項。 此表格可能會變更而不另行通知。 如需最新、完整的功能清單，請參閱[SharePoint Syntex 方案和價格頁面](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)。<br><br>
 
-| 功能 | 小型企業方案 | Enterprise 方案 | 教育計畫 |
-|--|--|--|--|
-| [Syntex 內容中心](sharepoint-syntex-features.md#syntex-content-center) | 是 | 是 | 是 |
-| [物件識別](sharepoint-syntex-features.md#object-recognition) | 是 | 是 | 是 |
-| [文件瞭解](sharepoint-syntex-features.md#document-understanding) | 是 | 是 | 是 |
-| [表單處理](sharepoint-syntex-features.md#form-processing) | 是 | 是 | 是 |
-| [Microsoft Graph 內容連接器](sharepoint-syntex-features.md#microsoft-graph-content-connectors) | 是 | 是 | 是 |
-| [高級分類法服務](sharepoint-syntex-features.md#advanced-taxonomy-services) | 是 | 是 | 是 |
+| 功能 | 小型企業方案 | Enterprise 方案 | 教育計畫 | 政府計畫 |
+|--|--|--|--|--|
+| [Syntex 內容中心](sharepoint-syntex-features.md#syntex-content-center) | 是 | 是 | 是 | 是 |
+| [物件識別](sharepoint-syntex-features.md#object-recognition) | 是 | 是 | 是 | 是 |
+| [文件瞭解](sharepoint-syntex-features.md#document-understanding) | 是 | 是 | 是 | 是 |
+| [表單處理](sharepoint-syntex-features.md#form-processing) | 是 | 是 | 是 | 是 |
+| [Microsoft Graph 內容連接器](sharepoint-syntex-features.md#microsoft-graph-content-connectors) | 是 | 是 | 是 | 是 |
+| [高級分類法服務](sharepoint-syntex-features.md#advanced-taxonomy-services) | 是 | 是 | 是 | 是 |
 
 ## <a name="learn-more"></a>深入了解
 

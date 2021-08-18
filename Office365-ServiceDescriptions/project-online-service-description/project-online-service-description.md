@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 為專案產品群組管理 (PPM) 及日常運作的彈性線上解決方案。 透過 Project Online Office 365 提供強大的專案管理功能，可用於規劃、排定專案與專案組合的投資，甚至幾乎任何裝置上幾乎都沒有任何的裝置。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: a6c4e9b5602f32d9751fab3cd40a580d9465fc472f41f317cd1a635a48eb3793
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 5b0674e4b26718d4e2d4aef6d0d4db59379d951b
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702795"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371790"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -111,7 +111,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以符合組織的需�
 |建立資源要求<sup>12</sup> |  | 僅供檢視 | 僅供檢視 | 是 | 是 |
 |接受預約提案<sup>12</sup> |  | 僅供檢視 | 僅供檢視 | 是 | 是 |
 |建立和更新預定以滿足資源要求<sup>12</sup> |  | 僅供檢視 | 僅供檢視 | 僅供檢視 | 是 |
-|管理您資源上的技能/proficiencies |  | 僅供檢視 | 僅供檢視 | 是 | 是 |
+|管理您資源上的技能/proficiencies |  | 僅供檢視 | 僅供檢視 | 僅供檢視 | 是 |
 |藍圖 | 從 Microsoft Project Online、網頁 Microsoft Project，以及 Azure Boards 專案中，建立跨專案的視覺、互動的路標。<sup>2</sup>使用 Project 方案1您可以取得藍圖的唯讀許可權。 使用 Project 方案3或 Project 方案5，您也可以建立路標。 | 僅檢視 | 僅檢視 | 是 | 是 |
 |**報告**<sup>3</sup> ||||||
 |從 web 資料的 *Project* 讀取報表 | 查看現成或自訂的報表，以及可瞭解專案、計畫、產品群組和資源資料的儀表板。 | 是 | 是 | 是 | 是 |

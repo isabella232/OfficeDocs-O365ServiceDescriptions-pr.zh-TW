@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的授權指導方針，以協助避免因未授權存取的潛在服務中斷。
-ms.openlocfilehash: e6182db877f5d1202a30d5425deec89ad6cbdb0f563f43990a51b47ec9bba033
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 9126cfa8d055fe9a800a6c498e79ebf540b378d2
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663336"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371760"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>安全規範的 Microsoft 365 授權指導方針 &amp;
 
@@ -407,9 +407,10 @@ Microsoft 提供可在 Microsoft 365 合規性中心中設定的協力廠商資�
 您將需要下列其中一個授權，才能 Teams 聊天中取得 DLP 保護的支援：
 
 - Microsoft 365 E5/A5/G5
-- Microsoft 365 E5/A5/G5 合規性
+- Microsoft 365 E5/A5/G5/F5 合規性
+- Microsoft 365F5 安全性 & 合規性
 - Microsoft 365 E5/A5/G5 資訊保護和管理
-- Office 365 E5/A5/G5 
+- Office 365 E5/A5/G5
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -547,7 +548,7 @@ Microsoft 365 E3/A3/Business 進階版，Office 365 E3/A3，及 Office 365 資�
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
 
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 資訊保護和控管的授權使用者，可受益于 Teams 的通訊 DLP。
+Office 365 E5/A5/G5 的授權使用者、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 相容性、Microsoft 365 F5 安全性 + 合規性，以及 Microsoft 365 E5/A5/G5 資訊保護和控管，都能受益于 Teams 的通訊 DLP。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
@@ -697,7 +698,7 @@ Microsoft 365 中的「高級審計」為使用者和系統管理員活動提供
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些使用者可從此服務獲益？
 
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合規性及 Microsoft 365 E5/A5/G5 eDiscovery 和 Audit 的授權使用者可從高級審核中受益。
+Office 365 E5/A5/G5 的授權使用者、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 相容性、Microsoft 365 F5 安全性 + 合規性，以及 Microsoft 365 E5/A5/G5 eDiscovery 和 Audit 可從高級審核中受益。
 
 使用高級審計的授權使用者，以及10年的審計記錄保留附加元件，可從10年的審計記錄保留中受益。
 

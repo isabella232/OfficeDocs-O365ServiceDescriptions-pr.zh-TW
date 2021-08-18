@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已 Office 365 美國政府方案 (或 Office 365 政府版) 中建立的。 本文概要說明 Office 365 政府版 US 環境所特有的功能。
-ms.openlocfilehash: e9d0b23037cb3b033e55fe143c98830707efb45a29b4fc25d6f6f2a4e727bc4f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: efcef9de537f1d3750a0b282a40d1f015c8bb82c
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701891"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371780"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -142,16 +142,17 @@ Office 365我們的政府客戶可以使用 Azure 政府 ExpressRoute 服務，�
 
 |Office 365 服務|Office 365 Government G1|Office 365 Government G3|Office 365 政府版 G5|Office 365 政府版鍵|
 |---|---|---|---|---|
-|網頁版 Office|是|是|是|是|
-|Microsoft 365 Apps 企業版|否|是|是|否|
 |Exchange Online|是|是|是|是|
 |Exchange Online Protection|是|是|是|是|
-|SharePoint Online|是|是|是|是|
+|Microsoft 365 Apps 企業版|否|是|是|否|
+|網頁版 Office|是|是|是|是|
 |商務用 OneDrive|是|是|是|是|
-|Skype for Business (Instant Messaging &amp; Presence)|是<sup>1</sup>|是|是|是<sup>1</sup>|
-|語音電話系統、音訊會議|否<sup>2</sup>|否<sup>2</sup>|是<sup>5</sup>|否|
 |Power BI Pro|否<sup>2</sup>|否<sup>2</sup>|是|否<sup>2</sup>|
 |Project Online|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|
+|SharePoint Online|是|是|是|是|
+|SharePoint Syntex|是|是|是|是|
+|Skype for Business (Instant Messaging &amp; Presence)|是<sup>1</sup>|是|是|是<sup>1</sup>|
+|語音電話系統、音訊會議|否<sup>2</sup>|否<sup>2</sup>|是<sup>5</sup>|否|
 |Visio 網頁版|否<sup>6</sup>|否<sup>6</sup>|否<sup>6</sup>|否<sup>6</sup>|
 |Yammer Enterprise|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|
 

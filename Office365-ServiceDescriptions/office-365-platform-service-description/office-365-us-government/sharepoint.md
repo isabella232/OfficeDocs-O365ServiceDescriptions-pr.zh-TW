@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 深入瞭解美國政府雲端客戶的 SharePoint 功能可用性。
-ms.openlocfilehash: ed8c3581411a99631b328e6aceca50bcb7c6e446227266824a0f66916fa62216
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 77b72801b5c1eb0f80fa94aded406000e339d98c
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701822"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371769"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>適用于美國政府環境的 SharePoint
 
@@ -64,6 +64,8 @@ ms.locfileid: "54701822"
 如需政府 Azure Active Directory 功能的相關資訊，請參閱[Azure 政府安全性 + 身分識別檔](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)。 
 
 如需有關適用于政府之 Azure 資訊保護功能的詳細資訊，請參閱[Azure 資訊保護進階版政府服務說明](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description)。 
+
+如需 SharePoint Syntex 功能的相關資訊，請參閱[SharePoint Syntex 功能服務說明](/office365/servicedescriptions/sharepoint-syntex-service-description/sharepoint-syntex-features)。
 
 ## <a name="sites-and-content"></a>網站和內容
 
