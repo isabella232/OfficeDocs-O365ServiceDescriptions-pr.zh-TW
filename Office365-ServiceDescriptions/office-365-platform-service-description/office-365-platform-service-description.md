@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: 您可以使用各種方案中的 Microsoft 365 和 Office 365，以最大程度滿足您組織的需求。 如果您正在尋找計畫（包括 Exchange Online 計畫）之間的差異，本文會顯示每個方案中所包含的功能。
-ms.openlocfilehash: 801bc4baf71897360b6ed9753f541268f09785ab8c2f7f42417bb824f5bc609a
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 81734f31224024ecb0f54c4c33fe4071cffae438
+ms.sourcegitcommit: 40a8e3be736d1177d046da50639a5685aca18707
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701682"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "58402767"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服務說明
 
@@ -116,7 +116,7 @@ Microsoft 365 和 Office 365 將雲端生產力的功能提供給各種規模的
 |Microsoft 搜尋|否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |
 |**[使用者帳戶管理](user-account-management.md)** <br/> |**Microsoft 365 商務基本版** <br/> |**Microsoft 365 Apps 商務版** <br/> |**Microsoft 365 商務標準版** <br/> |**Office 365 企業版 E1** <br/> |**Office 365 企業版 E3** <br/> |**Office 365 企業版 E5** <br/> |**Office 365 企業版 F3** <br/> |
 |雲端識別、聯盟識別或多重因素驗證  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 365 桌面設定  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 365 桌面設定  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |使用.csv 檔案大量上傳  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |目錄同步處理工具  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange 簡易 (完全) 移轉  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |

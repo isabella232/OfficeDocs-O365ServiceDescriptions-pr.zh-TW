@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已 Office 365 美國政府方案 (或 Office 365 政府版) 中建立的。 本文概要說明 Office 365 政府版 US 環境所特有的功能。
-ms.openlocfilehash: efcef9de537f1d3750a0b282a40d1f015c8bb82c
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: f2bdc4ed9d73cda00b4dbf9ecaf79434bc928c4c
+ms.sourcegitcommit: 40a8e3be736d1177d046da50639a5685aca18707
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371780"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "58402757"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -194,7 +194,7 @@ Office 365我們的政府客戶可以使用 Azure 政府 ExpressRoute 服務，�
 |同盟身分識別 (單一登入)|是|是|是|是|
 |多重要素驗證|是|是|是|是|
 |電話因素驗證|是<sup>9</sup>|是<sup>9</sup>|是|是<sup>9</sup>|
-|Office 365 桌面設定|是|是|是|是|
+|Office 365 桌面設定|否|是|是|否|
 |以 Office 365 管理使用者|是|是|是|是|
 |使用 .csv 檔大量上傳|是<sup>9</sup>|是<sup>9</sup>|是|是<sup>9</sup>|
 |目錄同步處理工具|是|是|是|是|
