@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已 Office 365 美國政府方案 (或 Office 365 政府版) 中建立的。 本文概要說明 Office 365 政府版 US 環境所特有的功能。
-ms.openlocfilehash: f2bdc4ed9d73cda00b4dbf9ecaf79434bc928c4c
-ms.sourcegitcommit: 40a8e3be736d1177d046da50639a5685aca18707
+ms.openlocfilehash: 5c98a1518149b69b625f2936ba690f3a251d4966
+ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58402757"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58702295"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -323,10 +323,10 @@ Office 365我們的政府客戶可以使用 Azure 政府 ExpressRoute 服務，�
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access)|否|是|是|否|
 |[商務用 Skype](../../office-applications-service-description/office-applications.md#skype-for-business)|是<sup>3</sup>|是|是|是<sup>3</sup>|
 |[Office 365 的 Mac 版 Office](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57)|否|是|是|否|
-|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|是|是<sup></sup>|是<sup></sup>|是|
-|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android)|是|是<sup></sup>|是<sup></sup>|是|
+|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|是|是的<sup></sup>|是<sup></sup>|是|
+|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android)|是|是的<sup></sup>|是<sup></sup>|是|
 |[Office Mobile for Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|是|是<sup>4</sup>|是<sup>4</sup>|是|
-|Office Mobile for Windows 10 tablets|是|是<sup></sup>|是<sup></sup>|是|
+|Office Mobile for Windows 10 tablets|是|是的<sup></sup>|是<sup></sup>|是|
 |iOS 和 Android 5 的 Outlook<sup>，4</sup>|是|是|是|是|
 |**企業價值**|**Office 365 政府版 G1**|**Office 365 Government G3**|**Office 365 政府版 G5**|**Office 365 政府版鍵**|
 |每個使用者可同時在 5 部 PC 或 Mac 上安裝|否|是|是|否|
@@ -354,7 +354,7 @@ Office 365我們的政府客戶可以使用 Azure 政府 ExpressRoute 服務，�
 |Power Pivot for Excel|否|是<sup>4</sup>|是<sup>4</sup>|否|
 |Excel 的 Power Query|否|是<sup>4</sup>|是<sup>4</sup>|否|
 |Power View for Excel|否|是<sup>4</sup>|是<sup>4</sup>|否|
-|漫遊設定|否|是<sup></sup>|是<sup></sup>|否|
+|漫遊設定|否|是的<sup></sup>|是<sup></sup>|否|
 |共用電腦啟用|否|是|是|否|
 |支援對雲端架構檔案儲存進行封鎖|否|是|是|否|
 |版本升級|否|是<sup>4</sup>|是<sup>4</sup>|否|
@@ -392,11 +392,11 @@ Office 365我們的政府客戶可以使用 Azure 政府 ExpressRoute 服務，�
 |版本歷程記錄|是|否|否|否|
 |[**Microsoft 表單**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) 完全可用於政府雲彩，但 **無法使用下列** 功能：||**GCC**|**GCC High**|**國防部**|
 |電子郵件通知||否<sup>1</sup>|否<sup>1</sup>|否|
-|插入圖片||否<sup>1</sup>|否<sup>1</sup>|否|
+|插入圖片||是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|
 |插入影片||否<sup>1</sup>|否<sup>1</sup>|否|
 |數學||否<sup>1</sup>|否<sup>1</sup>|否|
 |Office 整合||否<sup>1</sup>|否<sup>1</sup>|否|
-|最近的群組表單||否<sup>4</sup>|是|是|
+|最近的群組表單||是|是|是|
 |外部共用<sup>3</sup>||是|否|否|
 |表單 Pro||否|否|否|
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote)完全可用於政府雲彩，但下列功能除外 **，但目前無法使用：**||**GCC**|**GCC High**|**國防部**|
@@ -458,5 +458,5 @@ Office 365我們的政府客戶可以使用 Azure 政府 ExpressRoute 服務，�
 > <sup>1</sup> 可用性即將推出。
 <br/><sup>2</sup>在本機 Surface Hub 上可用 (未登入) 。
 <br/><sup>3</sup> GCC 環境可使用外部共用。 深入瞭解如何 [關閉或開啟組織的 Microsoft 表單](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) 。 GCC 高和 DOD 環境會停用外部共用;您組織內的使用者可能會執行下列動作：完成表單並提交回應、[複製表單並將表單共用做為範本](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)、[共同撰寫表單或在表單上共同](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)作業，以及[存取表單結果](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)。
-<br/><sup>4</sup>已停用 GCC 環境的最近組表單功能。 不過，使用者仍然可以透過選取 [群組表單] 索引標籤上的特定群組，存取群組表單。
+<br/><sup>4</sup> GCC/GCCH/DOD 環境中已停用 Bing 圖像搜尋功能的插入影像。
 <br/><sup>5</sup> Word、Excel PowerPoint 僅 Windows 用戶端，不 web、MacOS、iOS 或 Android。

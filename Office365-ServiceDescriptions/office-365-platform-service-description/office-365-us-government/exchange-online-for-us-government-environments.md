@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概要說明美國政府雲端與商業性雲端之間的功能差異，如 Exchange Online 服務說明所示。
-ms.openlocfilehash: 1c0b3c415b388f1c84c49e09aae0ed243e436b6f
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: caae2f98eb21bc640be33044448ce94746b3a449
+ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363609"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58702305"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>適用于美國政府環境的 Exchange Online
 
@@ -183,11 +183,10 @@ Azure Active Directory目前只有位於 Azure US 政府雲端且支援 B2B 共�
 
 <!-- end list -->
 
-- 將加密的電子郵件從 GCC 高或 DoD 傳送至該環境以外的收件者 (（包括 GCC 和商業) ）：
-    
-    - GCC 高/DoD 內的寄件者可以在 GCC 的高/DoD 界限外傳送加密的電子郵件。
-    
-    - 所有在 GCC 高/DoD 之外的收件者（包括商業性 Office 365 使用者、Outlook .com 使用者及其他電子郵件提供者的其他使用者）都會收到包裝郵件。 此包裝郵件會將收件者重新導向至 OME 入口網站，以便收件者可以閱讀和回復郵件。
+- 從該環境外的 GCC 高收件者傳送加密電子郵件時 (包括 DoD、GCC 及商業) ：
+
+    - GCC 高範圍內的寄件者可以在 GCC 的高界限之外傳送加密的電子郵件。
+    - 所有超出 GCC 高的收件者（包括 DoD、商業 Office 365 使用者、Outlook .com 使用者及其他電子郵件提供者的其他使用者）都會收到包裝郵件。 此包裝郵件會將收件者重新導向至 OME 入口網站，以便收件者可以閱讀和回復郵件。
 
 如需詳細資訊及最新的更新，請參閱 [比較版本的 OME](/microsoft-365/compliance/ome-version-comparison)。
 

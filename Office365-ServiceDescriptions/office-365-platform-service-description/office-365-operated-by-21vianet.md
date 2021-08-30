@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: 1bac942dcf8923f07197a3617e057c7fc409081c
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: faa8416e26c51f2e9bab05deafb98f0620bf5c0b
+ms.sourcegitcommit: 5cc673d87bf7d32278aee85ead3d48a5b95f154a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363630"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505702"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -38,7 +38,7 @@ Microsoft 不直接營運此項服務。 由 21Vianet 營運、提供並管理�
 > [!NOTE]
 > 由 Office 365 之 21Vianet 版本運作的 Office 365 是專屬於中國的版本。
 
-| Service | 由世紀運作的 Microsoft 365 商務基本版 | 由世紀運作的 Microsoft 365 Apps 商務版 | 由世紀運作的 Microsoft 365 商務標準版 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | Office 365 企業版由世紀運作的 F3 |
+| 服務 | 由世紀運作的 Microsoft 365 商務基本版 | 由世紀運作的 Microsoft 365 Apps 商務版 | 由世紀運作的 Microsoft 365 商務標準版 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | Office 365 企業版由世紀運作的 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | Office 365 平臺<sup>1</sup> | 是 | 是 | 是 | 是 | 是 | 是 |
 | Exchange Online | 是 | 否 | 是 | 是 | 是 | 是 |
@@ -1177,10 +1177,10 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 |[管理、部署和擴充性](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|否<sup>2</sup>|是|是|否|是|
 |[快速入門](../project-online-service-description/core-services-functionality.md#getting-started)|是|是|是|否|是|
 |[問題和風險管理 (適用於小組成員)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|是|是|是|否|是|
-|[Office 365 信任中心](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|否|否|否|不適用|不適用|
+|[Office 365 信任中心](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|否|否|否|N/A|N/A|
 |[PPM 合作夥伴生態系統](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|是|是|是|否|是|
-|[服務可靠性](../project-online-service-description/core-services-functionality.md#service-reliability)|是|是|是|不適用|不適用|
-|[服務更新](../project-online-service-description/core-services-functionality.md#service-updates)|是|是|是|不適用|不適用|
+|[服務可靠性](../project-online-service-description/core-services-functionality.md#service-reliability)|是|是|是|N/A|N/A|
+|[服務更新](../project-online-service-description/core-services-functionality.md#service-updates)|是|是|是|N/A|N/A|
 |[小組成員共同作業](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|是|是|是|否|是|
 |[時間和任務管理 (適用於小組成員)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|是|是|是|否|是|
 |**專案管理**|**Project Online 21Vianet 運作的 Office 365 基本版**|**Project Online 21Vianet 運作的 Office 365 專業版**|**Project Online 21Vianet 運作的 Office 365 進階版**|**21Vianet 運作的 Project Professional 2016 for Office 365**|**21Vianet 運作的 Project Server 2016 for Office 365**|
@@ -1214,4 +1214,4 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 
 掃描此 QR 碼，在 WeChat 上關注我們的討論區，並取得由 21Vianet 提供的 Office 365 的最新更新。
 
-![WeChat 的 QR 碼](../media/8f6064e6-ccf3-4050-97e3-619058b3c806.jpg)
+![WeChat 的 QR 碼。](../media/8f6064e6-ccf3-4050-97e3-619058b3c806.jpg)
