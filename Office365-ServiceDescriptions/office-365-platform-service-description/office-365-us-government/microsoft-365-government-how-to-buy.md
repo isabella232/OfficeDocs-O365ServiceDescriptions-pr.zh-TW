@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 政府的概述，並說明購買選項。
-ms.openlocfilehash: 405bdf813387e78c8480634a463bb86518e04b3a
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: 228ad94d00c9e9fea33202e1c746d45bc43560c7
+ms.sourcegitcommit: 99b2b3c7f1437693ff2b361b44c840a09ed35642
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363580"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58523763"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365政府-如何購買
 
@@ -133,6 +133,7 @@ GCC 和 GCC 的高產品皆可供任何可供 Microsoft 政府雲端使用的客
 
 **AOS-G 合作夥伴 GCC 和 GCC 高 (500 座位)**
 
+- 12:34 MicroTechnologies，Inc.。
 - Accenture 聯邦服務，LLC
 - Agile IT，Inc。
 - 美洲技術服務，Inc.。
@@ -162,7 +163,6 @@ GCC 和 GCC 的高產品皆可供任何可供 Microsoft 政府雲端使用的客
 - KTL 解決方案，Inc.。
 - LiftOff、LLC
 - ManTech
-- MicroTechnologies，Inc.。
 - Nimbus 邏輯 LLC
 - 諾斯羅普·格魯
 - Novetta

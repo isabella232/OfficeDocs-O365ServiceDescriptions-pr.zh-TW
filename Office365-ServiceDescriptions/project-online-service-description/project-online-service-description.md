@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 為專案產品群組管理 (PPM) 及日常運作的彈性線上解決方案。 透過 Project Online Office 365 提供強大的專案管理功能，可用於規劃、排定專案與專案組合的投資，甚至幾乎任何裝置上幾乎都沒有任何的裝置。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: 5b0674e4b26718d4e2d4aef6d0d4db59379d951b
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: 6167bf8ebb384bc0e8968004e55d188fb4a194af
+ms.sourcegitcommit: 5cc673d87bf7d32278aee85ead3d48a5b95f154a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371790"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505698"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -70,7 +70,7 @@ Microsoft Project Online 桌面用戶端是一種專案管理計畫，可提供�
 
 此圖顯示應用程式如何並排使用的方式。
 
-![圖表顯示網頁上的 Project，以及一起 Project Online](../media/project-online-applications.png)
+![圖表顯示網頁上的 Project 和 Project Online 一起。](../media/project-online-applications.png)
 
 接下來，Microsoft 將著重于 web 創新的 Project。 不過，您可以繼續使用 Project Online，因為它會繼續取得重要的效能及安全性改進功能。
 
@@ -182,7 +182,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以符合組織的需�
 |工作資源、一般資源和材料資源 | 將資源新增至專案，例如人員等工作資源、一般資源（如時）和材料資源（如電腦和水泥）。 | 是 | 是 |
 |**報告**<sup>3</sup> ||||
 |開箱即用報告 | 使用預先建立的報告，以瞭解專案、程式、產品群組和資源資料。 | 是 | 是 |
-|自訂報告 | 根據現成報表或從頭開始建立自訂報表，瞭解組織的重要資料。 | 是 | 是 |
+|自訂報表 | 根據現成報表或從頭開始建立自訂報表，瞭解組織的重要資料。 | 是 | 是 |
 |儀表板及入口網站 | 建立自訂儀表板及入口網站，以協助滿足特定組織的需求。 | 是 | 是 |
 |**自訂和整合**||||
 |自訂商標 | 使用您自己的品牌、標誌和色彩來自訂您的 Project 部署。 | 否 | 是 |
@@ -247,7 +247,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以符合組織的需�
 |Project 成本成本和預算 | 將計畫的進度和預算與實際時間及成本進行比較。 |
 |資源成本 | 追蹤和管理專案的資源成本。|
 |**報表** ||
-|自訂報告 | 建立專案、程式、產品群組和資源的自訂報告。 |
+|自訂報表 | 建立專案、程式、產品群組和資源的自訂報告。 |
 |開箱即用報告 | 使用預先建立的報告，以瞭解專案、程式、產品群組和資源資料。 |
 |PDF 和 XPS 輸出 | 將 Project 檔案另存為 PDF 或 XPS 檔案。 |
 |**可用 性**||
