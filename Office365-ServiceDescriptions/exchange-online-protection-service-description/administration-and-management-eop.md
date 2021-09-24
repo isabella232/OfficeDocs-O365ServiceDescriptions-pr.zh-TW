@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - administration-and-management-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: 本文說明 Microsoft Exchange Online 保護 (EOP) 系統管理員可用的管理介面。
-ms.openlocfilehash: 19c0c535e642d6f5d83d9ae69b04ee364c6f7716facbedd18677f3c3702c1554
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: c525506e0c5ee93e1ca6da200f4f3850da35540b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664566"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670721"
 ---
 # <a name="administration-and-management-in-exchange-online-protection"></a>Exchange Online Protection 中的管理與管理
 

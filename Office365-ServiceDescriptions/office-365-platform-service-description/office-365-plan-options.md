@@ -10,18 +10,18 @@ f1_keywords:
 keywords:
 - office 365 for business,Office 365
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 提供各種可滿足貴組織需求的最佳計劃。
-ms.openlocfilehash: d06ab7f8f172c1f72ad195b9e2e5951f19dcaff8c6fa75eb476e748d97212c18
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: bd2b27b046a14dd9d4ba4272d699cc5b5d8d4b73
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701662"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670631"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 和 Office 365 方案選項
 
@@ -56,7 +56,7 @@ ms.locfileid: "54701662"
 |商務用 Skype線上<sup>14</sup> <br/> |否  <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |是<sup>10</sup> <br/> |是<sup>12</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |
 |網頁版 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |無<sup>18</sup> <br/> |
 |Office 應用程式  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|Project  <br/> |否  <br/> |否 <br/> |否 <br/> |否 <br/> |否 <br/> |否 <br/> |否 <br/> |否 <br/> |否  <br/> |
+|專案  <br/> |否  <br/> |否 <br/> |否 <br/> |否 <br/> |否 <br/> |否 <br/> |否 <br/> |否 <br/> |否  <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |Yammer Enterprise  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Azure 資訊保護<sup>2</sup> <br/> |否  <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |是  <br/> |否<sup>1</sup> <br/> |是  <br/> |是  <br/> |否<sup>1</sup> <br/> |否  <br/> |
@@ -76,7 +76,7 @@ ms.locfileid: "54701662"
 <sup>12</sup>包括商務用 Skype 線上方案2，含語音支援，且沒有任何用戶端限制。  <br/>
 <sup>13</sup>包括商務用 Skype 線上方案1。<br>
 <sup>14</sup> Microsoft Teams 現在是 Microsoft 365 中的郵件、會議及通話的主要用戶端。 從2018年10月1日 Microsoft Teams 到，使用500座位的新客戶架，而且無法存取商務用 Skype 線上。 已在線上使用商務用 Skype 的承租人可以繼續進行， (包括布建新使用者) ，直到完成對 Microsoft Teams 的轉換為止。<br>
-<sup>15</sup>包括 Microsoft 365 E5 合規性，可提供自動分類和保留、客戶金鑰、高級郵件加密、內幕風險管理、通訊相容性、資訊障礙、客戶密碼箱、特權存取管理、高級審核、記錄管理，以及 Advanced eDiscovery 功能;和 Microsoft 365 E5 安全性，包含適用于 Office 365 方案2、microsoft defender for Endpoint、Azure Active Directory 方案2、microsoft defender for Identity、Microsoft Cloud App Security 及保管庫檔的 microsoft defender。<br>
+<sup>15</sup>包括 Microsoft 365 E5 合規性，可提供自動分類和保留、客戶金鑰、高級郵件加密、內幕風險管理、通訊相容性、資訊障礙、客戶密碼箱、特權存取管理、高級審核、記錄管理，以及 Advanced eDiscovery 功能;和 Microsoft 365 E5 安全性，包含適用于 Office 365 方案2、microsoft defender for Endpoint、Azure Active Directory 方案2、microsoft defender for Identity、Microsoft Cloud App Security 及保管庫的 microsoft defender檔。<br>
 <sup>16</sup> Microsoft 365 F1 不包含 Exchange 信箱的許可權。 為了啟用完整的 Teams 體驗，M365 F1 授權可能會附帶 Exchange Online K1 service plan 啟用狀態。 雖然 Exchange Online K1 服務方案將為使用者布建信箱，但 M365 的 F1 使用者無權使用該信箱。 建議您的客戶透過[這些步驟](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)停用 Outlook 網頁版，並要求使用者不要透過任何其他方式存取 Exchange 信箱。<br>
 <sup>17</sup>包括 SharePoint Online Kiosk。 不能是系統管理員。 無網站信箱。 無個人網站。<br>
 <sup>18</sup> Microsoft 365 F1 使用者可以使用 Office 網頁版讀取檔案，但沒有建立/編輯/儲存許可權。 

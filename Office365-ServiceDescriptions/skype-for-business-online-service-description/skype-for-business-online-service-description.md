@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - skype-for-business-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 查看不同 Microsoft 365 和 Office 365 方案中可用的商務用 Skype 線上功能。
-ms.openlocfilehash: a340fb2eb2cc1bf82d5d572120f2b7b52d030552779652ae34c90a49b350dd1e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: eb342b941e4c60d95cac9e71795364635d2d0376
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702442"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669562"
 ---
 # <a name="skype-for-business-online-service-description"></a>商務用 Skype Online 服務說明
 
@@ -296,7 +296,7 @@ ms.locfileid: "54702442"
 |:-----|:-----|
 |商務用 Skype Online 獨立方案 2  <br/> | Skype 會議廣播  <br/>  若為召集人、建立者、事件小組成員和經過驗證的出席者，則需要授權。  <br/>  若為匿名出席者，則不需要授權。  <br/>  使用商務用 Skype Online 獨立方案2或任何包含方案2的套件，可提供下列附加元件：  <br/> -語音會議 (在有限的國家/地區內可用)  <br/> -電話系統 <br/>**記事** 當自行購買時，電話系統只會啟用混合式語音功能。 混合式語音需要內部部署客戶混合式語音部署，才能使用現有的 PSTN 服務提供者 (s) 來啟用 PSTN 通話。 您可以使用下列電話系統附加元件，以使用 Microsoft 作為 PSTN 服務提供者的輸入和輸出 PSTN 呼叫：<br/>-國內通話方案 (在有限的國家/地區內可用) <br/>-國際通話方案 (在有限的國家/地區內可用)           |
 |商務用 Skype Online 獨立方案 3  <br/> |商務用 Skype Online 獨立方案 3。  <br/>  此方案僅適用于協力廠商語音服務提供者，不 *提供任何* 呼叫服務，例如音訊會議、電話系統、國內通話方案或國際通話方案。           |
-|Microsoft 365 商務標準版  <br/> | Skype 會議廣播：  <br/>  若為召集人、建立者、事件小組成員和經過驗證的出席者，則需要授權。  <br/>  若為匿名出席者，則不需要授權。  <br/>  語音會議 (在適用的國家/地區)。  <br/> |
+|Microsoft 365 商務版標準  <br/> | Skype 會議廣播：  <br/>  若為召集人、建立者、事件小組成員和經過驗證的出席者，則需要授權。  <br/>  若為匿名出席者，則不需要授權。  <br/>  語音會議 (在適用的國家/地區)。  <br/> |
 |Office 365 E1  <br/> |商務用 Skype Online 獨立方案 2 (請參閱上方的商務用 Skype Online 獨立方案 2 以了解包含的功能)。  <br/> |
 |Office 365 E3  <br/> |商務用 Skype Online 獨立方案 2 (請參閱上方的商務用 Skype Online 獨立方案 2 以了解包含的功能)。  <br/> |
 |使用音訊會議 Office 365 E5  <br/> | 包含 商務用 Skype Online 獨立方案 2 (請參閱上方的 商務用 Skype Online 獨立方案 2 以了解包含的功能)。  <br/>  包含語音會議。  <br/>  包含電話系統。  <br/>**記事** 當自行購買時，電話系統只會啟用混合式語音功能。 混合式語音需要客戶內部部署混合式語音部署，才能使用現有的 PSTN 服務提供者 (s) 來啟用 PSTN 通話。 您可以使用下列電話系統附加元件，以使用 Microsoft 作為 PSTN 服務提供者的輸入和輸出 PSTN 呼叫： <br/> -國內通話方案 (在有限的國家/地區內可用)  <br/> -國際通話方案 (在有限的國家/地區內可用)            |

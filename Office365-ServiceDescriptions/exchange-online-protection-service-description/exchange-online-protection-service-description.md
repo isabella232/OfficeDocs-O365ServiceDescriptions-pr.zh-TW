@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 取得 Exchange Online Protection 的功能和需求的相關資訊。 包含提供 Exchange Online Protection 的方案清單，以及這些方案中的功能比較。
-ms.openlocfilehash: 2a7f5bd6c2750d4ce5d348e7fc8438a335533a46466fccc16318a133e1639e4e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: a82468c95f8d674bb2e4b27abc668074f222b419
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664226"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670709"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服務說明
 
@@ -77,7 +77,7 @@ EOP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 |反欺騙保護 (內建和自訂) |是|是|是|
 |以零小時自動清除 (ZAP) ，以供傳遞的惡意程式碼、垃圾郵件和網路釣魚郵件<sup>10</sup>|否|否|是|
 |預設安全性原則|是|是|是|
-|保護原則的設定分析器|是|是|是|
+|適用於保護原則的設定分析器|是|是|是|
 |租用戶允許/封鎖清單|是|是|是|
 |郵件寄件者的封鎖清單|是|是|是|
 |允許郵件寄件者的清單|是|是|是|
@@ -100,7 +100,7 @@ EOP 可搭配任何 SMTP 郵件傳輸代理程式使用，例如 Microsoft Excha
 |Microsoft 365 安全性中心的安全性報告|是<sup>7</sup>|是<sup>7,8</sup>|是<sup>8</sup>|
 |EAC 中的電子郵件報告|是<sup>7</sup>|是<sup>7,8</sup>|是<sup>8</sup>|
 |管理員審核記錄<sup>5</sup>|是|是|是|
-|**使用者**||||
+|**Users**||||
 |郵件使用者和郵件連絡人<sup>1</sup>|是|是|是|
 |信箱|否|否|是<sup>1a</sup>|
 |以角色為基礎的存取控制 (RBAC) <sup>2</sup>|是|是|是|

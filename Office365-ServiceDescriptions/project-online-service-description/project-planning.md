@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - project-planning
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Project Online 提供下列專案規劃功能。
-ms.openlocfilehash: 4b27ead33200855bab441d2b55f50c41c80d3e078ced240903443925876e74f1
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: bef766fd6ac4938c15b9b58c3be5278fc415ebb3
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702672"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669552"
 ---
 # <a name="project-planning"></a>專案規劃
 

@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Project Online 提供下列產品群組管理功能。
-ms.openlocfilehash: e0e5958a3faa640c45367c018b44e2ce270ba9d4d83ae4f569fa5b301724605c
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 65a4a962f2bf78b02f982bf1a28768750f99f259
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702822"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669566"
 ---
 # <a name="portfolio-management"></a>產品組合管理
 

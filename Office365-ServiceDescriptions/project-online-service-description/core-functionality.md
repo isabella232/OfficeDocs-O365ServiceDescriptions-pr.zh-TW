@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - core-functionality
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online 提供下列核心功能功能。
-ms.openlocfilehash: 9a4592847d861e3bac8912d0b9a7134034c5318202e17fb9a74c14fdc4a9aeaf
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 3807af035ce2203a1f45862a3b880c67cf0716c6
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702852"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669868"
 ---
 # <a name="core-functionality"></a>核心功能
 
