@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - powerpoint-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint 網頁版 (以前 PowerPoint 的 web App) 將您的 Microsoft PowerPoint 體驗延伸至網頁瀏覽器，您可以在其中儲存簡報的網站上直接使用簡報。 Microsoft 365 具有 Office 網頁版的客戶可以在旅途中查看、建立及編輯檔案。
-ms.openlocfilehash: b497765f3112043f81a604ff2f8eb6715ff24a66a248f9d3756393ae0d90c0c2
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 33805c6937c073be6c7d08f9dca2e56c915a8085
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702252"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669965"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint 網頁版
 

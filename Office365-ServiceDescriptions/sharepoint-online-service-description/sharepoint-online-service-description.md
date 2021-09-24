@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - sharepoint-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 請參閱哪些 SharePoint 功能可用於哪些方案。
-ms.openlocfilehash: e5dca0f6e5ef5b7c621ac5944b7358bd8c2afaa3c2397080cd0fde19dc4348a6
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8aad0fd841a6a129264be710e5d62cd84202d0aa
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702582"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672406"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服務描述
 
@@ -139,7 +139,7 @@ SharePoint 會與 Microsoft 365 的高級安全性和符合性功能整合。 �
 - [資訊屏障](/microsoft-365/compliance/information-barriers)
 - [適用於 Office 365 的 Microsoft Defender](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [保留標籤和原則](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
-- [敏感性標籤](/microsoft-365/compliance/sensitivity-labels)
+- [敏感度標籤](/microsoft-365/compliance/sensitivity-labels)
 - [統一的審計](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (審核 SharePoint 使用者和系統管理員活動) 
 
 如需 [Azure 資訊保護](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)的詳細資訊，請參閱 [azure 資訊保護的需求](/azure/information-protection/requirements)
@@ -154,7 +154,7 @@ SharePoint 會與 Microsoft 365 的高級安全性和符合性功能整合。 �
 
 - [協助工具](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
 - [將 Microsoft Teams 新增至網站](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)。 需要包含 Office 365 的訂閱，且需要使用者取得 Teams 的授權。
-- [對象目標](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
+- [選取目標對象](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
 - [連線傳統小組網站新增至新的 Office 365 群組](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d)。 需要包含 Office 365 的訂閱。
 - [建立計畫 (Planner 整合) ](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb)。 需要包含 Office 365 的訂閱，且要求使用者已取得 Planner 的授權。
 - [文件庫](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)

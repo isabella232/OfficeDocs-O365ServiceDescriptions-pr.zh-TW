@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-help-and-training
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 提供下列說明和訓練資源。
-ms.openlocfilehash: d2cf7dfda21fe01cd6d9197a9f5e760bf007311edc8d356e15e91e832b44735f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e1d88e1bbebd899ffffe7ccee8824107346d1336
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663006"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671396"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -43,7 +43,7 @@ Microsoft Office 365 提供下列說明和訓練資源。
     
 - [Office 365 系統管理員支援技術：核心概念](https://www.microsoftvirtualacademy.com/training-courses/office-365-admin-support-skills-core-concepts?Prid=fusion-www)
     
-## <a name="community"></a>社群
+## <a name="community"></a>Community
 
 > [!NOTE]
 > 社群資源套用至全球版本 Office 365。如果您使用 21Vianet 運作的 Office 365，您可以使用 WeChat。請參閱[取得 21Vianet 運作的 Office 365 的技術、帳單及訂閱支援](/microsoft-365/admin/contact-support-for-business-products)並捲動到 QR 代碼頁面底部。 

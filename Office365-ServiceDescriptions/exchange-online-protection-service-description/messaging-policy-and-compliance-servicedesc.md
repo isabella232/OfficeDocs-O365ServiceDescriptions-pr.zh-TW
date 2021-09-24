@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - messaging-policy-and-compliance-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: 請閱讀本文以瞭解 Microsoft Exchange Online Protection (EOP) 中的郵件原則和符合性功能。
-ms.openlocfilehash: fa2e4cfc9345a2dfc7d0ebf2d12a31c5aeb1da532a889a815a0ec3d6d5880c2b
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8bd7b752191f6304d95f079984a281b25169352f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664106"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672304"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Exchange Online Protection 中的郵件原則及符合性
 

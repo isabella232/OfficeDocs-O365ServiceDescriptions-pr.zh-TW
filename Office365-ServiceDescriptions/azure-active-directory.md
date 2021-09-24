@@ -6,15 +6,15 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Azure Active Directory 是 Microsoft 雲端式身分識別和存取管理解決方案，可協助員工和來賓使用者以安全方式登入或存取資源。
-ms.openlocfilehash: 9620f98fd241016748908d74b6644b3208e3418064fb6b296c433836bc8c31d0
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 7d2818cebaff746da0385f9f0294ede3a0674d14
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701612"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670995"
 ---
 # <a name="azure-active-directory-service-description"></a>Azure Active Directory 服務描述
 

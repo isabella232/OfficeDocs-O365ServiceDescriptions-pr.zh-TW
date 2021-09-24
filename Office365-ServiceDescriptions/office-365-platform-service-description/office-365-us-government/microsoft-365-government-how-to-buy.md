@@ -6,15 +6,15 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 政府的概述，並說明購買選項。
-ms.openlocfilehash: 228ad94d00c9e9fea33202e1c746d45bc43560c7
-ms.sourcegitcommit: 99b2b3c7f1437693ff2b361b44c840a09ed35642
+ms.openlocfilehash: 1091f3b565f1e0d1dfbd2482940f93506f94fccd
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "58523763"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670188"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365政府-如何購買
 

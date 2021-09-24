@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-365-user-account-management
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft 支援下列方式來建立、管理及驗證使用者。
-ms.openlocfilehash: 5a4b242046503df691587919284454a670f817821eab1b3a6692f542bdcefadb
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 213c6ceb50d0af3c5a78a6306b0ff4c2a86f4585
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702042"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672828"
 ---
 # <a name="user-account-management"></a>User account management
 

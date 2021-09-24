@@ -6,15 +6,15 @@ manager: gailw
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics 功能、分配、隱私權及必要條件
-ms.openlocfilehash: eaf1d962afd24b92eecb952f4d5e58204d981c691ffce7170d71527936591245
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 9f4987f7a941fe4174b8096c1a36ed86dbee56aa
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663086"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670355"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 服務描述
 
@@ -53,6 +53,6 @@ MyAnalytics 包含下列元素：
 
 [深入瞭解 MyAnalytics 可如何協助您更聰明地運作](https://products.office.com/business/myanalytics-personal-analytics)。
 
-## <a name="prerequisites"></a>先決條件
+## <a name="prerequisites"></a>必要條件
 
 * [Microsoft Exchange Online](./exchange-online-service-description/exchange-online-service-description.md)

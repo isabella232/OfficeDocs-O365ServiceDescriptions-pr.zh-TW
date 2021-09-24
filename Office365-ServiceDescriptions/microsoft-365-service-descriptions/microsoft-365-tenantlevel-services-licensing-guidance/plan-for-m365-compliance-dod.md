@@ -6,15 +6,15 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本指南適用于在美國聯邦政府機構或其他實體中，處理政府規定和需求的 Office 365 的 IT 專業人員，其使用 Microsoft 365 政府– DoD，以符合這些需求。
-ms.openlocfilehash: 4d8e4b7600abe8b41baa94462f4e8dfbebf8b277
-ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
+ms.openlocfilehash: 6ad0f21c8cbd9cf6690af4664c958c4ffdab7746
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58702285"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671613"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>規劃 Microsoft 365 合規性 - DoD 部署
 
@@ -75,7 +75,6 @@ Microsoft 365 政府 DoD 環境符合美國政府對雲端服務的需求。
 | | Outlook 郵件上只加密保護的敏感度標籤設定  | 可以使用  |
 | | 統一的標籤用戶端和掃描器  | 可以使用  |
 | 分析  | 資料分類：綜述和內容瀏覽器  | 逐步推出  |
-| | 分析：在服務端使用自動標記的機器學習分類器  | 在開發  |
 | | 分析：在 Office app/用戶端上具有自動標籤的機器學習分類器  | 在開發 |
 | 加密  | 基本 Office 365 郵件加密 (E3)   | 可以使用  |
 | | Advanced Office 365 郵件加密 (E5)   | 可以使用  |
@@ -110,9 +109,8 @@ Microsoft 365 政府 DoD 環境符合美國政府對雲端服務的需求。
 | | 記錄管理：處置證明  | 可以使用  |
 | | 記錄管理：記錄版本設定  | 可以使用  |
 | | 記錄管理：法規記錄  | 可以使用  |
-| | 記錄管理：使用 SharePoint Syntex 分類套用記錄標籤  | 在工程處理積壓工作  |
 | **風險管理**  | | |
-| 風險管理  | 客戶加密箱  | 可以使用  |
+| 客戶加密箱 | 客戶加密箱  | 可以使用  |
 | 通訊合規性  | 通訊相容性：能夠為通訊相容性原則設定保留期間 (公開預覽)   | 在工程處理積壓工作  |
 | | 通訊相容性：存取警示;通知範本;通訊原則儀表板  | 可以使用  |
 | | 通訊相容性：分析具有部署信箱之使用者的 Teams 聊天資料  | 可以使用  |
@@ -152,13 +150,14 @@ Microsoft 365 政府 DoD 環境符合美國政府對雲端服務的需求。
 | | 有問必答風險管理：不滿使用者的資料洩漏原則範本  | 在工程處理積壓工作  |
 | | 有問必答風險管理：按優先順序的使用者的資料洩漏原則範本  | 公開預覽  |
 | | 有問必答風險管理：一般安全性原則違規的原則範本  | 在工程處理積壓工作  |
-| | 有問必答風險管理：原則範本因優先順序使用者、去聲使用者、不滿使用者 (預覽的安全性原則違規)   | 在工程處理積壓工作  |
+| | 內部人員風險管理：原則使用者和使用者間的安全性原則違規原則範本 | 公開預覽 |
+| | 有問必答風險管理：因不滿使用者的安全性原則違規原則範本 | 在工程處理積壓工作  |
 | | 內幕風險管理：原則自訂、原則狀況檢查及增強型原則建立嚮導  | 公開預覽  |
 | | 有問必答風險管理：優先順序使用者群組  | 公開預覽  |
 | | 有問必答風險管理：支援 Azure Active Directory 帳戶刪除的原生觸發器 | 公開預覽  |
 | | 有問必答風險管理：「觀賞觀察程式」審核記錄 | 公開預覽  |
 | **探索 & 回應**  | | |
-| eDiscovery | 核心電子檔探索：審計  | 可以使用  |
+| 電子文件探索 | 核心電子檔探索：審計  | 可以使用  |
 | | 核心 eDiscovery：案例管理  | 可以使用  |
 | | 核心 eDiscovery：商務用 OneDrive 中的規範界限  | 可以使用  |
 | | 核心 eDiscovery：匯出  | 可以使用  |
@@ -203,16 +202,16 @@ Microsoft 365 政府 DoD 環境符合美國政府對雲端服務的需求。
 | | 高級審核：審核記錄的字詞保留時間 (10 年)   | 逐步推出  |
 | | 高級審計：郵件轉寄和郵件傳送事件  | 可以使用  |
 | | 高級審核：安全性與合規性中心可用性  | 可以使用  |
-| | 高級審計： Exchange Online 和 SharePoint Online 中的搜尋字詞事件  | 逐步推出  |
+| | 高級審計： Exchange Online 和 SharePoint Online 中的搜尋字詞事件  | 在開發  |
 | | 高級審計：對郵件 Teams 反應  | 在工程處理積壓工作  |
 | **規範管理** | | |
 | 合規性管理  | Microsoft 365 合規性中心  | 可以使用  |
-| | Microsoft 雲端應用程式安全性  | 可以使用  |
+| | Microsoft 雲端 App 安全性  | 可以使用  |
 | | 合規性管理員  | 可以使用  |
 | | 雙位元組字元支援  | 可以使用  |
 | **生態** | | |
-| 生態  | 第一方資料連線器： HR  | 可以使用  |
-| | 第一方資料連線器：立即 Bloomberg、Bloomberg Mail、LinkedIn 商務版頁面、ICE 聊天  | 在開發  |
+| 生態  | 第一方資料連線器： HR  | 在開發 |
+| | 第一方資料連線器：實體聲譽徽章授予  | 在開發  |
 | | GraphAdvanced eDiscovery 的 APIs  | 在工程處理積壓工作  |
 
 <sup>1</sup> 識別的狀態視專案方案和優先順序重新評估而變更。<br/>

@@ -6,14 +6,14 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: Microsoft 365 中 SharePoint Syntex 使用高級人工智慧 (AI) 和加工教學，以 amplify 人工專業知識、自動化內容處理，以及將內容轉換為知識。
-ms.openlocfilehash: e746b3189513ea4c5f594382b6ce6392d648a334
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: a29e191b6200317c280601e66a01c64a6ec91ee3
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371750"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672396"
 ---
 # <a name="sharepoint-syntex-service-description"></a>SharePoint Syntex 服務描述 
 
@@ -37,7 +37,7 @@ Syntex 可透過多個訂閱計畫取得，以符合組織的需求。 每個計
 | 小型企業方案            | Enterprise 方案         | 教育計畫     | 政府計畫         |
 | ------------------------------- | ------------------------ | ------------------- | ------------------------ |
 | Microsoft 365 商務基本版    | Office 365 E1            | Office 365 A1       | Office 365 政府版 G1 |
-| Microsoft 365 商務標準版 | Office 365 E3            | Office 365 A3       | Office 365 Government G3 |
+| Microsoft 365 商務版標準 | Office 365 E3            | Office 365 A3       | Office 365 Government G3 |
 | Microsoft 365 商務進階版  | Office 365 E5            | Office 365 A5       | Office 365 政府版 G5 |
 |                                 | Office 365鍵            |                     | Office 365 政府版鍵 |
 |                                 | Microsoft 365 F1         |                     |                          |

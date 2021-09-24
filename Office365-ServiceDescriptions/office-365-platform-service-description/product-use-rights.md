@@ -8,15 +8,15 @@ ms.topic: reference
 f1_keywords:
 - office-365-product-use-rights
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: f14798dc6bc2b227d7f5dfafdca19d4993bd4cdf659a54d0fbd22a5449739ae9
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 95b12d5d8423af41e5c86f835ecf38945ad025e9
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701842"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669998"
 ---
 # <a name="product-use-rights"></a>產品使用權限
 

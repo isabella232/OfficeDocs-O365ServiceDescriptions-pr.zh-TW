@@ -6,14 +6,14 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: 深入瞭解 Microsoft 365 和 Office 365 方案中的 Microsoft Teams 服務和功能可用性。
-ms.openlocfilehash: 0c1a7e833e257f9dff2f4123cc5142b99a85cf9799bc2e526d8d6e4d9e90f8ed
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: f4c410e68150187d0f9a28234260ac4be3c29852
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702902"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673186"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服務描述
 
@@ -27,7 +27,7 @@ Microsoft Teams 是 Microsoft 365 團隊合作的中心。 Teams 服務可讓您
 
 下表列出各種方案中可用的主要 Microsoft Teams 功能。 適用某些注意事項。 如需進一步資訊，請參閱註腳。 此表格可能會變更而不另行通知。 請參閱 Microsoft 365 訊息中心通知，以取得核心服務變更訊息和[Microsoft 授權條款參考檔](https://www.microsoft.com/licensing/product-licensing/products)。<br><br>
 
-| 功能 | 小型企業 | Enterprise 方案 | GCC | GCC-高 | DOD | 教育版 |
+| 功能 | 小型企業 | Enterprise 方案 | GCC | GCC-高 | DOD | 教育 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |聊天 |是 |是 |是 |是 |是 |是 |
 |Teams |是|是|是|是<sup>1</sup> |是<sup>1</sup> |是 |

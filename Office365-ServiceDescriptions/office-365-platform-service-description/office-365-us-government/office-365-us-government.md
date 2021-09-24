@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 為了回應美國公開部門的獨特和不斷演變的需求，Microsoft 已 Office 365 美國政府方案 (或 Office 365 政府版) 中建立的。 本文概要說明 Office 365 政府版 US 環境所特有的功能。
-ms.openlocfilehash: 5c98a1518149b69b625f2936ba690f3a251d4966
-ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
+ms.openlocfilehash: d97aa4d3824e594bd27fbb5d3a4a753af74353fb
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58702295"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671052"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -144,7 +144,7 @@ Office 365我們的政府客戶可以使用 Azure 政府 ExpressRoute 服務，�
 |---|---|---|---|---|
 |Exchange Online|是|是|是|是|
 |Exchange Online Protection|是|是|是|是|
-|Microsoft 365 Apps 企業版|否|是|是|否|
+|Microsoft 365 企業版應用程式|否|是|是|否|
 |網頁版 Office|是|是|是|是|
 |商務用 OneDrive|是|是|是|是|
 |Power BI Pro|否<sup>2</sup>|否<sup>2</sup>|是|否<sup>2</sup>|
@@ -323,10 +323,10 @@ Office 365我們的政府客戶可以使用 Azure 政府 ExpressRoute 服務，�
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access)|否|是|是|否|
 |[商務用 Skype](../../office-applications-service-description/office-applications.md#skype-for-business)|是<sup>3</sup>|是|是|是<sup>3</sup>|
 |[Office 365 的 Mac 版 Office](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57)|否|是|是|否|
-|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|是|是的<sup></sup>|是<sup></sup>|是|
-|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android)|是|是的<sup></sup>|是<sup></sup>|是|
+|[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|是|是<sup></sup>|是<sup></sup>|是|
+|[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android)|是|是<sup></sup>|是<sup></sup>|是|
 |[Office Mobile for Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|是|是<sup>4</sup>|是<sup>4</sup>|是|
-|Office Mobile for Windows 10 tablets|是|是的<sup></sup>|是<sup></sup>|是|
+|Office Mobile for Windows 10 tablets|是|是<sup></sup>|是<sup></sup>|是|
 |iOS 和 Android 5 的 Outlook<sup>，4</sup>|是|是|是|是|
 |**企業價值**|**Office 365 政府版 G1**|**Office 365 Government G3**|**Office 365 政府版 G5**|**Office 365 政府版鍵**|
 |每個使用者可同時在 5 部 PC 或 Mac 上安裝|否|是|是|否|
@@ -354,7 +354,7 @@ Office 365我們的政府客戶可以使用 Azure 政府 ExpressRoute 服務，�
 |Power Pivot for Excel|否|是<sup>4</sup>|是<sup>4</sup>|否|
 |Excel 的 Power Query|否|是<sup>4</sup>|是<sup>4</sup>|否|
 |Power View for Excel|否|是<sup>4</sup>|是<sup>4</sup>|否|
-|漫遊設定|否|是的<sup></sup>|是<sup></sup>|否|
+|漫遊設定|否|是<sup></sup>|是<sup></sup>|否|
 |共用電腦啟用|否|是|是|否|
 |支援對雲端架構檔案儲存進行封鎖|否|是|是|否|
 |版本升級|否|是<sup>4</sup>|是<sup>4</sup>|否|

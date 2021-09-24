@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-mobile-devices
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a3ed4aa6-aab3-474f-909d-5f24f98128a3
 description: 許多行動電話、平板及其他行動裝置都可以與 Microsoft Office 365 搭配使用。
-ms.openlocfilehash: 5d64fae3d2cbbe2cf7129c725df2bf87b2e4465ab49d3e74d700bc92e903b4d9
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: fe574b3004aa72854ce77062018b3395f6803f7d
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663066"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671426"
 ---
 # <a name="mobile-devices-service-description"></a>行動裝置服務說明
 

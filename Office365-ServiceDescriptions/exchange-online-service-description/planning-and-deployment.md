@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-planning-and-deployment
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
 description: 深入瞭解 Microsoft Exchange Online 中的規劃與部署。
-ms.openlocfilehash: 60edd1a35112f7344eaf4e0badf8a49f04c0daa99d7b11b94220ed9973b6faf6
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8407f95e9a0d9cb721134fdf8cab46003339f197
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663666"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671787"
 ---
 # <a name="planning-and-deployment"></a>規劃及部署
 
@@ -50,7 +50,7 @@ Microsoft Exchange 2003、Exchange 2007、Exchange 2010，以及 Exchange 2013 �
   
 - **IMAP 遷移**-將信箱資料從 IMAP 型電子郵件系統移轉至 Exchange Online。 
     
-- 轉換 **Exchange 遷移**-從 Exchange Server 2003，Exchange Server 2007，Exchange Server 2010，Exchange 2013 和主控 Exchange 系統，以進行單一完全遷移。 
+- 轉換 **Exchange 遷移**-從 Exchange Server 2003，Exchange Server 2007，Exchange Server 2010，Exchange 2013 和主控 Exchange 系統 Exchange Online在單一進行遷移。 
     
 - **分段 Exchange 遷移**-執行分段遷移，將信箱從 Exchange Server 2003 或 Exchange Server 2007 遷移到以 web 為基礎的遷移工具和對內部部署基礎結構的最小變更。 
     

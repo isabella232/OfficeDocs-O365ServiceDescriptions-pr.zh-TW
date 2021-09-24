@@ -6,18 +6,18 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365德國是一種不同的選項，來自歐洲已提供的 Office 365 服務。 它可協助您利用德國法律所規定的獨特資料受信者模型，為數字工作（從德文資料中心）提供業界領先的生產力服務，以在德國、歐盟 (EU) 和歐盟自由交易協會 (EFTA) 中，協助滿足最受管制客戶的需求。
-ms.openlocfilehash: d2e3e06483ca0a09cfe4f5f9e6028948dc8f03983281420786c535f5f1479d48
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: a028550d0ffcef647535934962d50e0fcd931485
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701672"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671372"
 ---
-# <a name="office-365-germany"></a>Office 365 德國
+# <a name="office-365-germany"></a>Office 365 Germany
 
 Office 365德國是一種不同的選項，來自歐洲已提供的 Office 365 服務。 它可協助您利用德國法律所規定的獨特資料受信者模型，為數字工作（從德文資料中心）提供業界領先的生產力服務，以在德國、歐盟 (EU) 和歐盟自由交易協會 (EFTA) 中，協助滿足最受管制客戶的需求。
 
@@ -756,7 +756,7 @@ Office 365德國遵循 Office 365 的雲端安全性和符合性標準。 Office
 |專業領域|是|是|是|是|是|是|是|否|
 |個人部落格|是<sup>13</sup>|否|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|
 |社區信譽、聲譽徽章授予及仲裁|是<sup>14</sup>|否|是<sup>14</sup>|是<sup>14</sup>|是<sup>14</sup>|是<sup>14</sup>|是<sup>14</sup>|無<sup>14</sup>|
-|社群|是<sup>14</sup>|否|是<sup>14</sup>|是<sup>14</sup>|是<sup>14</sup>|是<sup>14</sup>|是<sup>14</sup>|否|
+|Community|是<sup>14</sup>|否|是<sup>14</sup>|是<sup>14</sup>|是<sup>14</sup>|是<sup>14</sup>|是<sup>14</sup>|否|
 |公司摘要|是|否|是|是|是|是|是|否|
 |使用 Yammer 進行文件交談|否|否|否|否|否|否|否|否|
 |追蹤|是|是|是|是|是|是|是|否|

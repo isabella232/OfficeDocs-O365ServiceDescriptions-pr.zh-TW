@@ -6,16 +6,16 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: faa8416e26c51f2e9bab05deafb98f0620bf5c0b
-ms.sourcegitcommit: 5cc673d87bf7d32278aee85ead3d48a5b95f154a
+ms.openlocfilehash: 6de0cee34692cca6106dc854060fc11b1b219cd5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505702"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671355"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -65,12 +65,25 @@ Microsoft 不直接營運此項服務。 由 21Vianet 營運、提供並管理�
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以管理組織的合規性需求。 以下是由世紀運作的計畫提供的相容性中心的解決方案：
 
-- 資料外洩防護 (DLP)
-- 保留
-- 使用 Azure Active Directory 和 Exchange 中的資料進行審計
-- 使用 AIP 整合標籤用戶端 Microsoft 資訊保護 (的 Office 用戶端和 Outlook 的 MIP) 和敏感度標籤
+| 功能 | 由世紀運作的 Microsoft 365 商務基本版 | 由世紀運作的 Microsoft 365 Apps 商務版 | 由世紀運作的 Microsoft 365 商務標準版 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | Office 365 企業版由世紀運作的 F3 |
+|---------|---------|---------|---------|---------|---------|---------|
+| 封存 | 是 | n/a | 是 | 是 | 是 | 否 |
+| 警示原則 | 否 | n/a | 否 | 否<sup>1</sup> | 否<sup>1</sup> | 否<sup>1</sup> |
+|基本審核<sup>2</sup> | 是 | n/a | 是 | 是 | 是 | 是 |
+|內容搜尋 | 否 | n/a | 否 | 否<sup>1</sup> | 否<sup>1</sup> | 否<sup>1</sup> |
+|Exchange Online、SharePoint Online 及商務用 OneDrive 適用的資料外洩防護 | 否 | n/a | 是 | 否 | 是 | 否 |
+|電子文件探索案例 | 否 | n/a | 否 | 否<sup>1</sup> | 否<sup>1</sup> | 否<sup>1</sup> |
+|電子文件探索匯出 | 否 | n/a | 否 | 否 | 否<sup>1</sup> | 否 |
+|電子文件探索保留 (包括查詢式 電子文件探索保留) | 否 | n/a | 否 | 否 | 否<sup>1</sup> | 否 |
+|資訊管理<sup>1</sup> | 是 | n/a | 是 | 是 | 是 | 是 |
+|手動敏感度標籤 | 否 | n/a | 否 | 是 | 是 | 否 |
+|Office 365 郵件加密 (OME) 基本 | 否 | n/a | 否 | 否 | 是 | 否 |
+
+<sup>1</sup> 可用性即將推出。</br>
+<sup>2</sup>使用 Azure Active Directory 和 Exchange 中的資料進行審計。
 
 > [!NOTE]
+>
 > - 目前不支援 SharePoint 網站、Microsoft 365 群組和 Microsoft Teams 中保護內容的靈敏度標籤。
 > - 目前不支援使用 Office 網頁版來分類及保護檔和電子郵件的靈敏度標籤。
 
@@ -584,9 +597,6 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 應用程式部署：雲端託管的應用程式 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 應用程式部署：SharePoint 託管的應用程式 | 是 | 是 | 是 | 是 | 是 | 是 |
 | App Management Service | 是 | 是 | 是 | 是 | 是 | 是 |
-| 封存 | 是 | n/a | 是 | 是 | 是 | 否 |
-| 警示原則 | 否 | n/a | 否 | 否 | 否 | 否 |
-| 基本審核<sup>2</sup> | 是 | n/a | 是 | 是 | 是 | 是 |
 | BCS：外部清單警示 | 否 | 否 | 否 | 否 | 是 | 否 |
 | BCS：應用程式範圍外部內容類型 (ECTs) | 否 | 否 | 否 | 否 | 是 | 否 |
 | BCS：商務資料網頁組件 | 否 | 否 | 否 | 否 | 是 | 否 |
@@ -599,22 +609,14 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | 以瀏覽器為基礎的自訂 | 是 | 是 | 是 | 是 | 是 | 是 |
 | Client Object Model (OM) | 是 | 是 | 是 | 是 | 是 | 是 |
 | 用戶端轉譯 (CSR) | 是 | 是 | 是 | 是 | 是 | 是 |
-| 內容搜尋 | 否 | n/a | 否 | 否 | 否 | 否 |
 | 自訂網站定義 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 自訂網站佈建頁面 | 否 | 否 | 否 | 否 | 否 | 否 |
-| Exchange Online、SharePoint Online 及商務用 OneDrive 適用的資料外洩防護 | 否 | n/a | 是 | 否 | 是 | 否 |
 | 開發人員網站 | 是 | 否 | 是 | 是 | 是 | 是 |
 | 表單型應用程式 | 是 | 否 | 是 | 是 | 是 | 是 |
 | 完全信任解決方案 | 否 | 否 | 否 | 否 | 否 | 否 |
-| 電子文件探索案例 | 否 | n/a | 否 | 否 | 否 | 否 |
-| 電子文件探索匯出 | 否 | n/a | 否 | 否 | 否 | 否 |
-| 電子文件探索保留 (包括查詢式 電子文件探索保留) | 否 | n/a | 否 | 否 | 否 | 否 |
-| 資訊管理<sup>1</sup> | 是 | n/a | 是 | 是 | 是 | 是 |
 | InfoPath Forms Services | 否 | 否 | 否 | 否 | 無<sup>14</sup> | 否 |
 | JavaScript Object Model | 是 | 是 | 是 | 是 | 是 | 是 |
 | 清單和程式庫 API | 是 | 是 | 是 | 是 | 是 | 是 |
-| 手動敏感度標籤 | 否 | n/a | 否 | 是 | 是 | 否 |
-| Office 365 郵件加密 (OME) 基本 | 否 | n/a | 否 | 否 | 是 | 否 |
 | 遠端事件接收器 | 是 | 否 | 是 | 是 | 是 | 是 |
 | REST API | 是 | 是 | 是 | 是 | 是 | 是 |
 | SharePoint Design Manager | 是 | 否 | 是 | 是 | 是 | 是 |
@@ -772,7 +774,7 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 | Microsoft Office 用戶端連線 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 跨瀏覽器支援 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 自訂管理路徑 | 否 | 否 | 否 | 否 | 否 | 否 |
-| 治理 | 是 | 是 | 是 | 是 | 是 | 是 |
+| 控管 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 混合式應用程式啟動器 | 是 | 是 | 是 | 是 | 是 | 是<sup>15</sup> |
 | 混合式 OneDrive 商務和網站 | 是 | 是 | 是 | 是 | 是 | 是<sup>15</sup> |
 | 大量清單延展性和管理 | 是 | 是 | 是 | 是 | 是 | 是 |

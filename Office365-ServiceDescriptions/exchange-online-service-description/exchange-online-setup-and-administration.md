@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-administration-and-management
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: 本文說明可用於自訂 Exchange Online 設定，以及讓組織的 Exchange Online 環境保持在最新狀態及目前狀態的管理控制和支援。 其中包括以下相關資訊：可供組織使用的自助管理工具和功能；Microsoft 管理責任和效能承諾；以及服務和產品升級。
-ms.openlocfilehash: 24edb5a4c1855acd990ddc427e218cb601dc45aab34a5f6a83cf76cb561dbffe
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b3d48ea094feca187de5523ad5d0ed34b7294b33
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663946"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672008"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 設定與管理
 

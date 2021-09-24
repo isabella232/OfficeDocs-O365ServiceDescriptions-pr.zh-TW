@@ -8,15 +8,15 @@ ms.topic: reference
 f1_keywords:
 - office-365-voice-message-services
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 42a92a444a49b19d4589dd733426505c92c59e563776728f2ecf02aef53a7b36
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 6fabb8b657c56f98d21b184466a87018d69fcfa9
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663586"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671702"
 ---
 # <a name="voice-message-services"></a>語音訊息服務
 

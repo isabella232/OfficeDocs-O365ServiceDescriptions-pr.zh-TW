@@ -1,5 +1,5 @@
 ---
-title: 郵件原則及合規性
+title: 郵件原則及符合性
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-message-policy-recovery-and-compliance
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: 深入瞭解 Exchange Online 中的郵件原則及符合性。
-ms.openlocfilehash: 135a928aef14695e5dd4d459c3ac60f24ea81a0b91585a3017f6e50591b03226
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: c53f4deb052bfe149ed3adf7821ace90ded01126
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663766"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671869"
 ---
-# <a name="message-policy-and-compliance"></a>郵件原則及合規性
+# <a name="message-policy-and-compliance"></a>郵件原則及符合性
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>封存 Exchange Online 式信箱
 

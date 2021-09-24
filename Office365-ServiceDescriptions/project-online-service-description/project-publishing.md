@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - interoperability-with-skype-for-business-and-sharepoint
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
 description: Project Online 中提供下列 SharePoint 和商務用 Skype 互通性功能。
-ms.openlocfilehash: 445e539dbb479072fd8c39794a92d787570e4cb2efb0c1d6c435853fa3918a38
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 0f1b65242a67c954c4908f112f9cb38a119e1b9c
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702662"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672505"
 ---
 # <a name="project-publishing"></a>專案發佈
 

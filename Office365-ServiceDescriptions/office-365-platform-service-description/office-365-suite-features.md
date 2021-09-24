@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-suite-features
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主題中所列的功能是網頁式工具的集合，可協助您安全地在許多裝置和多個 Office 365 服務之間共同作業和通訊。 這些功能會協助在您的組織內進行新的連線，方法是整合數位內容建立、儲存及管理與用於在使用者之間探索及分享資訊的社交工具。
-ms.openlocfilehash: c12977bc68ea8871779a3615b1f3f121541b01658b273c42736d67da4894d20e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 149049a9b6937e1d8516674ba4772ba731bccd40
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664486"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671168"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 
@@ -41,7 +41,7 @@ Delve 可讓使用者根據個人化觀點，在 Microsoft 365 上搜尋及探�
 
 Microsoft Power Automate 可讓您跨應用程式自動化工作流程。 您可以使用 Flow 與電子郵件及 IM 警訊連線、同步應用程式間的檔案、在兩個服務間複製檔案，以及從一個應用程式收集資料，然後資料儲存至另一個應用程式等等。 範本可協助您入門。 若要深入瞭解 Flow 功能及其使用方式，請前往[Power Automate 網站](https://preview.flow.microsoft.com/)。
   
-## <a name="microsoft-forms"></a>Microsoft 表單
+## <a name="microsoft-forms"></a>Microsoft Forms
 
 Microsoft Forms 可讓您快速且輕鬆地建立自訂測驗、調查、問卷、登記等等。 當您建立測驗或表單時，您可以邀請其他人使用任何網頁瀏覽器，甚至是行動裝置，來進行回應。 提交結果之後，您可以使用內建分析來評估回應。 表單資料（如測驗結果）可以輕易地匯出至 Excel，以進行其他分析或評分。 若要深入瞭解，請參閱 [什麼是 Microsoft Forms？](https://support.office.com/forms)。
   
@@ -74,7 +74,7 @@ Microsoft Stream 是企業的影片服務，貴組織中的人員可使用它來
 
 Microsoft Sway 是一種適用于商務用的專業數位 storytelling 應用程式，可協助您和您的同事使用互動式、以 web 為基礎的畫布表達創意。 Microsoft Sway 的內建設計引擎可協助您產生專業、視覺衝擊力的報表、簡報，而且不需要大量的格式或其他訓練。 您也可以修改結果，以取得您想要的獨特外觀和感覺。 Microsoft Sway 可讓您在任何畫面上的任何瀏覽器中建立美觀的外觀，也可以透過傳送連結來與同事和客戶共用。 Microsoft Sway 可協助您找出併合並所有種類的內容，而不需離開應用程式，因此您可以將圖像、文字、影片和圖表放在畫布上。 若要深入瞭解，請參閱 [Sway](https://sway.com)。 [Office 365 德國](office-365-germany.md)尚無可用的 Microsoft Sway。
   
-## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 Apps 企業版
+## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 企業版應用程式
 
 Microsoft 365 Apps 企業版是您已知道的最新電腦應用程式套件 (包括 Word、PowerPoint、Excel、Outlook 和 Teams) 可以做為訂閱。 Microsoft 365 Apps 企業版包括獨佔的智慧功能，如 Excel 中的 [**創意**](https://go.microsoft.com/fwlink/p/?linkid=2109915)、Word 中的 [**研究員**](https://go.microsoft.com/fwlink/p/?linkid=2109916)、[**即時共同**](https://go.microsoft.com/fwlink/p/?linkid=2109917)作業、Teams 為小組合作的中心及高級的安全性功能。 以使用者為基礎的授權，您最多可以在五台電腦或 mac、五台平板電腦和五部行動裝置上部署 Office。 透過 1 TB 的 OneDrive 雲端儲存空間，您可以從任何位置存取及共同作業您的檔案。
 

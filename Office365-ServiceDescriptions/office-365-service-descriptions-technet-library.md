@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-365-service-descriptions
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 和 Office 365 是雲端架構服務，其設計目的是為了協助滿足您組織對強健安全性、可靠性和使用者生產力的需求。
-ms.openlocfilehash: 20470f92e036fe5f57e93ba7fd64bcf9d0fc0c9ff32122a88a2fe8fcc81decad
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 95594a456d6c0c5ef10c7133ffb4b2298866ec76
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702072"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669988"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服務描述 
 
@@ -42,7 +42,7 @@ Microsoft 為合格方案中的合格服務提供 Office 365 的 FastTrack 中�
 
 - [Office 應用程式服務說明](office-applications-service-description/office-applications-service-description.md)
 
-- [網頁版 Office 服務描述](office-online-service-description/office-online-service-description.md)
+- [ Office 網頁版服務描述](office-online-service-description/office-online-service-description.md)
 
 - [Exchange Online 服務說明](exchange-online-service-description/exchange-online-service-description.md)
 

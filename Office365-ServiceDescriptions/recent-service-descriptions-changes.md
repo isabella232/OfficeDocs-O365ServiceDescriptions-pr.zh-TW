@@ -6,17 +6,17 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: 下表列出最近對服務描述內容所做的變更。
-ms.openlocfilehash: 343ea3ddeb84451bad4c6e152a920b4cc9689cdf1c357b1c02aeadee8de28f99
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 708cc4853ebf81efd48420ce56b3948d47fec3f2
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702892"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672430"
 ---
 # <a name="recent-service-descriptions-changes"></a>最近的服務描述變更
 

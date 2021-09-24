@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-privacy-security-transparency
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft 十分重視與客戶之間的合作關係，且致力於保護客戶資料的隱私和安全性。如需詳細資訊，請參閱 Microsoft 信任中心。
-ms.openlocfilehash: 06ca7c3afa81aa31b559c115972d9c2c02b2b06757032282672e536f78d0dd1a
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b25a747d5ebb4c8941d2c3e1f592f57d964f7e98
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701832"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672981"
 ---
 # <a name="privacy-security-and-transparency"></a>隱私權、安全性和透明化
 

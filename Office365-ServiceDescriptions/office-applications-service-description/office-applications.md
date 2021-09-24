@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-proplus-office-applications-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office 是一套強大的服務產品，能協助您想出最棒的點子、完成工作並在行動間保持聯繫。只要登入以使用個人化體驗，所有最新的 Office 應用程式，以及新的增強功能都將持續加入。
-ms.openlocfilehash: 8d52eb1950b9a1c3cc49a98ffaeb156357c65ccf8b56275c6e11b608aaafc246
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 9d936a8c7e9c474aec05a39de879a74dd57c5a72
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702052"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669978"
 ---
 # <a name="office-applications"></a>Office 應用程式
 

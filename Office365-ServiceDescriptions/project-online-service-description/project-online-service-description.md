@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - project-online-service-description
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 為專案產品群組管理 (PPM) 及日常運作的彈性線上解決方案。 透過 Project Online Office 365 提供強大的專案管理功能，可用於規劃、排定專案與專案組合的投資，甚至幾乎任何裝置上幾乎都沒有任何的裝置。 系統管理員、組合管理員和檢視者、專案和資源管理員、小組負責人和成員都可以使用 Project Online。
-ms.openlocfilehash: 6167bf8ebb384bc0e8968004e55d188fb4a194af
-ms.sourcegitcommit: 5cc673d87bf7d32278aee85ead3d48a5b95f154a
+ms.openlocfilehash: df6f4ffc3d8c95ab3b4882a7d337e7f880f3b368
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505698"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672556"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 服務說明
 
@@ -197,7 +197,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以符合組織的需�
 |使用者管理 | 管理專案、小組和組織層級的使用者和群組角色和許可權。 | 否 | 是 |
 |服務管理 | 規劃、安裝及設定、維護和擴充 Microsoft Project 環境為 Office 365<sup>1</sup>環境的一部分。 | 否 | 是 |
 
-#### <a name="notes"></a>附註
+#### <a name="notes"></a>注意事項
 
 <sup>1</sup>需要 Office 或 Microsoft 365 商務訂閱。<br/>
 <sup>2</sup> Azure Boards 個別購買。<br/>
@@ -258,7 +258,7 @@ Microsoft Project 可透過三種不同的訂閱取得，以符合組織的需�
 |排序和群組 | 使用自訂排序和群組可取得專案、任務和資源的焦點視圖。|
 |**自訂和整合**||
 |自訂欄位 | 在專案、任務及資源層級新增自訂欄位，以追蹤對您的組織及專案非常重要的資料。 |
-|Forms | 建立及部署自訂表單，以捕獲重要的專案資料。 |
+|表單 | 建立及部署自訂表單，以捕獲重要的專案資料。 |
 |公式 | 使用跨任務和專案的公式，計算及捕獲重要的資料。 |
 |範本 | 建立常見專案（包括專案計劃、小組和工作分派）的範本。 |
 |mpp 匯入/匯出 | 從現有的 mpp 檔案建立新專案，或建立現有專案的 mpp 檔案。 |

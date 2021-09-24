@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務進階版是整合的解決方案，利用高級安全性和裝置管理功能，將一流的生產力整合在一起，以協助保護您的企業。 此服務描述說明方案選項及功能。
-ms.openlocfilehash: 658bfe634163bb7b0df423f65973c40a3289aec9cc81134ff97ea51403ae8ee4
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8815a1ab8ec1dc7901e04e7b7a972d6ec8b78151
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663346"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671658"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 商務進階版服務描述
 
@@ -101,7 +101,7 @@ Microsoft 365 商務進階版基本上包含 Microsoft 365 商務標準版中所
 |保護資料夾來抵擋勒索軟體等威脅 <br/> |是  <br/> |
 |協助保護電腦上的檔案和資料夾免受未授權的 Bitlocker 存取 <br/> |是  <br/> |
 
-### <a name="notes"></a>附註
+### <a name="notes"></a>注意事項
 <sup>1</sup>包括 Exchange Online 方案1。<br/>
 <sup>2</sup> Azure 資訊保護 (AIP) 會啟用支援的資訊版權管理 (IRM) 功能。 AIP 方案1包含在 Microsoft 365 商務進階版中。 <br/>
 <sup>3</sup> Microsoft 365 商務進階版包括 Exchange Online 封存訂閱。 每位 Exchange Online Archiving 訂閱者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [無限制封存的概觀](/office365/securitycompliance/unlimited-archiving)。 <br/>

@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-applications-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 是一項訂閱服務，可為您提供您已熟悉的最新版 Office 桌面應用程式，例如 Word、Excel 及 PowerPoint。
-ms.openlocfilehash: 83ccebfd18bc95694f641d02b4eb56c4bcf34e3859d408ef9550881f2b2fe873
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 6947786fcc848195fbb90afb120966c73cb4dd5f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702022"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672774"
 ---
 # <a name="office-applications-service-description"></a>Office 應用程式服務說明
 
@@ -37,7 +37,7 @@ Office 應用程式有 32 位元和 64 位元版本可供使用。
   
 有些商務方案 Microsoft 365 包含您可以為訂閱購買的附加元件。 附加元件可為訂閱提供額外的功能。 如需詳細資訊，請參閱 [購買或編輯附加](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)元件。<br><br>
 
-| Application/feature | Office Professional Plus 2013 | Office 專業增強版 2016 | Office 專業增強版 2019 | Microsoft 365 Apps 企業版 | Microsoft 365 Apps 商務版 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Microsoft 365 商務進階版 | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365鍵 |
+| Application/feature | Office Professional Plus 2013 | Office 專業增強版 2016 | Office 專業增強版 2019 | Microsoft 365 企業版應用程式 | Microsoft 365 Apps 商務版 | Microsoft 365 商務基本版 | Microsoft 365 商務標準版 | Microsoft 365 商務進階版 | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365鍵 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Office 應用程式** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |

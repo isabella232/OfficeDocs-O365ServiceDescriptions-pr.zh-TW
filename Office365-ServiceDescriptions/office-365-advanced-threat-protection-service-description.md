@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-advanced-threat-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 是一種雲端式電子郵件篩選服務，可協助您的組織抵禦未知惡意程式碼和病毒，方法是提供強健的零日保護，並提供功能，以即時保護您的組織不受有害連結。
-ms.openlocfilehash: 823527f1ef0fbd0284fb1b703d3c6e9f7dfdad440138b6d724077ad5badb9bca
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 41f726ad322050821871f286aac9c4862e33f7a7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663096"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670338"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>適用於 Office 365 的 Microsoft Defender 服務描述
 
@@ -43,7 +43,7 @@ Microsoft Defender for Office 365 是一種雲端式電子郵件篩選服務，�
 |---------|--------------------------------|--------------------------------|--------------------------------|
 | *設定、保護及偵測* | | | |
 | 預設的安全性原則和設定分析器 | 是 | 是 | 是 |
-| [安全附件](microsoft-defender-for-office-365-features.md#safe-attachments) (部分機器翻譯) | 是 | 是 | 是 |
+| [安全附件](microsoft-defender-for-office-365-features.md#safe-attachments) | 是 | 是 | 是 |
 | 保管庫Teams 中的附件 | 是 | 是 | 是 |
 | [安全連結](microsoft-defender-for-office-365-features.md#safe-links) | 是 | 是 | 是 |
 | [安全文件](microsoft-defender-for-office-365-features.md#safe-documents) | 否 | 否 | 是 |

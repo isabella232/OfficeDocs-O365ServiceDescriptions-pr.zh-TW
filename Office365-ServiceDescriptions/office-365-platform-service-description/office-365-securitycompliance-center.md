@@ -6,20 +6,20 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全性與 &amp; 合規性中心的設計目的是協助您跨組織的 Office 365 管理規範功能。 現有 SharePoint 和 Exchange 合規性功能的連結可將整個 Office 365 的合規性功能結合在一起。
-ms.openlocfilehash: 53b1c2c0f9f2af8fd287a2466d33b076ae4ba039
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: e703a630cd2300bff85d465be89ce865c572d6a4
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363600"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671287"
 ---
 # <a name="security-amp-compliance-center"></a>安全性與 &amp; 合規性中心
 
-以協助工具和易用性為設計，使用[Microsoft 365 的安全性中心](https://sip.security.microsoft.com/homepage)、 [Microsoft 365 合規性中心](https://sip.compliance.microsoft.com/homepage)及[Exchange 系統管理中心](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx)，針對整合的安全性、規範和郵件流程管理，在 Microsoft 365 服務中包含現有的功能和新的增強體驗。 這些新的中心會逐漸取代 Office 365 安全性與 &amp; 合規性中心 (protection.office.com) 。 您可以在 [[安全性中心](https://sip.security.microsoft.com/homepage)] 或 [[規範中心](https://sip.compliance.microsoft.com/homepage)] 中立即開啟自動重新導向，所以組織中的系統管理員會立即從 Office 365 安全性與合規性中心的功能重新導向 &amp; 至新中心的對應功能。
+以協助工具和易用性為設計，其考慮的是[Microsoft 365 的安全性中心](https://sip.security.microsoft.com/homepage)、 [Microsoft 365 合規性中心](https://sip.compliance.microsoft.com/homepage)及[Exchange 系統管理中心](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx)，包含整合的安全性、規範和郵件流程管理的現有功能和新的增強體驗 Microsoft 365服務。 這些新的中心會逐漸取代 Office 365 安全性與 &amp; 合規性中心 (protection.office.com) 。 您可以在 [[安全性中心](https://sip.security.microsoft.com/homepage)] 或 [[規範中心](https://sip.compliance.microsoft.com/homepage)] 中立即開啟自動重新導向，所以組織中的系統管理員會立即從 Office 365 安全性與合規性中心的功能重新導向 &amp; 至新中心的對應功能。
 
 若要查看授權您的使用者受益 Microsoft 365 規範功能的選項，請下載[Microsoft 365 比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 

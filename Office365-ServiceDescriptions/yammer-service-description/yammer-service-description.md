@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - yammer-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 查看不同的 Yammer 方案中提供的功能。
-ms.openlocfilehash: 3b899a5f17ef501305d5057268053e843ad4c383
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: 16393c4ef8accf9a6786a241d19b438d416389dc
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363560"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673087"
 ---
 # <a name="yammer-service-description"></a>Yammer 服務說明
 

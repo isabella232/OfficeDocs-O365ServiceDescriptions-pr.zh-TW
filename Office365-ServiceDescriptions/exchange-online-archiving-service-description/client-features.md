@@ -7,16 +7,16 @@ ms.topic: reference
 f1_keywords:
 - clients-and-devices-in-exchange-online-archiving
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: 請閱讀本文以瞭解 Microsoft Exchange Online 封存中可用的用戶端功能。
-ms.openlocfilehash: df71da18d5eb2304496bc72ac2556bb3cc325e50e49cccb14ba6b5191cc95b1d
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 5cb9e43ecf20aeca4bcec1c6c76c7ef56bb6e557
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664666"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670835"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online 封存中的用戶端功能
 
@@ -58,7 +58,7 @@ Outlook 2007 可提供對封存的基本支援，但是並非所有封存和法�
 > [!NOTE]
 > <sup>1</sup> Outlook included with Microsoft Office Standard is not supported. To learn more, see [License requirements for Personal Archive and retention policies](https://support.office.com/article/Outlook-license-requirements-for-Exchange-features-46B6B7C5-C3CA-43E5-8424-1E2807917C99). <br/> 
 <sup>2</sup> Requires update to enable archiving support. Outlook 2007 users cannot view or apply retention or archive policies to items in their archive mailboxes; they must rely on administrator-provisioned policies. Additionally, Outlook 2007 users cannot search the on-premises mailbox and the archive at the same time. <br/> 
-<sup>3</sup>您無法使用 Mac 版 Outlook 2016 或 Mac 版 Outlook，將資料夾、行事曆專案、連絡人、工作或附注移動或複製到封存，或在封存信箱中查看這些專案之前使用的任何其他版本的 Outlook (例如 Outlook 2016 Windows) 。 如需詳細資訊，請參閱[使用您的線上](https://support.office.com/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238)封存搭配 Mac 版 Outlook 2016。 
+<sup>3</sup>您無法使用 Mac 版 Outlook 2016 或 Mac 版 Outlook，將資料夾、行事曆專案、連絡人、工作或附注移動或複製到封存，或在封存信箱中查看這些專案（如果這些專案先前是使用 Outlook 2016 的任何其他 (Outlook 版本移至該位置 Windows) 。 如需詳細資訊，請參閱[使用您的線上](https://support.office.com/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238)封存搭配 Mac 版 Outlook 2016。 
 
 ## <a name="outlook-on-the-web"></a>Outlook 網頁版
 

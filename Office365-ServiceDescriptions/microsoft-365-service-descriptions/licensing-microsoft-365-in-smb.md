@@ -6,15 +6,15 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商務進階版是適用于中小型企業客戶的 Microsoft 一流服務。 Microsoft 365 商務進階版是整合的解決方案，可共同 Microsoft 365 生產力、高級安全性和裝置管理。
-ms.openlocfilehash: 96a826ef61c283ad2aa402f5ef3c93bb96e519da4a8937944d9e5dc0c99e9983
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 66832d3ae1a74f5551bbb689eb7ac07d197b1e2b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663566"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670460"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>中小型企業的 Microsoft 365 授權
 
@@ -33,7 +33,6 @@ Microsoft 365 商務進階版是適用于中小型企業 (SMB) 客戶的 Microso
 |**檔存放區** | 商務用 OneDrive  | 每個使用者 1 TB | 每個使用者 1 TB |
 |**社交、影片、網站** | Stream、Yammer、Planner、SharePoint Online、PowerApps、Power Automate | 是 | 是 |
 |**商務應用程式** | 排程應用程式 &ndash; 預定<sup>1</sup> | 是 | 是 |
-|   | 商務應用程式 &ndash; MileIQ<sup>1</sup> | 是 | 是 |
 |**威脅防護** | 適用於 Office 365 的 Microsoft Defender | 否 | 是 |
 |   | WindowsExploit Guard 強制執行 | 否 | 是  |
 |**身分識別管理** | 混合式 Azure Active Directory 帳戶的自助密碼重設 | 否 | 是 |
@@ -64,7 +63,6 @@ Microsoft 365 商務進階版是適用于中小型企業 (SMB) 客戶的 Microso
 |**檔存放區** | 商務用 OneDrive | 無限制 | 每個使用者 1 TB |
 |**社交、影片、網站** | Stream，Yammer，Planner，SharePoint Online<sup>1</sup>，PowerApps<sup>1</sup>，Power Automate<sup>1</sup> | 是 | 是 |
 |**商務應用程式** | 排程應用程式 &ndash; 預定<sup>2</sup> | 是 | 是 |
-|   | 商務應用程式 &ndash; MileIQ<sup>2</sup> | 否 | 是 |
 |**威脅防護** | 適用於 Office 365 的 Microsoft Defender | 否 | 是 |
 |   | WindowsExploit Guard 強制執行 | 否 | 是 |
 |**身分識別管理** | 混合式 Azure Active Directory 帳戶的自助密碼重設 | 否 | 是 |
@@ -97,7 +95,6 @@ Microsoft 365 商務進階版是適用于中小型企業 (SMB) 客戶的 Microso
 |**檔存放區** | 商務用 OneDrive | 每個使用者 1 TB | 每個使用者 1 TB | 無限制 |
 |**社交、影片、網站** | Stream，Yammer，Planner，SharePoint Online<sup>1</sup>，PowerApps<sup>1</sup>，Power Automate<sup>1</sup> | 是 | 是 | 是 |
 |**商務應用程式** | 排程應用程式 &ndash; 預定<sup>2</sup> | 是 | 是 | 是 |
-|   | 商務應用程式 &ndash; MileIQ<sup>2</sup> | 是 | 是 | 否 |
 |**威脅防護** | 適用於 Office 365 的 Microsoft Defender | 否 | 是 | 否 |
 |   | WindowsExploit Guard 強制執行 | 否 | 是 | 否 |
 |**身分識別管理** | 混合式 Azure Active Directory 帳戶的自助密碼重設 | 否 | 是 | 否 |
@@ -129,9 +126,8 @@ Microsoft 365 商務進階版是適用于中小型企業 (SMB) 客戶的 Microso
 |**用於團隊合作的 Hub** | Microsoft Teams 中的聊天型工作區、線上會議和更多內容 | 是 | 是 | 是 | 是 |
 |**檔存放區** | 商務用 OneDrive | 每個使用者 1 TB | 每個使用者 1 TB | 無限 | 無限 |
 |**社交、影片、網站** | Yammer，SharePoint Online，Planner | 是 | 是 | 是 | 是 |
-|   | Stream | | 是 | 是 | 是 |
+|   | 資料流 | | 是 | 是 | 是 |
 |**商務應用程式** | 排程應用程式 &ndash; 預定<sup>1</sup> | 是 | 是 | 是 | 是 |
-|   | 商務應用程式 &ndash; MileIQ<sup>1</sup> | 是 | 是 | 否 | 否 |
 |**威脅防護** | Microsoft Advanced 威脅分析、Device guard、Credential guard、AppLocker、Enterprise 資料保護 | 否 | 否 | 是 | 是 |
 |   | 適用於 Office 365 的 Microsoft Defender | 否 | 是 | 否 | 是 |
 |   | 適用於端點的 Microsoft Defender | 否 | 否 | 否 | 是 |
@@ -191,9 +187,9 @@ Microsoft 365 商務進階版是適用于中小型企業 (SMB) 客戶的 Microso
 | **授權**                                   | **Microsoft 365 Apps 商務版** | **Microsoft 365 Apps 企業版** |
 | 授權模型                                 | 每位使用者                | 每位使用者               |
 | 授權類型                                    | 訂閱            | 訂閱           |
-| 電腦/Mac 安裝<sup>6</sup>                     | 5                        | 5                       |
-| iOS/Android smartphone 安裝<sup>6</sup>     | 5                        | 5                       |
-| 平板電腦安裝<sup>6</sup>                     | 5                        | 5                       |
+| 電腦/Mac 安裝<sup>6</sup>                     | 5                       | 5                      |
+| iOS/Android smartphone 安裝<sup>6</sup>     | 5                       | 5                      |
+| 平板電腦安裝<sup>6</sup>                     | 5                       | 5                      |
 | OfficeRT 商業權利                     | 是                     | 是                    |
 | Office線上/web 應用程式                          | 是                     | 是                    |
 | 商業用途權力                           | 是                     | 是                    |

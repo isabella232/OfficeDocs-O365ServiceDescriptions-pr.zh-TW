@@ -8,22 +8,22 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-archiving-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: 請閱讀本文以瞭解 Microsoft Exchange Online 封存。
-ms.openlocfilehash: 5fe3d747bace615b4ab6e9741f70531e7ab26ea8
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: 5030c265b309641a0d69e79c1aa8942c45360550
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363570"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670689"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online 封存服務說明
 
-Microsoft Exchange Online封存是一種 Microsoft 365 雲端型企業級封存解決方案，適用于已部署 Microsoft Exchange Server 2019，Microsoft Exchange Server 2016，Microsoft Exchange Server 2013，Microsoft Exchange Server 2010 (SP2 和更新版本) ，或訂閱特定 Exchange Online 或 Microsoft365 方案。 Exchange Online Archiving可為這些組織在封存、符合性、法規及 eDiscovery 挑戰等方面提供協助，同時可簡化內部部署基礎結構，進而降低成本和減輕 IT 重擔。
+Microsoft Exchange Online封存是部署 Microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013 之組織的 Microsoft 365 雲端架構企業級封存解決方案。Microsoft Exchange Server 2010 (SP2 和更新版本) ，或訂閱特定 Exchange Online 或 Microsoft365 方案。 Exchange Online Archiving可為這些組織在封存、符合性、法規及 eDiscovery 挑戰等方面提供協助，同時可簡化內部部署基礎結構，進而降低成本和減輕 IT 重擔。
   
 做為一套 Microsoft 線上服務，Exchange Online 封存旨在協助達成對健全安全性、可靠性和使用者生產力的需求。 如需 Microsoft 365 的詳細資訊（包括所有 Microsoft online 服務通用的功能），請參閱[Microsoft 365 及 Office 365 platform service description](../office-365-platform-service-description/office-365-platform-service-description.md)。
   
@@ -44,11 +44,11 @@ Microsoft Exchange Online封存是一種 Microsoft 365 雲端型企業級封存�
 |:-----|:-----|
 |**Exchange Server 適用的 Exchange Online 封存** <br/> |雲端式封存，適用于在 Exchange Server 2019 中使用主要信箱的使用者，Exchange Server 2016，Exchange Server 2013，或 Exchange 2010 (SP2 或更新版本) 。 <br/> 如果您想要將雲端型封存新增至位於內部部署 Exchange 伺服器的主要信箱，您需要設定混合部署。 如需有關混合部署的詳細資訊，請參閱[Exchange Server 混合式部署](/exchange/exchange-hybrid)。 <br/> |
 |**Exchange Server 適用的 Exchange Online 封存 (透過企業 CAL 套件)** <br/> |雲端式封存，適用于在 Exchange Server 2019 中使用主要信箱的使用者，Exchange Server 2016，Exchange Server 2013，或 Exchange 2010 (SP2 或更新版本) 。 如需詳細資訊，請參閱 [Client Access 授權和管理授權](https://www.microsoft.com/licensing/product-licensing/client-access-license)。 <br/> |
-|**Exchange Online 適用的 Exchange Online 封存** <br/> | 雲端式封存和就地保留做為下列方案<sup>1、2、3</sup>的附加元件：<br/> Exchange Online Plan 1 <br/> Exchange Online Kiosk <br/> Microsoft 365 商務基本版 <br/> Microsoft 365 商務標準版 <br/> Microsoft 365 商務進階版 <br/> Office 365 E1 <br/> Office 365 A1 <br/> Office 365G1 <br/> Office 365鍵 <br/> Microsoft 365 F3<br/> <b>附注：</b>下列計畫已包含封存，而且不需要 Exchange Online 封存做為附加元件：<br/>Office 365 A3 <br/> Office 365 A5 <br/> Office 365 E3 <br/> Office 365 E5 <br/> Exchange Online Plan 2 <br/>Microsoft 365 E3 <br/> Microsoft 365 E5 <br/>如需 Exchange Online 信箱之封存功能的詳細資料，請參閱[Exchange Online 封存中](./archive-features.md)的封存功能。|
+|**Exchange Online 適用的 Exchange Online 封存** <br/> | 雲端式封存和就地保留做為下列方案<sup>1、2、3</sup>的附加元件：<br/> Exchange Online Plan 1 <br/> Exchange Online Kiosk <br/> Microsoft 365 商務基本版 <br/> Microsoft 365 商務標準版 <br/> Microsoft 365 商務進階版 <br/> Office 365 E1 <br/> Office 365 A1 <br/> Office 365G1 <br/> Office 365鍵 <br/> Microsoft 365 F3<br/> <b>附注：</b>下列計畫已包含封存，而且不需要 Exchange Online 封存做為附加元件：<br/>Office 365 A3 <br/> Office 365 A5 <br/> Office 365 E3 <br/> Office 365 E5 <br/> Exchange Online Plan 2 <br/>Microsoft 365 E3 <br/> Microsoft 365 E5 <br/> Microsoft 365F5 規範 <br/> 如需 Exchange Online 信箱之封存功能的詳細資料，請參閱[Exchange Online 封存中](./archive-features.md)的封存功能。|
 
 <sup>1</sup> 組織只採用雲端 (即組織中沒有信箱位於內部部署 Exchange 伺服器) 時不一定要採用混合部署。 不過，如果內部部署信箱已存在，則需要混合部署。
 <br/>
-<sup>2</sup> Exchange Online 方案1、Office 365 E1/A1/G1 及 Microsoft 365 商務基本版/Standard/進階版的信箱和封存的大小限制。 如需詳細資訊，請參閱[Exchange Online 限制](../exchange-online-service-description/exchange-online-limits.md)。 Exchange Online 適用的Exchange Online Archiving附加元件增加了無限量雲端型封存和 [就地保留與訴訟暫止](compliance-and-security-features.md#in-place-hold-and-litigation-hold)。
+<sup>2</sup> Exchange Online 方案1、Office 365 E1/A1/G1 及 Microsoft 365 商務基本版/Standard/進階版的信箱和封存的大小限制。 如需詳細資訊，請參閱 [Exchange Online 限制](../exchange-online-service-description/exchange-online-limits.md)。 Exchange Online 適用的Exchange Online Archiving附加元件增加了無限量雲端型封存和 [就地保留與訴訟暫止](compliance-and-security-features.md#in-place-hold-and-litigation-hold)。
 <br/>
 <sup>3</sup>包括我們政府的 GCC、GCC 高及 DoD 方案。
 

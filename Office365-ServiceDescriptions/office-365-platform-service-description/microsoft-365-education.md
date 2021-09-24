@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: 深入瞭解 Microsoft 365 和 Office 365 教育版計畫之間的差異。
-ms.openlocfilehash: c5bd3717da582fa2483f423b6519c72641143ad0a320c3e5697aed0c5eb1dbc8
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8db32ff04ffc142cc5be32f6ea41831eaf596288
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54662996"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670308"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -31,13 +31,13 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Office 365 平臺|是|是|是|是|是|是|是|是|是|
 |網頁版 Office|是|是|是|是|是|是|是|是|是|
-|Microsoft 365 Apps 企業版|否|是|是|是|是|是|是|是|是|
+|Microsoft 365 企業版應用程式|否|是|是|是|是|是|是|是|是|
 |Exchange Online|是<sup>1</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>2</sup>|
 |SharePoint Online|是<sup>3</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|
 |商務用 OneDrive|是|是|是|是|是|是|是|是|是|
 |Microsoft Teams|是|是|是|是|是|是|是|是|是|
 |商務用 Skype Online|是|是|是|是|是|是|是|是|是|
-|Project|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|
+|專案|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|
 |Yammer Academic|是|是|是|是|是|是|是|是|是|
 |Microsoft Stream|是|是|是|是|是|是|是|是|是|
 |Microsoft Planner|是|是|是|是|是|是|是|是|是|
@@ -66,7 +66,7 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 |Azure Active Directory Basic|是|是|是|是|是|是|是|是|是|
 |Azure Active Directory 方案 1|否|否|否|是|否|否|否|是|是|
 |Azure Active Directory 方案 2|否|否|否|否|是|否|否|否|是|
-|**合規性**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 學生使用權益**|**Office 365 A5 學員使用權益**|**Microsoft 365 教育版學生使用權益**|**Microsoft 365 教育版的學生使用權益**|
+|**合規性**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 學生使用權益**|**Office 365 A5 學生使用權益**|**Microsoft 365 教育版A3 學生使用權益**|**Microsoft 365 教育版A5 學生使用權益**|
 |Office 365 版權管理|是|是|是|是|是|是|是|是|是|
 |Azure 資訊保護方案1|否|否|否|是|否|否|否|否|否|
 |Azure 資訊保護方案 2|否|否|否|否|是|否|否|否|否|
@@ -76,7 +76,7 @@ Microsoft 365 提供完整的系統，包括 Office 365、Windows 10 及 Enterpr
 |進階 eDiscovery|否|否|是|否|是|否|否|否|否|
 |資料遺失防護 (的電子郵件和檔案的 DLP) |是|是|是|是|是|是|是|是|是|
 |Endpoint DLP|否|否|否|否|是|否|否|否|否|
-|通訊 DLP (小組聊天) |否|否|是|否|是|否|否|否|否|
+|通訊 DLP (Teams 聊天) |否|否|是|否|是|否|否|否|否|
 |通訊合規性|否|否|是|否|是|否|否|否|否|
 |客戶金鑰|否|否|是|否|是|否|否|否|否|
 |基本審核|是|是|是|是|是|是|是|是|是|

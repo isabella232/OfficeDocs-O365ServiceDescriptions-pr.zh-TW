@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - reporting-and-message-trace-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: 請閱讀本文以瞭解 Microsoft Exchange Online Protection (EOP) 中的報告和郵件追蹤。
-ms.openlocfilehash: 8b593faea343d742c2f57ce430457e1803ba75b5a135d46f338eaed0e76d2ca6
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 2a920ba65c98a612d4343b893458b5bb34a4959e
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664076"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672202"
 ---
 # <a name="reporting-and-message-trace-in-exchange-online-protection"></a>Exchange Online Protection 的報告與訊息追蹤
 

@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-365-support
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: 透過企業、商務、教育和政府訂閱的每一種 Microsoft Office 365，Microsoft 支援服務提供全球性的技術、售前、帳單及訂閱支援。 您可以透過 Microsoft 365 系統管理中心線上，以及透過電話撥打付費和試用訂閱的支援。 如需詳細資訊，請參閱 Microsoft 支援選項。
-ms.openlocfilehash: 55c947fde5004c876f2dfcb95ad2e9f47fe71e31da8026d91a2ab541e1aac566
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 3ade3daebeaf3986ef0bcb6b40189a09204858e0
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701652"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670028"
 ---
 # <a name="support"></a>支援
 

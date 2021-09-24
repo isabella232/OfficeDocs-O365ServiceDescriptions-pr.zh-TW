@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-advanced-threat-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ''
 description: 深入瞭解 Microsoft Defender 中可用於 Office 365 的功能。
-ms.openlocfilehash: a4f7fe00162dc15d7f01be831842066ef448546ad36197fb0551d85dbfba73ef
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 591236d6028d57025d2dd7a9cfc5ef80d3617176
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663046"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671453"
 ---
 # <a name="microsoft-defender-for-office-365-features-service-description"></a>適用於 Office 365 的 Microsoft Defender 功能服務描述
 

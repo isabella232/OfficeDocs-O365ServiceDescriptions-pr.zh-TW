@@ -7,15 +7,15 @@ ms.reviewer: mkashman
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 深入瞭解美國政府雲端客戶的 SharePoint 功能可用性。
-ms.openlocfilehash: 77b72801b5c1eb0f80fa94aded406000e339d98c
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: 1c584c3bfd62b7573f4c9bcc0c0fb5402b2d9bef
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371769"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673000"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>適用于美國政府環境的 SharePoint
 
@@ -36,7 +36,7 @@ ms.locfileid: "58371769"
 
 ## <a name="developer-features"></a>開發人員功能
 
-商業客戶的開發人員功能和政府雲端客戶的開發人員功能都沒有已知的差異。
+商務客戶的開發人員功能和政府雲端客戶的開發人員功能都沒有已知的差異。
 
 - 外部應用程式的連線（如增益集的資料來源）會受限於位於政府環境所支援之系統安全性界限內的來源。
 - Business Connectivity在您的雲端服務安全性界限內可存取資料來源的連線情況下，可支援服務 (BCS) 功能。
@@ -45,10 +45,9 @@ ms.locfileid: "58371769"
 
 ## <a name="it-admin-features"></a>IT 系統管理功能
 
-以下是適用于商業客戶及政府雲端客戶之 IT 系統管理員功能的差異。
+以下是適用于商務客戶的 IT 系統管理功能與政府雲端客戶之 IT 系統管理員功能之間的差異。
 
 - GCC 高客戶無法使用變更網站位址
-- 所有政府雲端客戶都無法使用混合式 SharePoint 伺服器
 - SharePoint 遷移工具和遷移管理員需要變更設定。 如需詳細資訊，請參閱 [SPMT 政府 cloud support](/sharepointmigration/spmt-install-issues#government-cloud-support)。
 - 尚未支援 Mover.io
 - 多地理位置無法供所有政府雲端客戶使用
@@ -57,7 +56,7 @@ ms.locfileid: "58371769"
 
 ## <a name="security-and-compliance-features"></a>安全性和符合性功能
 
-商業客戶的安全性和符合性功能和政府雲端客戶的安全性和符合性功能之間並無任何已知的差異。
+商業客戶的安全性和符合性功能和政府雲端客戶的安全性和符合性功能之間沒有任何已知的差異。
 
 如需安全性與合規性功能的相關資訊，請參閱 [安全性 & 規範中心](../office-365-securitycompliance-center.md)。
 
@@ -69,7 +68,7 @@ ms.locfileid: "58371769"
 
 ## <a name="sites-and-content"></a>網站和內容
 
-以下是商業客戶和政府雲端客戶的網站和內容功能之間的差異：
+以下是商務客戶的網站和內容功能與政府雲端客戶之網站和內容功能之間的差異：
 
 - 依靠網際網路服務連線（例如 Amazon Kindle、Bing 地圖服務、Twitter 及 YouTube 網頁元件）的網頁元件，不會如預期般運作
 - 組織資產庫無法使用
@@ -81,7 +80,7 @@ ms.locfileid: "58371769"
 
 ## <a name="search-features"></a>搜尋功能
 
-以下是商務客戶與政府雲端客戶之搜尋功能之間的差異：
+以下是商務客戶之搜尋功能與政府雲端客戶之搜尋功能之間的差異：
 
 - GCC 中無法使用 Microsoft 搜尋。
 
@@ -98,3 +97,41 @@ ms.locfileid: "58371769"
 在 Microsoft US 政府雲端中設定組織之後，請遵循[SharePoint 採用資源中心](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/)中所述的建議部署途徑。 請務必與您的採用和變更管理擁護者接洽。
 您也可以使用[FastTrack](https://www.microsoft.com/fasttrack)或您所選的合作夥伴，向您的使用者推出服務。
 若要深入瞭解 Microsoft 的安全性、隱私權及合規性，請造訪 [Microsoft 信任中心](https://www.microsoft.com/trust-center) ，以瞭解如何讓組織為客戶服務的核心原則。
+
+## <a name="configuring-sharepoint-hybrid-configuration-wizard-support-for-all-government-cloud-customers"></a>為所有政府雲端客戶設定 SharePoint 混合式設定向導支援
+
+SharePoint 混合式設定向導支援搭配特殊 SPO 環境 SharePoint 混合式功能。
+
+您必須在 **.config** 檔案中編輯與環境相關的參數值，才能讓該環境使用 SharePoint 的混合式功能。 請參閱 [編輯設定檔](#editing-configuration-file)。
+
+> [!NOTE]
+> 如需 SharePoint 混合式功能提供支援之特殊 SPO 環境的詳細資訊，請參閱[支援的環境](#supported-environments)。
+
+## <a name="editing-configuration-file"></a>編輯設定檔
+
+1. 安裝或更新 SharePoint 混合式設定向導。
+2. 移至安裝 SharePoint 混合式設定向導的資料夾。 例如，`%LOCALAPPDATA%\Apps\HybridSP\HybridSP`
+3. 在文字編輯器（例如記事本）中啟動 **microsoft.online.cse.hybridsp.common.dll.config** 檔案。
+此檔案中的內容將在下列螢幕擷取畫面中所示：
+
+:::image type="content" source="../../media/content.png" alt-text="設定檔中的內容":::
+
+4. 修改參數的值 `SPOEnvironmentType` 。
+5. 將變更儲存在 **microsoft.online.cse.hybridsp.common.dll.config** 檔中。
+6. 重新開機 SharePoint 混合式設定向導。
+   會套用設定，且已設定的 SPO 環境可使用 SharePoint 混合式功能。
+
+## <a name="supported-environments"></a>支援的環境
+
+SharePoint 混合式功能支援下列 SPO 環境：
+
+- 公開
+- PPE
+- GCC
+- GccHigh
+- DoD
+- 自訂
+
+如果客戶將值設 `SPOEnvironmentType` 為 **custom**，，， `AuthorityEndPoint` ， `AADGraphEndPoint` 和 `MSGraphEndPoint` 鍵會用來設定該自訂 SPO 環境的端點。
+
+如果 `SPOEnvironmentType` 值設為 **Custom** 以外的任何值，則 `AuthorityEndPoint` `AADGraphEndPoint` 會忽略、和鍵， `MSGraphEndPoint` 而且 SharePoint 混合式設定向導會使用適合這些 SPO 環境類型的硬編碼值。

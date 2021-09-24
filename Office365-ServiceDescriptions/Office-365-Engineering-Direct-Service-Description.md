@@ -7,14 +7,14 @@ audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 description: Office 365 工程小組直接支援是適用于 Microsoft Premier support 合約的企業級支援服務加入。 Office 365 工程小組直接支援服務描述包含有關所提供之功能及實施需求的其他資訊。
-ms.openlocfilehash: d4568d6f328de9d41e002a39eba2ff00fb6ab8ff2d4a694f4bff43d2f2537943
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 1ca28b893b54f4acd3a1c7c31d2e745e6f202348
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701592"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671015"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Office 365 工程小組直接支援服務說明
 

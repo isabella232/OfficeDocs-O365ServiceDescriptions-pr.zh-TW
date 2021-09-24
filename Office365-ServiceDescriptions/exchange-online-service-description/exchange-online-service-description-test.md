@@ -5,15 +5,15 @@ author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ROBOTS: NOINDEX, NOFOLLOW
 description: 深入瞭解 Microsoft 365 和 Office 365 方案中的 Microsoft Exchange Online 服務和功能可用性。
-ms.openlocfilehash: 6e7629dd01b05ef06bda492127c3b6d04733e340a042b5f465a4a79097197cc3
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: abd6ab1b49b5f61a5b4994ea55314a551db2f3ba
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664006"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672093"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -42,7 +42,7 @@ Microsoft Exchange Online 是一款代管的訊息解決方案，提供 Microsof
 |[郵件原則及合規性](message-policy-and-compliance.md)|是*|是*|是|是|是|是|
 |[反垃圾郵件和反惡意程式碼防護](anti-spam-and-anti-malware-protection.md)|是*|是*|是|是|是|是|
 |[郵件流程](mail-flow.md)|是*|是|是|是|是|是|
-|[收件者](recipients.md)|是*|是*|是|是|是*|是*|
+|[Recipients](recipients.md)|是*|是*|是|是|是*|是*|
 |[報告功能和疑難排解工具](reporting-features-and-troubleshooting-tools.md)|是*|是*|是|是|是*|是*|
 |[共用和協同合作](sharing-and-collaboration.md)|是|是|是|是|是|是|
 |[用戶端和行動裝置](clients-and-mobile-devices.md)|是*|是|是|是*|是*|是*|

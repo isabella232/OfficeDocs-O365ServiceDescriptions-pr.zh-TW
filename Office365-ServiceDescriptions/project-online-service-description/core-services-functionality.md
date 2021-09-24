@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Project Online 提供下列核心服務功能功能。
-ms.openlocfilehash: 026f33890716fd22f7d7b8c402e97244b0a7b851bef0702bc1eb82273c26d15b
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: c4722336b394a61fe2613dcfb15f3b71b501d46b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702842"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672644"
 ---
 # <a name="core-services-functionality"></a>核心服務功能
 
@@ -31,7 +31,7 @@ Active Directory 提供一個中央位置，讓系統管理員管理使用者認
 
 Project Online 和 Project Server 2013 提供功能，讓系統管理員規劃、安裝以及設定、維護和擴充 Project。請參閱 [IT 專業人員適用的 Project Server 2013 新功能](/project/what-s-new-for-it-pros-in-project-server-2016)。
   
-## <a name="getting-started"></a>快速入門
+## <a name="getting-started"></a>開始使用
 
 Project Online 的快速入門內容可供使用。 請參閱 [Project Online 快速入門](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11)。
   

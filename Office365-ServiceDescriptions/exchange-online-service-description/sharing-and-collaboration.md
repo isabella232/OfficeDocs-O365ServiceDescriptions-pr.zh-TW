@@ -8,15 +8,15 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-sharing-and-collaboration
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 25df0c4b4ff71ce8b3543cf7810bb0a4dd3c45fbe1037e1fd8bad4e586dd6292
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 54795f392440ce6ac6a3ba0429b49388c61ff6af
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663636"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671729"
 ---
 # <a name="sharing-and-collaboration"></a>共用和協同合作
 
