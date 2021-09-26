@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看在哪些方案中可使用哪些 OneDrive 功能。
-ms.openlocfilehash: ebb2edb87a4f75ac8fafcaae5625f9431aaff1d3
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: 4d35862b6cb6d27f866537e535b4001159d3e853
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204830"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669959"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服務描述
 
@@ -37,12 +37,14 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
 
 | 功能 | 獨立方案 | 小型企業 | 企業 | 教育 | 政府機關 | 非營利組織  |
 |---------|-------------------|----------------|------------|-----------|------------|-------------|
-| 儲存空間 | 是 | 是 | 是 | 是 | 是 | 是 |
+| 儲存空間<sup>1</sup> | 是 | 是 | 是 | 是 | 是 | 是 |
 | 同步處理功能 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 共用和共同作業功能 | 是 | 是 | 是 | 是 | 是 | 是 |
 | Web 功能 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 行動功能 | 是 | 是 | 是 | 是 | 是 | 是 |
 | IT 系統管理員、安全性與合規性功能 | 是 | 是 | 是 | 是 | 是 | 是 |
+
+<sup>1</sup>如需每位使用者 OneDrive 儲存空間的詳細資訊, 請參閱[新式工作方案比較](https://go.microsoft.com/fwlink/?linkid=2139145)的 OneDrive。
 
 ## <a name="learn-more"></a>深入了解
 
@@ -50,6 +52,7 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
 
 - [OneDrive](/onedrive/onedrive)
 - [Microsoft OneDrive 部落格](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/bg-p/OneDriveBlog)
+- 針對大部分的訂閱方案, 每位使用者的 OneDrive 預設儲存空間為 1 TB。 視您的方案和授權的使用者數目而定, 您可以將此儲存空間增加至 5 TB。 如需詳細資訊, 請參閱 [比較 OneDrive 雲端儲存空間價格與方案](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2)中的 **核心功能**。
 
 ### <a name="licensing-terms"></a>授權條款
 
@@ -57,7 +60,7 @@ OneDrive 包含在 Microsoft 365 與 Office 365 方案中，在 SharePoint 方�
 
 ### <a name="messaging"></a>訊息
 
-若要追蹤即將發生的變更，包括新功能和變更的功能、計劃中的維護或其他重要的公告，請造訪訊息中心。 如需詳細資訊，請參閱[訊息中心](/microsoft-365/admin/manage/message-center)。
+若要追蹤即將發生的變更, 包括新功能和變更的功能、計劃中的維護或其他重要的公告, 請造訪訊息中心。若需其他資訊, 請參閱 [訊息中心](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>協助工具
 
