@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本文概要說明美國政府雲端與商業性雲端之間的功能差異，如 Exchange Online 服務說明所示。
-ms.openlocfilehash: 674d2e50b11624f206797cfef97883e9fda87df5
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 2845e26e40552f364d2f8f6a0ec2746d35e13330
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671072"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986129"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>適用于美國政府環境的 Exchange Online
 
@@ -121,7 +121,7 @@ ms.locfileid: "59671072"
 |Microsoft 365 的基本行動性和安全性|是|否|否||
 |POP 與 IMAP|是|是|是||
 |SMTP|是|是|是||
-|EWS 應用程式支援|是|是|是||
+|EWS 應用程式支援<sup>2</sup>|是|是|是||
 |**[語音訊息服務](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC High**|**DoD**|**主要考慮**|
 |語音信箱|否|否|否|不支援整合內部部署 IP-PBX 具有 Exchange Online 整合通訊的系統。|
 |語音信箱與第三方傳真之間的整合|否|否|否|不支援整合內部部署 IP-PBX 具有 Exchange Online 整合通訊的系統。|
@@ -147,7 +147,8 @@ ms.locfileid: "59671072"
 |**[擴展服務 - 自訂、增益集和資源](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC High**|**DoD**|**主要考慮**|
 |Outlook 增益集和 Outlook MAPI|是|是|是|只有部分 OWA 和 Outlook 增益集可用 GCC 高及 DoD。 請參閱本文中[Outlook 和 Outlook Web App 中的增益集](#add-insin-outlook-and-outlook-web-app)。|
 
-<sup>1</sup> Outlook 在案例中 Outlook Windows 因跨界限限制而無法顯示受 IRM 保護的郵件時， (GCC 高/非 GCC 高案例) 。
+<sup>1</sup> Outlook 在案例中 Outlook Windows 因跨界限限制而無法顯示受 IRM 保護的郵件時， (GCC 高/非 GCC 高案例) 。</br>
+<sup>2</sup> 僅允許客戶證明其擁有的特定位址空間，這樣便可排除行動裝置使用的協力廠商服務和廣泛的 IP 範圍。
 
 ## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>GCC 高和 DoD 環境中的功能細微差別
 

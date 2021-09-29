@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的指導方針，以協助避免因未授權存取的潛在服務中斷。
-ms.openlocfilehash: 8ba78ae1343a5038901d1bd66b2b7bcfffceb70e
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 59e7714ec09b56a0e9bfb22d87d9419d991f8ee6
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670392"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986159"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>安全性規範的 Microsoft 365 指導方針 &amp;
 
@@ -159,11 +159,11 @@ Office 365 E5/A5/G5，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5/F5 相容�
 |<ul><li>Microsoft 365 或 Office 365 A1/E1/F1/G1</li><li>Microsoft 365 或 Office 365 A3/E3/F3/G3</li></ul>|<ul><li>資料保護基準</li></ul>|
 |<ul><li>Microsoft 365 或 Office 365 A5/E5/G5</li><li>Microsoft 365 A5/E5/F5/G5 合規性</li><li>Microsoft 365 A5/E5/F5/G5 eDiscovery 和核查</li><li>Microsoft 365 A5/E5/F5/G5 有問必答風險管理</li><li>Microsoft 365 A5/E5/F5/G5 資訊保護和管理</li></ul>|<ul><li>資料保護基準</li><li>歐盟 GDPR</li><li>NIST 800-53</li><li>ISO 27001</li><li>CMMC 等級 1-5 (僅可用於 G5) </li><li>自訂評估</li></ul>|
 
-## <a name="what-are-custom-assessments"></a>何謂自訂評估？
+### <a name="what-are-custom-assessments"></a>何謂自訂評估？
 
 自訂評估是一種合規性管理員功能，可讓您建立新的範本或自訂現有的評估範本，包括新增或更新控制項和改進動作。
 
-## <a name="who-can-access-custom-assessments"></a>神秘可以存取自訂評估？
+### <a name="who-can-access-custom-assessments"></a>神秘可以存取自訂評估？
 
 自訂評估功能可供具有 E5 訂閱的客戶使用，如下所示：
 

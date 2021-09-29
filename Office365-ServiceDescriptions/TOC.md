@@ -75,6 +75,7 @@
 ## [SharePoint Syntex 服務描述](sharepoint-syntex-service-description/sharepoint-syntex-service-description.md)
 ### [SharePoint Syntext 功能](sharepoint-syntex-service-description/sharepoint-syntex-features.md)
 ## [通用列印服務描述](universal-print-service-description/universal-print-service-description.md)
+## [Windows 365 服務描述](windows-365-service-description/windows-365-service-description.md)
 ## [商務用 Skype Online 服務說明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [商務用 Skype Online 功能](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [商務用 Skype Online 限制](skype-for-business-online-service-description/skype-for-business-online-limits.md)
@@ -98,6 +99,7 @@
 ### [資源管理](project-online-service-description/resource-management.md)
 ## [網頁版 Visio 服務描述](visio-online-service-description/visio-online-service-description.md)
 ### [Visio 功能詳細資料](visio-online-service-description/visio-features.md)
+## [Microsoft Viva 服務描述](microsoft-viva-service-description.md)
 ## [Yammer 服務說明](yammer-service-description/yammer-service-description.md)
 ### [Yammer 中的限制](yammer-service-description/yammer-limits.md)
 ## Microsoft 365 服務描述

@@ -12,18 +12,18 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 查看不同的 Yammer 方案中提供的功能。
-ms.openlocfilehash: 16393c4ef8accf9a6786a241d19b438d416389dc
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: be90cc37e288d3aa4d0de8400546d153b97845f9
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59673087"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986139"
 ---
 # <a name="yammer-service-description"></a>Yammer 服務說明
 
 與您的人員合作，要比以往更重要。 Yammer 會連接領導者、communicators 及員工，以建立社區、分享知識及接洽所有人。 Yammer 可協助您連線和接洽整個組織，所以您可以與其他人討論想法、共用更新及網路。
   
-## <a name="available-plans"></a>可用規劃
+## <a name="available-plans"></a>可用方案
   
 如需有關允許使用者 Yammer 之訂閱的計畫資訊的完整方案清單，請參閱[完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
@@ -49,6 +49,20 @@ ms.locfileid: "59673087"
 ## <a name="messaging"></a>訊息
 
 若要瞭解即將進行的變更，包括新增及變更的功能、規劃的維護或其他重要宣告，請造訪郵件中心。 如需詳細資訊，請參閱[訊息中心](/microsoft-365/admin/manage/message-center)。
+
+## <a name="communication-channels"></a>通道
+
+用來進行通訊的通道取決於影響。
+
+
+| 變更類型 | Office 365[訊息中心](/microsoft-365/admin/manage/message-center) | Microsoft 365 藍圖 | Yammer技術 Community 博客，例如每月 Roundups | 外部社區（Twitter） |
+|---------|---------|---------|---------|---------|
+|**需要動作的變更 (計畫變更)** 變更需要系統管理員動作才能讓服務繼續運作，更新可能會影響組織的合規性 | 是 | 是 | 是 | 是 |
+| **需要知曉 (所做的變更** 可讓您及時瞭解) 變更，不需要系統管理動作，視覺設計變更 | 是 | 是 | 是 | 是 |
+
+> [!NOTE]
+> 透過影響目標使用者組的變更，我們可以直接通知這些使用者。</br>
+> 不重要且不需要採取動作或認知的變更，也不會受到廣泛 (，即使這些變更可能會由某些使用者) 加以觀察。
 
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer 企業服務通訊原則
 

@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商務進階版是整合的解決方案，利用高級安全性和裝置管理功能，將一流的生產力整合在一起，以協助保護您的企業。 此服務描述說明方案選項及功能。
-ms.openlocfilehash: 8815a1ab8ec1dc7901e04e7b7a972d6ec8b78151
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 0699b9a6841f1972e141bb52642c10e25dd141a2
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671658"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986149"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 商務進階版服務描述
 
@@ -44,7 +44,7 @@ Microsoft 365 商務進階版基本上包含 Microsoft 365 商務標準版中所
 |Microsoft Stream  <br/> |是<sup>6</sup>  <br/> |是<sup>6</sup>  <br/> |
 |[Microsoft 365 管理](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Microsoft 365 商務標準版** <br/> |**Microsoft 365 商務進階版** <br/> |
 |Azure AD 連線同步處理工具<br/> |是  <br/> |是  <br/> |
-|[共用電腦啟用](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation) <br/> |否 <br/> |是  <br/> |
+|[共用電腦啟用](/DeployOffice/overview-shared-computer-activation) <br/> |否 <br/> |是  <br/> |
 |[郵件原則及合規性](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Microsoft 365 商務標準版** <br/> |**Microsoft 365 商務進階版** <br/> |
 |Exchange Online 基礎信箱的長期封存  <br/> |否  <br/> |是<sup>3</sup> <br/> |
 |Azure 資訊保護方案1 |否 <br/>|是<sup>2</sup> </br>|
@@ -104,7 +104,7 @@ Microsoft 365 商務進階版基本上包含 Microsoft 365 商務標準版中所
 ### <a name="notes"></a>注意事項
 <sup>1</sup>包括 Exchange Online 方案1。<br/>
 <sup>2</sup> Azure 資訊保護 (AIP) 會啟用支援的資訊版權管理 (IRM) 功能。 AIP 方案1包含在 Microsoft 365 商務進階版中。 <br/>
-<sup>3</sup> Microsoft 365 商務進階版包括 Exchange Online 封存訂閱。 每位 Exchange Online Archiving 訂閱者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [無限制封存的概觀](/office365/securitycompliance/unlimited-archiving)。 <br/>
+<sup>3</sup> Microsoft 365 商務進階版包含 Exchange 方案1和 Exchange Online 封存僅包含 Exchange 計畫 2 (E3/E5) 。 雲端式封存和就地保留可作為附加元件購買。 每位 Exchange Online Archiving 訂閱者初始會獲得 100 GB 的封存信箱儲存空間。 開啟自動展開封存時，當儲存容量達到 100 GB 時，會自動加入額外的儲存空間。 如需詳細資訊，請參閱 [無限制封存的概觀](/office365/securitycompliance/unlimited-archiving)。 <br/>
 <sup>4</sup> 可用於 [https://securescore.office.com](https://securescore.office.com) 。 需要系統管理員許可權。 如需詳細資訊，請參閱 [Microsoft 安全分數](/office365/securitycompliance/microsoft-secure-score)。<br/>
 <sup>5</sup>簡化 Microsoft 365 系統管理中心內建的 Windows 10 裝置管理。 在裝置管理中心內建的 iOS、Android、macOS 及其他跨平臺裝置管理功能，也有授權可搭配 Microsoft 365 商務進階版使用的 Intune 管理功能。 協力廠商應用程式和設定 WiFi 設定檔和 VPN 憑證等內容也可在裝置管理系統管理中心中進行管理。 <br/>
 <sup>6</sup> 此方案隨附 Microsoft Stream plan 2，其中包括影片入口網站、文字偵測語音、深入搜尋及面對面偵測。<br/>
