@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您在尋找包含 Exchange Online 之訂閱的功能比較嗎？ 如果是這樣，Exchange Online 服務說明文章正是您需要的資訊。 您也將了解系統需求，以及儲存和收件者需求。
-ms.openlocfilehash: c4daf506b60198d9bf3abeaec010dc5dc3b03888
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: c0682932646cfd43781e460ceba02fdfb72c0102
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672066"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015697"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服務說明
 
@@ -328,7 +328,7 @@ Microsoft 365 F1 不包含 Exchange 信箱的許可權。 為了啟用完整的 
 <sup>14</sup>執行 Exchange Server 2013 或更新版本的客戶必須下載並安裝最新的累計更新 (CU) 或最近一次的 cu，才能存取 OWA 和 owa for Devices 中的檔指紋及原則提示。 <br/>
 <sup>15</sup>適用于執行 Exchange Server 2013 或更新版本的客戶。 <br/>
 <sup>16</sup> Exchange Server 2013 支援 BitLocker 磁片磁碟機加密，但系統管理員必須啟用該功能。 <br/>
-<sup>17</sup> Exchange Online 方案 1[的信箱和封存的大小限制](./exchange-online-limits.md)。 適用於 Exchange Online 的 Exchange Online 封存附加元件會加入無限的雲端式封存，並[In-Place 保留](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold)。 <br/>
+<sup>17</sup> Exchange Online 方案 1[的信箱和封存的大小限制](./exchange-online-limits.md)。 適用於 Exchange Online 的 Exchange Online 封存附加元件會新增高達 1.5 TB 的雲端式封存及[In-Place 保留](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold)。 <br/>
 <sup>18</sup>只有透過 OWA 才能存取或共用行事曆 Exchange Online Kiosk。 <br/>
 <sup>19</sup>已連線的帳戶支援 POP &amp; IMAP 帳戶，但對 Outlook .com (Hotmail) 停用。 <br/>
 <sup>20</sup>在 Exchange Online PowerShell 中使用 Cmdlet，以自訂預設通訊清單，但不支援預設全域通訊清單 (GAL) 。 <br/>

@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商務進階版是適用于中小型企業客戶的 Microsoft 一流服務。 Microsoft 365 商務進階版是整合的解決方案，可共同 Microsoft 365 生產力、高級安全性和裝置管理。
-ms.openlocfilehash: 66832d3ae1a74f5551bbb689eb7ac07d197b1e2b
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: e4062493a2508b17704c48770d5e991915674426
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670460"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015648"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>中小型企業的 Microsoft 365 授權
 
@@ -44,13 +44,13 @@ Microsoft 365 商務進階版是適用于中小型企業 (SMB) 客戶的 Microso
 |   | Windows 虛擬桌面 | 否 | 是 |
 |**資訊保護** | Microsoft 資料遺失防護 | 否 | 是 |
 |   | Azure 資訊保護方案1，BitLocker 強制執行 | 否 | 是 |
-|**合規性** | 無限制的電子郵件封存<sup>2</sup> | 否 | 是 |
+|**合規性** | 自動展開封存<sup>2</sup> | 否 | 是 |
 
 **Notes**
 
 <sup>1</sup> 可在美國，英國，加拿大使用。
 
-<sup>2</sup> 無限期封存開啟自動擴充。
+<sup>2</sup> 當自動展開封存開啟時，使用者的封存儲存容量最高達 1.5 TB。
 
 ## <a name="feature-comparison-microsoft-365-business-premium-and-office-365-e3"></a>功能比較： Microsoft 365 商務進階版和 Office 365 E3
 
@@ -74,7 +74,7 @@ Microsoft 365 商務進階版是適用于中小型企業 (SMB) 客戶的 Microso
 |**資訊保護** | Microsoft 資料遺失防護 | 是 | 是 |
 |   | Azure 資訊保護方案1，BitLocker 強制執行 | 否 | 是 |
 |**內部部署 CAL 許可權** | ECAL Suite (Exchange，SharePoint，Skype)  | 是 | 否 |
-|**合規性** | 無限制的電子郵件封存<sup>3</sup> | 是 | 是 |
+|**合規性** | 自動擴充封存<sup>3</sup> | 是 | 是 |
 
 **Notes**
 
@@ -82,7 +82,7 @@ Microsoft 365 商務進階版是適用于中小型企業 (SMB) 客戶的 Microso
 
 <sup>2</sup> 可在美國，英國，加拿大使用。
 
-<sup>3</sup> 自動擴充開啟時可無限封存。
+<sup>3</sup> 當自動展開封存開啟時，使用者的封存儲存容量最高達 1.5 TB。
 
 ## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>功能比較： Microsoft 365 商務標準版、Microsoft 365 商務進階版及 Office 365 E3
 
@@ -106,7 +106,7 @@ Microsoft 365 商務進階版是適用于中小型企業 (SMB) 客戶的 Microso
 |**資訊保護**  | Microsoft 資料遺失防護 | 否 | 是 | 是 |
 |   | Azure 資訊保護方案1，BitLocker 強制執行 | 否 | 是 | 否 |
 |**內部部署 CAL 許可權** | ECAL Suite (Exchange，SharePoint，Skype)  | 否 | 否 | 是 |
-|**合規性** | 無限制的電子郵件封存<sup>3</sup> | 否 | 是 | 是 |
+|**合規性** | 自動擴充封存<sup>3</sup> | 否 | 是 | 是 |
 
 **Notes**
 
@@ -114,7 +114,7 @@ Microsoft 365 商務進階版是適用于中小型企業 (SMB) 客戶的 Microso
 
 <sup>2</sup> 可在美國，英國，加拿大使用。
 
-<sup>3</sup> 自動擴充開啟時可無限封存。
+<sup>3</sup> 當自動展開封存開啟時，使用者的封存儲存容量最高達 1.5 TB。
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>功能比較：商務方案的 Microsoft 365 商務標準版和 Microsoft 365
 
@@ -141,7 +141,7 @@ Microsoft 365 商務進階版是適用于中小型企業 (SMB) 客戶的 Microso
 | **資訊保護** | Microsoft 資料遺失防護，Azure 資訊保護方案1 | 否 | 是 | 是 | 是 |
 |   | Azure 資訊保護方案2、Microsoft Cloud App Security Office 365 雲端 App 安全性 | 否 | 否 | 否 | 是 |
 |**內部部署 CAL 許可權** | ECAL Suite (Exchange，SharePoint，Skype，Windows，Microsoft Endpoint Configuration Manager，Windows Rights Management)  | 否 | 否 | 是 | 是 |
-|**合規性** | 無限制的電子郵件封存<sup>2</sup> | 否 | 是 | 是 | 是 |
+|**合規性** | 自動展開封存<sup>2</sup> | 否 | 是 | 是 | 是 |
 |   | 進階電子文件探索、客戶加密箱、進階資料控管 | 否 | 否 | 否 | 是 |
 |**Analytics** | Power BI Pro、MyAnalytics | 否 | 否 | 否 | 是 |
 | | Insights MyAnalytics | 是 | 是 | 是 | 是 |
@@ -152,7 +152,7 @@ Microsoft 365 商務進階版是適用于中小型企業 (SMB) 客戶的 Microso
 
 <sup>1</sup> 可在美國，英國，加拿大使用。
 
-<sup>2</sup> 無限期封存開啟自動擴充。
+<sup>2</sup> 當自動展開封存開啟時，使用者的封存儲存容量最高達 1.5 TB。
 
 ## <a name="office-client-commercial-plans"></a>Office 用戶端商業方案
 

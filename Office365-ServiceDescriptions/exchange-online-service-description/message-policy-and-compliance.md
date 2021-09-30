@@ -1,5 +1,5 @@
 ---
-title: 郵件原則及符合性
+title: 郵件原則及合規性
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -12,14 +12,14 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: 深入瞭解 Exchange Online 中的郵件原則及符合性。
-ms.openlocfilehash: c53f4deb052bfe149ed3adf7821ace90ded01126
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 77885b5db378734b1108c240663c0533cdffed7e
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671869"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015667"
 ---
-# <a name="message-policy-and-compliance"></a>郵件原則及符合性
+# <a name="message-policy-and-compliance"></a>郵件原則及合規性
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>封存 Exchange Online 式信箱
 
@@ -44,7 +44,7 @@ Exchange Online 提供內建的封存功能來封存雲端式信箱，包括提�
 每個個人封存只能儲存一位使用者的郵件資料。 儲存空間的配置取決於訂閱計劃。 如需有關封存信箱大小的詳細資訊，請參閱[Exchange Online 限制](exchange-online-limits.md)中的「信箱儲存限制」一節。
   
 > [!IMPORTANT]
-> - 不允許使用日誌記錄、傳輸規則或自動轉寄規則將郵件複製到 Exchange Online 信箱以進行封存。 Microsoft 保留在信箱封存未使用於個人案例中或其他不適當用途的情況下，拒絕無限封存的權利。
+> - 不允許使用日誌記錄、傳輸規則或自動轉寄規則將郵件複製到 Exchange Online 信箱以進行封存。 Microsoft 保留在信箱封存未用於個人案例或其他不適當用途的情況下，拒絕其他封存儲存的權利。
 > - 就地封存針對 Outlook 使用者有特定的授權需求。Outlook 2007 使用者必須要有 2011 年 2 月累計更新的 Office 2007，才能存取個人封存。 
 > - Exchange Online 不支援 Exchange Server 2010 Service Pack 1 或更新版本的 _New-MailboxImportRequest_ Windows PowerShell 指令程式，以供系統管理員驅動的將 .pst 檔案匯入個人封存。 如果使用者在 Exchange Online 中同時有主要信箱和封存，則系統管理員可以使用 PST Capture 這項免費的工具，將 .pst 檔案資料匯入使用者的主要信箱或封存。
 

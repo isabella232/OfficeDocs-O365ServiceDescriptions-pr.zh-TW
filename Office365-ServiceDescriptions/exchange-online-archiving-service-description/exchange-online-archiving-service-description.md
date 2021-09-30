@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: 請閱讀本文以瞭解 Microsoft Exchange Online 封存。
-ms.openlocfilehash: 5030c265b309641a0d69e79c1aa8942c45360550
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: db1627fdb0955c00a504468841bff88f62e8a67c
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670689"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015677"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online 封存服務說明
 
@@ -29,12 +29,12 @@ Microsoft Exchange Online封存是部署 Microsoft Exchange Server 2019、Micros
   
 若要購買 Exchange Online 封存，請參閱[Exchange Online 封存 for server](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)。
   
-## <a name="available-plans"></a>可用規劃
+## <a name="available-plans"></a>可用方案
 
 如需可讓使用者 Exchange Online 封存之訂閱的詳細計畫資訊，請參閱[完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
 > [!TIP]
-> 您可以匯出、儲存及列印服務描述中的頁面。 瞭解如何 [匯出內容搜尋結果](/office365/securitycompliance/export-search-results)。 
+> 您可以匯出、儲存及列印服務描述中的頁面。 瞭解如何 [匯出內容搜尋結果](/microsoft-365/compliance/export-search-results)。
   
 ## <a name="exchange-online-archiving-plans"></a>Exchange Online 封存計劃
 
@@ -42,13 +42,13 @@ Microsoft Exchange Online封存是部署 Microsoft Exchange Server 2019、Micros
   
 | 規劃 | 描述 |
 |:-----|:-----|
-|**Exchange Server 適用的 Exchange Online 封存** <br/> |雲端式封存，適用于在 Exchange Server 2019 中使用主要信箱的使用者，Exchange Server 2016，Exchange Server 2013，或 Exchange 2010 (SP2 或更新版本) 。 <br/> 如果您想要將雲端型封存新增至位於內部部署 Exchange 伺服器的主要信箱，您需要設定混合部署。 如需有關混合部署的詳細資訊，請參閱[Exchange Server 混合式部署](/exchange/exchange-hybrid)。 <br/> |
-|**Exchange Server 適用的 Exchange Online 封存 (透過企業 CAL 套件)** <br/> |雲端式封存，適用于在 Exchange Server 2019 中使用主要信箱的使用者，Exchange Server 2016，Exchange Server 2013，或 Exchange 2010 (SP2 或更新版本) 。 如需詳細資訊，請參閱 [Client Access 授權和管理授權](https://www.microsoft.com/licensing/product-licensing/client-access-license)。 <br/> |
-|**Exchange Online 適用的 Exchange Online 封存** <br/> | 雲端式封存和就地保留做為下列方案<sup>1、2、3</sup>的附加元件：<br/> Exchange Online Plan 1 <br/> Exchange Online Kiosk <br/> Microsoft 365 商務基本版 <br/> Microsoft 365 商務標準版 <br/> Microsoft 365 商務進階版 <br/> Office 365 E1 <br/> Office 365 A1 <br/> Office 365G1 <br/> Office 365鍵 <br/> Microsoft 365 F3<br/> <b>附注：</b>下列計畫已包含封存，而且不需要 Exchange Online 封存做為附加元件：<br/>Office 365 A3 <br/> Office 365 A5 <br/> Office 365 E3 <br/> Office 365 E5 <br/> Exchange Online Plan 2 <br/>Microsoft 365 E3 <br/> Microsoft 365 E5 <br/> Microsoft 365F5 規範 <br/> 如需 Exchange Online 信箱之封存功能的詳細資料，請參閱[Exchange Online 封存中](./archive-features.md)的封存功能。|
+|**Exchange Server 適用的 Exchange Online 封存** |雲端式封存，適用于在 Exchange Server 2019 中使用主要信箱的使用者，Exchange Server 2016，Exchange Server 2013，或 Exchange 2010 (SP2 或更新版本) 。 <br/> 如果您想要將雲端型封存新增至位於內部部署 Exchange 伺服器的主要信箱，您需要設定混合部署。 如需有關混合部署的詳細資訊，請參閱[Exchange Server 混合式部署](/exchange/exchange-hybrid)。 |
+|**Exchange Server 適用的 Exchange Online 封存 (透過企業 CAL 套件)** |雲端式封存，適用于在 Exchange Server 2019 中使用主要信箱的使用者，Exchange Server 2016，Exchange Server 2013，或 Exchange 2010 (SP2 或更新版本) 。 如需詳細資訊，請參閱 [Client Access 授權和管理授權](https://www.microsoft.com/licensing/product-licensing/client-access-license)。 |
+|**Exchange Online 適用的 Exchange Online 封存** | 雲端式封存和就地保留做為下列方案<sup>1、2、3</sup>的附加元件：<br/> Exchange Online Plan 1 <br/> Exchange Online Kiosk <br/> Microsoft 365 商務基本版 <br/> Microsoft 365 商務標準版 <br/> Microsoft 365 商務進階版 <br/> Office 365 E1 <br/> Office 365 A1 <br/> Office 365G1 <br/> Office 365鍵 <br/> Microsoft 365 F3<br/> <b>附注：</b>下列計畫已包含封存，而且不需要 Exchange Online 封存做為附加元件：<br/>Office 365 A3 <br/> Office 365 A5 <br/> Office 365 E3 <br/> Office 365 E5 <br/> Exchange Online Plan 2 <br/>Microsoft 365 E3 <br/> Microsoft 365 E5 <br/> Microsoft 365F5 規範 <br/> 如需 Exchange Online 信箱之封存功能的詳細資料，請參閱[Exchange Online 封存中](./archive-features.md)的封存功能。|
 
 <sup>1</sup> 組織只採用雲端 (即組織中沒有信箱位於內部部署 Exchange 伺服器) 時不一定要採用混合部署。 不過，如果內部部署信箱已存在，則需要混合部署。
 <br/>
-<sup>2</sup> Exchange Online 方案1、Office 365 E1/A1/G1 及 Microsoft 365 商務基本版/Standard/進階版的信箱和封存的大小限制。 如需詳細資訊，請參閱 [Exchange Online 限制](../exchange-online-service-description/exchange-online-limits.md)。 Exchange Online 適用的Exchange Online Archiving附加元件增加了無限量雲端型封存和 [就地保留與訴訟暫止](compliance-and-security-features.md#in-place-hold-and-litigation-hold)。
+<sup>2</sup> Exchange Online 方案1、Office 365 E1/A1/G1 及 Microsoft 365 商務基本版/Standard/進階版的信箱和封存的大小限制。 如需詳細資訊，請參閱 [Exchange Online 限制](../exchange-online-service-description/exchange-online-limits.md)。 適用於 Exchange Online 的 Exchange Online 封存附加元件會新增自動展開的封存，以及[In-Place 保留和訴訟暫](compliance-and-security-features.md#in-place-hold-and-litigation-hold)止。
 <br/>
 <sup>3</sup>包括我們政府的 GCC、GCC 高及 DoD 方案。
 
@@ -66,41 +66,42 @@ Microsoft Exchange Online封存是部署 Microsoft Exchange Server 2019、Micros
 
 每位存取 Exchange Online Archiving 服務的使用者皆必須具有 Exchange Online Archiving 訂閱。每項電子郵件封存訂閱皆僅能用來儲存一位使用者的郵件資料。
   
-## <a name="unlimited-archive-storage-quota"></a>無限制封存儲存配額
+## <a name="auto-expanding-archiving"></a>自動展開封存
 
- 無限制封存功能 (稱為 *自動展開封存*) 提供封存信箱中額外的儲存空間。 每位 Exchange Online 封存訂閱者初始會獲得 100 GB 的封存信箱儲存空間。 當自動展開的封存開啟時，當達到 100 GB 的儲存容量時，會自動新增額外的儲存空間。 在 Exchange 混合式部署中，僅支援雲端式封存信箱的自動展開封存，當內部部署使用者的信箱位於 Exchange Server 2019、Exchange Server 2016 或 Exchange Server 2013 (SP1 或更新版本。 如需詳細資訊，請參閱 [無限制封存的概觀](/office365/securitycompliance/unlimited-archiving)。
+ 稱為 *自動展開* 封存的封存功能可在封存信箱中提供額外的儲存空間。 每位 Exchange Online 封存訂閱者初始會獲得 100 GB 的封存信箱儲存空間。 當自動展開的封存開啟時，當達到 100 GB 的儲存容量時，會自動新增額外的儲存空間。 這會持續增加儲存空間，直到封存儲存達到 1.5 TB 為止。 在 Exchange 混合式部署中，僅支援雲端式封存信箱的自動展開封存，當內部部署使用者的信箱位於 Exchange Server 2019、Exchange Server 2016 或 Exchange Server 2013 (SP1 或更新版本。 如需詳細資訊，請參閱 [自動擴充](/microsoft-365/compliance/autoexpanding-archiving)封存。
   
 > [!IMPORTANT]
-> 系統管理員無法調整儲存空間配額。<br/>
+> 系統管理員無法調整儲存空間配額。
+>
 > 位於 Exchange Server 2010 上的信箱不支援自動展開封存。
   
 > [!IMPORTANT]
-> [！注意] 只有針對個別使用者或共用信箱所用的信箱，才支援自動展開封存，其增長率為 *&nbsp; 每日未超過 1 GB*。 禁止透過日誌記錄、傳輸規則或自動轉寄規則，將郵件複製到 Exchange Online Archiving信箱中進行封存。 使用者的封存信箱僅供該使用者使用。 Microsoft 保留在使用者封存信箱中用來儲存其他使用者之封存資料的執行個體中或是其他不當使用案例中拒絕不受限封存的權限。
+> [！注意] 只有針對個別使用者或共用信箱所用的信箱，才支援自動展開封存，其增長率為 *&nbsp; 每日未超過 1 GB*。 禁止透過日誌記錄、傳輸規則或自動轉寄規則，將郵件複製到 Exchange Online Archiving信箱中進行封存。 使用者的封存信箱僅供該使用者使用。 Microsoft 保留在使用者的封存信箱用來儲存其他使用者的封存資料或其他不適當用途的情況下，拒絕其他封存儲存的權利。
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>各 Exchange Online 封存計劃中可用的功能
 
 | 功能 | Exchange Server 適用的 Exchange Online Archiving<sup>1</sup> | Exchange Online 適用的 Exchange Online Archiving<sup>2</sup> |
 |:-----|:-----|:-----|
-|**[Exchange Online 封存中的封存功能](archive-features.md)** <br/> |||
-|封存信箱  <br/> |是  <br/> |是  <br/> |
-|使用封存原則移動郵件  <br/> |是  <br/> |是  <br/> |
-|將資料匯入封存  <br/> |是  <br/> |是  <br/> |
-|復原已刪除的項目  <br/> |是  <br/> |是  <br/> |
-|復原已刪除的信箱  <br/> |是  <br/> |是  <br/> |
-|信箱備份  <br/> |是  <br/> |是  <br/> |
-|**[Exchange Online 封存中的用戶端功能](client-features.md)** <br/> |||
-|Outlook<sup>3</sup> <br/> |是  <br/> |是  <br/> |
-|Outlook 網頁版  <br/> |是  <br/> |是  <br/> |
-|**[Exchange Online 封存中的規範與安全性功能](compliance-and-security-features.md)** <br/> |||
-|保留原則  <br/> |是  <br/> |是  <br/> |
-|就地保留與訴訟資料暫留<sup>6</sup> <br/> |是  <br/> |是  <br/> |
-|就地 eDiscovery  <br/> |是  <br/> |是  <br/> |
-|內部部署伺服器與 Exchange Online 封存之間的加密  <br/> |是  <br/> |是  <br/> |
-|用戶端與 Exchange Online 封存之間的加密  <br/> |是  <br/> |是  <br/> |
-|加密：S/MIME 和 PGP  <br/> |是  <br/> |是  <br/> |
-|使用 Azure 資訊保護 的 IRM  <br/> |否  <br/> |否<sup>4</sup> <br/> |
-|使用 Windows Server AD RMS 的 IRM  <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |
-|稽核  <br/> |是  <br/> |是  <br/> |
+|**[Exchange Online 封存中的封存功能](archive-features.md)** |||
+|封存信箱  |是  |是  |
+|使用封存原則移動郵件  |是  |是  |
+|將資料匯入封存  |是  |是  |
+|復原已刪除的項目  |是  |是  |
+|復原已刪除的信箱  |是  |是  |
+|信箱備份  |是  |是  |
+|**[Exchange Online 封存中的用戶端功能](client-features.md)** |||
+|Outlook<sup>3</sup> |是  |是  |
+|Outlook 網頁版  |是  |是  |
+|**[Exchange Online 封存中的規範與安全性功能](compliance-and-security-features.md)** |||
+|保留原則  |是  |是  |
+|就地保留與訴訟資料暫留<sup>6</sup> |是  |是  |
+|就地 eDiscovery  |是  |是  |
+|內部部署伺服器與 Exchange Online 封存之間的加密  |是  |是  |
+|用戶端與 Exchange Online 封存之間的加密  |是  |是  |
+|加密：S/MIME 和 PGP  |是  |是  |
+|使用 Azure 資訊保護 的 IRM  |否  |否<sup>4</sup> |
+|使用 Windows Server AD RMS 的 IRM  |是<sup>5</sup> |是<sup>5</sup> |
+|稽核  |是  |是  |
    
 
 <sup>1</sup> 使用者信箱必須位於 Exchange 2010 SP2 或更新版本上。
