@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 是一種雲端式電子郵件篩選服務，可協助您的組織抵禦未知惡意程式碼和病毒，方法是提供強健的零日保護，並提供功能，以即時保護您的組織不受有害連結。
-ms.openlocfilehash: 41f726ad322050821871f286aac9c4862e33f7a7
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 1d06d2780efa1e0303ae3b6f155ec5ad0ecf56dd
+ms.sourcegitcommit: 2ef11e882b734751bceffbbcad920b765c47fc92
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670338"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60040949"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>適用於 Office 365 的 Microsoft Defender 服務描述
 
@@ -31,7 +31,7 @@ Microsoft Defender for Office 365 是一種雲端式電子郵件篩選服務，�
 
 - 在混合式部署中，當您混合使用內部部署和雲端信箱與輸入電子郵件篩選的 Exchange Online Protection 時，可將 Office 365 的 Defender 設定為保護您的郵件環境和控制郵件路由。
 
-## <a name="available-plans"></a>可用規劃
+## <a name="available-plans"></a>可用方案
 
 如需可讓使用者使用 Microsoft Defender Office 365 的訂閱詳細的計畫資訊，請參閱[完整訂閱比較表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
@@ -76,6 +76,23 @@ Microsoft Defender for Office 365 是一種雲端式電子郵件篩選服務，�
 ### <a name="licensing-terms"></a>授權條款
 
 如需透過 Microsoft 商用大量授權方案購買的產品和服務的授權條款及條件，請參閱[產品條款網站](https://www.microsoft.com/licensing/terms/)。
+
+針對 Office 365 Plan 1 承租人的 Microsoft Defender，您必須針對在下列一或多個案例中的使用者或信箱取得授權：
+
+- 存取可從 Defender 取得 Office 365 防護功能之信箱的任何使用者。
+- 從 Office 365 保護的 Defender 受益的共用信箱。
+- 如果開啟 SharePoint、商務用 OneDrive 或 Teams 的保管庫附件保護，所有使用者都可以存取 SharePoint、商務用 OneDrive 或 Teams。
+- 啟用保管庫連結保護時，任何使用 Microsoft 365 Apps 或 Teams 的使用者。
+
+針對 Office 365 Plan 2 承租人的 Microsoft Defender，您必須針對在下列一或多個案例中的使用者或信箱取得授權：
+
+- 承租人上的所有 Exchange Online 使用者。 這是因為計畫2的功能和功能可保護租使用者中的所有使用者。
+- 租使用者上的所有共用信箱。
+- 如果開啟 SharePoint、商務用 OneDrive 或 Teams 的保管庫附件保護，所有使用者都可以存取 SharePoint、商務用 OneDrive 或 Teams。
+- 啟用保管庫連結保護時，任何使用 Microsoft 365 Apps 或 Teams 的使用者。
+
+> [!NOTE]
+> Office 365 E5、Microsoft 365 E5 安全性及 Microsoft 365 E5 包含適用于 Office P2 授權的 microsoft defender，而且 Microsoft 365 商務進階版包含用於 Office 365 P1 授權的 microsoft defender。
 
 ### <a name="messaging"></a>訊息
 
