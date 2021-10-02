@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的指導方針，以協助避免因未授權存取的潛在服務中斷。
-ms.openlocfilehash: 59e7714ec09b56a0e9bfb22d87d9419d991f8ee6
-ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
+ms.openlocfilehash: e889cdbfe23bbea76fcaf66596dad202be4918fd
+ms.sourcegitcommit: 0107453467d2f1b4971118273631248432d0aa28
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59986159"
+ms.lasthandoff: 10/02/2021
+ms.locfileid: "60082853"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>安全性規範的 Microsoft 365 指導方針 &amp;
 
@@ -558,21 +558,15 @@ SecOps 分析員和安全性專業人員受益于 Microsoft Defender for Endpoin
 
 Microsoft Defender for Endpoint 系統管理員可以使用以角色為基礎的存取控制 (RBAC) ，以在安全作業小組中建立角色和群組，以授與 Microsoft Defender 資訊安全中心的適當存取權。 如需詳細資訊，請參閱 [使用以角色為基礎的存取控制管理入口網站存取](/windows/security/threat-protection/microsoft-defender-atp/rbac)。
 
-## <a name="microsoft-graph-apis-for-teams-data-loss-prevention-dlp"></a>Microsoft Graph APIs Teams 資料遺失防護 (DLP) 
+## <a name="microsoft-graph-apis-for-teams-data-loss-prevention-dlp-and-for-teams-export"></a>Microsoft Graph APIs Teams 資料遺失防護 (DLP) 和 Teams 匯出
 
-此 API 可讓開發人員建立可在近乎即時聽取 Microsoft Teams 訊息的應用程式，並為客戶及 isv 啟用 DLP 案例實施。 此外，Microsoft Graph Patch API 也可將 DLP 動作套用至 Teams 郵件。
+這些 APIs 可讓開發人員建立安全性和合規性應用程式，該應用程式可以「聆聽」以近乎即時的時間 Microsoft Teams 郵件，或是在1： 1/群組聊天或 Teams 通道中匯出小組郵件。 這些 APIs 可為客戶及 Isv 啟用 DLP 及其他資訊保護和管理案例。 此外，Microsoft Graph Patch API 也可將 DLP 動作套用至 Teams 郵件。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>使用者如何從此服務獲益？
 
 [資料遺失防護 (DLP) ](/microsoft-365/compliance/dlp-microsoft-teams)功能廣泛用於 Microsoft Teams，尤其是當組織已轉向遠端工作時。 如果您的組織有 DLP，您現在可以定義原則，以防止人員在 Microsoft Teams 通道或聊天會話中共用機密資訊。
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
-
-- Microsoft 365 E5/A5/G5
-- Microsoft 365 E5/A5/G5/F5 合規性
-- Microsoft 365F5 安全性 & 合規性
-- Microsoft 365 E5/A5/G5 資訊保護和管理
-- Office 365 E5/A5/G5
+資訊保護和控管功能廣泛用於 Microsoft Teams，尤其是當組織已轉向遠端工作時。 使用[Teams 匯出 API](/microsoftteams/export-teams-content)，可以將資料匯出至協力廠商 eDiscovery 或合規性封存應用程式，以確保符合法規遵從性慣例。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
@@ -580,7 +574,9 @@ Microsoft Defender for Endpoint 系統管理員可以使用以角色為基礎的
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何只將服務套用到租用戶中已取得服務授權的使用者？
 
-Teams DLP 的 Microsoft Graph API 是租使用者層級的值。 每一位由此服務受益的使用者皆須獲得授權。
+適用于 Teams DLP 及 Teams Export 的 Microsoft Graph APIs 提供租使用者層級的值。 每一位由此服務受益的使用者皆須獲得授權。 根據新增的價值，我們會在每個授權使用者新增植入容量、每月計算，以及在租使用者層級匯總。 除了植入容量之外，應用程式擁有者將會計費以取得 API 使用。
+
+如需有關植入容量及消耗費用的詳細資訊，請參閱[存取聊天訊息 Graph 需求](/graph/teams-licenses)。
 
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 進階郵件加密
 
