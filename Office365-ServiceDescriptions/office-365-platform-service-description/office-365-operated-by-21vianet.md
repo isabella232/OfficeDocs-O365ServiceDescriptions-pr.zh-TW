@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由 21Vianet 提供的 Office 365，是設計用以滿足在中國對於安全性、可靠性和可調整性雲端服務的需求。這項服務由 Microsoft 授權給 21Vianet 的技術提供支援。
-ms.openlocfilehash: 6de0cee34692cca6106dc854060fc11b1b219cd5
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: a3c61c6d2938fe5e4f0554e82db10d719d9ee792
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671355"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088516"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由 21Vianet 運作的 Office 365
 
@@ -67,20 +67,20 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 
 | 功能 | 由世紀運作的 Microsoft 365 商務基本版 | 由世紀運作的 Microsoft 365 Apps 商務版 | 由世紀運作的 Microsoft 365 商務標準版 | 由 21Vianet 運作的 Office 365 Enterprise E1 | 由 21Vianet 運作的 Office 365 Enterprise E3 | Office 365 企業版由世紀運作的 F3 |
 |---------|---------|---------|---------|---------|---------|---------|
-| 封存 | 是 | n/a | 是 | 是 | 是 | 否 |
-| 警示原則 | 否 | n/a | 否 | 否<sup>1</sup> | 否<sup>1</sup> | 否<sup>1</sup> |
-|基本審核<sup>2</sup> | 是 | n/a | 是 | 是 | 是 | 是 |
-|內容搜尋 | 否 | n/a | 否 | 否<sup>1</sup> | 否<sup>1</sup> | 否<sup>1</sup> |
-|Exchange Online、SharePoint Online 及商務用 OneDrive 適用的資料外洩防護 | 否 | n/a | 是 | 否 | 是 | 否 |
-|電子文件探索案例 | 否 | n/a | 否 | 否<sup>1</sup> | 否<sup>1</sup> | 否<sup>1</sup> |
-|電子文件探索匯出 | 否 | n/a | 否 | 否 | 否<sup>1</sup> | 否 |
-|電子文件探索保留 (包括查詢式 電子文件探索保留) | 否 | n/a | 否 | 否 | 否<sup>1</sup> | 否 |
-|資訊管理<sup>1</sup> | 是 | n/a | 是 | 是 | 是 | 是 |
-|手動敏感度標籤 | 否 | n/a | 否 | 是 | 是 | 否 |
-|Office 365 郵件加密 (OME) 基本 | 否 | n/a | 否 | 否 | 是 | 否 |
+| 封存 | 是 | 不適用 | 是 | 是 | 是 | 否 |
+| 警示原則 | 否 | 不適用 | 否 | 否<sup>1</sup> | 否<sup>1</sup> | 否<sup>1</sup> |
+|基本審核<sup>2</sup> | 是 | 不適用 | 是 | 是 | 是 | 是 |
+|內容搜尋 | 否 | 不適用 | 否 | 是 | 是 | 是 |
+|Exchange Online、SharePoint Online 及商務用 OneDrive 適用的資料外洩防護 | 否 | 不適用 | 是 | 否 | 是 | 否 |
+|電子文件探索案例 | 否 | 不適用 | 否 | 是 | 是 | 是 |
+|電子文件探索匯出 | 否 | 不適用 | 否 | 否 | 是 | 否 |
+|電子文件探索保留 (包括查詢式 電子文件探索保留) | 否 | 不適用 | 否 | 否 | 否<sup>1</sup> | 否 |
+|資訊控管 | 是 | 不適用 | 是 | 是 | 是 | 是 |
+|手動敏感度標籤 | 否 | 不適用 | 否 | 是 | 是 | 否 |
+|Office 365 郵件加密 (OME) 基本 | 否 | 不適用 | 否 | 否 | 是 | 否 |
 
 <sup>1</sup> 可用性即將推出。</br>
-<sup>2</sup>使用 Azure Active Directory 和 Exchange 中的資料進行審計。
+<sup>2</sup>使用來自 Azure Active Directory、Exchange、DLP 和 SharePoint 的資料進行審核。
 
 > [!NOTE]
 >
@@ -1179,10 +1179,10 @@ Microsoft 365「合規性中心」可讓您輕鬆地存取所需的工具，以�
 |[管理、部署和擴充性](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|否<sup>2</sup>|是|是|否|是|
 |[快速入門](../project-online-service-description/core-services-functionality.md#getting-started)|是|是|是|否|是|
 |[問題和風險管理 (適用於小組成員)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|是|是|是|否|是|
-|[Office 365 信任中心](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|否|否|否|N/A|N/A|
+|[Office 365 信任中心](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|否|否|否|不適用|不適用|
 |[PPM 合作夥伴生態系統](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|是|是|是|否|是|
-|[服務可靠性](../project-online-service-description/core-services-functionality.md#service-reliability)|是|是|是|N/A|N/A|
-|[服務更新](../project-online-service-description/core-services-functionality.md#service-updates)|是|是|是|N/A|N/A|
+|[服務可靠性](../project-online-service-description/core-services-functionality.md#service-reliability)|是|是|是|不適用|不適用|
+|[服務更新](../project-online-service-description/core-services-functionality.md#service-updates)|是|是|是|不適用|不適用|
 |[小組成員共同作業](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|是|是|是|否|是|
 |[時間和任務管理 (適用於小組成員)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|是|是|是|否|是|
 |**專案管理**|**Project Online 21Vianet 運作的 Office 365 基本版**|**Project Online 21Vianet 運作的 Office 365 專業版**|**Project Online 21Vianet 運作的 Office 365 進階版**|**21Vianet 運作的 Project Professional 2016 for Office 365**|**21Vianet 運作的 Project Server 2016 for Office 365**|

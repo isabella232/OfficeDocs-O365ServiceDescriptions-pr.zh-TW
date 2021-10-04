@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合規性的指導方針，以協助避免因未授權存取的潛在服務中斷。
-ms.openlocfilehash: e889cdbfe23bbea76fcaf66596dad202be4918fd
-ms.sourcegitcommit: 0107453467d2f1b4971118273631248432d0aa28
+ms.openlocfilehash: 7da0766c19169e54c7377bfd7f97d34407a03658
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/02/2021
-ms.locfileid: "60082853"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088496"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>安全性規範的 Microsoft 365 指導方針 &amp;
 
@@ -567,6 +567,13 @@ Microsoft Defender for Endpoint 系統管理員可以使用以角色為基礎的
 [資料遺失防護 (DLP) ](/microsoft-365/compliance/dlp-microsoft-teams)功能廣泛用於 Microsoft Teams，尤其是當組織已轉向遠端工作時。 如果您的組織有 DLP，您現在可以定義原則，以防止人員在 Microsoft Teams 通道或聊天會話中共用機密資訊。
 
 資訊保護和控管功能廣泛用於 Microsoft Teams，尤其是當組織已轉向遠端工作時。 使用[Teams 匯出 API](/microsoftteams/export-teams-content)，可以將資料匯出至協力廠商 eDiscovery 或合規性封存應用程式，以確保符合法規遵從性慣例。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些授權可提供給使用者從服務中受益的許可權？
+
+- Microsoft 365 E5/A5
+- Microsoft 365 E5/A5 合規性
+- Microsoft 365 E5/A5 安全性
+- Microsoft 365 E5/A5 資訊保護和控管
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服務如何佈建/部署？
 
