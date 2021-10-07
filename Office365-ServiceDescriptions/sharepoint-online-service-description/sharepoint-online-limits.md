@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 了解 Microsoft 365 和獨立計畫的 SharePoint 限制。
-ms.openlocfilehash: 21034e34d483e63a474533e4c02444749e736936
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 87ef3a5a9ddf795ae8143021e054f7dd5c9d1d48
+ms.sourcegitcommit: 2464903b4632fd8ad2554f37c2646f124b3dd8c4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59669542"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60149375"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -40,14 +40,6 @@ ms.locfileid: "59669542"
   
 ## <a name="service-limits-for-all-plans"></a>所有方案的服務限制
 
-### <a name="items-in-lists-and-libraries"></a>清單和文件庫中的項目
-
-一份清單最多可有 3 千萬個項目，而一個文件庫最多可有 3 千萬個檔案和資料夾。 當清單、文件庫或資料夾包含超過 100，000 個項目時，無法中斷清單、文件庫或資料夾的權限繼承。 您也無法重新繼承權限。 不過，您仍然可以中斷清單、文件庫或資料夾內個別項目的繼承，最多可達清單或文件庫中的唯一權限數目上限 (請參閱下一節)。 若要深入了解檢視大型清單的其他限制，請參閱 [管理 Office 365 中的大型清單和文件庫](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)。
-
-### <a name="unique-security-scopes-per-list-or-library"></a>每個清單或文件庫的唯一安全性範圍
-
-針對大型清單，請設計儘可能最少的唯一權限數，並維持在總計 5,000 個以下。
-
 ### <a name="file-size-and-file-path-length"></a>檔案大小及檔案路徑長度
 
 - **250 GB - 檔案上傳限制。** 適用於每個上傳至 Microsoft Teams 檔案的個別檔案、SharePoint 文件庫、OneDrive 資料夾和 Yammer 交談。
@@ -55,6 +47,14 @@ ms.locfileid: "59669542"
 - **250 MB - 附加至清單項目的檔案。** 適用於 Microsoft 清單和 SharePoint 清單 - 兩者均以相同的清單平台為基礎。
 
 若要深入了解使用新版 Microsoft OneDrive 同步處理應用程式 (OneDrive.exe) 的規定和限制詳細資訊，請參閱 [無效的檔案名稱和檔案類型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+
+### <a name="items-in-lists-and-libraries"></a>清單和文件庫中的項目
+
+一份清單最多可有 3 千萬個項目，而一個文件庫最多可有 3 千萬個檔案和資料夾。 當清單、文件庫或資料夾包含超過 100，000 個項目時，無法中斷清單、文件庫或資料夾的權限繼承。 您也無法重新繼承其上的許可權。 不過，您仍然可以中斷清單、文件庫或資料夾內個別項目的繼承，最多可達清單或文件庫中的唯一權限數目上限 (請參閱下一節)。 若要深入了解檢視大型清單的其他限制，請參閱 [管理 Office 365 中的大型清單和文件庫](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)。
+
+### <a name="managed-metadata"></a>受管理的中繼資料
+
+總計 1 百萬個字詞，共有 2 百萬個字詞標籤和 1 百萬個字詞屬性 (這些限制是用於全域和網站層級的字詞組合)。 1,000 個全域字詞組和 1,000 個全域群組。
 
 ### <a name="moving-and-copying-across-sites"></a>在各網站間移動和複製
 
@@ -64,13 +64,9 @@ ms.locfileid: "59669542"
 - 不超過 30,000 個檔案。
 - 每個檔案須小於 15 GB。
 
-### <a name="sync"></a>同步處理
+### <a name="overall-site-metadata"></a>整體網站中繼資料
 
-為獲得最佳效能，建議您不要在單一個 OneDrive 或小組網站文件庫中儲存超過 300,000 個檔案。 雖然 SharePoint Online 每個文件庫可儲存 3 千萬份文件，為獲得最佳效能，我們建議所有文件庫中同步處理的檔案不要超過 300,000 個檔案。 此外，如果所有文件庫中有 300,000 個以上的項目要同步處理，即使您沒有同步處理這些文件庫中的所有項目，也會發生相同的效能問題。 如果您使用的是舊版 Microsoft 商務用 OneDrive 同步處理用戶端 (Groove.exe)，則每個文件庫的同步處理上限為 20,000 個項目 (每個小組網站包含 5,000 個項目)。
-
-### <a name="versions"></a>版本
-
-50,000 個主要版本和 511 個次要版本。
+每個網站 1000 GB (中繼資料很難達到此容量)。
 
 ### <a name="sharepoint-groups"></a>SharePoint 群組
 
@@ -79,24 +75,28 @@ ms.locfileid: "59669542"
 > [!NOTE]
 > 針對 Azure AD 群組限制，請參閱 [Azure AD 服務規定和限制](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions)，因為這類限制可能會影響公用和私人群組網站成員資格管理。
 
-### <a name="managed-metadata"></a>受管理的中繼資料
+### <a name="sharepoint-hosted-applications"></a>SharePoint 託管的應用程式
 
-總計 1 百萬個字詞，共有 2 百萬個字詞標籤和 1 百萬個字詞屬性 (這些限制是用於全域和網站層級的字詞組合)。 1,000 個全域字詞組和 1,000 個全域群組。
+每個組織 20,000 個執行個體。
 
-### <a name="overall-site-metadata"></a>整體網站中繼資料
+### <a name="sharepoint-workflow"></a>SharePoint 工作流程
 
-每個網站 1000 GB (中繼資料很難達到此容量)。
+SharePoint 2013 工作流程可以在設計 perpetuity 中執行（如果沒有任何結束條件或明確停止動作）。
 
 ### <a name="subsites"></a>子網站
 
 每個網站 (網站集合) 2,000 個。 我們建議您建立網站並將這些網站組織成中樞，而不是建立子網站。 如果您確實會用到子網站，我們建議您限制其數量 (特別是在高流量網站上)。
 
 > [!NOTE]
-> 貴組織限定使用 2,000 個中樞網站。 您可能不需要每個功能都有一個中樞網站，在您建立中樞網站之前務必先執行規劃。 如需詳細資料，請瀏覽 [規劃您的 SharePoint 中樞網站](/sharepoint/planning-hub-sites)。
+> 貴組織限定使用 2,000 個中樞網站。 您可能不需要每個功能的中樞網站，在建立 hub 之前請務必進行一些規劃。 如需詳細資訊，請參閱[規劃您的 SharePoint hub 網站](/sharepoint/planning-hub-sites)。
 
-### <a name="sharepoint-hosted-applications"></a>SharePoint 託管的應用程式
+### <a name="sync"></a>同步處理
 
-每個組織 20,000 個執行個體。
+為獲得最佳效能，建議您不要在單一個 OneDrive 或小組網站文件庫中儲存超過 300,000 個檔案。 雖然 SharePoint Online 每個文件庫可儲存 3 千萬份文件，為獲得最佳效能，我們建議所有文件庫中同步處理的檔案不要超過 300,000 個檔案。 此外，如果所有文件庫中有 300,000 個以上的項目要同步處理，即使您沒有同步處理這些文件庫中的所有項目，也會發生相同的效能問題。 如果您使用的是舊版 Microsoft 商務用 OneDrive 同步處理用戶端 (Groove.exe)，則每個文件庫的同步處理上限為 20,000 個項目 (每個小組網站包含 5,000 個項目)。
+
+### <a name="unique-security-scopes-per-list-or-library"></a>每個清單或文件庫的唯一安全性範圍
+
+針對大型清單，請設計儘可能最少的唯一權限數，並維持在總計 5,000 個以下。
 
 ### <a name="users"></a>使用者
 
@@ -104,6 +104,10 @@ ms.locfileid: "59669542"
 
 > [!NOTE]
 > 邀請參加 SharePoint 網站的的訪客數量沒有不同的限制。 如需外部共用的詳細資訊，請參閱 [外部共用概觀](/sharepoint/external-sharing-overview)。
+
+### <a name="versions"></a>版本
+
+50,000 個主要版本和 511 個次要版本。
 
 ## <a name="see-also"></a>另請參閱
 

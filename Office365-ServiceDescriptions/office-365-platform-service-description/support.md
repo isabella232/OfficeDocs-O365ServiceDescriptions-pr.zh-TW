@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: 透過企業、商務、教育和政府訂閱的每一種 Microsoft Office 365，Microsoft 支援服務提供全球性的技術、售前、帳單及訂閱支援。 您可以透過 Microsoft 365 系統管理中心線上，以及透過電話撥打付費和試用訂閱的支援。 如需詳細資訊，請參閱 Microsoft 支援選項。
-ms.openlocfilehash: 3ade3daebeaf3986ef0bcb6b40189a09204858e0
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 69057c5b8a8fedb4b6cde712e1d4da8e3f6ab4a9
+ms.sourcegitcommit: 2464903b4632fd8ad2554f37c2646f124b3dd8c4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670028"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60149385"
 ---
 # <a name="support"></a>支援
 
@@ -102,6 +102,10 @@ Microsoft 365 訂閱的技術支援提供基本安裝、設定及一般技術使
 ### <a name="technical-support-languages"></a>技術支援語言
 
 依地點和語言而定，大部分區域的營業時間內，支援工程師均可提供支援，某些情況下 24 小時待命。 如需詳細資訊，請參閱[國際性電話號碼](/Office365/Admin/contact-support-for-business-products)和[Microsoft 支援選項](https://products.office.com/business/office-365-for-business-support-options)。 如需另外的翻譯協助，支援工程師可直接在線上為您安排翻譯人員加入通話。
+
+## <a name="business-assist-for-microsoft-365"></a>適用於 Microsoft 365 的 Business Assist
+
+Microsoft 365 企業小幫手是針對小型企業設計的，讓您和您的員工在您發展業務 (從入職到日常使用) 時，能全天候與小型企業專家聯繫。 若要深入瞭解，請參閱[Business 協助 Microsoft 365](/microsoft-365/admin/misc/business-assist)。
   
 ## <a name="shared-support-responsibilities"></a>共用支援責任
 
